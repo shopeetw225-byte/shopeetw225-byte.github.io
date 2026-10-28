@@ -92,6 +92,11 @@ workLogFrame.addEventListener('load',()=>{
   const doc=workLogFrame.contentDocument;if(!doc)return;
   const style=doc.createElement('style');style.textContent='header.top,footer{display:none!important}main{max-width:none;padding:0 0 24px}.intro{padding:24px 0 28px}.timeline-area{padding:28px 0 20px}';doc.head.append(style);
   const base=doc.createElement('base');base.target='_top';doc.head.append(base);
+  doc.addEventListener('click',event=>{
+   const link=event.target.closest('a');if(!link)return;
+   const url=new URL(link.href,location.href),work=url.searchParams.get('work');
+   if(url.origin===location.origin&&url.pathname==='/'&&work&&data){const item=data.items.find(x=>x.id===work);if(item){event.preventDefault();open(item)}}
+  });
   const resize=()=>{workLogFrame.style.height=Math.max(600,doc.documentElement.scrollHeight)+'px'};
   new ResizeObserver(resize).observe(doc.body);resize();
  } catch (_) { workLogFrame.style.height='1000px' }
