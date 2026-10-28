@@ -6,7 +6,7 @@ let creatorCount=null;
 let data,category='宣传视频',group='平台视频',view='episodes',query='',order='desc';
 const el=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!==undefined)e.textContent=text;return e};
 const date=s=>s.replaceAll('-','.');
-function setCategory(c){category=c;group='';view='grid';render();$(c==='推广合作'?'#creator-workspace':'#collection').scrollIntoView({behavior:'smooth',block:'start'});history.replaceState(null,'',c==='推广合作'?'#creators':c==='宣传相关事项'?'#promotion-notes':c==='海外宣发平台'?'#overseas-platforms':location.pathname)}
+function setCategory(c){category=c;group='';view='grid';render();$(c==='推广合作'?'#creator-workspace':c==='工作记录'?'#work-log':'#collection').scrollIntoView({behavior:'smooth',block:'start'});history.replaceState(null,'',c==='工作记录'?'#work-log':c==='推广合作'?'#creators':c==='宣传相关事项'?'#promotion-notes':c==='海外宣发平台'?'#overseas-platforms':location.pathname)}
 function setGroup(g){group=g;view='grid';render();$('#collection').scrollIntoView({behavior:'smooth',block:'start'})}
 function setView(v){view=v;if(v==='episodes'){category='宣传视频';group='平台视频'}render()}
 function card(o){
@@ -31,10 +31,10 @@ function render(){
    const b=el('button',c===category?'active':'');b.type='button';b.setAttribute('aria-pressed',String(c===category));if(nav)b.append(el('span','nav-icon',icons[i]));b.append(el('span','',c));
    if(nav)b.append(el('span','nav-number',String(c==='推广合作'?(creatorCount??'…'):c==='全部作品'?data.items.length:data.items.filter(x=>x.category===c).length).padStart(2,'0')));b.onclick=()=>setCategory(c);buttons.push(b);
    if(nav&&c===category&&groups[c])for(const g of groups[c]){const sub=el('button','subnav'+(group===g?' active':''),g);sub.setAttribute('aria-pressed',String(group===g));sub.onclick=()=>setGroup(g);buttons.push(sub)}
-  });if(nav){const link=el('a','timeline-nav');link.href='/timeline/';link.append(el('span','nav-icon','◷'),el('span','','工作记录'),el('span','nav-number','↗'));buttons.unshift(link)}$(id).replaceChildren(...buttons);
+  });if(nav){const b=el('button',category==='工作记录'?'active':'');b.type='button';b.setAttribute('aria-pressed',String(category==='工作记录'));b.append(el('span','nav-icon','◷'),el('span','','工作记录'));b.onclick=()=>setCategory('工作记录');buttons.unshift(b)}$(id).replaceChildren(...buttons);
  }
  const back=$('#collection-back');back.hidden=category==='全部作品'&&!group;back.textContent=group?'← 返回'+category:'← 返回全部作品';
- const isCreators=category==='推广合作';$('#creator-workspace').hidden=!isCreators;$('#collection').hidden=isCreators;for(const selector of ['.intro','.hero','#stats'])$(selector).hidden=isCreators||category==='海外宣发平台';if(isCreators){$('#crumb').textContent='推广合作';return;}
+ const isCreators=category==='推广合作',isWorkLog=category==='工作记录';$('#creator-workspace').hidden=!isCreators;$('#work-log').hidden=!isWorkLog;$('#collection').hidden=isCreators||isWorkLog;for(const selector of ['.intro','.hero','#stats'])$(selector).hidden=isCreators||isWorkLog||category==='海外宣发平台';if(isWorkLog){$('#crumb').textContent='工作记录';const frame=$('#work-log-frame');if(!frame.getAttribute('src'))frame.src='/timeline/?embedded=1';return}if(isCreators){$('#crumb').textContent='推广合作';return;}
  for(const v of ['grid','timeline','episodes']){$('#'+v+'-view').classList.toggle('active',view===v);$('#'+v+'-view').setAttribute('aria-pressed',String(view===v))}
  const subgroups=groups[category]||[];$('#group-tabs').hidden=!subgroups.length;$('#group-tabs').replaceChildren(...['全部',...subgroups].map(g=>{const value=g==='全部'?'':g,b=el('button',value===group?'active':'',g);b.setAttribute('aria-pressed',String(value===group));b.onclick=()=>setGroup(value);return b}));
  const results=data.items.filter(o=>(category==='全部作品'||o.category===category)&&(!group||o.group===group)&&[o.title,o.summary,o.body,o.group,o.status,...(o.highlights||[]),...(o.links||[]).map(l=>l.platform),...o.files.map(f=>f.name)].join(' ').toLowerCase().includes(query.toLowerCase()));
@@ -80,8 +80,19 @@ $('#detail').addEventListener('click',e=>{if(e.target===$('#detail')){const r=e.
 $('#search').oninput=e=>{query=e.target.value;render()};$('#sort').onchange=e=>{order=e.target.value;render()};for(const v of ['grid','timeline','episodes'])$('#'+v+'-view').onclick=()=>setView(v);
 $('#reset').onclick=()=>{query='';$('#search').value='';render()};
 fetch('catalog.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('数据读取失败');return r.json()}).then(d=>{
- data=d;if(location.hash==='#overseas-platforms'){category='海外宣发平台';group='';view='grid';}if(location.hash==='#promotion-notes'){category='宣传相关事项';group='';view='grid';}if(['#creators','#xiaoheihe','#demo-trials'].includes(location.hash)||new URLSearchParams(location.search).has('creator')){category='推广合作';group='';view='grid';}$('#hero-image').src=d.hero;
+ data=d;if(location.hash==='#work-log'){category='工作记录';group='';view='grid';}if(location.hash==='#overseas-platforms'){category='海外宣发平台';group='';view='grid';}if(location.hash==='#promotion-notes'){category='宣传相关事项';group='';view='grid';}if(['#creators','#xiaoheihe','#demo-trials'].includes(location.hash)||new URLSearchParams(location.search).has('creator')){category='推广合作';group='';view='grid';}$('#hero-image').src=d.hero;
  $('#stats').replaceChildren(...['宣传视频','封面与视觉','Steam 公告','文案'].map((c,i)=>{const s=el('div','stat'),label=el('span','',c);label.append(el('small','',['VIDEO PROJECTS','VISUAL COLLECTIONS','STEAM NEWS','COPY & SCRIPTS'][i]));s.append(el('b','',String(d.items.filter(o=>o.category===c).length).padStart(2,'0')),label);s.role='button';s.tabIndex=0;s.onclick=()=>setCategory(c);s.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();setCategory(c)}};return s}));render();const workId=new URLSearchParams(location.search).get('work');if(workId){const item=d.items.find(x=>x.id===workId);if(item)open(item)}window.dispatchEvent(new Event('creator-workspace-ready'));
 }).catch(()=>{$('#results').textContent='作品档案暂时未能加载，请刷新页面重试。'});
 
 fetch('creators/creators.json',{cache:'no-store'}).then(r=>r.json()).then(rows=>{creatorCount=rows.length;if(data)render()}).catch(()=>{});
+
+const workLogFrame=$('#work-log-frame');
+workLogFrame.addEventListener('load',()=>{
+ try {
+  const doc=workLogFrame.contentDocument;if(!doc)return;
+  const style=doc.createElement('style');style.textContent='header.top,footer{display:none!important}main{max-width:none;padding:0 0 24px}.intro{padding:24px 0 28px}.timeline-area{padding:28px 0 20px}';doc.head.append(style);
+  const base=doc.createElement('base');base.target='_top';doc.head.append(base);
+  const resize=()=>{workLogFrame.style.height=Math.max(600,doc.documentElement.scrollHeight)+'px'};
+  new ResizeObserver(resize).observe(doc.body);resize();
+ } catch (_) { workLogFrame.style.height='1000px' }
+});
