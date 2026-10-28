@@ -1505,75 +1505,85 @@
       "id": "work-42",
       "title": "第十二期 改动篇 · 视觉素材",
       "category": "封面与视觉",
-      "date": "2026-10-27",
-      "dateBasis": "文件更新",
-      "summary": "10 张图片 · 含现存尺寸与语言版本",
+      "date": "2026-10-28",
+      "dateBasis": "定稿记录日期",
+      "summary": "第十二期新版封面：纪元地图实机画面，“重大更新！原来还能这样改”，包含五个平台与语言版本。",
       "files": [
         {
           "name": "B站封面_第12期_改动篇.jpg",
-          "url": "assets/21a975954f54.jpg",
+          "url": "assets/ea9a23969b57.jpg",
           "type": "image",
-          "source": "视频制作/封面/发平台的/第十二期 改动篇/B站封面_第12期_改动篇.jpg"
+          "source": "视频制作/封面/发平台的/第十二期 改动篇/B站封面_第12期_改动篇.jpg",
+          "sourceSha256": "753f6900dd1d9fbd83d5087de3e5d6ca60b9dc5f46c2bdd69476fb0478398a42"
         },
         {
           "name": "B站封面_第12期_改动篇.png",
-          "url": "assets/1eed655407d4.jpg",
+          "url": "assets/12cf58bfd26d.jpg",
           "type": "image",
-          "source": "视频制作/封面/发平台的/第十二期 改动篇/B站封面_第12期_改动篇.png"
+          "source": "视频制作/封面/发平台的/第十二期 改动篇/B站封面_第12期_改动篇.png",
+          "sourceSha256": "4854799685c9e3a0665e5b2f5f17d492cf5c2a80f534b93c66d103f6901c4042"
         },
         {
           "name": "小红书封面_第12期_改动篇_1080x1440.jpg",
-          "url": "assets/8f59b84770a4.jpg",
+          "url": "assets/bb09f8218c37.jpg",
           "type": "image",
-          "source": "视频制作/封面/发平台的/第十二期 改动篇/小红书封面_第12期_改动篇_1080x1440.jpg"
+          "source": "视频制作/封面/发平台的/第十二期 改动篇/小红书封面_第12期_改动篇_1080x1440.jpg",
+          "sourceSha256": "51f55e9d497352b6c2cbe7ff3c22856d08190115754db1a4fa6c361b3ac779b2"
         },
         {
           "name": "小红书封面_第12期_改动篇_1080x1440.png",
-          "url": "assets/de18ed6831b9.jpg",
+          "url": "assets/e0bec9be7057.jpg",
           "type": "image",
-          "source": "视频制作/封面/发平台的/第十二期 改动篇/小红书封面_第12期_改动篇_1080x1440.png"
+          "source": "视频制作/封面/发平台的/第十二期 改动篇/小红书封面_第12期_改动篇_1080x1440.png",
+          "sourceSha256": "0825a959aa0b38b78cfe84017ddcaae1f541df5f5111aab67e78ac400accd6f6"
         },
         {
           "name": "抖音封面_第12期_改动篇_1080x1920.jpg",
-          "url": "assets/adce158ef68a.jpg",
+          "url": "assets/7aadfbfa35fd.jpg",
           "type": "image",
-          "source": "视频制作/封面/发平台的/第十二期 改动篇/抖音封面_第12期_改动篇_1080x1920.jpg"
+          "source": "视频制作/封面/发平台的/第十二期 改动篇/抖音封面_第12期_改动篇_1080x1920.jpg",
+          "sourceSha256": "5e9261982d394ddde976bddd0a54b159a2a5c285c8b8aad81e8d9f9840afe68f"
         },
         {
           "name": "抖音封面_第12期_改动篇_1080x1920.png",
-          "url": "assets/86329d5e3bc0.jpg",
+          "url": "assets/abac394f83e0.jpg",
           "type": "image",
-          "source": "视频制作/封面/发平台的/第十二期 改动篇/抖音封面_第12期_改动篇_1080x1920.png"
+          "source": "视频制作/封面/发平台的/第十二期 改动篇/抖音封面_第12期_改动篇_1080x1920.png",
+          "sourceSha256": "046120470b0760deb6bac5b93635b4152f2f8a64db14e9163d90497034ec5f79"
         },
         {
           "name": "繁中_第12期_改动篇_封面_竖屏_1080x1920.jpg",
-          "url": "assets/990012592e6d.jpg",
+          "url": "assets/730238efdd8d.jpg",
           "type": "image",
-          "source": "视频制作/封面/发平台的/第十二期 改动篇/繁中_第12期_改动篇_封面_竖屏_1080x1920.jpg"
+          "source": "视频制作/封面/发平台的/第十二期 改动篇/繁中_第12期_改动篇_封面_竖屏_1080x1920.jpg",
+          "sourceSha256": "38786556c9179551017d089d197375748464fa3d7c2153ee9dfca0a225522517"
         },
         {
           "name": "繁中_第12期_改动篇_封面_竖屏_1080x1920.png",
-          "url": "assets/e358d0d09ce2.jpg",
+          "url": "assets/c8d2c0d5f92f.jpg",
           "type": "image",
-          "source": "视频制作/封面/发平台的/第十二期 改动篇/繁中_第12期_改动篇_封面_竖屏_1080x1920.png"
+          "source": "视频制作/封面/发平台的/第十二期 改动篇/繁中_第12期_改动篇_封面_竖屏_1080x1920.png",
+          "sourceSha256": "90c85c3faac874e311a37118e9026a66612b9fca492960dcc964348bdb2df399"
         },
         {
           "name": "英文_第12期_改动篇_封面_竖屏_1080x1920.jpg",
-          "url": "assets/53cb1fd8c1f2.jpg",
+          "url": "assets/da30f30210da.jpg",
           "type": "image",
-          "source": "视频制作/封面/发平台的/第十二期 改动篇/英文_第12期_改动篇_封面_竖屏_1080x1920.jpg"
+          "source": "视频制作/封面/发平台的/第十二期 改动篇/英文_第12期_改动篇_封面_竖屏_1080x1920.jpg",
+          "sourceSha256": "3a7b840f970dac6bb3c2660273891466353ce84e6987b4d059de0d1be8555c75"
         },
         {
           "name": "英文_第12期_改动篇_封面_竖屏_1080x1920.png",
-          "url": "assets/246810fc372b.jpg",
+          "url": "assets/c61a2fd457e8.jpg",
           "type": "image",
-          "source": "视频制作/封面/发平台的/第十二期 改动篇/英文_第12期_改动篇_封面_竖屏_1080x1920.png"
+          "source": "视频制作/封面/发平台的/第十二期 改动篇/英文_第12期_改动篇_封面_竖屏_1080x1920.png",
+          "sourceSha256": "55abe58da3ecc272e408d50e2d627d6d6ab12393ff8ec26321c567a3334ab64f"
         }
       ],
       "status": "已归档",
       "body": "",
       "source": "视频制作/封面/发平台的/第十二期 改动篇",
-      "cover": "assets/21a975954f54.jpg",
+      "cover": "assets/ea9a23969b57.jpg",
       "episode": 12,
       "group": "封面"
     },
@@ -7438,7 +7448,7 @@
           "sourceSha256": "d02f492ebd8268589465385b4aea9daf58c882196b0096917892f694479ee8d0"
         }
       ],
-      "cover": "assets/21a975954f54.jpg",
+      "cover": "assets/ea9a23969b57.jpg",
       "body": "",
       "source": "视频制作/第十二期 改动篇",
       "episode": 12,
