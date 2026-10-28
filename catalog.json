@@ -692,7 +692,7 @@
           "updated": "2026-10-27"
         }
       ],
-      "status": "已发布 · Steam 十语关联",
+      "status": "已公开 · Steam · schinese / Steam · tchinese / Steam · english / Steam · japanese / Steam · koreana / Steam · german / Steam · french / Steam · spanish / Steam · brazilian / Steam · russian",
       "body": "Steam 正式版主预告片已更新至 v25。简中和繁中分别使用对应中文成片，其余八种语言统一使用英文成片。",
       "source": "视频制作/Steam主预告片/成片/放置事务所_Steam主预告片_v25.mp4",
       "cover": "assets/ebd83e72cebe-poster.jpg",
@@ -7454,8 +7454,23 @@
       "episode": 12,
       "episodeLabel": "开发日志 12",
       "platformLinkKey": "12",
-      "links": [],
-      "status": "成片已归档",
+      "links": [
+        {
+          "platform": "X",
+          "url": "https://x.com/Feng21671868/status/2115383337842061755",
+          "date": "2026-10-28",
+          "status": "已公开",
+          "source": "2026-10-28 平台作品页核实"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://youtu.be/OErDL_bv7dQ",
+          "date": "2026-10-28",
+          "status": "已公开",
+          "source": "2026-10-28 平台作品页核实"
+        }
+      ],
+      "status": "已公开 · X / YouTube",
       "duration": 254.0,
       "detailNote": "网页提供10月28日新版简中横屏成片压缩预览；五种语言与画幅的原始成片及各平台封面保留在项目中。视频介绍的是主线开发中的内容，需等下次更新。"
     },
