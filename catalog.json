@@ -7426,16 +7426,16 @@
       "title": "第十二期 · 改动篇",
       "category": "宣传视频",
       "group": "平台视频",
-      "date": "2026-10-27",
-      "dateBasis": "台词定稿和成片文件记录日期",
-      "summary": "介绍主线中的一键升阶、栏位强化、三层地图、横版战报、补师复活和界面改动；内容仍在开发中。",
+      "date": "2026-10-28",
+      "dateBasis": "新版成片定稿记录日期",
+      "summary": "更新主线实机画面，介绍一键升阶、三层地图、推关规则、战斗小窗、职业普攻和大招音效等改动；这些内容需等下次更新。",
       "files": [
         {
           "name": "简中横屏版_第12期_改动篇.mp4",
-          "url": "assets/episode12-preview.mp4",
+          "url": "assets/episode12-preview-d02f492e-small.mp4",
           "type": "video",
           "source": "视频制作/第十二期 改动篇/成片/简中横屏版_第12期_改动篇.mp4",
-          "sourceSha256": "0aa73a990dc6ac2499e5950daa46852fb9f435f7d427979efcbf2a4dd52de7d4"
+          "sourceSha256": "d02f492ebd8268589465385b4aea9daf58c882196b0096917892f694479ee8d0"
         }
       ],
       "cover": "assets/21a975954f54.jpg",
@@ -7446,8 +7446,8 @@
       "platformLinkKey": "12",
       "links": [],
       "status": "成片已归档",
-      "duration": 200.4,
-      "detailNote": "网页提供简中横屏压缩预览；五种语言与画幅的原始成片及各平台封面保留在项目中。视频介绍的是主线开发中的内容，10月23日更新的 Demo 尚未包含这些改动。"
+      "duration": 254.0,
+      "detailNote": "网页提供10月28日新版简中横屏成片压缩预览；五种语言与画幅的原始成片及各平台封面保留在项目中。视频介绍的是主线开发中的内容，需等下次更新。"
     },
     {
       "id": "steam-store-gif-20261027-localized-titles",
