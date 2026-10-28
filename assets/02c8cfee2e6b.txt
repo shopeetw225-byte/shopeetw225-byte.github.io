@@ -1,0 +1,33 @@
+Demo-Update: Prolog überarbeitet, Kampfgrafik und Laden verbessert
+发布日期：2026-10-24 10:22（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704408827984877238?l=german
+
+Hallo zusammen, hier ist Juanmao.
+
+Die Demo hat wieder ein Update bekommen und lässt sich jetzt auf Windows und macOS kostenlos über Steam herunterladen. Diesmal ging es vor allem um drei Dinge: den Prolog, die Kampfdarstellung und Ruckler.
+
+[h2]Prolog: zwei Kämpfe, keine Entscheidungen[/h2]
+Im Prolog neuer Spielstände gibt es keine Entscheidungen mehr – es geht direkt in zwei Kämpfe. Im ersten hält das Bild kurz an, wenn jemand ein Ultimate einsetzt, und Gegner zeigen vor ihren Fähigkeiten eine Warnung. So sieht man besser, wer gleich loslegt.
+Der zweite Kampf … nun ja: Der Boss löscht mit einem einzigen Angriff die ganze Gruppe aus, und die fünf Legenden werden versprengt. Erst danach beginnt das eigentliche Tutorial.
+[img]{STEAM_CLAN_IMAGE}/46216320/fd6a5c4e8815af1e7523c099ce3bb1d0b18a9739.jpg[/img]
+
+[h2]Kampfdarstellung: besser lesbar[/h2]
+Lebens- und Moralleisten sehen jetzt aus wie Papierstreifen. Wenn ein Schild kurz vor dem Brechen steht, wird das angezeigt, und auch das Zerbrechen sieht man. Der Paladin geht jetzt in den Nahkampf und schlägt mit dem Schild zu. Die Statuseffekte wurden neu gemacht, Figuren haben einen weichen Schatten unter den Füßen, und Tooltips beim Darüberfahren sehen jetzt aus wie Pergament.
+[img]{STEAM_CLAN_IMAGE}/46216320/ea2ffdfe2d7980b3b9235902b831541cfb6224be.jpg[/img]
+
+[h2]Weniger Ruckler[/h2]
+Dieses Update verringert Ruckler beim Laden nach längerer Offline-Zeit, in späteren Kämpfen und beim Fortsetzen des Spiels.
+
+[h2]Behoben[/h2]
+[list]
+[*]Nach dem Vervollständigen eines legendären Siegels gab es keine Rückmeldung.
+[*]In der Sockelliste überdeckten Qualitätsabzeichen die Namen.
+[*]Gelegentlich wurde ein zusätzlicher Soundeffekt abgespielt.
+[*]In Bosskämpfen wurden Lebensleisten manchmal nicht angezeigt.
+[/list]
+
+Wenn sich beim Spielen etwas komisch anfühlt, schreibt es gern in die Kommentare – mit Screenshot finde ich das Problem schneller.
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+[url=https://store.steampowered.com/app/5257220/]Kostenlose Demo spielen[/url] | [url=https://store.steampowered.com/app/4855890/]Vollversion auf die Wunschliste setzen[/url]

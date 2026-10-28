@@ -1,0 +1,58 @@
+第九期 · 完整Demo介绍｜2026-10-21
+范围：B站简中横屏；抖音、小红书简中竖屏；YouTube英文配音横屏；X英文竖屏；Threads繁中竖屏。
+只上传填好并保留编辑页，不发布、不主动存草稿。封面用“第九期 完整Demo介绍”已确认的Demo来啦版本。
+
+B站标题：放置独游！完整Demo来啦！开发日志09
+B站正文：
+《放置事务所》第三版Demo已经上线Steam，免费试玩！
+这次把关卡从200关加到了800关，英雄、首领挑战、守护灵、锻造配装、要塞和学院，这期一起讲清楚。
+打架全自动，阵容你来配。不抽卡、不看广告，首领挑战打赢还能直接入队。
+欢迎玩玩看，好不好玩、哪里卡手，都可以留言告诉我。喜欢的话帮忙加个愿望单～
+Steam：https://store.steampowered.com/app/4855890/
+玩家QQ群：1079312948
+B站标签：独立游戏、放置游戏、挂机游戏、Steam、开发日志、游戏开发、放置事务所、策略游戏、Demo、自动战斗
+
+抖音标题：放置独游！完整Demo来啦！开发日志09
+抖音正文：
+《放置事务所》第三版Demo上线了，Steam免费试玩！800关、英雄和首领、守护灵、锻造配装，还有要塞和学院，这期一次介绍。
+打架全自动，阵容你来配。不抽卡、不看广告，欢迎试玩后告诉我哪里不好玩。
+Steam搜「放置事务所」，感兴趣的话加个愿望单～
+游戏群在个人主页，欢迎进群讨论。
+抖音正式话题：独立游戏、放置游戏、steam游戏、不抽卡、开发日志
+
+小红书标题：放置独游！完整Demo来啦
+小红书正文：
+我的放置独游《放置事务所》第三版Demo已经上线Steam，免费试玩！
+关卡从200关加到800关，英雄、首领挑战、守护灵、锻造配装、要塞和学院，这期带大家完整看看。
+打架全自动，阵容你来配。不抽卡、不看广告，首领挑战打赢还能直接入队。
+欢迎玩玩看，再告诉我哪里不好玩，我接着改。
+Steam搜「放置事务所」，喜欢的话帮忙加个愿望单～
+游戏群在个人主页，欢迎进群讨论。
+小红书正式话题：独立游戏、放置游戏、Steam游戏、不抽卡、开发日志
+
+YouTube title: Idle Agency — The Full Demo Is Here! | Devlog #09
+Description:
+Idle Agency's third demo update is live on Steam. Play it for free!
+Stages have grown from 200 to 800. This devlog covers heroes, boss recruitment, guardian spirits, forging, equipment builds, the fortress and the academy.
+Battles are automatic; the lineup is yours to build. No gacha, no ads. Beat a boss challenge and recruit that boss to your team.
+Give it a try and tell me what feels fun — and what doesn't. A wishlist helps a lot!
+https://store.steampowered.com/app/4855890/
+#indiegame #idlegame #Steam #gamedev #devlog
+Tags: Idle Agency,indie game,idle game,incremental game,Steam demo,devlog,game development,auto battler,strategy game,boss recruitment
+
+X:
+Idle Agency's full demo is here!
+800 stages, heroes, recruitable bosses, guardian spirits, forging & a fortress to build.
+No gacha, no ads. Try it free and tell me what isn't fun:
+https://store.steampowered.com/app/4855890/
+#indiedev #gamedev #idlegame #Steam
+
+Threads:
+放置獨遊《放置事務所》完整Demo來啦！開發日誌09
+第三版Demo已在Steam免費開放，關卡從200關加到800關。英雄、首領挑戰、守護靈、鍛造配裝、要塞和學院，這期一起介紹。
+打架全自動，陣容你來配。不抽卡、不看廣告，首領挑戰打贏還能直接入隊。
+歡迎試玩，再告訴我哪裡不好玩！Steam搜 Idle Agency，喜歡的話幫忙加個願望清單～
+https://store.steampowered.com/app/4855890/
+主題：獨立遊戲
+
+上传核对：2026-10-21，五个语言画幅文件均上传到对应六平台；中文228.78秒，英文255.1秒。B站、抖音、小红书已放已确认Demo来啦封面。YouTube不放封面；X和Threads独立视频封面入口不可用，保留原视频画面。YouTube id MWX6yTsODGM，检查完毕未见问题。全部保留编辑页面，不点击发布，不主动保存草稿。自动核对任务automation-4，2026-10-22北京时间00:00。

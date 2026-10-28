@@ -1,0 +1,95 @@
+《放置事务所》第一个预热视频 · 标题与文案（2026-10-01 初稿，未发布）
+【】里是需要补填的地方
+
+对应视频（视频制作/19秒小视频/成片/）
+  简中横屏版_开场片头_上架Steam.mp4   → B站
+  简中竖屏版_开场片头_上架Steam.mp4   → 小红书
+  英文横屏版_开场片头_上架Steam.mp4   → YouTube
+
+对应封面（视频制作/封面/发平台的/第一个预热视频/，png 与 jpg 各一份，上传用 jpg）
+  第一个预热视频_简中横屏版   1920×1080  B站
+  第一个预热视频_简中竖屏版   1080×1440  小红书（3:4）
+  第一个预热视频_英文横屏版   1920×1080  YouTube
+
+封面文字（参考《放置之路》作者封面“我的独立游戏 / 卖出2万份啦！”）
+  简中：我的独立游戏 / 上架Steam啦！
+  英文：MY INDIE GAME / IS ON STEAM!
+  主图：辉光圣堂武士的动态立绘（视频里英雄详情镜头出现过他）
+
+说法核对
+  “上架Steam”指 Steam 商店页已经上线、可以加愿望单；游戏还没有发售（商店页写着“此游戏尚未在 Steam 上推出”），
+  所以文案里不写“发售”“可以买了”“正式上线”。
+  “不抽卡”：英雄都是自己选定要谁，没有随机抽取——关卡首通必得（50 位，2–4★）、首领挑战首胜入队（26 位 5★）、
+    酒馆用传说招募券指定招募（63 位 5★）。旧稿里的“五星英雄明码标价”已经不符合当前版本，不再用。
+  “146 位英雄”：data/hero_templates.json 核对过。
+  以上规则出处见 视频制作/第一期 英雄与装备介绍/定稿说明.txt（游戏版本 0.9.0 / 提交 8e01e4b3）。
+  没有写“没有体力 / 没有每日任务”，这两点之前的发布清单里注明还要实机再确认。
+
+
+==================== B站（简中横屏版） ====================
+
+标题（定稿建议，照《放置之路》作者的固定格式“我的独立游戏《放置之路》，＋这一期的看点”）
+  我的独立游戏《放置事务所》，上架Steam啦！
+
+标题备选
+  我的独游《放置事务所》上架Steam了！不抽卡的放置游戏
+  都2026年了，还有不抽卡的放置游戏？我的独游上架Steam了
+  （第二条照 B站标题数据参考：“时间锚点 + 疑问句”在放置类视频里播放偏高；
+    同一份数据里“书名号”“开发者自述”的写法偏低，如果想试数据更好的写法就用这条）
+
+简介
+  《放置事务所》的 Steam 商店页上线啦！喜欢的话可以加个愿望单，这对独立游戏帮助很大～
+  Steam：https://store.steampowered.com/app/4855890/
+  玩家 QQ 群：【QQ群号】
+  感谢大家支持，开发动态会持续更新！
+
+标签
+  独立游戏、放置游戏、Steam、游戏开发、不抽卡、自动战斗
+
+置顶评论
+  大家平时玩放置游戏，最在意的是什么？配队、收集，还是挂机收益？评论区说说，我会认真看～
+
+
+==================== 小红书（简中竖屏版） ====================
+
+标题（20 字以内）
+  我的独立游戏上架Steam啦！
+
+标题备选
+  做了个不抽卡的放置游戏，上架Steam啦
+
+正文
+  我的独立游戏《放置事务所》Steam 商店页上线啦！🎉
+  一款不抽卡的放置游戏：
+  · 146 位英雄，想要谁自己选：关卡首通就能招人，首领打赢就归你，酒馆用招募券指定招募
+  · 战斗全自动，阵容由你研究：4×4 格子排站位，四种阵型自己选
+  · 下线也在打，上线领收益
+  现在还没发售，可以先在 Steam 搜「放置事务所」加个愿望单～
+  有什么想法欢迎评论区告诉我！
+
+话题
+  #独立游戏 #放置游戏 #Steam游戏 #游戏开发 #不抽卡
+
+
+==================== YouTube（英文横屏版） ====================
+
+Title
+  My indie game is on Steam! | Idle Agency
+
+Title 备选
+  My no-gacha idle game is now on Steam | Idle Agency
+
+Description
+  Idle Agency now has a Steam page! Wishlist it if it looks interesting — it really helps a small indie game.
+  Steam: https://store.steampowered.com/app/4855890/
+
+  An idle game with no gacha:
+  · 146 heroes, and you choose who joins — clear stages to enlist heroes, beat bosses to recruit them,
+    or pick 5★ heroes in the Tavern with recruit coupons
+  · Battles are fully automatic; you plan the lineup on a 4×4 grid with four formations
+  · Keeps fighting while you're offline
+
+  More dev updates coming. Thanks for watching!
+
+Tags
+  #indiedev #gamedev #idlegame #steam #indiegame

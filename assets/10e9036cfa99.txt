@@ -1,0 +1,18 @@
+October 8 Update | Straight Into the First Fight
+发布日期：2026-10-08 10:52（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/687519061335081730?l=english
+
+New players now go straight into Stage 1. The prologue becomes in-battle subtitles, and naming comes later. This part is still under construction, so it is not the finished version yet.
+
+Defeat guidance has changed too: advancement is folded into the upgrade step, and each step appears at most once per defeat. Repeated and skipped prompts are fixed, but I have not finished validating this part yet.
+
+A few more things: group upgrades and advancement need one preview and one confirmation. Recommended lineups keep damage dealers and a healer. The map separates missing heroes from heroes obtainable through idling. Explicit challenges go to the front line instead of sending you back to farm. The demo has a wrap-up page for results, wishlisting, or playing on. The download is smaller too, with static portraits in the demo.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/82ff2f111eed1676ddfcb3d56191a84506949f0c.png[/img]
+[i]Formation interface overview.[/i]
+
+One last reminder: [b]demo saves do not carry over to the full game. You will start fresh.[/b]
+
+Got a suggestion or a problem? Tell me in the [url=https://steamcommunity.com/app/4855890/discussions/]Steam Discussions[/url]. I read your feedback.
+
+If you like the game, [url=https://store.steampowered.com/app/4855890/]add it to your wishlist[/url].

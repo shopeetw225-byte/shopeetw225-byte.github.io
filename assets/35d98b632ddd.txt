@@ -1,0 +1,45 @@
+Demo-Update: neue Kampfeffekte und ein Eröffnungskampf für neue Spielstände
+发布日期：2026-10-22（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704408827984875584?l=german
+
+Hallo zusammen, hier ist Juanmao.
+
+Nach dem Start der dritten Demo meinten einige von euch, die Kämpfe sähen etwas schlicht aus. Andere wollten sich nicht ständig von den Hilfetipps antreiben lassen. Genau das habe ich mir als Erstes vorgenommen. Das Update ist ab sofort auf Steam spielbar.
+
+[h2]Kämpfe sehen endlich nicht mehr alle gleich aus[/h2]
+
+Alle zwölf Klassen haben jetzt eigene Treffereffekte, und auch die Normalangriffe unterscheiden sich deutlicher. Schwerter, Speere, Bögen und Fäuste klingen beim Treffer nicht mehr gleich. Als noch alle auf dieselbe Weise zuschlugen, war mir das beim Zuschauen selbst ein bisschen peinlich.
+
+Bei der Gelegenheit habe ich auch die Ultimates angepasst: Die Nahaufnahme mit Banner läuft nur noch bei 1×-Tempo. Bei 2× und 4× gibt es eine kürzere Version, damit der Kampf nicht ständig unterbrochen wird. Außerdem wird die Musik bei Ultimates nicht mehr leiser gedreht.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/00c554f20e41967f653456e5e80337b51cf56e53.jpg[/img]
+
+[h2]Neue Spielstände starten mit einem Eröffnungskampf[/h2]
+
+Wer neu anfängt, spielt zuerst einen Prolog: Aufstellung festlegen, nach der Aufklärung eine Entscheidung treffen, kämpfen – erst dann geht es zu Etappe 1. Immer noch besser, als direkt vor einem Bildschirm voller Knöpfe zu sitzen.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/150fca38197ddc002589a4c8633bf3706ab713f2.jpg[/img]
+
+[h2]Hilfetipps nur, wenn ihr sie wollt[/h2]
+
+Nach dem Prolog fragt das Spiel, ob ihr die Hilfetipps einschalten wollt. Unter „Optionen“ könnt ihr das jederzeit ändern. Hinweise verdunkeln jetzt den Bildschirm und heben nur das Ziel hervor: Mit „Los“ folgt ihr ihnen, mit „Überspringen“ blendet ihr sie aus. Die zwei Schritte, die euch immer wieder zur „Auto-Aufstellung“ und zum Verstärken des ganzen Trupps gedrängt haben, sind ebenfalls weg.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/17781bfa285815f72ae0c344b3470e9095e36288.jpg[/img]
+
+[h2]Vor der Etappenwahl sehen, was droppt[/h2]
+
+Wenn ihr auf der Feldzugkarte eine Etappe auswählt, erscheint jetzt eine Karte „Mögliche Beute“. Heldenmarken, Ausrüstung und was ihr davon schon besitzt, seht ihr, bevor ihr reingeht. Aufgeklappt zeigt sie Sammelfortschritt, Dropchancen und Garantie; klickt ihr auf eine Heldenkarte, seht ihr Werte und Fähigkeiten. Wen ihr farmen wollt, lässt sich jetzt endlich planen.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/1f8f43bcb0851719d844328b480d5399b6d8320e.jpg[/img]
+
+[h2]Zehn Sprachen und ein paar kleinere Änderungen[/h2]
+
+Zur Wahl stehen jetzt vereinfachtes Chinesisch, traditionelles Chinesisch, Englisch, Japanisch, Koreanisch, Russisch, Französisch, Deutsch, Spanisch (Lateinamerika) und brasilianisches Portugiesisch.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/9ee55d10d29a93827ba1708818b116c14892f8c1.jpg[/img]
+
+Ruckler beim Betreten der Festung, beim Blättern im späteren Spielverlauf und beim Wechseln der Fähigkeitsseiten im Kodex wurden reduziert. 19 legendäre Ausrüstungsteile haben neue Namen, und das Werte-Diagramm der Helden klappt beim Wechseln jetzt animiert auf.
+
+Wenn sich beim Spielen etwas komisch anfühlt, schreibt es gern in die Kommentare – am besten mit Screenshot, dann finde ich das Problem schneller.
+
+[url=https://store.steampowered.com/app/5257220/]Kostenlose Demo spielen[/url] | [url=https://store.steampowered.com/app/4855890/]Vollversion auf die Wunschliste setzen[/url]. Danke euch!
