@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-27",
+  "bilibili_sent": 20,
+  "youtube_email_sent": 0,
+  "bilibili": [
+    {
+      "name": "蓝鲸泽维尔",
+      "url": "https://space.bilibili.com/382309418",
+      "status": "sent",
+      "verified_at": "2026-10-27T09:00:00+08:00"
+    },
+    {
+      "name": "超时次的仓白鼠",
+      "url": "https://space.bilibili.com/30863601",
+      "status": "sent",
+      "verified_at": "2026-10-27T09:01:00+08:00"
+    },
+    {
+      "name": "1剑三年",
+      "url": "https://space.bilibili.com/372781926",
+      "status": "sent",
+      "verified_at": "2026-10-27T09:02:00+08:00"
+    },
+    {
+      "name": "bili_4754229",
+      "url": "https://space.bilibili.com/4754229",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:02:00+08:00"
+    },
+    {
+      "name": "炸酱面加不加炸酱",
+      "url": "https://space.bilibili.com/697368348",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:06:00+08:00"
+    },
+    {
+      "name": "果冻PETIT",
+      "url": "https://space.bilibili.com/21443476",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:10:00+08:00"
+    },
+    {
+      "name": "路过的芒果摊",
+      "url": "https://space.bilibili.com/31737958",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:27:00+08:00"
+    },
+    {
+      "name": "大大大魔王Don",
+      "url": "https://space.bilibili.com/82570541",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:28:00+08:00"
+    },
+    {
+      "name": "吴鸽不理解",
+      "url": "https://space.bilibili.com/1561515",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:30:00+08:00"
+    },
+    {
+      "name": "叫我无能君",
+      "url": "https://space.bilibili.com/8670079",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:34:00+08:00"
+    },
+    {
+      "name": "昆兰叔",
+      "url": "https://space.bilibili.com/381774564",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:37:00+08:00"
+    },
+    {
+      "name": "简称AA",
+      "url": "https://space.bilibili.com/367683937",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:38:00+08:00"
+    },
+    {
+      "name": "莫高雷烈酒",
+      "url": "https://space.bilibili.com/13874065",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:40:00+08:00"
+    },
+    {
+      "name": "Sougein",
+      "url": "https://space.bilibili.com/13068479",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:41:00+08:00"
+    },
+    {
+      "name": "天真美少女s",
+      "url": "https://space.bilibili.com/347724150",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:43:00+08:00"
+    },
+    {
+      "name": "策略君脱哥",
+      "url": "https://space.bilibili.com/101653196",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:45:00+08:00"
+    },
+    {
+      "name": "大太阳pika",
+      "url": "https://space.bilibili.com/15589937",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:46:00+08:00"
+    },
+    {
+      "name": "游浪白",
+      "url": "https://space.bilibili.com/164858506",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:49:00+08:00"
+    },
+    {
+      "name": "Moupflowers",
+      "url": "https://space.bilibili.com/30644215",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:50:00+08:00"
+    },
+    {
+      "name": "イチゴ兎",
+      "url": "https://space.bilibili.com/1290272",
+      "status": "sent",
+      "verified_at": "2026-10-27T10:52:00+08:00"
+    }
+  ],
+  "note": "已发送只表示B站客户端会话确认发出，不表示对方已读、同意试玩或承诺发布。"
+}

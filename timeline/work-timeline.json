@@ -1,0 +1,433 @@
+{
+  "title": "工作记录",
+  "source_note": "根据现有作品归档、Steam 公告和项目工作记录整理；日期依据随每条标注。仅覆盖目前能找到的资料，未记录的日期不推测。",
+  "events": [
+    {
+      "date": "2026-10-13",
+      "category": "推广合作",
+      "text": "整理国内与海外创作者名单及邀请稿，建立推广合作工作台。",
+      "url": "/#creators"
+    },
+    {
+      "date": "2026-10-14",
+      "category": "视频制作",
+      "text": "整理第七期锻造篇，同时分别保存回复评论系列；继续核对国内、海外与小黑盒候选。",
+      "url": "/?work=work-7-forging"
+    },
+    {
+      "date": "2026-10-15",
+      "category": "宣传与合作",
+      "text": "筛选小黑盒游戏推荐号、核对海外商务联系方式，并记录创作者报价和反馈。",
+      "url": "/#creators"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "宣传与合作",
+      "text": "向15位海外创作者发送 Demo 邀请；继续研究合适的创作者和合作方案。",
+      "url": "/#demo-trials"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "Steam 商店",
+      "text": "将正式版和 Demo 的商店封面恢复为原版画面，保留历史封面记录。",
+      "url": "/?work=steam-covers-restored-20261016"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "Demo 公告",
+      "text": "发布第三版 Demo 预告，介绍 800 关、新英雄与守护灵，并准备第八期视频。",
+      "url": "/?work=steam-760703279879422585"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "视频制作",
+      "text": "整理并发布“挂着也能打爆首领？”的实机短片，准备免费试玩邀请。",
+      "url": "/?work=short-idle-boss"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "宣传与合作",
+      "text": "整理 B站和小黑盒的合作计划、预算与可能的达标奖励。",
+      "url": "/creators/budget-plan-20261016.html"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "Steam 商店",
+      "text": "制作并发布十种语言的商店封面，继续完善第九期 Demo 介绍。",
+      "url": "/?work=steam-figma-localized-titles-20261021"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "Demo 更新",
+      "text": "更新 Demo 的开场战、战斗特效与音效，发布对应公告和第十期视频。",
+      "url": "/?work=steam-704408827984875584"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "试玩邀请",
+      "text": "向20位 B站创作者送达免费试玩邀请；遇到平台限流后停止。",
+      "url": "/#demo-trials"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "试玩邀请",
+      "text": "B站确认发出20条试玩邀请，海外确认发出4封邮件；限流消息未算作送达。",
+      "url": "/creators/creator-outreach-20261023.html"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "Steam 商店",
+      "text": "从新版正式版重新录制并发布十组实机详情动图，核对十种语言页面。",
+      "url": "/?work=steam-store-gif-20261023-v24"
+    },
+    {
+      "date": "2026-10-24",
+      "category": "视频制作",
+      "text": "完成并发布第十一期更新篇，整理六平台的公开作品链接。",
+      "url": "/?work=episode11-update"
+    },
+    {
+      "date": "2026-10-24",
+      "category": "Steam 商店",
+      "text": "更新三语主预告片，补入离线结算、装备揭晓和新版实机画面。",
+      "url": "/?work=steam-main-trailer"
+    },
+    {
+      "date": "2026-10-24",
+      "category": "Demo 更新",
+      "text": "发布序章重做、战斗画面与载入体验优化的 Demo 更新公告。",
+      "url": "/?work=steam-704408827984877238"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "宣传与合作",
+      "text": "确认新增9位小黑盒合作作者，整理基础稿费与可能的激励奖金。",
+      "url": "/creators/budget-plan-20261016.html"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "Steam 美术",
+      "text": "为已有10条 Steam 公告制作新的插画封面，中文和英文各10张，用于替换原公告封面；成图已归档。",
+      "url": "/?work=steam-announcement-covers-20261026"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "海外宣发",
+      "text": "提交 Keymailer / Partnier 免费注册和 PressEngine Starter 申请，等待核实审核结果。",
+      "url": "/#overseas-platforms"
+    },
+    {
+      "date": "2026-10-27",
+      "category": "试玩邀请",
+      "text": "B站确认送达20位创作者的免费 Demo 试玩邀请；已发送不代表已读或同意。",
+      "url": "/creators/creator-outreach-20261027.html",
+      "people": [
+        {
+          "name": "蓝鲸泽维尔",
+          "url": "/?creator=%E8%93%9D%E9%B2%B8%E6%B3%BD%E7%BB%B4%E5%B0%94#creators"
+        },
+        {
+          "name": "超时次的仓白鼠",
+          "url": "/?creator=%E8%B6%85%E6%97%B6%E6%AC%A1%E7%9A%84%E4%BB%93%E7%99%BD%E9%BC%A0#creators"
+        },
+        {
+          "name": "1剑三年",
+          "url": "/?creator=1%E5%89%91%E4%B8%89%E5%B9%B4#creators"
+        },
+        {
+          "name": "bili_4754229",
+          "url": "/?creator=bili_4754229#creators"
+        },
+        {
+          "name": "炸酱面加不加炸酱",
+          "url": "/?creator=%E7%82%B8%E9%85%B1%E9%9D%A2%E5%8A%A0%E4%B8%8D%E5%8A%A0%E7%82%B8%E9%85%B1#creators"
+        },
+        {
+          "name": "果冻PETIT",
+          "url": "/?creator=%E6%9E%9C%E5%86%BBPETIT#creators"
+        },
+        {
+          "name": "路过的芒果摊",
+          "url": "/?creator=%E8%B7%AF%E8%BF%87%E7%9A%84%E8%8A%92%E6%9E%9C%E6%91%8A#creators"
+        },
+        {
+          "name": "大大大魔王Don",
+          "url": "/?creator=%E5%A4%A7%E5%A4%A7%E5%A4%A7%E9%AD%94%E7%8E%8BDon#creators"
+        },
+        {
+          "name": "吴鸽不理解",
+          "url": "/?creator=%E5%90%B4%E9%B8%BD%E4%B8%8D%E7%90%86%E8%A7%A3#creators"
+        },
+        {
+          "name": "叫我无能君",
+          "url": "/?creator=%E5%8F%AB%E6%88%91%E6%97%A0%E8%83%BD%E5%90%9B#creators"
+        },
+        {
+          "name": "昆兰叔",
+          "url": "/creators/creator-outreach-20261027.html#bili-381774564"
+        },
+        {
+          "name": "简称AA",
+          "url": "/creators/creator-outreach-20261027.html#bili-367683937"
+        },
+        {
+          "name": "莫高雷烈酒",
+          "url": "/creators/creator-outreach-20261027.html#bili-13874065"
+        },
+        {
+          "name": "Sougein",
+          "url": "/creators/creator-outreach-20261027.html#bili-13068479"
+        },
+        {
+          "name": "天真美少女s",
+          "url": "/creators/creator-outreach-20261027.html#bili-347724150"
+        },
+        {
+          "name": "策略君脱哥",
+          "url": "/creators/creator-outreach-20261027.html#bili-101653196"
+        },
+        {
+          "name": "大太阳pika",
+          "url": "/creators/creator-outreach-20261027.html#bili-15589937"
+        },
+        {
+          "name": "游浪白",
+          "url": "/creators/creator-outreach-20261027.html#bili-164858506"
+        },
+        {
+          "name": "Moupflowers",
+          "url": "/creators/creator-outreach-20261027.html#bili-30644215"
+        },
+        {
+          "name": "イチゴ兎",
+          "url": "/creators/creator-outreach-20261027.html#bili-1290272"
+        }
+      ],
+      "people_note": "已建个人详情的可直接查看；其余链接指向当日邀请记录中的对应姓名。"
+    },
+    {
+      "date": "2026-10-27",
+      "category": "宣传与合作",
+      "text": "核实并整理醒清梦和裂kaii的小黑盒测评链接，更新合作记录。",
+      "url": "/creators/budget-plan-20261016.html"
+    },
+    {
+      "date": "2026-10-27",
+      "category": "Steam 公告",
+      "text": "发布十种语言的开发进度公告，介绍征途三层地图、酒馆招募和一键升阶等主线改动，并使用第11组中英文公告封面；这些改动尚未进入当前 Demo。",
+      "url": "/?work=steam-704408827984878187"
+    },
+    {
+      "date": "2026-10-03",
+      "start_date": "2026-09-29",
+      "category": "Steam 预告片",
+      "text": "设计分镜、录制实机并多轮剪辑 Steam 主预告片，完成简中、繁中和英文三版 v20。",
+      "url": "/?work=work-104"
+    },
+    {
+      "date": "2026-10-05",
+      "start_date": "2026-09-30",
+      "category": "封面制作",
+      "text": "为第一期等视频反复设计封面，确定以游戏角色、卖点和平台对应尺寸为主的系列做法。",
+      "url": "/?work=work-105"
+    },
+    {
+      "date": "2026-10-05",
+      "start_date": "2026-10-02",
+      "category": "视频制作",
+      "text": "制作第四期离线篇：整理实机镜头、口语文案、配音和多平台成片。",
+      "url": "/?work=work-107"
+    },
+    {
+      "date": "2026-10-05",
+      "category": "视频制作",
+      "text": "继续修改第五期的画面、口语台词和配音，核对字幕与成片节奏。",
+      "url": "/?work=work-106"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "素材整理",
+      "text": "将封面整理为平台、Steam 和公告三个文件夹，并核对网站素材索引。"
+    },
+    {
+      "date": "2026-10-27",
+      "category": "Steam 美术",
+      "text": "在此前10条公告封面的基础上，补入第11条开发进度公告的中英文封面；网站共归档22张。",
+      "url": "/?work=steam-announcement-covers-20261026"
+    },
+    {
+      "date": "2026-10-27",
+      "category": "宣传发布",
+      "text": "发布小黑盒 Demo 更新图文，并向平台追问热点推荐的申请方式。"
+    },
+    {
+      "date": "2026-10-13",
+      "category": "Steam 详情页",
+      "text": "更新正式版与 Demo 商品页的宣传图、截图和详情页，核对简中、繁中及英文。",
+      "url": "/?work=work-110"
+    },
+    {
+      "date": "2026-10-14",
+      "category": "素材整理",
+      "text": "整理13个视频项目，将每期材料分为成片和其他文件，保留原有素材结构。"
+    },
+    {
+      "date": "2026-10-15",
+      "category": "Steam 封面",
+      "text": "将正式版与 Demo 的三语商店封面更新为白底 Q 版；次日恢复原版，旧版文件已移除。"
+    },
+    {
+      "date": "2026-10-24",
+      "category": "Steam 详情页",
+      "text": "把详情页动图改为加载 Steam 图片库中的原始 GIF，替换此前容易转成视频的素材引用；十种语言页面各保留10张动图。",
+      "url": "/?work=steam-store-gif-20261024-v24f"
+    },
+    {
+      "date": "2026-10-27",
+      "category": "Steam 详情页",
+      "text": "制作并调整详情页标题素材：简中和繁中各10张，加入金色文字扫光，准备替换详情页相关画面；具体替换及公开上线状态待核。"
+    },
+    {
+      "date": "2026-10-27",
+      "category": "视频制作",
+      "text": "制作第十二期改动篇的五个成片版本及平台封面，介绍一键升阶、三层地图、横版战报等主线开发内容。",
+      "url": "/?work=episode12-changes"
+    },
+    {
+      "date": "2026-10-27",
+      "category": "Steam 商品页",
+      "text": "将正式版商店主预告片从 v24 替换为 v25，简体和繁体中文分别使用对应中文成片，其余八种语言使用英文成片；已发布并核对十语公开页面。",
+      "url": "/?work=steam-main-trailer"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "Steam 商品页",
+      "text": "将正式版商店十种语言的动态标题调整为 780×126 透明居中画布，替换此前标题画布；核对十语公开正文和图片顺序，以及 130 张不同的 GIF。实机动图保持原样。",
+      "url": "/?work=steam-store-gif-20261027-localized-titles"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "试玩邀请",
+      "text": "在 B站 App 核对创作者并确认向 20 位送达免费 Demo 试玩邀请；撤回及未成功的消息未计入。已发送不代表已读或同意。",
+      "url": "/creators/creator-outreach-20261028.html",
+      "people": [
+        {
+          "name": "四达叔",
+          "url": "/creators/creator-outreach-20261028.html#bili-35797789"
+        },
+        {
+          "name": "蜮耳yuerear",
+          "url": "/creators/creator-outreach-20261028.html#bili-952636"
+        },
+        {
+          "name": "二喵二汪",
+          "url": "/creators/creator-outreach-20261028.html#bili-298591899"
+        },
+        {
+          "name": "畅小艾",
+          "url": "/creators/creator-outreach-20261028.html#bili-327620344"
+        },
+        {
+          "name": "泠清貌",
+          "url": "/creators/creator-outreach-20261028.html#bili-2781547"
+        },
+        {
+          "name": "DrzM",
+          "url": "/creators/creator-outreach-20261028.html#bili-1605471"
+        },
+        {
+          "name": "进击的郭大明",
+          "url": "/creators/creator-outreach-20261028.html#bili-28526255"
+        },
+        {
+          "name": "嘿_瑞戈",
+          "url": "/creators/creator-outreach-20261028.html#bili-243840390"
+        },
+        {
+          "name": "狂界Carzzy",
+          "url": "/creators/creator-outreach-20261028.html#bili-166828089"
+        },
+        {
+          "name": "星云号",
+          "url": "/creators/creator-outreach-20261028.html#bili-101576324"
+        },
+        {
+          "name": "传播正能量壁鱼",
+          "url": "/creators/creator-outreach-20261028.html#bili-41958039"
+        },
+        {
+          "name": "心心又危危",
+          "url": "/creators/creator-outreach-20261028.html#bili-17143576"
+        },
+        {
+          "name": "喜欢纳垢灵的胖叔叔",
+          "url": "/creators/creator-outreach-20261028.html#bili-2213688"
+        },
+        {
+          "name": "不爱吃坚果",
+          "url": "/creators/creator-outreach-20261028.html#bili-1896685"
+        },
+        {
+          "name": "cookoocooky1",
+          "url": "/creators/creator-outreach-20261028.html#bili-11883793"
+        },
+        {
+          "name": "头套哥x",
+          "url": "/creators/creator-outreach-20261028.html#bili-128480809"
+        },
+        {
+          "name": "爱摸鱼的k狗",
+          "url": "/creators/creator-outreach-20261028.html#bili-39344986"
+        },
+        {
+          "name": "雨宫奈月",
+          "url": "/creators/creator-outreach-20261028.html#bili-105793806"
+        },
+        {
+          "name": "帕布里斯村长",
+          "url": "/creators/creator-outreach-20261028.html#bili-1125749263"
+        },
+        {
+          "name": "手残的MCX",
+          "url": "/creators/creator-outreach-20261028.html#bili-6569199"
+        }
+      ],
+      "people_note": "仅记录平台界面核实送达；不表示已读、同意或达成合作。海外本日新增已核实发送为0。"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "海外宣发",
+      "text": "Keymailer / Partnier 账号审核通过并完成邮箱验证；建立 Idle Agency Demo 试玩活动，在公开游戏介绍加入免费 Demo 入口和试玩说明，关闭 Key 申请。",
+      "url": "/?work=overseas-platform-partnier"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "海外宣发",
+      "text": "收到 PressEngine 回复，已回信确认使用免费账号并请平台发送邀请；等待邀请，账号是否开通尚待核实。",
+      "url": "/?work=overseas-platform-pressengine"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "Steam 商品页",
+      "text": "正式版商店修订59：将十语动态标题由此前 780×126 标题画布换为游戏标题风格的金色扫光字体与 780×82 透明居中画布，并在介绍文字与实机 GIF 之间增加空行；简中、繁中各用对应实机图，其余八语用英文。十语公开页面及动图已核对。",
+      "url": "/?work=steam-store-gif-20261027-localized-titles"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "海外宣发",
+      "text": "研究 Discord 公告频道的视频发布方式，早先浏览器连接受阻；随后找到工作室 #news 频道并分享第十一期 YouTube 视频。此前误发的第1至第5期链接已按用户要求删除，第十一期及一条链接混乱的消息仍保留。",
+      "url": "/?work=episode11-update"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "Steam 标题制作",
+      "text": "制作十种语言共100张 780×96 动态标题，拟替换修订59的 780×82 标题，保留正文、空行与实机动图；Claude 已核对尺寸、96帧、居中和字形。Steam 图片库上传首张遇 HTTP 503，尚未成功上传，也未改商店草稿或发布；公开版本仍为修订59。按最新安排，10月29日再尝试续传。",
+      "url": "/?work=steam-store-gif-20261027-localized-titles"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "作品网页",
+      "text": "检查作品网页的公开访问并尝试制作免费备用站点；当前网络访问原站遇到拦截，备用站上传因连接 GitHub 超时尚未开始，也未发布。曾准备的临时副本已不在，原网站文件仍保留。"
+    }
+  ]
+}

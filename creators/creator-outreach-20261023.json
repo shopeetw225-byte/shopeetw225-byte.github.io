@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-23",
+  "bilibili_sent": 20,
+  "bilibili_blocked_not_sent": 1,
+  "youtube_email_sent": 4,
+  "limit_message": "给陌生人发消息过于频繁，请明天再试吧",
+  "bilibili": [
+    {
+      "name": "北方小木",
+      "url": "https://space.bilibili.com/515894416",
+      "status": "sent",
+      "verified_at": "2026-10-23 10:12 Asia/Shanghai"
+    },
+    {
+      "name": "夜神末路",
+      "url": "https://space.bilibili.com/110136248",
+      "status": "sent",
+      "verified_at": "2026-10-23 10:13 Asia/Shanghai"
+    },
+    {
+      "name": "竹声声声",
+      "url": "https://space.bilibili.com/5508366",
+      "status": "sent",
+      "verified_at": "2026-10-23 10:17 Asia/Shanghai"
+    },
+    {
+      "name": "爽游张三",
+      "url": "https://space.bilibili.com/378990989",
+      "status": "sent",
+      "verified_at": "2026-10-23 10:18 Asia/Shanghai"
+    },
+    {
+      "name": "袅袅要睡大觉",
+      "url": "https://space.bilibili.com/401809164",
+      "status": "sent",
+      "verified_at": "2026-10-23 10:20 Asia/Shanghai"
+    },
+    {
+      "name": "steam每日新游",
+      "url": "https://space.bilibili.com/3546584992188936",
+      "status": "sent",
+      "verified_at": "2026-10-23 10:22 Asia/Shanghai"
+    },
+    {
+      "name": "苏安安Susanne",
+      "url": "https://space.bilibili.com/9463690",
+      "status": "sent",
+      "verified_at": "2026-10-23 10:24 Asia/Shanghai"
+    },
+    {
+      "name": "夜之城V斯克",
+      "url": "https://space.bilibili.com/3707016776255594",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:22 Asia/Shanghai"
+    },
+    {
+      "name": "龙龙我是龙龙",
+      "url": "https://space.bilibili.com/353323403",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:23 Asia/Shanghai"
+    },
+    {
+      "name": "山水天昕",
+      "url": "https://space.bilibili.com/6679950",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:24 Asia/Shanghai"
+    },
+    {
+      "name": "白河愁ACE",
+      "url": "https://space.bilibili.com/35821",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:26 Asia/Shanghai"
+    },
+    {
+      "name": "懒懒的白胖呀",
+      "url": "https://space.bilibili.com/478082943",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:27 Asia/Shanghai"
+    },
+    {
+      "name": "Ash煤",
+      "url": "https://space.bilibili.com/2086391",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:28 Asia/Shanghai"
+    },
+    {
+      "name": "吟风飞舞",
+      "url": "https://space.bilibili.com/1676266623",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:29 Asia/Shanghai"
+    },
+    {
+      "name": "黎兰铃lll",
+      "url": "https://space.bilibili.com/1986073262",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:33 Asia/Shanghai"
+    },
+    {
+      "name": "跛腿骑士",
+      "url": "https://space.bilibili.com/23546697",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:35 Asia/Shanghai"
+    },
+    {
+      "name": "小米米沙",
+      "url": "https://space.bilibili.com/78507973",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:36 Asia/Shanghai"
+    },
+    {
+      "name": "Lurk名彻",
+      "url": "https://space.bilibili.com/191036304",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:37 Asia/Shanghai"
+    },
+    {
+      "name": "海拉鲁向阳小草",
+      "url": "https://space.bilibili.com/32936210",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:39 Asia/Shanghai"
+    },
+    {
+      "name": "橘花兔",
+      "url": "https://space.bilibili.com/13180531",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:41 Asia/Shanghai"
+    },
+    {
+      "name": "搬的奶",
+      "url": "https://space.bilibili.com/3706961281419799",
+      "status": "blocked_not_sent",
+      "verified_at": "2026-10-23 11:43 Asia/Shanghai"
+    }
+  ],
+  "youtube": [
+    {
+      "name": "ItsZebraTV",
+      "url": "https://www.youtube.com/@ItsZebraTV",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:49 Asia/Shanghai"
+    },
+    {
+      "name": "Dendera Indie Games",
+      "url": "https://www.youtube.com/@denderagames",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:49 Asia/Shanghai"
+    },
+    {
+      "name": "Game-Wisdom / Josh Bycer",
+      "url": "https://www.youtube.com/@GameWisdom",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:52 Asia/Shanghai"
+    },
+    {
+      "name": "Play2It",
+      "url": "https://www.youtube.com/@play2it",
+      "status": "sent",
+      "verified_at": "2026-10-23 11:54 Asia/Shanghai"
+    }
+  ],
+  "note": "已发送仅表示界面确认发出，不表示已读、接受试玩或发布内容。"
+}
