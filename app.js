@@ -4,6 +4,8 @@ const icons=['▦','▷','▧','◷','✎','☷','☑','◎','↗'];
 const groups={'宣传视频':['平台视频','Steam 视频','转场视频'],'封面与视觉':['公告封面','视频封面','Steam 商店封面','详情页图片','宣传图'],'文案':['Steam 文案','平台文案']};
 function classifyCover(item){if(item.category!=='封面与视觉'||item.group!=='封面')return;const source=item.source||'',title=item.title||'';item.group=source.includes('/公告的/')||title.includes('公告封面')?'公告封面':source.includes('视频制作/封面/发平台的/')?'视频封面':'Steam 商店封面'}
 function announcementCoverCards(item){if(item.category!=='封面与视觉'||item.group!=='公告封面')return [item];return item.files.filter(f=>f.type==='image').map((f,i)=>{const parts=f.name.split(' · '),title=parts.length>1?'公告 '+parts[0]+' · '+parts[1]:item.title+' · '+f.name.replace(/\.(png|jpe?g|webp)$/i,'');return {...item,id:item.id+'-image-'+i,title,date:parts[0]==='11'?'2026-10-27':item.date,status:f.announcementUrl?'已发布 · 对应公告':item.status,cover:f.url,files:[f],summary:'点击查看大图'+(f.announcementUrl?'及对应公告。':'。'),links:f.announcementUrl?[{platform:'对应 Steam 公告',url:f.announcementUrl,status:'查看公告'}]:[],body:'',coverCollectionId:item.id}})}
+function coverLanguage(o){const name=o.files[0]?.name||'';return /english|英文/i.test(name)?'英文':/tchinese|繁中|繁體/i.test(name)&&!/简中／繁中/.test(name)?'繁体中文':/schinese|中文/i.test(name)?'中文':'其他语言'}
+function appendCoverLanguages(target,items){for(const language of ['中文','繁体中文','英文','其他语言']){const list=items.filter(o=>coverLanguage(o)===language);if(!list.length)continue;const section=el('section','work-group'),heading=el('h3','group-title',language+' ');heading.append(el('span','',String(list.length).padStart(2,'0')));const grid=el('div','grid');grid.append(...list.map(card));section.append(heading,grid);target.append(section)}}
 let creatorCount=null;
 let data,category='宣传视频',group='平台视频',view='episodes',query='',order='desc';
 const el=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!==undefined)e.textContent=text;return e};
@@ -46,9 +48,11 @@ function render(){
  $('#collection-title').replaceChildren(document.createTextNode(title+' '),el('span','',String(results.length).padStart(2,'0')));$('#crumb').textContent=title;$('#sort').hidden=view==='episodes';
  $('#collection-note').textContent=category==='海外宣发平台'?'已选 2 个免费方案 · 当前支出 0 元 · 点击卡片查看官方入口与申请进度。':category==='宣传相关事项'?'宣传执行约定、Key 类型与渠道注意事项，集中记录在这里。':category==='Steam 公告'?data.items.filter(o=>o.category==='Steam 公告').length+' 篇已发布公告 · 按北京时间记录 · 附内容要点、多语原文和 Steam 链接':category==='宣传视频'?'平台发布、Steam 预告与转场作品分别收录。点开每期可查看平台链接和制作素材。':category==='封面与视觉'?'按用途查看公告封面、视频封面、Steam 商店封面，以及详情页图片和宣传图。':'按分类查看作品，或搜索标题与内容。';
  const container=$('#results');container.replaceChildren();
- if(view==='grid'&&subgroups.length&&!group){
+ if(view==='grid'&&group==='公告封面'){
+  container.className='grouped-results';appendCoverLanguages(container,results);
+ }else if(view==='grid'&&subgroups.length&&!group){
   container.className='grouped-results';
-  for(const g of subgroups){const list=results.filter(o=>o.group===g);if(!list.length)continue;const section=el('section','work-group'),heading=el('h3','group-title',g+' ');heading.append(el('span','',String(list.length).padStart(2,'0')));const grid=el('div','grid');grid.append(...list.map(card));section.append(heading,grid);container.append(section)}
+  for(const g of subgroups){const list=results.filter(o=>o.group===g);if(!list.length)continue;const section=el('section','work-group'),heading=el('h3','group-title',g+' ');heading.append(el('span','',String(list.length).padStart(2,'0')));section.append(heading);if(g==='公告封面'){appendCoverLanguages(section,list)}else{const grid=el('div','grid');grid.append(...list.map(card));section.append(grid)}container.append(section)}
  }else{
   container.className=view==='episodes'?'grid episodes':view;let month='';
   let independentHeading=false;for(const o of results){if(view==='episodes'&&!o.episode&&!independentHeading){container.append(el('h3','month-label','独立视频与短片'));independentHeading=true}if(view==='timeline'&&month!==o.date.slice(0,7)){month=o.date.slice(0,7);container.append(el('h3','month-label',month.replace('-',' / ')))}container.append(view==='episodes'&&o.episode?episodeCard(o):card(o))}
