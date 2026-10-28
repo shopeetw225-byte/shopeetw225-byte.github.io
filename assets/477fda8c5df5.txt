@@ -1,0 +1,56 @@
+Entwicklungsstand: dreistufige Feldzugkarte, Taverne, Befördern per Klick
+发布日期：2026-10-27 14:27（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704408827984878187?l=german
+
+Hallo zusammen, hier ist Juanmao.
+
+Seit dem Demo-Update vom 23. Oktober hat sich in der Entwicklungsversion wieder eine Menge getan. Manches ändert, wie etwas bisher funktioniert hat, anderes ist komplett neu und war bisher noch nie Thema. Hier kommt alles auf einmal.
+
+Vorweg: Alles Folgende ist noch in Arbeit und steckt nicht in der Demo, die ihr gerade herunterladen könnt.
+
+[h2]Feldzug: eine Karte mit drei Ebenen[/h2]
+Der Feldzug hat jetzt drei Ebenen: die Epochenkarte, die Kapitelkarte und eine seitlich scrollende Zonenkarte. Die Epochenkarte lässt sich ziehen und zoomen – endlich gibt es eine richtige Weltkarte.
+Wenn ihr eine Stufe abschließt und zur nächsten Karte wechselt, gibt es einen Übergang: Beide Armeen blenden aus, Tusche breitet sich aus, und dann geht es auf der neuen Karte weiter.
+Der Kampfbericht ist jetzt eine große Seite im Querformat, die Zeile für Zeile zeigt, wer wie viel Schaden gemacht hat.
+[img]https://clan.akamai.steamstatic.com/images/46216320/bee7378b69aada9b5cce923ff028e1362518bc60.jpg[/img]
+
+[h2]Taverne: Helden mit wenig Sternen gibt es jetzt hier[/h2]
+Ab Stufe 100 droppen Helden mit wenig Sternen nicht mehr in den Stufen, sondern werden in der Taverne angeworben. Die Liste der Taverne wird jede Stunde neu gemischt, angeworben wird mit Ära-Anwerbescheinen. Die Scheine droppen in den Stufen und lassen sich auch auf dem Markt kaufen und verkaufen.
+Auch die Garantien sind in die Taverne gezogen, mit einer eigenen Garantie-Tafel. Legendäre Helden könnt ihr direkt in ihren Details als Garantie-Ziel setzen. Den Fortschritt seht ihr auch im Feldzug, und ein Klick bringt euch direkt in die Taverne.
+
+[h2]Heldenentwicklung: weniger Klicks[/h2]
+[list]
+[*]Befördern: Früher musstet ihr Rang für Rang klicken und dabei zweimal die Seite wechseln. Jetzt ist alles auf einer Karte, mit einem Werte-Diagramm auf einen Blick; ihr könnt um einen Rang oder direkt bis zum höchsten befördern. In der Heldenliste gibt es außerdem „Alle befördern“, das alle beförderbaren Helden auf einmal hochstuft.
+[*]Level: Ab Epoche 3 hängt das Level am Rang. Wer befördert wird, ist sofort auf Maximallevel – kein Erfahrungsausgeben Level für Level mehr.
+[*]Verstärkung: Früher hing sie an der Ausrüstung, nach jedem Wechsel musstet ihr neu verstärken. Jetzt verstärkt ihr den Slot: Ausrüstung frei tauschen, die Verstärkung bleibt. Das Veredeln ist im Slot-Durchbruch aufgegangen, und das alte Vererben, das nicht mehr gebraucht wurde, ist weg.
+[/list]
+[img]https://clan.akamai.steamstatic.com/images/46216320/fd3b5f76babdcfccf47f741f35e175fb12669c77.jpg[/img]
+
+[h2]Kämpfe und Aufstellung[/h2]
+[list]
+[*]Heiler gibt es jetzt in vier Arten: für die vorderen zwei Reihen, für die hinteren zwei Reihen, für das ganze Team oder gezielt für die ein bis drei Verbündeten mit den wenigsten LP. Mit voller Moral holen die Sonnenkranz-Heilige und der Hierarch der Versunkenen Glocke den zuerst gefallenen Verbündeten zurück.
+[*]Auch die Standardangriffe der Unterstützer haben jetzt eine Aufgabe: Kleriker heilen ein Ziel, Druiden heilen über Zeit, Barden geben Moral, und Bannerherren stapeln Angriff auf Verbündete.
+[*]Alle 21 Kämpfer sind jetzt unterdrückende Tanks, aufgeteilt in drei Arten: Treffer einstecken, Unterdrücken und Rüstung brechen.
+[*]In der Aufstellung könnt ihr das Tempo jedes Helden einstellen und seht sofort, wer in Runde eins zuerst handelt. Unter „Auren“ steht, wie viel jede Aura bringt und welche Felder sie abdeckt. Rechts gibt es ein neues Werte-Panel für das Team, und ein Klick auf ein leeres Feld öffnet direkt euren Kader.
+[*]Schutzgeist-Synergie: Früher brauchte es vier Helden derselben Klasse auf dem Feld. Jetzt reichen zwei Schutzgeister mit „Ein Herz“ zusammen, und die Reichweite von beiden wächst um ein Feld.
+[*]Auch nicht erwachte 5-Sterne-Helden bekommen jetzt die Nahaufnahme, wenn sie ihre Signaturfähigkeit einsetzen.
+[*]Die Vorab-Aufklärung hat jetzt „Wer hilft“: Ihr seht auf einen Blick, was eine Stufe prüft und wer im Team, auf der Bank oder im Lager die Antwort ist. Verliert ihr dieselbe Stufe dreimal hintereinander, sagt sie euch direkt, was fehlt.
+[/list]
+[img]https://clan.akamai.steamstatic.com/images/46216320/eeeeaa18e83e4ee36675675f0d7b016e8ca54c08.jpg[/img]
+
+[h2]Weitere Änderungen[/h2]
+[list]
+[*]Kein Warten mehr beim Fortsetzen: Ihr seid sofort im Spiel, die Offline-Erträge werden im Hintergrund berechnet.
+[*]Beim automatischen Vorrücken tauchen keine Namensschilder und Sieg-/Niederlage-Stempel mehr auf. Nach dem ersten manuell gewonnenen Kampf werdet ihr gefragt, ob ihr automatische Kämpfe einschalten wollt. Im Feldzug startet „Auto-Farmen starten“ den Kampf sofort.
+[*]Beute springt jetzt beim Droppen heraus, die Truhe unten links ist größer geworden, und ein Teil der Kampfgeräusche wurde ersetzt.
+[*]Die Produktionsverwaltung hat eine Goldabteilung und eine Runensteinabteilung dazubekommen; ihr könnt jetzt Leute an Arbeitsplätze setzen und Meisterschaft aufbauen.
+[*]Auf Hallenstufe 28 gibt es einen neuen Rangtitel: Reiteroberst.
+[*]Am Anfang bekommt ihr zuerst günstige Schadensverursacher, damit der Einstieg leichter fällt. Magier haben sieben neue Intellekt-Waffen bekommen, und die Kraft auf der Heldenseite ist genauer, weil sie nur noch die eigene Angriffsart des Helden zählt.
+[*]Das ganze UI wurde vereinheitlicht: Buttons, Ressourcenleiste, Taverne und Schließen-Buttons sind neu, und die Optionen passen jetzt auf eine einzige Seite.
+[/list]
+
+Was davon wollt ihr am liebsten zuerst ausprobieren? Und wenn euch etwas komisch vorkommt, schreibt es gern in die Kommentare.
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+[url=https://store.steampowered.com/app/5257220/]Kostenlose Demo spielen[/url] | [url=https://store.steampowered.com/app/4855890/]Vollversion auf die Wunschliste setzen[/url]

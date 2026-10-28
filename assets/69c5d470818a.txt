@@ -1,0 +1,56 @@
+Dev progress: three-layer Campaign map, Tavern recruiting, one-tap Rank Up
+发布日期：2026-10-27 14:27（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704408827984878187?l=english
+
+Hi everyone, Juanmao here.
+
+Since the Demo update on October 23, a lot has changed in the development build. Some of it reworks how things used to work, and some of it is brand new and hasn't come up before. Here's all of it in one go.
+
+One thing first: everything below is still a work in progress and isn't in the Demo you can download right now.
+
+[h2]Campaign: a three-layer map[/h2]
+The Campaign now has three layers: the Epoch Map, the Chapter Map, and a side-scrolling zone map. You can drag and zoom the Epoch Map, so there's finally a proper world map.
+When you clear a stage and move on to the next map, there's a transition: both armies fade out, ink spreads across the screen, and the new map rolls in.
+The battle report is now a big horizontal page that lines up how much damage everyone dealt.
+[img]https://clan.akamai.steamstatic.com/images/46216320/bee7378b69aada9b5cce923ff028e1362518bc60.jpg[/img]
+
+[h2]Tavern: low-star heroes are recruited here now[/h2]
+After stage 100, low-star heroes no longer drop from stages. You recruit them at the Tavern instead. The Tavern refreshes its list every hour, and you hire from it with Era Recruit Tickets. Tickets drop from stages and can also be bought and sold at the Market.
+Guarantees have moved into the Tavern too, with a guarantee board. You can set a legendary hero as your Guarantee Target right from their details, check guarantee progress in the Campaign, and tap it to jump straight to the Tavern.
+
+[h2]Hero growth: fewer clicks[/h2]
+[list]
+[*]Rank Up: it used to take one click per rank plus two page switches. Now it's a single card with a stat chart you can read at a glance, and you can go up one rank or straight to the max. The Hero Roster also has a new "Rank Up All" button that ranks up everyone who can.
+[*]Levels: from Epoch 3 on, level follows rank. Rank up and you're at max level, with no more spending XP one level at a time.
+[*]Enhancement: it used to live on the gear, so switching items meant enhancing all over again. Now you enhance the slot, so you can swap gear freely and keep the enhancement. Refining has been folded into slot breakthroughs, and the old inheritance feature, no longer needed, is gone.
+[/list]
+[img]https://clan.akamai.steamstatic.com/images/46216320/fd3b5f76babdcfccf47f741f35e175fb12669c77.jpg[/img]
+
+[h2]Battles and team building[/h2]
+[list]
+[*]Healers now come in four types: front two rows, back two rows, the whole team, or the one to three allies with the lowest HP. With full Morale, the Sunhalo Saintess and the Sunken Bell Hierarch can bring back the first ally who fell.
+[*]Support basic attacks all do something useful now: Clerics heal one ally, Druids heal over time, Bards give Morale, and Bannerets stack attack on allies.
+[*]All 21 Fighters are now suppressor tanks, split into three types: absorbing hits, suppression, and armor break.
+[*]In the formation screen you can adjust each hero's speed, and it shows right away who acts first in round one. Switch to "Auras" to see how much each aura gives and which tiles it covers. There's a new lineup stats panel on the right, and tapping an empty tile lets you pick a hero straight from your Roster.
+[*]Guardian Spirit synergy: it used to need four heroes of the same class on the field. Now two One Heart guardian spirits together are enough, and each one's range grows by a tile.
+[*]5-star heroes who aren't Awakened now get the ultimate close-up when they use their signature ability too.
+[*]Pre-Battle Recon has a new "Who counters" view: see what a stage tests and who in your team, on your bench, or in storage can answer it. Lose the same stage three times in a row and it tells you straight out what you're missing.
+[/list]
+[img]https://clan.akamai.steamstatic.com/images/46216320/eeeeaa18e83e4ee36675675f0d7b016e8ca54c08.jpg[/img]
+
+[h2]Other changes[/h2]
+[list]
+[*]No more waiting on Continue: you go straight into the game while offline earnings are calculated in the background.
+[*]Auto-advance no longer pops up nameplates and win/loss stamps. The first time you win a stage manually, you'll be asked whether to turn on auto battles. In the Campaign, "Start Auto-Farm" now starts fighting right away.
+[*]Loot now bounces out when it drops, the chest in the lower left got bigger, and a batch of battle sound effects was replaced.
+[*]The Production Management Dept. gained a Gold Section and a Runestone Section, and you can now assign people to workstations and build up mastery.
+[*]Hall level 28 adds a new rank title: Cavalry Colonel.
+[*]Low-cost damage dealers now come early, so the opening is easier to get into. Magic users got seven new Intellect weapons, and the power shown on hero pages is more accurate, counting only that hero's own type of attack.
+[*]The whole UI got a consistency pass: buttons, the resource bar, the Tavern and close buttons have all been redone, and Settings is now a single page.
+[/list]
+
+Which of these do you most want to try first? And if anything looks off, let me know in the comments.
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url] | [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]

@@ -1,0 +1,14 @@
+2026-10-13
+用户要求：Demo宣传去除06；第二期英文/繁中上传并填写文案，不公开发布。
+
+YouTube Demo：既有公开影片h4UYlcBmnm0标题已改为 Idle Agency — Free Demo Out Now!，页面确认已储存所有变更。用户已自行精简简介，简介不含06，保留原内容。
+X Demo：公开帖仍含Devlog #06；更多菜单没有编辑入口，未删除、未重发。
+Threads Demo：主页未显示；读取草稿发生“唉呀，好像有东西出错了”，未取回，未修改。
+
+第二期YouTube：上传正式英文配音横屏4:48，已储存为私人影片。标题 Idle Indie Game! Positioning & Team Building — Devlog #02 | Idle Agency。
+链接 https://youtu.be/6da0uTJiljM
+英文简介、Steam链接、话题标签和搜索标签均已填好，语言英文，检查未发现问题。保留浏览权限页面，私人已选，未公开发布。
+第二期X：原第二期已公开，再准备英文竖屏草稿；文件显示就绪，英文正文、Steam链接、#indiedev #gamedev #idlegame #Steam已填好，未发帖。
+第二期Threads：原第二期已公开，再准备繁中竖屏草稿；预览可播放，繁中正文、Steam链接及独立游戏主题文字已填好，未发布。主题下拉未返回选项，已按Return并离开输入框。
+
+文案均不提AI。X、Threads无独立自定义视频封面入口；YouTube自定义封面仍受手机验证限制。

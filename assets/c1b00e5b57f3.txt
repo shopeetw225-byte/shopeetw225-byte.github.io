@@ -1,0 +1,26 @@
+[h2]Battles run themselves. The lineup is yours.[/h2]
+[p]Idle Agency is a single-player game about collecting heroes, building teams and growing at your own pace. Recruit companions and place them on a 4×4 board, then watch them fight automatically. When a battle gets tough, change a position, add a support hero or swap some equipment—and try again.[/p]
+[p][img src="{STEAM_APP_IMAGE}/extras/latest13_battle"][/img][/p]
+
+[h2]Turn your favorite heroes into team regulars.[/h2]
+[p]Explore hero skills and classes, and balance damage, frontline protection and healing. Spend battle rewards on levels and ranks, then choose equipment to turn your favorite companions into team regulars. Some heroes also have animated portraits.[/p]
+[p][img src="{STEAM_APP_IMAGE}/extras/latest13_heroes"][/img][/p]
+
+[h2]One team, plenty of ways to play.[/h2]
+[p]Rows, class synergies, formations and morale all shape a battle. Use the recommended lineup to get started, or adjust each position yourself. Battle details help you see how your damage dealers and supports performed.[/p]
+[p][img src="{STEAM_APP_IMAGE}/extras/latest13_formation"][/img][/p]
+
+[h2]Find the right equipment for each companion.[/h2]
+[p]Collect materials and choose blueprints to forge weapons, armor and accessories. Compare quality and affixes, and find equipment that helps each hero bring more to the team.[/p]
+[p][img src="{STEAM_APP_IMAGE}/extras/latest13_forge"][/img][/p]
+
+[h2]Let the agency grow at your pace.[/h2]
+[p]Build resource facilities, research Academy upgrades, and arrange commissions and farming. Agency production accumulates while you are offline. Come back, collect your resources and prepare for another challenge. Item cards explain what materials do and where to find them.[/p]
+[p][img src="{STEAM_APP_IMAGE}/extras/latest13_fortress"][/img][/p]
+
+[h2]What can you play in the demo?[/h2]
+[p]The demo reaches Stage 200 and includes hero growth, formations, equipment forging, Academy research, agency management and Boss Challenges. Your first victory over a recruitable boss brings that hero into your team. The Trading Market, Trial Tower and later epoch content are not available in the demo.[/p]
+[p][img src="{STEAM_APP_IMAGE}/extras/latest13_boss"][/img][/p]
+[p][b]Demo progress will not carry over to the full game. You will start a new journey in the full release.[/b] You can keep developing your team within the demo, and wishlist the game for the agency's next adventure.[/p]
+
+SHORT: Try Idle Agency for free: collect heroes, build a 4×4 lineup, watch automatic battles, forge equipment and research upgrades. The demo reaches Stage 200. Progress does not carry over to the full game.

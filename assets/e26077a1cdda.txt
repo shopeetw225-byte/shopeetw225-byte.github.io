@@ -1,0 +1,45 @@
+Mise à jour de la démo : combats et prologue repensés
+发布日期：2026-10-22（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704408827984875584?l=french
+
+Bonjour à tous, ici Juanmao.
+
+Après la sortie de la troisième démo, certains d'entre vous ont trouvé les combats un peu fades, et d'autres ne voulaient plus être poussés sans arrêt par le guidage. Cette mise à jour s'attaque d'abord à ça. Elle est déjà jouable sur Steam.
+
+[h2]Les combats ont enfin du caractère[/h2]
+
+Les douze classes ont désormais leurs propres effets d'impact, et les attaques de base sont mieux différenciées. Épées, lances, arcs et poings ne font plus le même bruit à l'impact. À force de voir tout le monde frapper de la même façon, même moi, je commençais à être un peu gêné.
+
+J'en ai profité pour retoucher les attaques ultimes : le gros plan avec bandeau ne s'affiche plus qu'en vitesse ×1. En ×2 et ×4, une version courte prend le relais pour ne pas casser le rythme. Et la musique ne baisse plus pendant les ultimes.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/00c554f20e41967f653456e5e80337b51cf56e53.jpg[/img]
+
+[h2]Une nouvelle partie commence par un combat d'ouverture[/h2]
+
+En lançant une nouvelle partie, vous jouez d'abord un prologue : placez votre formation, faites un choix après la reconnaissance, combattez, puis passez à l'étape 1. C'est toujours mieux que d'arriver devant un écran rempli de boutons.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/150fca38197ddc002589a4c8633bf3706ab713f2.jpg[/img]
+
+[h2]Le guidage, seulement si vous le voulez[/h2]
+
+À la fin du prologue, le jeu vous demande si vous voulez activer les conseils de guidage. Vous pouvez changer d'avis à tout moment dans les Paramètres. Les indications assombrissent maintenant l'écran pour mettre l'objectif en lumière : « Aller » pour les suivre, « Passer guide » pour les ignorer. Les deux étapes qui vous pressaient sans cesse d'utiliser « Formation auto » et de renforcer toute l'équipe ont aussi disparu.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/17781bfa285815f72ae0c344b3470e9095e36288.jpg[/img]
+
+[h2]Voir le butin avant de choisir une étape[/h2]
+
+Sur la carte de Campagne, une fiche « Butin possible » apparaît quand vous sélectionnez une étape. Jetons de héros, équipement, et ce que vous possédez déjà : tout est visible avant d'entrer. En l'ouvrant, vous voyez aussi la progression de la collection, les taux de drop et la garantie ; cliquez sur un héros pour voir ses attributs et ses compétences. Savoir qui farmer devient enfin plus simple.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/1f8f43bcb0851719d844328b480d5399b6d8320e.jpg[/img]
+
+[h2]Dix langues et quelques petits changements[/h2]
+
+Vous pouvez maintenant choisir entre chinois simplifié, chinois traditionnel, anglais, japonais, coréen, russe, français, allemand, espagnol (Amérique latine) et portugais du Brésil.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/9ee55d10d29a93827ba1708818b116c14892f8c1.jpg[/img]
+
+Les saccades à l'entrée de la Forteresse, lors des changements de page plus loin dans la partie et en passant d'une page de compétences à l'autre dans le Codex ont été réduites. 19 objets légendaires ont changé de nom, et le graphique des caractéristiques des héros se déploie désormais avec une animation quand vous changez de héros.
+
+Si quelque chose vous semble bizarre en jouant, dites-le-moi dans les commentaires. Une capture d'écran m'aide à trouver le problème beaucoup plus vite.
+
+[url=https://store.steampowered.com/app/5257220/]Jouer à la démo gratuite[/url] | [url=https://store.steampowered.com/app/4855890/]Ajouter le jeu complet à votre liste de souhaits[/url]. Merci à tous !

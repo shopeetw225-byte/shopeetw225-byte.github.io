@@ -1,0 +1,45 @@
+Demo: novos efeitos de combate e prólogo para novos saves
+发布日期：2026-10-22（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704408827984875584?l=brazilian
+
+Olá, pessoal! Aqui é o Juanmao.
+
+Depois do lançamento da terceira demo, alguns de vocês disseram que as batalhas pareciam meio sem graça, e outros não queriam ser empurrados pelas dicas de orientação o tempo todo. Esta atualização começa por aí, e já dá para jogar na Steam.
+
+[h2]As batalhas finalmente não parecem todas iguais[/h2]
+
+As doze classes agora têm efeitos de impacto próprios, e os ataques básicos também ficaram mais diferentes entre si. Espadas, lanças, arcos e punhos não fazem mais o mesmo som ao acertar. De tanto ver todo mundo brandindo as armas do mesmo jeito, até eu já estava meio sem graça.
+
+Aproveitei para ajustar as ultimates: o close com faixa só aparece na velocidade 1×. Em 2× e 4×, entra uma versão curta para não ficar interrompendo o combate. E a música não abaixa mais durante as ultimates.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/00c554f20e41967f653456e5e80337b51cf56e53.jpg[/img]
+
+[h2]Novos saves começam com uma batalha de abertura[/h2]
+
+Ao começar um novo save, você joga primeiro um prólogo: monta a formação, faz uma escolha depois do reconhecimento, luta e só então vai para a fase 1. Bem melhor do que cair direto numa tela cheia de botões.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/150fca38197ddc002589a4c8633bf3706ab713f2.jpg[/img]
+
+[h2]Orientação só se você quiser[/h2]
+
+No fim do prólogo, o jogo pergunta se você quer ativar as dicas de orientação. Dá para mudar isso a qualquer momento em Opções. As dicas agora escurecem a tela e destacam só o objetivo: clique em "Ir" para seguir ou em "Pular guia" para dispensar. Também tirei as duas etapas que ficavam insistindo em "Formação auto" e em fortalecer a equipe toda.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/17781bfa285815f72ae0c344b3470e9095e36288.jpg[/img]
+
+[h2]Veja o que pode cair antes de escolher a fase[/h2]
+
+No mapa da Campanha, ao selecionar uma fase, aparece um cartão de "Saque possível". Fichas de heróis, equipamentos e o que você já tem: tudo aparece antes de entrar. Abrindo o cartão, você vê também o progresso da coleção, as taxas de drop e a garantia; clique em um herói para ver atributos e habilidades. Agora ficou bem mais fácil decidir quem farmar.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/1f8f43bcb0851719d844328b480d5399b6d8320e.jpg[/img]
+
+[h2]Dez idiomas e algumas mudanças menores[/h2]
+
+Agora dá para escolher entre chinês simplificado, chinês tradicional, inglês, japonês, coreano, russo, francês, alemão, espanhol (América Latina) e português do Brasil.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/9ee55d10d29a93827ba1708818b116c14892f8c1.jpg[/img]
+
+Reduzi os travamentos ao entrar na Fortaleza, ao virar páginas mais adiante no jogo e ao trocar de página de habilidades no Códice. 19 itens lendários ganharam nomes novos, e o gráfico de atributos dos heróis agora se abre com uma animação ao trocar de herói.
+
+Se algo parecer estranho enquanto você joga, me conta nos comentários. Uma captura de tela me ajuda a achar o problema bem mais rápido.
+
+[url=https://store.steampowered.com/app/5257220/]Jogue a demo gratuita[/url] | [url=https://store.steampowered.com/app/4855890/]Adicione o jogo completo à sua lista de desejos[/url]. Valeu, pessoal!

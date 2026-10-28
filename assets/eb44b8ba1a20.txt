@@ -1,0 +1,50 @@
+Demo v3 arrives October 20, with stages up to 800
+发布日期：2026-10-17 18:30（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/760703279879422585?l=english
+
+Hi everyone, Juanmao here.
+
+[b]Demo v3 is coming on October 20.[/b] The last version stopped at stage 200. This time you can keep going all the way to [b]stage 800[/b], with plenty more room to build your team.
+
+Here is what I have been working on.
+
+[h2]Some new faces at the Agency[/h2]
+You can recruit 14 new heroes in this Demo. Some drop during the campaign; the other seven are five-star heroes, recruited at the Tavern with their tokens and a Legendary Recruitment Ticket.
+
+Five-star heroes also get a close-up when they use their ultimate. After all that training, they finally get a moment in the spotlight.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/67f107fd64170c6aaa9a3a980f496718eea7142d.jpg[/img]
+
+[h2]Clear stage 200 and meet your first Guardian Spirit[/h2]
+There are 12 to collect. A Spirit can share a formation tile with a hero and grant an aura to nearby allies. When a hero of its affinity class uses a signature skill within range, it can trigger a Resonance effect too.
+
+So now, once you have found a spot for every hero, you have a few little companions to make room for.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/5a85bc5085db0bdc5b04cd1752bdbcc93988ffaa.jpg[/img]
+
+[h2]Your team keeps pushing while you are away[/h2]
+Coming back used to be mostly about collecting resources. Now your team can advance through stages offline, stopping when it loses. The base offline limit is also going from 8 to 12 hours.
+
+That stage you were stuck on before bed? Your team might have a surprise for you in the morning.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/b25ccb74813183fc4044afce996562580908c8aa.jpg[/img]
+
+[h2]I rewrote the skill descriptions[/h2]
+Who does it hit? Who does it help? How far does it reach? The descriptions now spell that out, with diagrams showing the affected tiles. Less reading a paragraph and then guessing where the skill actually lands.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/de91f7f4e021d0728d7ddd334bfb37e467d6f095.jpg[/img]
+
+[h2]A few more changes you will see and hear[/h2]
+Buttons, pop-ups, battle sprites and battlefields have been refreshed, along with the sound effects and music.
+
+You can also improve the whole team’s Mastery in one go, and retrain your Commander for free if you want to try a different team setup.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/9c2b29944ecfd482c4fcb0a246ec7098ee333698.jpg[/img]
+
+Come back and give it a try after the update on October 20. If you get stuck, find something awkward, or run into a problem, let me know. A screenshot helps me track it down too.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url]
+
+If it looks like your kind of game, please consider [url=https://store.steampowered.com/app/4855890/]wishlisting the full game[/url].
+
+Thank you, everyone. Wishlists really do make a difference for a game. I would be grateful for your support.

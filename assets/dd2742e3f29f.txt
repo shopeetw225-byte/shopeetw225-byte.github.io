@@ -1,0 +1,33 @@
+Mise à jour de la démo : prologue refait, combats et chargement améliorés
+发布日期：2026-10-24 10:22（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704408827984877238?l=french
+
+Bonjour à tous, ici Juanmao.
+
+La démo a de nouveau été mise à jour, et elle se télécharge gratuitement sur Steam, sous Windows comme sous macOS. Cette fois, j'ai surtout touché à trois choses : le prologue, l'affichage des combats et les saccades.
+
+[h2]Prologue : deux combats, aucun choix[/h2]
+Le prologue des nouvelles parties ne propose plus de choix : on enchaîne directement deux combats. Dans le premier, l'image se fige un instant quand quelqu'un lance une ultime, et les ennemis affichent un avertissement avant d'utiliser une compétence. On voit mieux qui s'apprête à agir.
+Le second… disons que le boss anéantit toute l'équipe d'un seul coup, et que les cinq légendes sont dispersées. Ce n'est qu'après ce combat que le tutoriel commence vraiment.
+[img]{STEAM_CLAN_IMAGE}/46216320/fd6a5c4e8815af1e7523c099ce3bb1d0b18a9739.jpg[/img]
+
+[h2]Combats : plus lisibles[/h2]
+Les jauges de vie et de moral prennent maintenant la forme d'étiquettes en papier. Un signal apparaît quand un bouclier est sur le point de céder, et on le voit aussi se briser. Le paladin va désormais au corps à corps et frappe avec son bouclier. Les effets d'état ont été refaits, les personnages ont une ombre douce sous les pieds, et les infobulles au survol ressemblent à du parchemin.
+[img]{STEAM_CLAN_IMAGE}/46216320/ea2ffdfe2d7980b3b9235902b831541cfb6224be.jpg[/img]
+
+[h2]Moins de saccades[/h2]
+Cette mise à jour réduit les saccades au chargement après une longue absence, dans les combats avancés et quand vous reprenez votre partie.
+
+[h2]Corrigé[/h2]
+[list]
+[*]Aucun retour ne s'affichait après avoir complété un sceau légendaire.
+[*]Dans la liste des châsses, les badges de qualité recouvraient les noms.
+[*]Un effet sonore en trop se déclenchait parfois.
+[*]La barre de vie ne s’affichait parfois pas pendant les combats de boss.
+[/list]
+
+Si quelque chose vous semble bizarre en jouant, dites-le-moi dans les commentaires. Une capture d'écran m'aide à trouver le problème plus vite.
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+[url=https://store.steampowered.com/app/5257220/]Jouer à la démo gratuite[/url] | [url=https://store.steampowered.com/app/4855890/]Ajouter le jeu complet à votre liste de souhaits[/url]

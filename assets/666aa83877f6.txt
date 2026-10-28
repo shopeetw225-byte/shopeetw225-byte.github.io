@@ -1,0 +1,33 @@
+Demo update: reworked prologue, improved battle visuals and loading
+发布日期：2026-10-24 10:22（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704408827984877238?l=english
+
+Hi everyone, Juanmao here.
+
+The Demo has another update, and it's free to download on Steam for both Windows and macOS. This one mainly covers three things: the prologue, the battle visuals, and stutter.
+
+[h2]Prologue: two fights, no choices[/h2]
+The prologue for new saves no longer has any choices. You go straight into two battles. In the first, the screen pauses for a beat when someone fires an ultimate, and enemies flash a warning before they cast a skill, so it's easier to see who's about to act.
+The second battle... well, the boss wipes out the whole party in one move, and the five legends are scattered. Only after that fight does the tutorial properly begin.
+[img]{STEAM_CLAN_IMAGE}/46216320/fd6a5c4e8815af1e7523c099ce3bb1d0b18a9739.jpg[/img]
+
+[h2]Battle visuals: easier to read[/h2]
+HP and morale bars now use a paper-tag style. You'll get a cue when a shield is about to break, and you can see it shatter. The Paladin now gets up close and bashes enemies with a shield. Status effects have been redone, characters have a soft shadow at their feet, and hover tooltips now look like parchment.
+[img]{STEAM_CLAN_IMAGE}/46216320/ea2ffdfe2d7980b3b9235902b831541cfb6224be.jpg[/img]
+
+[h2]Less stutter[/h2]
+This update reduces stutter when loading after a long time offline, in late-game battles, and when you continue your game.
+
+[h2]Fixed[/h2]
+[list]
+[*]Completing a Legendary Seal showed no feedback.
+[*]Quality badges in the socket list overlapped names.
+[*]An extra sound effect occasionally played.
+[*]Boss battle HP bars sometimes failed to appear.
+[/list]
+
+If anything feels off while you play, let me know in the comments. A screenshot helps me track it down.
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url] | [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]

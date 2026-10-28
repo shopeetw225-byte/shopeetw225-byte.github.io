@@ -1,0 +1,61 @@
+第八期·新英雄与守护灵篇｜2026-10-17
+状态：上传编辑页供用户检查；不点击发布，不主动保存草稿；封面制作中，等待用户通知后补充。
+
+B站标题：放置独游！新英雄与守护灵篇 开发日志08
+B站简介：
+这次给《放置事务所》加了新英雄、五星开大特写和守护灵，技能说明、界面、配乐音效也重新整理了一遍。
+最终版 Demo 能拿到14位新英雄、收集12只守护灵，还能离线推关。这期带大家看看都改了什么。
+最终版 Demo 预计10月20日更新，现在的Demo也能免费下载试玩。欢迎试玩后留下真实评价，好不好玩、哪里劝退，都可以直说～
+Steam搜「放置事务所」或 Idle Agency，喜欢的话帮忙加个愿望单！
+https://store.steampowered.com/app/4855890/
+玩家QQ群：1079312948
+B站标签：独立游戏、放置游戏、挂机游戏、Steam、开发日志、游戏开发、放置事务所、策略游戏、新英雄、守护灵
+
+抖音标题：放置独游！新英雄与守护灵篇 开发日志08
+抖音正文：
+不抽卡，打怪收英雄。这次Demo多了14位新英雄、12只守护灵，五星放大招也有特写了！
+最终版Demo预计10月20日更新，欢迎来试玩、给点真实评价。Steam搜「放置事务所」加个愿望单～
+游戏群在个人主页，欢迎进群讨论
+#独立游戏 #放置游戏 #挂机游戏 #steam游戏 #开发日志
+
+小红书标题：不抽卡！新英雄和守护灵都来了
+小红书正文：
+我的放置独游《放置事务所》开发日志08，这次主要更新新英雄和守护灵。
+Demo能拿到14位新英雄、收集12只守护灵；守护灵和英雄站同一格，给附近队友加光环，还能触发呼应。配队又有新东西可以琢磨了。
+五星开大特写、技能范围图和离线推关也安排上了，能少点几下的地方，尽量少点几下。
+最终版Demo预计10月20日更新，现在的Demo也能免费下载试玩。想请大家来玩玩看，好不好玩、哪里不顺手，都欢迎留言！
+Steam搜「放置事务所」，感兴趣的话加个愿望单～
+游戏群在个人主页，欢迎进群讨论。
+#独立游戏 #放置游戏 #挂机游戏 #Steam游戏 #开发日志
+
+YouTube title: Idle Agency — New Heroes & Spirit Companions | Devlog #08
+YouTube description:
+14 new heroes to collect in the demo. 12 spirit companions. No gacha.
+
+In Devlog #08, I show the new heroes, five-star ultimate cut-ins, spirit companions, rewritten skill descriptions and range diagrams, refreshed UI and audio, and offline stage progression.
+Place spirit companions on the 4×4 grid alongside your heroes to grant auras and trigger resonance with compatible classes.
+
+The final demo update is planned for October 20. The current demo is free to try on Steam. I'd love your honest feedback: what is fun, what feels confusing, and what would make you quit?
+Play the demo and wishlist Idle Agency:
+https://store.steampowered.com/app/4855890/
+
+#IdleAgency #IndieGame #IdleGame #GameDev #Devlog
+YouTube tags: Idle Agency,indie game,idle game,incremental game,game development,devlog,strategy game,auto battler,Steam demo,spirit companions
+
+X:
+14 new heroes. 12 spirit companions. No gacha.
+Idle Agency Devlog #08: new team-building options, ultimate cut-ins & offline progression.
+Final demo update planned for Oct 20. Try it & tell me what isn't fun!
+https://store.steampowered.com/app/4855890/
+#indiedev #idlegame
+
+Threads（繁中）:
+我的放置獨遊《放置事務所》開發日誌08，新英雄和守護靈來了！
+
+不抽卡，打怪收英雄。Demo 能拿到14位新英雄、收集12隻守護靈；守護靈能和英雄站同一格，加光環、觸發呼應，配隊又有新東西可以研究了。
+五星開大特寫、技能範圍圖、離線推關也加上了。
+
+最終版 Demo 預計10月20日更新，現在的Demo也能免費試玩。想請大家玩玩看，好不好玩、哪裡卡手，都歡迎直接說！
+Steam 搜「放置事務所」或 Idle Agency，感興趣的話幫忙加個願望清單～
+https://store.steampowered.com/app/4855890/
+話題：獨立遊戲

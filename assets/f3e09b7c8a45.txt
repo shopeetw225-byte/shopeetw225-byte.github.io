@@ -1,0 +1,45 @@
+Demo update: new battle effects and an opening fight for new saves
+发布日期：2026-10-22（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704408827984875584?l=english
+
+Hi everyone, Juanmao here.
+
+After Demo v3 went live, some of you said the battles looked a little plain. Others wanted the tutorial to get out of the way. This update tackles both, and it's available to play on Steam now.
+
+[h2]Battles finally look and sound different[/h2]
+
+All twelve classes have their own hit effects, and basic attacks now have more distinct animations. Swords, spears, bows, and fists no longer make the same impact sound. I'd watched everyone swing in much the same way for so long that even I was starting to feel awkward about it.
+
+I also adjusted ultimate attacks. The full cut-in plays at 1× speed; at 2× or 4×, you get a shorter version so combat keeps moving. Ultimates no longer duck the music, either.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/00c554f20e41967f653456e5e80337b51cf56e53.jpg[/img]
+
+[h2]A new save starts with a prologue battle[/h2]
+
+Set your formation, scout the enemy, make a choice, and fight before Stage 1 begins. I think it feels better than opening the game to a wall of buttons.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/150fca38197ddc002589a4c8633bf3706ab713f2.jpg[/img]
+
+[h2]Guidance is your choice[/h2]
+
+After the prologue, the game asks whether you want Guidance Tips. You can change that later in Settings. Hints now use a dimmed-screen spotlight: click "Go" to follow along, or "Skip Guide" if you don't need it. The two prompts that kept nagging you to use "Auto Formation" and upgrade the whole team have also been removed.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/17781bfa285815f72ae0c344b3470e9095e36288.jpg[/img]
+
+[h2]Check the loot before choosing a stage[/h2]
+
+Campaign stages now show a "Possible Loot" card. You can see hero tokens and equipment, including what you already own. Open the full list to check collection progress, drop rates, and pity information; tap a hero to see their stats and skills. No more guessing which stage to farm.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/1f8f43bcb0851719d844328b480d5399b6d8320e.jpg[/img]
+
+[h2]Ten languages and a few smaller changes[/h2]
+
+You can now choose Simplified Chinese, Traditional Chinese, English, Japanese, Korean, Russian, French, German, Spanish, or Brazilian Portuguese.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/9ee55d10d29a93827ba1708818b116c14892f8c1.jpg[/img]
+
+I've also reduced stutter when entering the Fortress, moving through later screens, and switching Codex skill pages. Nineteen legendary items have new names, and the hero stat chart now unfolds when you switch characters.
+
+If something feels off while you play, tell me in the comments. A screenshot helps me find the problem much faster.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url] | [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]. Thank you!

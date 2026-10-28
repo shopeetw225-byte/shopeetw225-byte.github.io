@@ -1,0 +1,56 @@
+Em desenvolvimento: mapa da Campanha em 3 camadas, Taverna e promoção em 1 toque
+发布日期：2026-10-27 14:27（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704408827984878187?l=brazilian
+
+Olá, pessoal! Aqui é o Juanmao.
+
+Desde a atualização da demo de 23 de outubro, muita coisa mudou de novo na versão em desenvolvimento. Algumas mudam o jeito como as coisas funcionavam, outras são totalmente novas e eu nunca tinha comentado. Vai tudo de uma vez aqui.
+
+Antes de tudo: tudo o que vem abaixo ainda está em desenvolvimento e não está na demo que você pode baixar agora.
+
+[h2]Campanha: um mapa em três camadas[/h2]
+A Campanha agora tem três camadas: o mapa das eras, o mapa dos capítulos e um mapa de zona com rolagem lateral. Dá para arrastar e dar zoom no mapa das eras — finalmente um mapa-múndi de verdade.
+Ao passar de uma fase para a próxima e trocar de mapa, rola uma transição: os dois exércitos somem, a tinta se espalha e você avança para o novo mapa.
+O relatório de batalha agora é uma página grande na horizontal, mostrando linha por linha quanto dano cada um causou.
+[img]https://clan.akamai.steamstatic.com/images/46216320/bee7378b69aada9b5cce923ff028e1362518bc60.jpg[/img]
+
+[h2]Taverna: heróis de poucas estrelas agora são recrutados aqui[/h2]
+Depois da fase 100, heróis de poucas estrelas não caem mais nas fases: agora são recrutados na Taverna. A lista da Taverna muda a cada hora, e o recrutamento é feito com Bilhetes de Recrutamento da Era. Os bilhetes caem nas fases e também podem ser comprados e vendidos no Mercado.
+As garantias também foram para a Taverna, com um quadro de garantias. Nos detalhes de um herói lendário, dá para defini-lo direto como alvo da garantia; o progresso também aparece na Campanha, e um toque leva você direto à Taverna.
+
+[h2]Evolução: menos cliques[/h2]
+[list]
+[*]Promover: antes era preciso clicar patente por patente e trocar de página duas vezes. Agora fica tudo em um único cartão, com um gráfico de atributos fácil de ler, e dá para subir uma patente ou ir direto até a máxima. O Elenco de heróis também ganhou "Promover todos", que promove de uma vez todos que puderem.
+[*]Nível: a partir da era 3, o nível acompanha a patente. Promoveu, está no nível máximo — nada de gastar experiência nível por nível.
+[*]Aprimoramento: antes ficava no equipamento, e trocar de peça significava aprimorar tudo de novo. Agora o aprimoramento fica no espaço: troque de equipamento à vontade que ele continua lá. O refino foi incorporado ao avanço de espaço, e o antigo legado, que não servia mais, foi removido.
+[/list]
+[img]https://clan.akamai.steamstatic.com/images/46216320/fd3b5f76babdcfccf47f741f35e175fb12669c77.jpg[/img]
+
+[h2]Batalhas e formação[/h2]
+[list]
+[*]Os curandeiros agora têm quatro tipos: as duas fileiras da frente, as duas de trás, o time todo, ou de um a três aliados com menos vida. Com a moral cheia, a Santa do Halo Solar e o Hierarca do Sino Submerso trazem de volta o primeiro aliado que caiu.
+[*]Os ataques básicos de suporte agora servem para algo: Clérigos curam um aliado, Druidas curam ao longo do tempo, Bardos dão moral e Alferes acumulam ataque nos aliados.
+[*]Os 21 Lutadores agora são todos tanques de supressão, divididos em três tipos: aguentar golpes, suprimir e quebrar armadura.
+[*]Na formação, dá para ajustar a velocidade de cada herói e ver na hora quem age primeiro no primeiro turno. Na aba "Aura", aparece quanto cada aura dá e quais casas ela cobre. Tem um novo painel de atributos do time à direita, e tocar numa casa vazia abre direto o seu Elenco.
+[*]Sinergia dos espíritos guardiões: antes eram necessários quatro heróis da mesma classe em campo. Agora bastam dois espíritos guardiões "Um Só Coração" juntos, e o alcance de cada um aumenta uma casa.
+[*]Heróis 5 estrelas sem Despertar agora também ganham o close do especial quando usam a habilidade exclusiva.
+[*]O Reconhecimento ganhou "Quem resolve": de relance você vê o que a fase testa e quem no time, no banco ou no depósito pode resolver. Perdeu a mesma fase três vezes seguidas? Ele aponta direto o que está faltando.
+[/list]
+[img]https://clan.akamai.steamstatic.com/images/46216320/eeeeaa18e83e4ee36675675f0d7b016e8ca54c08.jpg[/img]
+
+[h2]Outras mudanças[/h2]
+[list]
+[*]Nada de esperar ao continuar: você entra direto no jogo e os ganhos offline são calculados em segundo plano.
+[*]O avanço automático não mostra mais placas de nome nem carimbos de vitória ou derrota. Na primeira vitória manual, o jogo pergunta se você quer ligar as batalhas automáticas. Na Campanha, "Iniciar farm auto." já começa a lutar na hora.
+[*]O saque agora sai quicando, o baú no canto inferior esquerdo ficou maior e parte dos efeitos sonoros de batalha foi trocada.
+[*]O Departamento de Gestão de Produção ganhou a Seção de Ouro e a Seção de Pedra Rúnica, e agora dá para designar pessoas para as bancadas e acumular maestria.
+[*]O Salão nível 28 traz um novo título: Coronel da Cavalaria.
+[*]No começo, você recebe primeiro atacantes de baixo custo, o que facilita o início. Os magos ganharam sete armas novas de Intelecto, e a força na página do herói ficou mais precisa: conta só o tipo de ataque do próprio herói.
+[*]A interface toda foi padronizada: botões, barra de recursos, Taverna e botões de fechar foram refeitos, e as Opções agora ficam numa página só.
+[/list]
+
+Qual dessas mudanças você mais quer experimentar primeiro? E se algo parecer estranho, me conta nos comentários.
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+[url=https://store.steampowered.com/app/5257220/]Jogue a demo gratuita[/url] | [url=https://store.steampowered.com/app/4855890/]Adicione o jogo completo à sua lista de desejos[/url]

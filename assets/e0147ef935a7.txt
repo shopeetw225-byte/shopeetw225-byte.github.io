@@ -1,0 +1,33 @@
+Demo: prólogo renovado, mejoras en combate y tiempos de carga
+发布日期：2026-10-24 10:22（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704408827984877238?l=spanish
+
+¡Hola a todos! Soy Juanmao.
+
+La demo tiene una nueva actualización y ya se puede descargar gratis en Steam para Windows y macOS. Esta vez me enfoqué sobre todo en tres cosas: el prólogo, la presentación de los combates y los tirones.
+
+[h2]Prólogo: dos combates, sin decisiones[/h2]
+El prólogo de las partidas nuevas ya no tiene decisiones: pasas directo a dos combates. En el primero, la imagen se congela un instante cuando alguien lanza una habilidad definitiva, y los enemigos muestran un aviso antes de usar una habilidad, así se ve mejor quién está por actuar.
+El segundo... bueno, el jefe acaba con todo el equipo de un solo golpe y las cinco leyendas quedan dispersas. Solo después de ese combate empieza de verdad el tutorial.
+[img]{STEAM_CLAN_IMAGE}/46216320/fd6a5c4e8815af1e7523c099ce3bb1d0b18a9739.jpg[/img]
+
+[h2]Combates: más fáciles de leer[/h2]
+Las barras de vida y de moral ahora tienen estilo de etiqueta de papel. Cuando un escudo está por romperse, se indica, y también se ve cuando se rompe. El paladín ahora pelea cuerpo a cuerpo y golpea con el escudo. Los efectos de estado se rehicieron, los personajes tienen una sombra suave bajo los pies y las descripciones al pasar el cursor ahora parecen pergamino.
+[img]{STEAM_CLAN_IMAGE}/46216320/ea2ffdfe2d7980b3b9235902b831541cfb6224be.jpg[/img]
+
+[h2]Menos tirones[/h2]
+Esta actualización reduce los tirones al cargar después de pasar mucho tiempo fuera del juego, en los combates avanzados y al continuar la partida.
+
+[h2]Corregido[/h2]
+[list]
+[*]No había ninguna indicación al completar un sello legendario.
+[*]En la lista de ranuras, las insignias de calidad tapaban los nombres.
+[*]A veces sonaba un efecto de sonido de más.
+[*]En peleas contra jefes, la barra de vida a veces no se mostraba.
+[/list]
+
+Si algo se siente raro mientras juegas, cuéntamelo en los comentarios. Una captura de pantalla me ayuda a encontrar el problema más rápido.
+
+Si te parece que vale la pena, también te pido que lo agregues a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+[url=https://store.steampowered.com/app/5257220/]Juega la demo gratis[/url] | [url=https://store.steampowered.com/app/4855890/]Agrega el juego completo a tu lista de deseados[/url]

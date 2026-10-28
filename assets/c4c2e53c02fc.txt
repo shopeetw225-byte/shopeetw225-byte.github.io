@@ -1,0 +1,45 @@
+Demo: nuevos efectos de combate y prólogo para partidas nuevas
+发布日期：2026-10-22（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704408827984875584?l=spanish
+
+¡Hola a todos! Soy Juanmao.
+
+Después del lanzamiento de la tercera demo, algunos comentaron que los combates se veían algo simples, y otros no querían que la guía los apurara todo el tiempo. Esta actualización empieza por ahí, y ya se puede jugar en Steam.
+
+[h2]Por fin los combates no se ven todos iguales[/h2]
+
+Las doce clases tienen ahora sus propios efectos de impacto, y los ataques básicos también se diferencian más. Espadas, lanzas, arcos y puños ya no suenan igual al golpear. De tanto ver a todos blandir sus armas de la misma forma, hasta a mí me daba un poco de vergüenza.
+
+De paso ajusté las habilidades definitivas: el primer plano con franja solo se reproduce a velocidad 1×. A 2× y 4× se usa una versión corta para no cortar el ritmo del combate. Además, la música ya no baja de volumen durante las definitivas.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/00c554f20e41967f653456e5e80337b51cf56e53.jpg[/img]
+
+[h2]Las partidas nuevas empiezan con una batalla inicial[/h2]
+
+Al empezar una partida nueva, primero juegas un prólogo: armas tu formación, tomas una decisión después del reconocimiento, peleas y luego pasas a la etapa 1. Siempre es mejor que entrar y encontrarte una pantalla llena de botones.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/150fca38197ddc002589a4c8633bf3706ab713f2.jpg[/img]
+
+[h2]La guía, solo si la quieres[/h2]
+
+Al terminar el prólogo, el juego te pregunta si quieres activar los consejos de guía. Puedes cambiarlo cuando quieras en Ajustes. Las indicaciones ahora oscurecen la pantalla y resaltan solo el objetivo: pulsa "Ir" para seguirlas u "Omitir guía" si no las necesitas. También quité los dos pasos que insistían una y otra vez en "Formación sugerida" y en mejorar a todo el equipo.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/17781bfa285815f72ae0c344b3470e9095e36288.jpg[/img]
+
+[h2]Mira qué puede caer antes de elegir etapa[/h2]
+
+En el mapa de Campaña, al seleccionar una etapa aparece una tarjeta de "Botín posible". Fichas de héroes, equipo y lo que ya tienes: todo se ve antes de entrar. Al abrirla también ves el progreso de colección, la probabilidad de botín y la garantía; haz clic en un héroe para ver sus atributos y habilidades. Por fin es más fácil decidir a quién farmear.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/1f8f43bcb0851719d844328b480d5399b6d8320e.jpg[/img]
+
+[h2]Diez idiomas y algunos cambios menores[/h2]
+
+Ahora puedes elegir entre chino simplificado, chino tradicional, inglés, japonés, coreano, ruso, francés, alemán, español latinoamericano y portugués de Brasil.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/9ee55d10d29a93827ba1708818b116c14892f8c1.jpg[/img]
+
+Reduje los tirones al entrar a la Fortaleza, al pasar páginas en etapas avanzadas y al cambiar entre páginas de habilidades del Códice. 19 objetos legendarios cambiaron de nombre, y el gráfico de atributos de los héroes ahora se despliega con una animación al cambiar de héroe.
+
+Si algo se siente raro mientras juegas, cuéntamelo en los comentarios. Una captura de pantalla me ayuda a encontrar el problema mucho más rápido.
+
+[url=https://store.steampowered.com/app/5257220/]Juega la demo gratis[/url] | [url=https://store.steampowered.com/app/4855890/]Agrega el juego completo a tu lista de deseados[/url]. ¡Gracias a todos!

@@ -1,0 +1,33 @@
+Demo: prólogo refeito, melhorias no combate e no carregamento
+发布日期：2026-10-24 10:22（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704408827984877238?l=brazilian
+
+Olá, pessoal! Aqui é o Juanmao.
+
+A demo ganhou mais uma atualização e já pode ser baixada de graça na Steam, no Windows e no macOS. Desta vez mexi principalmente em três coisas: o prólogo, o visual das batalhas e os travamentos.
+
+[h2]Prólogo: duas batalhas, sem escolhas[/h2]
+O prólogo dos novos saves não tem mais escolhas: você vai direto para duas batalhas. Na primeira, a tela congela por um instante quando alguém usa uma ultimate, e os inimigos mostram um aviso antes de usar uma habilidade, então fica mais fácil ver quem vai agir.
+A segunda... bom, o chefe derrota o grupo inteiro com um único golpe, e as cinco lendas se separam. Só depois dessa batalha o tutorial começa de verdade.
+[img]{STEAM_CLAN_IMAGE}/46216320/fd6a5c4e8815af1e7523c099ce3bb1d0b18a9739.jpg[/img]
+
+[h2]Visual das batalhas: mais fácil de entender[/h2]
+As barras de vida e de moral agora têm estilo de etiqueta de papel. Quando um escudo está quase quebrando, isso aparece, e dá para ver quando ele se despedaça. O Paladino agora luta corpo a corpo e bate com o escudo. Os efeitos de status foram refeitos, os personagens ganharam uma sombra suave sob os pés e as dicas ao passar o mouse agora parecem pergaminho.
+[img]{STEAM_CLAN_IMAGE}/46216320/ea2ffdfe2d7980b3b9235902b831541cfb6224be.jpg[/img]
+
+[h2]Menos travamentos[/h2]
+Esta atualização reduz os travamentos ao carregar depois de muito tempo offline, nas batalhas mais avançadas e ao continuar o jogo.
+
+[h2]Corrigido[/h2]
+[list]
+[*]Não aparecia nenhum retorno ao completar um Selo Lendário.
+[*]Na lista de engastes, os ícones de qualidade ficavam por cima dos nomes.
+[*]Às vezes tocava um efeito sonoro a mais.
+[*]Em batalhas contra chefes, a barra de vida às vezes não aparecia.
+[/list]
+
+Se algo parecer estranho enquanto você joga, me conta nos comentários. Uma captura de tela me ajuda a achar o problema bem mais rápido.
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+[url=https://store.steampowered.com/app/5257220/]Jogue a demo gratuita[/url] | [url=https://store.steampowered.com/app/4855890/]Adicione o jogo completo à sua lista de desejos[/url]

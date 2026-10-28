@@ -1,0 +1,52 @@
+第六期 Demo玩法介绍 — 2026-10-09 上传记录
+
+用户要求：上传、填写标题正文标签封面，保留编辑页，由用户自行发布。所有平台均未公开发布。
+
+B站：简中横屏正式成片，上传完成，已存草稿并重新打开编辑页。
+标题：放置独游！免费Demo上线了！开发日志06
+草稿：https://member.bilibili.com/platform/upload/video/frame?type=draft&draftId=3967041
+封面：首页4:3使用新制作的完整文字版；个人空间16:9保留原封面。
+标签：游戏试玩、演示、教程攻略、独立游戏、放置游戏、开发日志、不抽卡、Steam、游戏开发。
+创作声明：内容无需标注。
+
+抖音：简中竖屏正式成片，上传完成，停留编辑页。
+标题：放置独游！Demo展示 开发日志06
+原第六期竖屏封面已设置，检测通过。
+正式话题：独立游戏、放置游戏、steam游戏、不抽卡、开发日志。
+正文已包含“游戏群在个人主页，欢迎进群讨论”。
+
+小红书：简中竖屏正式成片，上传完成，停留编辑页。
+标题：放置独游！Demo展示 开发日志06
+第六期1080x1440封面已设置，检测通过。
+正式话题：独立游戏、放置游戏、Steam游戏、游戏开发、不抽卡、开发日志。
+
+X：英文竖屏正式成片，已显示就绪，停留发帖窗口。
+正文：Idle Agency’s free demo is out now! 🐱
+Devlog #06: build a 4×4 team, recruit heroes, forge gear & earn offline rewards. No gacha.
+Try it, wishlist & tell me what isn’t fun:
+https://store.steampowered.com/app/4855890/
+#indiedev #gamedev #idlegame #Steam
+未发现自定义视频封面入口。
+
+Threads/脆：繁中竖屏正式成片，视频预览可播放，停留新串文窗口。
+开头：放置獨遊！Demo展示 開發日誌06 🐱
+话题已选：獨立遊戲。
+正文含玩法、Steam免费Demo及愿望单、反馈邀请和Demo存档不继承正式版提醒。
+未发现自定义视频封面入口。
+
+YouTube：英文配音横屏正式成片，上传完成、版权检查无问题，自动保存为私人影片。
+标题：Idle Agency — Free Demo Out Now! | Devlog #06
+链接：https://youtu.be/h4UYlcBmnm0
+英文正文含玩法、Steam免费Demo及愿望单、反馈邀请和Demo存档不继承正式版提醒。
+标签：Idle Agency, indie game, idle game, Steam, game development, devlog, no gacha, auto battler, free demo。
+语言：英文。
+自定义封面上传被频道手机验证要求阻止，已取消验证窗口。
+准备好的封面：视频制作/封面/发平台的/第六期 Demo玩法介绍/YouTube英文封面_第6期.png
+
+Telegram：原生应用当前显示二维码登录页，无法检查或发送貓魚通知群；本次未发送群视频。
+
+参考文案：
+B站 https://www.bilibili.com/video/BV1uYBGYWERs/
+小红书 https://www.xiaohongshu.com/explore/6ab937f70000000018011a39
+抖音 https://www.douyin.com/shipin/7536796735722309632
+采用免费Demo开头、具体玩法、Steam搜索名/愿望单、评论反馈的结构；未照抄原文。
