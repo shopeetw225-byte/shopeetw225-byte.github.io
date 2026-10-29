@@ -3,7 +3,7 @@
   "date": "2026-10-20",
   "currency": "CNY",
   "total_budget": 20000,
-  "status": "原定8位和新增9位小黑盒作者均已确认合作；已核实5篇资讯、2篇测评公开，付款与达标奖励待核",
+  "status": "原定8位和新增9位小黑盒作者均已确认合作；新增9位中3篇资讯已核实公开，付款与达标奖励待核",
   "bilibili": [
     {
       "name": "旧城的独游世界",
@@ -288,7 +288,7 @@
     {
       "name": "茗零",
       "platform": "小黑盒",
-      "profile_url": null,
+      "profile_url": "https://www.xiaoheihe.cn/app/user/profile/21746767",
       "followers": 2290,
       "followers_basis": "用户腾讯表格，非实时粉丝数",
       "news_count": 1,
@@ -300,7 +300,17 @@
       "base_total": 40,
       "potential_max_total": 60,
       "planned_date": "2026-10-28",
-      "status": "合作已确认；交付、付款、奖金达标待核"
+      "status": "合作已确认；资讯已公开，付款与奖金达标待核",
+      "publications": [
+        {
+          "type": "资讯",
+          "title": "最夸张的Demo体量？《放置事务所》12月即将发售",
+          "url": "https://www.xiaoheihe.cn/app/bbs/link/205772b92e14",
+          "published_date": "2026-10-28",
+          "verified_date": "2026-10-29",
+          "verification": "Chrome 公开文章详情核实作者、标题和正文；页面显示昨天22:23。"
+        }
+      ]
     },
     {
       "name": "荒野空格",
@@ -339,7 +349,7 @@
     {
       "name": "懵懵脆脆鲨",
       "platform": "小黑盒",
-      "profile_url": null,
+      "profile_url": "https://www.xiaoheihe.cn/app/user/profile/22464806",
       "followers": 1400,
       "followers_basis": "用户腾讯表格，非实时粉丝数",
       "news_count": 1,
@@ -351,7 +361,17 @@
       "base_total": 40,
       "potential_max_total": 60,
       "planned_date": "2026-10-27",
-      "status": "合作已确认；交付、付款、奖金达标待核"
+      "status": "合作已确认；资讯已公开，付款与奖金达标待核",
+      "publications": [
+        {
+          "type": "资讯",
+          "title": "英雄集结，但是自走棋。挂机游戏《放置事务所》demo上线！",
+          "url": "https://www.xiaoheihe.cn/app/bbs/link/d49572b7c9c1",
+          "published_date": "2026-10-27（按相对时间推算）",
+          "verified_date": "2026-10-29",
+          "verification": "Chrome 公开文章详情核实作者、标题和正文；页面显示2天前，具体时间待核。"
+        }
+      ]
     },
     {
       "name": "男神异闻录",
@@ -407,7 +427,7 @@
     {
       "name": "赛伦斯玩游戏",
       "platform": "小黑盒",
-      "profile_url": null,
+      "profile_url": "https://www.xiaoheihe.cn/app/user/profile/75835144",
       "followers": 1300,
       "followers_basis": "用户腾讯表格，非实时粉丝数",
       "news_count": 1,
@@ -419,7 +439,17 @@
       "base_total": 40,
       "potential_max_total": 60,
       "planned_date": "2026-10-29",
-      "status": "合作已确认；交付、付款、奖金达标待核"
+      "status": "合作已确认；资讯已公开，付款与奖金达标待核",
+      "publications": [
+        {
+          "type": "资讯",
+          "title": "4×4棋盘摆阵容！放置自走棋《放置事务所》试玩Demo 800关可体验",
+          "url": "https://www.xiaoheihe.cn/app/bbs/link/460272b3596a",
+          "published_date": "2026-10-29",
+          "verified_date": "2026-10-29",
+          "verification": "Chrome 公开文章详情核实作者、标题和正文；页面显示7小时前，按北京时间推算。"
+        }
+      ]
     },
     {
       "name": "印东苹果",
