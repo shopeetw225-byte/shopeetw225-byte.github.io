@@ -7468,9 +7468,33 @@
           "date": "2026-10-28",
           "status": "已公开",
           "source": "2026-10-28 平台作品页核实"
+        },
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1AbxE64EKi/",
+          "language": "简中横屏",
+          "date": "2026-10-28",
+          "status": "已公开",
+          "source": "2026-10-29 核实本人空间与独立详情：倦猫Cat，开发日志12，2026-10-28 17:29。"
+        },
+        {
+          "platform": "抖音",
+          "url": "https://www.douyin.com/video/7701648433437740326",
+          "language": "简中竖屏",
+          "date": "2026-10-28",
+          "status": "已公开",
+          "source": "2026-10-29 核实本人 qitan225 主页及视频详情：倦猫Cat，开发日志12，显示16小时前。"
+        },
+        {
+          "platform": "小红书",
+          "url": "https://www.xiaohongshu.com/user/profile/69b258e9000000003402db68/6ae1c09c0000000023032fa9?xsec_token=ABuDUjaxTOrshW7ePL31RPO48ZfCjEaA8yEYtpSp37obo=&xsec_source=pc_user",
+          "language": "简中竖屏",
+          "date": "2026-10-28",
+          "status": "已公开",
+          "source": "2026-10-29 核实本人小红书号49300381478主页及笔记详情：倦猫Cat，开发日志12，昨天17:30。"
         }
       ],
-      "status": "已公开 · X / YouTube",
+      "status": "已公开 · X / YouTube / B站 / 抖音 / 小红书",
       "duration": 254.0,
       "detailNote": "网页提供10月28日新版简中横屏成片压缩预览；五种语言与画幅的原始成片及各平台封面保留在项目中。视频介绍的是主线开发中的内容，需等下次更新。"
     },
