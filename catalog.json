@@ -7503,71 +7503,71 @@
       "title": "Steam 正式版详情页 · 十语动态标题与战斗",
       "category": "封面与视觉",
       "group": "详情页图片",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "dateBasis": "发布日期",
-      "summary": "详情页十种语言动态标题按统一画布居中调整，战斗段展示真实游戏中浪迹拳仙开大画面。",
+      "summary": "十语详情页的 100 张动态标题更新至 780×96 画布；战斗实机素材保留。",
       "status": "已发布 · 十种语言页面",
       "cover": "https://clan.akamai.steamstatic.com/images/46216320/d28e07f9a21e86cbd45ea7ebbb0bdf0b6e8403a7.gif",
       "files": [
         {
           "name": "简体中文 · 动态标题示例",
-          "url": "https://clan.akamai.steamstatic.com/images/46216320/0cd8b92d0b039153b5391026524f4d555710c7d8.gif",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/eb58dbffcf250cd1ad0339e6e24f6e85419fad2c.gif",
           "type": "image",
-          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_schinese_01.gif"
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x96/title4_schinese_01.gif"
         },
         {
           "name": "繁體中文 · 动态标题示例",
-          "url": "https://clan.akamai.steamstatic.com/images/46216320/8df79e9d2d7d2ae82400401d1dc337d4e774da78.gif",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/0e5edc383b80e261feb025d83dc77e2668325672.gif",
           "type": "image",
-          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_tchinese_01.gif"
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x96/title4_tchinese_01.gif"
         },
         {
           "name": "English · 动态标题示例",
-          "url": "https://clan.akamai.steamstatic.com/images/46216320/a4032f787a023443fa39202f8477ec0a1991bec4.gif",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/213375b37fbc815192a295aa110d7b08300d1796.gif",
           "type": "image",
-          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_english_01.gif"
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x96/title4_english_01.gif"
         },
         {
           "name": "日本語 · 动态标题示例",
-          "url": "https://clan.akamai.steamstatic.com/images/46216320/5d2c00faf4627b14104c76fd865239ef472255b8.gif",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/6816bec57c34bba895618ee8b173f4b388c1ba90.gif",
           "type": "image",
-          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_japanese_01.gif"
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x96/title4_japanese_01.gif"
         },
         {
           "name": "한국어 · 动态标题示例",
-          "url": "https://clan.akamai.steamstatic.com/images/46216320/5b9e16607bf834889ccfa07cf93496363a5ac17c.gif",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/c9361984f2f7880ba8b2e303a707a7b518631c14.gif",
           "type": "image",
-          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_koreana_01.gif"
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x96/title4_koreana_01.gif"
         },
         {
           "name": "Deutsch · 动态标题示例",
-          "url": "https://clan.akamai.steamstatic.com/images/46216320/d3a4456cd15d8a8b3fb888aca222d8622ec2fd94.gif",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/4304e7157a423bf2c6ab79c960265ccc9fcf4a86.gif",
           "type": "image",
-          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_german_01.gif"
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x96/title4_german_01.gif"
         },
         {
           "name": "Français · 动态标题示例",
-          "url": "https://clan.akamai.steamstatic.com/images/46216320/12459fc8ddbc247a216fd7c85c68fff4cb948dc4.gif",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/02ec5af63ca8cfe9cc47bdcb54c6a60fd86b8cde.gif",
           "type": "image",
-          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_french_01.gif"
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x96/title4_french_01.gif"
         },
         {
           "name": "Español · 动态标题示例",
-          "url": "https://clan.akamai.steamstatic.com/images/46216320/4ea3a7f6314c96553602337cbfe34fb315f02cc4.gif",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/f8d8114238429c75974cf85d9ee5d00288a7afb4.gif",
           "type": "image",
-          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_spanish_01.gif"
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x96/title4_spanish_01.gif"
         },
         {
           "name": "Português (Brasil) · 动态标题示例",
-          "url": "https://clan.akamai.steamstatic.com/images/46216320/aeb7f25ea0d8ceec486cb3b80ef74ee320a898ec.gif",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/6353ab8205359e37d8b447d2c1e8fb50deda9d29.gif",
           "type": "image",
-          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_brazilian_01.gif"
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x96/title4_brazilian_01.gif"
         },
         {
           "name": "Русский · 动态标题示例",
-          "url": "https://clan.akamai.steamstatic.com/images/46216320/d07ba84661e3a64dfe6e02b7739805d459e2dcdf.gif",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/78ff9e253de7414d986dfa11ef3ef5cc4c8b814f.gif",
           "type": "image",
-          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_russian_01.gif"
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x96/title4_russian_01.gif"
         },
         {
           "name": "简体中文 · 战斗实机动图",
@@ -7586,10 +7586,70 @@
           "url": "https://clan.akamai.steamstatic.com/images/46216320/04f517ab491770b603ceb5e62095f7758af4edda.gif",
           "type": "image",
           "source": "output/steam-detail-title-preview-20261027/新版标题上传准备/vagrant2_battle-english.gif"
+        },
+        {
+          "name": "简体中文 · 动态标题示例 · 修订59历史",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/0cd8b92d0b039153b5391026524f4d555710c7d8.gif",
+          "type": "image",
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_schinese_01.gif"
+        },
+        {
+          "name": "繁體中文 · 动态标题示例 · 修订59历史",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/8df79e9d2d7d2ae82400401d1dc337d4e774da78.gif",
+          "type": "image",
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_tchinese_01.gif"
+        },
+        {
+          "name": "English · 动态标题示例 · 修订59历史",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/a4032f787a023443fa39202f8477ec0a1991bec4.gif",
+          "type": "image",
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_english_01.gif"
+        },
+        {
+          "name": "日本語 · 动态标题示例 · 修订59历史",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/5d2c00faf4627b14104c76fd865239ef472255b8.gif",
+          "type": "image",
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_japanese_01.gif"
+        },
+        {
+          "name": "한국어 · 动态标题示例 · 修订59历史",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/5b9e16607bf834889ccfa07cf93496363a5ac17c.gif",
+          "type": "image",
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_koreana_01.gif"
+        },
+        {
+          "name": "Deutsch · 动态标题示例 · 修订59历史",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/d3a4456cd15d8a8b3fb888aca222d8622ec2fd94.gif",
+          "type": "image",
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_german_01.gif"
+        },
+        {
+          "name": "Français · 动态标题示例 · 修订59历史",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/12459fc8ddbc247a216fd7c85c68fff4cb948dc4.gif",
+          "type": "image",
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_french_01.gif"
+        },
+        {
+          "name": "Español · 动态标题示例 · 修订59历史",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/4ea3a7f6314c96553602337cbfe34fb315f02cc4.gif",
+          "type": "image",
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_spanish_01.gif"
+        },
+        {
+          "name": "Português (Brasil) · 动态标题示例 · 修订59历史",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/aeb7f25ea0d8ceec486cb3b80ef74ee320a898ec.gif",
+          "type": "image",
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_brazilian_01.gif"
+        },
+        {
+          "name": "Русский · 动态标题示例 · 修订59历史",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/d07ba84661e3a64dfe6e02b7739805d459e2dcdf.gif",
+          "type": "image",
+          "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82/title3_russian_01.gif"
         }
       ],
-      "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x82",
-      "body": "正式版商店修订59将十语动态标题换为游戏标题风格的金色扫光字体，使用 780×82 透明居中画布；每段介绍文字与实机 GIF 间空一行。简中、繁中分别使用对应实机动图，其余八种语言使用英文实机画面。战斗段展示浪迹拳仙的横条特写与连击伤害，第 4 段原有大招动图保持不变。每个公开语言页均有十组标题及十段实机 GIF，已核对素材可播放。本页展示十语标题示例与三语战斗动图；完整详情见各语言 Steam 页面。",
+      "source": "output/steam-detail-title-preview-20261027/认可版字体批量/动图780x96",
+      "body": "正式版商店修订60将十种语言共100张动态标题从 780×82 更新为 780×96 画布；原正文、空行和实机 GIF 保持不变。简中、繁中使用对应实机画面，其他八种语言使用英文实机画面。十语公开数据的标题地址及顺序已核对；网页实际播放效果仍在核查。修订59的十语示例保留在本页。",
       "links": [
         {
           "platform": "Steam · 简体中文",
