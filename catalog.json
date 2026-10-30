@@ -7712,6 +7712,56 @@
           "status": "已发布"
         }
       ]
+    },
+    {
+      "id": "promo-battle-caravan",
+      "title": "卡点宣传片 · 新战斗曲",
+      "category": "宣传视频",
+      "group": "平台视频",
+      "date": "2026-10-29",
+      "dateBasis": "制作说明与交付记录",
+      "summary": "选择 C「压着再爆」剪法，以新战斗曲展示三层地图、连战、升阶和英雄大招；画面为开发中版本。",
+      "files": [
+        {
+          "name": "简中横屏版_卡点宣传片_新战斗曲.mp4",
+          "url": "assets/promo-battle-c-b1a98845.mp4",
+          "type": "video",
+          "source": "视频制作/卡点宣传片 新战斗曲/成片/简中横屏版_卡点宣传片_新战斗曲.mp4",
+          "sourceSha256": "b1a988453d5a1b249c017691f50e3361ca91fe351efc83451d3d0eb192e5c2bb"
+        }
+      ],
+      "cover": "assets/promo-battle-c-poster.jpg",
+      "body": "",
+      "source": "视频制作/卡点宣传片 新战斗曲",
+      "links": [],
+      "status": "成片已归档",
+      "duration": 44.2,
+      "detailNote": "2026年10月29日重新卡点并交付；五种语言与画幅成片保留在项目中。封面为网页预览截帧，公开视频发布情况尚未核实。"
+    },
+    {
+      "id": "short-54-ult-sounds",
+      "title": "短片 · 54位五星开大音效",
+      "category": "宣传视频",
+      "group": "平台视频",
+      "date": "2026-10-29",
+      "dateBasis": "制作说明与交付记录",
+      "summary": "选择 D「名牌特写」剪法，展示八位英雄的招式与音效；画面为开发中版本。",
+      "files": [
+        {
+          "name": "简中横屏版_短片_54位五星开大音效.mp4",
+          "url": "assets/short-54-ult-e1a14339.mp4",
+          "type": "video",
+          "source": "视频制作/短片 54位五星开大音效/成片/简中横屏版_短片_54位五星开大音效.mp4",
+          "sourceSha256": "e1a14339a3c03bbf62f6f9f5f95fa8c71b21bc4c4b50a9b1f7afb9dbdce64b39"
+        }
+      ],
+      "cover": "assets/short-54-ult-poster.jpg",
+      "body": "",
+      "source": "视频制作/短片 54位五星开大音效",
+      "links": [],
+      "status": "成片已归档",
+      "duration": 31.8,
+      "detailNote": "2026年10月29日重新卡点并交付；五种语言与画幅成片保留在项目中。封面为网页预览截帧，公开视频发布情况尚未核实。"
     }
   ]
 }
