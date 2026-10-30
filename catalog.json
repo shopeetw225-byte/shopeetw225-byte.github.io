@@ -664,99 +664,99 @@
     },
     {
       "id": "steam-main-trailer",
-      "title": "Steam 主预告片 · v25",
+      "title": "Steam 主预告片 · v26",
       "category": "宣传视频",
-      "date": "2026-10-27",
+      "date": "2026-10-30",
       "dateBasis": "Steam 发布日期",
-      "summary": "约 63 秒三语正式版实机预告片。",
+      "summary": "约 56 秒三语正式版实机预告片。",
       "files": [
         {
-          "name": "放置事务所_Steam主预告片_v25.mp4",
-          "url": "assets/3dad6fe6af30.mp4",
+          "name": "放置事务所_Steam主预告片_v26.mp4",
+          "url": "assets/69a32ff94752.mp4",
           "type": "video",
-          "source": "视频制作/Steam主预告片/成片/放置事务所_Steam主预告片_v25.mp4",
-          "updated": "2026-10-27"
+          "source": "视频制作/Steam主预告片/成片/放置事务所_Steam主预告片_v26.mp4",
+          "updated": "2026-10-30"
         },
         {
-          "name": "繁中版v25.mp4",
-          "url": "assets/6f44ea3973a1.mp4",
+          "name": "繁中版v26.mp4",
+          "url": "assets/41eac3689fc2.mp4",
           "type": "video",
-          "source": "视频制作/Steam主预告片/成片/繁中版v25.mp4",
-          "updated": "2026-10-27"
+          "source": "视频制作/Steam主预告片/成片/繁中版v26.mp4",
+          "updated": "2026-10-30"
         },
         {
-          "name": "英文版v25.mp4",
-          "url": "assets/2267ad7b8448.mp4",
+          "name": "英文版v26.mp4",
+          "url": "assets/a38804ba08f8.mp4",
           "type": "video",
-          "source": "视频制作/Steam主预告片/成片/英文版v25.mp4",
-          "updated": "2026-10-27"
+          "source": "视频制作/Steam主预告片/成片/英文版v26.mp4",
+          "updated": "2026-10-30"
         }
       ],
-      "status": "已公开 · Steam · schinese / Steam · tchinese / Steam · english / Steam · japanese / Steam · koreana / Steam · german / Steam · french / Steam · spanish / Steam · brazilian / Steam · russian",
-      "body": "Steam 正式版主预告片已更新至 v25。简中和繁中分别使用对应中文成片，其余八种语言统一使用英文成片。",
-      "source": "视频制作/Steam主预告片/成片/放置事务所_Steam主预告片_v25.mp4",
-      "cover": "assets/ebd83e72cebe-poster.jpg",
-      "detailNote": "网页提供三语压缩预览；原始 1920×1080、60fps 成片保存在项目目录。Steam 十语公开页已核对；商品详情页的本轮更新仍待完成。",
-      "duration": 63.137854,
+      "status": "已发布 · Steam 十语关联",
+      "body": "Steam 正式版主预告片已更新至 v26。简中和繁中分别使用对应中文成片，其余八种语言统一使用英文成片。",
+      "source": "视频制作/Steam主预告片/成片/放置事务所_Steam主预告片_v26.mp4",
+      "cover": "assets/steam-trailer-v26-poster.jpg",
+      "detailNote": "网页提供三语压缩预览；原始 1920×1080、60fps 成片保存在项目目录。Steam 十语公开页已核对。",
+      "duration": 56.319833,
       "links": [
         {
           "platform": "Steam · schinese",
           "url": "https://store.steampowered.com/app/4855890/?l=schinese",
-          "date": "2026-10-27",
+          "date": "2026-10-30",
           "status": "已发布"
         },
         {
           "platform": "Steam · tchinese",
           "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
-          "date": "2026-10-27",
+          "date": "2026-10-30",
           "status": "已发布"
         },
         {
           "platform": "Steam · english",
           "url": "https://store.steampowered.com/app/4855890/?l=english",
-          "date": "2026-10-27",
+          "date": "2026-10-30",
           "status": "已发布"
         },
         {
           "platform": "Steam · japanese",
           "url": "https://store.steampowered.com/app/4855890/?l=japanese",
-          "date": "2026-10-27",
+          "date": "2026-10-30",
           "status": "已发布"
         },
         {
           "platform": "Steam · koreana",
           "url": "https://store.steampowered.com/app/4855890/?l=koreana",
-          "date": "2026-10-27",
+          "date": "2026-10-30",
           "status": "已发布"
         },
         {
           "platform": "Steam · german",
           "url": "https://store.steampowered.com/app/4855890/?l=german",
-          "date": "2026-10-27",
+          "date": "2026-10-30",
           "status": "已发布"
         },
         {
           "platform": "Steam · french",
           "url": "https://store.steampowered.com/app/4855890/?l=french",
-          "date": "2026-10-27",
+          "date": "2026-10-30",
           "status": "已发布"
         },
         {
           "platform": "Steam · spanish",
           "url": "https://store.steampowered.com/app/4855890/?l=spanish",
-          "date": "2026-10-27",
+          "date": "2026-10-30",
           "status": "已发布"
         },
         {
           "platform": "Steam · brazilian",
           "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
-          "date": "2026-10-27",
+          "date": "2026-10-30",
           "status": "已发布"
         },
         {
           "platform": "Steam · russian",
           "url": "https://store.steampowered.com/app/4855890/?l=russian",
-          "date": "2026-10-27",
+          "date": "2026-10-30",
           "status": "已发布"
         }
       ],
