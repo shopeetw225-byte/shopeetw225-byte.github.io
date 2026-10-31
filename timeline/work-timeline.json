@@ -934,6 +934,12 @@
       "date": "2026-10-31",
       "category": "游戏开发",
       "text": "更新并发布 Demo v4，Windows 和 Mac 公开组建更新至 26345862。"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "试玩邀请",
+      "text": "向7位 B站创作者发送免费 Demo 试玩邀请。",
+      "url": "/creators/creator-outreach-20261101.html"
     }
   ]
 }
