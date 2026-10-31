@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "bilibili_sent": 2,
+  "bilibili_sent": 4,
   "bilibili": [
     {
       "name": "Ssd_sd",
@@ -10,6 +10,16 @@
     {
       "name": "小欧_沉淀欧",
       "url": "https://space.bilibili.com/3493114041863110",
+      "status": "sent"
+    },
+    {
+      "name": "厉不厉害你龙哥",
+      "url": "https://space.bilibili.com/441049861",
+      "status": "sent"
+    },
+    {
+      "name": "崇战",
+      "url": "https://space.bilibili.com/1601115105",
       "status": "sent"
     }
   ],
