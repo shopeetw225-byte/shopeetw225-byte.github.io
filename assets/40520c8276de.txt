@@ -1,0 +1,73 @@
+Nuevo tráiler: ¿qué tiene la versión en desarrollo que la demo actual no?
+发布日期：2026-10-31 13:26（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704409462168881272?l=spanish
+
+¡Hola a todos! Soy Juanmao.
+
+La página de la tienda tiene tráiler nuevo. Todo lo que sale en él es de la versión en desarrollo: empieza con héroes de 5 estrellas lanzando sus ultis uno tras otro, y después vienen el mapa de la Campaña, el reclutamiento, el ascenso, los espíritus guardianes, los diálogos de la historia antes de los combates, el combate y el Registro, el Autoavance y, al final, las Pruebas y los desafíos de jefe. Abre la página de la tienda: está arriba del todo.
+
+Antes que nada: el tráiler muestra una versión en desarrollo. Todo lo que viene abajo son cambios nuevos hechos sobre la demo pública actual, y la demo de ahora todavía no los tiene; aún no está decidido cuándo se podrán jugar, y el contenido puede seguir cambiando. También incluyo lo que ya había contado antes, para que se pueda ver todo de una vez.
+
+[h2]Campaña e historia[/h2]
+[list]
+[*]La Campaña ahora tiene un mapa de tres niveles: el mapa de épocas, el mapa de capítulos y el mapa de zona con desplazamiento horizontal. En el mapa de épocas puedes arrastrar y hacer zoom, y al cambiar de mapa hay una transición.
+[*]El Registro de cada combate ahora es una página grande en horizontal: fila por fila, ves cuánto daño hizo cada uno.
+[*]La campaña ahora tiene historia: capítulos 1 a 20 más el final, con 100 etapas por capítulo. Cada capítulo empieza con una tarjeta de capítulo, antes y después de los combates hay ilustraciones y diálogos, y puedes saltarlos con «Omitir historia», arriba a la derecha. Después de la etapa 2000 llega el final, donde tomas tu propia decisión. Por ahora los textos de la historia solo están en chino e inglés, así que en español la historia se muestra en inglés.
+[*]El prólogo se rehízo como una sola batalla de diez contra diez: «La Fortaleza del Norte · La última noche». Las escenas de historia que te hayas perdido se reproducen en orden al volver a la Fortaleza.
+[*]En las etapas de aprendizaje del principio de la campaña, al empezar el combate un personaje de tu equipo dice una frase, con su retrato; y si pierdes, en el sello de Derrota ahora es un personaje quien te dice qué te falta.
+[*]5 héroes legendarios y 2 Bárbaros dicen una frase al unirse, y el Expediente de cada legendario ahora cuenta su reencuentro tras haberse separado. La Diva triunfal aparece antes. Las frases que te pierdas mientras estás desconectado las verás al volver, en el informe sin conexión.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/ed023a26f64f33c27cf075dcc32714d3199e3af9.jpg[/img]
+
+[h2]Reclutamiento y progresión[/h2]
+[list]
+[*]A partir de la etapa 100, los héroes de pocas estrellas se reclutan en la Taberna con boletos de reclutamiento de era; los boletos caen en las etapas y además se compran y venden en el Mercado. Las garantías también se mudaron a la Taberna, y puedes fijar directamente a un héroe legendario como objetivo de garantía.
+[*]Ascender ahora cabe en una sola tarjeta: puedes subir un rango o ir directo al máximo, y en la Lista de héroes también está «Ascender todos». Desde la época 3, ascender te deja en el nivel máximo.
+[*]Ahora se refuerzan las ranuras: cambia el equipo cuanto quieras y el refuerzo se queda. El equipo nuevo ya no se bloquea por defecto, salvo el legendario, que sigue bloqueándose.
+[*]En la barra de navegación hay una bandera nueva, «Héroes»: desde ahí se entra al Plantel y al refuerzo.
+[/list]
+
+[h2]Espíritus guardianes[/h2]
+[list]
+[*]En la campaña caen huevos de espíritu con bastante más frecuencia, y van primero a los espíritus guardianes épicos de tu equipo en combate que aún no estén al máximo.
+[*]La primera vez que superas las etapas 600, 1000, 1400 y 1800, cada una te regala un espíritu guardián épico que todavía no tengas.
+[*]Grado Pesadilla de la prueba de época: la primera victoria da un huevo de espíritu legendario, y luego, por cada 150 etapas más que avances en la campaña, puedes conseguir otro con «Revancha».
+[*]La esencia espiritual ya tiene una fuente estable: superar por primera vez una etapa de jefe da 2, y el barrido y el tiempo sin conexión también dan algo cada hora.
+[*]Con dos espíritus guardianes «Un solo corazón» juntos en combate, el alcance de cada uno crece una casilla.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/0847b71ed0a8c9134b5107313590652c6e8aff1a.jpg[/img]
+
+[h2]Combate y formación[/h2]
+[list]
+[*]Los sanadores se dividen en cuatro tipos, y con la Moral al máximo la Santa del halo solar y el Jerarca de la campana hundida levantan al primer aliado que cayó. Los ataques básicos de los apoyos también tienen cada uno su utilidad.
+[*]Los 21 Luchadores ahora son tanques de supresión, y los Bárbaros aplican perjuicios más fuertes a los enemigos cuanta menos vida les queda.
+[*]En la Escuadra puedes ajustar la velocidad de cada héroe, y se detalla qué casillas cubre cada aura y cuánto da.
+[*]Los héroes de 5 estrellas sin despertar también tienen el primer plano de la ulti al usar su habilidad distintiva. Además, se ajustaron los números de daño, los sonidos al empezar el combate y el efecto de revivir.
+[*]Los perjuicios como bajar ataque o velocidad tienen un tope: cuando se acumulan al máximo, aparece un candadito. Y las mejoras que quita Disipar salen volando, para que se vea de un vistazo.
+[*]La velocidad de combate ahora solo tiene ×1 y ×2. Los combates normales tienen una canción más, y las dos se van turnando.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/623e5bd13fa6f49082250f5ca15e652475f6adfe.jpg[/img]
+
+[h2]Cuando no logras ganar[/h2]
+[list]
+[*]El Reconocimiento previo ahora tiene «Lo que pide esta etapa»: te dice qué pone a prueba la etapa y quién puede resolverlo.
+[*]Si pierdes, la tarjeta de derrota marca qué rol te falta y te sugiere a quién meter desde la reserva.
+[*]En las etapas de aprendizaje, la primera derrota te enseña directamente a cubrir lo que falta, por ejemplo, a poner al tanque al frente del todo.
+[*]Si el avance sin conexión se detiene por una derrota, al volver también verás en el informe sin conexión qué rol faltaba.
+[/list]
+
+[h2]Otros cambios[/h2]
+[list]
+[*]Al ganar, la tarjeta de resultados ahora tiene «Autoavance»: con un toque sigues con la siguiente etapa. En la Campaña, «Iniciar autofarmeo» empieza a combatir al momento.
+[*]Ya no hay que esperar al continuar: las ganancias sin conexión se calculan en segundo plano. Y con el juego abierto, aunque no estés combatiendo, las ganancias siguen entrando en tiempo real.
+[*]El botín ahora sale rebotando, el cofre es más grande y se cambió una tanda de efectos de sonido de combate.
+[*]El Departamento de Gestión de Producción suma la Sección de oro y la Sección de piedra rúnica, y el Salón tiene un título nuevo en el nivel 28.
+[*]Al principio recibes primero héroes de daño de bajo coste; los magos tienen siete armas nuevas de Intelecto; y toda la interfaz del juego se unificó.
+[*]El informe sin conexión ahora incluye los materiales de capítulo y las mercancías, y las tarjetas de investigación de la Academia detallan mejor cada efecto. También mejoró la fluidez de los combates, las cargas y algunas pantallas.
+[/list]
+
+¿Cuál de estos cambios tienes más ganas de probar primero? Y si algo del tráiler se ve raro, cuéntamelo en los comentarios.
+
+Si te parece que vale la pena, también te pido que lo agregues a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+[url=https://store.steampowered.com/app/5257220/]Juega la demo gratis[/url] | [url=https://store.steampowered.com/app/4855890/]Añade el juego completo a tu lista de deseados[/url]

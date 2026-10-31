@@ -1,0 +1,73 @@
+Neuer Trailer: Was hat die Entwicklungsversion, was die Demo noch nicht hat?
+发布日期：2026-10-31 13:26（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704409462168881272?l=german
+
+Hallo zusammen, hier ist Juanmao.
+
+Der Trailer auf der Shopseite ist neu. Diesmal stammen alle Szenen aus der Entwicklungsversion: Zum Auftakt zünden 5-Sterne-Helden nacheinander ihre Ultis, danach kommen Feldzugkarte, Anwerben, Befördern, Schutzgeister, Story-Dialoge vor dem Kampf, Kämpfe und Kampfbericht, Auto-Vorrücken und zum Schluss Prüfungen und Bossherausforderungen. Ihr findet ihn ganz oben auf der Shopseite.
+
+Vorweg: Der Trailer zeigt eine Version, die noch in Entwicklung ist. Alles Folgende sind neue Änderungen, die auf der aktuellen öffentlichen Demo aufbauen – in der jetzigen Demo sind sie noch nicht drin. Wann genau ihr sie spielen könnt, steht noch nicht fest, und es kann sich auch noch einiges ändern. Was ich früher schon vorgestellt habe, ist hier auch mit dabei, damit ihr alles auf einmal seht.
+
+[h2]Feldzug und Story[/h2]
+[list]
+[*]Der Feldzug hat jetzt eine Karte mit drei Ebenen: Epochenkarte, Kapitelkarte und eine seitlich scrollende Zonenkarte. Die Epochenkarte lässt sich ziehen und zoomen, und beim Kartenwechsel gibt es einen Übergang.
+[*]Der Kampfbericht ist jetzt eine große Seite im Querformat, die Zeile für Zeile zeigt, wer wie viel Schaden gemacht hat.
+[*]Die Hauptstory ist da: Kapitel 1 bis 20 samt Ende, je 100 Etappen pro Kapitel. Jedes Kapitel beginnt mit einer Titelkarte, vor und nach den Kämpfen laufen Zwischensequenzen mit Illustrationen und Dialogen, und oben rechts könnt ihr sie überspringen. Nach Etappe 2000 wartet noch ein Ende, bei dem ihr eure eigene Entscheidung trefft. Hinweis: Die Story-Texte gibt es derzeit nur auf Chinesisch und Englisch – auf Deutsch wird die Story auf Englisch angezeigt.
+[*]Der Prolog wurde zu einem einzigen Kampf zehn gegen zehn umgebaut: „Die Nordfestung · Die letzte Nacht“. Verpasste Story-Szenen werden der Reihe nach nachgeholt, wenn ihr in die Festung zurückkehrt.
+[*]In den Lektions-Etappen am Anfang des Feldzugs sagt beim Kampfstart jemand aus eurem Team einen Satz, mit Porträt. Verliert ihr, steht auf dem Niederlage-Stempel jetzt der Satz einer Figur, die euch sagt, was fehlt.
+[*]Fünf legendäre Helden und zwei Barbaren sagen beim Beitritt einen Satz, und die Akten der Legendären erzählen jetzt vom Wiedersehen nach der Trennung; die Triumph-Diva stößt früher zu euch. Sätze, die ihr offline verpasst habt, könnt ihr nach der Rückkehr im Offline-Bericht nachlesen.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/ed023a26f64f33c27cf075dcc32714d3199e3af9.jpg[/img]
+
+[h2]Anwerben und Heldenentwicklung[/h2]
+[list]
+[*]Ab Etappe 100 werden Helden mit wenig Sternen in der Taverne angeworben, mit Ära-Anwerbescheinen. Die Scheine droppen in den Etappen und lassen sich auch auf dem Markt kaufen und verkaufen. Auch die Garantie ist in die Taverne umgezogen: Legendäre Helden könnt ihr direkt als Garantieziel festlegen.
+[*]Befördern passiert jetzt auf einer einzigen Karte: um einen Rang oder direkt bis ganz nach oben. In der Heldenliste gibt es außerdem „Alle befördern“. Ab Epoche 3 ist ein Held nach dem Befördern direkt auf Maximallevel.
+[*]Verstärkt wird jetzt der Ausrüstungsplatz („Platzverstärkung“): Ausrüstung frei tauschen, die Verstärkung bleibt. Neu erhaltene Ausrüstung ist standardmäßig nicht gesperrt, legendäre Ausrüstung weiterhin schon.
+[*]In der Navigation gibt es eine neue Fahne „Helden“: Von dort geht es zum Kader und zum Verstärken.
+[/list]
+
+[h2]Schutzgeister[/h2]
+[list]
+[*]Im Feldzug droppen Geistereier deutlich öfter, und sie gehen zuerst an eingesetzte epische Schutzgeister, die noch nicht voll ausgebaut sind.
+[*]Beim ersten Abschluss der Etappen 600, 1000, 1400 und 1800 bekommt ihr jeweils einen epischen Schutzgeist, den ihr noch nicht habt.
+[*]Epochenprüfung, Albtraum-Grad: Der erste Sieg bringt ein legendäres Geisterei. Danach könnt ihr euch für je 150 weitere Etappen im Feldzug per „Revanche“ noch eins holen.
+[*]Geisteressenz hat jetzt verlässliche Quellen: Der erste Sieg in einer Boss-Etappe bringt 2, und auch Durchlauf und Offline-Zeit liefern jede Stunde welche.
+[*]Stehen zwei Schutzgeister mit „Ein Herz“ zusammen im Einsatz, wächst die Reichweite von beiden um ein Feld.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/0847b71ed0a8c9134b5107313590652c6e8aff1a.jpg[/img]
+
+[h2]Kämpfe und Aufstellung[/h2]
+[list]
+[*]Heiler gibt es jetzt in vier Arten. Mit voller Moral holen die Sonnenkranz-Heilige und der Hierarch der Versunkenen Glocke den zuerst gefallenen Verbündeten zurück; auch die Normalangriffe der Unterstützer haben jetzt jeweils ihren Nutzen.
+[*]Alle 21 Kämpfer sind jetzt Verteidiger, die Gegner unterdrücken. Und bei Barbaren gilt: Je weniger LP sie selbst haben, desto stärker die Schwächungen, die sie Gegnern verpassen.
+[*]Unter „Trupp“ könnt ihr das Tempo einstellen, und zu jeder Aura steht da, welche Felder sie abdeckt und wie viel sie bringt.
+[*]Auch nicht erwachte 5-Sterne-Helden bekommen jetzt die Ulti-Nahaufnahme, wenn sie ihre Signaturfähigkeit einsetzen; außerdem wurden Schadenszahlen, Sounds zum Kampfbeginn und der Wiederbelebungseffekt überarbeitet.
+[*]Schwächungen wie Angriffs- oder Tempo-Senkung haben eine Obergrenze; ist sie erreicht, erscheint ein kleines Schloss. Stärkungen, die durch Bannen entfernt werden, wirbeln sichtbar davon – so seht ihr sofort, was weg ist.
+[*]Beim Kampftempo gibt es nur noch ×1 und ×2. Für normale Kämpfe gibt es ein zusätzliches Musikstück, die beiden laufen im Wechsel.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/623e5bd13fa6f49082250f5ca15e652475f6adfe.jpg[/img]
+
+[h2]Wenn ihr nicht weiterkommt[/h2]
+[list]
+[*]Die Vorab-Aufklärung hat jetzt „Was diese Etappe verlangt“: Sie zeigt, was die Etappe prüft und wer das lösen kann.
+[*]Nach einer Niederlage zeigt die Niederlagenkarte, welche Rolle fehlt, und schlägt vor, wen ihr von der Bank einwechseln könnt.
+[*]Verliert ihr eine Lektions-Etappe zum ersten Mal, zeigt euch das Spiel direkt, wie ihr die Lücke schließt – zum Beispiel, den Verteidiger ganz nach vorne zu stellen.
+[*]Bleibt der Offline-Fortschritt an einer Niederlage hängen, seht ihr nach der Rückkehr auch im Offline-Bericht, welche Rolle fehlt.
+[/list]
+
+[h2]Weitere Änderungen[/h2]
+[list]
+[*]Nach einem Sieg gibt es auf der Ergebniskarte jetzt „Auto-Vorrücken“: ein Klick, und es geht mit der nächsten Etappe weiter. Im Feldzug startet „Auto-Farmen starten“ den Kampf sofort.
+[*]Kein Warten mehr beim Fortsetzen: Die Offline-Erträge werden im Hintergrund berechnet. Und wenn das Spiel offen ist, ihr aber gerade nicht kämpft, kommen die Erträge trotzdem in Echtzeit rein.
+[*]Beute springt jetzt beim Droppen heraus, die Truhe ist größer, und ein Teil der Kampfgeräusche wurde ersetzt.
+[*]Die Produktionsverwaltung hat eine Goldabteilung und eine Runensteinabteilung dazubekommen; auf Hallenstufe 28 gibt es einen neuen Rangtitel.
+[*]Am Anfang bekommt ihr zuerst günstige Schadensverursacher; Magier haben sieben neue Intellekt-Waffen bekommen; und das ganze UI wurde vereinheitlicht.
+[*]Der Offline-Bericht listet jetzt auch Kapitelmaterial und Handelswaren, und die Forschungskarten der Akademie zeigen jeden Effekt übersichtlicher; außerdem laufen Kämpfe, Ladevorgänge und einige Seiten flüssiger.
+[/list]
+
+Was davon wollt ihr am liebsten zuerst ausprobieren? Und wenn euch im Trailer etwas komisch vorkommt, schreibt es gern in die Kommentare.
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+[url=https://store.steampowered.com/app/5257220/]Kostenlose Demo spielen[/url] | [url=https://store.steampowered.com/app/4855890/]Vollversion auf die Wunschliste setzen[/url]

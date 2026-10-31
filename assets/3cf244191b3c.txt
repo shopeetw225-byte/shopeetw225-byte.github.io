@@ -1,0 +1,73 @@
+New trailer: what does the dev build have that the Demo doesn't?
+发布日期：2026-10-31 13:26（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704409462168881272?l=english
+
+Hi everyone, Juanmao here.
+
+The trailer on the store page has been updated. This one is all footage from the development build: it opens with 5-star heroes unleashing their ultimates one after another, then shows the Campaign map, recruiting, Rank Up, Guardian Spirits, story lines before battles, combat and the Battle Log, Auto-advance, and finally the trials and boss challenges. Open the store page and it's right at the top.
+
+One thing first: the trailer shows a version that's still in development. Everything below is new work built on top of the current public Demo, and none of it is in the Demo yet. There's no date yet for when you'll be able to play it, and things may still change. I've also included things I've talked about before, so you can see it all in one place.
+
+[h2]Campaign and story[/h2]
+[list]
+[*]The Campaign now has a three-layer map: the Epoch map, the Chapter Map, and a side-scrolling zone map. You can drag and zoom the Epoch map, and switching maps has a transition.
+[*]The Battle Log is now a big horizontal page that lines up how much everyone dealt.
+[*]The main campaign has a story now: Chapters 1 to 20 plus an ending, 100 stages per chapter. Each chapter opens with a chapter card, cutscene illustrations and dialogue play before and after battles, and you can skip them from the top-right corner. After stage 2000 there's an ending where you get to make your own choice.
+[*]The prologue has been redone as a single 10-vs-10 battle: "The Northern Fortress · The Last Night". Any story scenes you missed will play in order when you return to the Fortress.
+[*]In the early lesson stages of the main campaign, someone from your team says a line, with their portrait, when the fight starts. If you lose, the defeat seal now has a character telling you what you're missing.
+[*]5 Legendary heroes and 2 Barbarians now say a line when they join, and the Legendaries' dossiers have been rewritten as reunions after being separated; the Triumph Diva also joins you earlier. Lines you missed while offline can be caught up on in the Offline Debrief when you come back.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/ed023a26f64f33c27cf075dcc32714d3199e3af9.jpg[/img]
+
+[h2]Recruiting and growth[/h2]
+[list]
+[*]After stage 100, low-star heroes are recruited at the Tavern with Era Recruit Tickets. Tickets drop from stages and can also be bought and sold at the Market. Guarantees moved into the Tavern too, and you can set a legendary hero as your guarantee target directly.
+[*]Rank Up is now a single card: go up one rank or straight to the max, and the Hero Roster also has "Rank Up All". From Epoch 3 on, ranking up puts a hero at max level.
+[*]Enhancement now goes on the slot, so you can swap gear freely and keep the enhancement. Newly obtained gear is unlocked by default; Legendary gear is still locked by default.
+[*]The navigation bar has a new "Heroes" flag, which is where you get to your hero bag and enhancement.
+[/list]
+
+[h2]Guardian Spirits[/h2]
+[list]
+[*]Spirit eggs drop much more often in the main campaign, and they go first to Epic guardian spirits on your active team that aren't fully grown yet.
+[*]The first time you clear stages 600, 1000, 1400 and 1800, you get an Epic guardian spirit you don't have yet each time.
+[*]Epoch trial, Nightmare tier: your first win gives a Legendary spirit egg. After that, every 150 more main stages you clear lets you trade for one more with "Rematch".
+[*]Spirit essence now has steady sources: 2 for the first clear of a boss stage, plus some every hour from sweeps and offline time.
+[*]Two One Heart guardian spirits on the field together each get one more tile of range.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/0847b71ed0a8c9134b5107313590652c6e8aff1a.jpg[/img]
+
+[h2]Battles and team building[/h2]
+[list]
+[*]Healers come in four types, and with full Morale the Sunhalo Saintess and the Sunken Bell Hierarch can revive the first ally who fell; support basic attacks all do something useful too.
+[*]The 21 Fighters are now suppressor tanks; Barbarians now inflict heavier debuffs on enemies the lower their own HP gets.
+[*]In Formation you can adjust attack speed, and auras list which tiles they cover and how much they give.
+[*]5-star heroes who aren't Awakened also get the ultimate close-up when they use their signature ability; damage numbers, battle-start sounds and revive effects have all been reworked.
+[*]Debuffs like attack and speed reduction now have caps, and a small lock appears when they max out; buffs removed by Dispel flip away so you can see it at a glance.
+[*]Battle speed is down to ×1 and ×2; normal battles have a second music track, and the two take turns.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/623e5bd13fa6f49082250f5ca15e652475f6adfe.jpg[/img]
+
+[h2]When you can't win[/h2]
+[list]
+[*]Pre-Battle Recon now has "What this stage asks for", telling you what the stage tests and who can handle it.
+[*]If you lose, the defeat card marks which role you're missing and suggests who to swap in from your bench.
+[*]The first time you lose a lesson stage, the game shows you how to fill the gap, for example by moving your tank to the front.
+[*]If offline auto-advance stops on a loss, the Offline Debrief also shows which role you were missing when you come back.
+[/list]
+
+[h2]Other changes[/h2]
+[list]
+[*]After a win, the result card has an "Auto-advance" button: one tap and you go straight into the next stage. In the Campaign, "Start Auto-Farm" starts fighting right away.
+[*]No more waiting on Continue: offline earnings are calculated in the background. And if the game is open but you're not fighting, earnings still come in live.
+[*]Loot now bounces out when it drops, the chest got bigger, and a batch of battle sound effects was replaced.
+[*]The Production Management Dept. gained a Gold Section and a Runestone Section; Hall level 28 has a new rank title.
+[*]Low-cost damage dealers come early; magic users got seven Intellect weapons; the whole UI got a consistency pass.
+[*]The Offline Debrief now also lists chapter materials and trade goods, and Academy research cards spell out each effect more clearly; battles, loading and some pages also run more smoothly.
+[/list]
+
+Which of these do you most want to try first? And if anything in the trailer looks off, let me know in the comments.
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url] | [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]

@@ -1,0 +1,73 @@
+Nouvelle bande-annonce : qu'a la version de développement de plus que la démo ?
+发布日期：2026-10-31 13:26（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704409462168881272?l=french
+
+Bonjour à tous, ici Juanmao.
+
+Il y a une nouvelle bande-annonce sur la page du magasin. Cette fois, toutes les images viennent de la version de développement : ça s'ouvre sur des héros 5 étoiles qui lancent leur ultime à tour de rôle, puis viennent la carte de Campagne, le recrutement, la promotion, les esprits gardiens, les répliques de l'histoire avant les combats, les combats et le Journal, l'avancée auto, et pour finir les épreuves et les défis de boss. Elle est tout en haut de la page du magasin.
+
+Je précise d'abord : la bande-annonce montre une version encore en développement. Tout ce qui suit, ce sont de nouveaux changements apportés à partir de la démo publique actuelle ; ils ne sont pas encore dans la démo. On ne sait pas encore quand exactement vous pourrez y jouer, et le contenu peut encore évoluer. J'ai aussi remis ici ce dont j'avais déjà parlé, pour que vous ayez tout sous les yeux d'un coup.
+
+[h2]Campagne et histoire[/h2]
+[list]
+[*]La Campagne passe à une carte à trois niveaux : carte des ères, carte des chapitres et carte de zone à défilement horizontal. La carte des ères se fait glisser et zoomer, et chaque changement de carte a sa transition.
+[*]Le Journal de combat devient une grande page horizontale qui aligne, ligne par ligne, les dégâts de chacun.
+[*]L'histoire principale est là : chapitres 1 à 20 plus la fin, 100 étapes par chapitre. Chaque chapitre s'ouvre sur un écran-titre ; avant et après les combats, des scènes illustrées et des dialogues se jouent, et on peut les passer en haut à droite. Après l'étape 2000, une fin vous attend, où vous ferez votre propre choix. À noter : les textes de l'histoire n'existent pour l'instant qu'en chinois et en anglais ; en français, l'histoire s'affiche en anglais.
+[*]Le prologue a été refait en un seul combat à dix contre dix : « La Forteresse du Nord · La dernière nuit ». Les scènes d'histoire manquées sont rejouées dans l'ordre à votre retour à la Forteresse.
+[*]Dans les étapes d'apprentissage du début de la Campagne, un membre de votre équipe dit une phrase au lancement du combat, avec son portrait ; en cas de défaite, le tampon « Défaite » laisse place à un personnage qui vous dit ce qui manque.
+[*]Cinq héros légendaires et deux Barbares disent une phrase en rejoignant l'équipe, et le Dossier des légendaires raconte désormais des retrouvailles après leur séparation ; la Diva triomphale vous rejoint plus tôt. Les répliques manquées hors ligne se rattrapent à votre retour, dans le bilan hors ligne.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/ed023a26f64f33c27cf075dcc32714d3199e3af9.jpg[/img]
+
+[h2]Recrutement et progression[/h2]
+[list]
+[*]Après l'étape 100, les héros peu étoilés se recrutent à la Taverne, avec des tickets de recrutement d'ère ; ces tickets tombent dans les étapes et s'achètent ou se vendent aussi au Marché. La garantie a aussi déménagé à la Taverne : un héros légendaire peut directement devenir votre cible de garantie.
+[*]La promotion tient sur une seule carte : d'un rang, ou directement jusqu'au maximum ; l'Effectif propose aussi « Tout promouvoir ». À partir de l'ère 3, un héros promu est directement au niveau maximum.
+[*]Le renforcement se fait désormais sur la case (« Renfort des cases ») : changez d'équipement librement, le renforcement reste. Le nouvel équipement obtenu n'est pas verrouillé par défaut ; l'équipement légendaire, lui, l'est toujours.
+[*]La navigation gagne un drapeau « Héros » : c'est par là qu'on accède à l'Effectif et au renforcement.
+[/list]
+
+[h2]Esprits gardiens[/h2]
+[list]
+[*]Dans la Campagne, les œufs d'esprit tombent bien plus souvent, et vont d'abord aux esprits gardiens épiques déployés qui ne sont pas encore au maximum.
+[*]La première fois que vous passez les étapes 600, 1000, 1400 et 1800, vous recevez chaque fois un esprit gardien épique que vous n'avez pas encore.
+[*]Épreuve d'ère, palier Cauchemar : la première victoire rapporte un œuf d'esprit légendaire ; ensuite, toutes les 150 étapes de plus dans la Campagne, « Revanche » vous permet d'en obtenir un autre.
+[*]L'essence d'esprit a maintenant une source régulière : 2 au premier passage d'une étape de boss, et le ratissage comme le hors-ligne en rapportent aussi chaque heure.
+[*]Deux esprits gardiens « D'un seul cœur » engagés ensemble : la portée de chacun s'agrandit d'une case.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/0847b71ed0a8c9134b5107313590652c6e8aff1a.jpg[/img]
+
+[h2]Combats et composition[/h2]
+[list]
+[*]Les soigneurs se divisent en quatre types ; avec le moral au maximum, la Sainte au halo solaire et le Hiérarque de la Cloche engloutie relèvent le premier allié tombé. Les attaques de base des soutiens ont aussi chacune leur utilité.
+[*]Les 21 Combattants deviennent des Défenseurs de contrôle ; quant aux Barbares, plus leurs PV sont bas, plus les malus qu'ils infligent aux ennemis sont puissants.
+[*]Dans « Équipe », vous pouvez régler la vitesse, et pour chaque aura, on voit quelles cases elle couvre et ce qu'elle apporte.
+[*]Les héros 5 étoiles non éveillés ont eux aussi droit au gros plan d'ultime quand ils lancent leur Spécialité ; les chiffres de dégâts, les sons d'ouverture des combats et l'effet de résurrection ont aussi été retravaillés.
+[*]Les malus comme la baisse d'attaque ou de vitesse sont plafonnés ; une fois au plafond, un petit cadenas apparaît. Les bonus retirés par une Dissipation s'envolent en tournoyant : on voit tout de suite ce qui a sauté.
+[*]La vitesse de combat se limite désormais à ×1 et ×2 ; les combats normaux ont un nouveau morceau, et les deux passent à tour de rôle.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/623e5bd13fa6f49082250f5ca15e652475f6adfe.jpg[/img]
+
+[h2]Quand ça coince[/h2]
+[list]
+[*]La Reconnaissance gagne « Ce que demande l'étape » : elle vous dit ce que l'étape met à l'épreuve et qui peut y répondre.
+[*]Après une défaite, la carte de défaite indique quel rôle manque et suggère qui faire entrer depuis la réserve.
+[*]À la première défaite sur une étape d'apprentissage, le jeu vous montre directement comment combler le manque, par exemple placer le Défenseur tout devant.
+[*]Si l'avancée hors ligne s'arrête sur une défaite, le bilan hors ligne vous montre aussi, à votre retour, quel rôle manque.
+[/list]
+
+[h2]Autres changements[/h2]
+[list]
+[*]Après une victoire, la carte de résultats propose « Avancée auto » : un clic et vous enchaînez sur l'étape suivante. Dans la Campagne, « Lancer le farm auto » démarre le combat tout de suite.
+[*]Plus d'attente en reprenant la partie : les gains hors ligne se calculent en arrière-plan. Et quand le jeu est ouvert mais que vous ne combattez pas, les gains continuent d'arriver en temps réel.
+[*]Le butin rebondit maintenant en tombant, le coffre est plus grand, et une partie des bruitages de combat a été remplacée.
+[*]La Direction de la production gagne une Section or et une Section pierres runiques ; le Grand hall niveau 28 apporte un nouveau titre.
+[*]En début de partie, vous recevez d'abord des attaquants peu coûteux ; les mages ont reçu sept nouvelles armes d'Intelligence ; et toute l'interface a été harmonisée.
+[*]Le bilan hors ligne affiche aussi les matériaux de chapitre et les marchandises, et les cartes de recherche de l'Académie détaillent plus clairement chaque effet ; les combats, les chargements et certaines pages sont aussi plus fluides.
+[/list]
+
+Lequel de ces changements avez-vous le plus envie d'essayer en premier ? Et si quelque chose vous semble bizarre dans la bande-annonce, dites-le-moi dans les commentaires.
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+[url=https://store.steampowered.com/app/5257220/]Jouer à la démo gratuite[/url] | [url=https://store.steampowered.com/app/4855890/]Ajouter le jeu complet à votre liste de souhaits[/url]

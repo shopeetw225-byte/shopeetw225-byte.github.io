@@ -1,0 +1,73 @@
+Trailer novo: o que a versão em desenvolvimento tem que a demo atual não tem?
+发布日期：2026-10-31 13:26（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704409462168881272?l=brazilian
+
+Olá, pessoal! Aqui é o Juanmao.
+
+A página da loja está com trailer novo. Tudo o que aparece nele é da versão em desenvolvimento: começa com heróis 5 estrelas soltando a suprema um atrás do outro, e depois vêm o mapa da Campanha, o recrutamento, a promoção, os espíritos guardiões, as falas da história antes das batalhas, as batalhas e o Registro, o avanço automático e, no final, os Desafios e os combates de chefe. É só abrir a página da loja: ele está logo no topo.
+
+Antes de tudo: o trailer mostra uma versão em desenvolvimento. Tudo o que vem abaixo são mudanças novas feitas em cima da demo pública atual, e a demo de agora ainda não tem nada disso; ainda não há data para quando vai dar para jogar, e o conteúdo pode continuar mudando. Também juntei aqui o que eu já tinha comentado antes, para dar para ver tudo de uma vez.
+
+[h2]Campanha e história[/h2]
+[list]
+[*]A Campanha agora tem um mapa em três camadas: o mapa das eras, o mapa dos capítulos e o mapa de zona com rolagem lateral. Dá para arrastar e dar zoom no mapa das eras, e a troca de mapa tem transição.
+[*]O Registro da batalha agora é uma página grande na horizontal, mostrando linha por linha quanto dano cada um causou.
+[*]A campanha agora tem história: capítulos 1 a 20 mais o final, com 100 fases por capítulo. Cada capítulo abre com um cartão de capítulo, antes e depois das batalhas rolam ilustrações e diálogos, e dá para pular tudo no botão "Pular história", no canto superior direito. Depois da fase 2000 vem o final, e você faz a sua própria escolha. Por enquanto, os textos da história só existem em chinês e inglês, então em português a história aparece em inglês.
+[*]O prólogo foi refeito como uma única batalha de dez contra dez: "A Fortaleza do Norte · A Última Noite". As cenas da história que você perder aparecem em ordem quando você voltar à Fortaleza.
+[*]Nas fases de aprendizado do começo da campanha, quando a luta começa, um personagem do time solta uma fala, com retrato; e se você perder, o carimbo de Derrota agora traz um personagem dizendo o que está faltando.
+[*]5 heróis lendários e 2 Bárbaros dizem uma frase ao entrar no time, e o Dossiê de cada lendário agora conta o reencontro depois da separação. A Diva Triunfal aparece mais cedo. E as falas perdidas enquanto você estava offline aparecem no relatório offline quando você volta.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/ed023a26f64f33c27cf075dcc32714d3199e3af9.jpg[/img]
+
+[h2]Recrutamento e evolução[/h2]
+[list]
+[*]Depois da fase 100, os heróis de poucas estrelas passam a ser recrutados na Taverna com Bilhetes de Recrutamento da Era; os bilhetes caem nas fases e ainda podem ser comprados e vendidos no Mercado. A garantia também foi para a Taverna, e dá para definir um herói lendário direto como alvo da garantia.
+[*]A promoção agora fica num único cartão: dá para subir uma patente ou ir direto até a máxima, e o Elenco de heróis também tem "Promover todos". A partir da era 3, promoveu, está no nível máximo.
+[*]O aprimoramento agora fica nos espaços: troque de equipamento à vontade que ele continua lá. Equipamentos novos não vêm mais travados por padrão, exceto os lendários, que continuam travados.
+[*]A barra de navegação ganhou a bandeira "Heróis": é por ela que se entra no Elenco e no aprimoramento.
+[/list]
+
+[h2]Espíritos guardiões[/h2]
+[list]
+[*]A chance de cair ovo espiritual na campanha aumentou bastante, e os ovos vão primeiro para os espíritos guardiões épicos do time em campo que ainda não estão no máximo.
+[*]Na primeira vez que você passa das fases 600, 1000, 1400 e 1800, cada uma dá um espírito guardião épico que você ainda não tem.
+[*]Grau Pesadelo do Desafio da era: a primeira vitória dá um ovo espiritual lendário e, depois, a cada 150 fases a mais que você avançar na campanha, dá para pegar mais um com "Revanche".
+[*]A essência espiritual agora tem uma fonte estável: passar uma fase de chefe pela primeira vez dá 2, e a varredura e o tempo offline também rendem um pouco a cada hora.
+[*]Com dois espíritos guardiões "Um Só Coração" juntos em campo, o alcance de cada um aumenta uma casa.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/0847b71ed0a8c9134b5107313590652c6e8aff1a.jpg[/img]
+
+[h2]Batalhas e formação[/h2]
+[list]
+[*]Os curandeiros agora têm quatro tipos, e com a Moral cheia a Santa do Halo Solar e o Hierarca do Sino Submerso levantam o primeiro aliado que caiu. Os ataques básicos dos suportes também têm, cada um, sua utilidade.
+[*]Os 21 Lutadores agora são tanques de supressão, e os Bárbaros aplicam penalidades mais pesadas nos inimigos quanto menos vida eles mesmos têm.
+[*]Na tela Equipe dá para ajustar a velocidade de cada herói, e aparece quais casas cada aura cobre e quanto ela dá.
+[*]Heróis 5 estrelas sem Despertar também ganham o close da suprema ao usar a habilidade exclusiva. Os números de dano, os sons de abertura das batalhas e o efeito de reviver também foram ajustados.
+[*]Penalidades como redução de ataque e de velocidade têm limite: quando acumulam até o máximo, aparece um cadeadinho. E os bônus removidos por Dissipar saem voando, para dar para ver na hora.
+[*]A velocidade de batalha agora é só ×1 e ×2. As batalhas normais ganharam mais uma música, e as duas se revezam.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/623e5bd13fa6f49082250f5ca15e652475f6adfe.jpg[/img]
+
+[h2]Quando não dá para vencer[/h2]
+[list]
+[*]O Reconhecimento ganhou "O que esta fase pede": mostra o que a fase testa e quem pode resolver.
+[*]Se você perder, o cartão de derrota mostra qual função está faltando e ainda sugere quem trazer da reserva.
+[*]Nas fases de aprendizado, a primeira derrota já ensina direto a cobrir o que falta, por exemplo, colocar o tanque lá na frente.
+[*]Se o avanço offline parar numa derrota, quando você voltar o relatório offline também mostra qual função estava faltando.
+[/list]
+
+[h2]Outras mudanças[/h2]
+[list]
+[*]Ao vencer, o cartão de resultado ganhou "Avanço automático": um toque e você já parte para a próxima fase. Na Campanha, "Iniciar farm auto." começa a lutar na hora.
+[*]Nada de esperar ao continuar: os ganhos offline são calculados em segundo plano. E com o jogo aberto, mesmo sem estar lutando, os ganhos continuam entrando em tempo real.
+[*]O saque agora sai quicando, o baú ficou maior e parte dos efeitos sonoros de batalha foi trocada.
+[*]O Departamento de Gestão de Produção ganhou a Seção de Ouro e a Seção de Pedra Rúnica, e o Salão tem um título novo no nível 28.
+[*]No começo, você recebe primeiro heróis de dano de baixo custo; os magos ganharam sete armas de Intelecto; e a interface do jogo inteiro foi padronizada.
+[*]O relatório offline agora mostra os materiais de capítulo e as mercadorias, e os cartões de pesquisa da Academia listam cada efeito com mais clareza. Combates, carregamentos e algumas telas também ficaram mais fluidos.
+[/list]
+
+Qual dessas mudanças você mais quer experimentar primeiro? E se algo no trailer parecer estranho, me conta nos comentários.
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+[url=https://store.steampowered.com/app/5257220/]Jogue a demo gratuita[/url] | [url=https://store.steampowered.com/app/4855890/]Adicione o jogo completo à sua lista de desejos[/url]
