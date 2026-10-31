@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "bilibili_sent": 4,
+  "bilibili_sent": 20,
   "bilibili": [
     {
       "name": "Ssd_sd",
@@ -20,6 +20,86 @@
     {
       "name": "崇战",
       "url": "https://space.bilibili.com/1601115105",
+      "status": "sent"
+    },
+    {
+      "name": "西瓜的联机游戏推荐",
+      "url": "https://space.bilibili.com/1846104759",
+      "status": "sent"
+    },
+    {
+      "name": "谜之声",
+      "url": "https://space.bilibili.com/673816",
+      "status": "sent"
+    },
+    {
+      "name": "单机肥肥王日君",
+      "url": "https://space.bilibili.com/1069246841",
+      "status": "sent"
+    },
+    {
+      "name": "老纯洁oldcleaner",
+      "url": "https://space.bilibili.com/6457836",
+      "status": "sent"
+    },
+    {
+      "name": "浮生面具三千个谁人共我长歌",
+      "url": "https://space.bilibili.com/66629312",
+      "status": "sent"
+    },
+    {
+      "name": "cod小狼解说",
+      "url": "https://space.bilibili.com/381784289",
+      "status": "sent"
+    },
+    {
+      "name": "脆餅-BiscuitMiner",
+      "url": "https://space.bilibili.com/10633514",
+      "status": "sent"
+    },
+    {
+      "name": "剑八先生",
+      "url": "https://space.bilibili.com/486113902",
+      "status": "sent"
+    },
+    {
+      "name": "流年不待陌笺",
+      "url": "https://space.bilibili.com/609120382",
+      "status": "sent"
+    },
+    {
+      "name": "Me1ody长醉",
+      "url": "https://space.bilibili.com/37068316",
+      "status": "sent"
+    },
+    {
+      "name": "游戏蛋壳",
+      "url": "https://space.bilibili.com/3546712635345738",
+      "status": "sent"
+    },
+    {
+      "name": "不该睡觉了",
+      "url": "https://space.bilibili.com/127284",
+      "status": "sent"
+    },
+    {
+      "name": "NeptuneFlare",
+      "url": "https://space.bilibili.com/342017283",
+      "status": "sent"
+    },
+    {
+      "name": "剧情游戏-唐铮姐姐",
+      "url": "https://space.bilibili.com/39520079",
+      "status": "sent"
+    },
+    {
+      "name": "阿玮是人",
+      "url": "https://space.bilibili.com/44222886",
+      "status": "sent"
+    },
+    {
+      "name": "keke客-寻找游戏合作版",
+      "url": "https://space.bilibili.com/451366755",
       "status": "sent"
     }
   ],
