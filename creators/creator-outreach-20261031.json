@@ -1,10 +1,15 @@
 {
   "date": "2026-10-31",
-  "bilibili_sent": 1,
+  "bilibili_sent": 2,
   "bilibili": [
     {
       "name": "Ssd_sd",
       "url": "https://space.bilibili.com/499936",
+      "status": "sent"
+    },
+    {
+      "name": "小欧_沉淀欧",
+      "url": "https://space.bilibili.com/3493114041863110",
       "status": "sent"
     }
   ],
