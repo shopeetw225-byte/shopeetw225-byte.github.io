@@ -940,6 +940,12 @@
       "category": "试玩邀请",
       "text": "向7位 B站创作者发送免费 Demo 试玩邀请。",
       "url": "/creators/creator-outreach-20261101.html"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "宣传",
+      "text": "在 Discord 分享第十三期视频。",
+      "url": "/?work=episode13-update2"
     }
   ]
 }
