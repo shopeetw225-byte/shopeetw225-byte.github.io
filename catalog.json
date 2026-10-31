@@ -7895,6 +7895,77 @@
       ],
       "detailNote": "按 Steam 当前公开版本归档；日期采用北京时间。上方内容要点为归档摘要。",
       "cover": "assets/f56d246e6042.jpg"
+    },
+    {
+      "id": "episode13-update2",
+      "title": "第十三期 · 更新篇二",
+      "category": "宣传视频",
+      "group": "平台视频",
+      "date": "2026-10-31",
+      "dateBasis": "成片与已核实平台发布日期",
+      "summary": "《放置事务所》开发日志第十三期。",
+      "files": [
+        {
+          "name": "简中横屏版_第13期_更新篇二.mp4",
+          "url": "assets/episode13-preview-20261031.mp4",
+          "type": "video",
+          "source": "视频制作/第十三期 更新篇二/成片/简中横屏版_第13期_更新篇二.mp4",
+          "sourceSha256": "2993f5ccfb3fa269ffa146241736557ff6b4ac4089382f6ec2bb22ba13166a6a"
+        }
+      ],
+      "cover": "assets/episode13-cover-20261031.jpg",
+      "body": "",
+      "source": "视频制作/第十三期 更新篇二",
+      "episode": 13,
+      "episodeLabel": "开发日志 13",
+      "platformLinkKey": "13",
+      "links": [
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1LKxC6EE9d/",
+          "date": "2026-10-31",
+          "status": "已公开",
+          "source": "2026-10-31 公开作品页面及作者后台核对"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://youtu.be/d5IQaIOZ1m4",
+          "date": "2026-10-31",
+          "status": "已公开",
+          "source": "2026-10-31 公开作品页面及作者后台核对"
+        },
+        {
+          "platform": "X",
+          "url": "https://x.com/Feng21671868/status/2116444421785104505",
+          "date": "2026-10-31",
+          "status": "已公开",
+          "source": "2026-10-31 公开作品页面及作者后台核对"
+        },
+        {
+          "platform": "Threads",
+          "url": "https://www.threads.com/@wtty2252026/post/DfJpnYBj0gX",
+          "date": "2026-10-31",
+          "status": "已公开",
+          "source": "2026-10-31 公开作品页面及作者后台核对"
+        },
+        {
+          "platform": "抖音",
+          "url": "https://www.douyin.com/video/7702743561518746934",
+          "date": "2026-10-31",
+          "status": "已公开",
+          "source": "2026-10-31 作者公开主页及创作者后台核对"
+        },
+        {
+          "platform": "小红书",
+          "url": "https://www.xiaohongshu.com/explore/6ae5a258000000001200c96b?xsec_token=AB0fNfme-IBNgDxf-6IM2A_lu-Pdrd7WDVS7Ze51dkW3k=&xsec_source=pc_user",
+          "date": "2026-10-31",
+          "status": "已公开",
+          "source": "2026-10-31 作者公开主页及笔记页面核对"
+        }
+      ],
+      "status": "已公开 · B站 / YouTube / X / Threads / 抖音 / 小红书",
+      "duration": 223,
+      "detailNote": "第十三期简中横屏压缩预览与定稿封面；仅列已核实的公开平台链接。"
     }
   ]
 }
