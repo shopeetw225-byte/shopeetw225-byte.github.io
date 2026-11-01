@@ -946,6 +946,28 @@
       "category": "宣传",
       "text": "在 Discord 分享第十三期视频。",
       "url": "/?work=episode13-update2"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "宣传",
+      "text": "发布小黑盒游戏介绍与抽奖帖。"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "宣传",
+      "text": "整理 PressEngine 游戏资料，研究平台宣传活动。"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "宣传",
+      "text": "在 Telegram 分享三语 Steam 主预告片。",
+      "url": "/?work=steam-main-trailer"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "美术归档",
+      "text": "找回并整理10月21日的50张 Steam 商店封面。",
+      "url": "/?work=steam-figma-covers-20261021"
     }
   ]
 }
