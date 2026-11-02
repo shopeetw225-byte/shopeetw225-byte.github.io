@@ -1,9 +1,9 @@
 {
-  "title": "宣传合作计划 · 旧城与小黑盒",
+  "title": "第一轮宣传 · 小黑盒17位作者",
   "date": "2026-10-20",
   "currency": "CNY",
   "total_budget": 20000,
-  "status": "原定8位和新增9位小黑盒作者均已确认合作；新增9位中3篇资讯已核实公开，付款与达标奖励待核",
+  "status": "第一轮小黑盒17位作者；B站旧城未联系，移至第二轮候选",
   "bilibili": [
     {
       "name": "旧城的独游世界",
@@ -15,7 +15,7 @@
       "quote": "植入400元；单篇600元全平台",
       "quote_date": "2026-10-16",
       "quote_source": "用户转述本人报价，content/creator-quotes.json",
-      "note": "本轮按单篇600元列支；报价中的全平台具体范围、档期和交付细节待确认。"
+      "note": "用户于2026-11-02确认第一轮没有联系；移至第二轮候选。600元为历史报价，未确认合作。"
     }
   ],
   "xiaoheihe": [
@@ -489,5 +489,16 @@
     "potential_max_total": 2085,
     "reserve_against_potential_max": 17915,
     "payment_note": "预算情景，不表示奖金已达标或任何费用已付款。"
+  },
+  "round_classification": {
+    "updated": "2026-11-02",
+    "first_round": "小黑盒17位作者；B站旧城移至第二轮候选",
+    "first_round_base_budget": 1180,
+    "first_round_bonus_potential": 305,
+    "first_round_max_budget": 1485,
+    "overall_budget": 20000,
+    "second_round_conservative_budget": 18515,
+    "paid_note": "付款及奖励达标待核，预算不等于实付。",
+    "legacy_totals_note": "totals 和 combined_totals 保留为旧版包含B站候选的历史预算，不代表第一轮实际支出。"
   }
 }
