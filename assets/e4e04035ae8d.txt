@@ -1,0 +1,16 @@
+October 2 Update | A New Look for the Academy
+发布日期：2026-10-02 13:16（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/687518426922484734?l=english
+
+The Academy got most of the attention this time. The overview circle, four skill-tree branches, info cards, era tabs, and total bonuses all have new designs and animations.
+
+Drag and zoom the skill tree, select a node to focus on it, and clear the selection to return. Want your total bonuses? Just click the sign. There is an ink-wash entrance effect, gold connections between learned nodes, and research connections that light up as progress advances.
+
+All twelve classes now have a class trait that actually affects combat, and Mastery 6 advancement is available too. The exclusive weapon stamp progression and advancement effects are still in development. The image below is an interface overview, so keep that in mind.
+
+[img]{STEAM_CLAN_IMAGE}/46216320/a3b1d3f3a000e007d184f5bafef7bf16a064d667.png[/img]
+[i]Equipment interface overview.[/i]
+
+Got a suggestion or a problem? Tell me in the [url=https://steamcommunity.com/app/4855890/discussions/]Steam Discussions[/url]. I read your feedback.
+
+If you like the game, [url=https://store.steampowered.com/app/4855890/]add it to your wishlist[/url].

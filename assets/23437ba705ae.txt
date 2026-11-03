@@ -1,0 +1,58 @@
+Neuer Trailer: Was die Entwicklungsversion mehr hat als die Demo
+发布日期：2026-10-31 13:26（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704409462168881272?l=german
+
+Hallo zusammen, hier ist Juanmao.
+
+Der Trailer auf der Shopseite ist neu, und alle Szenen stammen aus der Entwicklungsversion. Bei der Gelegenheit gibt's eine Zwischenbilanz: Hier sind die wichtigsten Änderungen der Entwicklungsversion gegenüber der aktuellen öffentlichen Demo.
+
+Vorweg: All das steckt in der Entwicklungsversion – in der Demo, die ihr jetzt herunterladen könnt, ist es noch nicht drin. Wann ihr es spielen könnt, steht noch nicht fest, und an den Details kann sich noch etwas ändern.
+
+[h2]Feldzug: Karte mit drei Ebenen[/h2]
+Der Feldzug hat jetzt drei Kartenebenen: Epochenkarte, Kapitelkarte und eine seitlich scrollende Zonenkarte. Ihr könnt sie ziehen und zoomen, und beim Kartenwechsel gibt es einen Übergang. Auch der Kampfbericht ist jetzt eine große Seite im Querformat.
+[img]{STEAM_CLAN_IMAGE}/46216320/16cec0f4c81f335006069b97dc8a8bdc13988867.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/46216320/54bd998ad83dfb1208834909629385cc77f6ffa5.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/46216320/55b9de705534254dba94c0a827fd6fc3efc0f199.jpg[/img]
+
+[h2]Story[/h2]
+Die Hauptstory ist komplett: Kapitel 1 bis 20 plus Ende, vor und nach den Kämpfen mit Zwischensequenzen aus Illustrationen und Dialogen – überspringen könnt ihr sie jederzeit. Auch der Prolog wurde neu gemacht: „Die Nordfestung · Die letzte Nacht“. Und eure Teammitglieder sagen beim Kampfstart, bei einer Niederlage und beim Beitritt jeweils einen Satz. Hinweis: Die Story-Texte gibt es derzeit nur auf Chinesisch und Englisch – auf Deutsch wird die Story auf Englisch angezeigt.
+[img]{STEAM_CLAN_IMAGE}/46216320/b6be9e4ad1c7d5e7802a93beb4b540ad00a38159.jpg[/img]
+
+[h2]Anwerben und Heldenentwicklung[/h2]
+[list]
+[*]Ab Etappe 100 werden Helden mit wenig Sternen in der Taverne angeworben, mit Ära-Anwerbescheinen. Auch die Garantie liegt jetzt in der Taverne.
+[*]Befördern läuft jetzt über eine einzige Karte: Mit einem Klick geht's bis ganz nach oben, und es gibt auch „Alle befördern“. Die Verstärkung bleibt auf dem Ausrüstungsplatz – wechselt ihr Ausrüstung, fangt ihr nicht von vorn an.
+[*]In der Navigation gibt es die neue Fahne „Helden“: Von dort geht es zu euren Helden.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/7b31496e53b5ce1ce96f2e74f7c4c53a19887d2e.jpg[/img]
+
+[h2]Schutzgeister[/h2]
+Wie ihr Schutzgeister bekommt und ausbaut, wurde neu geordnet: Geistereier aus dem Feldzug gehen zuerst an eingesetzte Schutzgeister, die noch nicht voll ausgebaut sind; wer im Feldzug vorankommt, bekommt neue Schutzgeister geschenkt; in der Epochenprüfung holt ihr euch per „Revanche“ legendäre Geistereier; und Geisteressenz hat jetzt eine verlässliche Quelle. Am Zusammenspiel von Schutzgeistern und Helden wird noch weiter gefeilt.
+[img]{STEAM_CLAN_IMAGE}/46216320/a0d6971c5bd59fb411d05b065c3b6122640fc1f8.jpg[/img]
+
+[h2]Kämpfe und Aufstellung[/h2]
+[list]
+[*]Heiler gibt es jetzt in vier Arten, manche können sogar Verbündete wiederbeleben. Kämpfer sind jetzt Verteidiger, die Gegner unterdrücken.
+[*]Im Trupp seht ihr, in welcher Reihenfolge eure Helden handeln und welche Felder eine Aura abdeckt.
+[*]Jeder 5-Sterne-Held bekommt beim Einsatz seiner Signaturfähigkeit eine Ulti-Nahaufnahme; außerdem wurden Schadenszahlen, Sounds zum Kampfbeginn und der Wiederbelebungseffekt überarbeitet.
+[*]Beim Kampftempo gibt es nur noch ×1 und ×2, und normale Kämpfe haben ein zusätzliches Musikstück bekommen.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/623e5bd13fa6f49082250f5ca15e652475f6adfe.jpg[/img]
+
+[h2]Wenn ihr nicht weiterkommt[/h2]
+Die Vorab-Aufklärung sagt euch, wen diese Etappe braucht. Verliert ihr, zeigt die Niederlagenkarte, welche Art Held fehlt und wen ihr einwechseln solltet. Und verliert ihr eine Lektions-Etappe zum ersten Mal, zeigt euch das Spiel direkt, wie ihr die Lücke schließt.
+[img]{STEAM_CLAN_IMAGE}/46216320/c785fda0da39a1eda45259b9631a2775e9074212.jpg[/img]
+
+[h2]Weitere Änderungen[/h2]
+[list]
+[*]Nach einem Sieg könnt ihr „Auto-Vorrücken“ direkt auf der Ergebniskarte einschalten, und „Auto-Farmen starten“ startet den Kampf mit einem Klick.
+[*]Beim Fortsetzen müsst ihr nicht mehr warten. Ist das Spiel offen, ihr kämpft aber gerade nicht, kommen die Erträge trotzdem rein, und der Offline-Bericht listet mehr auf.
+[*]Die Produktionsverwaltung hat eine Goldabteilung und eine Runensteinabteilung dazubekommen; das ganze UI wurde vereinheitlicht, und Kämpfe und Ladevorgänge laufen flüssiger.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/8af5d63c9b3b4e3ab3455e2c7e64669f74e9dfcb.jpg[/img]
+
+Was davon wollt ihr am liebsten zuerst spielen? Und wenn euch im Trailer etwas komisch vorkommt, schreibt es gern in die Kommentare.
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+[url=https://store.steampowered.com/app/5257220/]Kostenlose Demo spielen[/url] | [url=https://store.steampowered.com/app/4855890/]Vollversion auf die Wunschliste setzen[/url]

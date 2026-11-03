@@ -1,0 +1,35 @@
+Demo v2 is here: you can now play all the way to Stage 200!
+发布日期：2026-10-10 18:52（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/687519061335083895?l=english
+
+Hi everyone, I'm Juanmao.
+
+Thank you to everyone who has tried the demo these past few days! Demo v2 is now available. I've added quite a few things to our little agency, so here's a look at what's changed.
+
+[h2]From 60 stages to 200[/h2]
+The first demo ended at Stage 60. Now you can take your team further and meet more heroes along the way. There are 62 heroes available to obtain in this version.
+
+[h2]Beat a boss, welcome a new teammate[/h2]
+On your first victory in a Boss Challenge, the corresponding hero now joins your agency directly. No more taking a token back to the tavern first.
+[img]{STEAM_CLAN_IMAGE}/46216320/2e0369811ba0426e60a8bc1f7114326c95d889e2.png[/img]
+
+[h2]Some of our heroes are moving at last[/h2]
+The first demo used static portraits to keep the download smaller. This update brings back animated portraits for 28 heroes. Seeing characters I've made come to life still makes me happy. I hope you enjoy them too.
+[img]{STEAM_CLAN_IMAGE}/46216320/9e002e151fa147309284196a4bffde8d66b16307.png[/img]
+
+[h2]A little less fuss while you play[/h2]
+[list]
+[*]Start farming once and it keeps going, without choosing a battle count. After three consecutive losses, your team drops back one stage and carries on.
+[*]Early farming rewards have been adjusted. 4× speed now unlocks through Academy research after clearing Stage 60.
+[*]Items and resources have information cards showing their uses and where to find them.
+[*]Volume controls, keyboard shortcuts and dispatch commissions have been improved. Heroes in your active formation can no longer be sent away on commissions.
+[/list]
+This demo goes up to Stage 200. The Trading Market and Trial Tower are not available in the demo. Demo progress will not carry over to the full game.
+
+If something feels awkward, or you have an idea, please leave a message in the [url=https://steamcommunity.com/app/4855890/discussions/]Steam discussions[/url]. I'll be reading.
+
+Thanks for spending a little time at our agency. I'll keep working to make it better.
+
+👉 [url=https://store.steampowered.com/app/5257220/]Play the free demo[/url]
+❤️ [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]
+💬 [url=https://steamcommunity.com/app/4855890/discussions/]Steam discussions[/url]

@@ -1,0 +1,58 @@
+Nouvelle bande-annonce : ce qu'a la version de développement de plus que la démo
+发布日期：2026-10-31 13:26（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704409462168881272?l=french
+
+Bonjour à tous, ici Juanmao.
+
+La bande-annonce de la page du magasin a changé, et toutes les images viennent de la version de développement. J'en profite pour faire un petit bilan : voici les principaux changements de la version de développement par rapport à la démo publique actuelle.
+
+Je précise d'abord : tout ça se trouve dans la version de développement, mais pas encore dans la démo que vous pouvez télécharger maintenant. On ne sait pas encore quand vous pourrez y jouer, et les détails peuvent encore changer.
+
+[h2]Campagne : une carte à trois niveaux[/h2]
+La Campagne se divise en trois niveaux de carte : carte des ères, carte des chapitres et carte de zone à défilement horizontal. Vous pouvez les faire glisser et zoomer, et chaque changement de carte a sa transition. Le Journal de combat devient aussi une grande page horizontale.
+[img]{STEAM_CLAN_IMAGE}/46216320/16cec0f4c81f335006069b97dc8a8bdc13988867.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/46216320/54bd998ad83dfb1208834909629385cc77f6ffa5.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/46216320/55b9de705534254dba94c0a827fd6fc3efc0f199.jpg[/img]
+
+[h2]Histoire[/h2]
+L'histoire principale est complète : chapitres 1 à 20 plus la fin, avec des scènes illustrées et des dialogues avant et après les combats, que vous pouvez passer à tout moment. Le prologue a aussi été refait : « La Forteresse du Nord · La dernière nuit ». Et vos coéquipiers disent une phrase au lancement du combat, en cas de défaite et quand ils rejoignent l'équipe. À noter : les textes de l'histoire n'existent pour l'instant qu'en chinois et en anglais ; en français, l'histoire s'affiche en anglais.
+[img]{STEAM_CLAN_IMAGE}/46216320/b6be9e4ad1c7d5e7802a93beb4b540ad00a38159.jpg[/img]
+
+[h2]Recrutement et progression[/h2]
+[list]
+[*]Après l'étape 100, les héros peu étoilés se recrutent à la Taverne, avec des tickets de recrutement d'ère ; la garantie se trouve aussi à la Taverne.
+[*]La promotion tient sur une seule carte : un clic pour aller jusqu'au maximum, et il y a aussi « Tout promouvoir ». Le renforcement reste sur la case : changer d'équipement ne vous fait pas repartir de zéro.
+[*]La navigation gagne un drapeau « Héros » : c'est par là qu'on accède aux héros.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/7b31496e53b5ce1ce96f2e74f7c4c53a19887d2e.jpg[/img]
+
+[h2]Esprits gardiens[/h2]
+L'obtention et la progression des esprits gardiens ont été remises à plat : les œufs d'esprit de la Campagne vont d'abord aux esprits gardiens déployés qui ne sont pas encore au maximum, avancer dans la Campagne vous offre de nouveaux esprits gardiens, l'épreuve d'ère permet d'obtenir des œufs d'esprit légendaires avec « Revanche », et l'essence d'esprit a maintenant une source régulière. L'entente entre esprits gardiens et héros est encore en cours d'ajustement.
+[img]{STEAM_CLAN_IMAGE}/46216320/a0d6971c5bd59fb411d05b065c3b6122640fc1f8.jpg[/img]
+
+[h2]Combats et composition[/h2]
+[list]
+[*]Les soigneurs se divisent en quatre types, et certains peuvent même ressusciter un allié ; les Combattants deviennent des Défenseurs de contrôle.
+[*]Dans « Équipe », vous voyez l'ordre d'action et les cases couvertes par chaque aura.
+[*]Tous les héros 5 étoiles ont droit au gros plan d'ultime quand ils lancent leur Spécialité ; les chiffres de dégâts, les sons d'ouverture des combats et l'effet de résurrection ont aussi été retravaillés.
+[*]La vitesse de combat se limite à ×1 et ×2, et les combats normaux ont un nouveau morceau.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/623e5bd13fa6f49082250f5ca15e652475f6adfe.jpg[/img]
+
+[h2]Quand ça coince[/h2]
+La Reconnaissance vous dit qui il faut pour l'étape. Après une défaite, la carte de défaite indique quel type de héros manque et qui faire entrer. Et à la première défaite sur une étape d'apprentissage, le jeu vous montre directement comment combler le manque.
+[img]{STEAM_CLAN_IMAGE}/46216320/c785fda0da39a1eda45259b9631a2775e9074212.jpg[/img]
+
+[h2]Autres changements[/h2]
+[list]
+[*]Après une victoire, vous pouvez lancer l'« Avancée auto » directement depuis la carte de résultats ; « Lancer le farm auto » démarre le combat en un clic.
+[*]Plus d'attente en reprenant la partie. Quand le jeu est ouvert mais que vous ne combattez pas, les gains continuent d'arriver, et le bilan hors ligne est plus complet.
+[*]La Direction de la production gagne une Section or et une Section pierres runiques ; toute l'interface a été harmonisée, et les combats et chargements sont plus fluides.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/8af5d63c9b3b4e3ab3455e2c7e64669f74e9dfcb.jpg[/img]
+
+Lequel de ces changements avez-vous le plus envie d'essayer en premier ? Et si quelque chose vous semble bizarre dans la bande-annonce, dites-le-moi dans les commentaires.
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+[url=https://store.steampowered.com/app/5257220/]Jouer à la démo gratuite[/url] | [url=https://store.steampowered.com/app/4855890/]Ajouter le jeu complet à votre liste de souhaits[/url]

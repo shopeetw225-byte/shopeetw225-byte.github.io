@@ -1,0 +1,58 @@
+New trailer, plus a recap: what the dev build has that the Demo doesn't
+发布日期：2026-10-31 13:26（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704409462168881272?l=english
+
+Hi everyone, Juanmao here.
+
+The trailer on the store page has been updated, and it's all footage from the development build. So here's a progress recap: the main changes in the development build compared with the current public Demo.
+
+To be clear: all of this is in the development build and not in the Demo you can download now. There's no date yet for when you'll be able to play it, and details may still change.
+
+[h2]Campaign: a three-layer map[/h2]
+The Campaign now has three map layers: the Epoch map, the Chapter Map and a side-scrolling zone map. You can drag and zoom, and switching maps has a transition. The Battle Log is now a big horizontal page too.
+[img]{STEAM_CLAN_IMAGE}/46216320/16cec0f4c81f335006069b97dc8a8bdc13988867.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/46216320/54bd998ad83dfb1208834909629385cc77f6ffa5.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/46216320/55b9de705534254dba94c0a827fd6fc3efc0f199.jpg[/img]
+
+[h2]Story[/h2]
+The main campaign now has a full story: Chapters 1 to 20 plus an ending, with cutscene illustrations and dialogue before and after battles that you can skip at any time. The prologue has been redone as "The Northern Fortress · The Last Night". Your heroes also say a line when a fight starts, when you lose, and when they join.
+[img]{STEAM_CLAN_IMAGE}/46216320/b6be9e4ad1c7d5e7802a93beb4b540ad00a38159.jpg[/img]
+
+[h2]Recruiting and growth[/h2]
+[list]
+[*]After stage 100, low-star heroes are recruited at the Tavern with Era Recruit Tickets, and guarantees are there too.
+[*]Rank Up is now a single card that can take a hero straight to the max, and there's "Rank Up All"; enhancement stays on the slot, so swapping gear doesn't reset it.
+[*]A new "Heroes" flag in the navigation bar takes you to your heroes.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/7b31496e53b5ce1ce96f2e74f7c4c53a19887d2e.jpg[/img]
+
+[h2]Guardian Spirits[/h2]
+Getting and raising Guardian Spirits has been reorganized: spirit eggs from the main campaign go first to deployed spirits that aren't fully grown, pushing through the campaign gives you new guardian spirits, Epoch trials let you trade for Legendary spirit eggs with "Rematch", and Spirit essence now has steady sources. How guardian spirits work with heroes is still being adjusted.
+[img]{STEAM_CLAN_IMAGE}/46216320/a0d6971c5bd59fb411d05b065c3b6122640fc1f8.jpg[/img]
+
+[h2]Battles and team building[/h2]
+[list]
+[*]Healers come in four types, and some can revive allies; Fighters are now suppressor tanks.
+[*]In Formation you can see the turn order and which tiles each aura covers.
+[*]All 5-star heroes get an ultimate close-up for their signature ability, and damage numbers, battle-start sounds and revive effects have been redone.
+[*]Battle speed is down to ×1 and ×2, and normal battles have a second music track.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/623e5bd13fa6f49082250f5ca15e652475f6adfe.jpg[/img]
+
+[h2]When you can't win[/h2]
+Pre-Battle Recon tells you what each stage asks for. If you lose, the defeat card shows which kind of hero you're missing and who to swap in, and the first time you lose a lesson stage, the game shows you how to fix it.
+[img]{STEAM_CLAN_IMAGE}/46216320/c785fda0da39a1eda45259b9631a2775e9074212.jpg[/img]
+
+[h2]Other changes[/h2]
+[list]
+[*]After a win you can turn on "Auto-advance" right from the result card, and "Start Auto-Farm" starts fighting with one tap.
+[*]No more waiting on Continue; earnings keep coming in while the game is open but you're not fighting, and the Offline Debrief lists more.
+[*]The Production Management Dept. gained a Gold Section and a Runestone Section; the UI got a consistency pass, and battles and loading run more smoothly.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/8af5d63c9b3b4e3ab3455e2c7e64669f74e9dfcb.jpg[/img]
+
+Which of these do you most want to try first? And if anything in the trailer looks off, let me know in the comments.
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url] | [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]

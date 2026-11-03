@@ -1,0 +1,58 @@
+Trailer novo: o que a versão em desenvolvimento tem a mais que a demo
+发布日期：2026-10-31 13:26（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704409462168881272?l=brazilian
+
+Olá, pessoal! Aqui é o Juanmao.
+
+O trailer da página da loja é novo, e tudo nele é da versão em desenvolvimento. Aproveitei para fazer um resumo: estas são as principais mudanças da versão em desenvolvimento em relação à demo pública atual.
+
+Antes de tudo: tudo isso está na versão em desenvolvimento, e a demo que dá para baixar agora ainda não tem nada disso. Ainda não há data para quando vai dar para jogar, e os detalhes podem mudar.
+
+[h2]Campanha: mapa em três camadas[/h2]
+A Campanha agora tem três camadas de mapa: o mapa das eras, o mapa dos capítulos e o mapa de zona na horizontal. Dá para arrastar e dar zoom, e a troca de mapa tem transição. O Registro da batalha também virou uma página grande na horizontal.
+[img]{STEAM_CLAN_IMAGE}/46216320/16cec0f4c81f335006069b97dc8a8bdc13988867.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/46216320/54bd998ad83dfb1208834909629385cc77f6ffa5.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/46216320/55b9de705534254dba94c0a827fd6fc3efc0f199.jpg[/img]
+
+[h2]História[/h2]
+A campanha principal ganhou história completa: capítulos 1 a 20 mais o final, com ilustrações e diálogos antes e depois das batalhas, que dá para pular quando quiser. O prólogo também foi refeito: "A Fortaleza do Norte · A Última Noite". E os companheiros de time soltam uma fala quando a luta começa, quando você perde e quando entram no time. Por enquanto, os textos da história só existem em chinês e inglês, então em português a história aparece em inglês.
+[img]{STEAM_CLAN_IMAGE}/46216320/b6be9e4ad1c7d5e7802a93beb4b540ad00a38159.jpg[/img]
+
+[h2]Recrutamento e evolução[/h2]
+[list]
+[*]Depois da fase 100, os heróis de poucas estrelas são recrutados na Taverna com Bilhetes de Recrutamento da Era, e a garantia também fica na Taverna.
+[*]A promoção agora fica num único cartão: dá para ir direto até a máxima com um toque, e também tem "Promover todos". O aprimoramento fica no espaço, então trocar de equipamento não faz você começar do zero.
+[*]A barra de navegação ganhou a bandeira "Heróis": é por ela que se entra nos heróis.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/7b31496e53b5ce1ce96f2e74f7c4c53a19887d2e.jpg[/img]
+
+[h2]Espíritos guardiões[/h2]
+O jeito de conseguir e evoluir espíritos guardiões foi reorganizado: os ovos espirituais da campanha vão primeiro para os espíritos guardiões em campo que ainda não estão no máximo, avançar na campanha dá espíritos guardiões novos, no Desafio da era dá para pegar ovos espirituais lendários com "Revanche", e a essência espiritual agora tem uma fonte estável. A sinergia entre espíritos guardiões e heróis ainda está sendo ajustada.
+[img]{STEAM_CLAN_IMAGE}/46216320/a0d6971c5bd59fb411d05b065c3b6122640fc1f8.jpg[/img]
+
+[h2]Batalhas e formação[/h2]
+[list]
+[*]Os curandeiros agora têm quatro tipos, e alguns até revivem aliados; os Lutadores viraram tanques de supressão.
+[*]Na Equipe dá para ver a ordem de ação e quais casas cada aura cobre.
+[*]Todo herói 5 estrelas ganha o close da suprema ao usar a habilidade exclusiva, e os números de dano, os sons de abertura das batalhas e o efeito de reviver também foram refeitos.
+[*]A velocidade de batalha agora é só ×1 e ×2, e as batalhas normais ganharam mais uma música.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/623e5bd13fa6f49082250f5ca15e652475f6adfe.jpg[/img]
+
+[h2]Quando não dá para vencer[/h2]
+O Reconhecimento mostra quem esta fase pede. Se você perder, o cartão de derrota mostra que tipo de herói está faltando e quem colocar no lugar. E na primeira derrota numa fase de aprendizado, o jogo já ensina direto a cobrir o que falta.
+[img]{STEAM_CLAN_IMAGE}/46216320/c785fda0da39a1eda45259b9631a2775e9074212.jpg[/img]
+
+[h2]Outras mudanças[/h2]
+[list]
+[*]Ao vencer, dá para ligar o "Avanço automático" direto no cartão de resultado, e "Iniciar farm auto." já começa a lutar com um toque.
+[*]Nada de esperar ao continuar. Com o jogo aberto, mesmo sem lutar, os ganhos continuam entrando, e o relatório offline ficou mais completo.
+[*]O Departamento de Gestão de Produção ganhou a Seção de Ouro e a Seção de Pedra Rúnica; a interface inteira foi padronizada, e batalhas e carregamentos ficaram mais fluidos.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/8af5d63c9b3b4e3ab3455e2c7e64669f74e9dfcb.jpg[/img]
+
+Qual dessas mudanças você mais quer experimentar primeiro? E se algo no trailer parecer estranho, me conta nos comentários.
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+[url=https://store.steampowered.com/app/5257220/]Jogue a demo gratuita[/url] | [url=https://store.steampowered.com/app/4855890/]Adicione o jogo completo à sua lista de desejos[/url]

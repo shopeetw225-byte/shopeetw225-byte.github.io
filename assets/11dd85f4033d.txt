@@ -1,0 +1,56 @@
+Avancement : carte de Campagne à trois niveaux, Taverne, promotion en un clic
+发布日期：2026-10-27 14:27（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704408827984878187?l=french
+
+Bonjour à tous, ici Juanmao.
+
+Depuis la mise à jour de la démo du 23 octobre, beaucoup de choses ont encore changé dans la version de développement. Certaines revoient la façon dont ça marchait, d'autres sont toutes nouvelles et n'avaient jamais été évoquées. Voici tout d'un coup.
+
+Je précise d'abord : tout ce qui suit est encore en cours et ne se trouve pas dans la démo téléchargeable aujourd'hui.
+
+[h2]Campagne : une carte à trois niveaux[/h2]
+La Campagne a maintenant trois niveaux : la carte des ères, la carte des chapitres et une carte de zone à défilement horizontal. La carte des ères se fait glisser et zoomer : il y a enfin une vraie carte du monde.
+Quand vous enchaînez sur l'étape suivante et changez de carte, il y a une transition : les deux armées s'effacent, l'encre se répand, puis on avance sur la nouvelle carte.
+Le rapport de combat est maintenant une grande page horizontale qui aligne, ligne par ligne, les dégâts de chacun.
+[img]https://clan.akamai.steamstatic.com/images/46216320/bee7378b69aada9b5cce923ff028e1362518bc60.jpg[/img]
+
+[h2]Taverne : les héros peu étoilés se recrutent ici[/h2]
+Après l'étape 100, les héros peu étoilés ne tombent plus des étapes : on les recrute à la Taverne. Sa liste change toutes les heures, et on recrute avec des Tickets de recrutement d'ère. Ces tickets tombent dans les étapes et s'achètent ou se vendent aussi au Marché.
+Les garanties ont aussi déménagé à la Taverne, avec un tableau des garanties. Depuis la fiche d'un héros légendaire, vous pouvez directement en faire la cible de garantie ; la progression s'affiche aussi dans la Campagne, et un clic vous emmène à la Taverne.
+
+[h2]Progression : moins de clics[/h2]
+[list]
+[*]Promotion : avant, il fallait cliquer rang par rang et changer deux fois de page. Maintenant, tout tient sur une seule carte avec un graphique des caractéristiques lisible d'un coup d'œil ; vous pouvez monter d'un rang ou directement au maximum. L'Effectif a aussi un bouton « Tout promouvoir » qui promeut d'un coup tous ceux qui peuvent l'être.
+[*]Niveau : à partir de l'ère 3, le niveau suit le rang. Une promotion et vous êtes au niveau maximum, plus besoin de dépenser de l'expérience niveau par niveau.
+[*]Renforcement : avant, il était lié à l'équipement, et changer de pièce obligeait à tout renforcer à nouveau. Maintenant, c'est l'emplacement qu'on renforce : changez d'équipement librement, le renforcement reste. Le raffinage a été intégré à la percée d'emplacement, et l'ancien héritage, devenu inutile, a été supprimé.
+[/list]
+[img]https://clan.akamai.steamstatic.com/images/46216320/fd3b5f76babdcfccf47f741f35e175fb12669c77.jpg[/img]
+
+[h2]Combats et composition[/h2]
+[list]
+[*]Les soigneurs se divisent en quatre types : les deux rangées avant, les deux rangées arrière, toute l'équipe, ou les un à trois alliés avec le moins de PV. Avec le moral au maximum, la Sainte au halo solaire et le Hiérarque de la Cloche engloutie ramènent le premier allié tombé.
+[*]Les attaques de base des soutiens servent enfin à quelque chose : les Clercs soignent une cible, les Druides soignent sur la durée, les Bardes donnent du moral et les Bannerets cumulent de l'attaque sur les alliés.
+[*]Les 21 Combattants sont tous devenus des tanks de contrôle, en trois types : encaisser, contrôler et briser l'armure.
+[*]Dans la composition, vous pouvez régler la vitesse de chaque héros et voir tout de suite qui agit en premier au premier tour. L'onglet « Aura » détaille ce que donne chaque aura et les cases qu'elle couvre. Un nouveau panneau de stats d'équipe apparaît à droite, et cliquer sur une case vide ouvre directement votre Effectif.
+[*]Synergie des esprits gardiens : avant, il fallait quatre héros de la même classe sur le terrain. Maintenant, deux esprits gardiens « D'un seul cœur » ensemble suffisent, et la portée de chacun s'agrandit d'une case.
+[*]Les héros 5 étoiles non éveillés ont désormais eux aussi le gros plan quand ils lancent leur spécialité.
+[*]La Reconnaissance gagne « Qui répond » : on voit d'un coup d'œil ce qu'une étape met à l'épreuve et qui, dans l'équipe, sur le banc ou en réserve, peut y répondre. Après trois défaites d'affilée sur la même étape, elle vous dit clairement ce qui vous manque.
+[/list]
+[img]https://clan.akamai.steamstatic.com/images/46216320/eeeeaa18e83e4ee36675675f0d7b016e8ca54c08.jpg[/img]
+
+[h2]Autres changements[/h2]
+[list]
+[*]Plus d'attente en reprenant la partie : vous entrez directement en jeu, et les gains hors ligne se calculent en arrière-plan.
+[*]L'avancée automatique n'affiche plus les plaques de nom ni les tampons de victoire ou de défaite. À votre première victoire manuelle, le jeu vous demande si vous voulez activer les combats automatiques. Dans la Campagne, « Lancer le farm auto » démarre le combat tout de suite.
+[*]Le butin rebondit maintenant en tombant, le coffre en bas à gauche est plus grand, et une partie des bruitages de combat a été remplacée.
+[*]La Direction de la production gagne une Section or et une Section pierres runiques, et vous pouvez affecter du monde aux postes pour gagner en maîtrise.
+[*]Le Grand hall niveau 28 ajoute un nouveau titre : Colonel de cavalerie.
+[*]En début de partie, vous recevez d'abord des attaquants peu coûteux, pour un démarrage plus simple. Les mages ont reçu sept nouvelles armes d'Intelligence, et la force affichée sur la page des héros est plus juste : elle ne compte que le type d'attaque du héros.
+[*]Toute l'interface a été harmonisée : boutons, barre de ressources, Taverne et boutons de fermeture ont été refaits, et les Paramètres tiennent maintenant sur une seule page.
+[/list]
+
+Lequel de ces changements avez-vous le plus envie d'essayer ? Et si quelque chose vous semble bizarre, dites-le-moi dans les commentaires.
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+[url=https://store.steampowered.com/app/5257220/]Jouer à la démo gratuite[/url] | [url=https://store.steampowered.com/app/4855890/]Ajouter le jeu complet à votre liste de souhaits[/url]

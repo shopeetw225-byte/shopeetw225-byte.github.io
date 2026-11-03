@@ -1,0 +1,56 @@
+Avances: mapa de Campaña en tres niveles, Taberna y ascenso con un toque
+发布日期：2026-10-27 14:27（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704408827984878187?l=spanish
+
+¡Hola a todos! Soy Juanmao.
+
+Desde la actualización de la demo del 23 de octubre, la versión en desarrollo ha cambiado un montón. Algunas cosas cambian cómo funcionaba el juego y otras son totalmente nuevas y nunca las había mencionado. Aquí va todo de una vez.
+
+Antes que nada: todo lo que viene abajo sigue en desarrollo y no está en la demo que puedes descargar ahora.
+
+[h2]Campaña: un mapa de tres niveles[/h2]
+La Campaña ahora tiene tres niveles: el mapa de épocas, el mapa de capítulos y un mapa de zona con desplazamiento horizontal. El mapa de épocas se puede arrastrar y ampliar, así que por fin hay un mapa del mundo de verdad.
+Al terminar una fase y pasar al siguiente mapa hay una transición: los dos ejércitos se desvanecen, la tinta se extiende y se avanza al mapa nuevo.
+El parte de batalla ahora es una página grande en horizontal que muestra, fila por fila, cuánto daño hizo cada uno.
+[img]https://clan.akamai.steamstatic.com/images/46216320/bee7378b69aada9b5cce923ff028e1362518bc60.jpg[/img]
+
+[h2]Taberna: los héroes de pocas estrellas se reclutan aquí[/h2]
+A partir de la fase 100, los héroes de pocas estrellas ya no caen en las fases: ahora se reclutan en la Taberna. La lista de la Taberna se renueva cada hora y se recluta con Boletos de reclutamiento de era. Los boletos caen en las fases y también se pueden comprar y vender en el Mercado.
+Las garantías también se mudaron a la Taberna, con un tablero de garantías. Desde los detalles de un héroe legendario puedes fijarlo directamente como objetivo de garantía; el progreso también se ve en la Campaña, y con un toque vas directo a la Taberna.
+
+[h2]Progresión: menos clics[/h2]
+[list]
+[*]Ascender: antes había que pulsar rango por rango y cambiar de página dos veces. Ahora todo está en una sola tarjeta con un gráfico de atributos a la vista, y puedes subir un rango o ir directo al máximo. En la Lista de héroes también hay «Ascender todos», que asciende de una vez a todos los que pueden.
+[*]Nivel: desde la época 3, el nivel va ligado al rango. Al ascender quedas en el nivel máximo, sin tener que gastar experiencia nivel por nivel.
+[*]Refuerzo: antes estaba en el equipo, y al cambiar una pieza había que reforzar de nuevo. Ahora se refuerza la ranura: cambia el equipo cuanto quieras y el refuerzo se queda. El refinado se integró en el avance de ranura, y el antiguo legado, que ya no hacía falta, se eliminó.
+[/list]
+[img]https://clan.akamai.steamstatic.com/images/46216320/fd3b5f76babdcfccf47f741f35e175fb12669c77.jpg[/img]
+
+[h2]Combate y formación[/h2]
+[list]
+[*]Los sanadores se dividen en cuatro tipos: las dos filas delanteras, las dos filas traseras, todo el equipo, o de uno a tres aliados con menos vida. Con la moral al máximo, la Santa del halo solar y el Jerarca de la campana hundida reviven al primer aliado caído.
+[*]Los ataques básicos de apoyo ahora sirven para algo: los Clérigos curan a un aliado, los Druidas curan con el tiempo, los Bardos dan moral y los Alféreces acumulan ataque en los aliados.
+[*]Los 21 Luchadores ahora son tanques de supresión, divididos en tres tipos: aguantar golpes, suprimir y romper armadura.
+[*]En la formación puedes ajustar la velocidad de cada héroe y ver al instante quién actúa primero en el primer turno. En «Aura» se detalla cuánto da cada aura y qué casillas cubre. A la derecha hay un nuevo panel de estadísticas del equipo, y al tocar una casilla vacía eliges héroe directamente desde tu Plantel.
+[*]Sinergia de espíritus guardianes: antes hacían falta cuatro héroes de la misma clase en el campo. Ahora basta con dos espíritus guardianes «Un solo corazón» juntos, y el alcance de cada uno crece una casilla.
+[*]Los héroes de 5 estrellas sin despertar ahora también tienen el primer plano al usar su habilidad distintiva.
+[*]El Reconocimiento previo tiene «Quién sirve»: de un vistazo ves qué pone a prueba una fase y quién del equipo, la banca o el almacén puede resolverlo. Si pierdes la misma fase tres veces seguidas, te dice directamente qué te falta.
+[/list]
+[img]https://clan.akamai.steamstatic.com/images/46216320/eeeeaa18e83e4ee36675675f0d7b016e8ca54c08.jpg[/img]
+
+[h2]Otros cambios[/h2]
+[list]
+[*]Ya no hay que esperar al continuar: entras directo al juego y las ganancias sin conexión se calculan en segundo plano.
+[*]El avance automático ya no muestra placas de nombre ni sellos de victoria o derrota. La primera vez que ganes una fase a mano, el juego te preguntará si quieres activar los combates automáticos. En la Campaña, «Iniciar autofarmeo» empieza a combatir al momento.
+[*]El botín ahora sale rebotando al caer, el cofre de abajo a la izquierda es más grande y se cambió una tanda de efectos de sonido de combate.
+[*]El Departamento de Gestión de Producción suma la Sección de oro y la Sección de piedra rúnica, y ahora puedes asignar gente a las estaciones y acumular maestría.
+[*]El Salón nivel 28 añade un nuevo título: Coronel de caballería.
+[*]Al principio recibes primero atacantes de bajo coste, para que el arranque sea más sencillo. Los magos tienen siete armas nuevas de Intelecto, y la fuerza en la página del héroe es más precisa: solo cuenta su propio tipo de ataque.
+[*]Toda la interfaz se unificó: botones, barra de recursos, Taberna y botones de cerrar son nuevos, y los Ajustes ahora están en una sola página.
+[/list]
+
+¿Cuál de estos cambios tienes más ganas de probar? Y si algo se ve raro, cuéntamelo en los comentarios.
+
+Si te parece que vale la pena, también te pido que lo agregues a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+[url=https://store.steampowered.com/app/5257220/]Juega la demo gratis[/url] | [url=https://store.steampowered.com/app/4855890/]Agrega el juego completo a tu lista de deseados[/url]
