@@ -1001,8 +1001,14 @@
     {
       "date": "2026-11-03",
       "category": "海外宣发平台",
-      "text": "核对 Keymailer / Partnier 的试玩推广建议，保存 Idle Agency 的 Twitch 分类、话题标签及相似游戏 Soda Dungeon 2，并将 Demo 活动设为允许创作、不强制发布。其他相似游戏、素材包、预告片及创作者说明仍待完善；Key 未处理。",
+      "text": "核对 Keymailer 和 Partnier 宣传方案，设置 Demo 创作权限及相关分类。",
       "url": "/#overseas-platforms"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "宣传合作",
+      "text": "整理两轮宣传作者名单、预算与作品链接。",
+      "url": "/#creators"
     }
   ]
 }
