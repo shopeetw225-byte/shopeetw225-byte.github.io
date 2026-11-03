@@ -991,6 +991,12 @@
       "category": "试玩邀请",
       "text": "向2位 B站创作者及 Indie Game Luke 发送免费 Demo 试玩邀请。",
       "url": "/creators/creator-outreach-20261103.html"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "Steam 公告",
+      "text": "发布 Demo 更新公告，展示征途地图、战前侦察和战败提示。",
+      "url": "/?work=steam-704409462168881977"
     }
   ]
 }

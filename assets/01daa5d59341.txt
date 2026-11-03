@@ -1,0 +1,58 @@
+Nuevo tráiler: lo que tiene la versión en desarrollo y la demo aún no
+发布日期：2026-10-31 13:26（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704409462168881272?l=spanish
+
+¡Hola a todos! Soy Juanmao.
+
+El tráiler de la página de la tienda es nuevo, y todo lo que sale es de la versión en desarrollo. Aprovecho para hacer un resumen: estos son los cambios principales de la versión en desarrollo frente a la demo pública actual.
+
+Antes que nada: todo esto está en la versión en desarrollo; la demo que se puede descargar ahora todavía no lo tiene. Aún no está decidido cuándo se podrá jugar, y los detalles pueden seguir cambiando.
+
+[h2]Campaña: mapa de tres niveles[/h2]
+La Campaña se divide en tres niveles de mapa: el mapa de épocas, el mapa de capítulos y el mapa de zona en horizontal. Puedes arrastrarlos y hacer zoom, y al cambiar de mapa hay una transición. El Registro de combate también es ahora una página grande en horizontal.
+[img]{STEAM_CLAN_IMAGE}/46216320/16cec0f4c81f335006069b97dc8a8bdc13988867.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/46216320/54bd998ad83dfb1208834909629385cc77f6ffa5.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/46216320/55b9de705534254dba94c0a827fd6fc3efc0f199.jpg[/img]
+
+[h2]Historia[/h2]
+La campaña principal ya tiene su historia completa: capítulos 1 a 20 más el final, con ilustraciones y diálogos antes y después de los combates, que puedes omitir cuando quieras. El prólogo también se rehízo: «La Fortaleza del Norte · La última noche». Y tus compañeros dicen una frase al empezar el combate, al perder y al unirse al equipo. Por ahora los textos de la historia solo están en chino e inglés, así que en español la historia se muestra en inglés.
+[img]{STEAM_CLAN_IMAGE}/46216320/b6be9e4ad1c7d5e7802a93beb4b540ad00a38159.jpg[/img]
+
+[h2]Reclutamiento y progresión[/h2]
+[list]
+[*]A partir de la etapa 100, los héroes de pocas estrellas se reclutan en la Taberna con boletos de reclutamiento de era, y las garantías también están en la Taberna.
+[*]Ascender ahora cabe en una sola tarjeta: llegas al máximo de un toque, y también está «Ascender todos». El refuerzo se queda en la ranura, así que cambiar de equipo no te hace empezar de cero.
+[*]En la barra de navegación hay una bandera nueva, «Héroes»: desde ahí se entra a los héroes.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/7b31496e53b5ce1ce96f2e74f7c4c53a19887d2e.jpg[/img]
+
+[h2]Espíritus guardianes[/h2]
+Se reorganizó cómo se consiguen y se mejoran los espíritus guardianes: los huevos de espíritu de la campaña van primero a los espíritus guardianes en combate que aún no están al máximo, avanzar en la campaña te regala espíritus guardianes nuevos, en la prueba de época puedes conseguir huevos de espíritu legendarios con «Revancha», y la esencia espiritual ya tiene una fuente estable. La sinergia entre espíritus guardianes y héroes se sigue ajustando.
+[img]{STEAM_CLAN_IMAGE}/46216320/a0d6971c5bd59fb411d05b065c3b6122640fc1f8.jpg[/img]
+
+[h2]Combate y formación[/h2]
+[list]
+[*]Los sanadores se dividen en cuatro tipos, y algunos hasta pueden revivir aliados; los Luchadores ahora son tanques de supresión.
+[*]En la Escuadra se ve el orden de actuación y qué casillas cubre cada aura.
+[*]Todos los héroes de 5 estrellas tienen primer plano de la ulti al usar su habilidad distintiva, y se rehicieron los números de daño, los sonidos al empezar el combate y el efecto de revivir.
+[*]La velocidad de combate ahora solo tiene ×1 y ×2, y los combates normales tienen una canción más.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/623e5bd13fa6f49082250f5ca15e652475f6adfe.jpg[/img]
+
+[h2]Cuando no logras ganar[/h2]
+El Reconocimiento previo te dice a quién necesitas en esta etapa. Si pierdes, la tarjeta de derrota marca qué tipo de héroe falta y a quién conviene meter. Y la primera vez que pierdes en una etapa de aprendizaje, el juego te enseña directamente a cubrir lo que falta.
+[img]{STEAM_CLAN_IMAGE}/46216320/c785fda0da39a1eda45259b9631a2775e9074212.jpg[/img]
+
+[h2]Otros cambios[/h2]
+[list]
+[*]Al ganar, puedes activar el «Autoavance» directamente en la tarjeta de resultados, y «Iniciar autofarmeo» empieza a combatir con un toque.
+[*]Ya no hay que esperar al continuar. Con el juego abierto, aunque no estés combatiendo, las ganancias siguen entrando, y el informe sin conexión es más completo.
+[*]El Departamento de Gestión de Producción suma la Sección de oro y la Sección de piedra rúnica; toda la interfaz se unificó, y los combates y las cargas van más fluidos.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/8af5d63c9b3b4e3ab3455e2c7e64669f74e9dfcb.jpg[/img]
+
+¿Cuál de estos cambios tienes más ganas de probar primero? Y si algo del tráiler se ve raro, cuéntamelo en los comentarios.
+
+Si te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+[url=https://store.steampowered.com/app/5257220/]Juega la demo gratis[/url] | [url=https://store.steampowered.com/app/4855890/]Añade el juego completo a tu lista de deseados[/url]

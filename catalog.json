@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-10-16",
   "hero": "assets/07851087f62e.jpg",
   "items": [
     {
@@ -692,7 +692,7 @@
           "updated": "2026-10-30"
         }
       ],
-      "status": "已公开 · Steam · schinese / Steam · tchinese / Steam · english / Steam · japanese / Steam · koreana / Steam · german / Steam · french / Steam · spanish / Steam · brazilian / Steam · russian",
+      "status": "已发布 · Steam 十语关联",
       "body": "Steam 正式版主预告片已更新至 v26。简中和繁中分别使用对应中文成片，其余八种语言统一使用英文成片。",
       "source": "视频制作/Steam主预告片/成片/放置事务所_Steam主预告片_v26.mp4",
       "cover": "assets/steam-trailer-v26-poster.jpg",
@@ -4295,17 +4295,17 @@
       "files": [
         {
           "name": "简体中文公告原文.txt",
-          "url": "assets/af91941a8e87.txt",
+          "url": "assets/585d565dfbc8.txt",
           "type": "text"
         },
         {
           "name": "繁體中文公告原文.txt",
-          "url": "assets/cc3b6f1a010a.txt",
+          "url": "assets/d1f92a9faade.txt",
           "type": "text"
         },
         {
           "name": "English公告原文.txt",
-          "url": "assets/3b981b337cdd.txt",
+          "url": "assets/993edb751a0e.txt",
           "type": "text"
         }
       ],
@@ -4358,17 +4358,17 @@
       "files": [
         {
           "name": "简体中文公告原文.txt",
-          "url": "assets/d0c0c4345432.txt",
+          "url": "assets/4262d1524a46.txt",
           "type": "text"
         },
         {
           "name": "繁體中文公告原文.txt",
-          "url": "assets/94be7eaec3fa.txt",
+          "url": "assets/d1fcf90fb94b.txt",
           "type": "text"
         },
         {
           "name": "English公告原文.txt",
-          "url": "assets/e4e04035ae8d.txt",
+          "url": "assets/709388930eac.txt",
           "type": "text"
         }
       ],
@@ -4421,17 +4421,17 @@
       "files": [
         {
           "name": "简体中文公告原文.txt",
-          "url": "assets/df28a0c67066.txt",
+          "url": "assets/022bfcd6b94e.txt",
           "type": "text"
         },
         {
           "name": "繁體中文公告原文.txt",
-          "url": "assets/c278356a6f1a.txt",
+          "url": "assets/420f86ab01f5.txt",
           "type": "text"
         },
         {
           "name": "English公告原文.txt",
-          "url": "assets/1ae8155fd831.txt",
+          "url": "assets/7ff2500a6055.txt",
           "type": "text"
         }
       ],
@@ -4484,17 +4484,17 @@
       "files": [
         {
           "name": "简体中文公告原文.txt",
-          "url": "assets/2e289f27cb07.txt",
+          "url": "assets/47c80cfd4546.txt",
           "type": "text"
         },
         {
           "name": "繁體中文公告原文.txt",
-          "url": "assets/b8e9f20d7782.txt",
+          "url": "assets/e55ad1880a64.txt",
           "type": "text"
         },
         {
           "name": "English公告原文.txt",
-          "url": "assets/2c7a205ceea0.txt",
+          "url": "assets/4180164996e3.txt",
           "type": "text"
         }
       ],
@@ -4547,17 +4547,17 @@
       "files": [
         {
           "name": "简体中文公告原文.txt",
-          "url": "assets/bcd30690107d.txt",
+          "url": "assets/4b7b372f793d.txt",
           "type": "text"
         },
         {
           "name": "繁體中文公告原文.txt",
-          "url": "assets/c2c5c7630802.txt",
+          "url": "assets/11c862612089.txt",
           "type": "text"
         },
         {
           "name": "English公告原文.txt",
-          "url": "assets/a2a6dfc8ec06.txt",
+          "url": "assets/10e9036cfa99.txt",
           "type": "text"
         }
       ],
@@ -4610,17 +4610,17 @@
       "files": [
         {
           "name": "简体中文公告原文.txt",
-          "url": "assets/c8e719f7b6cd.txt",
+          "url": "assets/50a0a494e064.txt",
           "type": "text"
         },
         {
           "name": "繁體中文公告原文.txt",
-          "url": "assets/72dc57ae107f.txt",
+          "url": "assets/f3da1eabc966.txt",
           "type": "text"
         },
         {
           "name": "English公告原文.txt",
-          "url": "assets/1cc36832ae5c.txt",
+          "url": "assets/765560dc3137.txt",
           "type": "text"
         }
       ],
@@ -4673,17 +4673,17 @@
       "files": [
         {
           "name": "简体中文公告原文.txt",
-          "url": "assets/b65d79dcdc30.txt",
+          "url": "assets/a4d81b10fcf8.txt",
           "type": "text"
         },
         {
           "name": "繁體中文公告原文.txt",
-          "url": "assets/50a8c26376ef.txt",
+          "url": "assets/66e79c1d4b6d.txt",
           "type": "text"
         },
         {
           "name": "English公告原文.txt",
-          "url": "assets/fb41a5260740.txt",
+          "url": "assets/667ec0da6080.txt",
           "type": "text"
         }
       ],
@@ -4736,17 +4736,17 @@
       "files": [
         {
           "name": "简体中文公告原文.txt",
-          "url": "assets/13b98c491e1f.txt",
+          "url": "assets/043e4a7b8b1d.txt",
           "type": "text"
         },
         {
           "name": "繁體中文公告原文.txt",
-          "url": "assets/9877ace53626.txt",
+          "url": "assets/c4c56ebeba73.txt",
           "type": "text"
         },
         {
           "name": "English公告原文.txt",
-          "url": "assets/c5fdb371c591.txt",
+          "url": "assets/eb44b8ba1a20.txt",
           "type": "text"
         }
       ],
@@ -4834,52 +4834,52 @@
       "files": [
         {
           "name": "简体中文公告原文.txt",
-          "url": "assets/c263b10a1699.txt",
+          "url": "assets/c9ad1d2d482b.txt",
           "type": "text"
         },
         {
           "name": "繁體中文公告原文.txt",
-          "url": "assets/09a7aa00ec40.txt",
+          "url": "assets/5403cc1ffbe6.txt",
           "type": "text"
         },
         {
           "name": "English公告原文.txt",
-          "url": "assets/f008b49066fc.txt",
+          "url": "assets/f3e09b7c8a45.txt",
           "type": "text"
         },
         {
           "name": "Deutsch公告原文.txt",
-          "url": "assets/34c42cd39ba8.txt",
+          "url": "assets/35d98b632ddd.txt",
           "type": "text"
         },
         {
           "name": "Français公告原文.txt",
-          "url": "assets/5f1f5089ab6d.txt",
+          "url": "assets/e26077a1cdda.txt",
           "type": "text"
         },
         {
           "name": "日本語公告原文.txt",
-          "url": "assets/f6fb56ba6425.txt",
+          "url": "assets/8cee2a541052.txt",
           "type": "text"
         },
         {
           "name": "한국어公告原文.txt",
-          "url": "assets/686ce56252bd.txt",
+          "url": "assets/669a5bdd1de9.txt",
           "type": "text"
         },
         {
           "name": "Español公告原文.txt",
-          "url": "assets/bb6a01ef0e38.txt",
+          "url": "assets/c4c2e53c02fc.txt",
           "type": "text"
         },
         {
           "name": "Português (Brasil)公告原文.txt",
-          "url": "assets/05795c5a1f2f.txt",
+          "url": "assets/9c57874d0e30.txt",
           "type": "text"
         },
         {
           "name": "Русский公告原文.txt",
-          "url": "assets/d38c7470d69e.txt",
+          "url": "assets/23d8529b89f5.txt",
           "type": "text"
         }
       ],
@@ -4967,52 +4967,52 @@
       "files": [
         {
           "name": "简体中文公告原文.txt",
-          "url": "assets/82c4c884e252.txt",
+          "url": "assets/81e9563d3148.txt",
           "type": "text"
         },
         {
           "name": "繁體中文公告原文.txt",
-          "url": "assets/2a558e074694.txt",
+          "url": "assets/fda2f3d6e289.txt",
           "type": "text"
         },
         {
           "name": "English公告原文.txt",
-          "url": "assets/7a06d9b46c10.txt",
+          "url": "assets/666aa83877f6.txt",
           "type": "text"
         },
         {
           "name": "Deutsch公告原文.txt",
-          "url": "assets/954d55ee0fd8.txt",
+          "url": "assets/02c8cfee2e6b.txt",
           "type": "text"
         },
         {
           "name": "Français公告原文.txt",
-          "url": "assets/eb28037d912a.txt",
+          "url": "assets/dd2742e3f29f.txt",
           "type": "text"
         },
         {
           "name": "日本語公告原文.txt",
-          "url": "assets/da8d30d4ac54.txt",
+          "url": "assets/5faf72a4fad0.txt",
           "type": "text"
         },
         {
           "name": "한국어公告原文.txt",
-          "url": "assets/823d41490b90.txt",
+          "url": "assets/a09dbd67b422.txt",
           "type": "text"
         },
         {
           "name": "Español公告原文.txt",
-          "url": "assets/5cc86023b070.txt",
+          "url": "assets/e0147ef935a7.txt",
           "type": "text"
         },
         {
           "name": "Português (Brasil)公告原文.txt",
-          "url": "assets/21aa412e7eed.txt",
+          "url": "assets/b3f2b6b0e2c1.txt",
           "type": "text"
         },
         {
           "name": "Русский公告原文.txt",
-          "url": "assets/53f0d5c92c1c.txt",
+          "url": "assets/49801763bcb9.txt",
           "type": "text"
         }
       ],
@@ -5100,52 +5100,52 @@
       "files": [
         {
           "name": "简体中文公告原文.txt",
-          "url": "assets/c22b690b5a5a.txt",
+          "url": "assets/39bd836190ab.txt",
           "type": "text"
         },
         {
           "name": "繁體中文公告原文.txt",
-          "url": "assets/acc057bfe878.txt",
+          "url": "assets/5a0ca24f368a.txt",
           "type": "text"
         },
         {
           "name": "English公告原文.txt",
-          "url": "assets/7f51bef397dd.txt",
+          "url": "assets/69c5d470818a.txt",
           "type": "text"
         },
         {
           "name": "Deutsch公告原文.txt",
-          "url": "assets/e45f79cee618.txt",
+          "url": "assets/477fda8c5df5.txt",
           "type": "text"
         },
         {
           "name": "Français公告原文.txt",
-          "url": "assets/11dd85f4033d.txt",
+          "url": "assets/5db0c1745b39.txt",
           "type": "text"
         },
         {
           "name": "日本語公告原文.txt",
-          "url": "assets/3cd170d9d053.txt",
+          "url": "assets/3374a9087911.txt",
           "type": "text"
         },
         {
           "name": "한국어公告原文.txt",
-          "url": "assets/be84de1f34c4.txt",
+          "url": "assets/1f195a350977.txt",
           "type": "text"
         },
         {
           "name": "Español公告原文.txt",
-          "url": "assets/d4c15f7e4145.txt",
+          "url": "assets/2edefaf0d2af.txt",
           "type": "text"
         },
         {
           "name": "Português (Brasil)公告原文.txt",
-          "url": "assets/e82710fe8de3.txt",
+          "url": "assets/f50e8ac8a861.txt",
           "type": "text"
         },
         {
           "name": "Русский公告原文.txt",
-          "url": "assets/79d329493a0f.txt",
+          "url": "assets/ceb3b1c79dc4.txt",
           "type": "text"
         }
       ],
@@ -5233,52 +5233,52 @@
       "files": [
         {
           "name": "简体中文公告原文.txt",
-          "url": "assets/09af499aaa6c.txt",
+          "url": "assets/c238204ce82b.txt",
           "type": "text"
         },
         {
           "name": "繁體中文公告原文.txt",
-          "url": "assets/1fada0234747.txt",
+          "url": "assets/bda321784d55.txt",
           "type": "text"
         },
         {
           "name": "English公告原文.txt",
-          "url": "assets/77c7e30e001b.txt",
+          "url": "assets/967503655b44.txt",
           "type": "text"
         },
         {
           "name": "Deutsch公告原文.txt",
-          "url": "assets/23437ba705ae.txt",
+          "url": "assets/da437d0d1474.txt",
           "type": "text"
         },
         {
           "name": "Français公告原文.txt",
-          "url": "assets/7662bd7a3a42.txt",
+          "url": "assets/732aa1ed3111.txt",
           "type": "text"
         },
         {
           "name": "日本語公告原文.txt",
-          "url": "assets/b7142339c412.txt",
+          "url": "assets/032f4e34a15d.txt",
           "type": "text"
         },
         {
           "name": "한국어公告原文.txt",
-          "url": "assets/844b33ff6699.txt",
+          "url": "assets/27e352746430.txt",
           "type": "text"
         },
         {
           "name": "Español公告原文.txt",
-          "url": "assets/4897f8d00cce.txt",
+          "url": "assets/01daa5d59341.txt",
           "type": "text"
         },
         {
           "name": "Português (Brasil)公告原文.txt",
-          "url": "assets/00df924a81aa.txt",
+          "url": "assets/5521cc9ab89a.txt",
           "type": "text"
         },
         {
           "name": "Русский公告原文.txt",
-          "url": "assets/7b8ddcdcb4f2.txt",
+          "url": "assets/f1c9bf5d0761.txt",
           "type": "text"
         }
       ],
@@ -5295,14 +5295,146 @@
       "cover": "assets/f56d246e6042.jpg"
     },
     {
+      "id": "steam-704409462168881977",
+      "title": "Demo 更新了：来看看征途与战斗",
+      "category": "Steam 公告",
+      "group": "已发布公告",
+      "date": "2026-11-03",
+      "dateBasis": "发布日期",
+      "publishedAt": "2026-11-03 12:21",
+      "summary": "免费 Demo 已更新。来看看征途地图、战前侦察和战败后的提示。",
+      "highlights": [
+        "发布 Demo 更新公告，以公开版本实机截图展示征途地图、战前侦察和战败提示。",
+        "提供免费 Demo 和正式版愿望单入口，邀请玩家反馈。"
+      ],
+      "announcementNumber": 13,
+      "status": "已发布 · 十语",
+      "body": "各位股东大人，我是倦猫。\n\n免费 Demo 已更新，Windows 和 Mac 都能玩。来看看征途地图。\n〔配图请见 Steam 原文〕\n\n开战前可以查看敌人和战前提示。\n〔配图请见 Steam 原文〕\n\n打输后会显示结果和提示，方便调整编队。\n〔配图请见 Steam 原文〕\n\n欢迎留言告诉我哪里太难或太简单。谢谢大家！\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/） | 给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+      "translations": {
+        "schinese": {
+          "title": "Demo 更新了：来看看征途与战斗",
+          "body": "各位股东大人，我是倦猫。\n\n免费 Demo 已更新，Windows 和 Mac 都能玩。来看看征途地图。\n〔配图请见 Steam 原文〕\n\n开战前可以查看敌人和战前提示。\n〔配图请见 Steam 原文〕\n\n打输后会显示结果和提示，方便调整编队。\n〔配图请见 Steam 原文〕\n\n欢迎留言告诉我哪里太难或太简单。谢谢大家！\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/） | 给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704409462168881977?l=schinese"
+        },
+        "tchinese": {
+          "title": "Demo 更新了：來看看征途與戰鬥",
+          "body": "各位股東大人，我是倦貓。\n\n免費 Demo 已更新，Windows 和 Mac 都能玩。來看看征途地圖。\n〔配图请见 Steam 原文〕\n\n開戰前可以查看敵人和戰前提示。\n〔配图请见 Steam 原文〕\n\n打輸後會顯示結果和提示，方便調整編隊。\n〔配图请见 Steam 原文〕\n\n歡迎留言告訴我哪裡太難或太簡單。謝謝大家！\n\n免費試玩 Demo（https://store.steampowered.com/app/5257220/） | 將正式版加入願望清單（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704409462168881977?l=tchinese"
+        },
+        "english": {
+          "title": "The Demo is updated: a look at the Campaign and combat",
+          "body": "Hi everyone, Juanmao here.\n\nThe free Demo has been updated for Windows and Mac. Here is a look at the Campaign map.\n〔配图请见 Steam 原文〕\n\nBefore a fight, you can check the enemies and pre-battle tips.\n〔配图请见 Steam 原文〕\n\nAfter a defeat, the results and tips can help you adjust your team.\n〔配图请见 Steam 原文〕\n\nTell me in the comments if anything feels too hard or too easy. Thanks!\n\nPlay the free Demo（https://store.steampowered.com/app/5257220/） | Wishlist the full game（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704409462168881977?l=english"
+        },
+        "german": {
+          "title": "Demo-Update: Ein Blick auf Kampagne und Kämpfe",
+          "body": "Hallo zusammen, hier ist Juanmao.\n\nDie kostenlose Demo für Windows und Mac wurde aktualisiert. Hier seht ihr die Kampagnenkarte.\n〔配图请见 Steam 原文〕\n\nVor einem Kampf könnt ihr die Gegner und Hinweise zur Aufklärung ansehen.\n〔配图请见 Steam 原文〕\n\nNach einer Niederlage helfen euch Ergebnis und Hinweise dabei, euer Team anzupassen.\n〔配图请见 Steam 原文〕\n\nSchreibt mir in die Kommentare, wenn etwas zu schwer oder zu leicht ist. Danke!\n\nKostenlose Demo spielen（https://store.steampowered.com/app/5257220/） | Vollversion auf die Wunschliste（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704409462168881977?l=german"
+        },
+        "french": {
+          "title": "Demo mise à jour : campagne et combats",
+          "body": "Bonjour, ici Juanmao.\n\nLa Demo gratuite a été mise à jour sur Windows et Mac. Voici la carte de campagne.\n〔配图请见 Steam 原文〕\n\nAvant un combat, vous pouvez examiner les ennemis et les indications de reconnaissance.\n〔配图请见 Steam 原文〕\n\nAprès une défaite, le résultat et les conseils vous aident à ajuster votre équipe.\n〔配图请见 Steam 原文〕\n\nDites-moi en commentaire si certains passages sont trop difficiles ou trop faciles. Merci !\n\nJouer à la Demo gratuite（https://store.steampowered.com/app/5257220/） | Ajouter le jeu complet à la liste de souhaits（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704409462168881977?l=french"
+        },
+        "japanese": {
+          "title": "Demoを更新しました：遠征とバトルを紹介",
+          "body": "こんにちは、倦猫です。\n\nWindowsとMac向けの無料Demoを更新しました。まずは遠征マップをご覧ください。\n〔配图请见 Steam 原文〕\n\n戦闘前に敵と偵察情報を確認できます。\n〔配图请见 Steam 原文〕\n\n敗北後は結果とヒントを見ながら編成を調整できます。\n〔配图请见 Steam 原文〕\n\n難しすぎるところや簡単すぎるところがあれば、コメントで教えてください。ありがとうございます！\n\n無料Demoをプレイ（https://store.steampowered.com/app/5257220/） | 製品版をウィッシュリストに追加（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704409462168881977?l=japanese"
+        },
+        "korean": {
+          "title": "Demo 업데이트: 원정과 전투 살펴보기",
+          "body": "안녕하세요, Juanmao입니다.\n\nWindows와 Mac용 무료 Demo가 업데이트되었습니다. 먼저 원정 지도를 살펴보세요.\n〔配图请见 Steam 原文〕\n\n전투 전에 적과 정찰 정보를 확인할 수 있습니다.\n〔配图请见 Steam 原文〕\n\n패배 후 결과와 안내를 보고 편성을 조정할 수 있습니다.\n〔配图请见 Steam 原文〕\n\n너무 어렵거나 쉬운 부분이 있으면 댓글로 알려 주세요. 감사합니다!\n\n무료 Demo 플레이（https://store.steampowered.com/app/5257220/） | 정식 버전 찜하기（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704409462168881977?l=korean"
+        },
+        "spanish": {
+          "title": "Demo actualizada: campaña y combates",
+          "body": "Hola, soy Juanmao.\n\nLa Demo gratuita se ha actualizado para Windows y Mac. Aquí podéis ver el mapa de campaña.\n〔配图请见 Steam 原文〕\n\nAntes de combatir podéis consultar los enemigos y las indicaciones de reconocimiento.\n〔配图请见 Steam 原文〕\n\nTras una derrota, el resultado y los consejos os ayudarán a ajustar el equipo.\n〔配图请见 Steam 原文〕\n\nContadme en los comentarios si algo es demasiado difícil o fácil. ¡Gracias!\n\nJugar a la Demo gratuita（https://store.steampowered.com/app/5257220/） | Añadir el juego completo a la lista de deseados（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704409462168881977?l=spanish"
+        },
+        "brazilian": {
+          "title": "Demo atualizada: campanha e combate",
+          "body": "Olá, aqui é Juanmao.\n\nA Demo gratuita foi atualizada para Windows e Mac. Veja o mapa da campanha.\n〔配图请见 Steam 原文〕\n\nAntes da batalha, você pode conferir os inimigos e as dicas de reconhecimento.\n〔配图请见 Steam 原文〕\n\nApós uma derrota, o resultado e as dicas ajudam a ajustar sua equipe.\n〔配图请见 Steam 原文〕\n\nConte nos comentários se algo estiver difícil ou fácil demais. Obrigado!\n\nJogar a Demo gratuita（https://store.steampowered.com/app/5257220/） | Adicionar o jogo completo à lista de desejos（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704409462168881977?l=brazilian"
+        },
+        "russian": {
+          "title": "Демо обновлено: карта похода и сражения",
+          "body": "Всем привет, это Juanmao.\n\nБесплатная демоверсия для Windows и Mac обновлена. Вот как выглядит карта похода.\n〔配图请见 Steam 原文〕\n\nПеред боем можно изучить противников и подсказки разведки.\n〔配图请见 Steam 原文〕\n\nПосле поражения результаты и подсказки помогут изменить состав отряда.\n〔配图请见 Steam 原文〕\n\nНапишите в комментариях, если что-то кажется слишком сложным или простым. Спасибо!\n\nИграть в бесплатную демоверсию（https://store.steampowered.com/app/5257220/） | Добавить полную версию в желаемое（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704409462168881977?l=russian"
+        }
+      },
+      "files": [
+        {
+          "name": "简体中文公告原文.txt",
+          "url": "assets/0ebe9864c23d.txt",
+          "type": "text"
+        },
+        {
+          "name": "繁體中文公告原文.txt",
+          "url": "assets/fbf11bbefe75.txt",
+          "type": "text"
+        },
+        {
+          "name": "English公告原文.txt",
+          "url": "assets/e50bf583b1c9.txt",
+          "type": "text"
+        },
+        {
+          "name": "Deutsch公告原文.txt",
+          "url": "assets/5ef715981379.txt",
+          "type": "text"
+        },
+        {
+          "name": "Français公告原文.txt",
+          "url": "assets/041ecb3a6813.txt",
+          "type": "text"
+        },
+        {
+          "name": "日本語公告原文.txt",
+          "url": "assets/8e4cc364d7c2.txt",
+          "type": "text"
+        },
+        {
+          "name": "한국어公告原文.txt",
+          "url": "assets/2c0cd354677b.txt",
+          "type": "text"
+        },
+        {
+          "name": "Español公告原文.txt",
+          "url": "assets/c1d3978c378a.txt",
+          "type": "text"
+        },
+        {
+          "name": "Português (Brasil)公告原文.txt",
+          "url": "assets/ec5c82cf404e.txt",
+          "type": "text"
+        },
+        {
+          "name": "Русский公告原文.txt",
+          "url": "assets/27c1753c27fb.txt",
+          "type": "text"
+        }
+      ],
+      "source": "https://store.steampowered.com/news/app/4855890/view/704409462168881977?l=schinese",
+      "links": [
+        {
+          "platform": "Steam 公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704409462168881977?l=schinese",
+          "date": "2026-11-03",
+          "status": "已发布"
+        }
+      ],
+      "detailNote": "按 Steam 当前公开版本归档；日期采用北京时间。上方内容要点为归档摘要。",
+      "cover": "assets/02e40a85e96d.jpg"
+    },
+    {
       "id": "steam-announcement-covers-20261026",
       "title": "Steam 公告封面 · 每条一张插画",
       "category": "封面与视觉",
       "group": "封面",
       "date": "2026-10-26",
       "dateBasis": "首批定稿日期",
-      "summary": "12 条已发布公告的 24 张封面：简中、繁中用中文图，其他语言用英文图。",
-      "status": "已发布 · 12 条公告",
+      "summary": "13 条已发布公告的 26 张封面：简中、繁中用中文图，其他语言用英文图。",
+      "status": "已发布 · 13 条公告",
       "files": [
         {
           "name": "01 · 中文（简中／繁中） · 1_一起喝茶_schinese.png",
@@ -5471,6 +5603,20 @@
           "type": "image",
           "source": "视频制作/封面/公告的/成品/12_拍全家福_english.png",
           "announcementUrl": "https://store.steampowered.com/news/app/4855890/view/704409462168881272?l=english"
+        },
+        {
+          "name": "13 · 中文（简中／繁中） · 13_修屋顶_schinese.png",
+          "url": "assets/02e40a85e96d.jpg",
+          "type": "image",
+          "source": "视频制作/封面/公告的/成品/13_修屋顶_schinese.png",
+          "announcementUrl": "https://store.steampowered.com/news/app/4855890/view/704409462168881977?l=schinese"
+        },
+        {
+          "name": "13 · 英文（其他八语） · 13_修屋顶_english.png",
+          "url": "assets/acd3c956d9ae.jpg",
+          "type": "image",
+          "source": "视频制作/封面/公告的/成品/13_修屋顶_english.png",
+          "announcementUrl": "https://store.steampowered.com/news/app/4855890/view/704409462168881977?l=english"
         }
       ],
       "cover": "assets/b64b521d4ef4.jpg",
@@ -5546,6 +5692,12 @@
           "platform": "公告 12 · Steam 原文",
           "url": "https://store.steampowered.com/news/app/4855890/view/704409462168881272?l=schinese",
           "date": "2026-10-31",
+          "status": "已发布"
+        },
+        {
+          "platform": "公告 13 · Steam 原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704409462168881977?l=schinese",
+          "date": "2026-11-03",
           "status": "已发布"
         }
       ],
