@@ -339,7 +339,7 @@
     {
       "name": "荒野空格",
       "platform": "小黑盒",
-      "profile_url": null,
+      "profile_url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=7e18684bbf89&h_src=heyboxapp",
       "followers": 2351,
       "followers_basis": "用户腾讯表格，非实时粉丝数",
       "news_count": 1,
@@ -361,7 +361,8 @@
           "verified_date": "2026-11-03",
           "verification": "App作者主页打开文章，核对作者、标题和内容，分享复制链接。"
         }
-      ]
+      ],
+      "profile_source": "用户提供的第二轮作者主页链接；独立打开核验待完成"
     },
     {
       "name": "慕好",
@@ -420,7 +421,7 @@
     {
       "name": "男神异闻录",
       "platform": "小黑盒",
-      "profile_url": null,
+      "profile_url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=f05768ac7177&h_src=heyboxapp",
       "followers": 2300,
       "followers_basis": "用户腾讯表格，非实时粉丝数",
       "news_count": 1,
@@ -442,7 +443,8 @@
           "verified_date": "2026-11-03",
           "verification": "小黑盒 App 搜索结果核实作者、标题与内容，打开帖子后复制分享链接；慕好日期由昨天推算。"
         }
-      ]
+      ],
+      "profile_source": "用户提供的第二轮作者主页链接；独立打开核验待完成"
     },
     {
       "name": "鸽子纸",
@@ -473,7 +475,7 @@
     {
       "name": "矫龙",
       "platform": "小黑盒",
-      "profile_url": null,
+      "profile_url": "https://xiaoheihe.cn/app/user/profile/33654775",
       "followers": 1280,
       "followers_basis": "用户腾讯表格，非实时粉丝数",
       "news_count": 1,
@@ -494,7 +496,8 @@
           "verification": "用户提供分享链接，公开页面待核",
           "payment_status": "未记录付款"
         }
-      ]
+      ],
+      "profile_source": "用户提供的第二轮作者主页链接；独立打开核验待完成"
     },
     {
       "name": "赛伦斯玩游戏",
