@@ -6,10 +6,11 @@ function classifyCover(item){if(item.category!=='封面与视觉'||item.group!==
 function coverLanguage(f){const name=f.name||'';return /english|英文/i.test(name)?'英文':/tchinese|繁中|繁體/i.test(name)&&!/简中／繁中/.test(name)?'繁体中文':/schinese|中文/i.test(name)?'中文':'其他语言'}
 function announcementCoverCards(item){if(item.category!=='封面与视觉'||item.group!=='公告封面')return [item];const sets=new Map();for(const f of item.files.filter(f=>f.type==='image')){const match=f.name.match(/^(\d+) · /),key=match?match[1]:'legacy';if(!sets.has(key))sets.set(key,[]);sets.get(key).push(f)}return [...sets].map(([key,files])=>{files.sort((a,b)=>['中文','繁体中文','英文','其他语言'].indexOf(coverLanguage(a))-['中文','繁体中文','英文','其他语言'].indexOf(coverLanguage(b)));const first=files[0],title=key==='legacy'?item.title:'公告 '+key+' · 封面';return {...item,id:item.id+'-cover-'+key,title,date:key==='11'?'2026-10-27':item.date,status:first.announcementUrl?'已发布 · 对应公告':item.status,cover:first.url,files,summary:'点击查看大图，可切换'+files.map(coverLanguage).join('、')+'版本。',links:first.announcementUrl?[{platform:'对应 Steam 公告',url:first.announcementUrl,status:'查看公告'}]:[],body:'',coverCollectionId:item.id}})}
 let creatorCount=null;
-let data,category='宣传视频',group='平台视频',view='episodes',query='',order='desc';
+let data,category='工作记录',group='',view='grid',query='',order='desc';
 const el=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!==undefined)e.textContent=text;return e};
 const date=s=>s.replaceAll('-','.');
-function setCategory(c){category=c;group='';view='grid';render();$(c==='推广合作'?'#creator-workspace':c==='工作记录'?'#work-log':'#collection').scrollIntoView({behavior:'smooth',block:'start'});history.replaceState(null,'',c==='工作记录'?location.pathname:c==='推广合作'?'#creators':c==='宣传相关事项'?'#promotion-notes':c==='海外宣发平台'?'#overseas-platforms':location.pathname)}
+const routes={'工作记录':'work-log','全部作品':'all','宣传视频':'videos','封面与视觉':'visuals','Steam 公告':'announcements','文案':'copy','推广合作':'creators','海外宣发平台':'overseas-platforms','宣传相关事项':'promotion-notes','方案与记录':'plans'};
+function setCategory(c){category=c;group='';view=c==='宣传视频'?'episodes':'grid';if(c==='宣传视频')group='平台视频';query='';$('#search').value='';document.body.classList.remove('nav-open');$('#menu-toggle').setAttribute('aria-expanded','false');render();$(c==='推广合作'?'#creator-workspace':c==='工作记录'?'#work-log':'#collection').scrollIntoView({behavior:'smooth',block:'start'});history.replaceState(null,'','#'+routes[c])}
 function setGroup(g){group=g;view='grid';render();$('#collection').scrollIntoView({behavior:'smooth',block:'start'})}
 function setView(v){view=v;if(v==='episodes'){category='宣传视频';group='平台视频'}render()}
 function card(o){
@@ -23,7 +24,7 @@ function card(o){
  }
  const text=el('div','card-text'),kicker=el('div','card-kicker');kicker.append(el('span','category-tag',o.category==='Steam 公告'?'公告 '+String(o.announcementNumber).padStart(2,'0'):o.group||o.category),el('time','',date(o.date)));
  text.append(kicker,el('h3','',o.title),el('p','',o.summary));
- if(o.highlights){const list=el('ul','card-highlights');for(const h of o.highlights)list.append(el('li','',h));text.append(list)}
+ if(false&&o.highlights){const list=el('ul','card-highlights');for(const h of o.highlights)list.append(el('li','',h));text.append(list)}
  const foot=el('div','card-bottom');foot.append(el('span','',o.category==='宣传视频'?o.files.length+' 个视频版本':o.status),el('span','',o.dateBasis+' ↗'));text.append(foot);b.append(text);b.onclick=()=>open(o);return b;
 }
 function episodeCard(o){const b=card(o);b.classList.add('episode-card');b.querySelector('.category-tag').textContent=o.episodeLabel||'EPISODE '+String(o.episode).padStart(2,'0');b.querySelector('.card-bottom').replaceChildren(el('span','',o.links.length?o.links.map(l=>l.platform).join(' / '):'平台链接待补充'),el('span','',o.links.length+' 个公开链接'+' ↗'));return b}
@@ -31,13 +32,14 @@ function render(){
  for(const [id,nav] of [['#navigation',true],['#tabs',false]]){
   const buttons=[];
   categories.forEach((c,i)=>{
+   if(nav&&i===0)buttons.push(el('div','nav-section','作品归档'));if(nav&&i===5)buttons.push(el('div','nav-section','宣传管理')); 
    const b=el('button',c===category?'active':'');b.type='button';b.setAttribute('aria-pressed',String(c===category));if(nav)b.append(el('span','nav-icon',icons[i]));b.append(el('span','',c));
    if(nav)b.append(el('span','nav-number',String(c==='推广合作'?(creatorCount??'…'):c==='全部作品'?data.items.length:data.items.filter(x=>x.category===c).length).padStart(2,'0')));b.onclick=()=>setCategory(c);buttons.push(b);
-   if(nav&&c===category&&groups[c])for(const g of groups[c]){const sub=el('button','subnav'+(group===g?' active':''),g);sub.setAttribute('aria-pressed',String(group===g));sub.onclick=()=>setGroup(g);buttons.push(sub)}
+   if(false&&nav&&c===category&&groups[c])for(const g of groups[c]){const sub=el('button','subnav'+(group===g?' active':''),g);sub.setAttribute('aria-pressed',String(group===g));sub.onclick=()=>setGroup(g);buttons.push(sub)}
   });if(nav){const b=el('button',category==='工作记录'?'active':'');b.type='button';b.setAttribute('aria-pressed',String(category==='工作记录'));b.append(el('span','nav-icon','◷'),el('span','','工作记录'));b.onclick=()=>setCategory('工作记录');buttons.unshift(b)}$(id).replaceChildren(...buttons);
  }
  const back=$('#collection-back');back.hidden=category==='全部作品'&&!group;back.textContent=group?'← 返回'+category:'← 返回全部作品';
- const isCreators=category==='推广合作',isWorkLog=category==='工作记录';$('#creator-workspace').hidden=!isCreators;$('#work-log').hidden=!isWorkLog;$('#collection').hidden=isCreators||isWorkLog;for(const selector of ['.intro','.hero','#stats'])$(selector).hidden=isCreators||isWorkLog||category==='海外宣发平台';if(isWorkLog){$('#crumb').textContent='工作记录';window.renderWorkLog(data);return}if(isCreators){$('#crumb').textContent='推广合作';return;}
+ const isCreators=category==='推广合作',isWorkLog=category==='工作记录';$('#creator-workspace').hidden=!isCreators;$('#work-log').hidden=!isWorkLog;$('#collection').hidden=isCreators||isWorkLog;for(const selector of ['.intro','.hero','#stats'])$(selector).hidden=category!=='全部作品';document.body.dataset.section=category;if(isWorkLog){$('#crumb').textContent='工作记录';window.renderWorkLog(data);return}if(isCreators){$('#crumb').textContent='推广合作';return;}
  for(const v of ['grid','timeline','episodes']){$('#'+v+'-view').classList.toggle('active',view===v);$('#'+v+'-view').setAttribute('aria-pressed',String(view===v))}
  const subgroups=groups[category]||[];$('#group-tabs').hidden=!subgroups.length;$('#group-tabs').replaceChildren(...['全部',...subgroups].map(g=>{const value=g==='全部'?'':g,b=el('button',value===group?'active':'',g);b.setAttribute('aria-pressed',String(value===group));b.onclick=()=>setGroup(value);return b}));
  const sourceItems=category==='封面与视觉'?data.items.flatMap(announcementCoverCards):data.items;
@@ -67,7 +69,7 @@ function open(o,fromRelated=false){
  $('#platform-links').replaceChildren(...links.map(l=>{const a=el('a','platform-link');a.href=l.url;a.target='_blank';a.rel='noopener noreferrer';a.append(el('strong','',l.platform+' ↗'),el('span','',l.date?date(l.date)+' · '+(l.status||'已公开'):l.status||'日期待核对'));return a}));
  $('#highlights-section h3').textContent=o.category==='海外宣发平台'?'费用与进度':'这期说了什么';$('#text-section summary').textContent=o.category==='海外宣发平台'?'查看方案与申请记录':'阅读原始文案';$('#highlights-section').hidden=!o.highlights;$('#detail-highlights').replaceChildren(...(o.highlights||[]).map(h=>el('li','',h)));
  const related=o.episode?data.items.filter(x=>x.episode===o.episode&&x.id!==o.id):[];$('#related-section').hidden=!related.length;$('#related-items').replaceChildren(...related.map(x=>{const b=el('button','related-item',x.category+' · '+x.title+' ↗');b.onclick=()=>open(x,true);return b}));
- $('#detail-category').textContent=(o.group||o.category)+' / WORK ARCHIVE';$('#detail-title').textContent=o.title;$('#detail-meta').textContent=(o.publishedAt?o.publishedAt+' 北京时间':date(o.date))+' · '+o.dateBasis+' · '+o.status;$('#detail-summary').textContent=o.summary;$('#detail-note').textContent=o.detailNote||'';$('#detail-source').textContent=o.source;$('#detail-text').textContent=o.body;$('#text-section').hidden=!o.body;$('#text-section').open=!!o.body;
+ $('#detail-category').textContent=(o.group||o.category)+' / WORK ARCHIVE';$('#detail-title').textContent=o.title;$('#detail-meta').textContent=(o.publishedAt?o.publishedAt+' 北京时间':date(o.date))+' · '+o.dateBasis+' · '+o.status;$('#detail-summary').textContent=o.summary;$('#detail-note').textContent=o.detailNote||'';$('#detail-source').textContent=o.source;$('#detail-text').textContent=o.body;$('#text-section').hidden=!o.body;$('#text-section').open=!!o.translations;
  const languages=$('#language-picker');languages.replaceChildren();languages.hidden=!o.translations;
  if(o.translations){for(const [code,name] of [['schinese','简体中文'],['tchinese','繁體中文'],['english','English'],['german','Deutsch'],['french','Français'],['japanese','日本語'],['korean','한국어'],['spanish','Español'],['brazilian','Português (Brasil)'],['russian','Русский']]){if(!o.translations[code])continue;const b=el('button',code==='schinese'?'active':'',name);b.onclick=()=>{const t=o.translations[code];$('#detail-text').textContent=t.title+'\n\n'+t.body;for(const x of languages.children)x.classList.toggle('active',x===b)};languages.append(b)}}
  const picker=$('#file-picker');picker.replaceChildren();$('#detail-media').replaceChildren();
@@ -84,10 +86,12 @@ $('#detail').addEventListener('click',e=>{if(e.target===$('#detail')){const r=e.
 $('#search').oninput=e=>{query=e.target.value;render()};$('#sort').onchange=e=>{order=e.target.value;render()};for(const v of ['grid','timeline','episodes'])$('#'+v+'-view').onclick=()=>setView(v);
 $('#reset').onclick=()=>{query='';$('#search').value='';render()};
 fetch('catalog.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('数据读取失败');return r.json()}).then(d=>{
- d.items.forEach(classifyCover);data=d;if(location.hash==='#work-log'){category='工作记录';group='';view='grid';}if(location.hash==='#overseas-platforms'){category='海外宣发平台';group='';view='grid';}if(location.hash==='#promotion-notes'){category='宣传相关事项';group='';view='grid';}if(['#creators','#xiaoheihe','#demo-trials'].includes(location.hash)||new URLSearchParams(location.search).has('creator')){category='推广合作';group='';view='grid';}$('#hero-image').src=d.hero;
+ d.items.forEach(classifyCover);data=d;const routeCategory=Object.keys(routes).find(c=>'#'+routes[c]===location.hash);if(routeCategory){category=routeCategory;group='';view=category==='宣传视频'?'episodes':'grid';if(category==='宣传视频')group='平台视频';}if(location.hash==='#work-log'){category='工作记录';group='';view='grid';}if(location.hash==='#overseas-platforms'){category='海外宣发平台';group='';view='grid';}if(location.hash==='#promotion-notes'){category='宣传相关事项';group='';view='grid';}if(['#creators','#xiaoheihe','#demo-trials'].includes(location.hash)||new URLSearchParams(location.search).has('creator')){category='推广合作';group='';view='grid';}$('#hero-image').src=d.hero;
  $('#stats').replaceChildren(...['宣传视频','封面与视觉','Steam 公告','文案'].map((c,i)=>{const s=el('div','stat'),label=el('span','',c);label.append(el('small','',['VIDEO PROJECTS','VISUAL COLLECTIONS','STEAM NEWS','COPY & SCRIPTS'][i]));s.append(el('b','',String(d.items.filter(o=>o.category===c).length).padStart(2,'0')),label);s.role='button';s.tabIndex=0;s.onclick=()=>setCategory(c);s.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();setCategory(c)}};return s}));render();const workId=new URLSearchParams(location.search).get('work');if(workId){const item=d.items.find(x=>x.id===workId);if(item)open(item)}window.dispatchEvent(new Event('creator-workspace-ready'));
 }).catch(()=>{$('#results').textContent='作品档案暂时未能加载，请刷新页面重试。'});
 
 fetch('creators/creators.json',{cache:'no-store'}).then(r=>r.json()).then(rows=>{creatorCount=rows.length;if(data)render()}).catch(()=>{});
 
 window.addEventListener('work-log-open',e=>{const item=data&&data.items.find(x=>x.id===e.detail);if(item)open(item)});
+
+$('#menu-toggle').onclick=()=>{const expanded=document.body.classList.toggle('nav-open');$('#menu-toggle').setAttribute('aria-expanded',String(expanded));};
