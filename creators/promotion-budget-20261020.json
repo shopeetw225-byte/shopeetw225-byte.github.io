@@ -109,7 +109,19 @@
       "bonus_enabled": true,
       "base_total": 40,
       "max_total": 60,
-      "status": "用户于2026-10-24确认合作；公开交付与付款待核"
+      "status": "用户于2026-10-24确认合作；公开交付与付款待核",
+      "publications": [
+        {
+          "type": "资讯",
+          "title": "免费玩到800关！挂机新游《放置事务所》Demo试玩上线",
+          "url": "https://www.xiaoheihe.cn/app/bbs/link/96af72b3f033",
+          "published_date": "2026-10-25",
+          "verified_date": "2026-11-03",
+          "verification": "小黑盒 App 打开文章核对作者、日期和正文，复制分享 ID",
+          "likes": 42,
+          "comments": 18
+        }
+      ]
     },
     {
       "name": "裂kaii",
@@ -233,7 +245,19 @@
       "bonus_enabled": true,
       "base_total": 60,
       "max_total": 85,
-      "status": "用户于2026-10-24确认合作；公开交付与付款待核"
+      "status": "用户于2026-10-24确认合作；公开交付与付款待核",
+      "publications": [
+        {
+          "type": "资讯",
+          "title": "800关试玩内容拉满！放置自走棋《放置事务所》新品节Demo更新上线",
+          "url": "https://www.xiaoheihe.cn/app/bbs/link/7e8f72b05fd7",
+          "published_date": "2026-10-26",
+          "verified_date": "2026-11-03",
+          "verification": "App 本人主页投稿列表及文章正文，复制分享链接核对。",
+          "likes": 60,
+          "comments": 38
+        }
+      ]
     }
   ],
   "totals": {
@@ -315,7 +339,7 @@
     {
       "name": "荒野空格",
       "platform": "小黑盒",
-      "profile_url": null,
+      "profile_url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=7e18684bbf89&h_src=heyboxapp",
       "followers": 2351,
       "followers_basis": "用户腾讯表格，非实时粉丝数",
       "news_count": 1,
@@ -327,7 +351,18 @@
       "base_total": 40,
       "potential_max_total": 60,
       "planned_date": "2026-10-28",
-      "status": "合作已确认；交付、付款、奖金达标待核"
+      "status": "合作已确认；交付、付款、奖金达标待核",
+      "publications": [
+        {
+          "type": "资讯",
+          "title": "4×4棋盘配队，全自动战斗挂机刷宝《放置事务所》将要发售",
+          "url": "https://www.xiaoheihe.cn/app/bbs/link/1fe772bfa36c",
+          "published_date": "2026-11-01（App显示2天前，日期待核）",
+          "verified_date": "2026-11-03",
+          "verification": "App作者主页打开文章，核对作者、标题和内容，分享复制链接。"
+        }
+      ],
+      "profile_source": "用户提供的第二轮作者主页链接；独立打开核验待完成"
     },
     {
       "name": "慕好",
@@ -344,7 +379,17 @@
       "base_total": 40,
       "potential_max_total": 60,
       "planned_date": null,
-      "status": "合作已确认；交付、付款、奖金达标待核"
+      "status": "合作已确认；交付、付款、奖金达标待核",
+      "publications": [
+        {
+          "type": "资讯",
+          "title": "有市场、可交易的挂机游戏？《放置事务所》预计12月3日发布？",
+          "url": "https://www.xiaoheihe.cn/app/bbs/link/257172c17883",
+          "published_date": "2026-11-02",
+          "verified_date": "2026-11-03",
+          "verification": "小黑盒 App 搜索结果核实作者、标题与内容，打开帖子后复制分享链接；慕好日期由昨天推算。"
+        }
+      ]
     },
     {
       "name": "懵懵脆脆鲨",
@@ -376,7 +421,7 @@
     {
       "name": "男神异闻录",
       "platform": "小黑盒",
-      "profile_url": null,
+      "profile_url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=f05768ac7177&h_src=heyboxapp",
       "followers": 2300,
       "followers_basis": "用户腾讯表格，非实时粉丝数",
       "news_count": 1,
@@ -388,7 +433,18 @@
       "base_total": 40,
       "potential_max_total": 60,
       "planned_date": "2026-10-30",
-      "status": "合作已确认；交付、付款、奖金达标待核"
+      "status": "合作已确认；交付、付款、奖金达标待核",
+      "publications": [
+        {
+          "type": "资讯",
+          "title": "全新挂机游戏《放置事务所》12月3日发售！有Demo，有市场，可交易",
+          "url": "https://www.xiaoheihe.cn/app/bbs/link/4fc472bb5081",
+          "published_date": "2026-10-30",
+          "verified_date": "2026-11-03",
+          "verification": "小黑盒 App 搜索结果核实作者、标题与内容，打开帖子后复制分享链接；慕好日期由昨天推算。"
+        }
+      ],
+      "profile_source": "用户提供的第二轮作者主页链接；独立打开核验待完成"
     },
     {
       "name": "鸽子纸",
@@ -405,12 +461,21 @@
       "base_total": 40,
       "potential_max_total": 60,
       "planned_date": "2026-10-29",
-      "status": "合作已确认；交付、付款、奖金达标待核"
+      "status": "合作已确认；交付、付款、奖金达标待核",
+      "publications": [
+        {
+          "type": "资讯",
+          "url": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?h_camp=link&h_src=YXBwX3NoYXJl&link_id=97d972ba95ed&new_post_share_style_v2=0",
+          "published_date": "日期待核",
+          "verification": "用户提供分享链接，公开页面待核",
+          "payment_status": "未记录付款"
+        }
+      ]
     },
     {
       "name": "矫龙",
       "platform": "小黑盒",
-      "profile_url": null,
+      "profile_url": "https://xiaoheihe.cn/app/user/profile/33654775",
       "followers": 1280,
       "followers_basis": "用户腾讯表格，非实时粉丝数",
       "news_count": 1,
@@ -422,7 +487,17 @@
       "base_total": 40,
       "potential_max_total": 60,
       "planned_date": "2026-10-26",
-      "status": "合作已确认；交付、付款、奖金达标待核"
+      "status": "合作已确认；交付、付款、奖金达标待核",
+      "publications": [
+        {
+          "type": "资讯",
+          "url": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?h_camp=link&h_src=YXBwX3NoYXJl&link_id=2fd672b532ff&new_post_share_style_v2=0",
+          "published_date": "日期待核",
+          "verification": "用户提供分享链接，公开页面待核",
+          "payment_status": "未记录付款"
+        }
+      ],
+      "profile_source": "用户提供的第二轮作者主页链接；独立打开核验待完成"
     },
     {
       "name": "赛伦斯玩游戏",
@@ -466,7 +541,8 @@
       "base_total": 50,
       "potential_max_total": 70,
       "planned_date": null,
-      "status": "合作已确认；交付、付款、奖金达标待核"
+      "status": "用户于2026-11-03确认已联系；发布与付款待核",
+      "contact_status": "已联系"
     }
   ],
   "additional_totals": {
@@ -499,6 +575,7 @@
     "overall_budget": 20000,
     "second_round_conservative_budget": 18515,
     "paid_note": "付款及奖励达标待核，预算不等于实付。",
-    "legacy_totals_note": "totals 和 combined_totals 保留为旧版包含B站候选的历史预算，不代表第一轮实际支出。"
+    "legacy_totals_note": "totals 和 combined_totals 保留为旧版包含B站候选的历史预算，不代表第一轮实际支出。",
+    "first_round_publication_status": "用户确认第一轮17位作者均已完成合作及发布；个别作品直达链接待补。"
   }
 }

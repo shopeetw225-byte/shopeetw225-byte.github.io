@@ -989,7 +989,7 @@
     {
       "date": "2026-11-03",
       "category": "试玩邀请",
-      "text": "向2位 B站创作者及 Indie Game Luke 发送免费 Demo 试玩邀请。",
+      "text": "向19位 B站创作者及 Indie Game Luke 发送免费 Demo 试玩邀请。",
       "url": "/creators/creator-outreach-20261103.html"
     },
     {
@@ -997,6 +997,28 @@
       "category": "Steam 公告",
       "text": "发布 Demo 更新公告，展示征途地图、战前侦察和战败提示。",
       "url": "/?work=steam-704409462168881977"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "海外宣发平台",
+      "text": "核对 Keymailer 和 Partnier 宣传方案，设置 Demo 创作权限及相关分类。",
+      "url": "/#overseas-platforms"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "宣传合作",
+      "text": "核对第一轮小黑盒作者作品，整理宣传名单、预算和试玩邀请页面。",
+      "url": "/creators/budget-plan-20261016.html"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "视频制作",
+      "text": "制作第十四期 Demo 介绍视频。"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "视频制作",
+      "text": "精修第十五期开发版介绍视频。"
     }
   ]
 }

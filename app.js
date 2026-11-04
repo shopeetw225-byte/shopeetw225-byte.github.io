@@ -1,6 +1,6 @@
 const $=s=>document.querySelector(s);
-const categories=['全部作品','宣传视频','封面与视觉','Steam 公告','文案','方案与记录','宣传相关事项','海外宣发平台','推广合作'];
-const icons=['▦','▷','▧','◷','✎','☷','☑','◎','↗'];
+const categories=['全部作品','宣传视频','封面与视觉','Steam 公告','文案','推广合作','海外宣发平台','宣传相关事项','方案与记录'];
+const icons=['▦','▷','▧','◷','✎','↗','◎','☑','☷'];
 const groups={'宣传视频':['平台视频','Steam 视频','转场视频'],'封面与视觉':['公告封面','视频封面','Steam 商店封面','详情页图片','宣传图'],'文案':['Steam 文案','平台文案']};
 function classifyCover(item){if(item.category!=='封面与视觉'||item.group!=='封面')return;const source=item.source||'',title=item.title||'';item.group=source.includes('/公告的/')||title.includes('公告封面')?'公告封面':source.includes('视频制作/封面/发平台的/')?'视频封面':'Steam 商店封面'}
 function coverLanguage(f){const name=f.name||'';return /english|英文/i.test(name)?'英文':/tchinese|繁中|繁體/i.test(name)&&!/简中／繁中/.test(name)?'繁体中文':/schinese|中文/i.test(name)?'中文':'其他语言'}
