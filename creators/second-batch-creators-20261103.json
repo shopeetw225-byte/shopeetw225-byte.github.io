@@ -1,0 +1,276 @@
+{
+  "batch": "第二批",
+  "资讯": [
+    {
+      "name": "長風丨樹",
+      "url": "https://xiaoheihe.cn/app/user/profile/92534636",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "茗零",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=60a368618736&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核",
+      "historical_followers_20261024": 2290,
+      "followers_current": 2306,
+      "news_estimate_rmb": 40,
+      "followers_checked_at": "2026-11-04",
+      "profile_display_name": "Mescaline茗零",
+      "news_fee_rmb": 40,
+      "followers_source": "原生Chrome本人公开主页AX",
+      "followers_evidence": "Mescaline茗零，2306 粉丝",
+      "profile_id": "60a368618736"
+    },
+    {
+      "name": "俺为人民服务",
+      "url": "https://xiaoheihe.cn/app/user/profile/61338464",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核",
+      "followers_at_agreement": 4900,
+      "news_fee_rmb": 50,
+      "price_basis": "按合作约定时粉丝档位；用户2026-11-04确认，当前粉丝增长不调整成交价"
+    },
+    {
+      "name": "初见的时光",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=f88c6a0afd57&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "小鱼崽丸",
+      "url": "https://xiaoheihe.cn/app/user/profile/69677507",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "男神异闻录",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=f05768ac7177&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "矫龙",
+      "url": "https://xiaoheihe.cn/app/user/profile/33654775",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核",
+      "historical_followers_20261024": 1280,
+      "followers_current": 1293,
+      "news_estimate_rmb": 40,
+      "followers_checked_at": "2026-11-04",
+      "profile_display_name": "矫龍",
+      "news_fee_rmb": 40,
+      "followers_source": "原生Chrome本人公开主页AX",
+      "followers_evidence": "矫龍，1293 粉丝",
+      "profile_id": "33654775"
+    },
+    {
+      "name": "膨胀的大玉米",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=4b366846b5e3&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "符碌哥",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=c2ab6a8a0133&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "赛伦斯玩游戏",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=78b36b9ad9ef&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "塔可松",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=7f306b1d6762&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "该用户已成仙",
+      "url": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?h_camp=link&h_src=YXBwX3NoYXJl&link_id=ca9b72c1959d&new_post_share_style_v2=1",
+      "link_type": "文章分享",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "米迪拉",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=7f8967abb35e&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "露露鱼",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=e4956b140606&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "迟暮雪",
+      "url": "https://xiaoheihe.cn/app/user/profile/57288252",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "吃糖会蛀牙",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=e8dd6c7ca944&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "肥羊1",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=3d886952b62b&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核",
+      "historical_followers_20261024": 1800,
+      "followers_current": 3611,
+      "news_estimate_rmb": 40,
+      "followers_checked_at": "2026-11-04",
+      "profile_display_name": "肥羊",
+      "news_fee_rmb": 40,
+      "followers_source": "原生Chrome本人公开主页AX",
+      "followers_evidence": "肥羊，3611 粉丝",
+      "profile_id": "3d886952b62b",
+      "followers_at_agreement": 2500,
+      "price_basis": "按合作约定时粉丝档位；用户2026-11-04确认，当前粉丝增长不调整成交价"
+    },
+    {
+      "name": "喵喵沫兮",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=52996bb7334e&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "榴莲老超人",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=0fa46affddd6&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "进击佬",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=40e96bca1f08&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核"
+    },
+    {
+      "name": "滑稽兽",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=2205684f4b17&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核",
+      "followers_current": 5103,
+      "followers_checked_at": "2026-11-04",
+      "profile_display_name": "滑稽兽o",
+      "news_fee_rmb": 60,
+      "followers_source": "原生Chrome本人公开主页AX",
+      "followers_evidence": "滑稽兽o，5103 粉丝",
+      "profile_id": "2205684f4b17"
+    }
+  ],
+  "合集": [
+    {
+      "name": "長風丨樹",
+      "url": "https://xiaoheihe.cn/app/user/profile/92534636",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核",
+      "collection_fee_rmb": 10,
+      "collection_keys": 1,
+      "price_basis": "用户于2026-11-03确认：合集每篇10元加1个Key"
+    },
+    {
+      "name": "肥羊1",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=3d886952b62b&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核",
+      "collection_fee_rmb": 10,
+      "collection_keys": 1,
+      "price_basis": "按合作约定时粉丝档位；用户2026-11-04确认，当前粉丝增长不调整成交价",
+      "historical_followers_20261024": 1800,
+      "followers_current": 3611,
+      "news_estimate_rmb": 40,
+      "followers_checked_at": "2026-11-04",
+      "profile_display_name": "肥羊",
+      "news_fee_rmb": 40,
+      "followers_source": "原生Chrome本人公开主页AX",
+      "followers_evidence": "肥羊，3611 粉丝",
+      "profile_id": "3d886952b62b",
+      "followers_at_agreement": 2500
+    },
+    {
+      "name": "荒野空格",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=7e18684bbf89&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核",
+      "collection_fee_rmb": 10,
+      "collection_keys": 1,
+      "price_basis": "用户于2026-11-03确认：合集每篇10元加1个Key"
+    },
+    {
+      "name": "喵喵沫兮",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=52996bb7334e&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核",
+      "collection_fee_rmb": 10,
+      "collection_keys": 1,
+      "price_basis": "用户于2026-11-03确认：合集每篇10元加1个Key"
+    },
+    {
+      "name": "在云上刻字",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=ae9d6abdef8c&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核",
+      "collection_fee_rmb": 10,
+      "collection_keys": 1,
+      "price_basis": "用户于2026-11-03确认：合集每篇10元加1个Key"
+    },
+    {
+      "name": "米迪拉",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=7f8967abb35e&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核",
+      "collection_fee_rmb": 10,
+      "collection_keys": 1,
+      "price_basis": "用户于2026-11-03确认：合集每篇10元加1个Key"
+    },
+    {
+      "name": "露露鱼",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=e4956b140606&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核",
+      "collection_fee_rmb": 10,
+      "collection_keys": 1,
+      "price_basis": "用户于2026-11-03确认：合集每篇10元加1个Key"
+    },
+    {
+      "name": "塔可松",
+      "url": "https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=7f306b1d6762&h_src=heyboxapp",
+      "link_type": "用户提供的主页链接",
+      "status": "用户提供候选；合作和发布待核",
+      "collection_fee_rmb": 10,
+      "collection_keys": 1,
+      "price_basis": "用户于2026-11-03确认：合集每篇10元加1个Key"
+    }
+  ],
+  "collection_fee_rmb_per_post": 10,
+  "collection_keys_per_post": 1,
+  "collection_total_rmb": 80,
+  "collection_total_keys": 8,
+  "totals": {
+    "news_count": 21,
+    "news_fee_rmb": 1160,
+    "collection_count": 8,
+    "collection_fee_rmb": 80,
+    "keys": 8,
+    "total_fee_rmb": 1240
+  },
+  "payment": {
+    "actual_paid_rmb": 1240,
+    "confirmed_at": "2026-11-04",
+    "source": "用户确认",
+    "agreed_total_rmb": 1240,
+    "outstanding_rmb": 0,
+    "keys_agreed": 8,
+    "keys_delivered": null,
+    "correction_note": "肥羊1约定2500粉资讯40元、俺为人民服务约定4900粉资讯50元，纠正按当前粉丝多算20元。"
+  }
+}

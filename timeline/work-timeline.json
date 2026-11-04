@@ -1029,7 +1029,7 @@
     {
       "date": "2026-11-04",
       "category": "试玩邀请",
-      "text": "向海外创作者 ReformistTM 发送免费 Demo 试玩邀请；Gmail 已发送核实仅一封。",
+      "text": "向海外创作者 ReformistTM 发送免费 Demo 试玩邀请。",
       "url": "/creators/creator-outreach-20261104.html"
     },
     {
@@ -1084,7 +1084,7 @@
     {
       "date": "2026-11-04",
       "category": "视频制作",
-      "text": "完成第十四期 Demo 介绍精简版的五版成片，修订配音、字幕和画面。"
+      "text": "更新第十四期 Demo 介绍的五版视频，调整配音、字幕和画面。"
     },
     {
       "date": "2026-11-04",
@@ -1095,6 +1095,17 @@
       "date": "2026-11-04",
       "category": "宣传文案",
       "text": "整理免费 Demo 试玩邀请的中英文模板。"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "试玩邀请",
+      "text": "向20位 B站创作者和3位海外创作者发送免费 Demo 试玩邀请。",
+      "url": "/creators/creator-outreach-20261105.html"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "Steam 公告",
+      "text": "制作 Demo v5 十语公告文案和新封面。"
     }
   ]
 }
