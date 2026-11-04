@@ -1,0 +1,24 @@
+{
+  "round": 3,
+  "updated_at": "2026-11-04",
+  "creators": [
+    {
+      "name": "旧城的独游世界",
+      "platform": "B站",
+      "cooperation_status": "合作已确认",
+      "fee_rmb": 600,
+      "paid_rmb": 300,
+      "outstanding_rmb": 300,
+      "confirmation_source": "用户2026-11-04在当前对话确认",
+      "publication_url": null,
+      "publication_status": "公开作品链接待补",
+      "payment_date": null,
+      "payment_date_note": "2026-11-04为确认日期，实际付款日期未提供"
+    }
+  ],
+  "totals": {
+    "fee_rmb": 600,
+    "paid_rmb": 300,
+    "outstanding_rmb": 300
+  }
+}
