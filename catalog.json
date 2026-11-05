@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "hero": "assets/07851087f62e.jpg",
   "items": [
     {
@@ -8541,6 +8541,103 @@
       ],
       "status": "已公开 · B站 / 抖音 / 小红书 / YouTube / X / Threads",
       "duration": 71.471
+    },
+    {
+      "id": "work-119",
+      "title": "第十四期 Demo介绍 · 视觉素材",
+      "category": "封面与视觉",
+      "group": "封面",
+      "episode": 14,
+      "date": "2026-11-05",
+      "dateBasis": "定稿交付与发布记录",
+      "summary": "10 张图片 · 含五组尺寸与语言版本",
+      "files": [
+        {
+          "name": "B站封面_第14期_Demo介绍.jpg",
+          "url": "assets/49295a8212fa.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/第十四期 Demo介绍/B站封面_第14期_Demo介绍.jpg"
+        },
+        {
+          "name": "B站封面_第14期_Demo介绍.png",
+          "url": "assets/cdb5374b7900.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/第十四期 Demo介绍/B站封面_第14期_Demo介绍.png"
+        },
+        {
+          "name": "小红书封面_第14期_Demo介绍_1080x1440.jpg",
+          "url": "assets/c284ecf21b48.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/第十四期 Demo介绍/小红书封面_第14期_Demo介绍_1080x1440.jpg"
+        },
+        {
+          "name": "小红书封面_第14期_Demo介绍_1080x1440.png",
+          "url": "assets/9d50ec96bf6a.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/第十四期 Demo介绍/小红书封面_第14期_Demo介绍_1080x1440.png"
+        },
+        {
+          "name": "抖音封面_第14期_Demo介绍_1080x1920.jpg",
+          "url": "assets/90bf6e637253.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/第十四期 Demo介绍/抖音封面_第14期_Demo介绍_1080x1920.jpg"
+        },
+        {
+          "name": "抖音封面_第14期_Demo介绍_1080x1920.png",
+          "url": "assets/014af0fa047a.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/第十四期 Demo介绍/抖音封面_第14期_Demo介绍_1080x1920.png"
+        },
+        {
+          "name": "繁中_第14期_Demo介绍_封面_竖屏_1080x1920.jpg",
+          "url": "assets/7aef89d42181.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/第十四期 Demo介绍/繁中_第14期_Demo介绍_封面_竖屏_1080x1920.jpg"
+        },
+        {
+          "name": "繁中_第14期_Demo介绍_封面_竖屏_1080x1920.png",
+          "url": "assets/253ab00dd2a4.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/第十四期 Demo介绍/繁中_第14期_Demo介绍_封面_竖屏_1080x1920.png"
+        },
+        {
+          "name": "英文_第14期_Demo介绍_封面_竖屏_1080x1920.jpg",
+          "url": "assets/8a726348602b.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/第十四期 Demo介绍/英文_第14期_Demo介绍_封面_竖屏_1080x1920.jpg"
+        },
+        {
+          "name": "英文_第14期_Demo介绍_封面_竖屏_1080x1920.png",
+          "url": "assets/e5c13e4aac6f.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/第十四期 Demo介绍/英文_第14期_Demo介绍_封面_竖屏_1080x1920.png"
+        }
+      ],
+      "cover": "assets/49295a8212fa.jpg",
+      "status": "已归档",
+      "body": "",
+      "source": "视频制作/封面/发平台的/第十四期 Demo介绍"
+    },
+    {
+      "id": "work-120",
+      "title": "第十四期 · Demo介绍 · 六平台发布文案",
+      "category": "文案",
+      "group": "平台文案",
+      "episode": 14,
+      "date": "2026-11-05",
+      "dateBasis": "发布记录",
+      "summary": "六平台标题与发布文案；小红书采用用户确认的短标题",
+      "files": [
+        {
+          "name": "第十四期_Demo介绍_六平台上传文案.txt",
+          "url": "assets/546f896b9d58.txt",
+          "type": "text"
+        }
+      ],
+      "status": "文案已归档",
+      "body": "第十四期 · Demo介绍（2026-11-05 发布）\n标题跟封面定稿走：八百关？！如此量大管饱的Demo你见过吗（11-05 倦猫定的封面大字）\n成片在 视频制作/平台視頻/第十四期 Demo介绍/成片/，封面在 视频制作/封面/发平台的/第十四期 Demo介绍/\n\nB站（简中横屏版_第14期_Demo介绍.mp4；封面 B站封面_第14期_Demo介绍.png）\nB站标题：八百关？！如此量大管饱的Demo你见过吗《放置事务所》开发日志14\nB站简介：\nSteam搜「放置事务所」，免费Demo已上线，喜欢的话帮忙加个愿望单～\nhttps://store.steampowered.com/app/4855890/\n玩家QQ群：1079312948\n标签：独立游戏、放置游戏、游戏开发、放置事务所、开发日志、Steam、不抽卡\n\n抖音（简中竖屏版_第14期_Demo介绍.mp4；封面 抖音封面_第14期_Demo介绍_1080x1920.png）\n抖音标题：八百关？！如此量大管饱的Demo你见过吗 开发日志14\n正文：\nSteam搜「放置事务所」可免费试玩，喜欢的话加个愿望单～\n游戏群在个人主页，欢迎进群讨论。\n标签：独立游戏、放置游戏、steam游戏、不抽卡、开发日志\n\n小红书（简中竖屏版_第14期_Demo介绍.mp4；封面 小红书封面_第14期_Demo介绍_1080x1440.png）\n小红书标题：八百关？！量大管饱的Demo 开发日志14\n正文：\n《放置事务所》Demo已开放免费试玩，欢迎来玩、留言提建议～\n标签：独立游戏、放置游戏、游戏开发、不抽卡、开发日志\n\nYouTube（英文配音横屏版_第14期_Demo介绍.mp4）\nYouTube title: 800 Stages?! Ever Seen a Demo This Stuffed? | Idle Agency Devlog #14\nDescription:\nTry the free Idle Agency demo and tell me what you think. A wishlist helps a lot!\n#IndieGame #IdleGame #Steam #GameDev #Devlog\nTags: Idle Agency,indie game,idle game,Steam,gamedev,devlog,free demo,no gacha\nYouTube不上传封面。\n\nX（英文竖屏版_第14期_Demo介绍.mp4；封面 英文_第14期_Demo介绍_封面_竖屏_1080x1920.png）\n800 stages?! Ever seen a demo this stuffed?\nTry the free Idle Agency demo. Feedback is welcome!\nhttps://store.steampowered.com/app/4855890/\n#gamedev #idlegame #Steam\n\nThreads（繁中竖屏版_第14期_Demo介绍.mp4；封面 繁中_第14期_Demo介绍_封面_竖屏_1080x1920.png）\n八百關？！如此量大管飽的Demo你見過嗎《放置事務所》開發日誌14\n免費Demo已上線，歡迎試玩、告訴我哪裡還不好用。Steam搜 Idle Agency，喜歡的話幫忙加個願望清單～\nhttps://store.steampowered.com/app/4855890/\n主題：獨立遊戲\n",
+      "source": "视频制作/文案/第十四期_Demo介绍_六平台上传文案.txt",
+      "detailNote": "小红书实际发布采用短标题“八百关？！量大管饱的Demo 开发日志14”。附件保留原始上传文案。"
     }
   ]
 }
