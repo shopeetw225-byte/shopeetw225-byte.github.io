@@ -8471,6 +8471,76 @@
           "status": "已发布"
         }
       ]
+    },
+    {
+      "id": "episode14-demo",
+      "title": "第十四期 · Demo介绍",
+      "category": "宣传视频",
+      "group": "平台视频",
+      "date": "2026-11-05",
+      "dateBasis": "六平台公开作品发布日期",
+      "summary": "《放置事务所》开发日志第十四期：Demo介绍。",
+      "files": [
+        {
+          "name": "简中横屏版_第14期_Demo介绍.mp4",
+          "url": "assets/episode14-preview-20261105.mp4",
+          "type": "video",
+          "source": "视频制作/平台視頻/第十四期 Demo介绍/成片/简中横屏版_第14期_Demo介绍.mp4",
+          "sourceSha256": "e2e1084ee69b64fd0f43755ed5a74bac321cf5f4a89d06d702bcc33e003c68d7"
+        }
+      ],
+      "cover": "assets/episode14-cover-20261105.jpg",
+      "body": "",
+      "source": "视频制作/平台視頻/第十四期 Demo介绍",
+      "episode": 14,
+      "episodeLabel": "开发日志 14",
+      "platformLinkKey": "14",
+      "links": [
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1wa446nE44/",
+          "date": "2026-11-05",
+          "status": "已公开",
+          "source": "2026-11-06 零点作者公开主页及作品详情核对"
+        },
+        {
+          "platform": "抖音",
+          "url": "https://www.douyin.com/video/7704594814129409299",
+          "date": "2026-11-05",
+          "status": "已公开",
+          "source": "2026-11-06 零点作者公开主页及作品详情核对"
+        },
+        {
+          "platform": "小红书",
+          "url": "https://www.xiaohongshu.com/explore/6aec37f7000000000b0202e6?xsec_token=ABoMJlTEFVs0NuLM0Dx3-zfuzbLNWlqAUYfhCj2vOYEFg=&xsec_source=pc_user",
+          "date": "2026-11-05",
+          "status": "已公开",
+          "source": "2026-11-06 零点作者公开主页及作品详情核对"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://youtu.be/l5YRVgZtQG0",
+          "date": "2026-11-05",
+          "status": "已公开",
+          "source": "2026-11-06 零点作者公开主页及作品详情核对"
+        },
+        {
+          "platform": "X",
+          "url": "https://x.com/Feng21671868/status/2118253146397147284",
+          "date": "2026-11-05",
+          "status": "已公开",
+          "source": "2026-11-06 零点作者公开主页及作品详情核对"
+        },
+        {
+          "platform": "Threads",
+          "url": "https://www.threads.com/@wtty2252026/post/DfWfufOljc1",
+          "date": "2026-11-05",
+          "status": "已公开",
+          "source": "2026-11-06 零点作者公开主页及作品详情核对"
+        }
+      ],
+      "status": "已公开 · B站 / 抖音 / 小红书 / YouTube / X / Threads",
+      "duration": 71.471
     }
   ]
 }
