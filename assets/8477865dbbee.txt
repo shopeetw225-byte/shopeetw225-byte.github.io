@@ -1,0 +1,53 @@
+Demo update: new ultimate close-ups, and battles can shrink to a mini window
+发布日期：2026-11-05 11:12（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=english
+
+Hi everyone, Juanmao here.
+
+The free Demo has been updated again, with new builds for both Windows and Mac. No big new systems this time. I mostly fixed the things you've pointed out over the last few days, and swapped in a batch of new visuals while I was at it.
+
+[h2]Looking punchier[/h2]
+[list]
+[*]The ultimate close-up has a new look: the battlefield splits diagonally, the hero squeezes out through the middle, and when it's done the whole frame gets swept away.
+[*]The protagonist's stance and attack animation have been redrawn. They now stand side-on, facing the enemy.
+[*]The Fortress home screen now looks like a map, and the Hall has been renamed the "Agency Hall".
+[*]Those little star markers above characters' heads are gone, and when a shield gets knocked out, you'll hear a shield-break sound.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/c63a20ec3ba81f4b7196dc78cc9782274c996c49.jpg[/img]
+
+[img]{STEAM_CLAN_IMAGE}/46216320/f5cdadd1c3867655764677957339d7a1fc49eaf0.jpg[/img]
+
+[h2]Easier to leave running[/h2]
+[list]
+[*]There's a new shrink button in the top-right of the battle screen. One click shrinks the battle into a corner mini window and it keeps going, even when you switch to other screens.
+[*]Opening the Battle Log while auto-battling no longer pauses the fight.
+[*]When a lot of gear drops at once, the notices are merged into one card instead of popping up one after another, and gear from offline stage pushing gets a summary when you come back.
+[*]When you replay stages you've already cleared, enemies only get more HP, not more damage, so going back to farm won't leave you unable to win.
+[*]Once you've clicked "Add to Wishlist", the game won't remind you again.
+[/list]
+
+
+[h2]Recruiting and heroes[/h2]
+[list]
+[*]The Tavern opens from stage 1, and heroes of 4 stars and below can be recruited cheaply with Legend Recruit Coupons.
+[*]3-star and 4-star heroes now cost less to deploy.
+[*]A batch of Tank, Cleric, Druid, Bard and Banneret heroes have had their skills reworked. The numbers are still being tuned.
+[*]In battle, hover over a buff or debuff to see who gave it.
+[*]Formation sorting is now a dropdown, and you can pick "Deployed" to put deployed heroes first.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/0df35c3c2c2543a37d5a850e2e6b990056814407.jpg[/img]
+
+[h2]Other stuff[/h2]
+[list]
+[*]The prologue dialogue got a new pass, and the part in Chapter 5 where the team falls out has been rewritten.
+[*]The tutorial lost a few unnecessary buttons, and the tutorial getting stuck at stage 14 is fixed.
+[*]Idling on the Fortress screen takes less from your computer now, and I've smoothed out the stutter when you first open the settings or fire your first ultimate.
+[/list]
+
+The save format hasn't changed, so your save should carry over. If it doesn't load or your progress looks off, please let me know.
+
+Let me know in the comments how these changes feel, and whether anything still seems off.
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url] | [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]

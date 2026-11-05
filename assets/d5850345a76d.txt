@@ -1,0 +1,53 @@
+Demo-Update: neue Ulti-Nahaufnahmen, Kämpfe laufen im Mini-Fenster weiter
+发布日期：2026-11-05 11:12（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=german
+
+Hallo zusammen, hier ist Juanmao.
+
+Die kostenlose Demo hat wieder ein Update bekommen, für Windows und Mac. Diesmal gibt's kein großes neues System – ich habe vor allem das angepasst, was ihr mir in den letzten Tagen zurückgemeldet habt, und nebenbei einiges an Grafik ausgetauscht.
+
+[h2]Mehr fürs Auge[/h2]
+[list]
+[*]Die Ulti-Nahaufnahme sieht neu aus: Das Schlachtfeld reißt schräg auf, die Figur drängt sich durch die Mitte, und danach wird das ganze Bild weggerollt.
+[*]Haltung und Angriffsanimation der Hauptfigur sind neu gezeichnet – sie steht jetzt seitlich gedreht zum Gegner.
+[*]Die Startseite der Festung hat jetzt einen Kartenlook, und aus der Halle wird die „Agenturhalle“.
+[*]Die kleinen Sternchen über den Köpfen der Figuren sind weg; wird ein Schild komplett zerschlagen, hört ihr jetzt, wie er zerbricht.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/c63a20ec3ba81f4b7196dc78cc9782274c996c49.jpg[/img]
+
+[img]{STEAM_CLAN_IMAGE}/46216320/f5cdadd1c3867655764677957339d7a1fc49eaf0.jpg[/img]
+
+[h2]Entspannter idlen[/h2]
+[list]
+[*]Rechts oben im Kampfbildschirm gibt's jetzt einen Verkleinern-Button: ein Klick, und der Kampf läuft im Mini-Fenster in der Ecke weiter – auch wenn ihr die Seite wechselt.
+[*]Laufen die Kämpfe automatisch hintereinander, pausiert das Öffnen des Kampfberichts sie nicht mehr.
+[*]Fällt viel Ausrüstung auf einmal, wird sie in einem einzigen Hinweis zusammengefasst, statt dass einer nach dem anderen aufploppt; Ausrüstung aus dem Offline-Vorrücken bekommt ihr nach eurer Rückkehr als Übersicht.
+[*]Farmt ihr alte, schon geschaffte Etappen erneut, bekommen die Gegner nur mehr Leben, aber keinen zusätzlichen Schaden – ihr verliert dort also nicht plötzlich.
+[*]Habt ihr einmal auf „Auf die Wunschliste“ geklickt, werdet ihr nicht mehr daran erinnert.
+[/list]
+
+
+[h2]Anwerben und Helden[/h2]
+[list]
+[*]Die Taverne hat schon ab Etappe 1 offen, und Helden bis 4 Sterne könnt ihr dort günstig mit Legenden-Rekrutierungsgutscheinen anwerben.
+[*]3- und 4-Sterne-Helden kosten beim Einsatz jetzt weniger.
+[*]Bei einigen Verteidigern, Klerikern, Druiden, Barden und Bannerherren habe ich die Fähigkeiten überarbeitet; die Werte teste ich noch.
+[*]Im Kampf seht ihr jetzt, wer eine Stärkung oder Schwächung verteilt hat, wenn ihr mit der Maus darüberfahrt.
+[*]Die Sortierung im Trupp ist jetzt ein Dropdown, mit der Option „Im Einsatz“.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/0df35c3c2c2543a37d5a850e2e6b990056814407.jpg[/img]
+
+[h2]Sonstiges[/h2]
+[list]
+[*]Die Texte im Prolog sind überarbeitet, und die Szene in Kapitel 5, in der sich das Team zerstreitet, ist neu geschrieben. Die Story-Texte gibt es derzeit nur auf Chinesisch und Englisch – auf Deutsch wird die Story auf Englisch angezeigt.
+[*]Im Tutorial sind überflüssige Buttons weg, und das Hängenbleiben bei Etappe 14 ist behoben.
+[*]Die Festungsseite braucht im Leerlauf weniger Leistung, und das Ruckeln beim ersten Öffnen der Optionen und bei der ersten Ulti habe ich verbessert.
+[/list]
+
+Das Speicherformat hat sich nicht geändert, eure Spielstände sollten also weiter funktionieren. Falls einer nicht lädt oder der Fortschritt nicht stimmt, sagt mir bitte Bescheid.
+
+Fühlen sich die Änderungen gut an, oder ist irgendwo noch etwas komisch? Schreibt es gern in die Kommentare.
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+[url=https://store.steampowered.com/app/5257220/]Kostenlose Demo spielen[/url] | [url=https://store.steampowered.com/app/4855890/]Vollversion auf die Wunschliste setzen[/url]

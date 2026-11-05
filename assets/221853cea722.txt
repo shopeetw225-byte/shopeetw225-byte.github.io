@@ -1,0 +1,53 @@
+Démo à jour : nouveaux gros plans d'ultime, combats en mini-fenêtre
+发布日期：2026-11-05 11:12（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=french
+
+Bonjour à tous, ici Juanmao.
+
+La démo gratuite a encore été mise à jour, sur Windows comme sur Mac. Pas de gros nouveau système cette fois : j'ai surtout retouché ce que vous m'avez signalé ces derniers jours, et j'en ai profité pour changer pas mal de visuels.
+
+[h2]Plus de punch à l'écran[/h2]
+[list]
+[*]Le gros plan d'ultime a changé de look : le champ de bataille se fend en biais, le personnage surgit par le milieu, puis tout l'écran s'enroule et disparaît.
+[*]La posture et les animations d'attaque du Protagoniste ont été redessinées, avec maintenant une pose de profil, tournée vers l'ennemi.
+[*]L'accueil de la Forteresse prend un style carte, et le Grand hall s'appelle désormais « Grand hall de l'agence ».
+[*]Les petites étoiles au-dessus de la tête des personnages ont disparu ; quand un bouclier est entièrement détruit, on l'entend se briser.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/c63a20ec3ba81f4b7196dc78cc9782274c996c49.jpg[/img]
+
+[img]{STEAM_CLAN_IMAGE}/46216320/f5cdadd1c3867655764677957339d7a1fc49eaf0.jpg[/img]
+
+[h2]Laisser tourner, l'esprit tranquille[/h2]
+[list]
+[*]Un bouton de réduction apparaît en haut à droite de l'écran de combat : un clic, et le combat continue dans une mini-fenêtre dans le coin, même si vous changez de page.
+[*]Pendant les combats automatiques enchaînés, ouvrir le Journal de combat ne met plus la partie en pause.
+[*]Quand beaucoup d'équipement tombe d'un coup, les notifications sont regroupées en une seule au lieu de s'enchaîner ; l'équipement gagné pendant l'avancée hors ligne est résumé à votre retour.
+[*]Quand vous refaites des étapes déjà terminées, les ennemis gagnent seulement des PV, pas de dégâts : vous ne risquez plus d'y perdre en revenant farmer.
+[*]Une fois que vous avez cliqué sur « Ajouter aux souhaits », le jeu ne vous le rappelle plus.
+[/list]
+
+
+[h2]Recrutement et héros[/h2]
+[list]
+[*]La Taverne ouvre dès l'étape 1, et les héros jusqu'à 4 étoiles s'y recrutent à petit prix avec des Bons de recrutement légendaire.
+[*]Les héros 3 et 4 étoiles coûtent moins cher à déployer.
+[*]Les compétences d'une partie des Défenseurs, Clercs, Druides, Bardes et Bannerets ont été retravaillées ; les valeurs sont encore en test.
+[*]En combat, survolez un Bonus ou un Malus avec la souris pour voir qui l'a donné.
+[*]Le tri dans « Équipe » passe en menu déroulant, avec l'option « Déployé ».
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/0df35c3c2c2543a37d5a850e2e6b990056814407.jpg[/img]
+
+[h2]Divers[/h2]
+[list]
+[*]Les dialogues du prologue ont été retouchés, et le passage du chapitre 5 où l'équipe se divise a été réécrit. Les textes de l'histoire n'existent pour l'instant qu'en chinois et en anglais ; en français, l'histoire s'affiche en anglais.
+[*]Le tutoriel n'a plus de boutons en trop, et le blocage du guide à l'étape 14 est corrigé.
+[*]La page Forteresse consomme moins quand le jeu tourne en fond, et j'ai réduit les à-coups à la première ouverture des Paramètres et au premier ultime.
+[/list]
+
+Le format de sauvegarde n'a pas changé, vos sauvegardes devraient donc fonctionner. Si l'une ne se charge pas ou si la progression semble fausse, prévenez-moi.
+
+Dites-moi dans les commentaires si ces changements sont agréables à l'usage, ou si quelque chose cloche encore.
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+[url=https://store.steampowered.com/app/5257220/]Jouer à la démo gratuite[/url] | [url=https://store.steampowered.com/app/4855890/]Ajouter le jeu complet à votre liste de souhaits[/url]

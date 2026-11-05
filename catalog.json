@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-05",
   "hero": "assets/07851087f62e.jpg",
   "items": [
     {
@@ -8301,6 +8301,173 @@
           "platform": "Steam · Русский",
           "url": "https://store.steampowered.com/app/4855890/?l=russian",
           "date": "2026-10-28",
+          "status": "已发布"
+        }
+      ]
+    },
+    {
+      "id": "steam-704410099752371038",
+      "title": "Demo 又更新了：开大特写换新，战斗能缩成小窗接着打",
+      "category": "Steam 公告",
+      "group": "已发布公告",
+      "date": "2026-11-05",
+      "dateBasis": "发布日期",
+      "publishedAt": "2026-11-05 11:12",
+      "summary": "免费 Demo 又更新了（Windows / Mac）。开大特写和主角都换了新样子；战斗能缩成角落小窗，连战时看战报不暂停；酒馆第 1 关就开，回刷旧关不再越刷越难，掉装备也不会一直弹窗。",
+      "highlights": [
+        "公开 Demo 更新开大特写、主角动作和事务所大厅画面，Windows 与 Mac 均已上线。",
+        "战斗可缩为小窗，连战看战报不停；合并装备提示，调整回刷与酒馆招募。",
+        "调整英雄费用与技能、编队排序、新手引导、剧情及运行表现；提供免费试玩与愿望单入口。"
+      ],
+      "announcementNumber": 14,
+      "status": "已发布 · 十语",
+      "body": "各位股东大人，我是倦猫。\n\n免费 Demo 又更新了，Windows 和 Mac 都是新版。这次没加大系统，主要是把这几天大家反馈的地方改了改，顺手换了一批画面。\n\n看着更带劲了\n\n• 开大特写换了新样子：战场斜着裂开，角色从中间挤出来，打完整张卷走。\n• 主角的站姿和出手动作重画了，现在侧过身朝着敌人。\n• 要塞主页换成了地图风，要塞大厅改叫“事务所大厅”。\n• 角色头上那些小星星记号拿掉了；护盾被打光的时候，会响一声破盾声。\n\n〔配图请见 Steam 原文〕\n\n〔配图请见 Steam 原文〕\n\n挂着更省心\n\n• 战斗页右上角多了个缩小键，点一下就缩成角落小窗接着打，去别的页面也不停。\n• 自动连战时打开战报，战斗不会再暂停。\n• 一次掉很多装备，提示会合成一张，不再一张接一张地弹；离线推关打到的装备，回来给一张总结。\n• 回刷打过的旧关，敌人只加血、不加伤害，不会回去刷反而打不过。\n• 点过“加入愿望单”以后，就不会再提醒你了。\n\n\n招募和英雄\n\n• 酒馆第 1 关就开门，四星及以下的英雄能用传说招募券招，价钱便宜。\n• 三星、四星英雄上阵更省费用了。\n• 坦克、牧师、德鲁伊、吟游诗人和旗官里，有一批英雄的技能重新调过，数值还在试。\n• 战斗里把鼠标移到增减益上，能看到是谁给的。\n• 编队排序改成下拉，能选“已上阵优先”。\n\n〔配图请见 Steam 原文〕\n\n其他\n\n• 序章台词改了一版，第 5 章队伍闹分歧的那段也重写了。\n• 新手引导去掉了多余的按钮，修好了第 14 关引导卡住的问题。\n• 减少了要塞页挂机的占用，也优化了第一次打开设置和开大时的卡顿。\n\n\n存档格式没变，按理可以接着玩；读不出来或进度不对请告诉我。\n\n这些改得顺不顺手、还有哪里不对劲，欢迎在评论区跟我说。欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+      "translations": {
+        "schinese": {
+          "title": "Demo 又更新了：开大特写换新，战斗能缩成小窗接着打",
+          "body": "各位股东大人，我是倦猫。\n\n免费 Demo 又更新了，Windows 和 Mac 都是新版。这次没加大系统，主要是把这几天大家反馈的地方改了改，顺手换了一批画面。\n\n看着更带劲了\n\n• 开大特写换了新样子：战场斜着裂开，角色从中间挤出来，打完整张卷走。\n• 主角的站姿和出手动作重画了，现在侧过身朝着敌人。\n• 要塞主页换成了地图风，要塞大厅改叫“事务所大厅”。\n• 角色头上那些小星星记号拿掉了；护盾被打光的时候，会响一声破盾声。\n\n〔配图请见 Steam 原文〕\n\n〔配图请见 Steam 原文〕\n\n挂着更省心\n\n• 战斗页右上角多了个缩小键，点一下就缩成角落小窗接着打，去别的页面也不停。\n• 自动连战时打开战报，战斗不会再暂停。\n• 一次掉很多装备，提示会合成一张，不再一张接一张地弹；离线推关打到的装备，回来给一张总结。\n• 回刷打过的旧关，敌人只加血、不加伤害，不会回去刷反而打不过。\n• 点过“加入愿望单”以后，就不会再提醒你了。\n\n\n招募和英雄\n\n• 酒馆第 1 关就开门，四星及以下的英雄能用传说招募券招，价钱便宜。\n• 三星、四星英雄上阵更省费用了。\n• 坦克、牧师、德鲁伊、吟游诗人和旗官里，有一批英雄的技能重新调过，数值还在试。\n• 战斗里把鼠标移到增减益上，能看到是谁给的。\n• 编队排序改成下拉，能选“已上阵优先”。\n\n〔配图请见 Steam 原文〕\n\n其他\n\n• 序章台词改了一版，第 5 章队伍闹分歧的那段也重写了。\n• 新手引导去掉了多余的按钮，修好了第 14 关引导卡住的问题。\n• 减少了要塞页挂机的占用，也优化了第一次打开设置和开大时的卡顿。\n\n\n存档格式没变，按理可以接着玩；读不出来或进度不对请告诉我。\n\n这些改得顺不顺手、还有哪里不对劲，欢迎在评论区跟我说。欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=schinese"
+        },
+        "tchinese": {
+          "title": "Demo 又更新了：開大特寫換新，戰鬥能縮成小窗接著打",
+          "body": "各位股東大人，我是倦貓。\n\n免費 Demo 又更新了，Windows 和 Mac 都是新版。這次沒加大系統，主要是把這幾天大家回饋的地方改了改，順手換了一批畫面。\n\n看著更帶勁了\n\n• 開大特寫換了新樣子：戰場斜著裂開，角色從中間擠出來，打完整張捲走。\n• 主角的站姿和出手動作重畫了，現在側過身朝著敵人。\n• 要塞主頁換成了地圖風，要塞大廳改叫「事務所大廳」。\n• 角色頭上那些小星星記號拿掉了；護盾被打光的時候，會響一聲破盾聲。\n\n〔配图请见 Steam 原文〕\n\n〔配图请见 Steam 原文〕\n\n掛著更省心\n\n• 戰鬥頁右上角多了個縮小鍵，點一下就縮成角落小窗接著打，去別的頁面也不停。\n• 自動連戰時打開戰報，戰鬥不會再暫停。\n• 一次掉很多裝備，提示會合成一張，不再一張接一張地彈；離線推關打到的裝備，回來給一張總結。\n• 回刷打過的舊關，敵人只加血、不加傷害，不會回去刷反而打不過。\n• 點過「加入願望清單」以後，就不會再提醒你了。\n\n\n\n招募和英雄\n\n• 酒館第 1 關就開門，四星及以下的英雄能用傳說招募券招，價錢便宜。\n• 三星、四星英雄上陣更省費用了。\n• 坦克、牧師、德魯伊、吟遊詩人和旗官裡，有一批英雄的技能重新調過，數值還在試。\n• 戰鬥裡把滑鼠移到增減益上，能看到是誰給的。\n• 編隊排序改成下拉選單，能選「已上陣優先」。\n\n〔配图请见 Steam 原文〕\n\n其他\n\n• 序章台詞改了一版，第 5 章隊伍鬧分歧的那段也重寫了。\n• 新手引導拿掉了多餘的按鈕，修好了第 14 關引導卡住的問題。\n• 減少了要塞頁掛機的佔用，也優化了第一次打開設定和開大時的卡頓。\n\n\n存檔格式沒變，照理可以接著玩；讀不出來或進度不對請告訴我。\n\n這些改得順不順手、還有哪裡不對勁，歡迎在留言區跟我說。歡迎加入遊戲交流群：1079312948。\n\n如果覺得還不錯，也拜託幫忙加個願望清單。謝謝大家，這對一個遊戲真的很重要。\n\n免費試玩 Demo（https://store.steampowered.com/app/5257220/）｜將正式版加入願望清單（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=tchinese"
+        },
+        "english": {
+          "title": "Demo update: new ultimate close-ups, and battles can shrink to a mini window",
+          "body": "Hi everyone, Juanmao here.\n\nThe free Demo has been updated again, with new builds for both Windows and Mac. No big new systems this time. I mostly fixed the things you've pointed out over the last few days, and swapped in a batch of new visuals while I was at it.\n\nLooking punchier\n\n• The ultimate close-up has a new look: the battlefield splits diagonally, the hero squeezes out through the middle, and when it's done the whole frame gets swept away.\n• The protagonist's stance and attack animation have been redrawn. They now stand side-on, facing the enemy.\n• The Fortress home screen now looks like a map, and the Hall has been renamed the \"Agency Hall\".\n• Those little star markers above characters' heads are gone, and when a shield gets knocked out, you'll hear a shield-break sound.\n\n〔配图请见 Steam 原文〕\n\n〔配图请见 Steam 原文〕\n\nEasier to leave running\n\n• There's a new shrink button in the top-right of the battle screen. One click shrinks the battle into a corner mini window and it keeps going, even when you switch to other screens.\n• Opening the Battle Log while auto-battling no longer pauses the fight.\n• When a lot of gear drops at once, the notices are merged into one card instead of popping up one after another, and gear from offline stage pushing gets a summary when you come back.\n• When you replay stages you've already cleared, enemies only get more HP, not more damage, so going back to farm won't leave you unable to win.\n• Once you've clicked \"Add to Wishlist\", the game won't remind you again.\n\n\n\nRecruiting and heroes\n\n• The Tavern opens from stage 1, and heroes of 4 stars and below can be recruited cheaply with Legend Recruit Coupons.\n• 3-star and 4-star heroes now cost less to deploy.\n• A batch of Tank, Cleric, Druid, Bard and Banneret heroes have had their skills reworked. The numbers are still being tuned.\n• In battle, hover over a buff or debuff to see who gave it.\n• Formation sorting is now a dropdown, and you can pick \"Deployed\" to put deployed heroes first.\n\n〔配图请见 Steam 原文〕\n\nOther stuff\n\n• The prologue dialogue got a new pass, and the part in Chapter 5 where the team falls out has been rewritten.\n• The tutorial lost a few unnecessary buttons, and the tutorial getting stuck at stage 14 is fixed.\n• Idling on the Fortress screen takes less from your computer now, and I've smoothed out the stutter when you first open the settings or fire your first ultimate.\n\n\nThe save format hasn't changed, so your save should carry over. If it doesn't load or your progress looks off, please let me know.\n\nLet me know in the comments how these changes feel, and whether anything still seems off.\n\nIf you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.\n\nPlay the free Demo（https://store.steampowered.com/app/5257220/） | Wishlist the full game（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=english"
+        },
+        "japanese": {
+          "title": "Demoを再更新：必殺技のクローズアップを一新、戦闘は小ウィンドウでも続行",
+          "body": "みなさん、こんにちは。倦猫（Juanmao）です。\n\n無料Demoをまた更新しました。WindowsもMacも新しいバージョンです。今回は大きなシステムの追加はなく、ここ数日みなさんからいただいた意見をもとに直したところが中心で、ついでに画面もいくつか新しくしました。\n\n見た目がもっと派手に\n\n• 必殺技のクローズアップが新しくなりました。戦場が斜めに裂けて、キャラクターが真ん中から割り込むように出てきて、技が終わると画面ごと巻き取られていきます。\n• 主人公の立ち姿と攻撃モーションを描き直しました。今は体を横に向けて、敵のほうを向いています。\n• 要塞のホーム画面がマップ風になり、要塞ホールは「事務所ホール」に名前が変わりました。\n• キャラクターの頭上にあった小さな星のマークをなくしました。シールドを削り切られたときは、シールドが割れる音が鳴ります。\n\n〔配图请见 Steam 原文〕\n\n〔配图请见 Steam 原文〕\n\n放置がもっとラクに\n\n• 戦闘画面の右上に縮小ボタンが付きました。押すと隅の小ウィンドウに縮んだまま戦闘が続き、ほかの画面に移っても止まりません。\n• 自動で連戦しているときに戦闘記録を開いても、戦闘が一時停止しなくなりました。\n• 装備が一度にたくさん出たときは通知が1枚にまとまり、次々にポップアップしなくなりました。オフライン進行で手に入れた装備は、戻ってきたときにまとめて表示されます。\n• クリア済みの古いステージを周回するとき、敵はHPが増えるだけで、与えるダメージは増えません。周回しに戻ったら逆に勝てなくなった、ということはもうありません。\n• 一度「ウィッシュリストに追加」を押したら、もうリマインドは出ません。\n\n\n\n募集と英雄\n\n• 酒場はステージ1から開いていて、星4以下の英雄はレジェンド募集券で安く募集できます。\n• 星3・星4英雄の出撃コストが下がりました。\n• タンク、司祭、ドルイド、吟遊詩人、旗官のうち、一部の英雄のスキルを調整し直しました。数値はまだ試している段階です。\n• 戦闘中にバフやデバフにマウスを乗せると、誰がかけたものか分かります。\n• 編成の並べ替えがプルダウンになり、「出撃中優先」を選べるようになりました。\n\n〔配图请见 Steam 原文〕\n\nその他\n\n• 序章のセリフを一通り書き直し、第5章でパーティーの意見が割れる場面も書き直しました。※ストーリーのテキストは現在、中国語と英語のみです。日本語でプレイすると英語で表示されます。\n• 初心者ガイドから余計なボタンを外し、ステージ14でガイドが止まってしまう問題を直しました。\n• 要塞画面で放置しているときの負荷を減らし、設定画面を初めて開いたときや初めて必殺技が出たときのカクつきも改善しました。\n\n\nセーブデータの形式は変わっていないので、そのまま続きから遊べるはずです。読み込めなかったり、進行がおかしかったりしたら教えてください。\n\n今回の変更が遊びやすくなったか、ほかにおかしいところがないか、ぜひコメントで教えてください。\n\nもし悪くないなと思ってもらえたら、ウィッシュリストに追加していただけるとうれしいです。みなさん、ありがとうございます。ゲームにとって、本当に大事なことなんです。\n\n無料体験版をプレイ（https://store.steampowered.com/app/5257220/） | 製品版をウィッシュリストに追加（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=japanese"
+        },
+        "korean": {
+          "title": "데모 또 업데이트: 필살기 클로즈업이 새로워지고, 전투를 작은 창으로 줄여도 계속 싸워요",
+          "body": "안녕하세요, Juanmao입니다.\n\n무료 데모를 또 업데이트했어요. Windows와 Mac 모두 새 버전입니다. 이번에는 큰 시스템을 추가하진 않았고, 요 며칠 여러분이 피드백해 주신 부분을 주로 고치면서 화면도 몇 가지 바꿨어요.\n\n더 멋있어졌어요\n\n• 필살기 클로즈업이 새로 바뀌었어요. 전장이 비스듬히 갈라지고 그 사이로 캐릭터가 비집고 나왔다가, 끝나면 화면째 휙 말려 나가요.\n• 주인공의 서 있는 자세와 공격 동작을 새로 그렸어요. 이제 몸을 옆으로 틀어 적을 향하고 있어요.\n• 요새 메인 화면이 지도 스타일로 바뀌었고, 요새 홀은 \"사무소 홀\"로 이름을 바꿨어요.\n• 캐릭터 머리 위에 있던 작은 별 표시는 없앴어요. 보호막이 다 깎이면 깨지는 소리가 납니다.\n\n〔配图请见 Steam 原文〕\n\n〔配图请见 Steam 原文〕\n\n방치가 더 편해졌어요\n\n• 전투 화면 오른쪽 위에 축소 버튼이 생겼어요. 누르면 구석 작은 창으로 줄어든 채 전투가 계속되고, 다른 화면으로 가도 멈추지 않아요.\n• 자동으로 연속 전투 중일 때 전투 기록을 열어도 이제 전투가 멈추지 않아요.\n• 장비가 한꺼번에 많이 나오면 알림이 한 장으로 합쳐져서, 하나씩 연달아 뜨지 않아요. 오프라인 진행 중에 얻은 장비는 돌아왔을 때 한 장으로 정리해 보여 줘요.\n• 이미 깬 스테이지를 다시 돌 때 적은 체력만 늘고 피해량은 그대로라서, 다시 돌다가 오히려 못 이기는 일은 없어요.\n• \"위시리스트에 추가\"를 한 번 누르면 더 이상 알림이 뜨지 않아요.\n\n\n\n모집과 영웅\n\n• 주점이 1스테이지부터 열려요. 4성 이하 영웅은 전설 모집권으로 저렴하게 모집할 수 있어요.\n• 3성·4성 영웅의 출전 코스트가 줄었어요.\n• 탱커, 사제, 드루이드, 음유시인, 깃발 장교 중 일부 영웅의 스킬을 다시 조정했어요. 수치는 아직 시험 중입니다.\n• 전투 중에 버프·디버프에 마우스를 올리면 누가 건 것인지 볼 수 있어요.\n• 편성 정렬이 드롭다운으로 바뀌었고, \"출전 중 우선\"을 고를 수 있어요.\n\n〔配图请见 Steam 原文〕\n\n기타\n\n• 프롤로그 대사를 한 번 손봤고, 5챕터에서 파티 의견이 갈리는 부분도 새로 썼어요. ※스토리 대사는 현재 중국어와 영어만 있어서, 한국어로 플레이하면 영어로 표시됩니다.\n• 초보자 가이드에서 불필요한 버튼을 없앴고, 14스테이지에서 가이드가 멈추던 문제도 고쳤어요.\n• 요새 화면을 켜 두고 방치할 때 부담을 줄였고, 설정 창을 처음 열 때나 첫 필살기를 쓸 때의 버벅임도 개선했어요.\n\n\n저장 데이터 형식은 바뀌지 않아서 그대로 이어서 할 수 있을 거예요. 불러오지 못하거나 진행이 이상하면 알려 주세요.\n\n이번에 바뀐 부분이 쓰기 편한지, 아직 어색한 곳은 없는지 댓글로 알려 주세요.\n\n괜찮다고 느끼셨다면 찜 목록에도 추가해 주세요. 모두 감사합니다. 게임 하나에는 정말 중요한 일이에요.\n\n무료 데모 플레이（https://store.steampowered.com/app/5257220/） | 정식판 찜 목록에 추가（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=koreana"
+        },
+        "german": {
+          "title": "Demo-Update: neue Ulti-Nahaufnahmen, Kämpfe laufen im Mini-Fenster weiter",
+          "body": "Hallo zusammen, hier ist Juanmao.\n\nDie kostenlose Demo hat wieder ein Update bekommen, für Windows und Mac. Diesmal gibt's kein großes neues System – ich habe vor allem das angepasst, was ihr mir in den letzten Tagen zurückgemeldet habt, und nebenbei einiges an Grafik ausgetauscht.\n\nMehr fürs Auge\n\n• Die Ulti-Nahaufnahme sieht neu aus: Das Schlachtfeld reißt schräg auf, die Figur drängt sich durch die Mitte, und danach wird das ganze Bild weggerollt.\n• Haltung und Angriffsanimation der Hauptfigur sind neu gezeichnet – sie steht jetzt seitlich gedreht zum Gegner.\n• Die Startseite der Festung hat jetzt einen Kartenlook, und aus der Halle wird die „Agenturhalle“.\n• Die kleinen Sternchen über den Köpfen der Figuren sind weg; wird ein Schild komplett zerschlagen, hört ihr jetzt, wie er zerbricht.\n\n〔配图请见 Steam 原文〕\n\n〔配图请见 Steam 原文〕\n\nEntspannter idlen\n\n• Rechts oben im Kampfbildschirm gibt's jetzt einen Verkleinern-Button: ein Klick, und der Kampf läuft im Mini-Fenster in der Ecke weiter – auch wenn ihr die Seite wechselt.\n• Laufen die Kämpfe automatisch hintereinander, pausiert das Öffnen des Kampfberichts sie nicht mehr.\n• Fällt viel Ausrüstung auf einmal, wird sie in einem einzigen Hinweis zusammengefasst, statt dass einer nach dem anderen aufploppt; Ausrüstung aus dem Offline-Vorrücken bekommt ihr nach eurer Rückkehr als Übersicht.\n• Farmt ihr alte, schon geschaffte Etappen erneut, bekommen die Gegner nur mehr Leben, aber keinen zusätzlichen Schaden – ihr verliert dort also nicht plötzlich.\n• Habt ihr einmal auf „Auf die Wunschliste“ geklickt, werdet ihr nicht mehr daran erinnert.\n\n\n\nAnwerben und Helden\n\n• Die Taverne hat schon ab Etappe 1 offen, und Helden bis 4 Sterne könnt ihr dort günstig mit Legenden-Rekrutierungsgutscheinen anwerben.\n• 3- und 4-Sterne-Helden kosten beim Einsatz jetzt weniger.\n• Bei einigen Verteidigern, Klerikern, Druiden, Barden und Bannerherren habe ich die Fähigkeiten überarbeitet; die Werte teste ich noch.\n• Im Kampf seht ihr jetzt, wer eine Stärkung oder Schwächung verteilt hat, wenn ihr mit der Maus darüberfahrt.\n• Die Sortierung im Trupp ist jetzt ein Dropdown, mit der Option „Im Einsatz“.\n\n〔配图请见 Steam 原文〕\n\nSonstiges\n\n• Die Texte im Prolog sind überarbeitet, und die Szene in Kapitel 5, in der sich das Team zerstreitet, ist neu geschrieben. Die Story-Texte gibt es derzeit nur auf Chinesisch und Englisch – auf Deutsch wird die Story auf Englisch angezeigt.\n• Im Tutorial sind überflüssige Buttons weg, und das Hängenbleiben bei Etappe 14 ist behoben.\n• Die Festungsseite braucht im Leerlauf weniger Leistung, und das Ruckeln beim ersten Öffnen der Optionen und bei der ersten Ulti habe ich verbessert.\n\n\nDas Speicherformat hat sich nicht geändert, eure Spielstände sollten also weiter funktionieren. Falls einer nicht lädt oder der Fortschritt nicht stimmt, sagt mir bitte Bescheid.\n\nFühlen sich die Änderungen gut an, oder ist irgendwo noch etwas komisch? Schreibt es gern in die Kommentare.\n\nWenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.\n\nKostenlose Demo spielen（https://store.steampowered.com/app/5257220/） | Vollversion auf die Wunschliste setzen（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=german"
+        },
+        "french": {
+          "title": "Démo à jour : nouveaux gros plans d'ultime, combats en mini-fenêtre",
+          "body": "Bonjour à tous, ici Juanmao.\n\nLa démo gratuite a encore été mise à jour, sur Windows comme sur Mac. Pas de gros nouveau système cette fois : j'ai surtout retouché ce que vous m'avez signalé ces derniers jours, et j'en ai profité pour changer pas mal de visuels.\n\nPlus de punch à l'écran\n\n• Le gros plan d'ultime a changé de look : le champ de bataille se fend en biais, le personnage surgit par le milieu, puis tout l'écran s'enroule et disparaît.\n• La posture et les animations d'attaque du Protagoniste ont été redessinées, avec maintenant une pose de profil, tournée vers l'ennemi.\n• L'accueil de la Forteresse prend un style carte, et le Grand hall s'appelle désormais « Grand hall de l'agence ».\n• Les petites étoiles au-dessus de la tête des personnages ont disparu ; quand un bouclier est entièrement détruit, on l'entend se briser.\n\n〔配图请见 Steam 原文〕\n\n〔配图请见 Steam 原文〕\n\nLaisser tourner, l'esprit tranquille\n\n• Un bouton de réduction apparaît en haut à droite de l'écran de combat : un clic, et le combat continue dans une mini-fenêtre dans le coin, même si vous changez de page.\n• Pendant les combats automatiques enchaînés, ouvrir le Journal de combat ne met plus la partie en pause.\n• Quand beaucoup d'équipement tombe d'un coup, les notifications sont regroupées en une seule au lieu de s'enchaîner ; l'équipement gagné pendant l'avancée hors ligne est résumé à votre retour.\n• Quand vous refaites des étapes déjà terminées, les ennemis gagnent seulement des PV, pas de dégâts : vous ne risquez plus d'y perdre en revenant farmer.\n• Une fois que vous avez cliqué sur « Ajouter aux souhaits », le jeu ne vous le rappelle plus.\n\n\n\nRecrutement et héros\n\n• La Taverne ouvre dès l'étape 1, et les héros jusqu'à 4 étoiles s'y recrutent à petit prix avec des Bons de recrutement légendaire.\n• Les héros 3 et 4 étoiles coûtent moins cher à déployer.\n• Les compétences d'une partie des Défenseurs, Clercs, Druides, Bardes et Bannerets ont été retravaillées ; les valeurs sont encore en test.\n• En combat, survolez un Bonus ou un Malus avec la souris pour voir qui l'a donné.\n• Le tri dans « Équipe » passe en menu déroulant, avec l'option « Déployé ».\n\n〔配图请见 Steam 原文〕\n\nDivers\n\n• Les dialogues du prologue ont été retouchés, et le passage du chapitre 5 où l'équipe se divise a été réécrit. Les textes de l'histoire n'existent pour l'instant qu'en chinois et en anglais ; en français, l'histoire s'affiche en anglais.\n• Le tutoriel n'a plus de boutons en trop, et le blocage du guide à l'étape 14 est corrigé.\n• La page Forteresse consomme moins quand le jeu tourne en fond, et j'ai réduit les à-coups à la première ouverture des Paramètres et au premier ultime.\n\n\nLe format de sauvegarde n'a pas changé, vos sauvegardes devraient donc fonctionner. Si l'une ne se charge pas ou si la progression semble fausse, prévenez-moi.\n\nDites-moi dans les commentaires si ces changements sont agréables à l'usage, ou si quelque chose cloche encore.\n\nSi le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.\n\nJouer à la démo gratuite（https://store.steampowered.com/app/5257220/） | Ajouter le jeu complet à votre liste de souhaits（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=french"
+        },
+        "spanish": {
+          "title": "Demo actualizada otra vez: nuevo primer plano de ultis y combate en miniventana",
+          "body": "¡Hola a todos! Soy Juanmao.\n\nLa demo gratuita se volvió a actualizar, con versión nueva tanto en Windows como en Mac. Esta vez no hay ningún sistema grande nuevo: más que nada arreglé lo que me comentaron estos días y, de paso, cambié un montón de imágenes.\n\nAhora se ve con más garra\n\n• El primer plano de la ulti tiene un estilo nuevo: el campo de batalla se parte en diagonal, el personaje se abre paso por el medio y, al terminar, toda la imagen se va de un barrido.\n• Se redibujaron la postura y los movimientos de ataque del Protagonista: ahora se pone de lado, mirando a los enemigos.\n• La página principal de la Fortaleza ahora tiene estilo de mapa, y el Salón ahora se llama «Salón de la agencia».\n• Ya no aparecen las estrellitas sobre la cabeza de los personajes; y cuando a alguien le rompen el Escudo del todo, suena un golpe de escudo roto.\n\n〔配图请见 Steam 原文〕\n\n〔配图请见 Steam 原文〕\n\nDejarlo en automático es más cómodo\n\n• La página de combate tiene un botón para minimizar arriba a la derecha: con un toque, el combate se reduce a una miniventana en la esquina y sigue, aunque te vayas a otras páginas.\n• Si abres el Registro mientras los combates automáticos van en cadena, el combate ya no se pausa.\n• Cuando cae mucho equipo de golpe, los avisos se juntan en uno solo en vez de salir uno tras otro; y el equipo que consigas con el avance sin conexión te llega en un resumen al volver.\n• Al repetir etapas que ya superaste, los enemigos solo ganan vida, no daño, así que volver a farmear no te va a dejar sin poder ganar.\n• Después de pulsar «Agregar a deseados», el juego ya no te lo vuelve a recordar.\n\n\n\nReclutamiento y héroes\n\n• La Taberna abre desde la etapa 1, y los héroes de 4 estrellas o menos se pueden reclutar con Cupones de reclutamiento legendario a buen precio.\n• Los héroes de 3 y 4 estrellas ahora tienen menos Costo al ponerlos en la Escuadra.\n• Entre los Tanques, Clérigos, Druidas, Bardos y Alféreces, se reajustaron las habilidades de un grupo de héroes; los valores todavía están en pruebas.\n• En combate, si pasas el ratón por encima de una mejora o un perjuicio, puedes ver quién lo puso.\n• El orden de la Escuadra ahora es un menú desplegable, y puedes elegir «En combate» para que salgan primero.\n\n〔配图请见 Steam 原文〕\n\nOtros cambios\n\n• Los diálogos del prólogo tienen una versión nueva, y también se reescribió la parte del capítulo 5 en la que el equipo discute. Por ahora los textos de la historia solo están en chino e inglés, así que en español la historia se muestra en inglés.\n• El tutorial ya no tiene botones de sobra, y se arregló el atasco del tutorial en la etapa 14.\n• La página de la Fortaleza consume menos cuando el juego se queda en segundo plano, y mejoré los tirones al abrir Ajustes por primera vez y en la primera ulti.\n\n\nEl formato de guardado no cambió, así que tu partida debería seguir funcionando. Si alguna no carga o el progreso no cuadra, avísame, por favor.\n\nSi estos cambios te resultan cómodos o algo todavía te parece raro, cuéntamelo en los comentarios.\n\nSi te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.\n\nJuega la demo gratis（https://store.steampowered.com/app/5257220/） | Añade el juego completo a tu lista de deseados（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=spanish"
+        },
+        "brazilian": {
+          "title": "Demo atualizada de novo: close da suprema renovado e batalha em minijanela",
+          "body": "Olá, pessoal! Aqui é o Juanmao.\n\nA demo gratuita foi atualizada de novo, com versão nova no Windows e no Mac. Desta vez não tem nenhum sistema grande novo: o foco foi mexer no que vocês comentaram nesses dias e, de quebra, trocar um monte de visuais.\n\nMais impacto na tela\n\n• O close da suprema ganhou um visual novo: o campo de batalha racha na diagonal, o personagem sai espremido pelo meio e, no fim, a tela inteira é varrida.\n• A pose e os movimentos de ataque do Protagonista foram redesenhados: agora ele fica de lado, virado para os inimigos.\n• A página principal da Fortaleza agora tem estilo de mapa, e o Salão passou a se chamar \"Salão da Agência\".\n• As estrelinhas que ficavam em cima da cabeça dos personagens saíram; e quando o Escudo de alguém é quebrado de vez, toca um som de escudo quebrando.\n\n〔配图请见 Steam 原文〕\n\n〔配图请见 Steam 原文〕\n\nDeixar rodando ficou mais tranquilo\n\n• A página de batalha ganhou um botão de minimizar no canto superior direito: um clique e a batalha vira uma minijanela no canto e continua, mesmo se você for para outras páginas.\n• Se você abrir o Registro durante as batalhas automáticas em sequência, a batalha não pausa mais.\n• Quando cai muito equipamento de uma vez, os avisos viram um só, em vez de pipocar um atrás do outro; e o equipamento conseguido no avanço offline aparece num resumo quando você volta.\n• Ao repetir fases que você já venceu, os inimigos ganham só vida, não dano, então voltar para farmar não vai te deixar sem conseguir vencer.\n• Depois que você clica em \"+ Lista de desejos\", o jogo não te lembra mais disso.\n\n\n\nRecrutamento e heróis\n\n• A Taverna já abre na fase 1, e heróis de 4 estrelas ou menos podem ser recrutados com Cupons de Recrutamento Lendário, por um preço baixo.\n• Heróis de 3 e 4 estrelas agora têm Custo menor para entrar na Equipe.\n• Entre Tanques, Clérigos, Druidas, Bardos e Alferes, um grupo de heróis teve as habilidades reajustadas; os valores ainda estão em teste.\n• Na batalha, passe o mouse sobre um bônus ou uma penalidade para ver quem aplicou.\n• A ordenação da Equipe agora é um menu suspenso, e dá para escolher \"Em campo\" para mostrar primeiro quem está escalado.\n\n〔配图请见 Steam 原文〕\n\nOutras mudanças\n\n• As falas do prólogo ganharam uma nova versão, e a parte do capítulo 5 em que o time se desentende foi reescrita. Por enquanto, os textos da história só existem em chinês e inglês, então em português a história aparece em inglês.\n• O tutorial perdeu uns botões que sobravam, e o travamento do tutorial na fase 14 foi corrigido.\n• A página da Fortaleza pesa menos quando o jogo fica parado nela, e melhorei as engasgadas na primeira vez que você abre as Opções e na primeira suprema.\n\n\nO formato do save não mudou, então seu save deve continuar funcionando. Se algum não carregar ou o progresso parecer errado, me avisa.\n\nSe essas mudanças ficaram boas de usar ou se ainda tem algo estranho, me conta nos comentários.\n\nSe você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.\n\nJogue a demo gratuita（https://store.steampowered.com/app/5257220/） | Adicione o jogo completo à sua lista de desejos（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=brazilian"
+        },
+        "russian": {
+          "title": "Демо снова обновлено: новый крупный план ульты и бой в мини-окне",
+          "body": "Всем привет, это Juanmao.\n\nБесплатная демоверсия снова обновилась — новая версия есть и на Windows, и на Mac. Больших новых систем в этот раз нет: в основном я поправил то, о чём вы писали в последние дни, а заодно заменил часть графики.\n\nСмотрится эффектнее\n\n• Крупный план ульты выглядит по-новому: поле боя раскалывается по диагонали, персонаж протискивается через середину, а после удара весь кадр сметает.\n• Стойку и анимацию атаки главного героя перерисовали: теперь он стоит вполоборота к врагам.\n• Главная страница Крепости теперь в виде карты, а Зал переименован в «Зал агентства».\n• Звёздочки-значки над головами персонажей убрали; а когда Щит пробивают до конца, раздаётся звук разбитого щита.\n\n〔配图请见 Steam 原文〕\n\n〔配图请见 Steam 原文〕\n\nОставлять игру на автомате стало спокойнее\n\n• На странице боя в правом верхнем углу появилась кнопка сворачивания: одно нажатие — и бой сворачивается в мини-окно в углу и идёт дальше, даже если перейти на другие страницы.\n• Если открыть Журнал боя, пока автобои идут один за другим, бой больше не ставится на паузу.\n• Когда за раз выпадает много снаряжения, уведомления собираются в одно, а не всплывают одно за другим; а по снаряжению, добытому в офлайн-продвижении, после возвращения покажут сводку.\n• При повторном прохождении уже пройденных этапов враги получают только больше здоровья, но не урона, так что, вернувшись пофармить, вы не начнёте вдруг проигрывать.\n• После нажатия «Добавить в желаемое» игра больше не будет об этом напоминать.\n\n\n\nНайм и герои\n\n• Таверна открывается уже с 1-го этапа, а героев до 4 звёзд включительно можно недорого нанять за «Легендарные пропуска найма».\n• У 3- и 4-звёздочных героев снизилась Цена выставления в Отряд.\n• Среди Танков, Жрецов, Друидов, Бардов и Баннеретов части героев переработали навыки; значения ещё тестируются.\n• В бою можно навести курсор на усиление или ослабление и увидеть, кто его наложил.\n• Сортировка в Отряде теперь открывается выпадающим списком, и можно выбрать «В отряде», чтобы выставленные герои шли первыми.\n\n〔配图请见 Steam 原文〕\n\nПрочее\n\n• Реплики пролога переписаны, а сцену в 5-й главе, где в отряде возникают разногласия, написали заново. Пока тексты сюжета есть только на китайском и английском, поэтому на русском сюжет показывается на английском.\n• Из обучения убрали лишние кнопки и исправили зависание обучения на 14-м этапе.\n• Страница Крепости теперь меньше нагружает компьютер, когда игра висит на ней, а подтормаживания при первом открытии Настроек и первой ульте я сократил.\n\n\nФормат сохранений не менялся, так что сохранения должны работать. Если какое-то не загружается или прогресс выглядит не так, сообщите мне, пожалуйста.\n\nУдобно ли вам с этими изменениями и что ещё кажется не так — пишите в комментариях.\n\nЕсли игра вам понравилась, пожалуйста, добавьте её в список желаемого. Спасибо всем — для игры это правда очень важно.\n\nИграть в бесплатную демоверсию（https://store.steampowered.com/app/5257220/） | Добавить полную версию в список желаемого（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=russian"
+        }
+      },
+      "files": [
+        {
+          "name": "简体中文公告原文.txt",
+          "url": "assets/5fb0eccac3f8.txt",
+          "type": "text"
+        },
+        {
+          "name": "繁體中文公告原文.txt",
+          "url": "assets/56fc82e94f9b.txt",
+          "type": "text"
+        },
+        {
+          "name": "English公告原文.txt",
+          "url": "assets/8477865dbbee.txt",
+          "type": "text"
+        },
+        {
+          "name": "日本語公告原文.txt",
+          "url": "assets/5384123f1f39.txt",
+          "type": "text"
+        },
+        {
+          "name": "한국어公告原文.txt",
+          "url": "assets/b968f2322a8e.txt",
+          "type": "text"
+        },
+        {
+          "name": "Deutsch公告原文.txt",
+          "url": "assets/d5850345a76d.txt",
+          "type": "text"
+        },
+        {
+          "name": "Français公告原文.txt",
+          "url": "assets/221853cea722.txt",
+          "type": "text"
+        },
+        {
+          "name": "Español公告原文.txt",
+          "url": "assets/f958b136faf2.txt",
+          "type": "text"
+        },
+        {
+          "name": "Português (Brasil)公告原文.txt",
+          "url": "assets/6bba1d097fde.txt",
+          "type": "text"
+        },
+        {
+          "name": "Русский公告原文.txt",
+          "url": "assets/f100139f0b55.txt",
+          "type": "text"
+        }
+      ],
+      "cover": "assets/steam-704410099752371038-cover-schinese.png",
+      "source": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=schinese",
+      "links": [
+        {
+          "platform": "Steam 公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=schinese",
+          "date": "2026-11-05",
+          "status": "已发布"
+        }
+      ],
+      "detailNote": "按 Steam 当前公开版本归档；日期采用北京时间。上方内容要点为归档摘要。"
+    },
+    {
+      "id": "steam-704410099752371038-covers",
+      "title": "Demo v5 更新公告 · 听劝更新封面",
+      "category": "封面与视觉",
+      "group": "封面",
+      "date": "2026-11-05",
+      "dateBasis": "发布日期",
+      "summary": "新 Q 版英雄插画 · 简中、英文两版；中文两语用简中封面，其他八语用英文封面。",
+      "status": "已发布 · 十语",
+      "files": [
+        {
+          "name": "简体中文 / 繁體中文 · 听劝更新封面",
+          "url": "assets/steam-704410099752371038-cover-schinese.png",
+          "type": "image",
+          "source": "output/steam-demo-v5-announcement-20261105/封面/12_读玩家来信_schinese.png"
+        },
+        {
+          "name": "English / 其他七语 · 听劝更新封面",
+          "url": "assets/steam-704410099752371038-cover-english.png",
+          "type": "image",
+          "source": "output/steam-demo-v5-announcement-20261105/封面/12_读玩家来信_english.png"
+        }
+      ],
+      "cover": "assets/steam-704410099752371038-cover-schinese.png",
+      "source": "output/steam-demo-v5-announcement-20261105/封面",
+      "links": [
+        {
+          "platform": "Steam 公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=schinese",
+          "date": "2026-11-05",
           "status": "已发布"
         }
       ]

@@ -1,0 +1,53 @@
+Demo actualizada otra vez: nuevo primer plano de ultis y combate en miniventana
+发布日期：2026-11-05 11:12（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=spanish
+
+¡Hola a todos! Soy Juanmao.
+
+La demo gratuita se volvió a actualizar, con versión nueva tanto en Windows como en Mac. Esta vez no hay ningún sistema grande nuevo: más que nada arreglé lo que me comentaron estos días y, de paso, cambié un montón de imágenes.
+
+[h2]Ahora se ve con más garra[/h2]
+[list]
+[*]El primer plano de la ulti tiene un estilo nuevo: el campo de batalla se parte en diagonal, el personaje se abre paso por el medio y, al terminar, toda la imagen se va de un barrido.
+[*]Se redibujaron la postura y los movimientos de ataque del Protagonista: ahora se pone de lado, mirando a los enemigos.
+[*]La página principal de la Fortaleza ahora tiene estilo de mapa, y el Salón ahora se llama «Salón de la agencia».
+[*]Ya no aparecen las estrellitas sobre la cabeza de los personajes; y cuando a alguien le rompen el Escudo del todo, suena un golpe de escudo roto.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/c63a20ec3ba81f4b7196dc78cc9782274c996c49.jpg[/img]
+
+[img]{STEAM_CLAN_IMAGE}/46216320/f5cdadd1c3867655764677957339d7a1fc49eaf0.jpg[/img]
+
+[h2]Dejarlo en automático es más cómodo[/h2]
+[list]
+[*]La página de combate tiene un botón para minimizar arriba a la derecha: con un toque, el combate se reduce a una miniventana en la esquina y sigue, aunque te vayas a otras páginas.
+[*]Si abres el Registro mientras los combates automáticos van en cadena, el combate ya no se pausa.
+[*]Cuando cae mucho equipo de golpe, los avisos se juntan en uno solo en vez de salir uno tras otro; y el equipo que consigas con el avance sin conexión te llega en un resumen al volver.
+[*]Al repetir etapas que ya superaste, los enemigos solo ganan vida, no daño, así que volver a farmear no te va a dejar sin poder ganar.
+[*]Después de pulsar «Agregar a deseados», el juego ya no te lo vuelve a recordar.
+[/list]
+
+
+[h2]Reclutamiento y héroes[/h2]
+[list]
+[*]La Taberna abre desde la etapa 1, y los héroes de 4 estrellas o menos se pueden reclutar con Cupones de reclutamiento legendario a buen precio.
+[*]Los héroes de 3 y 4 estrellas ahora tienen menos Costo al ponerlos en la Escuadra.
+[*]Entre los Tanques, Clérigos, Druidas, Bardos y Alféreces, se reajustaron las habilidades de un grupo de héroes; los valores todavía están en pruebas.
+[*]En combate, si pasas el ratón por encima de una mejora o un perjuicio, puedes ver quién lo puso.
+[*]El orden de la Escuadra ahora es un menú desplegable, y puedes elegir «En combate» para que salgan primero.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/0df35c3c2c2543a37d5a850e2e6b990056814407.jpg[/img]
+
+[h2]Otros cambios[/h2]
+[list]
+[*]Los diálogos del prólogo tienen una versión nueva, y también se reescribió la parte del capítulo 5 en la que el equipo discute. Por ahora los textos de la historia solo están en chino e inglés, así que en español la historia se muestra en inglés.
+[*]El tutorial ya no tiene botones de sobra, y se arregló el atasco del tutorial en la etapa 14.
+[*]La página de la Fortaleza consume menos cuando el juego se queda en segundo plano, y mejoré los tirones al abrir Ajustes por primera vez y en la primera ulti.
+[/list]
+
+El formato de guardado no cambió, así que tu partida debería seguir funcionando. Si alguna no carga o el progreso no cuadra, avísame, por favor.
+
+Si estos cambios te resultan cómodos o algo todavía te parece raro, cuéntamelo en los comentarios.
+
+Si te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+[url=https://store.steampowered.com/app/5257220/]Juega la demo gratis[/url] | [url=https://store.steampowered.com/app/4855890/]Añade el juego completo a tu lista de deseados[/url]

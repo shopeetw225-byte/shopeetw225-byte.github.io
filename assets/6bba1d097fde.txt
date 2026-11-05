@@ -1,0 +1,53 @@
+Demo atualizada de novo: close da suprema renovado e batalha em minijanela
+发布日期：2026-11-05 11:12（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=brazilian
+
+Olá, pessoal! Aqui é o Juanmao.
+
+A demo gratuita foi atualizada de novo, com versão nova no Windows e no Mac. Desta vez não tem nenhum sistema grande novo: o foco foi mexer no que vocês comentaram nesses dias e, de quebra, trocar um monte de visuais.
+
+[h2]Mais impacto na tela[/h2]
+[list]
+[*]O close da suprema ganhou um visual novo: o campo de batalha racha na diagonal, o personagem sai espremido pelo meio e, no fim, a tela inteira é varrida.
+[*]A pose e os movimentos de ataque do Protagonista foram redesenhados: agora ele fica de lado, virado para os inimigos.
+[*]A página principal da Fortaleza agora tem estilo de mapa, e o Salão passou a se chamar "Salão da Agência".
+[*]As estrelinhas que ficavam em cima da cabeça dos personagens saíram; e quando o Escudo de alguém é quebrado de vez, toca um som de escudo quebrando.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/c63a20ec3ba81f4b7196dc78cc9782274c996c49.jpg[/img]
+
+[img]{STEAM_CLAN_IMAGE}/46216320/f5cdadd1c3867655764677957339d7a1fc49eaf0.jpg[/img]
+
+[h2]Deixar rodando ficou mais tranquilo[/h2]
+[list]
+[*]A página de batalha ganhou um botão de minimizar no canto superior direito: um clique e a batalha vira uma minijanela no canto e continua, mesmo se você for para outras páginas.
+[*]Se você abrir o Registro durante as batalhas automáticas em sequência, a batalha não pausa mais.
+[*]Quando cai muito equipamento de uma vez, os avisos viram um só, em vez de pipocar um atrás do outro; e o equipamento conseguido no avanço offline aparece num resumo quando você volta.
+[*]Ao repetir fases que você já venceu, os inimigos ganham só vida, não dano, então voltar para farmar não vai te deixar sem conseguir vencer.
+[*]Depois que você clica em "+ Lista de desejos", o jogo não te lembra mais disso.
+[/list]
+
+
+[h2]Recrutamento e heróis[/h2]
+[list]
+[*]A Taverna já abre na fase 1, e heróis de 4 estrelas ou menos podem ser recrutados com Cupons de Recrutamento Lendário, por um preço baixo.
+[*]Heróis de 3 e 4 estrelas agora têm Custo menor para entrar na Equipe.
+[*]Entre Tanques, Clérigos, Druidas, Bardos e Alferes, um grupo de heróis teve as habilidades reajustadas; os valores ainda estão em teste.
+[*]Na batalha, passe o mouse sobre um bônus ou uma penalidade para ver quem aplicou.
+[*]A ordenação da Equipe agora é um menu suspenso, e dá para escolher "Em campo" para mostrar primeiro quem está escalado.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/0df35c3c2c2543a37d5a850e2e6b990056814407.jpg[/img]
+
+[h2]Outras mudanças[/h2]
+[list]
+[*]As falas do prólogo ganharam uma nova versão, e a parte do capítulo 5 em que o time se desentende foi reescrita. Por enquanto, os textos da história só existem em chinês e inglês, então em português a história aparece em inglês.
+[*]O tutorial perdeu uns botões que sobravam, e o travamento do tutorial na fase 14 foi corrigido.
+[*]A página da Fortaleza pesa menos quando o jogo fica parado nela, e melhorei as engasgadas na primeira vez que você abre as Opções e na primeira suprema.
+[/list]
+
+O formato do save não mudou, então seu save deve continuar funcionando. Se algum não carregar ou o progresso parecer errado, me avisa.
+
+Se essas mudanças ficaram boas de usar ou se ainda tem algo estranho, me conta nos comentários.
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+[url=https://store.steampowered.com/app/5257220/]Jogue a demo gratuita[/url] | [url=https://store.steampowered.com/app/4855890/]Adicione o jogo completo à sua lista de desejos[/url]
