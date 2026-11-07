@@ -224,6 +224,152 @@
     },
     {
       "country": "日本",
+      "region": "overseas",
+      "name": "ハヤトの野望",
+      "url": "https://www.youtube.com/@hayayabo",
+      "platform": "YouTube",
+      "contact": "contact@hayayabo.com",
+      "contact_source": "https://hayayabo.com/",
+      "contact_verified": true,
+      "evidence_date": "2026-11-07",
+      "note": "旧候选升级：Idle Boss Rush与Garbage Growth均有高播放，挂机成长、刷怪数值与经营养成有交集。",
+      "status": "公开联系方式及高播放样本已核；未联系",
+      "limits": "样本为累计播放，不是频道均播或本作预期；尚未核到4×4英雄配队的直接样本。报价和免费送测意愿均未知。 核查于2026-11-07；样本经过题材筛选，并非随机均播，未据此推算本作曝光。",
+      "videos": [
+        {
+          "title": "600,000,000回攻撃して敵を倒すゲーム",
+          "url": "https://www.youtube.com/watch?v=YJV8bEgZV0w",
+          "views": 787060,
+          "publish_date": "2025-10-23T02:00:58-07:00",
+          "author": "ハヤトの野望",
+          "source": "YouTube公开watch页 ytInitialPlayerResponse.videoDetails"
+        },
+        {
+          "title": "ゴミ拾いで825,000,000,000,000,000,000円稼ぐ",
+          "url": "https://www.youtube.com/watch?v=Is2Kw_vHPp8",
+          "views": 406478,
+          "publish_date": "2026-07-19T02:00:24-07:00",
+          "author": "ハヤトの野望",
+          "source": "YouTube公开watch页 ytInitialPlayerResponse.videoDetails"
+        }
+      ],
+      "high_view_verified": true,
+      "evidence_text": "600,000,000回攻撃して敵を倒すゲーム · 2025-10-23（原页日期） · 787,060次播放；ゴミ拾いで825,000,000,000,000,000,000円稼ぐ · 2026-07-19（原页日期） · 406,478次播放"
+    },
+    {
+      "country": "韩国",
+      "region": "overseas",
+      "name": "혜안",
+      "url": "https://www.youtube.com/@hxxax",
+      "platform": "YouTube",
+      "contact": "zxcv34276@gmail.com",
+      "contact_source": "https://www.youtube.com/watch?v=zrAHwZ7jS9o",
+      "contact_verified": true,
+      "evidence_date": "2026-11-07",
+      "note": "新增：Garbage Growth及팽이增量成长游戏均有高播放；适合突出画面变化、成长反馈和短时上手。",
+      "status": "公开联系方式及高播放样本已核；未联系",
+      "limits": "样本为累计播放，不是频道均播或本作预期；尚未核到4×4英雄配队的直接样本。报价和免费送测意愿均未知。 核查于2026-11-07；样本经过题材筛选，并非随机均播，未据此推算本作曝光。",
+      "videos": [
+        {
+          "title": "리뷰 200개중 199개가 미쳤다고 극찬한 ≪그냥 쓰레기 줍는 게임≫다운 받아봤습니다.",
+          "url": "https://www.youtube.com/watch?v=zrAHwZ7jS9o",
+          "views": 1212959,
+          "publish_date": "2026-07-26T03:14:03-07:00",
+          "author": "혜안",
+          "source": "YouTube公开watch页 ytInitialPlayerResponse.videoDetails"
+        },
+        {
+          "title": "그냥 팽이 돌리는 게임인데 왤캐 재밌지?",
+          "url": "https://www.youtube.com/watch?v=6jmnDxqv6dk",
+          "views": 817722,
+          "publish_date": "2026-10-19T03:23:05-07:00",
+          "author": "혜안",
+          "source": "YouTube公开watch页 ytInitialPlayerResponse.videoDetails"
+        }
+      ],
+      "high_view_verified": true,
+      "evidence_text": "리뷰 200개중 199개가 미쳤다고 극찬한 ≪그냥 쓰레기 줍는 게임≫다운 받아봤습니다. · 2026-07-26（原页日期） · 1,212,959次播放；그냥 팽이 돌리는 게임인데 왤캐 재밌지? · 2026-10-19（原页日期） · 817,722次播放"
+    },
+    {
+      "country": "日本",
+      "region": "overseas",
+      "name": "のばまんゲームス",
+      "url": "https://www.youtube.com/channel/UCTW2tw0Mhho72MojB1L48IQ",
+      "platform": "YouTube",
+      "contact": "UUUM官方推广咨询表单：https://www.uuum.co.jp/inquiry-promotion",
+      "contact_source": "https://uuum.jp/creator/nobaman",
+      "contact_verified": true,
+      "contact_type": "所属机构公开商务表单；非作者直达邮箱",
+      "evidence_date": "2026-11-07",
+      "note": "新增：近期I like Trains经营数值增长视频27.4万；另有点击增量游戏44.5万。与放置成长、经营循环有交集。UUUM官方作者页确认本人频道及所属，机构官方页面提供推广咨询。",
+      "status": "高播放样本和官方机构商务入口已核；未联系",
+      "limits": "尚未核到4x4英雄配队直接样本；机构表单属于商务推广入口，不代表作者接免费试玩。未核到公开直达邮箱，不能加入邮件自动发送。报价未知。 核查于2026-11-07；样本经过题材筛选，并非随机均播，未据此推算本作曝光。",
+      "videos": [
+        {
+          "title": "340583409583409回クリックさせられるゲーム",
+          "url": "https://www.youtube.com/watch?v=SBqf2GK1_wA",
+          "views": 445212,
+          "publish_date": "2025-08-17T03:00:41-07:00",
+          "author": "のばまんゲームス",
+          "source": "YouTube public watch page videoDetails"
+        },
+        {
+          "title": "毎秒３４，０５９，８３４，０９５人客を乗せてぼろ儲けするI like Trains",
+          "url": "https://www.youtube.com/watch?v=c_eORKUVD10",
+          "views": 274400,
+          "publish_date": "2026-10-17T03:00:20-07:00",
+          "author": "のばまんゲームス",
+          "source": "YouTube public watch page videoDetails"
+        }
+      ],
+      "high_view_verified": true,
+      "evidence_text": "340583409583409回クリックさせられるゲーム · 2025-08-17（原页日期） · 445,212次播放；毎秒３４，０５９，８３４，０９５人客を乗せてぼろ儲けするI like Trains · 2026-10-17（原页日期） · 274,400次播放"
+    },
+    {
+      "country": "俄语地区",
+      "name": "СТОДНЕВКА",
+      "region": "overseas",
+      "url": "https://www.youtube.com/channel/UCZLpgWja6zOqI4Mod9jSDqg",
+      "platform": "YouTube / Telegram",
+      "contact": "https://t.me/stdnvk_bot（本人明确的推荐游戏入口）",
+      "contact_source": "https://www.youtube.com/watch?v=DLcmJWurKRc",
+      "contact_secondary_source": "https://t.me/s/sdnevka",
+      "contact_verified": true,
+      "status": "高播放候选；可向本人游戏推荐入口询问免费试玩",
+      "evidence_date": "2026-11-07",
+      "note": "持续制作增量/放置游戏100%实况；3条本人同类作品28.4万、38.4万、73.1万播放。",
+      "limits": "仅证实游戏推荐bot，不是商务邮箱；累计播放不是均播或销量预测。报价、档期及是否接受本作未知。适配增量成长，不等同4×4英雄配队。 核查于2026-11-07；样本经过题材筛选，并非随机均播，未据此推算本作曝光。",
+      "videos": [
+        {
+          "title": "Я прошел Garbage Growth на 100% и это ужасно..",
+          "views": 284462,
+          "published_at": "2026-07-28T07:14:34-07:00",
+          "author": "СТОДНЕВКА",
+          "url": "https://www.youtube.com/watch?v=DLcmJWurKRc",
+          "channel_id": "UCZLpgWja6zOqI4Mod9jSDqg"
+        },
+        {
+          "title": "Я прошел Farming Incremental But With Guns на 100%",
+          "views": 383821,
+          "published_at": "2026-09-03T10:03:00-07:00",
+          "author": "СТОДНЕВКА",
+          "url": "https://www.youtube.com/watch?v=G-kC92yXGxI",
+          "channel_id": "UCZLpgWja6zOqI4Mod9jSDqg"
+        },
+        {
+          "title": "Я прошел Project P.I.T.T. на 100%",
+          "views": 731175,
+          "published_at": "2026-09-06T11:22:37-07:00",
+          "author": "СТОДНЕВКА",
+          "url": "https://www.youtube.com/watch?v=VQiBqXWmlww",
+          "channel_id": "UCZLpgWja6zOqI4Mod9jSDqg"
+        }
+      ],
+      "high_view_verified": true,
+      "evidence_text": "Я прошел Garbage Growth на 100% и это ужасно.. · 2026-07-28（原页日期） · 284,462次播放；Я прошел Farming Incremental But With Guns на 100% · 2026-09-03（原页日期） · 383,821次播放；Я прошел Project P.I.T.T. на 100% · 2026-09-06（原页日期） · 731,175次播放"
+    },
+    {
+      "country": "日本",
       "name": "MizuUmiAoE",
       "url": "https://playbridge.jp/streamers/mizuumi",
       "contact": "PlayBridge 案件受付申请，匹配后站内消息；公开X由本人profile链接",
@@ -233,20 +379,6 @@
       "videos": [],
       "evidence_date": "2026-11-07",
       "status": "候选；需进一步核同类视频与免费试玩条件",
-      "region": "overseas",
-      "platform": "游戏视频 / 直播"
-    },
-    {
-      "country": "日本",
-      "name": "ハヤトの野望",
-      "url": "https://hayayabo.com/",
-      "contact": "contact@hayayabo.com",
-      "contact_source": "https://hayayabo.com/",
-      "note": "本人官网明确擅长模拟、策略，接受游戏视频、直播合作邮件，官网展示游戏商业合作案例；可作为高曝光的补充询问。",
-      "limits": "官网自述160万+订阅/140+商业合作，不是本作效果；报价未知，规模大，不能当低价候选；未核到放置队伍类的直接实机样本。官网要求提供游戏、时间和预算，不代表必须付费送测。",
-      "videos": [],
-      "evidence_date": "2026-11-07",
-      "status": "补充候选；预算与题材匹配待确认",
       "region": "overseas",
       "platform": "游戏视频 / 直播"
     },
@@ -286,16 +418,35 @@
     {
       "country": "俄语地区",
       "name": "ViteC ► Play",
-      "url": "https://t.me/s/vitecp",
-      "platform": "YouTube / Telegram / 直播",
-      "contact": "@VitecPlayBot（仅核实新闻/美术投稿，不是商务接单确认）",
-      "contact_source": "https://t.me/s/vitecp",
-      "note": "本人公开频道近期展示Moon Sweepers、Rubinite等独游直播记录及YouTube作品直链。",
-      "limits": "题材只核到泛独游，配队挂机匹配待核；公开机器人非已核商务邮箱，接送测条件与价格未知。Telegram贴浏览不能当视频播放。",
-      "videos": [],
-      "status": "次级线索；商务与同类作品待核",
       "region": "overseas",
-      "evidence_date": "2026-11-07"
+      "url": "https://www.youtube.com/@vitecp",
+      "contact": null,
+      "contact_source": "https://www.youtube.com/vitecp/about",
+      "contact_verified": false,
+      "status": "高播放已核；商务联系方式待登录核实",
+      "note": "Idle Gumball Machine 113790播放；Planet Evolution 565583播放。",
+      "limits": "本人about显示Sign in to see email address；官方TG bot仅新闻/美术投稿，不当商务入口。Planet Evolution为2023年旧样本。 核查于2026-11-07；样本经过题材筛选，并非随机均播，未据此推算本作曝光。",
+      "videos": [
+        {
+          "id": "UeKeHd5keBM",
+          "title": "ШЕСТЕРЁНКИ КРУТЯТСЯ - ДЕНЬЖАТА МУТЯТСЯ! ► Idle Gumball Machine",
+          "author": "ViteC ► Play",
+          "views": "113790",
+          "date": "2026-02-12T04:42:39-08:00",
+          "url": "https://www.youtube.com/watch?v=UeKeHd5keBM"
+        },
+        {
+          "id": "RjXaJJaYrfI",
+          "title": "САМАЯ ЛЕНИВАЯ ЭВОЛЮЦИЯ ПЛАНЕТЫ ► Planet Evolution: Idle Clicker",
+          "author": "ViteC ► Play",
+          "views": "565583",
+          "date": "2023-02-10T03:00:56-08:00",
+          "url": "https://www.youtube.com/watch?v=RjXaJJaYrfI"
+        }
+      ],
+      "evidence_date": "2026-11-07",
+      "high_view_verified": true,
+      "evidence_text": "ШЕСТЕРЁНКИ КРУТЯТСЯ - ДЕНЬЖАТА МУТЯТСЯ! ► Idle Gumball Machine · 2026-02-12（原页日期） · 113,790次播放；САМАЯ ЛЕНИВАЯ ЭВОЛЮЦИЯ ПЛАНЕТЫ ► Planet Evolution: Idle Clicker · 2023-02-10（原页日期） · 565,583次播放"
     }
   ],
   "region_tabs": [
@@ -311,7 +462,8 @@
       "contact": "注册游戏并发布招募；也可向配信者的案件受付申请，获选后站内消息",
       "contact_source": "https://playbridge.jp/guide/streamer-listing",
       "note": "官方面向游戏开发者与配信者的撮合平台，支持Demo；接受Key提供、无报酬、要咨询、有偿四种类型。优先研究本作的无报酬试玩招募。",
-      "limits": "并非报名即有人播；有偿范围由具体案件决定，其他游戏的2,000–3,000日元招募不是本作报价；注册/条款/付款本轮未操作。"
+      "limits": "并非报名即有人播；有偿范围由具体案件决定，其他游戏的2,000–3,000日元招募不是本作报价；注册/条款/付款本轮未操作。 本轮进度：已准备公开Demo链接、图片及资料；待用户确认首次登录条款，尚未注册或发布活动。",
+      "operation_status": "已准备公开Demo链接、图片及资料；待用户确认首次登录条款，尚未注册或发布活动。"
     },
     {
       "country": "日本",
@@ -358,5 +510,6 @@
       "note": "官方允许游戏和开发相关长短文章，可考虑俄语开发日志及Demo介绍。",
       "limits": "社区投稿渠道，不是Key分发平台；发布规则、账号权限及商业广告条件须实际核对，不保证曝光。"
     }
-  ]
+  ],
+  "platform_setup_status": "PlayBridge资料已准备，等待首次登录条款确认；已有Partnier账号需要现有登录态。本轮尚未注册新账号、发布新活动或付款。"
 }
