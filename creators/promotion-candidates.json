@@ -458,12 +458,12 @@
     {
       "country": "日本",
       "name": "PlayBridge",
-      "url": "https://playbridge.jp/",
-      "contact": "注册游戏并发布招募；也可向配信者的案件受付申请，获选后站内消息",
-      "contact_source": "https://playbridge.jp/guide/streamer-listing",
+      "url": "https://playbridge.jp/games/idle-agency-demo",
+      "contact": "已建立开发者账号及公开免费Demo游戏页；后续可在站内建立配信者招募。",
+      "contact_source": "https://playbridge.jp/guide",
       "note": "官方面向游戏开发者与配信者的撮合平台，支持Demo；接受Key提供、无报酬、要咨询、有偿四种类型。优先研究本作的无报酬试玩招募。",
-      "limits": "并非报名即有人播；有偿范围由具体案件决定，其他游戏的2,000–3,000日元招募不是本作报价；注册/条款/付款本轮未操作。 本轮进度：已准备公开Demo链接、图片及资料；待用户确认首次登录条款，尚未注册或发布活动。",
-      "operation_status": "已准备公开Demo链接、图片及资料；待用户确认首次登录条款，尚未注册或发布活动。"
+      "limits": "游戏资料页已公开，不代表已有创作者试玩或报名。尚未另建配信者招募活动；没有购买付费服务，也没有承诺Key。",
+      "operation_status": "2026-11-07 已公开 Idle Agency Demo 游戏资料，包含3张实机截图及Steam免费Demo链接；未付款；尚未另建招募活动。"
     },
     {
       "country": "日本",
@@ -511,5 +511,5 @@
       "limits": "社区投稿渠道，不是Key分发平台；发布规则、账号权限及商业广告条件须实际核对，不保证曝光。"
     }
   ],
-  "platform_setup_status": "PlayBridge资料已准备，等待首次登录条款确认；已有Partnier账号需要现有登录态。本轮尚未注册新账号、发布新活动或付款。"
+  "platform_setup_status": "PlayBridge已用Google登录并建立开发者账号，免费Demo游戏页已公开（介绍、3张实机截图和Steam免费试玩链接）；尚未另建配信者招募活动，未付款。"
 }
