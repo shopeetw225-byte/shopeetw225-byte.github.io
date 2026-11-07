@@ -1,15 +1,15 @@
 {
   "round": 3,
-  "updated_at": "2026-11-04",
+  "updated_at": "2026-11-07",
   "creators": [
     {
       "name": "旧城的独游世界",
       "platform": "B站",
       "cooperation_status": "合作已确认",
       "fee_rmb": 600,
-      "paid_rmb": 300,
-      "outstanding_rmb": 300,
-      "confirmation_source": "用户2026-11-04在当前对话确认",
+      "paid_rmb": 600,
+      "outstanding_rmb": 0,
+      "confirmation_source": "用户2026-11-07确认总付款口径",
       "publication_url": null,
       "publication_status": "公开作品链接待补",
       "payment_date": null,
@@ -18,7 +18,18 @@
   ],
   "totals": {
     "fee_rmb": 600,
-    "paid_rmb": 300,
-    "outstanding_rmb": 300
-  }
+    "paid_rmb": 600,
+    "outstanding_rmb": 0
+  },
+  "history": [
+    {
+      "confirmed_at": "2026-11-04",
+      "paid_rmb": 300,
+      "outstanding_rmb": 300
+    },
+    {
+      "confirmed_at": "2026-11-07",
+      "source": "用户确认原已安排3,020元即已付款金额；按现有账本三轮费用分解为600元全付"
+    }
+  ]
 }
