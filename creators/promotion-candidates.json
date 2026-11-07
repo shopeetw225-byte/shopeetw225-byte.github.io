@@ -221,11 +221,142 @@
       "note": "短介绍能触达挂机队伍刷装方向",
       "limits": "只核实一条直接样本，深度讲解站位未证实；补充送测优先，高价不优先",
       "status": "备选待选择；不是已确认合作"
+    },
+    {
+      "country": "日本",
+      "name": "MizuUmiAoE",
+      "url": "https://playbridge.jp/streamers/mizuumi",
+      "contact": "PlayBridge 案件受付申请，匹配后站内消息；公开X由本人profile链接",
+      "contact_source": "https://playbridge.jp/streamers/mizuumi",
+      "note": "本人公开profile写偏好RTS、策略、模拟，喜欢深度游玩，中世纪幻想题材；明示接单及接受Demo/测试/抢先体验。值得先小规模送测询问。",
+      "limits": "仅核实本人自填题材与接单状态，未核到同类自动战斗实机样本或现时报价；不能承诺免费或预计播放。平台显示8.7K订阅为2026-10-31快照。",
+      "videos": [],
+      "evidence_date": "2026-11-07",
+      "status": "候选；需进一步核同类视频与免费试玩条件",
+      "region": "overseas",
+      "platform": "游戏视频 / 直播"
+    },
+    {
+      "country": "日本",
+      "name": "ハヤトの野望",
+      "url": "https://hayayabo.com/",
+      "contact": "contact@hayayabo.com",
+      "contact_source": "https://hayayabo.com/",
+      "note": "本人官网明确擅长模拟、策略，接受游戏视频、直播合作邮件，官网展示游戏商业合作案例；可作为高曝光的补充询问。",
+      "limits": "官网自述160万+订阅/140+商业合作，不是本作效果；报价未知，规模大，不能当低价候选；未核到放置队伍类的直接实机样本。官网要求提供游戏、时间和预算，不代表必须付费送测。",
+      "videos": [],
+      "evidence_date": "2026-11-07",
+      "status": "补充候选；预算与题材匹配待确认",
+      "region": "overseas",
+      "platform": "游戏视频 / 直播"
+    },
+    {
+      "country": "韩国",
+      "name": "김나성",
+      "url": "https://www.youtube.com/@Naseongkim",
+      "contact": null,
+      "contact_source": "https://playpinball.oopy.io/1f2816a4-1bd2-8016-9fee-fdc606fa1010",
+      "note": "创作者机构官方profile确认YouTube和CHZZK身份、游戏类别。",
+      "limits": "未取得第一方公开商务联系方式及同类实机样本，不能列作已核实可联系，也未使用聚合站邮箱。",
+      "status": "待核线索；暂不视为可联系作者",
+      "region": "overseas",
+      "evidence_date": "2026-11-07",
+      "platform": "游戏视频 / 直播",
+      "videos": []
+    },
+    {
+      "country": "俄语地区",
+      "name": "Кирилл Шадрин / Kirill Shadrin",
+      "url": "https://www.youtube.com/@KirillShadrinLetsPlay",
+      "platform": "YouTube / RUTUBE",
+      "contact": "kirillshadrin899@gmail.com；本人Telegram建议游戏入口",
+      "contact_source": "https://rutube.ru/video/9c3529a6a055266305cc81327d5735d3/",
+      "note": "本人持续试玩增量游戏，Idle Slayer和Scritchy Scratchy样本；公开描述接受推荐试玩。",
+      "limits": "Idle Slayer于2026-06-13发布，42:53，所核Rutube视频仅15播放、21订阅；不是YouTube播放数据。低曝光，只适合免费试玩询问，报价与配队受众待核。",
+      "videos": [
+        {
+          "title": "本人 Idle Slayer 实况与公开联系说明",
+          "url": "https://rutube.ru/video/9c3529a6a055266305cc81327d5735d3/"
+        }
+      ],
+      "status": "可尝试免费试玩询问；付费低优先",
+      "region": "overseas",
+      "evidence_date": "2026-11-07"
+    },
+    {
+      "country": "俄语地区",
+      "name": "ViteC ► Play",
+      "url": "https://t.me/s/vitecp",
+      "platform": "YouTube / Telegram / 直播",
+      "contact": "@VitecPlayBot（仅核实新闻/美术投稿，不是商务接单确认）",
+      "contact_source": "https://t.me/s/vitecp",
+      "note": "本人公开频道近期展示Moon Sweepers、Rubinite等独游直播记录及YouTube作品直链。",
+      "limits": "题材只核到泛独游，配队挂机匹配待核；公开机器人非已核商务邮箱，接送测条件与价格未知。Telegram贴浏览不能当视频播放。",
+      "videos": [],
+      "status": "次级线索；商务与同类作品待核",
+      "region": "overseas",
+      "evidence_date": "2026-11-07"
     }
   ],
   "region_tabs": [
     "domestic",
     "overseas"
   ],
-  "source": "2026-11-04正式版B站宣传十位候选；11-07按用户要求加入备选。播放为历史累计快照，非现时报价或均播。"
+  "source": "2026-11-04正式版B站宣传十位候选；11-07按用户要求加入备选。播放为历史累计快照，非现时报价或均播。",
+  "overseas_platforms": [
+    {
+      "country": "日本",
+      "name": "PlayBridge",
+      "url": "https://playbridge.jp/",
+      "contact": "注册游戏并发布招募；也可向配信者的案件受付申请，获选后站内消息",
+      "contact_source": "https://playbridge.jp/guide/streamer-listing",
+      "note": "官方面向游戏开发者与配信者的撮合平台，支持Demo；接受Key提供、无报酬、要咨询、有偿四种类型。优先研究本作的无报酬试玩招募。",
+      "limits": "并非报名即有人播；有偿范围由具体案件决定，其他游戏的2,000–3,000日元招募不是本作报价；注册/条款/付款本轮未操作。"
+    },
+    {
+      "country": "日本",
+      "name": "AUTOMATON",
+      "url": "https://automaton-media.com/",
+      "contact": "press@automaton.am（新闻稿）",
+      "contact_source": "https://automaton-media.com/contact/",
+      "note": "日本游戏媒体官方明确的新闻稿入口。适合日文Demo更新稿、短预告、实机截图。",
+      "limits": "这是媒体选题投稿，不是送Key撮合平台；未见公开固定投稿收费，不能宣称免费保证报道。"
+    },
+    {
+      "country": "韩国",
+      "name": "STOVE Store / STOVE Studio",
+      "url": "https://developers.onstove.com/en/docs/stove/start",
+      "contact": "store.support@smilegate.com（Store上架/Studio咨询）",
+      "contact_source": "https://developers.onstove.com/en/docs/stove/start",
+      "note": "韩国运营的游戏商店/开发者生态，官方开发者指南把商店上架联系与开发SDK支持区分。",
+      "limits": "需要研究上架与韩国服务条件，不等同于只给Steam链接即可宣发的送Key平台。SDK文档不可当宣传承诺；费用与合同待问。"
+    },
+    {
+      "country": "韩国",
+      "name": "GameMeca 游戏메카",
+      "url": "https://www.gamemeca.com/",
+      "contact": "mecadesk@gamemeca.com（编辑部）；risell@gamemeca.com（记者Kim Mi-hee）",
+      "contact_source": "https://www.gamemeca.com/reporter.php?tab=feature&uid=mecaedit",
+      "note": "官方记者页公开编辑部联系邮箱；Kim Mi-hee本人记者页11月6日仍报道Steam新作和放置型新作，适合韩文Demo更新消息。",
+      "limits": "媒体投稿/询问，未确认必然刊发或本作接受情况；不要把权利投诉表当推广表。记者来源 https://m.gamemeca.com/reporter.php?tab=news&uid=risell 。"
+    },
+    {
+      "country": "俄语地区",
+      "name": "StopGame",
+      "url": "https://stopgame.ru/about",
+      "contact": "https://stopgame.ru/contact（编辑通用表单）；adver@stopgame.ru（付费广告）",
+      "contact_source": "https://stopgame.ru/adver",
+      "note": "俄语游戏媒体与用户博客；可递交Demo新闻材料，商业项目另走广告入口。",
+      "limits": "未承诺接稿或报道，报价未知；广告媒介包标2024，未作为现时流量。"
+    },
+    {
+      "country": "俄语地区",
+      "name": "DTF",
+      "url": "https://dtf.ru/about",
+      "contact": "官网用户投稿及独游社区；规则 https://dtf.ru/rules",
+      "contact_source": "https://dtf.ru/about",
+      "note": "官方允许游戏和开发相关长短文章，可考虑俄语开发日志及Demo介绍。",
+      "limits": "社区投稿渠道，不是Key分发平台；发布规则、账号权限及商业广告条件须实际核对，不保证曝光。"
+    }
+  ]
 }
