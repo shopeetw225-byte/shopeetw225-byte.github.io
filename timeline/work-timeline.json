@@ -1241,6 +1241,30 @@
       "category": "海外宣发",
       "text": "注册 PlayBridge 开发者账号，公开免费 Demo 游戏资料，整理游戏介绍、3张实机截图及 Steam 试玩入口。",
       "url": "/#creators"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "海外宣发",
+      "text": "在 PlayBridge 发布日文免费 Demo 试玩招募。",
+      "url": "/?work=overseas-platform-playbridge"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "海外宣发",
+      "text": "提交 GAMES.GG 免费游戏收录申请。",
+      "url": "/?work=overseas-platform-gamesgg"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "海外宣发",
+      "text": "向 4Gamer 提交日文 Demo 新闻供稿询问。",
+      "url": "/?work=overseas-platform-4gamer"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "海外宣发",
+      "text": "向 Games Press 发送英文 Demo 新闻稿和3张实机截图。",
+      "url": "/?work=overseas-platform-gamespress"
     }
   ]
 }

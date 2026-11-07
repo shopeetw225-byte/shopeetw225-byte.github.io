@@ -47,7 +47,7 @@ function render(){
  results.sort((a,b)=>view==='episodes'?((a.episode??Infinity)-(b.episode??Infinity)||b.date.localeCompare(a.date)):order==='title'?a.title.localeCompare(b.title,'zh'):order==='asc'?a.date.localeCompare(b.date):b.date.localeCompare(a.date));
  const title=view==='episodes'?'按期数看视频':group||category;
  $('#collection-title').replaceChildren(document.createTextNode(title+' '),el('span','',String(results.length).padStart(2,'0')));$('#crumb').textContent=title;$('#sort').hidden=view==='episodes';
- $('#collection-note').textContent=category==='海外宣发平台'?'已选 2 个免费方案 · 当前支出 0 元 · 点击卡片查看官方入口与申请进度。':category==='宣传相关事项'?'宣传执行约定、Key 类型与渠道注意事项，集中记录在这里。':category==='Steam 公告'?data.items.filter(o=>o.category==='Steam 公告').length+' 篇已发布公告 · 按北京时间记录 · 附内容要点、多语原文和 Steam 链接':category==='宣传视频'?'平台发布、Steam 预告与转场作品分别收录。点开每期可查看平台链接和制作素材。':category==='封面与视觉'?'按用途查看公告封面、视频封面、Steam 商店封面，以及详情页图片和宣传图。':'按分类查看作品，或搜索标题与内容。';
+ $('#collection-note').textContent=category==='海外宣发平台'?'免费试玩招募、游戏收录与媒体供稿 · 点击卡片查看官方入口、费用与实际申请进度。':category==='宣传相关事项'?'宣传执行约定、Key 类型与渠道注意事项，集中记录在这里。':category==='Steam 公告'?data.items.filter(o=>o.category==='Steam 公告').length+' 篇已发布公告 · 按北京时间记录 · 附内容要点、多语原文和 Steam 链接':category==='宣传视频'?'平台发布、Steam 预告与转场作品分别收录。点开每期可查看平台链接和制作素材。':category==='封面与视觉'?'按用途查看公告封面、视频封面、Steam 商店封面，以及详情页图片和宣传图。':'按分类查看作品，或搜索标题与内容。';
  const container=$('#results');container.replaceChildren();
  if(view==='grid'&&subgroups.length&&!group){
   container.className='grouped-results';

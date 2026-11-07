@@ -458,12 +458,12 @@
     {
       "country": "日本",
       "name": "PlayBridge",
-      "url": "https://playbridge.jp/games/idle-agency-demo",
-      "contact": "已建立开发者账号及公开免费Demo游戏页；后续可在站内建立配信者招募。",
+      "url": "https://playbridge.jp/listings/lst_j0kxdq2xik3ope1055ila",
+      "contact": "日文无报酬试玩招募已公开，计划匹配10位；不要求好评或必须出片。",
       "contact_source": "https://playbridge.jp/guide",
       "note": "官方面向游戏开发者与配信者的撮合平台，支持Demo；接受Key提供、无报酬、要咨询、有偿四种类型。优先研究本作的无报酬试玩招募。",
-      "limits": "游戏资料页已公开，不代表已有创作者试玩或报名。尚未另建配信者招募活动；没有购买付费服务，也没有承诺Key。",
-      "operation_status": "2026-11-07 已公开 Idle Agency Demo 游戏资料，包含3张实机截图及Steam免费Demo链接；未付款；尚未另建招募活动。"
+      "limits": "免费普通招募，不保证有人报名。没有报酬或正式版Key承诺。",
+      "operation_status": "2026-11-07 游戏资料及免费试玩招募已公开，核对时0人报名；未付款、未发Key。"
     },
     {
       "country": "日本",
@@ -509,7 +509,34 @@
       "contact_source": "https://dtf.ru/about",
       "note": "官方允许游戏和开发相关长短文章，可考虑俄语开发日志及Demo介绍。",
       "limits": "社区投稿渠道，不是Key分发平台；发布规则、账号权限及商业广告条件须实际核对，不保证曝光。"
+    },
+    {
+      "country": "全球",
+      "name": "GAMES.GG",
+      "url": "https://partners.games.gg/free-listing",
+      "contact": "官方免费收录表单",
+      "contact_source": "https://partners.games.gg/free-listing",
+      "note": "2026-11-07免费申请已送达，进入编辑队列。Auto Battler分类，附Steam和公开社交链接。",
+      "limits": "普通审核最长约6周；不等于已收录。未买$199加速。"
+    },
+    {
+      "country": "日本",
+      "name": "4Gamer.net",
+      "url": "https://www.4gamer.net/secure/mail/form.php",
+      "contact": "开发者新闻供稿表单",
+      "contact_source": "https://www.4gamer.net/secure/mail/form.php",
+      "note": "2026-11-07日文免费Demo供稿询问已确认送达。",
+      "limits": "未选择付费广告，官方不保证回复或报道。"
+    },
+    {
+      "country": "全球",
+      "name": "Games Press",
+      "url": "https://www.gamespress.com/en-US/How-to-Submit-News",
+      "contact": "inbox@gamespress.com（官方收稿邮箱）",
+      "contact_source": "https://www.gamespress.com/en-US/How-to-Submit-News",
+      "note": "2026-11-07英文新闻稿及3张实机截图已发送，寄件备份已核对。",
+      "limits": "免费邮件投稿，不保证刊登。没有购买Elite。"
     }
   ],
-  "platform_setup_status": "PlayBridge已用Google登录并建立开发者账号，免费Demo游戏页已公开（介绍、3张实机截图和Steam免费试玩链接）；尚未另建配信者招募活动，未付款。"
+  "platform_setup_status": "PlayBridge免费试玩招募已公开；GAMES.GG免费收录申请、4Gamer新闻供稿已提交；Games Press英文新闻稿已发送。均未付款。"
 }
