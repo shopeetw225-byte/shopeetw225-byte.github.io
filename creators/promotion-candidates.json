@@ -1,5 +1,231 @@
 {
   "round": 3,
-  "updated_at": "2026-11-04",
-  "candidates": []
+  "updated_at": "2026-11-07",
+  "candidates": [
+    {
+      "name": "好胃口的我",
+      "url": "https://space.bilibili.com/925253",
+      "region": "domestic",
+      "platform": "B站",
+      "priority": 1,
+      "evidence_date": "2026-11-04",
+      "evidence_text": "桌面破坏神正式版21,804；公会创世纪26,943；放置大陆16,711",
+      "videos": [
+        {
+          "title": "桌面破坏神正式版",
+          "url": "https://www.bilibili.com/video/BV1etaV6VE2g/"
+        },
+        {
+          "title": "公会创世纪",
+          "url": "https://www.bilibili.com/video/BV1cFY162EAn/"
+        }
+      ],
+      "note": "多款同类；简介明确讲职业人数、装备、技能配置；较长实机",
+      "limits": "泛题材频道；样本经选择，不是频道均播；报价未知。适合先询正式版试玩意愿和价格",
+      "status": "备选待选择；不是已确认合作"
+    },
+    {
+      "name": "老陈头儿嘿",
+      "url": "https://space.bilibili.com/261560495",
+      "region": "domestic",
+      "platform": "B站",
+      "priority": 2,
+      "evidence_date": "2026-11-04",
+      "evidence_text": "远征公会25,344；桌面破坏神38,684；团本自走棋11,411",
+      "videos": [
+        {
+          "title": "远征公会",
+          "url": "https://www.bilibili.com/video/BV17Aa56JEwf/"
+        },
+        {
+          "title": "桌面破坏神",
+          "url": "https://www.bilibili.com/video/BV1smaV68EQL/"
+        }
+      ],
+      "note": "三款自动战斗/队伍养成；正式版和团本样本",
+      "limits": "同类播放波动大；不证明购买转化；报价未知",
+      "status": "备选待选择；不是已确认合作"
+    },
+    {
+      "name": "張小臣",
+      "url": "https://space.bilibili.com/31150341",
+      "region": "domestic",
+      "platform": "B站",
+      "priority": 3,
+      "evidence_date": "2026-11-04",
+      "evidence_text": "幻想放置远征队13,978；桌面破坏神18,410；要塞vs要塞13,705",
+      "videos": [
+        {
+          "title": "幻想放置远征队",
+          "url": "https://www.bilibili.com/video/BV1r7px6KESH/"
+        },
+        {
+          "title": "桌面破坏神",
+          "url": "https://www.bilibili.com/video/BV1hGaq6rEZn/"
+        }
+      ],
+      "note": "职业组合、组队挂机、刷装多样本",
+      "limits": "10-15旧报价：花火2,000；私单通常1,500、制作人优惠最低1,200。不能当本次现价；历史评论审计有题材讨论不足反证",
+      "status": "备选待选择；不是已确认合作"
+    },
+    {
+      "name": "一只神奇的狗",
+      "url": "https://space.bilibili.com/294168428",
+      "region": "domestic",
+      "platform": "B站",
+      "priority": 4,
+      "evidence_date": "2026-11-04",
+      "evidence_text": "桌面破坏神13,384；公会创世纪11,997；远征公会11,499",
+      "videos": [
+        {
+          "title": "桌面破坏神",
+          "url": "https://www.bilibili.com/video/BV1Exho66E4Q/"
+        },
+        {
+          "title": "公会创世纪",
+          "url": "https://www.bilibili.com/video/BV1JqYC6kEJT/"
+        }
+      ],
+      "note": "同类持续覆盖且并非只做几十秒资讯",
+      "limits": "样本仅5—10条评论，不代表深度意向；报价未知，不能高价按粉丝数买",
+      "status": "备选待选择；不是已确认合作"
+    },
+    {
+      "name": "元婴小猫",
+      "url": "https://space.bilibili.com/324127505",
+      "region": "domestic",
+      "platform": "B站",
+      "priority": 5,
+      "evidence_date": "2026-11-04",
+      "evidence_text": "桌面破坏神BD19,291；QuestAway详细介绍6,456；QuestAway新游7,728",
+      "videos": [
+        {
+          "title": "桌面破坏神BD",
+          "url": "https://www.bilibili.com/video/BV1BAaz6xEhu/"
+        },
+        {
+          "title": "QuestAway详细介绍",
+          "url": "https://www.bilibili.com/video/BV1w8nh62EeK/"
+        },
+        {
+          "title": "QuestAway新游",
+          "url": "https://www.bilibili.com/video/BV1Kgnm6eE41/"
+        }
+      ],
+      "note": "有持续构筑、阵容、问题汇总和修正，适合细分玩家",
+      "limits": "单角色BD成功不保证4×4站位同样好；不能用一条19,291当常态；报价/接受条件未知",
+      "status": "备选待选择；不是已确认合作"
+    },
+    {
+      "name": "torreach",
+      "url": "https://space.bilibili.com/266171971",
+      "region": "domestic",
+      "platform": "B站",
+      "priority": 6,
+      "evidence_date": "2026-11-04",
+      "evidence_text": "52分钟正式版24,090；电法19,298；后续9,265",
+      "videos": [
+        {
+          "title": "52分钟正式版",
+          "url": "https://www.bilibili.com/video/BV1Vkah6oEKX/"
+        },
+        {
+          "title": "电法",
+          "url": "https://www.bilibili.com/video/BV17Jao6BEnz/"
+        }
+      ],
+      "note": "从入门到后续构筑连续做内容",
+      "limits": "旧记录10-19接受Demo邀请并要求8个Key，尚未提供；不是正式版已同意；Keys也有权益成本，先核实每个用途、交付和是否现金收费",
+      "status": "备选待选择；不是已确认合作"
+    },
+    {
+      "name": "老司机hot",
+      "url": "https://space.bilibili.com/61879712",
+      "region": "domestic",
+      "platform": "B站",
+      "priority": 7,
+      "evidence_date": "2026-11-04",
+      "evidence_text": "远征公会20,411；桌面副本物语23,034",
+      "videos": [
+        {
+          "title": "远征公会",
+          "url": "https://www.bilibili.com/video/BV1fKa86aEpp/"
+        },
+        {
+          "title": "桌面副本物语",
+          "url": "https://www.bilibili.com/video/BV1MhNgz6Eq7/"
+        }
+      ],
+      "note": "简介直接解释英雄职业装备技能配合、提升后挑战更难副本",
+      "limits": "仅两条已核样本；一条3月一条9月。报价未知，不能凭97万粉丝假定一定贵或请得动",
+      "status": "备选待选择；不是已确认合作"
+    },
+    {
+      "name": "骑牛追月亮",
+      "url": "https://space.bilibili.com/137959",
+      "region": "domestic",
+      "platform": "B站",
+      "priority": 8,
+      "evidence_date": "2026-11-04",
+      "evidence_text": "收冠之战7,708；刷爆地下城6,115；Zad Archery8,627",
+      "videos": [
+        {
+          "title": "收冠之战",
+          "url": "https://www.bilibili.com/video/BV1Puh86qE9u/"
+        },
+        {
+          "title": "刷爆地下城",
+          "url": "https://www.bilibili.com/video/BV1ptb56HESb/"
+        },
+        {
+          "title": "Zad Archery",
+          "url": "https://www.bilibili.com/video/BV1xktX6aEph/"
+        }
+      ],
+      "note": "比单条老样本更连续的增量、放置成长作品",
+      "limits": "偏单角色增量；英雄队伍站位匹配较弱，作为低成本补充询问，价格未知",
+      "status": "备选待选择；不是已确认合作"
+    },
+    {
+      "name": "旧城的独游世界",
+      "url": "https://space.bilibili.com/314849660",
+      "region": "domestic",
+      "platform": "B站",
+      "priority": 9,
+      "evidence_date": "2026-11-04",
+      "evidence_text": "低价独游合集10,072；另两条5,964/21,504",
+      "videos": [
+        {
+          "title": "低价独游合集",
+          "url": "https://www.bilibili.com/video/BV18uHy6hEvB/"
+        }
+      ],
+      "note": "旧有单篇600全平台报价可作为预算参照，已有沟通",
+      "limits": "这些播放属于整条合集，不是本作也不是单篇表现；只有确认愿意做本作专门介绍才保留付费机会。不能因为600便宜就预先购买",
+      "status": "已在第三轮确认合作，保留原推荐记录"
+    },
+    {
+      "name": "单机控研究所",
+      "url": "https://space.bilibili.com/22009302",
+      "region": "domestic",
+      "platform": "B站",
+      "priority": 10,
+      "evidence_date": "2026-11-04",
+      "evidence_text": "桌面副本物语DLC10,104，89秒",
+      "videos": [
+        {
+          "title": "桌面副本物语DLC",
+          "url": "https://www.bilibili.com/video/BV1vSYe6kEP2/"
+        }
+      ],
+      "note": "短介绍能触达挂机队伍刷装方向",
+      "limits": "只核实一条直接样本，深度讲解站位未证实；补充送测优先，高价不优先",
+      "status": "备选待选择；不是已确认合作"
+    }
+  ],
+  "region_tabs": [
+    "domestic",
+    "overseas"
+  ],
+  "source": "2026-11-04正式版B站宣传十位候选；11-07按用户要求加入备选。播放为历史累计快照，非现时报价或均播。"
 }
