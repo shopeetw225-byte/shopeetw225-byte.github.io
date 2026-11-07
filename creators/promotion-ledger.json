@@ -6,9 +6,8 @@
       "name": "第一轮 · 小黑盒17位",
       "calculation": "基础费用1,180元 + 热点激励100元 + 浏览激励20元 = 1,300元；激励尾款120元已补付",
       "total_rmb": 1300,
-      "paid_rmb": 120,
+      "paid_rmb": 1300,
       "keys": 0,
-      "payment_note": "已确认补付尾款120元；原基础费用1,180元的付款状态未在本次确认。",
       "tail_payment": {
         "confirmation_date": "2026-11-07",
         "payment_date": null,
@@ -145,21 +144,24 @@
             "views_3000_bonus": null
           }
         ]
-      }
+      },
+      "payment_confirmation": "用户2026-11-07确认此前3,020元均已付，另补第一批120元"
     },
     {
       "name": "第二轮 · 小黑盒23位",
       "calculation": "资讯：9×40 + 2×50 + 5×60 + 5×80 = 1,160元；合集：8×10 = 80元；1,160 + 80 = 1,240元",
       "total_rmb": 1240,
       "paid_rmb": 1240,
-      "keys": 8
+      "keys": 8,
+      "payment_confirmation": "用户2026-11-07确认此前3,020元均已付，另补第一批120元"
     },
     {
       "name": "第三轮 · 旧城的独游世界",
-      "calculation": "旧城合作600元 = 已付300元 + 待付300元",
+      "calculation": "旧城合作600元，已付清（用户11月7日确认总付款口径）",
       "total_rmb": 600,
-      "paid_rmb": 300,
-      "keys": 0
+      "paid_rmb": 600,
+      "keys": 0,
+      "payment_confirmation": "用户2026-11-07确认此前3,020元均已付，另补第一批120元"
     }
   ]
 }
