@@ -1287,6 +1287,18 @@
       "category": "试玩邀请",
       "text": "向20位 B站创作者和1位海外创作者发送免费 Demo 试玩邀请。",
       "url": "/creators/creator-outreach-20261108.html"
+    },
+    {
+      "date": "2026-11-09",
+      "category": "试玩邀请",
+      "text": "向20位 B站创作者发送免费 Demo 试玩邀请。",
+      "url": "/creators/creator-outreach-20261109.html"
+    },
+    {
+      "date": "2026-11-09",
+      "category": "创作者试玩",
+      "text": "整理三位创作者的公开 Demo 试玩视频。",
+      "url": "/creators/creator-outreach-20261109.html#playthroughs"
     }
   ]
 }
