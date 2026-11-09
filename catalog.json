@@ -8924,6 +8924,99 @@
           "status": "已发布"
         }
       ]
+    },
+    {
+      "id": "overseas-platform-alpha-beta-gamer",
+      "title": "Alpha Beta Gamer · 免费编辑供稿",
+      "category": "海外宣发平台",
+      "group": "免费宣传渠道",
+      "date": "2026-11-09",
+      "dateBasis": "实际发送及Gmail寄件备份核对",
+      "summary": "免费Demo游戏介绍、Steam试玩链接、视频链接及3张实机截图已发送。",
+      "status": "已投稿 · 待编辑决定",
+      "files": [],
+      "cover": "",
+      "source": "2026-11-09 官方投稿页与已发送邮件核查",
+      "body": "专收开发中且公开免费下载的游戏；本作Steam免费Demo符合投稿方向。\n\n2026-11-09：发送前按收件人与发件域核查历史，无既有联系记录。分别发送英文游戏介绍、免费Steam Demo与愿望单链接、已公开YouTube视频、3张官方实机截图。发送后寄件备份定向检索共3封，各渠道1封。\n\n未购买广告、加速或其他服务，支出0元；不要求好评或必须出片，没有承诺Key数量。只有Demo免费，不表示正式版免费。当前为已投稿，未获得报道或接受试玩的确认。",
+      "highlights": [
+        "2026.11.09 已发送并核对寄件备份",
+        "附3张截图、Steam试玩及视频链接",
+        "支出0元，不保证刊登或试玩"
+      ],
+      "links": [
+        {
+          "platform": "官方投稿说明",
+          "url": "https://www.alphabetagamer.com/contact-us/",
+          "status": "已核实"
+        },
+        {
+          "platform": "官方收稿邮箱",
+          "url": "mailto:Admin@alphabetagamer.com",
+          "status": "已投稿"
+        }
+      ]
+    },
+    {
+      "id": "overseas-platform-indie-game-fans",
+      "title": "Indie Game Fans · 免费编辑供稿",
+      "category": "海外宣发平台",
+      "group": "免费宣传渠道",
+      "date": "2026-11-09",
+      "dateBasis": "实际发送及Gmail寄件备份核对",
+      "summary": "免费Demo游戏介绍、Steam试玩链接、视频链接及3张实机截图已发送。",
+      "status": "已投稿 · 待编辑决定",
+      "files": [],
+      "cover": "",
+      "source": "2026-11-09 官方投稿页与已发送邮件核查",
+      "body": "独立游戏编辑供稿入口，与付费广告区分。\n\n2026-11-09：发送前按收件人与发件域核查历史，无既有联系记录。分别发送英文游戏介绍、免费Steam Demo与愿望单链接、已公开YouTube视频、3张官方实机截图。发送后寄件备份定向检索共3封，各渠道1封。\n\n未购买广告、加速或其他服务，支出0元；不要求好评或必须出片，没有承诺Key数量。只有Demo免费，不表示正式版免费。当前为已投稿，未获得报道或接受试玩的确认。",
+      "highlights": [
+        "2026.11.09 已发送并核对寄件备份",
+        "附3张截图、Steam试玩及视频链接",
+        "支出0元，不保证刊登或试玩"
+      ],
+      "links": [
+        {
+          "platform": "官方投稿说明",
+          "url": "https://indiegamefans.com/contact-us/",
+          "status": "已核实"
+        },
+        {
+          "platform": "官方收稿邮箱",
+          "url": "mailto:editor@indiegamefans.com",
+          "status": "已投稿"
+        }
+      ]
+    },
+    {
+      "id": "overseas-platform-automaton",
+      "title": "AUTOMATON · 免费编辑供稿",
+      "category": "海外宣发平台",
+      "group": "免费宣传渠道",
+      "date": "2026-11-09",
+      "dateBasis": "实际发送及Gmail寄件备份核对",
+      "summary": "免费Demo游戏介绍、Steam试玩链接、视频链接及3张实机截图已发送。",
+      "status": "已投稿 · 待编辑决定",
+      "files": [],
+      "cover": "",
+      "source": "2026-11-09 官方投稿页与已发送邮件核查",
+      "body": "官方新闻稿收件入口，补投此前已发现的渠道。\n\n2026-11-09：发送前按收件人与发件域核查历史，无既有联系记录。分别发送英文游戏介绍、免费Steam Demo与愿望单链接、已公开YouTube视频、3张官方实机截图。发送后寄件备份定向检索共3封，各渠道1封。\n\n未购买广告、加速或其他服务，支出0元；不要求好评或必须出片，没有承诺Key数量。只有Demo免费，不表示正式版免费。当前为已投稿，未获得报道或接受试玩的确认。",
+      "highlights": [
+        "2026.11.09 已发送并核对寄件备份",
+        "附3张截图、Steam试玩及视频链接",
+        "支出0元，不保证刊登或试玩"
+      ],
+      "links": [
+        {
+          "platform": "官方投稿说明",
+          "url": "https://automaton-media.com/contact/",
+          "status": "已核实"
+        },
+        {
+          "platform": "官方收稿邮箱",
+          "url": "mailto:press@automaton.am",
+          "status": "已投稿"
+        }
+      ]
     }
   ]
 }

@@ -466,15 +466,6 @@
       "operation_status": "2026-11-07 游戏资料及免费试玩招募已公开，核对时0人报名；未付款、未发Key。"
     },
     {
-      "country": "日本",
-      "name": "AUTOMATON",
-      "url": "https://automaton-media.com/",
-      "contact": "press@automaton.am（新闻稿）",
-      "contact_source": "https://automaton-media.com/contact/",
-      "note": "日本游戏媒体官方明确的新闻稿入口。适合日文Demo更新稿、短预告、实机截图。",
-      "limits": "这是媒体选题投稿，不是送Key撮合平台；未见公开固定投稿收费，不能宣称免费保证报道。"
-    },
-    {
       "country": "韩国",
       "name": "STOVE Store / STOVE Studio",
       "url": "https://developers.onstove.com/en/docs/stove/start",
@@ -536,6 +527,33 @@
       "contact_source": "https://www.gamespress.com/en-US/How-to-Submit-News",
       "note": "2026-11-07英文新闻稿及3张实机截图已发送，寄件备份已核对。",
       "limits": "免费邮件投稿，不保证刊登。没有购买Elite。"
+    },
+    {
+      "country": "全球",
+      "name": "Alpha Beta Gamer",
+      "url": "https://www.alphabetagamer.com/contact-us/",
+      "contact": "Admin@alphabetagamer.com",
+      "contact_source": "https://www.alphabetagamer.com/contact-us/",
+      "note": "专收开发中且公开免费下载的游戏；本作Steam免费Demo符合投稿方向。 2026-11-09 已发送免费Demo编辑供稿及3张实机截图。",
+      "limits": "支出0元，已投稿不等于已获报道；待编辑决定。"
+    },
+    {
+      "country": "全球",
+      "name": "Indie Game Fans",
+      "url": "https://indiegamefans.com/contact-us/",
+      "contact": "editor@indiegamefans.com",
+      "contact_source": "https://indiegamefans.com/contact-us/",
+      "note": "独立游戏编辑供稿入口，与付费广告区分。 2026-11-09 已发送免费Demo编辑供稿及3张实机截图。",
+      "limits": "支出0元，已投稿不等于已获报道；待编辑决定。"
+    },
+    {
+      "country": "日本／全球",
+      "name": "AUTOMATON",
+      "url": "https://automaton-media.com/contact/",
+      "contact": "press@automaton.am",
+      "contact_source": "https://automaton-media.com/contact/",
+      "note": "官方新闻稿收件入口，补投此前已发现的渠道。 2026-11-09 已发送免费Demo编辑供稿及3张实机截图。",
+      "limits": "支出0元，已投稿不等于已获报道；待编辑决定。"
     }
   ],
   "platform_setup_status": "PlayBridge免费试玩招募已公开；GAMES.GG免费收录申请、4Gamer新闻供稿已提交；Games Press英文新闻稿已发送。均未付款。"

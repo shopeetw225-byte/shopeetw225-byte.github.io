@@ -1311,6 +1311,24 @@
       "category": "Steam 公告",
       "text": "按倦猫定稿发布 Demo v8 十语更新公告，宣布正式版12月3日上线；十语正文、五张配图、动图、日期封面及背景已公开核对。",
       "url": "/?work=steam-704410368784466107"
+    },
+    {
+      "date": "2026-11-09",
+      "category": "海外宣发",
+      "text": "向Alpha Beta Gamer投递免费 Demo 游戏介绍与实机截图。",
+      "url": "/?work=overseas-platform-alpha-beta-gamer"
+    },
+    {
+      "date": "2026-11-09",
+      "category": "海外宣发",
+      "text": "向Indie Game Fans投递免费 Demo 游戏介绍与实机截图。",
+      "url": "/?work=overseas-platform-indie-game-fans"
+    },
+    {
+      "date": "2026-11-09",
+      "category": "海外宣发",
+      "text": "向AUTOMATON投递免费 Demo 游戏介绍与实机截图。",
+      "url": "/?work=overseas-platform-automaton"
     }
   ]
 }
