@@ -1,0 +1,65 @@
+Demo actualizada: ultis con movimiento, nueva Fortaleza y página de guardianes
+发布日期：2026-11-09 12:44（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704410368784466107?l=spanish
+
+¡Hola a todos! Soy Juanmao.
+
+¡¡El juego completo sale el 3 de diciembre!! (fuegos artificiales) ¡Quedan 24 días para poder jugarlo! Si te gusta, añádelo a tu lista de deseados y te avisarán en cuanto salga.
+
+Además, estoy preparando la apertura del Mercado. Si tienes buenas sugerencias, déjalas en los comentarios.
+
+La demo se volvió a actualizar. Esta vez rehíce la Fortaleza y la página de los Espíritus guardianes, el combate también cambió bastante y, de paso, ordené un poco las páginas que más se usan.
+
+[h2]Las ultis ahora tienen movimiento[/h2]
+Al lanzar la ulti, los héroes ahora se mueven: los de cuerpo a cuerpo se lanzan hasta el enemigo, golpean y vuelven de un salto; los de distancia dan un paso atrás y luego atacan. Además, los efectos de ataque de cada uno ahora van con su propio personaje. A velocidad normal es como mejor se ve; con la velocidad doble se reproduce una versión corta, sin este movimiento.
+También rehíce los sonidos de golpe: suenan más contundentes que antes y, cuando los golpes van seguidos, ya no se cortan uno por uno.
+[img]{STEAM_CLAN_IMAGE}/46216320/b246bd3ed2d8780722757fd936e224e4f02582e0.gif[/img]
+
+[h2]La Fortaleza tiene nueva cara[/h2]
+Todos los edificios de la Fortaleza tienen un dibujo nuevo y, al llegar a ciertos tramos de mejora, su aspecto también cambia. El mapa se puede arrastrar y acercar o alejar con la rueda del ratón.
+La luz sigue la hora de tu PC: de día, al atardecer y de noche se ve distinta. Si quieres dejarla fija en un momento del día, puedes cambiarlo en Ajustes, en «Hora del día (fortaleza)».
+[img]{STEAM_CLAN_IMAGE}/46216320/a742fcc8870f1f968514593ad87605455edf35ba.jpg[/img]
+
+[h2]La página de los Espíritus guardianes, rehecha[/h2]
+La página de los Espíritus guardianes (se desbloquean en la etapa 200) se rehízo por completo: cartas, ilustraciones de cuerpo entero y retratos nuevos; cada espíritu tiene su propio dibujo de Huevo de espíritu, y la incubación y la subida de grado tienen animaciones nuevas.
+[img]{STEAM_CLAN_IMAGE}/46216320/2cc29937250ca1cf0a856269c5a780267d07fda4.jpg[/img]
+
+[h2]En combate se ve todo más claro[/h2]
+[list]
+[*]En la barra superior del combate, el antiguo botón de Omitir ahora es un botón con una huella de pata: al pulsarlo se despliegan los retratos de los Espíritus guardianes, y al pulsar un retrato se abre directamente su informe detallado.
+[*]Los Espíritus guardianes ahora tienen su propia página en el Registro: puedes ver cuánto le aportaron al equipo y a quién ayudaron más. Las mejoras y los perjuicios que dan también se ven al pasar el ratón por encima.
+[*]Si pasas el ratón por un personaje y haces clic en una mejora o un perjuicio, se abre otra columna al lado: qué habilidad lo dio, en qué ronda, cuántas rondas le quedan y si se puede disipar.
+[*]La carta de entrada al empezar el combate y la de victoria o derrota al final ahora se quitan con un clic en la pantalla.
+[*]Todos los iconos de habilidad tienen un dibujo nuevo, y en el Registro y en el informe detallado cada habilidad muestra su propio icono.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/af3b4a50280a52adf85d4c7fde670f8856a191a1.jpg[/img]
+
+[h2]Mejorar héroes y armar la escuadra[/h2]
+[list]
+[*]Antes de subir una habilidad, se indica qué «mejora al llegar a LV.x», y después, qué «acaba de mejorar al subir a LV.x».
+[*]La Escuadra, el Plantel y la página de Héroes ahora usan el mismo orden y el mismo filtro de clase: cambies donde cambies, se recuerda, y puedes marcar varias clases a la vez. Si ya habías elegido un orden en la Escuadra, esta vez vuelve a «En combate primero»; elígelo de nuevo y se queda guardado.
+[*]En la Escuadra, pulsa el pergamino que está a la derecha del todo en el muro de cartas para desplegar toda la Lista de héroes y elegir a quién poner.
+[*]La garantía ahora se entiende mejor: la primera vez que entras en la Taberna se explica cómo funciona, y el tablón indica cuántos reclutamientos faltan. Antes de cambiar el objetivo de garantía, el juego te lo pregunta, y el progreso que ya llevas no se pierde. En la Campaña, desde «Botín posible» también puedes fijar directamente a un héroe como objetivo de garantía.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/348bc3e1408c9c266c6a2e32f4037cfe6511252d.jpg[/img]
+
+[h2]Otros cambios[/h2]
+[list]
+[*]La historia principal tiene una nueva puesta en escena: la parte con ilustraciones solo lleva narración, y cuando empieza el diálogo, el fondo cambia a una imagen del mismo lugar sin personajes. Por ahora los textos de la historia solo están en chino e inglés, así que en español la historia se muestra en inglés.
+[*]El Departamento de Gestión de Producción (se desbloquea en la etapa 61) ahora se abre con una vista grande de la línea de producción que se puede arrastrar y ampliar, dibujada como el suelo de un taller; las tres columnas de antes pasaron a «Detalles».
+[*]Al terminar una investigación de la Academia, aparece abajo una tarjetita de «Investigación completada» que muestra lo que ganaste; al volver a la Fortaleza, el ingreso afectado sube del número viejo al nuevo.
+[*]La vista previa de mejora de los edificios ahora indica cuánto aumenta el ingreso total y cuánto tarda en recuperarse lo invertido.
+[*]En el Almacén, «Reforzar» sube un nivel con cada pulsación, y el botón muestra el precio del siguiente nivel.
+[*]En la demo, las ganancias sin conexión ahora se calculan de otra forma: al cargar la partida aparece «Contando ganancias sin conexión» con su progreso. Las ganancias mientras el juego está abierto se siguen calculando como antes.
+[*]Algunas funciones del principio ahora se desbloquean en otra etapa: la Herrería y la forja pasan de la etapa 10 a la etapa 15, la Academia de la etapa 14 a la etapa 18, la investigación de recolección automática de la etapa 38 a la etapa 50, la segunda escuadra de la etapa 50 a la etapa 110 y la comparación de premios al repetir de la etapa 70 a la etapa 130.
+[*]Si el PC sale de la suspensión con el juego abierto, las ganancias sin conexión se siguen contando, pero ya no aparece el informe sin conexión; al abrir el juego se muestra como siempre.
+[*]Los materiales de capítulo que se pueden conseguir en la demo tienen iconos nuevos, con colores según su rareza; el borde blanco de los personajes y los retratos ahora es un contorno marrón oscuro, y el mapa de la campaña tiene efecto de vidrio esmerilado y viñeteado.
+[/list]
+
+El formato de guardado no cambió, así que tu partida debería seguir funcionando. Si alguna no carga o el progreso no cuadra, avísame, por favor.
+
+Si estos cambios te resultan cómodos o algo todavía te parece raro, cuéntamelo en los comentarios.
+
+Si te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+[url=https://store.steampowered.com/app/5257220/]Juega la demo gratis[/url] | [url=https://store.steampowered.com/app/4855890/]Añade el juego completo a tu lista de deseados[/url]

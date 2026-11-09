@@ -1,0 +1,65 @@
+Demo update: heroes charge in to ult, new Fortress and Guardian Spirits screens
+发布日期：2026-11-09 12:44（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704410368784466107?l=english
+
+Hi everyone, Juanmao here.
+
+The full game launches on December 3!! (cue the fireworks) Just 24 days until you can play it! If you like it, add it to your wishlist and you'll get a heads-up the moment it's out.
+
+Also, I'm getting the Market ready to open. If you have any good suggestions, feel free to leave them in the comments.
+
+The Demo has been updated again. This time the Fortress and the Guardian Spirits screen have both been redone, combat has changed quite a bit too, and I also tidied up a few screens you use all the time.
+
+[h2]Ultimates in motion[/h2]
+When heroes fire their ultimates, they actually move now: melee heroes dash up to the enemy, strike, then leap back, while ranged heroes step back first and then let loose. Each hero's attack effects have also been redone to fit who they are. You'll see all of it at normal speed. At double speed you get a quick version without these moves.
+The hit sounds have been redone too. They're heavier than before, and rapid hits no longer sound choppy.
+[img]{STEAM_CLAN_IMAGE}/46216320/b246bd3ed2d8780722757fd936e224e4f02582e0.gif[/img]
+
+[h2]A new look for the Fortress[/h2]
+All the Fortress buildings have been redrawn, and once an upgrade takes them to a new stage, their look changes too. You can drag the map around and zoom with the mouse wheel.
+The lighting follows your computer's clock, with a different look for day, dusk and night. If you'd rather keep it at one time of day, change "Fortress time of day" in Settings.
+[img]{STEAM_CLAN_IMAGE}/46216320/a742fcc8870f1f968514593ad87605455edf35ba.jpg[/img]
+
+[h2]Guardian Spirits screen redone[/h2]
+The Guardian Spirits screen (unlocks at stage 200) has been redone from top to bottom: new card art, full-body art and portraits, every spirit has its own egg art, and hatching and raising grade have new animations.
+[img]{STEAM_CLAN_IMAGE}/46216320/2cc29937250ca1cf0a856269c5a780267d07fda4.jpg[/img]
+
+[h2]Clearer battles[/h2]
+[list]
+[*]The old Skip button on the battle top bar is now a paw-print button. Click it to bring up your Guardian Spirits' portraits, then click a portrait to jump straight to that spirit's Full report.
+[*]Guardian Spirits now get their own page in the battle report, showing how much they helped the team and who they helped most. The buffs and debuffs they give now show up when you hover, too.
+[*]Hover over a character and click one of their buffs or debuffs, and another panel opens next to it: which skill gave it, which round it was given in, how many rounds are left, and whether it can be dispelled.
+[*]The boss entrance card at the start and the win/loss card at the end can now be dismissed with a click anywhere on the screen.
+[*]All skill icons have been redrawn, and every skill now shows its own icon in the Battle Log and the Full report.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/af3b4a50280a52adf85d4c7fde670f8856a191a1.jpg[/img]
+
+[h2]Raising heroes and building teams[/h2]
+[list]
+[*]Before a skill levels up, it now tells you what will improve at LV.x, and right after, it tells you what improved on reaching LV.x.
+[*]Formation, Roster and the hero screen now share one set of sorting and class filters. Whatever you change in one place is remembered everywhere, and you can tick several classes at once. If you picked a sort order on the Formation screen before, it'll go back to "Deployed first" this time. Just pick it again once and it'll stick.
+[*]On the Formation screen, click the scroll at the far right of the card wall to spread out the whole Hero Roster and pick from it.
+[*]Guarantees are easier to follow: the first time you visit the Tavern, it walks you through how they work, and the notice board shows how many recruits are left until the guarantee. Before you switch your guarantee target, the game checks with you first, and the progress you've built up isn't lost. You can also set a hero as your guarantee target straight from "Possible Loot" in the Campaign.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/348bc3e1408c9c266c6a2e32f4037cfe6511252d.jpg[/img]
+
+[h2]Other stuff[/h2]
+[list]
+[*]Main story scenes are staged differently now: the illustrated parts only have narration, and once the dialogue starts, the background switches to a scene of the same place with no characters in it.
+[*]The Production Management Dept. (unlocks at stage 61) now opens on a big Line View you can drag and zoom, drawn to look like a workshop floor, and the old three columns have moved to the "Details" tab.
+[*]When Academy research finishes, a little sticker pops up at the bottom telling you what you got. Back at the Fortress, the affected income rolls up from the old number to the new one.
+[*]Building upgrade previews now show how much more total income you'll make and how long it'll take to pay for itself.
+[*]In the warehouse, one press of "Enhance" now raises an item by one level, and the button shows the cost of the next level.
+[*]Offline earnings in the Demo are now settled a different way. When your save loads, you'll see "Counting offline earnings" along with its progress. Earnings while the game is open are still worked out the same way as before.
+[*]A few early features now unlock at different stages: the Blacksmith and Forge moved from stage 10 to stage 15, the Academy from stage 14 to stage 18, Auto-collect research from stage 38 to stage 50, the second squad from stage 50 to stage 110, and the replay payout comparison from stage 70 to stage 130.
+[*]If your computer wakes from sleep while the game is open, offline earnings are still counted, but the Offline Debrief no longer pops up. It still shows when you open the game, same as before.
+[*]Chapter materials you can get in the Demo have new icons, color-coded by rarity. The white outline around characters and portraits is now dark brown, and the campaign map has a frosted-glass look and a vignette.
+[/list]
+
+The save format hasn't changed, so your save should carry over. If it doesn't load or your progress looks off, please let me know.
+
+Let me know in the comments how these changes feel, and whether anything still seems off.
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url] | [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]

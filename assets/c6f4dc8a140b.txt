@@ -1,0 +1,65 @@
+Demo atualizada: suprema em movimento, Fortaleza e página dos guardiões refeitas
+发布日期：2026-11-09 12:44（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704410368784466107?l=brazilian
+
+Olá, pessoal! Aqui é o Juanmao.
+
+O jogo completo chega em 3 de dezembro!! (soltando fogos) Faltam 24 dias para vocês poderem jogar! Se curtiu, adicione à sua lista de desejos e você vai receber um aviso quando ele sair.
+
+Além disso, estou preparando a abertura do Mercado. Se tiver alguma boa sugestão, deixa nos comentários.
+
+A demo foi atualizada de novo. Desta vez refiz a Fortaleza e a página dos Espíritos guardiões, a batalha também mudou bastante e, de quebra, dei uma arrumada nas páginas que vocês mais usam.
+
+[h2]A suprema ganhou movimento[/h2]
+Na hora da suprema, os heróis agora se mexem: quem luta corpo a corpo avança até o inimigo, bate e volta pulando; quem ataca à distância dá um passo para trás antes de atacar. Os efeitos de ataque de cada um também foram trocados para combinar com o próprio personagem. Na velocidade normal dá para ver tudo melhor; na velocidade dupla, a suprema roda numa versão curta, sem esse movimento.
+Também refiz os sons de impacto: estão mais encorpados que antes e, quando os golpes vêm em sequência, não ficam mais picotados.
+[img]{STEAM_CLAN_IMAGE}/46216320/b246bd3ed2d8780722757fd936e224e4f02582e0.gif[/img]
+
+[h2]A Fortaleza ganhou cara nova[/h2]
+Todos os prédios da Fortaleza foram redesenhados e, a partir de certos níveis de melhoria, a aparência deles também muda. Dá para arrastar o mapa e dar zoom com a rodinha do mouse.
+A luz acompanha o horário do seu computador: de dia, ao entardecer e à noite, tudo fica com outra cara. Se quiser deixar fixo num período, é só mudar em Opções, em "Período do dia (fortaleza)".
+[img]{STEAM_CLAN_IMAGE}/46216320/a742fcc8870f1f968514593ad87605455edf35ba.jpg[/img]
+
+[h2]A página dos Espíritos guardiões foi refeita[/h2]
+A página dos Espíritos guardiões (liberados na fase 200) foi refeita do zero: cartas, artes de corpo inteiro e retratos novos; cada espírito tem a própria imagem de Ovo espiritual, e chocar e subir de patamar ganharam animações novas.
+[img]{STEAM_CLAN_IMAGE}/46216320/2cc29937250ca1cf0a856269c5a780267d07fda4.jpg[/img]
+
+[h2]Dá para entender melhor a batalha[/h2]
+[list]
+[*]Na barra superior da batalha, o antigo botão de Pular virou um botão de pegada de pata: clique nele para abrir os retratos dos Espíritos guardiões, e clique num retrato para abrir direto o relatório detalhado dele.
+[*]Os Espíritos guardiões ganharam uma página própria no Registro: dá para ver quanto eles ajudaram o time e quem recebeu a maior parte. Os bônus e penalidades que eles aplicam também aparecem quando você passa o mouse.
+[*]Passe o mouse sobre um personagem e clique num bônus ou numa penalidade: outra coluna se abre ao lado, mostrando qual habilidade aplicou, em que rodada, quantas rodadas faltam e se dá para dissipar.
+[*]A carta de entrada no começo da batalha e a de vitória ou derrota no fim agora somem com um clique na tela.
+[*]Todos os ícones de habilidade foram redesenhados, e no Registro e no relatório detalhado cada habilidade mostra o próprio ícone.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/af3b4a50280a52adf85d4c7fde670f8856a191a1.jpg[/img]
+
+[h2]Evoluir heróis e montar a equipe[/h2]
+[list]
+[*]Antes de subir uma habilidade, aparece o que "melhora no LV.x"; depois, o que "acabou de melhorar no LV.x".
+[*]Equipe, Elenco e a página de Heróis agora usam a mesma ordenação e o mesmo filtro de classe: o que você mudar em qualquer um deles fica salvo, e dá para marcar várias classes de uma vez. Se você já tinha escolhido uma ordenação na Equipe, desta vez ela volta para "Em campo primeiro"; escolha de novo e ela fica salva.
+[*]Na Equipe, clique no pergaminho bem à direita do mural de cartas para abrir o Elenco de heróis inteiro e escolher quem escalar.
+[*]A garantia ficou mais fácil de entender: na primeira vez que você entra na Taverna, o jogo explica como ela funciona, e o quadro mostra quantos recrutamentos faltam. Antes de trocar o alvo da garantia, o jogo confirma com você, e o progresso acumulado não se perde. Na Campanha, em "Saque possível", também dá para definir um herói como alvo da garantia direto.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/348bc3e1408c9c266c6a2e32f4037cfe6511252d.jpg[/img]
+
+[h2]Outras mudanças[/h2]
+[list]
+[*]A história principal ganhou outra encenação: a parte com ilustrações só tem narração e, quando o diálogo começa, o fundo vira uma imagem do mesmo lugar, sem personagens. Por enquanto, os textos da história só existem em chinês e inglês, então em português a história aparece em inglês.
+[*]O Departamento de Gestão de Produção (desbloqueado na fase 61) agora abre numa visão grande da linha de produção, que dá para arrastar e dar zoom, desenhada como o chão de uma oficina; as três colunas de antes foram para "Detalhes".
+[*]Quando uma pesquisa da Academia termina, aparece embaixo um cartãozinho de "Pesquisa concluída" mostrando o que você ganhou; ao voltar para a Fortaleza, a renda afetada sobe do número antigo para o novo.
+[*]A prévia de melhoria dos prédios agora mostra quanto a renda total aumenta e em quanto tempo a melhoria se paga.
+[*]No Armazém, "Aprimorar" sobe um nível a cada clique, e o botão mostra o preço do próximo nível.
+[*]Na demo, os ganhos offline agora são calculados de outro jeito: ao carregar o save, aparece "Contando ganhos offline" com o progresso. Com o jogo aberto, os ganhos continuam sendo calculados como antes.
+[*]Algumas funções do começo mudaram de fase: Ferraria e forja passaram da fase 10 para a fase 15, a Academia da fase 14 para a fase 18, a pesquisa de coleta automática da fase 38 para a fase 50, a segunda equipe da fase 50 para a fase 110 e a comparação de ganhos ao repetir da fase 70 para a fase 130.
+[*]Se o computador sair do modo de suspensão com o jogo aberto, os ganhos offline continuam sendo contados, mas o relatório offline não aparece mais; ao abrir o jogo, ele aparece como sempre.
+[*]Os materiais de capítulo que dá para conseguir na demo ganharam ícones novos, com cores por raridade; a borda branca dos personagens e retratos virou um contorno marrom-escuro, e o mapa da campanha ganhou efeito de vidro fosco e vinheta.
+[/list]
+
+O formato do save não mudou, então seu save deve continuar funcionando. Se algum não carregar ou o progresso parecer errado, me avisa.
+
+Se essas mudanças ficaram boas de usar ou se ainda tem algo estranho, me conta nos comentários.
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+[url=https://store.steampowered.com/app/5257220/]Jogue a demo gratuita[/url] | [url=https://store.steampowered.com/app/4855890/]Adicione o jogo completo à sua lista de desejos[/url]

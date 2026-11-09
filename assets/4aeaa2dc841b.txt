@@ -1,0 +1,65 @@
+Demo-Update: Helden stürmen bei der Ulti, Festung und Schutzgeister-Seite neu
+发布日期：2026-11-09 12:44（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704410368784466107?l=german
+
+Hallo zusammen, hier ist Juanmao.
+
+Die Vollversion erscheint am 3. Dezember!! (Feuerwerk!) Noch 24 Tage, dann könnt ihr sie spielen! Wenn sie euch gefällt, setzt sie auf eure Wunschliste, dann bekommt ihr zum Release eine Benachrichtigung.
+
+Außerdem bereite ich gerade die Öffnung des Markts vor. Wenn ihr gute Vorschläge habt, schreibt sie gern in die Kommentare.
+
+Die Demo hat wieder ein Update bekommen. Diesmal habe ich die Festung und die Schutzgeister-Seite neu gemacht, auch im Kampf hat sich einiges getan, und die Seiten, die ihr ständig nutzt, habe ich nebenbei auch aufgeräumt.
+
+[h2]Die Ulti kommt in Bewegung[/h2]
+Bei der Ulti bewegen sich die Helden jetzt: Nahkämpfer stürmen zum Gegner, schlagen zu und springen wieder zurück; Fernkämpfer machen erst einen Schritt nach hinten und greifen dann an. Auch die Angriffseffekte passen jetzt bei jedem zur eigenen Figur. Bei normaler Geschwindigkeit seht ihr am meisten davon – bei doppelter Geschwindigkeit läuft eine Kurzfassung ohne diese Bewegung.
+Die Treffergeräusche habe ich auch neu gemacht: Sie klingen satter als vorher und reißen bei schnellen Trefferserien nicht mehr Schlag für Schlag ab.
+[img]{STEAM_CLAN_IMAGE}/46216320/b246bd3ed2d8780722757fd936e224e4f02582e0.gif[/img]
+
+[h2]Die Festung in neuem Look[/h2]
+Alle Gebäude der Festung sind neu gezeichnet, und ab bestimmten Ausbaustufen ändert sich auch ihr Aussehen. Die Karte könnt ihr mit der Maus verschieben und mit dem Mausrad zoomen.
+Das Licht richtet sich nach der Uhrzeit eures Rechners: Tag, Abenddämmerung und Nacht sehen jeweils anders aus. Wer lieber eine feste Tageszeit möchte, stellt sie in den Optionen unter „Tageszeit der Festung“ ein.
+[img]{STEAM_CLAN_IMAGE}/46216320/a742fcc8870f1f968514593ad87605455edf35ba.jpg[/img]
+
+[h2]Die Schutzgeister-Seite ist neu[/h2]
+Die Seite der Schutzgeister (freigeschaltet ab Etappe 200) ist komplett neu gemacht: neue Kartenbilder, Ganzkörperbilder und Porträts, jeder Schutzgeist hat ein eigenes Bild für sein Ei, und auch Ausbrüten und „Grad erhöhen“ laufen jetzt mit neuen Animationen.
+[img]{STEAM_CLAN_IMAGE}/46216320/2cc29937250ca1cf0a856269c5a780267d07fda4.jpg[/img]
+
+[h2]Mehr Durchblick im Kampf[/h2]
+[list]
+[*]Oben in der Kampfleiste ist aus dem alten Überspringen-Button ein Pfotenabdruck-Button geworden: Ein Klick klappt die Porträts der Schutzgeister auf, und ein Klick auf ein Porträt öffnet direkt den vollen Bericht dieses Schutzgeists.
+[*]Im Kampfbericht haben die Schutzgeister jetzt eine eigene Seite: Dort seht ihr, wie viel sie dem Team gebracht haben und wem vor allem. Ihre Stärkungen und Schwächungen seht ihr jetzt auch, wenn ihr mit der Maus darüberfahrt.
+[*]Fahrt mit der Maus über eine Figur und klickt auf eine Stärkung oder Schwächung, dann klappt daneben noch eine Spalte auf: welche Fähigkeit sie verteilt hat, in welcher Runde, wie viele Runden sie noch hält und ob sie sich bannen lässt.
+[*]Die Auftrittskarte zu Kampfbeginn und die Karte für Sieg oder Niederlage am Ende verschwinden jetzt mit einem Klick ins Bild.
+[*]Alle Fähigkeitssymbole sind neu gezeichnet, und im Kampfbericht und im vollen Bericht zeigt jede Fähigkeit ihr eigenes Symbol.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/af3b4a50280a52adf85d4c7fde670f8856a191a1.jpg[/img]
+
+[h2]Helden ausbauen, Trupp aufstellen[/h2]
+[list]
+[*]Bevor ihr eine Fähigkeit aufwertet, steht da, was sich „auf LV.x verbessert“; danach steht, was sich „gerade auf LV.x verbessert hat“.
+[*]Trupp, Kader und Heldenseite nutzen jetzt dieselbe Sortierung und denselben Klassenfilter. Was ihr irgendwo umstellt, wird überall gemerkt, und ihr könnt mehrere Klassen auf einmal anhaken. Falls ihr im Trupp schon eine Sortierung gewählt hattet, springt sie diesmal einmalig auf „Im Einsatz zuerst“ zurück – einmal neu wählen, dann bleibt sie.
+[*]Klickt im Trupp auf die Schriftrolle ganz rechts an der Kartenwand, dann klappt die ganze Heldenliste auf, und ihr könnt bequem auswählen.
+[*]Die Garantie ist leichter zu verstehen: Beim ersten Besuch in der Taverne wird erklärt, wie sie funktioniert, und am Aushang steht, wie viele Anwerbungen noch fehlen. Bevor ihr das Garantieziel wechselt, fragt das Spiel kurz nach, und der bisherige Fortschritt geht nicht verloren. Im Feldzug könnt ihr Helden unter „Mögliche Beute“ jetzt auch direkt als Garantieziel setzen.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/348bc3e1408c9c266c6a2e32f4037cfe6511252d.jpg[/img]
+
+[h2]Sonstiges[/h2]
+[list]
+[*]Die Hauptstory ist neu inszeniert: Bei den Illustrationen gibt es nur noch Erzähltext, und sobald der Dialog beginnt, wechselt der Hintergrund zu einem Bild desselben Orts ohne Figuren. Die Story-Texte gibt es derzeit nur auf Chinesisch und Englisch – auf Deutsch wird die Story auf Englisch angezeigt.
+[*]Die Produktionsverwaltung (freigeschaltet ab Etappe 61) zeigt beim Öffnen zuerst eine große Ansicht der Produktionslinie, die ihr verschieben und zoomen könnt und die wie der Boden einer Werkstatt gezeichnet ist; die bisherigen drei Spalten findet ihr jetzt unter „Details“.
+[*]Ist eine Forschung in der Akademie fertig, ploppt unten ein kleiner Sticker „Forschung abgeschlossen“ auf, der zeigt, was dazugekommen ist; zurück in der Festung zählt das betroffene Einkommen vom alten Wert zum neuen hoch.
+[*]Die Upgrade-Vorschau für Gebäude zeigt jetzt, wie viel mehr Gesamteinkommen es danach gibt und wie lange es dauert, bis sich das Upgrade rechnet.
+[*]„Verstärken“ im Lager hebt mit einem Klick direkt um eine Stufe an, und auf dem Button steht der Preis der nächsten Stufe.
+[*]Die Offline-Erträge in der Demo werden jetzt anders abgerechnet: Beim Laden des Spielstands erscheint „Offline-Erträge werden gezählt“ mit einer Fortschrittsanzeige. Die Erträge, während das Spiel läuft, werden weiter wie bisher berechnet.
+[*]Ein paar frühe Funktionen werden jetzt in anderen Etappen freigeschaltet: Schmiede und Schmieden von Etappe 10 auf Etappe 15, die Akademie von Etappe 14 auf Etappe 18, die Forschung „Auto-Abholen“ von Etappe 38 auf Etappe 50, der zweite Trupp von Etappe 50 auf Etappe 110 und der Ertragsvergleich für Wiederholungen von Etappe 70 auf Etappe 130.
+[*]Wacht der Rechner aus dem Ruhezustand auf, während das Spiel läuft, werden die Offline-Erträge weiter normal verbucht, aber der Offline-Bericht ploppt nicht mehr auf; beim Öffnen des Spiels erscheint er wie gewohnt.
+[*]Die Kapitelmaterialien, die ihr in der Demo bekommen könnt, haben neue Symbole mit Farben je nach Seltenheit; aus dem weißen Rand um Figuren und Porträts ist eine dunkelbraune Kontur geworden, und die Feldzugkarte hat Milchglas und eine Vignette bekommen.
+[/list]
+
+Das Speicherformat hat sich nicht geändert, eure Spielstände sollten also weiter funktionieren. Falls einer nicht lädt oder der Fortschritt nicht stimmt, sagt mir bitte Bescheid.
+
+Fühlen sich die Änderungen gut an, oder ist irgendwo noch etwas komisch? Schreibt es gern in die Kommentare.
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+[url=https://store.steampowered.com/app/5257220/]Kostenlose Demo spielen[/url] | [url=https://store.steampowered.com/app/4855890/]Vollversion auf die Wunschliste setzen[/url]

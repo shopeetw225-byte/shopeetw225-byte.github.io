@@ -1,0 +1,65 @@
+Démo à jour : ultimes en mouvement, Forteresse et page des gardiens refaites
+发布日期：2026-11-09 12:44（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704410368784466107?l=french
+
+Bonjour à tous, ici Juanmao.
+
+Le jeu complet sort le 3 décembre !! (feu d'artifice) Plus que 24 jours avant de pouvoir y jouer ! Si le jeu vous tente, ajoutez-le à votre liste de souhaits : vous serez prévenus dès sa sortie.
+
+Par ailleurs, je prépare aussi l'ouverture du Marché. Si vous avez de bonnes idées, laissez-les en commentaire.
+
+La démo a encore été mise à jour. Cette fois, la Forteresse et la page des Esprits gardiens ont été refaites, le combat a pas mal changé lui aussi, et j'en ai profité pour remettre de l'ordre dans les pages qu'on utilise le plus.
+
+[h2]L'ultime prend vie[/h2]
+Pendant l'ultime, les héros bougent maintenant : ceux au corps à corps foncent sur l'ennemi, frappent puis reviennent d'un bond ; ceux à distance reculent d'un pas avant d'attaquer. Les effets d'attaque ont aussi été refaits pour coller à chaque personnage. C'est à vitesse normale qu'on profite le mieux de tout ça ; en vitesse double, l'ultime passe en version courte, sans ce mouvement.
+J'ai aussi refait les bruitages d'impact : ils sont plus épais qu'avant, et les coups enchaînés ne sonnent plus haché.
+[img]{STEAM_CLAN_IMAGE}/46216320/b246bd3ed2d8780722757fd936e224e4f02582e0.gif[/img]
+
+[h2]La Forteresse change de visage[/h2]
+Tous les bâtiments de la Forteresse ont été redessinés, et leur apparence change aussi à certains paliers d'amélioration. On peut faire glisser la carte et zoomer avec la molette.
+La lumière suit l'heure de votre ordinateur : le jour, le crépuscule et la nuit ont chacun leur ambiance. Pour la fixer sur un moment précis, allez dans les Paramètres, option « Heure du jour (forteresse) ».
+[img]{STEAM_CLAN_IMAGE}/46216320/a742fcc8870f1f968514593ad87605455edf35ba.jpg[/img]
+
+[h2]La page des Esprits gardiens refaite[/h2]
+La page des Esprits gardiens (débloqués à l'étape 200) a été entièrement refaite : nouvelles cartes, nouvelles illustrations en pied et nouveaux portraits ; chaque esprit a sa propre image d'Œuf d'esprit, et l'éclosion comme la montée de grade ont de nouvelles animations.
+[img]{STEAM_CLAN_IMAGE}/46216320/2cc29937250ca1cf0a856269c5a780267d07fda4.jpg[/img]
+
+[h2]Mieux suivre le combat[/h2]
+[list]
+[*]Dans la barre du haut en combat, l'ancien bouton Passer laisse la place à un bouton en forme de patte : un clic affiche les portraits des Esprits gardiens, et un clic sur un portrait ouvre directement son Rapport complet.
+[*]Les Esprits gardiens ont maintenant leur propre page dans le Journal : on y voit combien ils ont apporté à l'équipe et à qui surtout. Leurs Bonus et Malus s'affichent aussi quand on les survole à la souris.
+[*]Survolez un personnage et cliquez sur un Bonus ou un Malus : une colonne s'ouvre à côté, avec la compétence qui l'a donné, le tour où il a été donné, les tours restants, et s'il peut être dissipé.
+[*]La carte d'entrée en scène au début du combat et la carte de victoire ou de défaite à la fin se ferment maintenant d'un simple clic sur l'écran.
+[*]Toutes les icônes de compétence ont été redessinées, et chaque compétence affiche sa propre icône dans le Journal et dans le Rapport complet.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/af3b4a50280a52adf85d4c7fde670f8856a191a1.jpg[/img]
+
+[h2]Faire progresser ses héros, composer l'équipe[/h2]
+[list]
+[*]Avant d'améliorer une compétence, le jeu indique ce qui « s'améliore au LV.x » ; après, ce qui « vient de s'améliorer au LV.x ».
+[*]Équipe, Effectif et page Héros partagent désormais le même tri et le même filtre de classe : ce que vous changez quelque part est mémorisé, et vous pouvez cocher plusieurs classes à la fois. Si vous aviez déjà choisi un tri dans Équipe, il revient cette fois sur « Déployés d'abord » ; choisissez-le à nouveau et il sera retenu.
+[*]Dans Équipe, cliquez sur le parchemin tout à droite du mur de cartes pour déplier tout l'effectif et choisir vos héros.
+[*]La garantie est plus claire : à votre première visite à la Taverne, le jeu explique comment elle marche, et le tableau indique combien de recrutements il reste. Avant de changer de cible de garantie, le jeu vous demande confirmation, et la progression accumulée n'est pas perdue. Dans la Campagne, vous pouvez aussi faire d'un héros votre cible de garantie directement depuis « Butin possible ».
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/348bc3e1408c9c266c6a2e32f4037cfe6511252d.jpg[/img]
+
+[h2]Divers[/h2]
+[list]
+[*]L'histoire principale est mise en scène autrement : les passages illustrés n'ont plus que la narration, et dès que le dialogue commence, le fond passe à une image du même lieu, sans personnages. Les textes de l'histoire n'existent pour l'instant qu'en chinois et en anglais ; en français, l'histoire s'affiche en anglais.
+[*]La Direction de la production (débloquée à l'étape 61) s'ouvre d'abord sur une grande vue de la chaîne de production, qu'on peut faire glisser et zoomer, et qui est dessinée comme le sol d'un atelier ; les trois anciennes colonnes sont passées dans « Détails ».
+[*]Quand une recherche de l'Académie se termine, une petite carte « Recherche terminée » apparaît en bas pour montrer ce qu'elle apporte ; de retour à la Forteresse, le revenu concerné défile de l'ancien chiffre jusqu'au nouveau.
+[*]L'aperçu d'amélioration d'un bâtiment indique maintenant combien le revenu total augmente et en combien de temps l'amélioration est rentabilisée.
+[*]Dans l'entrepôt, « Renforcer » fait monter directement d'un niveau à chaque clic, et le bouton affiche le prix du niveau suivant.
+[*]Dans la démo, les gains hors ligne sont maintenant calculés d'une autre manière : au chargement de la sauvegarde, « Décompte des gains hors ligne » s'affiche avec sa progression. Les gains pendant que le jeu est ouvert sont toujours calculés comme avant.
+[*]Quelques fonctions du début se débloquent maintenant à d'autres étapes : la Forge et le forgeage passent de l'étape 10 à l'étape 15, l'Académie de l'étape 14 à l'étape 18, la recherche de collecte automatique de l'étape 38 à l'étape 50, la deuxième équipe de l'étape 50 à l'étape 110, et le comparatif des gains de rejeu de l'étape 70 à l'étape 130.
+[*]Si l'ordinateur sort de veille pendant que le jeu est ouvert, les gains hors ligne sont toujours comptés, mais le bilan hors ligne ne s'affiche plus ; à l'ouverture du jeu, il s'affiche comme avant.
+[*]Les matériaux de chapitre qu'on peut obtenir dans la démo ont de nouvelles icônes, colorées selon leur rareté ; le contour blanc des personnages et des portraits est devenu brun foncé, et la carte de la campagne a gagné un effet verre dépoli et un vignettage.
+[/list]
+
+Le format de sauvegarde n'a pas changé, vos sauvegardes devraient donc fonctionner. Si l'une ne se charge pas ou si la progression semble fausse, prévenez-moi.
+
+Dites-moi dans les commentaires si ces changements sont agréables à l'usage, ou si quelque chose cloche encore.
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+[url=https://store.steampowered.com/app/5257220/]Jouer à la démo gratuite[/url] | [url=https://store.steampowered.com/app/4855890/]Ajouter le jeu complet à votre liste de souhaits[/url]
