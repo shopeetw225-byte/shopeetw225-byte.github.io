@@ -1,7 +1,162 @@
 {
   "round": 3,
-  "updated_at": "2026-11-07",
+  "updated_at": "2026-11-10",
   "candidates": [
+    {
+      "name": "朋克玩游戏",
+      "url": "https://space.bilibili.com/49727546",
+      "region": "domestic",
+      "platform": "B站",
+      "status": "Steam市场方向 · 优先复核，尚非可直接邀请",
+      "note": "2026年7月至8月同UID单稿确认仍有游戏资讯、免费领取和更新提醒方向，适合先核查免费Demo推荐意愿；尚无当前放置构筑试玩证据，不能把喜加一资讯等同深度试玩。",
+      "limits": "反向筛选：未核到近60天完整相关投稿；旧样本不代表近期效果。免费领取资讯不等于深度试玩，不能由资讯流量推算本作转化。",
+      "evidence_date": "2026-11-10",
+      "videos": [
+        {
+          "title": "能让中国玩家(包括蛋king）圆梦major冠军的游戏重磅嗯嗯嗯！",
+          "url": "https://www.bilibili.com/video/BV13NNE6nENH/"
+        },
+        {
+          "title": "超级重磅喜加一！你的AI女友来了！国内大厂米哈游出品！特别好评！后续更新我也会准时提醒！",
+          "url": "https://www.bilibili.com/video/BV16jN261EwN/"
+        },
+        {
+          "title": "高质量限时嗯嗯嗯！获奖无数！支持中文！",
+          "url": "https://www.bilibili.com/video/BV1tJNo6sEeJ/"
+        },
+        {
+          "title": "坏消息ai女友要离开我们！好消息可以限时永久保留！记得关注！我会准时提醒！",
+          "url": "https://www.bilibili.com/video/BV1MwgV61E7A/"
+        }
+      ],
+      "screening_group": "steam-market",
+      "ready_to_send": false
+    },
+    {
+      "name": "小代游戏日记",
+      "url": "https://space.bilibili.com/188423979",
+      "region": "domestic",
+      "platform": "B站",
+      "status": "Steam市场方向 · 优先复核，尚非可直接邀请",
+      "note": "同UID已核《巨人杀手：暗黑之潮》入坑、机制和流派指南，比纯市场号更接近本作养成与构筑讲解；另有IdleOn放置题材、ForgeTax流派稿的一手索引线索。近期及原创试玩比例还需核实，暂不列可发送。",
+      "limits": "反向筛选：未核到近60天完整相关投稿；旧样本不代表近期效果。机制讲解题材接近，但原创试玩比例和放置配队适配仍待核。",
+      "evidence_date": "2026-11-10",
+      "videos": [
+        {
+          "title": "【巨人杀手：暗黑之潮】入坑指南 基础玩法、核心机制、新手流派推荐、以及实用技巧",
+          "url": "https://www.bilibili.com/video/BV1HNqZBdESs/"
+        }
+      ],
+      "screening_group": "steam-market",
+      "ready_to_send": false
+    },
+    {
+      "name": "steam情报局",
+      "url": "https://space.bilibili.com/473519710",
+      "region": "domestic",
+      "platform": "B站",
+      "status": "保留资讯型线索，不因高播放上调为当前Demo优先。",
+      "note": "Steam市场方向 · 支持理由：两篇同UID Banana掉落话题作品，播放22.7万和8.2万；比单个偶然标题更能证明关注过此题材。",
+      "limits": "反向筛选：两篇均以骗局/投机风险为切口；并非放置阵容构筑试玩证据。2024年旧样本不能证明近期仍接独游。本人简介带某宝店，商业身份与报价/免费试玩接受情况均未核。 近期活跃、联系可达性及免费试玩意愿待核。",
+      "evidence_date": "2026-11-10",
+      "evidence_text": "2024-05-30 · 227,213播放；2024-06-25 · 82,003播放。为所列样本累计播放，不是近期均播。",
+      "videos": [
+        {
+          "title": "一根香蕉赚回《黑神话》？Steam特别好评的挂机游戏《Banana》或为新型网络骗局，请勿成为赛博吗喽！",
+          "url": "https://www.bilibili.com/video/BV1rM4m167mu/"
+        },
+        {
+          "title": "赛博香蕉致富？恐成吗喽！Steam比特币《Banana》让人疯魔|宫崎英高《艾尔登法环》之后的新作理想？",
+          "url": "https://www.bilibili.com/video/BV1pS411A7qg/"
+        }
+      ],
+      "screening_group": "steam-market",
+      "ready_to_send": false
+    },
+    {
+      "name": "twobeings",
+      "url": "https://space.bilibili.com/15897509",
+      "region": "domestic",
+      "platform": "B站",
+      "status": "新增中可先复核，未达到高播放优先标准，不列已合适或可发送。",
+      "note": "Steam市场方向 · 支持理由：同UID既有挂卡教程，又有国产游戏实玩；能排除完全只谈饰品行情的账号。",
+      "limits": "反向筛选：挂卡稿仅7160播放，国产游戏样本仅351播放；样本分别2023、2022年。近期检索只得到不完整年月日线索，不能认定活跃。也未证明擅长放置构筑。 近期活跃、联系可达性及免费试玩意愿待核。",
+      "evidence_date": "2026-11-10",
+      "evidence_text": "2023-03-21 · 7,160播放；2022-09-23 · 351播放。为所列样本累计播放，不是近期均播。",
+      "videos": [
+        {
+          "title": "Steam++又一强大功能，不需要配置机器人也可以同时挂卡30+游戏",
+          "url": "https://www.bilibili.com/video/BV1gs4y1p7wc/"
+        },
+        {
+          "title": "【Switch拖更】【国产文字互动游戏】葬花·暗黑桃花源",
+          "url": "https://www.bilibili.com/video/BV1j8411b7CV/"
+        }
+      ],
+      "screening_group": "steam-market",
+      "ready_to_send": false
+    },
+    {
+      "name": "Cliencer克总",
+      "url": "https://space.bilibili.com/30031316",
+      "region": "domestic",
+      "platform": "B站",
+      "status": "历史线索，暂缓。",
+      "note": "Steam市场方向 · 支持理由：挂卡主题及同UID确证，旧样本4.8万播放。",
+      "limits": "反向筛选：2020年样本过旧；未取得近期相关内容或独游试玩证据，历史播放不代表当下覆盖。 近期活跃、联系可达性及免费试玩意愿待核。",
+      "evidence_date": "2026-11-10",
+      "evidence_text": "2020-04-20 · 48,158播放。为所列样本累计播放，不是近期均播。",
+      "videos": [
+        {
+          "title": "【两分钟学废】Steam如何挂卡回血，关于卡片的一切都告诉你，云挂卡白嫖教程",
+          "url": "https://www.bilibili.com/video/BV1of4y1U7Sy/"
+        }
+      ],
+      "screening_group": "steam-market",
+      "ready_to_send": false
+    },
+    {
+      "name": "御琪幽然",
+      "url": "https://space.bilibili.com/2908365",
+      "region": "domestic",
+      "platform": "B站",
+      "status": "保留专题分析线索，当前免费试玩优先度低。",
+      "note": "Steam市场方向 · 支持理由：2026年同UID做过Bongo Cat专题，2.46万播放，题材确属Steam桌面挂机产品。",
+      "limits": "反向筛选：主旨为版权/侵权辨析，并非掉落市场玩法教学、游戏推荐或试玩；距今逾8个月，未核近期活跃。 近期活跃、联系可达性及免费试玩意愿待核。",
+      "evidence_date": "2026-11-10",
+      "evidence_text": "2026-02-25 · 24,618播放。为所列样本累计播放，不是近期均播。",
+      "videos": [
+        {
+          "title": "Steam上的Bongo Cat抄袭了？没有，但可能侵权了",
+          "url": "https://www.bilibili.com/video/BV1MXfmBbEwF/"
+        }
+      ],
+      "screening_group": "steam-market",
+      "ready_to_send": false
+    },
+    {
+      "name": "The Spiffing Brit",
+      "url": "https://www.youtube.com/@thespiffingbrit",
+      "region": "overseas",
+      "platform": "YouTube",
+      "status": "高门槛低优先，只作长期海外线索，不能因218万播放排第一。",
+      "note": "Steam市场方向 · 支持理由：有Steam掉落投机分析，也有2026年独立挂机游戏Tiny Terraces实玩，非纯CS饰品号；两稿均较高播放。",
+      "limits": "反向筛选：Banana视频重点是质疑投机，并非赚钱推荐。Tiny Terraces侧重破坏平衡/漏洞玩法，不等于愿意正常Demo试玩。约448万订阅量级，不能推定会接小体量免费邀请；近60天活跃和公开商务邮箱未一手核实。 近期活跃、联系可达性及免费试玩意愿待核。",
+      "evidence_date": "2026-11-10",
+      "evidence_text": "2024-06-12 · 2,180,675播放；2026-05-26 · 656,465播放。为所列样本累计播放，不是近期均播。",
+      "videos": [
+        {
+          "title": "Why Is A Free BANANA Breaking The Steam Market? - STEAM IS PERFECTLY BALANCED WITH NO EXPLOITS!",
+          "url": "https://www.youtube.com/watch?v=gqVLPx-4O48"
+        },
+        {
+          "title": "Game Developer VS 𝔹ℝ𝕀𝕋𝕀𝕊ℍ - Tiny Terraces A PERFECTLY BALANCED GAME WITH NO EXPLOITS",
+          "url": "https://www.youtube.com/watch?v=4TWatxVc7lo"
+        }
+      ],
+      "screening_group": "steam-market",
+      "ready_to_send": false
+    },
     {
       "name": "好胃口的我",
       "url": "https://space.bilibili.com/925253",
@@ -556,5 +711,16 @@
       "limits": "支出0元，已投稿不等于已获报道；待编辑决定。"
     }
   ],
-  "platform_setup_status": "2026-11-10已核查：PlayBridge仍0人报名；Partnier活动运行但未开放申请；PressEngine邀请早已收到，后台需登录；其他已投稿渠道暂未查到新回复，Indie Game Fans保留退信。 11月10日Indie Game Fans官网表单已成功补投。"
+  "platform_setup_status": "2026-11-10已核查：PlayBridge仍0人报名；Partnier活动运行但未开放申请；PressEngine邀请早已收到，后台需登录；其他已投稿渠道暂未查到新回复，Indie Game Fans保留退信。 11月10日Indie Game Fans官网表单已成功补投。",
+  "steam_market_screening": {
+    "date": "2026-11-10",
+    "priority_recheck": [
+      "小代游戏日记",
+      "朋克玩游戏"
+    ],
+    "third_recheck": "twobeings",
+    "no_fully_qualified_finalist": true,
+    "report": "/creators/steam-market-screening-20261110.html",
+    "basis": "玩法适配优先；高播放、市场话题或旧爆款不单独构成入选依据。"
+  }
 }
