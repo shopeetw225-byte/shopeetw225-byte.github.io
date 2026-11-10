@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "hero": "assets/07851087f62e.jpg",
   "items": [
     {
@@ -9564,6 +9564,105 @@
       "status": "已发布 · 商店修订 63",
       "source": "output/steam-store-auto-sync/visual-refresh-20261109",
       "detailNote": "十语公开页、两支视频播放及全部实机 GIF 动效已核对。"
+    },
+    {
+      "id": "ai-race-800",
+      "title": "AI比赛 · 第800关",
+      "category": "宣传视频",
+      "group": "平台视频",
+      "date": "2026-11-10",
+      "dateBasis": "已核实公开作品发布日期",
+      "summary": "让Claude和GPT在《放置事务所》第800关比赛编队与通关。",
+      "episodeLabel": "AI对决 · 第800关",
+      "platformLinkKey": "ai-race-800",
+      "files": [
+        {
+          "name": "简中横屏版_AI比赛_第800关.mp4",
+          "url": "assets/ai-race-800-preview-20261110.mp4",
+          "type": "video",
+          "source": "视频制作/其他/AI比赛_第800关/成片/简中横屏版_AI比赛_第800关.mp4",
+          "sourceSha256": "9ae06cfea57fa6ad5fbb6640e5c8713b2fbaad23c31cb26a709bd9c77ef6922c"
+        }
+      ],
+      "cover": "assets/ai-race-800-cover-0-20261110.jpg",
+      "duration": 442.878896,
+      "links": [
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1etWT66Ep2/",
+          "date": "2026-11-10",
+          "status": "已公开",
+          "source": "2026-11-11 本人主页及独立公开详情逐条核对"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=ycGNEBmAbRk",
+          "date": "2026-11-10",
+          "status": "已公开",
+          "source": "2026-11-11 本人主页及独立公开详情逐条核对"
+        },
+        {
+          "platform": "X",
+          "url": "https://x.com/Feng21671868/status/2120041598495129836",
+          "date": "2026-11-10",
+          "status": "已公开",
+          "source": "2026-11-11 本人主页及独立公开详情逐条核对"
+        }
+      ],
+      "status": "已公开 · B站 / YouTube / X",
+      "source": "视频制作/其他/AI比赛_第800关",
+      "detailNote": "AI对决独立归类。比赛副本第800关经强化；免费Demo中的普通关卡未作同样强化。"
+    },
+    {
+      "id": "ai-race-800-visuals",
+      "title": "AI比赛 · 第800关 · 平台封面",
+      "category": "封面与视觉",
+      "group": "封面",
+      "date": "2026-11-10",
+      "dateBasis": "上传及用户确认封面记录",
+      "summary": "B站横屏、小红书和繁中竖屏三版封面。",
+      "files": [
+        {
+          "name": "B站横_AI比赛第800关.png",
+          "url": "assets/ai-race-800-cover-0-20261110.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/AI比赛 第800关/B站横_AI比赛第800关.png"
+        },
+        {
+          "name": "小红书_AI比赛第800关.png",
+          "url": "assets/ai-race-800-cover-1-20261110.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/AI比赛 第800关/小红书_AI比赛第800关.png"
+        },
+        {
+          "name": "繁中竖_AI比赛第800关.png",
+          "url": "assets/ai-race-800-cover-2-20261110.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/AI比赛 第800关/繁中竖_AI比赛第800关.png"
+        }
+      ],
+      "cover": "assets/ai-race-800-cover-0-20261110.jpg",
+      "status": "已归档",
+      "source": "视频制作/封面/发平台的/AI比赛 第800关"
+    },
+    {
+      "id": "ai-race-800-copy",
+      "title": "AI比赛 · 第800关 · 六平台文案",
+      "category": "文案",
+      "group": "平台文案",
+      "date": "2026-11-10",
+      "dateBasis": "上传完成记录",
+      "summary": "六平台标题、简介与话题文案。",
+      "files": [
+        {
+          "name": "AI比赛_第800关_六平台上传文案.txt",
+          "url": "assets/ai-race-800-platform-copy-20261110.txt",
+          "type": "text"
+        }
+      ],
+      "body": "AI比赛 · 第800关（11-10 五版，米白碎花背景；上传待用户发布）\n标题：倦猫 11-10 定“让Claude和GPT玩我做的游戏，结果……【AI对决】”（标签放后面）\n封面：方案1“更快的竟然是……”计时屏版，倦猫已选定，11-10 已转正式：视频制作/封面/发平台的/AI比赛 第800关/ 下 B站横/小红书/繁中竖_AI比赛第800关.png\n成片在 视频制作/其他/AI比赛_第800关/成片/\n注意：片中和文案都不提换模型；只说 Claude 和 GPT。\n\nB站（简中横屏版_AI比赛_第800关.mp4；封面 B站横_AI比赛第800关.png）\nB站标题：让Claude和GPT玩我做的游戏，结果……【AI对决】\nB站简介：\nSteam搜「放置事务所」，免费Demo已上线，第800关就在Demo里，欢迎来挑战～喜欢的话帮忙加个愿望单\nhttps://store.steampowered.com/app/4855890/\n玩家QQ群：1079312948\n标签：AI、Claude、GPT、独立游戏、放置游戏、放置事务所、Steam、不抽卡\n\n抖音（简中竖屏版_AI比赛_第800关.mp4；封面 小红书_AI比赛第800关.png，与小红书共用）\n抖音标题：让Claude和GPT玩我做的游戏，结果……【AI对决】\n正文：\nSteam搜「放置事务所」可免费试玩，第800关就在Demo里～\n游戏群在个人主页，欢迎进群讨论。\n标签：AI、Claude、GPT、独立游戏、放置游戏、steam游戏、不抽卡\n\n小红书（简中竖屏版_AI比赛_第800关.mp4；封面 小红书_AI比赛第800关.png）\n小红书标题：让Claude和GPT玩我的游戏，结果…\n（小红书标题限 20 字：去掉“做”字正好 20 字，“【AI对决】”放进话题；以输入框计数为准）\n正文：\n《放置事务所》Demo已开放免费试玩，第800关就在里面，欢迎来挑战～\n标签：AI、Claude、GPT、独立游戏、放置游戏、不抽卡\n\nYouTube（英文配音横屏版_AI比赛_第800关.mp4）\nYouTube title: I Let Claude and GPT Play My Game, and... [AI Showdown] | Idle Agency\nDescription:\nTry the free Idle Agency demo and take on Stage 800 yourself. A wishlist helps a lot!\n#IndieGame #IdleGame #Steam #AI #GameDev\nTags: Idle Agency,indie game,idle game,Steam,AI,Claude,GPT,free demo,no gacha\nYouTube不上传封面。\n\nX（英文竖屏版_AI比赛_第800关.mp4；不放封面，英文封面 11-07 起不做）\nI let Claude and GPT play my game, and... [AI Showdown]\nTry the free Idle Agency demo. Stage 800 is waiting!\nhttps://store.steampowered.com/app/4855890/\n#gamedev #idlegame #AI\n\nThreads（繁中竖屏版_AI比赛_第800关.mp4；封面 繁中竖_AI比赛第800关.png）\n讓Claude和GPT玩我做的遊戲，結果……【AI對決】\n免費Demo已上線，第800關就在裡面，歡迎來挑戰～Steam搜 Idle Agency，喜歡的話幫忙加個願望清單～\nhttps://store.steampowered.com/app/4855890/\n主題：獨立遊戲\n",
+      "status": "已归档",
+      "source": "视频制作/文案/AI比赛_第800关_六平台上传文案.txt"
     }
   ]
 }
