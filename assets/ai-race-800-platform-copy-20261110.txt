@@ -1,10 +1,4 @@
-AI比赛 · 第800关（11-10 五版，米白碎花背景；上传待用户发布）
-标题：倦猫 11-10 定“让Claude和GPT玩我做的游戏，结果……【AI对决】”（标签放后面）
-封面：方案1“更快的竟然是……”计时屏版，倦猫已选定，11-10 已转正式：视频制作/封面/发平台的/AI比赛 第800关/ 下 B站横/小红书/繁中竖_AI比赛第800关.png
-成片在 视频制作/其他/AI比赛_第800关/成片/
-注意：片中和文案都不提换模型；只说 Claude 和 GPT。
-
-B站（简中横屏版_AI比赛_第800关.mp4；封面 B站横_AI比赛第800关.png）
+B站
 B站标题：让Claude和GPT玩我做的游戏，结果……【AI对决】
 B站简介：
 Steam搜「放置事务所」，免费Demo已上线，第800关就在Demo里，欢迎来挑战～喜欢的话帮忙加个愿望单
@@ -12,35 +6,33 @@ https://store.steampowered.com/app/4855890/
 玩家QQ群：1079312948
 标签：AI、Claude、GPT、独立游戏、放置游戏、放置事务所、Steam、不抽卡
 
-抖音（简中竖屏版_AI比赛_第800关.mp4；封面 小红书_AI比赛第800关.png，与小红书共用）
+抖音
 抖音标题：让Claude和GPT玩我做的游戏，结果……【AI对决】
 正文：
 Steam搜「放置事务所」可免费试玩，第800关就在Demo里～
 游戏群在个人主页，欢迎进群讨论。
 标签：AI、Claude、GPT、独立游戏、放置游戏、steam游戏、不抽卡
 
-小红书（简中竖屏版_AI比赛_第800关.mp4；封面 小红书_AI比赛第800关.png）
+小红书
 小红书标题：让Claude和GPT玩我的游戏，结果…
-（小红书标题限 20 字：去掉“做”字正好 20 字，“【AI对决】”放进话题；以输入框计数为准）
 正文：
 《放置事务所》Demo已开放免费试玩，第800关就在里面，欢迎来挑战～
 标签：AI、Claude、GPT、独立游戏、放置游戏、不抽卡
 
-YouTube（英文配音横屏版_AI比赛_第800关.mp4）
+YouTube
 YouTube title: I Let Claude and GPT Play My Game, and... [AI Showdown] | Idle Agency
 Description:
 Try the free Idle Agency demo and take on Stage 800 yourself. A wishlist helps a lot!
 #IndieGame #IdleGame #Steam #AI #GameDev
 Tags: Idle Agency,indie game,idle game,Steam,AI,Claude,GPT,free demo,no gacha
-YouTube不上传封面。
 
-X（英文竖屏版_AI比赛_第800关.mp4；不放封面，英文封面 11-07 起不做）
+X
 I let Claude and GPT play my game, and... [AI Showdown]
 Try the free Idle Agency demo. Stage 800 is waiting!
 https://store.steampowered.com/app/4855890/
 #gamedev #idlegame #AI
 
-Threads（繁中竖屏版_AI比赛_第800关.mp4；封面 繁中竖_AI比赛第800关.png）
+Threads
 讓Claude和GPT玩我做的遊戲，結果……【AI對決】
 免費Demo已上線，第800關就在裡面，歡迎來挑戰～Steam搜 Idle Agency，喜歡的話幫忙加個願望清單～
 https://store.steampowered.com/app/4855890/
