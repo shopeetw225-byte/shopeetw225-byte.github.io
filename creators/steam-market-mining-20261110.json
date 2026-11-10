@@ -10,7 +10,7 @@
       "uid": "123174211",
       "profile_url": "https://space.bilibili.com/123174211",
       "category": "Steam掉落/挂机与市场余额",
-      "status": "身份与题材已核实；近期适配、私信历史待核",
+      "status": "题材相邻，待玩法样本；近60天活跃待核，本轮未发邀请",
       "sources": [
         {
           "title": "挂香蕉！steam游戏banana挂香蕉竟然真的能赚？",
@@ -22,14 +22,53 @@
           "url": "https://www.bilibili.com/video/BV1WrmdBUEFN/",
           "published_at": "2025-12-13T18:33:47+08:00"
         }
-      ]
+      ],
+      "recent_review": {
+        "name": "十二斤的史迪仔",
+        "uid": "123174211",
+        "recent_status": "unverified_access_limited",
+        "recent_window": {
+          "start": "2026-09-11",
+          "end": "2026-11-10"
+        },
+        "recent_related_content_confirmed": false,
+        "recent_statement": "近期持续制作情况未核实；主页列表返回验证码，不等于停更。",
+        "suitability_label": "题材相邻，待玩法样本",
+        "suitability_reason": "已核样本为Banana掉落及卡牌倒余额，能说明Steam掉落/市场兴趣；未取得放置阵容构筑或独游试玩样本，不能仅凭收益标题认定适配。",
+        "suitability_basis": "基于已核作品及明确标注的一手索引线索作初步判断；不代表完整近期投稿审查。",
+        "sources": [
+          {
+            "title": "挂香蕉！steam游戏banana挂香蕉竟然真的能赚？",
+            "url": "https://www.bilibili.com/video/BV1Zf421D7zy/",
+            "published_at": "2024-06-10T22:54:57+08:00",
+            "evidence_type": "previously_verified_work_owner",
+            "uid_verified": true
+          },
+          {
+            "title": "快速获得7.9-8折余额方法——冬促卡牌倒余额",
+            "url": "https://www.bilibili.com/video/BV1WrmdBUEFN/",
+            "published_at": "2025-12-13T18:33:47+08:00",
+            "evidence_type": "previously_verified_work_owner",
+            "uid_verified": true
+          }
+        ],
+        "invitation_ready": false,
+        "sent": 0,
+        "limitations": [
+          "没有取得完整近期投稿列表；没有搜索到新作品不证明没有更新。",
+          "本轮未发送邀请或改发送状态；私信历史仍待核。"
+        ],
+        "checked_at": "2026-11-10T10:47:52.318720+08:00",
+        "ready_to_send": false,
+        "suitability_group": "topic_or_historical_lead"
+      }
     },
     {
       "name": "众鑫微客",
       "uid": "601188852",
       "profile_url": "https://space.bilibili.com/601188852",
       "category": "Steam市场搬砖",
-      "status": "身份与题材已核实；近期适配、私信历史待核",
+      "status": "暂不优先；近60天活跃待核，本轮未发邀请",
       "sources": [
         {
           "title": "steam搬砖项目日常更新，普通人也能一个月6000+",
@@ -46,14 +85,70 @@
           "url": "https://www.bilibili.com/video/BV1hzWRzmE5i/",
           "published_at": "2025-10-22T00:09:33+08:00"
         }
-      ]
+      ],
+      "recent_review": {
+        "name": "众鑫微客",
+        "uid": "601188852",
+        "recent_status": "unverified_access_limited",
+        "recent_window": {
+          "start": "2026-09-11",
+          "end": "2026-11-10"
+        },
+        "recent_related_content_confirmed": false,
+        "recent_statement": "近期持续制作情况未核实；主页列表返回验证码，不等于停更。",
+        "suitability_label": "暂不优先",
+        "suitability_reason": "已核样本及本人公开简介偏CS市场搬砖、令牌和交易工具；当前Demo主打放置战斗与阵容构筑，市场交易并非已开放卖点，内容诉求与当前试玩重点较弱。",
+        "suitability_basis": "基于已核作品及明确标注的一手索引线索作初步判断；不代表完整近期投稿审查。",
+        "sources": [
+          {
+            "title": "steam搬砖项目日常更新，普通人也能一个月6000+",
+            "url": "https://www.bilibili.com/video/BV1t8411g7Hk/",
+            "published_at": "2023-02-02T23:14:07+08:00",
+            "evidence_type": "previously_verified_work_owner",
+            "uid_verified": true
+          },
+          {
+            "title": "steam游戏搬砖项目，稳定5年多，最稳玩法",
+            "url": "https://www.bilibili.com/video/BV1DG4LzCEK1/",
+            "published_at": "2025-10-10T03:13:19+08:00",
+            "evidence_type": "previously_verified_work_owner",
+            "uid_verified": true
+          },
+          {
+            "title": "steam游戏搬砖，做了5年，一直稳定",
+            "url": "https://www.bilibili.com/video/BV1hzWRzmE5i/",
+            "published_at": "2025-10-22T00:09:33+08:00",
+            "evidence_type": "previously_verified_work_owner",
+            "uid_verified": true
+          },
+          {
+            "title": "SDA桌面令牌可以解决确认问题，steam++同样也可以，也可以自动发货，也可以新增令牌maf账号",
+            "url": "https://www.bilibili.com/video/BV1MX4y1t7UQ/",
+            "published_at": "2023-06-23T06:09:56+08:00",
+            "raw_file": "output/steam-market-recent-20261110/BV1MX4y1t7UQ-additional.html",
+            "sha256": "4eb4ffaba98099ca5dbc98818e5b9f83f0ab25a9fc7b7b6dd7bc09abc47b4dd9",
+            "evidence_type": "direct_initial_state_owner",
+            "uid_verified": true,
+            "owner_mid": "601188852"
+          }
+        ],
+        "invitation_ready": false,
+        "sent": 0,
+        "limitations": [
+          "没有取得完整近期投稿列表；没有搜索到新作品不证明没有更新。",
+          "本轮未发送邀请或改发送状态；私信历史仍待核。"
+        ],
+        "checked_at": "2026-11-10T10:47:52.318720+08:00",
+        "ready_to_send": false,
+        "suitability_group": "low_priority_for_current_demo"
+      }
     },
     {
       "name": "雨说新客",
       "uid": "2020430835",
       "profile_url": "https://space.bilibili.com/2020430835",
       "category": "Steam/CS2饰品市场",
-      "status": "身份与题材已核实；近期适配、私信历史待核",
+      "status": "暂不优先；近60天活跃待核，本轮未发邀请",
       "sources": [
         {
           "title": "steam搬砖项目最新市场行情状态，steam搬砖靠谱吗",
@@ -65,28 +160,107 @@
           "url": "https://www.bilibili.com/video/BV1bm411z78s/",
           "published_at": "2024-04-02T13:33:18+08:00"
         }
-      ]
+      ],
+      "recent_review": {
+        "name": "雨说新客",
+        "uid": "2020430835",
+        "recent_status": "unverified_access_limited",
+        "recent_window": {
+          "start": "2026-09-11",
+          "end": "2026-11-10"
+        },
+        "recent_related_content_confirmed": false,
+        "recent_statement": "近期持续制作情况未核实；主页列表返回验证码，不等于停更。",
+        "suitability_label": "暂不优先",
+        "suitability_reason": "已核历史样本偏Steam搬砖项目与市场行情，尚无当前放置/策略游戏试玩证据；不能由市场相关推定愿意做玩法试玩。",
+        "suitability_basis": "基于已核作品及明确标注的一手索引线索作初步判断；不代表完整近期投稿审查。",
+        "sources": [
+          {
+            "title": "steam搬砖项目最新市场行情状态，steam搬砖靠谱吗",
+            "url": "https://www.bilibili.com/video/BV1iT411t7ME/",
+            "published_at": "2023-05-17T13:33:58+08:00",
+            "evidence_type": "previously_verified_work_owner",
+            "uid_verified": true
+          },
+          {
+            "title": "steam搬砖项目还能做吗，steam搬砖靠谱吗",
+            "url": "https://www.bilibili.com/video/BV1bm411z78s/",
+            "published_at": "2024-04-02T13:33:18+08:00",
+            "evidence_type": "previously_verified_work_owner",
+            "uid_verified": true
+          }
+        ],
+        "invitation_ready": false,
+        "sent": 0,
+        "limitations": [
+          "没有取得完整近期投稿列表；没有搜索到新作品不证明没有更新。",
+          "本轮未发送邀请或改发送状态；私信历史仍待核。"
+        ],
+        "checked_at": "2026-11-10T10:47:52.318720+08:00",
+        "ready_to_send": false,
+        "suitability_group": "low_priority_for_current_demo"
+      }
     },
     {
       "name": "Colddagger",
       "uid": "14881766",
       "profile_url": "https://space.bilibili.com/14881766",
       "category": "Steam挂卡及社区市场出售",
-      "status": "身份与题材已核实；近期适配、私信历史待核",
+      "status": "历史试玩线索待确认；近60天活跃待核，本轮未发邀请",
       "sources": [
         {
           "title": "教你十元可以获得26款steam游戏，挂卡之后不仅回本还有的赚",
           "url": "https://www.bilibili.com/video/BV1tW411q7pJ/",
           "published_at": "2018-01-14T22:02:43+08:00"
         }
-      ]
+      ],
+      "recent_review": {
+        "name": "Colddagger",
+        "uid": "14881766",
+        "recent_status": "unverified_access_limited",
+        "recent_window": {
+          "start": "2026-09-11",
+          "end": "2026-11-10"
+        },
+        "recent_related_content_confirmed": false,
+        "recent_statement": "近期持续制作情况未核实；主页列表返回验证码，不等于停更。",
+        "suitability_label": "历史试玩线索待确认",
+        "suitability_reason": "已核同UID样本为挂卡；另有署名Colddagger的2020年Space Crew策略试玩索引，可作为玩法方向复核线索，但该条UID及当前活跃度均未核实，暂不能判定适配。",
+        "suitability_basis": "基于已核作品及明确标注的一手索引线索作初步判断；不代表完整近期投稿审查。",
+        "sources": [
+          {
+            "title": "教你十元可以获得26款steam游戏，挂卡之后不仅回本还有的赚",
+            "url": "https://www.bilibili.com/video/BV1tW411q7pJ/",
+            "published_at": "2018-01-14T22:02:43+08:00",
+            "evidence_type": "previously_verified_work_owner",
+            "uid_verified": true
+          },
+          {
+            "title": "【10月新游试玩】手忙脚乱差点翻车——太空探索策略游戏《星际小队（Space Crew）》体验",
+            "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E7%A9%BA%E7%AD%96%E7%95%A5%E6%B8%B8%E6%88%8F",
+            "published_at": "2020-10-19",
+            "evidence_type": "first_party_search_index",
+            "uid_verified": false,
+            "limitation": "搜索索引作者名Colddagger；没有直达BVID，不作为新增UID已核作品或近期活动证明。"
+          }
+        ],
+        "invitation_ready": false,
+        "sent": 0,
+        "limitations": [
+          "没有取得完整近期投稿列表；没有搜索到新作品不证明没有更新。",
+          "本轮未发送邀请或改发送状态；私信历史仍待核。"
+        ],
+        "checked_at": "2026-11-10T10:47:52.318720+08:00",
+        "ready_to_send": false,
+        "suitability_group": "topic_or_historical_lead"
+      }
     },
     {
       "name": "好游助手",
       "uid": "1262499771",
       "profile_url": "https://space.bilibili.com/1262499771",
       "category": "Steam市场/挂卡/掉落题材",
-      "status": "作品作者身份与UID已核；近期适配及私信历史待核，本轮未发邀请",
+      "status": "暂不优先；近60天活跃待核，本轮未发邀请",
       "sources": [
         {
           "title": "steam新手市场使用教程",
@@ -98,14 +272,48 @@
       "limitations": [
         "本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。",
         "收益标题是作者自述，不是本作收益承诺。"
-      ]
+      ],
+      "recent_review": {
+        "recent_status": "unverified_access_limited",
+        "recent_window": {
+          "start": "2026-09-11",
+          "end": "2026-11-10"
+        },
+        "recent_related_content_confirmed": false,
+        "recent_statement": "近60天是否仍持续制作相关内容未核实；主页列表返回验证码，不能据此认定停更。",
+        "invitation_ready": false,
+        "sent": 0,
+        "limitations": [
+          "未取得完整近期投稿列表；搜索抓取时间不是发布日期。",
+          "本轮不发邀请；私信历史仍待核。"
+        ],
+        "name": "好游助手",
+        "uid": "1262499771",
+        "suitability_label": "暂不优先",
+        "suitability_reason": "2026年5月单稿及作品页本人简介仍偏Steam工具、家庭共享与网吧游戏服务；尚无放置、阵容构筑或独游试玩证据，与当前Demo试玩重点匹配较弱。",
+        "sources": [
+          {
+            "title": "steam如何白嫖朋友的游戏",
+            "url": "https://www.bilibili.com/video/BV1KB5C6TEEW/",
+            "published_at": "2026-05-19T20:00:00+08:00",
+            "owner_uid": "1262499771",
+            "uid_verified": true,
+            "evidence_type": "direct_initial_state_owner",
+            "sha256": "9b7a787c9b5361bbdf110b77b0940ee3adef11bf73b6bad24b3ead97a06517eb"
+          }
+        ],
+        "checked_at": "2026-11-10T10:47:52.318720+08:00",
+        "suitability_basis": "基于已核作品及明确标注的一手索引线索作初步判断；不代表完整近期投稿审查。",
+        "ready_to_send": false,
+        "suitability_group": "low_priority_for_current_demo"
+      }
     },
     {
       "name": "蔬菜拉面是个老实人",
       "uid": "170138227",
       "profile_url": "https://space.bilibili.com/170138227",
       "category": "Steam市场/挂卡/掉落题材",
-      "status": "作品作者身份与UID已核；近期适配及私信历史待核，本轮未发邀请",
+      "status": "证据不足，暂缓；近60天活跃待核，本轮未发邀请",
       "sources": [
         {
           "title": "steam挂卡:你可能不知道的小技巧",
@@ -117,14 +325,46 @@
       "limitations": [
         "本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。",
         "收益标题是作者自述，不是本作收益承诺。"
-      ]
+      ],
+      "recent_review": {
+        "name": "蔬菜拉面是个老实人",
+        "uid": "170138227",
+        "recent_status": "unverified_access_limited",
+        "recent_window": {
+          "start": "2026-09-11",
+          "end": "2026-11-10"
+        },
+        "recent_related_content_confirmed": false,
+        "recent_statement": "近期持续制作情况未核实；主页列表返回验证码，不等于停更。",
+        "suitability_label": "证据不足，暂缓",
+        "suitability_reason": "仅有2022年Steam挂卡技巧样本，可确认市场工具题材，不能支持目前持续更新或当前Demo玩法适配。",
+        "suitability_basis": "基于已核作品及明确标注的一手索引线索作初步判断；不代表完整近期投稿审查。",
+        "sources": [
+          {
+            "title": "steam挂卡:你可能不知道的小技巧",
+            "url": "https://www.bilibili.com/video/BV153411X7vy/",
+            "published_at": "2022-12-28T23:00:00+08:00",
+            "evidence_type": "previously_verified_work_owner",
+            "uid_verified": true
+          }
+        ],
+        "invitation_ready": false,
+        "sent": 0,
+        "limitations": [
+          "没有取得完整近期投稿列表；没有搜索到新作品不证明没有更新。",
+          "本轮未发送邀请或改发送状态；私信历史仍待核。"
+        ],
+        "checked_at": "2026-11-10T10:47:52.318720+08:00",
+        "ready_to_send": false,
+        "suitability_group": "insufficient_evidence"
+      }
     },
     {
       "name": "大星项目说",
       "uid": "3546585522767963",
       "profile_url": "https://space.bilibili.com/3546585522767963",
       "category": "Steam市场/挂卡/掉落题材",
-      "status": "作品作者身份与UID已核；近期适配及私信历史待核，本轮未发邀请",
+      "status": "暂不优先；近60天活跃待核，本轮未发邀请",
       "sources": [
         {
           "title": "5分钟教会你，如何利用steam赚钱",
@@ -136,14 +376,56 @@
       "limitations": [
         "本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。",
         "收益标题是作者自述，不是本作收益承诺。"
-      ]
+      ],
+      "recent_review": {
+        "name": "大星项目说",
+        "uid": "3546585522767963",
+        "recent_status": "unverified_access_limited",
+        "recent_window": {
+          "start": "2026-09-11",
+          "end": "2026-11-10"
+        },
+        "recent_related_content_confirmed": false,
+        "recent_statement": "近期持续制作情况未核实；主页列表返回验证码，不等于停更。",
+        "suitability_label": "暂不优先",
+        "suitability_reason": "本人公开简介及已核作品偏礼品卡与Steam搬砖项目，尚未取得独游玩法试玩证据；与当前Demo的放置战斗、养成构筑诉求匹配较弱。",
+        "suitability_basis": "基于已核作品及明确标注的一手索引线索作初步判断；不代表完整近期投稿审查。",
+        "sources": [
+          {
+            "title": "5分钟教会你，如何利用steam赚钱",
+            "url": "https://www.bilibili.com/video/BV1yNUHYfE7b/",
+            "published_at": "2024-11-18T16:08:40+08:00",
+            "evidence_type": "previously_verified_work_owner",
+            "uid_verified": true
+          },
+          {
+            "title": "如何收低价steam礼品卡？!在n网p网收礼品卡有啥优势？",
+            "url": "https://www.bilibili.com/video/BV1vG411q7nF/",
+            "published_at": "2024-01-04T14:56:30+08:00",
+            "raw_file": "output/steam-market-recent-20261110/BV1vG411q7nF-additional.html",
+            "sha256": "1f57b448edcfbcf793f157ed4d5a0d69e73e15568fb4b8004a3e413888c3e101",
+            "evidence_type": "direct_initial_state_owner",
+            "uid_verified": true,
+            "owner_mid": "3546585522767963"
+          }
+        ],
+        "invitation_ready": false,
+        "sent": 0,
+        "limitations": [
+          "没有取得完整近期投稿列表；没有搜索到新作品不证明没有更新。",
+          "本轮未发送邀请或改发送状态；私信历史仍待核。"
+        ],
+        "checked_at": "2026-11-10T10:47:52.318720+08:00",
+        "ready_to_send": false,
+        "suitability_group": "low_priority_for_current_demo"
+      }
     },
     {
       "name": "小代游戏日记",
       "uid": "188423979",
       "profile_url": "https://space.bilibili.com/188423979",
       "category": "Steam市场/挂卡/掉落题材",
-      "status": "作品作者身份与UID已核；近期适配及私信历史待核，本轮未发邀请",
+      "status": "优先复核玩法适配；近60天活跃待核，本轮未发邀请",
       "sources": [
         {
           "title": "steam上卖鸡蛋？《Egg》一个鸡蛋￥2？",
@@ -155,14 +437,65 @@
       "limitations": [
         "本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。",
         "收益标题是作者自述，不是本作收益承诺。"
-      ]
+      ],
+      "recent_review": {
+        "recent_status": "unverified_access_limited",
+        "recent_window": {
+          "start": "2026-09-11",
+          "end": "2026-11-10"
+        },
+        "recent_related_content_confirmed": false,
+        "recent_statement": "近60天是否仍持续制作相关内容未核实；主页列表返回验证码，不能据此认定停更。",
+        "invitation_ready": false,
+        "sent": 0,
+        "limitations": [
+          "未取得完整近期投稿列表；搜索抓取时间不是发布日期。",
+          "本轮不发邀请；私信历史仍待核。"
+        ],
+        "name": "小代游戏日记",
+        "uid": "188423979",
+        "suitability_label": "优先复核玩法适配",
+        "suitability_reason": "同UID已核《巨人杀手：暗黑之潮》入坑、机制和流派指南，比纯市场号更接近本作养成与构筑讲解；另有IdleOn放置题材、ForgeTax流派稿的一手索引线索。近期及原创试玩比例还需核实，暂不列可发送。",
+        "sources": [
+          {
+            "title": "【巨人杀手：暗黑之潮】入坑指南 基础玩法、核心机制、新手流派推荐、以及实用技巧",
+            "url": "https://www.bilibili.com/video/BV1HNqZBdESs/",
+            "published_at": "2025-12-19T19:59:12+08:00",
+            "owner_uid": "188423979",
+            "uid_verified": true,
+            "evidence_type": "direct_initial_state_owner",
+            "sha256": "62fd9c9b5d71c0f54c1a27c0802783689dad66f494f21e4e556e529cc0d40dc6"
+          },
+          {
+            "title": "《IdleOn》像素画风放置类MMO挂机游戏",
+            "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%94%BE%E7%BD%AE%E7%B1%BBPC%E6%B8%B8%E6%88%8F",
+            "published_at": "2024-05-30",
+            "uid_verified": false,
+            "evidence_type": "first_party_search_index",
+            "limitation": "索引作者名小代游戏日记；该条UID未独立核对，不作为已核同UID作品。"
+          },
+          {
+            "title": "【铸剑大师】forgetax遗物流派玩法盘点！开始肉鸽赛博锻刀吧！",
+            "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%85%A8%E7%86%94%E9%93%B8",
+            "published_at": null,
+            "displayed_date": "10月10日（年份未显示）",
+            "uid_verified": false,
+            "evidence_type": "first_party_search_index",
+            "limitation": "索引作者名匹配，但未取得直达BVID、UID及年份；不计近60天已确认投稿。"
+          }
+        ],
+        "checked_at": "2026-11-10T10:47:52.318720+08:00",
+        "suitability_basis": "基于已核作品及明确标注的一手索引线索作初步判断；不代表完整近期投稿审查。",
+        "ready_to_send": false,
+        "suitability_group": "priority_recheck"
+      }
     },
     {
       "name": "Cs散修",
       "uid": "403883234",
       "profile_url": "https://space.bilibili.com/403883234",
       "category": "Steam市场/挂卡/掉落题材",
-      "status": "历史作者身份已核，当前作品访问待复核；本轮未发邀请",
+      "status": "暂不优先，近期与访问均待核；近60天活跃待核，本轮未发邀请",
       "sources": [
         {
           "title": "steam最全搬砖教学",
@@ -174,14 +507,46 @@
       "limitations": [
         "作者名与UID来自该作品一手历史页面及作者链接；当前接口未返回有效详情，不能确认当前作品可访问，不推断删除或限制原因。 本轮未发送邀请；近期适配和私信历史仍待核查。",
         "收益标题是作者自述，不是本作收益承诺。"
-      ]
+      ],
+      "recent_review": {
+        "name": "Cs散修",
+        "uid": "403883234",
+        "recent_status": "unverified_access_limited",
+        "recent_window": {
+          "start": "2026-09-11",
+          "end": "2026-11-10"
+        },
+        "recent_related_content_confirmed": false,
+        "recent_statement": "近期持续制作情况未核实；主页列表返回验证码，不等于停更。",
+        "suitability_label": "暂不优先，近期与访问均待核",
+        "suitability_reason": "历史作品偏CS/Steam市场教学；当前作品访问未复核成功，暂无放置构筑试玩证据，不推断作品删除、停更或访问异常原因。",
+        "suitability_basis": "基于已核作品及明确标注的一手索引线索作初步判断；不代表完整近期投稿审查。",
+        "sources": [
+          {
+            "title": "steam最全搬砖教学",
+            "url": "https://www.bilibili.com/video/BV19rpRzpEDy/",
+            "published_at": "2025-09-20T20:27:20+08:00",
+            "evidence_type": "historical_first_party_author_link",
+            "uid_verified": true
+          }
+        ],
+        "invitation_ready": false,
+        "sent": 0,
+        "limitations": [
+          "没有取得完整近期投稿列表；没有搜索到新作品不证明没有更新。",
+          "本轮未发送邀请或改发送状态；私信历史仍待核。"
+        ],
+        "checked_at": "2026-11-10T10:47:52.318720+08:00",
+        "ready_to_send": false,
+        "suitability_group": "low_priority_for_current_demo"
+      }
     },
     {
       "name": "JaredMcCain8",
       "uid": "363075597",
       "profile_url": "https://space.bilibili.com/363075597",
       "category": "Steam市场/挂卡/掉落题材",
-      "status": "作品作者身份与UID已核；近期适配及私信历史待核，本轮未发邀请",
+      "status": "证据不足，暂缓；近60天活跃待核，本轮未发邀请",
       "sources": [
         {
           "title": "Banana挂时长，掉落香蕉可在Steam市场交易",
@@ -193,14 +558,48 @@
       "limitations": [
         "本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。",
         "收益标题是作者自述，不是本作收益承诺。"
-      ]
+      ],
+      "recent_review": {
+        "recent_status": "unverified_access_limited",
+        "recent_window": {
+          "start": "2026-09-11",
+          "end": "2026-11-10"
+        },
+        "recent_related_content_confirmed": false,
+        "recent_statement": "近60天是否仍持续制作相关内容未核实；主页列表返回验证码，不能据此认定停更。",
+        "invitation_ready": false,
+        "sent": 0,
+        "limitations": [
+          "未取得完整近期投稿列表；搜索抓取时间不是发布日期。",
+          "本轮不发邀请；私信历史仍待核。"
+        ],
+        "name": "JaredMcCain8",
+        "uid": "363075597",
+        "suitability_label": "证据不足，暂缓",
+        "suitability_reason": "此前仅核到2024年Banana单稿；本轮PS课程页发布者字段确认同UID，但课程已完结且无发布日期，不能证明近期仍做游戏内容，当前Demo试玩适配证据不足。",
+        "sources": [
+          {
+            "title": "ps课程（已完结）",
+            "url": "https://www.bilibili.com/cheese/play/ep901198",
+            "published_at": null,
+            "owner_uid": "363075597",
+            "uid_verified": true,
+            "evidence_type": "direct_course_up_info_mid",
+            "limitation": "没有可核发布日期；课程页仍可访问不代表近期更新。"
+          }
+        ],
+        "checked_at": "2026-11-10T10:47:52.318720+08:00",
+        "suitability_basis": "基于已核作品及明确标注的一手索引线索作初步判断；不代表完整近期投稿审查。",
+        "ready_to_send": false,
+        "suitability_group": "insufficient_evidence"
+      }
     },
     {
       "name": "朋克玩游戏",
       "uid": "49727546",
       "profile_url": "https://space.bilibili.com/49727546",
       "category": "Steam市场/挂卡/掉落题材",
-      "status": "作品作者身份与UID已核；近期适配及私信历史待核，本轮未发邀请",
+      "status": "优先复核游戏推荐适配；近60天活跃待核，本轮未发邀请",
       "sources": [
         {
           "title": "Steam超级喜加一！你从未见过的理财游戏！赶紧入库掉落属于你的理财香蕉吧！",
@@ -212,11 +611,93 @@
       "limitations": [
         "本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。",
         "收益标题是作者自述，不是本作收益承诺。"
-      ]
+      ],
+      "recent_review": {
+        "recent_status": "unverified_access_limited",
+        "recent_window": {
+          "start": "2026-09-11",
+          "end": "2026-11-10"
+        },
+        "recent_related_content_confirmed": false,
+        "recent_statement": "近60天是否仍持续制作相关内容未核实；主页列表返回验证码，不能据此认定停更。",
+        "invitation_ready": false,
+        "sent": 0,
+        "limitations": [
+          "未取得完整近期投稿列表；搜索抓取时间不是发布日期。",
+          "本轮不发邀请；私信历史仍待核。"
+        ],
+        "name": "朋克玩游戏",
+        "uid": "49727546",
+        "suitability_label": "优先复核游戏推荐适配",
+        "suitability_reason": "2026年7月至8月同UID单稿确认仍有游戏资讯、免费领取和更新提醒方向，适合先核查免费Demo推荐意愿；尚无当前放置构筑试玩证据，不能把喜加一资讯等同深度试玩。",
+        "sources": [
+          {
+            "title": "能让中国玩家(包括蛋king）圆梦major冠军的游戏重磅嗯嗯嗯！",
+            "url": "https://www.bilibili.com/video/BV13NNE6nENH/",
+            "published_at": "2026-07-10T14:49:37+08:00",
+            "owner_uid": "49727546",
+            "uid_verified": true,
+            "evidence_type": "direct_initial_state_owner",
+            "sha256": "6cf3a97ac135fa1bf4c1f8152575952a291e4c5dbb5d9cd894f5ac05d7057291"
+          },
+          {
+            "title": "超级重磅喜加一！你的AI女友来了！国内大厂米哈游出品！特别好评！后续更新我也会准时提醒！",
+            "url": "https://www.bilibili.com/video/BV16jN261EwN/",
+            "published_at": "2026-07-13T23:00:20+08:00",
+            "owner_uid": "49727546",
+            "uid_verified": true,
+            "evidence_type": "direct_initial_state_owner",
+            "sha256": "4cd1df5e3b82c3fbb4c58cb5934501c495cc5a002537a0f8af7dd1d6a8ed4324"
+          },
+          {
+            "title": "高质量限时嗯嗯嗯！获奖无数！支持中文！",
+            "url": "https://www.bilibili.com/video/BV1tJNo6sEeJ/",
+            "published_at": "2026-07-18T01:22:13+08:00",
+            "owner_uid": "49727546",
+            "uid_verified": true,
+            "evidence_type": "direct_initial_state_owner",
+            "sha256": "8132a33f96f0e3ac920529fa72fd13f61d1ab6cdb1152af2eb8f045842eae316"
+          },
+          {
+            "title": "坏消息ai女友要离开我们！好消息可以限时永久保留！记得关注！我会准时提醒！",
+            "url": "https://www.bilibili.com/video/BV1MwgV61E7A/",
+            "published_at": "2026-08-12T14:59:35+08:00",
+            "owner_uid": "49727546",
+            "uid_verified": true,
+            "evidence_type": "direct_initial_state_owner",
+            "sha256": "0a202fb63dc95f341ab0734db558f6761d0651628c66de7d61a54411e2f3f255"
+          }
+        ],
+        "checked_at": "2026-11-10T10:47:52.318720+08:00",
+        "suitability_basis": "基于已核作品及明确标注的一手索引线索作初步判断；不代表完整近期投稿审查。",
+        "ready_to_send": false,
+        "suitability_group": "priority_recheck"
+      }
     }
   ],
   "unverified_work_leads": [],
   "resolved_work_leads_count": 7,
   "current_work_owner_verified": 6,
-  "historical_page_owner_verified": 1
+  "historical_page_owner_verified": 1,
+  "recent_review": {
+    "checked_at": "2026-11-10T10:47:52.318720+08:00",
+    "window": {
+      "start": "2026-09-11",
+      "end": "2026-11-10"
+    },
+    "total_creators": 11,
+    "recent_related_content_confirmed": 0,
+    "recent_unverified": 11,
+    "fit_groups": {
+      "priority_recheck": 2,
+      "topic_or_historical_lead": 2,
+      "low_priority_for_current_demo": 5,
+      "insufficient_evidence": 2
+    },
+    "recent_status_note": "当前没有取得任何一位近60天、作者UID和完整发布日期同时核实的相关投稿；这是核查限制，不是11位均停更的结论。",
+    "fit_basis": "以当前Demo的放置战斗、英雄养成与阵容构筑为试玩适配标准。市场题材兴趣另外保留；收益类标题不作本作收益承诺。",
+    "sent": 0,
+    "invitation_queue_modified": false,
+    "profile_list_access": "11个公开投稿列表均返回验证码页面；未重试此前限流的近期API，未绕过验证。"
+  }
 }
