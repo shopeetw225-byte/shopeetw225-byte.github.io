@@ -1335,6 +1335,17 @@
       "category": "试玩邀请",
       "text": "补充向1位 B站创作者发送试玩邀请；本批跳过0位，待发30位。",
       "url": "/creators/creator-outreach-20261109.html#supplement"
+    },
+    {
+      "date": "2026-11-09",
+      "category": "Steam 素材",
+      "text": "录制并整理 Steam 商店新版三语截图与实机动图，制作新版主预告片和精简宣传片。"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "宣传调研",
+      "text": "整理 Steam 市场与挂机题材的4位待预核账号及7条未核实作者的作品线索。",
+      "url": "/creators/steam-market-mining-20261110.html"
     }
   ]
 }

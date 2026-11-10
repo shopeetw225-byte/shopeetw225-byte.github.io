@@ -1,0 +1,122 @@
+{
+  "research_date": "2026-11-09",
+  "updated_date": "2026-11-10",
+  "verified_identity_and_topic": 4,
+  "unverified_work_leads_count": 7,
+  "sent": 0,
+  "creators": [
+    {
+      "name": "十二斤的史迪仔",
+      "uid": "123174211",
+      "profile_url": "https://space.bilibili.com/123174211",
+      "category": "Steam掉落/挂机与市场余额",
+      "status": "身份与题材已核实；近期适配、私信历史待核",
+      "sources": [
+        {
+          "title": "挂香蕉！steam游戏banana挂香蕉竟然真的能赚？",
+          "url": "https://www.bilibili.com/video/BV1Zf421D7zy/",
+          "published_at": "2024-06-10T22:54:57+08:00"
+        },
+        {
+          "title": "快速获得7.9-8折余额方法——冬促卡牌倒余额",
+          "url": "https://www.bilibili.com/video/BV1WrmdBUEFN/",
+          "published_at": "2025-12-13T18:33:47+08:00"
+        }
+      ]
+    },
+    {
+      "name": "众鑫微客",
+      "uid": "601188852",
+      "profile_url": "https://space.bilibili.com/601188852",
+      "category": "Steam市场搬砖",
+      "status": "身份与题材已核实；近期适配、私信历史待核",
+      "sources": [
+        {
+          "title": "steam搬砖项目日常更新，普通人也能一个月6000+",
+          "url": "https://www.bilibili.com/video/BV1t8411g7Hk/",
+          "published_at": "2023-02-02T23:14:07+08:00"
+        },
+        {
+          "title": "steam游戏搬砖项目，稳定5年多，最稳玩法",
+          "url": "https://www.bilibili.com/video/BV1DG4LzCEK1/",
+          "published_at": "2025-10-10T03:13:19+08:00"
+        },
+        {
+          "title": "steam游戏搬砖，做了5年，一直稳定",
+          "url": "https://www.bilibili.com/video/BV1hzWRzmE5i/",
+          "published_at": "2025-10-22T00:09:33+08:00"
+        }
+      ]
+    },
+    {
+      "name": "雨说新客",
+      "uid": "2020430835",
+      "profile_url": "https://space.bilibili.com/2020430835",
+      "category": "Steam/CS2饰品市场",
+      "status": "身份与题材已核实；近期适配、私信历史待核",
+      "sources": [
+        {
+          "title": "steam搬砖项目最新市场行情状态，steam搬砖靠谱吗",
+          "url": "https://www.bilibili.com/video/BV1iT411t7ME/",
+          "published_at": "2023-05-17T13:33:58+08:00"
+        },
+        {
+          "title": "steam搬砖项目还能做吗，steam搬砖靠谱吗",
+          "url": "https://www.bilibili.com/video/BV1bm411z78s/",
+          "published_at": "2024-04-02T13:33:18+08:00"
+        }
+      ]
+    },
+    {
+      "name": "Colddagger",
+      "uid": "14881766",
+      "profile_url": "https://space.bilibili.com/14881766",
+      "category": "Steam挂卡及社区市场出售",
+      "status": "身份与题材已核实；近期适配、私信历史待核",
+      "sources": [
+        {
+          "title": "教你十元可以获得26款steam游戏，挂卡之后不仅回本还有的赚",
+          "url": "https://www.bilibili.com/video/BV1tW411q7pJ/",
+          "published_at": "2018-01-14T22:02:43+08:00"
+        }
+      ]
+    }
+  ],
+  "unverified_work_leads": [
+    {
+      "title": "steam新手市场使用教程",
+      "url": "https://www.bilibili.com/video/BV1UyUsBuEeW/",
+      "status": "作者与UID未核实，不计候选人数"
+    },
+    {
+      "title": "steam挂卡：你可能不知道的小技巧",
+      "url": "https://www.bilibili.com/video/BV153411X7vy/",
+      "status": "作者与UID未核实，不计候选人数"
+    },
+    {
+      "title": "5分钟教会你如何利用steam赚钱",
+      "url": "https://www.bilibili.com/video/BV1yNUHYfE7b/",
+      "status": "作者与UID未核实，不计候选人数"
+    },
+    {
+      "title": "steam上卖鸡蛋？Egg",
+      "url": "https://www.bilibili.com/video/BV1SZ421W7Eo/",
+      "status": "作者与UID未核实，不计候选人数"
+    },
+    {
+      "title": "steam最全搬砖教学",
+      "url": "https://www.bilibili.com/video/BV19rpRzpEDy/",
+      "status": "作者与UID未核实，不计候选人数"
+    },
+    {
+      "title": "Banana挂时长，掉落香蕉可在Steam市场交易",
+      "url": "https://www.bilibili.com/video/BV1eS411P7hJ/",
+      "status": "作者与UID未核实，不计候选人数"
+    },
+    {
+      "title": "Steam理财掉落游戏线索",
+      "url": "https://www.bilibili.com/video/BV11t421K71C/",
+      "status": "作者与UID未核实，不计候选人数"
+    }
+  ]
+}
