@@ -1370,6 +1370,12 @@
       "category": "Steam 商品页",
       "text": "更新正式版商店十语素材：替换三语主预告片和精简片、实机截图及详情页动图。",
       "url": "/?work=steam-main-trailer"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "海外宣发",
+      "text": "通过 Indie Game Fans 官网表单补投游戏介绍与试玩资料。",
+      "url": "/?work=overseas-platform-indie-game-fans"
     }
   ]
 }

@@ -541,10 +541,10 @@
       "country": "全球",
       "name": "Indie Game Fans",
       "url": "https://indiegamefans.com/contact-us/",
-      "contact": "editor@indiegamefans.com",
+      "contact": "官网联系表单 · Indie Game Coverage",
       "contact_source": "https://indiegamefans.com/contact-us/",
-      "note": "2026-11-09邮件投稿遭收件服务器550 5.4.1拒收，未送达。",
-      "limits": "不计成功申请；不重复重发。官网表单尚未核查。费用0元。"
+      "note": "2026-11-10已通过官网表单补投，页面确认收到。",
+      "limits": "此前邮箱退信保留；目前待编辑回复，未保证报道。费用0元。"
     },
     {
       "country": "日本／全球",
@@ -556,5 +556,5 @@
       "limits": "支出0元，已投稿不等于已获报道；待编辑决定。"
     }
   ],
-  "platform_setup_status": "2026-11-10已核查：PlayBridge仍0人报名；Partnier活动运行但未开放申请；PressEngine邀请早已收到，后台需登录；其他已投稿渠道暂未查到新回复，Indie Game Fans保留退信。"
+  "platform_setup_status": "2026-11-10已核查：PlayBridge仍0人报名；Partnier活动运行但未开放申请；PressEngine邀请早已收到，后台需登录；其他已投稿渠道暂未查到新回复，Indie Game Fans保留退信。 11月10日Indie Game Fans官网表单已成功补投。"
 }
