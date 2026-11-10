@@ -1,8 +1,8 @@
 {
   "research_date": "2026-11-09",
   "updated_date": "2026-11-10",
-  "verified_identity_and_topic": 4,
-  "unverified_work_leads_count": 7,
+  "verified_identity_and_topic": 11,
+  "unverified_work_leads_count": 0,
   "sent": 0,
   "creators": [
     {
@@ -80,43 +80,143 @@
           "published_at": "2018-01-14T22:02:43+08:00"
         }
       ]
+    },
+    {
+      "name": "好游助手",
+      "uid": "1262499771",
+      "profile_url": "https://space.bilibili.com/1262499771",
+      "category": "Steam市场/挂卡/掉落题材",
+      "status": "作品作者身份与UID已核；近期适配及私信历史待核，本轮未发邀请",
+      "sources": [
+        {
+          "title": "steam新手市场使用教程",
+          "url": "https://www.bilibili.com/video/BV1UyUsBuEeW/",
+          "published_at": "2025-11-22T17:55:17+08:00"
+        }
+      ],
+      "verification_scope": "current_work_owner_field",
+      "limitations": [
+        "本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。",
+        "收益标题是作者自述，不是本作收益承诺。"
+      ]
+    },
+    {
+      "name": "蔬菜拉面是个老实人",
+      "uid": "170138227",
+      "profile_url": "https://space.bilibili.com/170138227",
+      "category": "Steam市场/挂卡/掉落题材",
+      "status": "作品作者身份与UID已核；近期适配及私信历史待核，本轮未发邀请",
+      "sources": [
+        {
+          "title": "steam挂卡:你可能不知道的小技巧",
+          "url": "https://www.bilibili.com/video/BV153411X7vy/",
+          "published_at": "2022-12-28T23:00:00+08:00"
+        }
+      ],
+      "verification_scope": "current_work_owner_field",
+      "limitations": [
+        "本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。",
+        "收益标题是作者自述，不是本作收益承诺。"
+      ]
+    },
+    {
+      "name": "大星项目说",
+      "uid": "3546585522767963",
+      "profile_url": "https://space.bilibili.com/3546585522767963",
+      "category": "Steam市场/挂卡/掉落题材",
+      "status": "作品作者身份与UID已核；近期适配及私信历史待核，本轮未发邀请",
+      "sources": [
+        {
+          "title": "5分钟教会你，如何利用steam赚钱",
+          "url": "https://www.bilibili.com/video/BV1yNUHYfE7b/",
+          "published_at": "2024-11-18T16:08:40+08:00"
+        }
+      ],
+      "verification_scope": "current_work_owner_field",
+      "limitations": [
+        "本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。",
+        "收益标题是作者自述，不是本作收益承诺。"
+      ]
+    },
+    {
+      "name": "小代游戏日记",
+      "uid": "188423979",
+      "profile_url": "https://space.bilibili.com/188423979",
+      "category": "Steam市场/挂卡/掉落题材",
+      "status": "作品作者身份与UID已核；近期适配及私信历史待核，本轮未发邀请",
+      "sources": [
+        {
+          "title": "steam上卖鸡蛋？《Egg》一个鸡蛋￥2？",
+          "url": "https://www.bilibili.com/video/BV1SZ421W7Eo/",
+          "published_at": "2024-05-28T07:04:17+08:00"
+        }
+      ],
+      "verification_scope": "current_work_owner_field",
+      "limitations": [
+        "本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。",
+        "收益标题是作者自述，不是本作收益承诺。"
+      ]
+    },
+    {
+      "name": "Cs散修",
+      "uid": "403883234",
+      "profile_url": "https://space.bilibili.com/403883234",
+      "category": "Steam市场/挂卡/掉落题材",
+      "status": "历史作者身份已核，当前作品访问待复核；本轮未发邀请",
+      "sources": [
+        {
+          "title": "steam最全搬砖教学",
+          "url": "https://www.bilibili.com/video/BV19rpRzpEDy/",
+          "published_at": "2025-09-20T20:27:20+08:00"
+        }
+      ],
+      "verification_scope": "historical_work_author",
+      "limitations": [
+        "作者名与UID来自该作品一手历史页面及作者链接；当前接口未返回有效详情，不能确认当前作品可访问，不推断删除或限制原因。 本轮未发送邀请；近期适配和私信历史仍待核查。",
+        "收益标题是作者自述，不是本作收益承诺。"
+      ]
+    },
+    {
+      "name": "JaredMcCain8",
+      "uid": "363075597",
+      "profile_url": "https://space.bilibili.com/363075597",
+      "category": "Steam市场/挂卡/掉落题材",
+      "status": "作品作者身份与UID已核；近期适配及私信历史待核，本轮未发邀请",
+      "sources": [
+        {
+          "title": "Banana挂时长，掉落香蕉可在Steam市场交易",
+          "url": "https://www.bilibili.com/video/BV1eS411P7hJ/",
+          "published_at": "2024-06-08T12:02:53+08:00"
+        }
+      ],
+      "verification_scope": "current_work_owner_field",
+      "limitations": [
+        "本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。",
+        "收益标题是作者自述，不是本作收益承诺。"
+      ]
+    },
+    {
+      "name": "朋克玩游戏",
+      "uid": "49727546",
+      "profile_url": "https://space.bilibili.com/49727546",
+      "category": "Steam市场/挂卡/掉落题材",
+      "status": "作品作者身份与UID已核；近期适配及私信历史待核，本轮未发邀请",
+      "sources": [
+        {
+          "title": "Steam超级喜加一！你从未见过的理财游戏！赶紧入库掉落属于你的理财香蕉吧！",
+          "url": "https://www.bilibili.com/video/BV11t421K71C/",
+          "published_at": "2024-05-23T11:37:04+08:00"
+        }
+      ],
+      "verification_scope": "current_work_owner_field",
+      "limitations": [
+        "本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。",
+        "收益标题是作者自述，不是本作收益承诺。"
+      ]
     }
   ],
-  "unverified_work_leads": [
-    {
-      "title": "steam新手市场使用教程",
-      "url": "https://www.bilibili.com/video/BV1UyUsBuEeW/",
-      "status": "作者与UID未核实，不计候选人数"
-    },
-    {
-      "title": "steam挂卡：你可能不知道的小技巧",
-      "url": "https://www.bilibili.com/video/BV153411X7vy/",
-      "status": "作者与UID未核实，不计候选人数"
-    },
-    {
-      "title": "5分钟教会你如何利用steam赚钱",
-      "url": "https://www.bilibili.com/video/BV1yNUHYfE7b/",
-      "status": "作者与UID未核实，不计候选人数"
-    },
-    {
-      "title": "steam上卖鸡蛋？Egg",
-      "url": "https://www.bilibili.com/video/BV1SZ421W7Eo/",
-      "status": "作者与UID未核实，不计候选人数"
-    },
-    {
-      "title": "steam最全搬砖教学",
-      "url": "https://www.bilibili.com/video/BV19rpRzpEDy/",
-      "status": "作者与UID未核实，不计候选人数"
-    },
-    {
-      "title": "Banana挂时长，掉落香蕉可在Steam市场交易",
-      "url": "https://www.bilibili.com/video/BV1eS411P7hJ/",
-      "status": "作者与UID未核实，不计候选人数"
-    },
-    {
-      "title": "Steam理财掉落游戏线索",
-      "url": "https://www.bilibili.com/video/BV11t421K71C/",
-      "status": "作者与UID未核实，不计候选人数"
-    }
-  ]
+  "unverified_work_leads": [],
+  "resolved_work_leads_count": 7,
+  "current_work_owner_verified": 6,
+  "historical_page_owner_verified": 1
 }
