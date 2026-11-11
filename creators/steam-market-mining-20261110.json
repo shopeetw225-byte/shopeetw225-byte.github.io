@@ -1,6 +1,6 @@
 {
   "research_date": "2026-11-09",
-  "updated_date": "2026-11-10",
+  "updated_date": "2026-11-11",
   "verified_identity_and_topic": 11,
   "unverified_work_leads_count": 0,
   "sent": 0,
@@ -61,6 +61,21 @@
         "checked_at": "2026-11-10T10:47:52.318720+08:00",
         "ready_to_send": false,
         "suitability_group": "topic_or_historical_lead"
+      },
+      "app_review_20261111": {
+        "uid": "123174211",
+        "name": "十二斤的史迪仔",
+        "checked_date": "2026-11-11",
+        "public_status": "近期内容或试玩适配不足，暂缓邀请",
+        "invitation_sent": false,
+        "followed": false,
+        "latest_post_date_or_display": "2025-12-13",
+        "latest_post_url": null,
+        "topic": "Banana drops and trading cards",
+        "date_precision": null,
+        "historical_gameplay_samples": [],
+        "public_limitations": null,
+        "ready_to_send": false
       }
     },
     {
@@ -141,6 +156,21 @@
         "checked_at": "2026-11-10T10:47:52.318720+08:00",
         "ready_to_send": false,
         "suitability_group": "low_priority_for_current_demo"
+      },
+      "app_review_20261111": {
+        "uid": "601188852",
+        "name": "众鑫微客",
+        "checked_date": "2026-11-11",
+        "public_status": "近期内容或试玩适配不足，暂缓邀请",
+        "invitation_sent": false,
+        "followed": false,
+        "latest_post_date_or_display": "05月18日 / 5-18",
+        "latest_post_url": null,
+        "topic": "CS/Steam搬砖项目；简介问卷+cs游戏搬砖；最新投稿列表8条同方向",
+        "date_precision": "App month/day display",
+        "historical_gameplay_samples": [],
+        "public_limitations": null,
+        "ready_to_send": false
       }
     },
     {
@@ -199,6 +229,21 @@
         "checked_at": "2026-11-10T10:47:52.318720+08:00",
         "ready_to_send": false,
         "suitability_group": "low_priority_for_current_demo"
+      },
+      "app_review_20261111": {
+        "uid": "2020430835",
+        "name": "雨说新客",
+        "checked_date": "2026-11-11",
+        "public_status": "近期内容或试玩适配不足，暂缓邀请",
+        "invitation_sent": false,
+        "followed": false,
+        "latest_post_date_or_display": "2024-5-27",
+        "latest_post_url": "https://www.bilibili.com/video/BV1Fs421G7Wo/",
+        "topic": "Steam/CS2搬砖项目和饰品选品",
+        "date_precision": null,
+        "historical_gameplay_samples": [],
+        "public_limitations": null,
+        "ready_to_send": false
       }
     },
     {
@@ -253,6 +298,37 @@
         "checked_at": "2026-11-10T10:47:52.318720+08:00",
         "ready_to_send": false,
         "suitability_group": "topic_or_historical_lead"
+      },
+      "app_review_20261111": {
+        "uid": "14881766",
+        "name": "Colddagger",
+        "checked_date": "2026-11-11",
+        "public_status": "已关注，待邀请；发送方式待确认",
+        "invitation_sent": false,
+        "followed": true,
+        "latest_post_date_or_display": "2026-10-07 16:03:07",
+        "latest_post_url": "https://www.bilibili.com/video/BV1wMpM6JE8q/",
+        "topic": "HB月包游戏推荐，含深岩银河幸存者；当前仍有单机游戏内容",
+        "date_precision": null,
+        "historical_gameplay_samples": [
+          {
+            "date": "2024-09-28",
+            "title": "轮椅护盾流国产肉鸽游戏《墨境》试玩实况",
+            "url": "https://www.bilibili.com/video/BV1xMxweqEsB/"
+          },
+          {
+            "date": "2024-07-27",
+            "title": "多分支解谜探案游戏《杀死影子》demo试玩实况",
+            "url": "https://www.bilibili.com/video/BV1Bf421v7QL/"
+          },
+          {
+            "date": "2023-10-23",
+            "title": "文明6+杀戮尖塔 帝王牌局：古国纷争试玩体验",
+            "url": "https://www.bilibili.com/video/BV1ke411R7P3/"
+          }
+        ],
+        "public_limitations": "旧试玩日期如实保留；10-07近期样本为推荐资讯，不能称近期长实况",
+        "ready_to_send": false
       }
     },
     {
@@ -699,5 +775,92 @@
     "sent": 0,
     "invitation_queue_modified": false,
     "profile_list_access": "11个公开投稿列表均返回验证码页面；未重试此前限流的近期API，未绕过验证。"
+  },
+  "latest_app_review": {
+    "date": "2026-11-11",
+    "checked": 4,
+    "recent_related_confirmed": 1,
+    "sent": 0,
+    "followed_pending_invitation": 1,
+    "deferred": 3,
+    "profiles": [
+      {
+        "uid": "123174211",
+        "name": "十二斤的史迪仔",
+        "checked_date": "2026-11-11",
+        "public_status": "近期内容或试玩适配不足，暂缓邀请",
+        "invitation_sent": false,
+        "followed": false,
+        "latest_post_date_or_display": "2025-12-13",
+        "latest_post_url": null,
+        "topic": "Banana drops and trading cards",
+        "date_precision": null,
+        "historical_gameplay_samples": [],
+        "public_limitations": null,
+        "ready_to_send": false
+      },
+      {
+        "uid": "601188852",
+        "name": "众鑫微客",
+        "checked_date": "2026-11-11",
+        "public_status": "近期内容或试玩适配不足，暂缓邀请",
+        "invitation_sent": false,
+        "followed": false,
+        "latest_post_date_or_display": "05月18日 / 5-18",
+        "latest_post_url": null,
+        "topic": "CS/Steam搬砖项目；简介问卷+cs游戏搬砖；最新投稿列表8条同方向",
+        "date_precision": "App month/day display",
+        "historical_gameplay_samples": [],
+        "public_limitations": null,
+        "ready_to_send": false
+      },
+      {
+        "uid": "2020430835",
+        "name": "雨说新客",
+        "checked_date": "2026-11-11",
+        "public_status": "近期内容或试玩适配不足，暂缓邀请",
+        "invitation_sent": false,
+        "followed": false,
+        "latest_post_date_or_display": "2024-5-27",
+        "latest_post_url": "https://www.bilibili.com/video/BV1Fs421G7Wo/",
+        "topic": "Steam/CS2搬砖项目和饰品选品",
+        "date_precision": null,
+        "historical_gameplay_samples": [],
+        "public_limitations": null,
+        "ready_to_send": false
+      },
+      {
+        "uid": "14881766",
+        "name": "Colddagger",
+        "checked_date": "2026-11-11",
+        "public_status": "已关注，待邀请；发送方式待确认",
+        "invitation_sent": false,
+        "followed": true,
+        "latest_post_date_or_display": "2026-10-07 16:03:07",
+        "latest_post_url": "https://www.bilibili.com/video/BV1wMpM6JE8q/",
+        "topic": "HB月包游戏推荐，含深岩银河幸存者；当前仍有单机游戏内容",
+        "date_precision": null,
+        "historical_gameplay_samples": [
+          {
+            "date": "2024-09-28",
+            "title": "轮椅护盾流国产肉鸽游戏《墨境》试玩实况",
+            "url": "https://www.bilibili.com/video/BV1xMxweqEsB/"
+          },
+          {
+            "date": "2024-07-27",
+            "title": "多分支解谜探案游戏《杀死影子》demo试玩实况",
+            "url": "https://www.bilibili.com/video/BV1Bf421v7QL/"
+          },
+          {
+            "date": "2023-10-23",
+            "title": "文明6+杀戮尖塔 帝王牌局：古国纷争试玩体验",
+            "url": "https://www.bilibili.com/video/BV1ke411R7P3/"
+          }
+        ],
+        "public_limitations": "旧试玩日期如实保留；10-07近期样本为推荐资讯，不能称近期长实况",
+        "ready_to_send": false
+      }
+    ],
+    "note": "10月7日Colddagger投稿为游戏推荐，旧试玩样本不冒充近期长实况；其他7位沿用昨日待核边界。"
   }
 }

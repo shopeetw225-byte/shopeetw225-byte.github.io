@@ -1463,6 +1463,18 @@
       "category": "视频发布",
       "text": "AI比赛·第800关已在B站、YouTube、X公开；成片、封面及六平台文案已归档。",
       "url": "/?work=ai-race-800"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "Steam 商店",
+      "text": "更新两支Steam宣传片、商店截图和详情页实机动图，十种语言同步发布。",
+      "url": "/?work=steam-main-trailer"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "创作者联系",
+      "text": "核对4位创作者的近期内容和试玩适配；关注1位待邀请，另外3位暂缓，未发邀请。",
+      "url": "/creators/steam-market-mining-20261110.html"
     }
   ]
 }

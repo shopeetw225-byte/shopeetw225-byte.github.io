@@ -664,106 +664,110 @@
     },
     {
       "id": "steam-main-trailer",
-      "title": "Steam 主预告片 · v27",
+      "title": "Steam 主预告片 · v29",
       "category": "宣传视频",
-      "date": "2026-11-10",
-      "dateBasis": "Steam 发布日期",
-      "summary": "58.97 秒三语实机预告片。",
+      "date": "2026-11-11",
+      "dateBasis": "Steam 修订64公开发布日期",
+      "summary": "59.85秒三语实机预告片，更新英雄演出、战斗和界面画面。",
       "files": [
         {
-          "name": "繁中版v27.mp4",
-          "url": "assets/f8d267c9fc13c7d8.mp4",
+          "name": "放置事务所_Steam主预告片_v29.mp4",
+          "url": "assets/v29-main-schinese-7c6780051e79.mp4",
           "type": "video",
-          "source": "视频制作/steam/Steam主预告片/成片/繁中版v27.mp4",
-          "updated": "2026-11-10",
-          "sha256": "f8d267c9fc13c7d80a3d3240fc88036217c57aec1e5163195a4e8c358ac5b077"
+          "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v29.mp4",
+          "sha256": "02023f628826936eb14cf3919f811c045201d93f660bee96d3be5634c0e68048",
+          "previewSha256": "7c6780051e795f30e5a18a10b652855cd455a2e5f63b973863217983183d961c",
+          "updated": "2026-11-11"
         },
         {
-          "name": "英文版v27.mp4",
-          "url": "assets/5bad62272dca948b.mp4",
+          "name": "英文版v29.mp4",
+          "url": "assets/v29-main-english-b80687ffd735.mp4",
           "type": "video",
-          "source": "视频制作/steam/Steam主预告片/成片/英文版v27.mp4",
-          "updated": "2026-11-10",
-          "sha256": "5bad62272dca948b0c80b0136674bee26dae37e726723bb639b0766fe06207df"
+          "source": "视频制作/steam/Steam主预告片/成片/英文版v29.mp4",
+          "sha256": "25d66c34d3df1fddb684059b660576b8dcc6ac9922700f73c65317ba22bbe236",
+          "previewSha256": "b80687ffd7359be2bd4f4c9662f6e405a5b3f13b8007a9bf9e974ca1f76f50b9",
+          "updated": "2026-11-11"
         },
         {
-          "name": "放置事务所_Steam主预告片_v27.mp4",
-          "url": "assets/b2ce21d5672ee440.mp4",
+          "name": "繁中版v29.mp4",
+          "url": "assets/v29-main-tchinese-07a360f11e72.mp4",
           "type": "video",
-          "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v27.mp4",
-          "updated": "2026-11-10",
-          "sha256": "b2ce21d5672ee440dcecf17949753d71561bb6ad60e1be495f27eefd6c27e587"
+          "source": "视频制作/steam/Steam主预告片/成片/繁中版v29.mp4",
+          "sha256": "1537915038fd4d57f4e2e6a013797c66b890c0816bc275cda4f4b7d2b717b214",
+          "previewSha256": "07a360f11e7250b5817d66dbc9976cb1a9a3bdbe10ce6f03cda6a1efacb63162",
+          "updated": "2026-11-11"
         }
       ],
-      "status": "已发布 · Steam 十语关联",
-      "body": "Steam 正式版主预告片已更新至 v27。简中和繁中分别使用对应中文成片，其余八种语言统一使用英文成片。",
-      "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v27.mp4",
-      "cover": "assets/b2ce21d5672ee440.jpg",
-      "detailNote": "网页提供三语压缩预览；原始 1920×1080、60fps 成片保存在项目目录。商店修订 63，十语公开页已核对。",
-      "duration": 58.97,
+      "status": "已发布 · Steam十语公开核对通过",
+      "body": "Steam正式版主预告片已更新至v29。简中、繁中各用对应成片，其余八语使用英文版。以5f8f701a5实际画面对照验收，部分未变化镜头保留经验证的既有录制。",
+      "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v29.mp4",
+      "cover": "assets/v29-main-schinese-3a422d5ad0a0.jpg",
+      "detailNote": "商店修订64，十语公开页已核对。网页提供三语压缩预览，旧版归档及链接保留。",
+      "duration": 59.85,
       "links": [
         {
           "platform": "Steam · schinese",
           "url": "https://store.steampowered.com/app/4855890/?l=schinese",
-          "date": "2026-11-10",
+          "date": "2026-11-11",
           "status": "已发布"
         },
         {
           "platform": "Steam · tchinese",
           "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
-          "date": "2026-11-10",
+          "date": "2026-11-11",
           "status": "已发布"
         },
         {
           "platform": "Steam · english",
           "url": "https://store.steampowered.com/app/4855890/?l=english",
-          "date": "2026-11-10",
+          "date": "2026-11-11",
           "status": "已发布"
         },
         {
           "platform": "Steam · japanese",
           "url": "https://store.steampowered.com/app/4855890/?l=japanese",
-          "date": "2026-11-10",
+          "date": "2026-11-11",
           "status": "已发布"
         },
         {
           "platform": "Steam · koreana",
           "url": "https://store.steampowered.com/app/4855890/?l=koreana",
-          "date": "2026-11-10",
+          "date": "2026-11-11",
           "status": "已发布"
         },
         {
           "platform": "Steam · german",
           "url": "https://store.steampowered.com/app/4855890/?l=german",
-          "date": "2026-11-10",
+          "date": "2026-11-11",
           "status": "已发布"
         },
         {
           "platform": "Steam · french",
           "url": "https://store.steampowered.com/app/4855890/?l=french",
-          "date": "2026-11-10",
+          "date": "2026-11-11",
           "status": "已发布"
         },
         {
           "platform": "Steam · spanish",
           "url": "https://store.steampowered.com/app/4855890/?l=spanish",
-          "date": "2026-11-10",
+          "date": "2026-11-11",
           "status": "已发布"
         },
         {
           "platform": "Steam · brazilian",
           "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
-          "date": "2026-11-10",
+          "date": "2026-11-11",
           "status": "已发布"
         },
         {
           "platform": "Steam · russian",
           "url": "https://store.steampowered.com/app/4855890/?l=russian",
-          "date": "2026-11-10",
+          "date": "2026-11-11",
           "status": "已发布"
         }
       ],
-      "group": "Steam 视频"
+      "group": "Steam 视频",
+      "sourceCommit": "5f8f701a5c9fa78262b32f2e10316be2e5b6a27f"
     },
     {
       "id": "work-9",
@@ -9663,6 +9667,580 @@
       "body": "B站\nB站标题：让Claude和GPT玩我做的游戏，结果……【AI对决】\nB站简介：\nSteam搜「放置事务所」，免费Demo已上线，第800关就在Demo里，欢迎来挑战～喜欢的话帮忙加个愿望单\nhttps://store.steampowered.com/app/4855890/\n玩家QQ群：1079312948\n标签：AI、Claude、GPT、独立游戏、放置游戏、放置事务所、Steam、不抽卡\n\n抖音\n抖音标题：让Claude和GPT玩我做的游戏，结果……【AI对决】\n正文：\nSteam搜「放置事务所」可免费试玩，第800关就在Demo里～\n游戏群在个人主页，欢迎进群讨论。\n标签：AI、Claude、GPT、独立游戏、放置游戏、steam游戏、不抽卡\n\n小红书\n小红书标题：让Claude和GPT玩我的游戏，结果…\n正文：\n《放置事务所》Demo已开放免费试玩，第800关就在里面，欢迎来挑战～\n标签：AI、Claude、GPT、独立游戏、放置游戏、不抽卡\n\nYouTube\nYouTube title: I Let Claude and GPT Play My Game, and... [AI Showdown] | Idle Agency\nDescription:\nTry the free Idle Agency demo and take on Stage 800 yourself. A wishlist helps a lot!\n#IndieGame #IdleGame #Steam #AI #GameDev\nTags: Idle Agency,indie game,idle game,Steam,AI,Claude,GPT,free demo,no gacha\n\nX\nI let Claude and GPT play my game, and... [AI Showdown]\nTry the free Idle Agency demo. Stage 800 is waiting!\nhttps://store.steampowered.com/app/4855890/\n#gamedev #idlegame #AI\n\nThreads\n讓Claude和GPT玩我做的遊戲，結果……【AI對決】\n免費Demo已上線，第800關就在裡面，歡迎來挑戰～Steam搜 Idle Agency，喜歡的話幫忙加個願望清單～\nhttps://store.steampowered.com/app/4855890/\n主題：獨立遊戲\n",
       "status": "已归档",
       "source": "视频制作/文案/AI比赛_第800关_六平台上传文案.txt"
+    },
+    {
+      "id": "steam-main-trailer-v27-20261110",
+      "title": "Steam 主预告片 · v27（历史版本）",
+      "category": "宣传视频",
+      "date": "2026-11-10",
+      "dateBasis": "Steam 发布日期",
+      "summary": "58.97 秒三语实机预告片。",
+      "files": [
+        {
+          "name": "繁中版v27.mp4",
+          "url": "assets/f8d267c9fc13c7d8.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/繁中版v27.mp4",
+          "updated": "2026-11-10",
+          "sha256": "f8d267c9fc13c7d80a3d3240fc88036217c57aec1e5163195a4e8c358ac5b077"
+        },
+        {
+          "name": "英文版v27.mp4",
+          "url": "assets/5bad62272dca948b.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/英文版v27.mp4",
+          "updated": "2026-11-10",
+          "sha256": "5bad62272dca948b0c80b0136674bee26dae37e726723bb639b0766fe06207df"
+        },
+        {
+          "name": "放置事务所_Steam主预告片_v27.mp4",
+          "url": "assets/b2ce21d5672ee440.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v27.mp4",
+          "updated": "2026-11-10",
+          "sha256": "b2ce21d5672ee440dcecf17949753d71561bb6ad60e1be495f27eefd6c27e587"
+        }
+      ],
+      "status": "已发布 · Steam 十语关联",
+      "body": "Steam 正式版主预告片已更新至 v27。简中和繁中分别使用对应中文成片，其余八种语言统一使用英文成片。",
+      "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v27.mp4",
+      "cover": "assets/b2ce21d5672ee440.jpg",
+      "detailNote": "网页提供三语压缩预览；原始 1920×1080、60fps 成片保存在项目目录。商店修订 63，十语公开页已核对。",
+      "duration": 58.97,
+      "links": [
+        {
+          "platform": "Steam · schinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-10",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · tchinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-10",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · english",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-10",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · japanese",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-10",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · koreana",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-10",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · german",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-10",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · french",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-10",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · spanish",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-10",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · brazilian",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-10",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · russian",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-10",
+          "status": "已发布"
+        }
+      ],
+      "group": "Steam 视频"
+    },
+    {
+      "id": "steam-short-trailer-20261111",
+      "title": "Steam 精简宣传片 · v29",
+      "category": "宣传视频",
+      "group": "Steam 视频",
+      "date": "2026-11-11",
+      "dateBasis": "Steam 修订64公开发布日期",
+      "summary": "29.65秒三语精简宣传片，更新英雄与实机画面。",
+      "body": "Steam正式版精简宣传片已更新至v29。简中、繁中各用对应成片，其余八语使用英文版。以5f8f701a5实际画面对照验收，部分未变化镜头保留经验证的既有录制。",
+      "files": [
+        {
+          "name": "简中横屏版_Steam精简宣传片.mp4",
+          "url": "assets/v29-short-schinese-c739bb7e353d.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/简中横屏版_Steam精简宣传片.mp4",
+          "sha256": "a1ba10dc47c6475e55bbb460366a59c147d55836884800c45788d968f0a9139b",
+          "previewSha256": "c739bb7e353d654b30809774b91b0c2e851ecfe4803d7bc3e89dc5b3f437d7b2",
+          "updated": "2026-11-11"
+        },
+        {
+          "name": "英文横屏版_Steam精简宣传片.mp4",
+          "url": "assets/v29-short-english-3dbcd6dece58.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/英文横屏版_Steam精简宣传片.mp4",
+          "sha256": "e95f47031ddd303126d18390bbc3b52e3d11e9b30956100009e4a2ba1547788b",
+          "previewSha256": "3dbcd6dece58d7c7476f296610e5bd70b861ce48c320baca63a93a4d57ef6ad8",
+          "updated": "2026-11-11"
+        },
+        {
+          "name": "繁中横屏版_Steam精简宣传片.mp4",
+          "url": "assets/v29-short-tchinese-fcae75db79c7.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/繁中横屏版_Steam精简宣传片.mp4",
+          "sha256": "14bc24d63c1385c55c0406411b11264c9905ee19a23568595c3fee25215bf850",
+          "previewSha256": "fcae75db79c7d7d866ffbc75ae02c6ea520706edb06a570af605b46b51c5e961",
+          "updated": "2026-11-11"
+        }
+      ],
+      "cover": "assets/v29-short-schinese-e20615c6505e.jpg",
+      "links": [
+        {
+          "platform": "Steam · schinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · tchinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · english",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · japanese",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · koreana",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · german",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · french",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · spanish",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · brazilian",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · russian",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        }
+      ],
+      "duration": 29.65,
+      "status": "已发布 · Steam十语公开核对通过",
+      "source": "视频制作/steam/Steam精简宣传片/成片",
+      "sourceCommit": "5f8f701a5c9fa78262b32f2e10316be2e5b6a27f",
+      "detailNote": "商店修订64，十语公开页已核对。网页提供三语压缩预览，旧版归档及链接保留。"
+    },
+    {
+      "id": "steam-store-visual-refresh-20261111",
+      "title": "Steam 正式版 · 修订64截图与实机动图",
+      "category": "封面与视觉",
+      "group": "详情页图片",
+      "date": "2026-11-11",
+      "dateBasis": "Steam 修订64公开发布日期",
+      "summary": "十语同步27张商店截图及27张新实机GIF；锻造动图沿用，标题与正文保留。",
+      "body": "简中和繁中各用对应画面，其他八语使用英文素材。三语画面已对照5f8f701a5实际游戏验收。",
+      "files": [
+        {
+          "name": "schinese · 商店截图 01",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/d681b8149a8c55cec8d9441965db4ecac27af621/ss_d681b8149a8c55cec8d9441965db4ecac27af621.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 02",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/3319eaef04b93404fe0d538ca2dd1bf722e95162/ss_3319eaef04b93404fe0d538ca2dd1bf722e95162.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 03",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/8d6e2dd4c850192a15c11fe9f1f674e80380243b/ss_8d6e2dd4c850192a15c11fe9f1f674e80380243b.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 04",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/15081766a2870a250253ffae0ffb8ddf5c437fab/ss_15081766a2870a250253ffae0ffb8ddf5c437fab.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 05",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/63888c563388964553fc48a92d6b81373fe2a3f1/ss_63888c563388964553fc48a92d6b81373fe2a3f1.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 06",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/6d9adceb8ca4bbd0fe62d10082880306cf9faabd/ss_6d9adceb8ca4bbd0fe62d10082880306cf9faabd.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 07",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/93b4cfbf1f9c62f28e1d9da152c425223168ec8d/ss_93b4cfbf1f9c62f28e1d9da152c425223168ec8d.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 08",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/b8abafd0c2c5138a222baeeba86c70c3d1ec0e15/ss_b8abafd0c2c5138a222baeeba86c70c3d1ec0e15.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 09",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/97eb2233a1cc29c0d60871d5a86daa3a949d9ea5/ss_97eb2233a1cc29c0d60871d5a86daa3a949d9ea5.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 01",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/753467b36f1c845dee8b0ecfa46f5b012b1921cb.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 02",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/15565ba56e098e16b9c839b94aa1b00036cfb54d.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 03",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/4bb45d4fedeb1d54a0b1327bd9d73537eef0b436.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 04",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/2a9f8236043e8eeee66eea8cc20bee924761adb0.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 05",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/1d63495bf4418933e6765ad4dd5b482586cf372f.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 06",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/c61ddb36d0c726c7f844f7d54218e7b5b71e8f44.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 07",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/0d882003eacd605bdf082360a47586f1ae238829.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 08",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/3aed45b07d19465decea09bd3897f7dca10c3575.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 09",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/583d836ad95723bce9c730457eccb8be7273990a.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 10",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/c6c510999a959930077dccf71ef6e6632a96cd04.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 01",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/726f35865ff9c4175ca795b37dd1e339d45d8524/ss_726f35865ff9c4175ca795b37dd1e339d45d8524.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 02",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/1755f77965d1761853eef227b2a6098eb915190c/ss_1755f77965d1761853eef227b2a6098eb915190c.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 03",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/2782bbae4af539a46e5d1087e1518d8f8d7cc1b7/ss_2782bbae4af539a46e5d1087e1518d8f8d7cc1b7.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 04",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/99860897fb522428d2a329eaeb0f5b8e7313ec24/ss_99860897fb522428d2a329eaeb0f5b8e7313ec24.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 05",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/131515716c56c64c12daaa9d8c1dd477e11f30d1/ss_131515716c56c64c12daaa9d8c1dd477e11f30d1.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 06",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/8212740038448fac8cd1d469565498f428442373/ss_8212740038448fac8cd1d469565498f428442373.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 07",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/d49ea35c1b7d983d548992ccf9608c3b88fb90c4/ss_d49ea35c1b7d983d548992ccf9608c3b88fb90c4.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 08",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/c953df1ac2fede42d90a7896455524a95407f6e9/ss_c953df1ac2fede42d90a7896455524a95407f6e9.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 09",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/2dedf48dace6a4fcc2532d9f43879455e043b892/ss_2dedf48dace6a4fcc2532d9f43879455e043b892.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 01",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/9142d6edb10970bb39d944e51a3eb5d5328cc3b0.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 02",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/f21dbe71ba0a3f8a6aafb61ef74b86d09c03be85.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 03",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/939d70e6c35d1cf4017c36f7b426d5b859c5a78f.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 04",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/f9fb2df7e278a9a24212dffa2a51684d95391c61.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 05",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/96f2c8404843a0e7cdadc388c6bca0714c0e0952.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 06",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/d2b41197a22a10298edd273f0b1d38a208cbeb86.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 07",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/9ec5f088a0a1e5e49d27d3857397654c2c8cce79.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 08",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/cb8ebb2380f49f054ea26d486aa56d926ee41896.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 09",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/ab9f23efe80fe0d57be4e443b9d4f8a8a06077cc.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 10",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/fdb9459c1cf4cece33ef401137dc8dba1af1b00b.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 01",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/41b5a3313e6432c3bc1cd66990b68fd0d5be4c1d/ss_41b5a3313e6432c3bc1cd66990b68fd0d5be4c1d.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 02",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/aad9816633f9a9e42374fa93c3f44c1b580b6b05/ss_aad9816633f9a9e42374fa93c3f44c1b580b6b05.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 03",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/c47556203ae0440bcce693cce8ae5d4955eed44a/ss_c47556203ae0440bcce693cce8ae5d4955eed44a.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 04",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/fb0f04ac423df485c914ac9e9d82cd183f72a782/ss_fb0f04ac423df485c914ac9e9d82cd183f72a782.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 05",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/eb1bf26332b3d991a051b5cd85a78dab57d064b8/ss_eb1bf26332b3d991a051b5cd85a78dab57d064b8.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 06",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/c9db112fee61f536aaf33d950b4eb55e85ccd781/ss_c9db112fee61f536aaf33d950b4eb55e85ccd781.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 07",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/77b58910e0fceb7c59f609fe313c45071b51b5c4/ss_77b58910e0fceb7c59f609fe313c45071b51b5c4.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 08",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4fe382be7f6873e4fab137166810450740ac89c1/ss_4fe382be7f6873e4fab137166810450740ac89c1.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 09",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/b2d2cc9cdf6323f167d9e28d9d9e1a063af0774d/ss_b2d2cc9cdf6323f167d9e28d9d9e1a063af0774d.1920x1080.jpg?t=1794360907",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 01",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/f99b8d9096bcd19f2c39d789e6db8f0e3a114bb4.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 02",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/d59025c8111f94aa03edc6cbd5a29d22e07c0aa9.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 03",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/1e47bf1881a30539c9e4e006d952f55fb89ed5ce.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 04",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/f47d6fb6e23f104a14619759d7b66833b6624f3d.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 05",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/d67ce07cb2d41d6c7acfec434f60aa4adcaf8cb6.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 06",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/772c66e760f3d62262f57befaba23c662a7930af.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 07",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/61776659a5861232aa802da46ee76307b9aac582.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 08",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/7508f7d95300abade5afa98669408970b6e23e88.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 09",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/bff0048fd98b1878d25f16428e2dc01904d693cd.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 10",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/bcc98aea23992124a51ce1e60e70dea7b85959d7.gif",
+          "type": "image"
+        }
+      ],
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/d681b8149a8c55cec8d9441965db4ecac27af621/ss_d681b8149a8c55cec8d9441965db4ecac27af621.1920x1080.jpg?t=1794360907",
+      "links": [
+        {
+          "platform": "Steam · schinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · tchinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · english",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · japanese",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · koreana",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · german",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · french",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · spanish",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · brazilian",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · russian",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        }
+      ],
+      "status": "已公开 · 十语核对通过",
+      "source": "output/steam-store-auto-sync/cast-refresh-20261110/production/manifest.json",
+      "sourceCommit": "5f8f701a5c9fa78262b32f2e10316be2e5b6a27f",
+      "detailNote": "每种语言9张截图、10张实机动图；保留对应历史版本。"
     }
   ]
 }
