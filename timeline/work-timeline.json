@@ -1473,8 +1473,20 @@
     {
       "date": "2026-11-11",
       "category": "创作者联系",
-      "text": "核对4位创作者的近期内容和试玩适配；关注1位待邀请，另外3位暂缓，未发邀请。",
-      "url": "/creators/steam-market-mining-20261110.html"
+      "text": "B站试玩邀请送达22位；1位因平台限额未送达，7位尚未尝试，已停止。",
+      "url": "/creators/creator-outreach-20261111.html"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "视频发布",
+      "text": "AI对决「第800关」六平台公开链接核对齐全。",
+      "url": "/?work=ai-race-800"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "海外宣传",
+      "text": "将AI对决视频分享到工作室Discord新闻频道。",
+      "url": "/?work=ai-race-800"
     }
   ]
 }

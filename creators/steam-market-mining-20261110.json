@@ -3,7 +3,7 @@
   "updated_date": "2026-11-11",
   "verified_identity_and_topic": 11,
   "unverified_work_leads_count": 0,
-  "sent": 0,
+  "sent": 1,
   "creators": [
     {
       "name": "十二斤的史迪仔",
@@ -251,7 +251,7 @@
       "uid": "14881766",
       "profile_url": "https://space.bilibili.com/14881766",
       "category": "Steam挂卡及社区市场出售",
-      "status": "历史试玩线索待确认；近60天活跃待核，本轮未发邀请",
+      "status": "已邀请 · 2026-11-11",
       "sources": [
         {
           "title": "教你十元可以获得26款steam游戏，挂卡之后不仅回本还有的赚",
@@ -303,8 +303,8 @@
         "uid": "14881766",
         "name": "Colddagger",
         "checked_date": "2026-11-11",
-        "public_status": "已关注，待邀请；发送方式待确认",
-        "invitation_sent": false,
+        "public_status": "已邀请，观察到回复，类型待核",
+        "invitation_sent": true,
         "followed": true,
         "latest_post_date_or_display": "2026-10-07 16:03:07",
         "latest_post_url": "https://www.bilibili.com/video/BV1wMpM6JE8q/",
@@ -328,7 +328,8 @@
           }
         ],
         "public_limitations": "旧试玩日期如实保留；10-07近期样本为推荐资讯，不能称近期长实况",
-        "ready_to_send": false
+        "ready_to_send": false,
+        "sent_at": "2026-11-11T10:14:14.546000+08:00"
       }
     },
     {
@@ -780,8 +781,8 @@
     "date": "2026-11-11",
     "checked": 4,
     "recent_related_confirmed": 1,
-    "sent": 0,
-    "followed_pending_invitation": 1,
+    "sent": 1,
+    "followed_pending_invitation": 0,
     "deferred": 3,
     "profiles": [
       {
@@ -833,8 +834,8 @@
         "uid": "14881766",
         "name": "Colddagger",
         "checked_date": "2026-11-11",
-        "public_status": "已关注，待邀请；发送方式待确认",
-        "invitation_sent": false,
+        "public_status": "已邀请，观察到回复，类型待核",
+        "invitation_sent": true,
         "followed": true,
         "latest_post_date_or_display": "2026-10-07 16:03:07",
         "latest_post_url": "https://www.bilibili.com/video/BV1wMpM6JE8q/",
@@ -858,9 +859,16 @@
           }
         ],
         "public_limitations": "旧试玩日期如实保留；10-07近期样本为推荐资讯，不能称近期长实况",
-        "ready_to_send": false
+        "ready_to_send": false,
+        "sent_at": "2026-11-11T10:14:14.546000+08:00"
       }
     ],
-    "note": "10月7日Colddagger投稿为游戏推荐，旧试玩样本不冒充近期长实况；其他7位沿用昨日待核边界。"
-  }
+    "note": "Colddagger已邀请；原3位研究候选仍暂缓，不计本轮30人范围的跳过数。",
+    "sent_uid": "14881766",
+    "sent_at": "2026-11-11T10:14:14.546000+08:00",
+    "batch_sent_total": 22,
+    "batch_failed": 1,
+    "batch_unattempted": 7
+  },
+  "research_round_sent_20261110": 0
 }

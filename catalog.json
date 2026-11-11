@@ -9611,9 +9611,30 @@
           "date": "2026-11-10",
           "status": "已公开",
           "source": "2026-11-11 本人主页及独立公开详情逐条核对"
+        },
+        {
+          "platform": "抖音",
+          "url": "https://www.douyin.com/video/7706426648240917798",
+          "date": "2026-11-10",
+          "status": "已公开",
+          "source": "2026-11-11本人主页及公开详情核对"
+        },
+        {
+          "platform": "小红书",
+          "url": "https://www.xiaohongshu.com/explore/6af2b985000000002500bab4?xsec_token=ABaxHoDGnylmPNzdTHXSSXIzY0VFU0kI2PNaZfONvCj4Y=&xsec_source=pc_user",
+          "date": "2026-11-10",
+          "status": "已公开",
+          "source": "2026-11-11本人主页及公开详情核对"
+        },
+        {
+          "platform": "Threads",
+          "url": "https://www.threads.com/@wtty2252026/post/DfjN--wHZ2w",
+          "date": "2026-11-10",
+          "status": "已公开",
+          "source": "2026-11-11本人主页及公开详情核对"
         }
       ],
-      "status": "已公开 · B站 / YouTube / X",
+      "status": "已公开 · 六平台链接已核实",
       "source": "视频制作/其他/AI比赛_第800关",
       "detailNote": "AI对决独立归类。比赛副本第800关经强化；免费Demo中的普通关卡未作同样强化。"
     },

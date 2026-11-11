@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-11",
+  "bilibili_sent": 22,
+  "bilibili_failed": 1,
+  "bilibili_unattempted": 7,
+  "undelivered_total": 8,
+  "skipped": 0,
+  "youtube_email_sent": 0,
+  "bilibili": [
+    {
+      "name": "Colddagger",
+      "uid": "14881766",
+      "profile_url": "https://space.bilibili.com/14881766",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:14:14.546000+08:00",
+      "reply_observed": true,
+      "reply_classification": "类型待核，未推定接受合作"
+    },
+    {
+      "name": "爆过头的爆米花",
+      "uid": "35423489",
+      "profile_url": "https://space.bilibili.com/35423489",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:16:15.412000+08:00"
+    },
+    {
+      "name": "南泱今天也在写稿",
+      "uid": "452020564",
+      "profile_url": "https://space.bilibili.com/452020564",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:18:29.442000+08:00"
+    },
+    {
+      "name": "高寒时薪十块",
+      "uid": "7071924",
+      "profile_url": "https://space.bilibili.com/7071924",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:20:07.553000+08:00"
+    },
+    {
+      "name": "轻秋秋秋秋秋秋",
+      "uid": "16742661",
+      "profile_url": "https://space.bilibili.com/16742661",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:21:27.580000+08:00"
+    },
+    {
+      "name": "白羽Baiyuleta",
+      "uid": "2447707",
+      "profile_url": "https://space.bilibili.com/2447707",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:23:17.314000+08:00"
+    },
+    {
+      "name": "冰清柠萌",
+      "uid": "34272665",
+      "profile_url": "https://space.bilibili.com/34272665",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:24:48.287000+08:00"
+    },
+    {
+      "name": "之壹知一",
+      "uid": "39325912",
+      "profile_url": "https://space.bilibili.com/39325912",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:26:17.036000+08:00"
+    },
+    {
+      "name": "思慕雷特Official",
+      "uid": "434613903",
+      "profile_url": "https://space.bilibili.com/434613903",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:27:54.217000+08:00"
+    },
+    {
+      "name": "穿越热菜",
+      "uid": "31952802",
+      "profile_url": "https://space.bilibili.com/31952802",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:29:17.589000+08:00"
+    },
+    {
+      "name": "老叶子XD",
+      "uid": "308373381",
+      "profile_url": "https://space.bilibili.com/308373381",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:31:12.760000+08:00"
+    },
+    {
+      "name": "神隐黑炎",
+      "uid": "9617127",
+      "profile_url": "https://space.bilibili.com/9617127",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:32:45.661000+08:00"
+    },
+    {
+      "name": "虚人梦",
+      "uid": "10824671",
+      "profile_url": "https://space.bilibili.com/10824671",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:34:27.917000+08:00"
+    },
+    {
+      "name": "EM灵铭",
+      "uid": "342539730",
+      "profile_url": "https://space.bilibili.com/342539730",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:36:04.465000+08:00"
+    },
+    {
+      "name": "桐游一",
+      "uid": "49353407",
+      "profile_url": "https://space.bilibili.com/49353407",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:38:01.011000+08:00"
+    },
+    {
+      "name": "留三撇",
+      "uid": "3493265078749972",
+      "profile_url": "https://space.bilibili.com/3493265078749972",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:39:30.905000+08:00"
+    },
+    {
+      "name": "布拉德莉莉",
+      "uid": "22073385",
+      "profile_url": "https://space.bilibili.com/22073385",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:41:09.757000+08:00"
+    },
+    {
+      "name": "琉焰卿Official",
+      "uid": "8945059",
+      "profile_url": "https://space.bilibili.com/8945059",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:42:38.929000+08:00",
+      "reply_observed": true,
+      "reply_classification": "类型待核，未推定接受合作"
+    },
+    {
+      "name": "原味饭RICE",
+      "uid": "14650948",
+      "profile_url": "https://space.bilibili.com/14650948",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:44:05.579000+08:00"
+    },
+    {
+      "name": "豆豆眼的凛",
+      "uid": "10095994",
+      "profile_url": "https://space.bilibili.com/10095994",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:45:38.986000+08:00"
+    },
+    {
+      "name": "鹿彼_Ruby",
+      "uid": "3546610466294509",
+      "profile_url": "https://space.bilibili.com/3546610466294509",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:47:38.013000+08:00",
+      "reply_observed": true,
+      "reply_classification": "类型待核，未推定接受合作"
+    },
+    {
+      "name": "魔幻梁梁君",
+      "uid": "415278329",
+      "profile_url": "https://space.bilibili.com/415278329",
+      "status": "sent",
+      "sent_at": "2026-11-11T10:52:09.630000+08:00"
+    }
+  ],
+  "failed": [
+    {
+      "name": "银酱玩独游",
+      "uid": "7789351",
+      "profile_url": "https://space.bilibili.com/7789351",
+      "status": "平台限额，未送达；未重试"
+    }
+  ],
+  "unattempted": [
+    {
+      "name": "我卡费了之神",
+      "uid": "101555657",
+      "profile_url": "https://space.bilibili.com/101555657",
+      "status": "尚未尝试"
+    },
+    {
+      "name": "噬回吟",
+      "uid": "38611648",
+      "profile_url": "https://space.bilibili.com/38611648",
+      "status": "尚未尝试"
+    },
+    {
+      "name": "老谭酸菜打卤面",
+      "uid": "14306353",
+      "profile_url": "https://space.bilibili.com/14306353",
+      "status": "尚未尝试"
+    },
+    {
+      "name": "Vanhorn正在游戏中",
+      "uid": "1277911298",
+      "profile_url": "https://space.bilibili.com/1277911298",
+      "status": "尚未尝试"
+    },
+    {
+      "name": "行者-WalkingMan",
+      "uid": "4245920",
+      "profile_url": "https://space.bilibili.com/4245920",
+      "status": "尚未尝试"
+    },
+    {
+      "name": "朽木雕格调",
+      "uid": "159063939",
+      "profile_url": "https://space.bilibili.com/159063939",
+      "status": "尚未尝试"
+    },
+    {
+      "name": "赛博鸡蛋分拣员",
+      "uid": "3690980043655431",
+      "profile_url": "https://space.bilibili.com/3690980043655431",
+      "status": "尚未尝试"
+    }
+  ],
+  "time_note": "北京时间；发送时间来自实际发送调用并在写入前校验，非视频时长。",
+  "stop_note": "出现平台陌生人消息频率限制后已停止，没有重试。"
+}
