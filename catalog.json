@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T14:16:47.913740+08:00",
+  "updated": "2026-11-11",
   "hero": "assets/07851087f62e.jpg",
   "items": [
     {
@@ -10609,6 +10609,101 @@
       ],
       "status": "已发布 · 十语公开页与动效核对通过",
       "detailNote": "本次仅调整截图选择和战斗/大招段落；修订64素材归档及既有作品链接保留。"
+    },
+    {
+      "id": "steam-equipment-chest-20261111-r68",
+      "title": "Steam 正式版 · 装备开箱详情更新",
+      "category": "封面与视觉",
+      "group": "详情页图片",
+      "date": "2026-11-11",
+      "dateBasis": "Steam修订68公开发布与十语核对",
+      "summary": "补上用券开箱说明与三语完整实机动图，十语同步。",
+      "body": "在铁匠铺用开箱券开启装备宝箱，可单次或批量开启。实机动图展示箱体爆光、装备逐件揭晓与最终结果；原装备段旧说明同步修正。",
+      "files": [
+        {
+          "name": "schinese · 装备开箱实机动图",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/6b8e3ebe7dbdd52f96c66cef8aadd4e817815900.gif",
+          "type": "image",
+          "sha256": "ed7b20fbc5c8839f71416eed7519ac2d9a968b4c2ff0c7b0d75cf5c6404b20ac"
+        },
+        {
+          "name": "tchinese · 装备开箱实机动图",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/14705d8b8b00383172c2d7151696a7be417c5691.gif",
+          "type": "image",
+          "sha256": "e439dcc64cd1c51ea702343aebc743f01551d7f5be4ab29f947811be3f26114b"
+        },
+        {
+          "name": "english · 装备开箱实机动图",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/1b6b007e93e7310051f765583938c23fa9051291.gif",
+          "type": "image",
+          "sha256": "10661d601c4b5fd975bd161da537495bc61bfed791a6c408b56a2ec45efd425a"
+        }
+      ],
+      "cover": "https://clan.fastly.steamstatic.com/images/46216320/6b8e3ebe7dbdd52f96c66cef8aadd4e817815900.gif",
+      "status": "已发布 · 十语公开页与GIF动效核对通过",
+      "detailNote": "简中、繁中各用对应界面，其他八语使用英文。每语保留9段详情、18张图及9张截图；其他段落不变。",
+      "links": [
+        {
+          "platform": "Steam · schinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · tchinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · english",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · japanese",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · koreana",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · german",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · french",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · spanish",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · brazilian",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · russian",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        }
+      ]
     }
   ]
 }
