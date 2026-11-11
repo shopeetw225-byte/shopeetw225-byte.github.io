@@ -1473,7 +1473,7 @@
     {
       "date": "2026-11-11",
       "category": "创作者联系",
-      "text": "B站试玩邀请送达22位；1位因平台限额未送达，7位尚未尝试，已停止。",
+      "text": "联系22位B站创作者，发送免费Demo试玩邀请。",
       "url": "/creators/creator-outreach-20261111.html"
     },
     {
@@ -1499,6 +1499,18 @@
       "category": "Steam 商品页",
       "text": "补齐装备开箱说明和三语完整实机动图，发布十语详情页并核对公开画面与动效。",
       "url": "/?work=steam-equipment-chest-20261111-r68"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "宣传调研",
+      "text": "新增5位Steam市场题材创作者备选，逐人整理适合与不适合的理由，筛出优先复核名单。",
+      "url": "/creators/steam-market-screening-20261110.html"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "视频制作",
+      "text": "更新两支Steam宣传片的三语版本，补入装备开箱、揭晓和结果展示镜头。",
+      "url": "/?work=steam-main-trailer"
     }
   ]
 }
