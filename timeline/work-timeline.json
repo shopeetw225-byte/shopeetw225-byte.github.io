@@ -1487,6 +1487,12 @@
       "category": "海外宣传",
       "text": "将AI对决视频分享到工作室Discord新闻频道。",
       "url": "/?work=ai-race-800"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "Steam 商店",
+      "text": "商店截图改用风暴血君大招，合并详情页战斗与大招段落，十语同步。",
+      "url": "/?work=steam-store-battle-ultimate-20261111-r67"
     }
   ]
 }

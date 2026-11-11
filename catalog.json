@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-11T14:16:47.913740+08:00",
   "hero": "assets/07851087f62e.jpg",
   "items": [
     {
@@ -10262,6 +10262,353 @@
       "source": "output/steam-store-auto-sync/cast-refresh-20261110/production/manifest.json",
       "sourceCommit": "5f8f701a5c9fa78262b32f2e10316be2e5b6a27f",
       "detailNote": "每种语言9张截图、10张实机动图；保留对应历史版本。"
+    },
+    {
+      "id": "steam-store-battle-ultimate-20261111-r67",
+      "title": "Steam 正式版 · 大招截图与战斗段落调整",
+      "category": "封面与视觉",
+      "group": "详情页图片",
+      "date": "2026-11-11",
+      "dateBasis": "Steam修订66截图、修订67详情页公开发布日期",
+      "summary": "商店战斗截图改为风暴血君大招，详情页将战斗与大招合并，十语同步。",
+      "body": "保留9张商店截图。详情页保留战斗标题与原文，配图使用原大招实机动图，移除独立大招段落。简中、繁中各用对应实机画面，其他八语使用英文。",
+      "files": [
+        {
+          "name": "schinese · 商店截图 01 · 风暴血君大招",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/49389dd3e0dfd33b0aacd4e4ffc628fc4d68df67/ss_49389dd3e0dfd33b0aacd4e4ffc628fc4d68df67.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 02",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/3319eaef04b93404fe0d538ca2dd1bf722e95162/ss_3319eaef04b93404fe0d538ca2dd1bf722e95162.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 03",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/8d6e2dd4c850192a15c11fe9f1f674e80380243b/ss_8d6e2dd4c850192a15c11fe9f1f674e80380243b.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 04",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/15081766a2870a250253ffae0ffb8ddf5c437fab/ss_15081766a2870a250253ffae0ffb8ddf5c437fab.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 05",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/63888c563388964553fc48a92d6b81373fe2a3f1/ss_63888c563388964553fc48a92d6b81373fe2a3f1.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 06",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/6d9adceb8ca4bbd0fe62d10082880306cf9faabd/ss_6d9adceb8ca4bbd0fe62d10082880306cf9faabd.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 07",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/93b4cfbf1f9c62f28e1d9da152c425223168ec8d/ss_93b4cfbf1f9c62f28e1d9da152c425223168ec8d.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 08",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/b8abafd0c2c5138a222baeeba86c70c3d1ec0e15/ss_b8abafd0c2c5138a222baeeba86c70c3d1ec0e15.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 商店截图 09",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/97eb2233a1cc29c0d60871d5a86daa3a949d9ea5/ss_97eb2233a1cc29c0d60871d5a86daa3a949d9ea5.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 01 · 战斗（风暴血君大招）",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/2a9f8236043e8eeee66eea8cc20bee924761adb0.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 02",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/15565ba56e098e16b9c839b94aa1b00036cfb54d.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 03",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/4bb45d4fedeb1d54a0b1327bd9d73537eef0b436.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 04",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/1d63495bf4418933e6765ad4dd5b482586cf372f.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 05",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/c61ddb36d0c726c7f844f7d54218e7b5b71e8f44.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 06",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/0d882003eacd605bdf082360a47586f1ae238829.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 07",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/3aed45b07d19465decea09bd3897f7dca10c3575.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 08",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/583d836ad95723bce9c730457eccb8be7273990a.gif",
+          "type": "image"
+        },
+        {
+          "name": "schinese · 实机动图 09",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/c6c510999a959930077dccf71ef6e6632a96cd04.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 01 · 风暴血君大招",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/60ee45ef9c73c81f9c76506e216f9f9cafa605b3/ss_60ee45ef9c73c81f9c76506e216f9f9cafa605b3.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 02",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/1755f77965d1761853eef227b2a6098eb915190c/ss_1755f77965d1761853eef227b2a6098eb915190c.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 03",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/2782bbae4af539a46e5d1087e1518d8f8d7cc1b7/ss_2782bbae4af539a46e5d1087e1518d8f8d7cc1b7.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 04",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/99860897fb522428d2a329eaeb0f5b8e7313ec24/ss_99860897fb522428d2a329eaeb0f5b8e7313ec24.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 05",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/131515716c56c64c12daaa9d8c1dd477e11f30d1/ss_131515716c56c64c12daaa9d8c1dd477e11f30d1.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 06",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/8212740038448fac8cd1d469565498f428442373/ss_8212740038448fac8cd1d469565498f428442373.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 07",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/d49ea35c1b7d983d548992ccf9608c3b88fb90c4/ss_d49ea35c1b7d983d548992ccf9608c3b88fb90c4.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 08",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/c953df1ac2fede42d90a7896455524a95407f6e9/ss_c953df1ac2fede42d90a7896455524a95407f6e9.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 商店截图 09",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/2dedf48dace6a4fcc2532d9f43879455e043b892/ss_2dedf48dace6a4fcc2532d9f43879455e043b892.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 01 · 战斗（风暴血君大招）",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/f9fb2df7e278a9a24212dffa2a51684d95391c61.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 02",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/f21dbe71ba0a3f8a6aafb61ef74b86d09c03be85.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 03",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/939d70e6c35d1cf4017c36f7b426d5b859c5a78f.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 04",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/96f2c8404843a0e7cdadc388c6bca0714c0e0952.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 05",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/d2b41197a22a10298edd273f0b1d38a208cbeb86.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 06",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/9ec5f088a0a1e5e49d27d3857397654c2c8cce79.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 07",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/cb8ebb2380f49f054ea26d486aa56d926ee41896.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 08",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/ab9f23efe80fe0d57be4e443b9d4f8a8a06077cc.gif",
+          "type": "image"
+        },
+        {
+          "name": "tchinese · 实机动图 09",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/fdb9459c1cf4cece33ef401137dc8dba1af1b00b.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 01 · 风暴血君大招",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/41b8d7c57d353257a092bb42168e1ebbf1914baf/ss_41b8d7c57d353257a092bb42168e1ebbf1914baf.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 02",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/aad9816633f9a9e42374fa93c3f44c1b580b6b05/ss_aad9816633f9a9e42374fa93c3f44c1b580b6b05.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 03",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/c47556203ae0440bcce693cce8ae5d4955eed44a/ss_c47556203ae0440bcce693cce8ae5d4955eed44a.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 04",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/fb0f04ac423df485c914ac9e9d82cd183f72a782/ss_fb0f04ac423df485c914ac9e9d82cd183f72a782.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 05",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/eb1bf26332b3d991a051b5cd85a78dab57d064b8/ss_eb1bf26332b3d991a051b5cd85a78dab57d064b8.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 06",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/c9db112fee61f536aaf33d950b4eb55e85ccd781/ss_c9db112fee61f536aaf33d950b4eb55e85ccd781.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 07",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/77b58910e0fceb7c59f609fe313c45071b51b5c4/ss_77b58910e0fceb7c59f609fe313c45071b51b5c4.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 08",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4fe382be7f6873e4fab137166810450740ac89c1/ss_4fe382be7f6873e4fab137166810450740ac89c1.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "english · 商店截图 09",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/b2d2cc9cdf6323f167d9e28d9d9e1a063af0774d/ss_b2d2cc9cdf6323f167d9e28d9d9e1a063af0774d.1920x1080.jpg?t=1794377446",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 01 · 战斗（风暴血君大招）",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/f47d6fb6e23f104a14619759d7b66833b6624f3d.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 02",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/d59025c8111f94aa03edc6cbd5a29d22e07c0aa9.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 03",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/1e47bf1881a30539c9e4e006d952f55fb89ed5ce.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 04",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/d67ce07cb2d41d6c7acfec434f60aa4adcaf8cb6.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 05",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/772c66e760f3d62262f57befaba23c662a7930af.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 06",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/61776659a5861232aa802da46ee76307b9aac582.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 07",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/7508f7d95300abade5afa98669408970b6e23e88.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 08",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/bff0048fd98b1878d25f16428e2dc01904d693cd.gif",
+          "type": "image"
+        },
+        {
+          "name": "english · 实机动图 09",
+          "url": "https://clan.akamai.steamstatic.com/images/46216320/bcc98aea23992124a51ce1e60e70dea7b85959d7.gif",
+          "type": "image"
+        }
+      ],
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/49389dd3e0dfd33b0aacd4e4ffc628fc4d68df67/ss_49389dd3e0dfd33b0aacd4e4ffc628fc4d68df67.1920x1080.jpg?t=1794377446",
+      "links": [
+        {
+          "platform": "Steam · schinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · tchinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · english",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · japanese",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · koreana",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · german",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · french",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · spanish",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · brazilian",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · russian",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        }
+      ],
+      "status": "已发布 · 十语公开页与动效核对通过",
+      "detailNote": "本次仅调整截图选择和战斗/大招段落；修订64素材归档及既有作品链接保留。"
     }
   ]
 }
