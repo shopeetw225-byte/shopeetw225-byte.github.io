@@ -1,0 +1,33 @@
+《放置事务所》Steam 商店顶部简介 · 十语定稿
+公开修订：72
+发布日期：2026-11-11
+
+简体中文 (schinese)
+挂着就能刷宝的单人放置游戏：你在 4×4 棋盘上排好阵容和站位，英雄自动开打，离线也照样攒资源、掉装备；回来把收获拿去培养，队伍变强了，再往下一关推。打赢的首领会加入队伍，守护灵也能一起上阵。要塞里盖建筑、研究科技，市场里卖资源、看行情买回缺的材料。正式版还有试炼之塔可以挑战，并会开放 Steam 社区市场。
+
+繁体中文 (tchinese)
+掛著就能刷寶的單人放置遊戲：你在 4×4 棋盤上排好陣容和站位，英雄自動開打，離線也照樣攢資源、掉裝備；回來把收穫拿去培養，隊伍變強了，再往下一關推。打贏的首領會加入隊伍，守護靈也能一起上陣。要塞裡蓋建築、研究科技，市場裡賣資源、看行情買回缺的材料。正式版還有試煉之塔可以挑戰，並會開放 Steam 社群市場。
+
+英文 (english)
+A single-player idle looter. Arrange heroes on a 4×4 grid; they auto-battle and loot offline. Train up and push on. Beaten bosses join you; Guardian Spirits fight too. Build the Fortress, research, sell or buy at the Market. The full game adds the Trial Tower and Steam Community Market.
+
+日文 (japanese)
+放置で装備を集めるシングルプレイゲーム。4×4の盤面で編成と配置を決めれば、英雄は自動で戦います。オフライン中も資源と装備がたまり、戻って育成して強くなったら次の関へ。倒したボスは仲間に加わり、守護霊も一緒に出陣。要塞で施設を建てて研究を進め、市場で資源を売り、相場を見て足りない素材を買い戻せます。正式版では試練の塔に挑戦でき、Steam コミュニティマーケットも開放されます。
+
+韩文 (koreana)
+방치하며 장비를 모으는 싱글 플레이 게임. 4×4 보드에서 편성과 위치를 정하면 영웅이 자동으로 싸웁니다. 오프라인 중에도 자원과 장비가 쌓이고, 돌아와 육성해 강해지면 다음 관문으로. 쓰러뜨린 보스가 합류하고, 수호령도 함께 출전합니다. 요새에서 시설을 짓고 연구하며, 시장에서 자원을 팔고 시세를 보며 부족한 재료를 사들이세요. 정식판에는 시련의 탑이 있고, Steam 커뮤니티 장터도 열립니다.
+
+德文 (german)
+Solo-Idle voller Beute. Stell Helden aufs 4×4-Feld: Der Autokampf läuft, auch offline fällt Beute. Trainiere und rück vor. Besiegte Bosse und Schutzgeister kämpfen mit. Bau die Festung aus, forsche, kauf und verkauf am Markt. Die Vollversion bringt Prüfungsturm und Steam-Community-Markt.
+
+法文 (french)
+Idle solo à butin. Placez vos héros en 4×4 : combat auto, butin hors ligne. Entraînez et avancez. Boss vaincus et esprits gardiens s'allient. Bâtissez la Forteresse, recherchez, vendez et rachetez au Marché. Le jeu complet offre la Tour des épreuves et le Marché de la communauté Steam.
+
+西班牙文 (spanish)
+Idle de un jugador. Pon héroes en tablero 4×4: combate automático, botín offline. Entrena y avanza. Se unen jefes vencidos y espíritus guardianes. Sube la Fortaleza, investiga, vende y compra en el Mercado. El juego completo trae la Torre de pruebas y el Mercado de la Comunidad de Steam.
+
+巴西葡萄牙文 (brazilian)
+Idle de loot solo. Monte a equipe no tabuleiro 4×4: batalha automática e loot até offline. Treine e avance. Chefes vencidos e espíritos guardiões se juntam. Erga a Fortaleza, pesquise, compre e venda no Mercado. O jogo completo traz a Torre de Desafios e o Mercado da Comunidade Steam.
+
+俄文 (russian)
+Одиночная idle-игра о добыче. Расставьте отряд на поле 4×4: идёт автобой, добыча копится офлайн. Качайтесь и вперёд. Побеждённые боссы входят в отряд, хранители тоже. Стройте Крепость, исследуйте, продавайте и докупайте на рынке. В полной версии — Башня испытаний и Торговая площадка Steam.

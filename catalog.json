@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-11T19:15:35.963598+08:00",
   "hero": "assets/07851087f62e.jpg",
   "items": [
     {
@@ -10929,16 +10929,16 @@
       "summary": "十语补上独立战斗小窗说明与实机动图，展示降低不透明度及悬停恢复清晰。",
       "body": "在事务所段保留原有内容，补充战斗拖出主窗口、放到另一块屏幕、降低不透明度和悬停看清楚的说明与三语实机动图。装备段简中、繁中、韩文动态标题改为开箱；日德法俄装备术语同步游戏正式译名。",
       "localizedShortDescriptions": {
-        "schinese": "单人英雄收集游戏，战斗全自动，阵容你来配。招募英雄，在 4×4 棋盘上搭配站位、职业羁绊与士气；去铁匠铺开箱拿装备，挑好的给英雄装上。战斗还能拖成独立小窗、调低不透明度，边做别的事边挂机。",
-        "tchinese": "單人英雄收集遊戲，戰鬥全自動，陣容你來配。招募英雄，在 4×4 棋盤上搭配站位、職業羈絆與士氣；去鐵匠鋪開箱拿裝備，挑好的給英雄裝上。戰鬥還能拖成獨立小窗、調低不透明度，邊做別的事邊掛機。",
-        "english": "Single-player hero collecting with automatic battles. Arrange heroes on a 4×4 board, weighing positions, class synergies and morale. Open equipment chests at the Blacksmith and equip the best finds. Pop the battle into a mini window and lower its opacity to idle while doing other things.",
-        "japanese": "英雄を集めて編成する、シングルプレイの放置ゲーム。4×4の盤面で配置、職業シナジー、士気を考えて組めば、戦闘は自動で進みます。鍛冶屋で装備の宝箱を開け、良いものを仲間に装備。戦闘は独立した小ウィンドウにでき、不透明度を下げれば、ほかの作業をしながら放置できます。",
-        "koreana": "영웅을 모아 팀을 짜는 싱글 플레이 방치 게임. 4×4 보드에서 위치, 직업 시너지, 사기를 고려해 편성하면 전투는 자동으로 진행됩니다. 대장간에서 장비 상자를 열고 좋은 장비를 장착하세요. 전투를 독립된 작은 창으로 분리하고 불투명도를 낮추면 다른 일을 하면서 방치할 수 있습니다.",
-        "german": "Einzelspielerspiel mit Heldensammlung und Autokämpfen. Stelle Helden auf ein 4×4-Feld – Positionen, Klassensynergien und Moral zählen. Öffne in der Schmiede Ausrüstungskisten und rüste die besten Funde aus. Zieh den Kampf in ein Mini-Fenster, senke die Deckkraft und lass ihn nebenbei laufen.",
-        "french": "Jeu solo de collection de héros aux combats automatiques. Placez vos héros sur une grille 4×4 selon positions, synergies de classe et moral. Ouvrez des coffres d’équipement à la Forge et équipez le meilleur. Passez le combat en mini-fenêtre, baissez son opacité et laissez-le tourner à côté.",
-        "spanish": "Juego individual de colección de héroes con combates automáticos. Coloca héroes en un tablero 4×4 según posiciones, sinergias de clase y moral. Abre cofres de equipo en la herrería y equipa lo mejor. Pasa el combate a una miniventana, baja su opacidad y déjalo en segundo plano.",
-        "brazilian": "Jogo solo de coleção de heróis com batalhas automáticas. Posicione heróis em um tabuleiro 4×4 pensando em posições, sinergias de classe e moral. Abra baús de equipamento na ferraria e equipe o melhor. Leve a batalha para uma minijanela, baixe a opacidade e deixe rodando em segundo plano.",
-        "russian": "Одиночная игра о сборе героев с автоматическими боями. Расставляйте героев на поле 4×4, учитывая позиции, классовые сочетания и боевой дух. Открывайте в кузнице сундуки со снаряжением и экипируйте лучшее. Вынесите бой в мини-окно, снизьте непрозрачность — и пусть идёт, пока вы заняты другим."
+        "schinese": "挂着就能刷宝的单人放置游戏：你在 4×4 棋盘上排好阵容和站位，英雄自动开打，离线也照样攒资源、掉装备；回来把收获拿去培养，队伍变强了，再往下一关推。打赢的首领会加入队伍，守护灵也能一起上阵。要塞里盖建筑、研究科技，市场里卖资源、看行情买回缺的材料。正式版还有试炼之塔可以挑战，并会开放 Steam 社区市场。",
+        "tchinese": "掛著就能刷寶的單人放置遊戲：你在 4×4 棋盤上排好陣容和站位，英雄自動開打，離線也照樣攢資源、掉裝備；回來把收穫拿去培養，隊伍變強了，再往下一關推。打贏的首領會加入隊伍，守護靈也能一起上陣。要塞裡蓋建築、研究科技，市場裡賣資源、看行情買回缺的材料。正式版還有試煉之塔可以挑戰，並會開放 Steam 社群市場。",
+        "english": "A single-player idle looter. Arrange heroes on a 4×4 grid; they auto-battle and loot offline. Train up and push on. Beaten bosses join you; Guardian Spirits fight too. Build the Fortress, research, sell or buy at the Market. The full game adds the Trial Tower and Steam Community Market.",
+        "japanese": "放置で装備を集めるシングルプレイゲーム。4×4の盤面で編成と配置を決めれば、英雄は自動で戦います。オフライン中も資源と装備がたまり、戻って育成して強くなったら次の関へ。倒したボスは仲間に加わり、守護霊も一緒に出陣。要塞で施設を建てて研究を進め、市場で資源を売り、相場を見て足りない素材を買い戻せます。正式版では試練の塔に挑戦でき、Steam コミュニティマーケットも開放されます。",
+        "koreana": "방치하며 장비를 모으는 싱글 플레이 게임. 4×4 보드에서 편성과 위치를 정하면 영웅이 자동으로 싸웁니다. 오프라인 중에도 자원과 장비가 쌓이고, 돌아와 육성해 강해지면 다음 관문으로. 쓰러뜨린 보스가 합류하고, 수호령도 함께 출전합니다. 요새에서 시설을 짓고 연구하며, 시장에서 자원을 팔고 시세를 보며 부족한 재료를 사들이세요. 정식판에는 시련의 탑이 있고, Steam 커뮤니티 장터도 열립니다.",
+        "german": "Solo-Idle voller Beute. Stell Helden aufs 4×4-Feld: Der Autokampf läuft, auch offline fällt Beute. Trainiere und rück vor. Besiegte Bosse und Schutzgeister kämpfen mit. Bau die Festung aus, forsche, kauf und verkauf am Markt. Die Vollversion bringt Prüfungsturm und Steam-Community-Markt.",
+        "french": "Idle solo à butin. Placez vos héros en 4×4 : combat auto, butin hors ligne. Entraînez et avancez. Boss vaincus et esprits gardiens s'allient. Bâtissez la Forteresse, recherchez, vendez et rachetez au Marché. Le jeu complet offre la Tour des épreuves et le Marché de la communauté Steam.",
+        "spanish": "Idle de un jugador. Pon héroes en tablero 4×4: combate automático, botín offline. Entrena y avanza. Se unen jefes vencidos y espíritus guardianes. Sube la Fortaleza, investiga, vende y compra en el Mercado. El juego completo trae la Torre de pruebas y el Mercado de la Comunidad de Steam.",
+        "brazilian": "Idle de loot solo. Monte a equipe no tabuleiro 4×4: batalha automática e loot até offline. Treine e avance. Chefes vencidos e espíritos guardiões se juntam. Erga a Fortaleza, pesquise, compre e venda no Mercado. O jogo completo traz a Torre de Desafios e o Mercado da Comunidade Steam.",
+        "russian": "Одиночная idle-игра о добыче. Расставьте отряд на поле 4×4: идёт автобой, добыча копится офлайн. Качайтесь и вперёд. Побеждённые боссы входят в отряд, хранители тоже. Стройте Крепость, исследуйте, продавайте и докупайте на рынке. В полной версии — Башня испытаний и Торговая площадка Steam."
       },
       "tagPriority": [
         "挂机游戏（放置）",
@@ -11047,7 +11047,25 @@
           "date": "2026-11-11",
           "status": "已发布"
         }
-      ]
+      ],
+      "localizedShortDescriptionHistory": [
+        {
+          "revision": 70,
+          "descriptions": {
+            "schinese": "单人英雄收集游戏，战斗全自动，阵容你来配。招募英雄，在 4×4 棋盘上搭配站位、职业羁绊与士气；去铁匠铺开箱拿装备，挑好的给英雄装上。战斗还能拖成独立小窗、调低不透明度，边做别的事边挂机。",
+            "tchinese": "單人英雄收集遊戲，戰鬥全自動，陣容你來配。招募英雄，在 4×4 棋盤上搭配站位、職業羈絆與士氣；去鐵匠鋪開箱拿裝備，挑好的給英雄裝上。戰鬥還能拖成獨立小窗、調低不透明度，邊做別的事邊掛機。",
+            "english": "Single-player hero collecting with automatic battles. Arrange heroes on a 4×4 board, weighing positions, class synergies and morale. Open equipment chests at the Blacksmith and equip the best finds. Pop the battle into a mini window and lower its opacity to idle while doing other things.",
+            "japanese": "英雄を集めて編成する、シングルプレイの放置ゲーム。4×4の盤面で配置、職業シナジー、士気を考えて組めば、戦闘は自動で進みます。鍛冶屋で装備の宝箱を開け、良いものを仲間に装備。戦闘は独立した小ウィンドウにでき、不透明度を下げれば、ほかの作業をしながら放置できます。",
+            "koreana": "영웅을 모아 팀을 짜는 싱글 플레이 방치 게임. 4×4 보드에서 위치, 직업 시너지, 사기를 고려해 편성하면 전투는 자동으로 진행됩니다. 대장간에서 장비 상자를 열고 좋은 장비를 장착하세요. 전투를 독립된 작은 창으로 분리하고 불투명도를 낮추면 다른 일을 하면서 방치할 수 있습니다.",
+            "german": "Einzelspielerspiel mit Heldensammlung und Autokämpfen. Stelle Helden auf ein 4×4-Feld – Positionen, Klassensynergien und Moral zählen. Öffne in der Schmiede Ausrüstungskisten und rüste die besten Funde aus. Zieh den Kampf in ein Mini-Fenster, senke die Deckkraft und lass ihn nebenbei laufen.",
+            "french": "Jeu solo de collection de héros aux combats automatiques. Placez vos héros sur une grille 4×4 selon positions, synergies de classe et moral. Ouvrez des coffres d’équipement à la Forge et équipez le meilleur. Passez le combat en mini-fenêtre, baissez son opacité et laissez-le tourner à côté.",
+            "spanish": "Juego individual de colección de héroes con combates automáticos. Coloca héroes en un tablero 4×4 según posiciones, sinergias de clase y moral. Abre cofres de equipo en la herrería y equipa lo mejor. Pasa el combate a una miniventana, baja su opacidad y déjalo en segundo plano.",
+            "brazilian": "Jogo solo de coleção de heróis com batalhas automáticas. Posicione heróis em um tabuleiro 4×4 pensando em posições, sinergias de classe e moral. Abra baús de equipamento na ferraria e equipe o melhor. Leve a batalha para uma minijanela, baixe a opacidade e deixe rodando em segundo plano.",
+            "russian": "Одиночная игра о сборе героев с автоматическими боями. Расставляйте героев на поле 4×4, учитывая позиции, классовые сочетания и боевой дух. Открывайте в кузнице сундуки со снаряжением и экипируйте лучшее. Вынесите бой в мини-окно, снизьте непрозрачность — и пусть идёт, пока вы заняты другим."
+          }
+        }
+      ],
+      "shortDescriptionRevision": 72
     },
     {
       "id": "heybox-wishlist-1000-20261111",
@@ -11069,6 +11087,101 @@
       ],
       "status": "用户已发布 · 公开链接已核实",
       "detailNote": "标题、正文、游戏卡片和标签依据发布核对记录。后续更换封面的公开效果未在本轮复核。"
+    },
+    {
+      "id": "steam-short-description-20261111-r72",
+      "title": "Steam 游戏简介 · 配阵刷宝与市场",
+      "category": "文案",
+      "group": "Steam 文案",
+      "date": "2026-11-11",
+      "dateBasis": "Steam修订72十语公开核对",
+      "summary": "更新十语顶部简介，介绍配阵刷宝、离线成长、首领与守护灵、要塞研究，以及两种市场。",
+      "body": "挂着就能刷宝的单人放置游戏：你在 4×4 棋盘上排好阵容和站位，英雄自动开打，离线也照样攒资源、掉装备；回来把收获拿去培养，队伍变强了，再往下一关推。打赢的首领会加入队伍，守护灵也能一起上阵。要塞里盖建筑、研究科技，市场里卖资源、看行情买回缺的材料。正式版还有试炼之塔可以挑战，并会开放 Steam 社区市场。",
+      "localizedShortDescriptions": {
+        "schinese": "挂着就能刷宝的单人放置游戏：你在 4×4 棋盘上排好阵容和站位，英雄自动开打，离线也照样攒资源、掉装备；回来把收获拿去培养，队伍变强了，再往下一关推。打赢的首领会加入队伍，守护灵也能一起上阵。要塞里盖建筑、研究科技，市场里卖资源、看行情买回缺的材料。正式版还有试炼之塔可以挑战，并会开放 Steam 社区市场。",
+        "tchinese": "掛著就能刷寶的單人放置遊戲：你在 4×4 棋盤上排好陣容和站位，英雄自動開打，離線也照樣攢資源、掉裝備；回來把收穫拿去培養，隊伍變強了，再往下一關推。打贏的首領會加入隊伍，守護靈也能一起上陣。要塞裡蓋建築、研究科技，市場裡賣資源、看行情買回缺的材料。正式版還有試煉之塔可以挑戰，並會開放 Steam 社群市場。",
+        "english": "A single-player idle looter. Arrange heroes on a 4×4 grid; they auto-battle and loot offline. Train up and push on. Beaten bosses join you; Guardian Spirits fight too. Build the Fortress, research, sell or buy at the Market. The full game adds the Trial Tower and Steam Community Market.",
+        "japanese": "放置で装備を集めるシングルプレイゲーム。4×4の盤面で編成と配置を決めれば、英雄は自動で戦います。オフライン中も資源と装備がたまり、戻って育成して強くなったら次の関へ。倒したボスは仲間に加わり、守護霊も一緒に出陣。要塞で施設を建てて研究を進め、市場で資源を売り、相場を見て足りない素材を買い戻せます。正式版では試練の塔に挑戦でき、Steam コミュニティマーケットも開放されます。",
+        "koreana": "방치하며 장비를 모으는 싱글 플레이 게임. 4×4 보드에서 편성과 위치를 정하면 영웅이 자동으로 싸웁니다. 오프라인 중에도 자원과 장비가 쌓이고, 돌아와 육성해 강해지면 다음 관문으로. 쓰러뜨린 보스가 합류하고, 수호령도 함께 출전합니다. 요새에서 시설을 짓고 연구하며, 시장에서 자원을 팔고 시세를 보며 부족한 재료를 사들이세요. 정식판에는 시련의 탑이 있고, Steam 커뮤니티 장터도 열립니다.",
+        "german": "Solo-Idle voller Beute. Stell Helden aufs 4×4-Feld: Der Autokampf läuft, auch offline fällt Beute. Trainiere und rück vor. Besiegte Bosse und Schutzgeister kämpfen mit. Bau die Festung aus, forsche, kauf und verkauf am Markt. Die Vollversion bringt Prüfungsturm und Steam-Community-Markt.",
+        "french": "Idle solo à butin. Placez vos héros en 4×4 : combat auto, butin hors ligne. Entraînez et avancez. Boss vaincus et esprits gardiens s'allient. Bâtissez la Forteresse, recherchez, vendez et rachetez au Marché. Le jeu complet offre la Tour des épreuves et le Marché de la communauté Steam.",
+        "spanish": "Idle de un jugador. Pon héroes en tablero 4×4: combate automático, botín offline. Entrena y avanza. Se unen jefes vencidos y espíritus guardianes. Sube la Fortaleza, investiga, vende y compra en el Mercado. El juego completo trae la Torre de pruebas y el Mercado de la Comunidad de Steam.",
+        "brazilian": "Idle de loot solo. Monte a equipe no tabuleiro 4×4: batalha automática e loot até offline. Treine e avance. Chefes vencidos e espíritos guardiões se juntam. Erga a Fortaleza, pesquise, compre e venda no Mercado. O jogo completo traz a Torre de Desafios e o Mercado da Comunidade Steam.",
+        "russian": "Одиночная idle-игра о добыче. Расставьте отряд на поле 4×4: идёт автобой, добыча копится офлайн. Качайтесь и вперёд. Побеждённые боссы входят в отряд, хранители тоже. Стройте Крепость, исследуйте, продавайте и докупайте на рынке. В полной версии — Башня испытаний и Торговая площадка Steam."
+      },
+      "shortDescriptionRevision": 72,
+      "files": [
+        {
+          "name": "Steam游戏简介 · 十语定稿.txt",
+          "url": "assets/steam-intro-r72-9e66ed0dfe64316d.txt",
+          "type": "text",
+          "sha256": "9e66ed0dfe64316d4231fb6d899ff447e49c8f9b4a1c6d3b7d9f6bfb440f127e"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        }
+      ],
+      "status": "已发布 · 十语公开页与接口核对通过",
+      "detailNote": "简中采用用户认可的原文；其他九语由Claude翻译并复核。正式版会开放Steam社区市场；游戏内资源市场与社区市场分别表述。"
     }
   ]
 }

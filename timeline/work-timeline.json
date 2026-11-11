@@ -1547,6 +1547,18 @@
       "category": "素材归档",
       "text": "将主预告片v30与精简宣传片v31的六份母片归入成片，旧六份母片及三份中间版移到可恢复废纸篓。",
       "url": "/?work=steam-short-trailer-20261111-v31"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "Steam文案",
+      "text": "参考热门放置游戏简介写法，与Claude重写并复核十语简介，简中由用户确认定稿。",
+      "url": "/?work=steam-short-description-20261111-r72"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "Steam发布",
+      "text": "十语顶部简介更新至修订72，补充配阵刷宝、离线成长和市场玩法；逐语核对公开页。",
+      "url": "/?work=steam-short-description-20261111-r72"
     }
   ]
 }
