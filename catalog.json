@@ -664,46 +664,46 @@
     },
     {
       "id": "steam-main-trailer",
-      "title": "Steam 主预告片 · v29",
+      "title": "Steam 主预告片 · v30",
       "category": "宣传视频",
       "date": "2026-11-11",
-      "dateBasis": "Steam 修订64公开发布日期",
-      "summary": "59.85秒三语实机预告片，更新英雄演出、战斗和界面画面。",
+      "dateBasis": "Steam 修订69主片 / 修订70精简片公开核对",
+      "summary": "63.37秒三语实机视频，补入装备开箱、揭晓和结果画面。",
       "files": [
         {
-          "name": "放置事务所_Steam主预告片_v29.mp4",
-          "url": "assets/v29-main-schinese-7c6780051e79.mp4",
+          "name": "放置事务所_Steam主预告片_v30.mp4",
+          "url": "assets/v30-main-schinese-18969db3dc65.mp4",
           "type": "video",
-          "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v29.mp4",
-          "sha256": "02023f628826936eb14cf3919f811c045201d93f660bee96d3be5634c0e68048",
-          "previewSha256": "7c6780051e795f30e5a18a10b652855cd455a2e5f63b973863217983183d961c",
+          "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v30.mp4",
+          "sha256": "4266aaec0ef9cf31ec6416d1f32197d8bca9812f2faf90c17416d65f88d6d569",
+          "previewSha256": "18969db3dc6587994642133626bc0ee50444d9f8fb16b4eec874a74c8b5ee26a",
           "updated": "2026-11-11"
         },
         {
-          "name": "英文版v29.mp4",
-          "url": "assets/v29-main-english-b80687ffd735.mp4",
+          "name": "英文版v30.mp4",
+          "url": "assets/v30-main-english-7a77a6b4a6fa.mp4",
           "type": "video",
-          "source": "视频制作/steam/Steam主预告片/成片/英文版v29.mp4",
-          "sha256": "25d66c34d3df1fddb684059b660576b8dcc6ac9922700f73c65317ba22bbe236",
-          "previewSha256": "b80687ffd7359be2bd4f4c9662f6e405a5b3f13b8007a9bf9e974ca1f76f50b9",
+          "source": "视频制作/steam/Steam主预告片/成片/英文版v30.mp4",
+          "sha256": "0b1d5f98f60c5d7d37ffd8bd2926c3653c6662b92755be804f376b61313acfd5",
+          "previewSha256": "7a77a6b4a6fa50aab9ba93a865b3c1156f071a44fe38874dba4db64c188fe795",
           "updated": "2026-11-11"
         },
         {
-          "name": "繁中版v29.mp4",
-          "url": "assets/v29-main-tchinese-07a360f11e72.mp4",
+          "name": "繁中版v30.mp4",
+          "url": "assets/v30-main-tchinese-35309cf7ad01.mp4",
           "type": "video",
-          "source": "视频制作/steam/Steam主预告片/成片/繁中版v29.mp4",
-          "sha256": "1537915038fd4d57f4e2e6a013797c66b890c0816bc275cda4f4b7d2b717b214",
-          "previewSha256": "07a360f11e7250b5817d66dbc9976cb1a9a3bdbe10ce6f03cda6a1efacb63162",
+          "source": "视频制作/steam/Steam主预告片/成片/繁中版v30.mp4",
+          "sha256": "629d831ac9b3e8c8f63fc3f6760f87cab50cc5cfe1fa75407ed5cab8dc54c84b",
+          "previewSha256": "35309cf7ad012b428046d50a3a84fca6edb48e994f280d173f0664826b954f63",
           "updated": "2026-11-11"
         }
       ],
-      "status": "已发布 · Steam十语公开核对通过",
-      "body": "Steam正式版主预告片已更新至v29。简中、繁中各用对应成片，其余八语使用英文版。以5f8f701a5实际画面对照验收，部分未变化镜头保留经验证的既有录制。",
-      "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v29.mp4",
-      "cover": "assets/v29-main-schinese-3a422d5ad0a0.jpg",
-      "detailNote": "商店修订64，十语公开页已核对。网页提供三语压缩预览，旧版归档及链接保留。",
-      "duration": 59.85,
+      "status": "已发布 · 十语实际公开页核对通过",
+      "body": "主预告片补入装备开箱的完整关键镜头。沿用已验收的年轻英雄选角与风暴血君雷电大招。简中、繁中各用对应成片，其他八种语言使用英文版。",
+      "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v30.mp4",
+      "cover": "assets/v30-main-schinese-b63270ae2a5b.jpg",
+      "detailNote": "网页提供三语压缩预览；原始1080p60母片已验收。十语核对视频播放、截图及详情页动效。",
+      "duration": 63.373833,
       "links": [
         {
           "platform": "Steam · schinese",
@@ -10704,6 +10704,371 @@
           "status": "已发布"
         }
       ]
+    },
+    {
+      "id": "steam-main-trailer-v29-20261111",
+      "title": "Steam 主预告片 · v29（历史版）",
+      "category": "宣传视频",
+      "date": "2026-11-11",
+      "dateBasis": "Steam 修订64公开发布日期",
+      "summary": "59.85秒三语实机预告片，更新英雄演出、战斗和界面画面。",
+      "files": [
+        {
+          "name": "放置事务所_Steam主预告片_v29.mp4",
+          "url": "assets/v29-main-schinese-7c6780051e79.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v29.mp4",
+          "sha256": "02023f628826936eb14cf3919f811c045201d93f660bee96d3be5634c0e68048",
+          "previewSha256": "7c6780051e795f30e5a18a10b652855cd455a2e5f63b973863217983183d961c",
+          "updated": "2026-11-11"
+        },
+        {
+          "name": "英文版v29.mp4",
+          "url": "assets/v29-main-english-b80687ffd735.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/英文版v29.mp4",
+          "sha256": "25d66c34d3df1fddb684059b660576b8dcc6ac9922700f73c65317ba22bbe236",
+          "previewSha256": "b80687ffd7359be2bd4f4c9662f6e405a5b3f13b8007a9bf9e974ca1f76f50b9",
+          "updated": "2026-11-11"
+        },
+        {
+          "name": "繁中版v29.mp4",
+          "url": "assets/v29-main-tchinese-07a360f11e72.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/繁中版v29.mp4",
+          "sha256": "1537915038fd4d57f4e2e6a013797c66b890c0816bc275cda4f4b7d2b717b214",
+          "previewSha256": "07a360f11e7250b5817d66dbc9976cb1a9a3bdbe10ce6f03cda6a1efacb63162",
+          "updated": "2026-11-11"
+        }
+      ],
+      "status": "已发布 · Steam十语公开核对通过",
+      "body": "Steam正式版主预告片已更新至v29。简中、繁中各用对应成片，其余八语使用英文版。以5f8f701a5实际画面对照验收，部分未变化镜头保留经验证的既有录制。",
+      "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v29.mp4",
+      "cover": "assets/v29-main-schinese-3a422d5ad0a0.jpg",
+      "detailNote": "商店修订64，十语公开页已核对。网页提供三语压缩预览，旧版归档及链接保留。 已被 v30 替换；历史压缩预览保留。",
+      "duration": 59.85,
+      "links": [
+        {
+          "platform": "Steam · schinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · tchinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · english",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · japanese",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · koreana",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · german",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · french",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · spanish",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · brazilian",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · russian",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        }
+      ],
+      "group": "Steam 视频",
+      "sourceCommit": "5f8f701a5c9fa78262b32f2e10316be2e5b6a27f"
+    },
+    {
+      "id": "steam-short-trailer-20261111-v31",
+      "title": "Steam 精简宣传片 · v31",
+      "category": "宣传视频",
+      "group": "Steam 视频",
+      "date": "2026-11-11",
+      "dateBasis": "Steam 修订69主片 / 修订70精简片公开核对",
+      "summary": "32.85秒三语实机视频，补入装备开箱、揭晓和结果画面。",
+      "body": "精简片补入装备开箱镜头，并补齐片尾配乐。沿用已验收的年轻英雄选角与风暴血君雷电大招。简中、繁中各用对应成片，其他八种语言使用英文版。",
+      "files": [
+        {
+          "name": "简中横屏版_Steam精简宣传片.mp4",
+          "url": "assets/v31-short-schinese-88d17da1b7d4.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/简中横屏版_Steam精简宣传片.mp4",
+          "sha256": "cd8ec4290a5619b707421cc60d0e3dba4ef5c073a8785c424588515724953cf7",
+          "previewSha256": "88d17da1b7d45a2aa4da5bae1a780c003fc41dc645448013efa5d4be779568a3",
+          "updated": "2026-11-11"
+        },
+        {
+          "name": "英文横屏版_Steam精简宣传片.mp4",
+          "url": "assets/v31-short-english-79450aa6e74a.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/英文横屏版_Steam精简宣传片.mp4",
+          "sha256": "c240a69cf106073d47f334002242658ed860e71613137e75dc491ae9299f0693",
+          "previewSha256": "79450aa6e74a42a4f52d4edbdc8859f252c86456b6609dc836b4313460e69821",
+          "updated": "2026-11-11"
+        },
+        {
+          "name": "繁中横屏版_Steam精简宣传片.mp4",
+          "url": "assets/v31-short-tchinese-568a59383ac3.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/繁中横屏版_Steam精简宣传片.mp4",
+          "sha256": "05bb583a98d4deca2d488bb67658e9a4043deeab2afb16a69be320707193ccab",
+          "previewSha256": "568a59383ac3da188193cb2bb9b5c9b2765714af7cce17b2ed6192c87f7b000a",
+          "updated": "2026-11-11"
+        }
+      ],
+      "cover": "assets/v31-short-schinese-0132520a2882.jpg",
+      "links": [
+        {
+          "platform": "Steam · schinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · tchinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · english",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · japanese",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · koreana",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · german",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · french",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · spanish",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · brazilian",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · russian",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        }
+      ],
+      "duration": 32.85,
+      "status": "已发布 · 十语实际公开页核对通过",
+      "source": "视频制作/steam/Steam精简宣传片/成片/简中横屏版_Steam精简宣传片.mp4",
+      "sourceCommit": "5f8f701a5c9fa78262b32f2e10316be2e5b6a27f",
+      "detailNote": "网页提供三语压缩预览；原始1080p60母片已验收。十语核对视频播放、截图及详情页动效。"
+    },
+    {
+      "id": "steam-detail-desktop-window-20261111-r70",
+      "title": "Steam 详情页 · 独立战斗小窗与开箱标题",
+      "category": "封面与视觉",
+      "group": "详情页图片",
+      "date": "2026-11-11",
+      "dateBasis": "Steam修订70公开核对",
+      "summary": "十语补上独立战斗小窗说明与实机动图，展示降低不透明度及悬停恢复清晰。",
+      "body": "在事务所段保留原有内容，补充战斗拖出主窗口、放到另一块屏幕、降低不透明度和悬停看清楚的说明与三语实机动图。装备段简中、繁中、韩文动态标题改为开箱；日德法俄装备术语同步游戏正式译名。",
+      "localizedShortDescriptions": {
+        "schinese": "单人英雄收集游戏，战斗全自动，阵容你来配。招募英雄，在 4×4 棋盘上搭配站位、职业羁绊与士气；去铁匠铺开箱拿装备，挑好的给英雄装上。战斗还能拖成独立小窗、调低不透明度，边做别的事边挂机。",
+        "tchinese": "單人英雄收集遊戲，戰鬥全自動，陣容你來配。招募英雄，在 4×4 棋盤上搭配站位、職業羈絆與士氣；去鐵匠鋪開箱拿裝備，挑好的給英雄裝上。戰鬥還能拖成獨立小窗、調低不透明度，邊做別的事邊掛機。",
+        "english": "Single-player hero collecting with automatic battles. Arrange heroes on a 4×4 board, weighing positions, class synergies and morale. Open equipment chests at the Blacksmith and equip the best finds. Pop the battle into a mini window and lower its opacity to idle while doing other things.",
+        "japanese": "英雄を集めて編成する、シングルプレイの放置ゲーム。4×4の盤面で配置、職業シナジー、士気を考えて組めば、戦闘は自動で進みます。鍛冶屋で装備の宝箱を開け、良いものを仲間に装備。戦闘は独立した小ウィンドウにでき、不透明度を下げれば、ほかの作業をしながら放置できます。",
+        "koreana": "영웅을 모아 팀을 짜는 싱글 플레이 방치 게임. 4×4 보드에서 위치, 직업 시너지, 사기를 고려해 편성하면 전투는 자동으로 진행됩니다. 대장간에서 장비 상자를 열고 좋은 장비를 장착하세요. 전투를 독립된 작은 창으로 분리하고 불투명도를 낮추면 다른 일을 하면서 방치할 수 있습니다.",
+        "german": "Einzelspielerspiel mit Heldensammlung und Autokämpfen. Stelle Helden auf ein 4×4-Feld – Positionen, Klassensynergien und Moral zählen. Öffne in der Schmiede Ausrüstungskisten und rüste die besten Funde aus. Zieh den Kampf in ein Mini-Fenster, senke die Deckkraft und lass ihn nebenbei laufen.",
+        "french": "Jeu solo de collection de héros aux combats automatiques. Placez vos héros sur une grille 4×4 selon positions, synergies de classe et moral. Ouvrez des coffres d’équipement à la Forge et équipez le meilleur. Passez le combat en mini-fenêtre, baissez son opacité et laissez-le tourner à côté.",
+        "spanish": "Juego individual de colección de héroes con combates automáticos. Coloca héroes en un tablero 4×4 según posiciones, sinergias de clase y moral. Abre cofres de equipo en la herrería y equipa lo mejor. Pasa el combate a una miniventana, baja su opacidad y déjalo en segundo plano.",
+        "brazilian": "Jogo solo de coleção de heróis com batalhas automáticas. Posicione heróis em um tabuleiro 4×4 pensando em posições, sinergias de classe e moral. Abra baús de equipamento na ferraria e equipe o melhor. Leve a batalha para uma minijanela, baixe a opacidade e deixe rodando em segundo plano.",
+        "russian": "Одиночная игра о сборе героев с автоматическими боями. Расставляйте героев на поле 4×4, учитывая позиции, классовые сочетания и боевой дух. Открывайте в кузнице сундуки со снаряжением и экипируйте лучшее. Вынесите бой в мини-окно, снизьте непрозрачность — и пусть идёт, пока вы заняты другим."
+      },
+      "tagPriority": [
+        "挂机游戏（放置）",
+        "刷宝",
+        "自走棋"
+      ],
+      "files": [
+        {
+          "name": "schinese · 独立战斗小窗与透明度",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/546734ab4074e7324e4e2e616a130906e01c752e.gif",
+          "type": "image",
+          "sha256": "d2696cc3f13e331d58ba66689f59c855941945a12274e73b77a93fb8de67b05f"
+        },
+        {
+          "name": "english · 独立战斗小窗与透明度",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/b766f0612ce5ad3ce0d22c13b3bcfb5bf212483b.gif",
+          "type": "image",
+          "sha256": "25c4c17eee275bbc868b353657c5520e297ab1410cb18225be8cf2486a9f4b2f"
+        },
+        {
+          "name": "tchinese · 独立战斗小窗与透明度",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/1ce1c7b0cb50c1f974b30cc965aa50759a546bc5.gif",
+          "type": "image",
+          "sha256": "23c61eaca4524345860d0b0bbbc46beec18dfb06a92c9109d0c66422ad367edd"
+        },
+        {
+          "name": "schinese · 开箱段动态标题",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/a3daa52e884876fcab683cedbf3de2b5045ae975.gif",
+          "type": "image",
+          "sha256": "eae8f10bb62e9889b943d7dc0cf732e6cc008685d4bccae5daa8e490b5b7f718"
+        },
+        {
+          "name": "tchinese · 开箱段动态标题",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/45a616ae145a8b1885d662364947326c8bd1753d.gif",
+          "type": "image",
+          "sha256": "d6f41e2a9dfa5ab836b3fe7a8609dc113a9aed2d7f7291a03bc7522f908c9d35"
+        },
+        {
+          "name": "koreana · 开箱段动态标题",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/1686c3fb69728a222a1934ef6b6f744fb993ed3c.gif",
+          "type": "image",
+          "sha256": "ede28bb755ff35a246a3d91e4c53295639d9913f102b9308d0ff5b8f1dc0f3f8"
+        }
+      ],
+      "cover": "https://clan.fastly.steamstatic.com/images/46216320/546734ab4074e7324e4e2e616a130906e01c752e.gif",
+      "status": "已发布 · 十语公开页与动效核对通过",
+      "detailNote": "每语9段、19张详情图及9张商店截图；本次桌宠内容仅新增到详情页，两支片未加入桌宠镜头。",
+      "links": [
+        {
+          "platform": "Steam · schinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · tchinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · english",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · japanese",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · koreana",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · german",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · french",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · spanish",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · brazilian",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · russian",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        }
+      ]
+    },
+    {
+      "id": "heybox-wishlist-1000-20261111",
+      "title": "愿望单破千了！！《放置事务所》你想来试试吗（求建议版）",
+      "category": "文案",
+      "group": "平台文案",
+      "date": "2026-11-11",
+      "dateBasis": "用户自行发布并核实公开直达页",
+      "summary": "小黑盒愿望单破千纪念与试玩邀请，由用户自行发布。",
+      "body": "感谢试玩反馈，介绍阵容搭配、首领招募、装备与离线养成，并邀请免费试玩。",
+      "files": [],
+      "links": [
+        {
+          "platform": "小黑盒",
+          "url": "https://www.xiaoheihe.cn/app/bbs/link/196650584",
+          "date": "2026-11-11",
+          "status": "已公开"
+        }
+      ],
+      "status": "用户已发布 · 公开链接已核实",
+      "detailNote": "标题、正文、游戏卡片和标签依据发布核对记录。后续更换封面的公开效果未在本轮复核。"
     }
   ]
 }

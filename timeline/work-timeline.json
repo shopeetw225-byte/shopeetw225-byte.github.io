@@ -1511,6 +1511,42 @@
       "category": "视频制作",
       "text": "更新两支Steam宣传片的三语版本，补入装备开箱、揭晓和结果展示镜头。",
       "url": "/?work=steam-main-trailer"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "视频制作",
+      "text": "完成5f8f版两支Steam宣传片、27张截图和三语实机动图制作，经独立画面对照验收。",
+      "url": "/?work=steam-main-trailer-v29-20261111"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "素材归档",
+      "text": "将11月11日已发布的六份v29母片归入成片，替换旧片移到可恢复废纸篓。",
+      "url": "/?work=steam-main-trailer-v29-20261111"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "平台发布",
+      "text": "用户自行发布小黑盒愿望单破千纪念与试玩邀请，已核实公开直达链接。",
+      "url": "/?work=heybox-wishlist-1000-20261111"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "Steam发布",
+      "text": "发布三语主预告片v30、精简宣传片v31，补齐开箱镜头与片尾配乐，十语公开核对通过。",
+      "url": "/?work=steam-short-trailer-20261111-v31"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "Steam详情",
+      "text": "十语补充独立战斗小窗与透明度说明、实机动图，重写顶部简介，更换三语开箱标题；标签按放置、刷宝、自走棋排前三。",
+      "url": "/?work=steam-detail-desktop-window-20261111-r70"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "素材归档",
+      "text": "将主预告片v30与精简宣传片v31的六份母片归入成片，旧六份母片及三份中间版移到可恢复废纸篓。",
+      "url": "/?work=steam-short-trailer-20261111-v31"
     }
   ]
 }
