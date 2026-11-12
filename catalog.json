@@ -11421,6 +11421,92 @@
           "status": "已发布"
         }
       ]
+    },
+    {
+      "date": "2026-11-12",
+      "dateBasis": "当日完成与上传核查记录",
+      "status": "成片归档",
+      "body": "",
+      "source": "视频制作/平台視頻/第十五期 开发版介绍/成片/简中横屏版_第15期_开发版新改.mp4",
+      "links": [],
+      "id": "episode15-dev-update-20261112",
+      "title": "第十五期 · 开发版介绍",
+      "category": "宣传视频",
+      "group": "平台视频",
+      "episode": 15,
+      "episodeLabel": "开发日志 · 第十五期",
+      "summary": "更新开发版介绍，补入独立小窗、透明度展示和正式版市场说明。",
+      "duration": 130.6,
+      "cover": "assets/ep15-cover-ad70e745e989.jpg",
+      "files": [
+        {
+          "name": "简中横屏版 · 第十五期",
+          "url": "assets/ep15-a282cc8b9884.mp4",
+          "type": "video",
+          "source": "视频制作/平台視頻/第十五期 开发版介绍/成片/简中横屏版_第15期_开发版新改.mp4",
+          "sha256": "a282cc8b98849d18c306191bd3aa5da5598785db95d62f6e3a1e45a1d0c9f92d"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "dateBasis": "当日完成与上传核查记录",
+      "status": "成片归档",
+      "body": "",
+      "source": "视频制作/平台視頻/第十五期 开发版介绍/成片/简中横屏版_第15期_开发版新改.mp4",
+      "links": [],
+      "id": "episode15-covers-20261112",
+      "title": "第十五期 · 装备主图封面",
+      "category": "封面与视觉",
+      "group": "视频封面",
+      "episode": 15,
+      "summary": "B站、抖音和小红书使用的新版装备主图封面。",
+      "cover": "assets/ep15-cover-ad70e745e989.jpg",
+      "files": [
+        {
+          "name": "抖音封面_第15期_装备主图_竖版",
+          "url": "assets/ep15-cover-ad70e745e989.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/第十五期 开发版新改/抖音封面_第15期_装备主图_竖版.png",
+          "sha256": "ad70e745e989844b77b5fc021dcc161fcd85b882c609c37fe0a58787feabe1ff"
+        },
+        {
+          "name": "B站封面_第15期_装备主图_4比3",
+          "url": "assets/ep15-cover-4227c3075f27.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/第十五期 开发版新改/B站封面_第15期_装备主图_4比3.png",
+          "sha256": "4227c3075f2788f4aa7460e37bc42762c835dbdf022e7ee30fe026a19798bc63"
+        },
+        {
+          "name": "小红书封面_第15期_装备主图_3比4",
+          "url": "assets/ep15-cover-910c00df686f.jpg",
+          "type": "image",
+          "source": "视频制作/封面/发平台的/第十五期 开发版新改/小红书封面_第15期_装备主图_3比4.png",
+          "sha256": "910c00df686f584155e2571e1bd9c233417a6253dcda3fe0a82ba58f454afdb0"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "dateBasis": "用户本人发布，公开页2026-11-12核实",
+      "status": "已发布",
+      "body": "",
+      "source": "output/heybox-lineup-guide-20261112/上传进度.json",
+      "links": [
+        {
+          "platform": "小黑盒",
+          "url": "https://www.xiaoheihe.cn/app/bbs/link/196747184",
+          "date": "2026-11-12",
+          "status": "已公开"
+        }
+      ],
+      "id": "heybox-lineup-guide-20261112",
+      "title": "小黑盒 · 新手编队攻略",
+      "category": "文案",
+      "group": "平台文案",
+      "summary": "整理新手编队、站位与阵容搭配，制作实机配图及战斗动图。",
+      "files": [],
+      "cover": ""
     }
   ]
 }
