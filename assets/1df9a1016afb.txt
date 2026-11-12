@@ -19,18 +19,18 @@ Isto não é uma atualização: quero explicar direitinho os ganhos offline que 
 
 [h2]Quanto tempo offline é contado[/h2]
 A base é de 12 horas. Duas pesquisas da Academia, "Vigília Noturna" e "Estrada do Posto Fronteiriço", aumentam esse limite; o limite atual dá para ver na Academia.
-[img]{STEAM_CLAN_IMAGE}/46216320/1dd31007a875259bd4a2343d2763ac1f65cd5070.jpg[/img]
+[img]https://clan.akamai.steamstatic.com/images/46216320/1dd31007a875259bd4a2343d2763ac1f65cd5070.jpg[/img]
 
 [h2]Monte a formação antes de dormir[/h2]
 O "Avanço automático" já vem ligado por padrão. Enquanto você não desligar na mão, quando estiver offline a equipe continua avançando com a mesma formação de quando você saiu, e para assim que perder uma batalha. Na demo, dá para avançar no máximo até a fase 800.
 Então, gastar um minuto montando a formação antes de dormir vale mais do que qualquer coisa.
-[img]{STEAM_CLAN_IMAGE}/46216320/a854316d5678cbc77fbe5d31c5bfe5b6f359dbf3.jpg[/img]
+[img]https://clan.akamai.steamstatic.com/images/46216320/a854316d5678cbc77fbe5d31c5bfe5b6f359dbf3.jpg[/img]
 
 [h2]Quando voltar, veja primeiro o relatório offline[/h2]
 Se você ficou fora por mais tempo, ao abrir o jogo aparece primeiro "Contando ganhos offline" com o progresso, e quando termina abre o relatório offline: quanto tempo você ficou fora, quantas horas foram contadas, quais recursos e equipamentos você ganhou e quantas fases avançou, está tudo ali.
-[img]{STEAM_CLAN_IMAGE}/46216320/e285b8cee389981e653d1350bc2dec89a8277cd5.jpg[/img]
+[img]https://clan.akamai.steamstatic.com/images/46216320/e285b8cee389981e653d1350bc2dec89a8277cd5.jpg[/img]
 Os ganhos já entram na conta durante o cálculo; "Coletar espólios" só fecha o relatório. Se você fechar o jogo no meio do cálculo, não perde nada: da próxima vez que abrir, ele calcula de novo.
-[img]{STEAM_CLAN_IMAGE}/46216320/0c8cda640d78cd061c3457347bf4db4dfcbb6b4d.jpg[/img]
+[img]https://clan.akamai.steamstatic.com/images/46216320/0c8cda640d78cd061c3457347bf4db4dfcbb6b4d.jpg[/img]
 
 [h2]Quando o jogo fica aberto e você vai fazer outra coisa[/h2]
 Depois da fase 60, o tempo em que o jogo fica aberto mas a equipe não está lutando no automático conta como tempo offline: ele é calculado junto da próxima vez que você abrir o jogo e também segue o limite offline.

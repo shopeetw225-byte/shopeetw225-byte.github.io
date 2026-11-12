@@ -19,18 +19,18 @@
 
 [h2]오프라인은 얼마나 계산될까[/h2]
 기본은 12시간까지 계산돼요. 학원의 "야경꾼"과 "변경 역로" 두 연구로 상한을 더 올릴 수 있고, 지금 상한이 얼마인지는 학원에서 볼 수 있어요.
-[img]{STEAM_CLAN_IMAGE}/46216320/1dd31007a875259bd4a2343d2763ac1f65cd5070.jpg[/img]
+[img]https://clan.akamai.steamstatic.com/images/46216320/1dd31007a875259bd4a2343d2763ac1f65cd5070.jpg[/img]
 
 [h2]자기 전에 편성 맞춰 두기[/h2]
 "자동 진행"은 기본으로 켜져 있어요. 직접 끄지 않았다면 오프라인 동안 팀이 떠나기 전 편성 그대로 계속 다음 스테이지로 나아가고, 한 번 지면 멈춰요. 데모에서는 최대 800스테이지까지 나아가요.
 그러니 자기 전에 일 분만 들여 편성을 맞춰 두는 게 무엇보다 효과가 좋아요.
-[img]{STEAM_CLAN_IMAGE}/46216320/a854316d5678cbc77fbe5d31c5bfe5b6f359dbf3.jpg[/img]
+[img]https://clan.akamai.steamstatic.com/images/46216320/a854316d5678cbc77fbe5d31c5bfe5b6f359dbf3.jpg[/img]
 
 [h2]돌아오면 오프라인 보고서부터[/h2]
 조금 오래 자리를 비웠다면 게임을 켤 때 먼저 "오프라인 수익 집계 중"과 진행도가 나오고, 계산이 끝나면 오프라인 보고서가 떠요. 오프라인이었던 시간, 반영된 시간, 얻은 자원과 장비, 나아간 스테이지 수가 모두 적혀 있어요.
-[img]{STEAM_CLAN_IMAGE}/46216320/e285b8cee389981e653d1350bc2dec89a8277cd5.jpg[/img]
+[img]https://clan.akamai.steamstatic.com/images/46216320/e285b8cee389981e653d1350bc2dec89a8277cd5.jpg[/img]
 수익은 정산할 때 이미 들어와 있어서, "전리품 수령"은 보고서를 닫기만 하는 버튼이에요. 정산 도중에 게임을 꺼도 사라지지 않고, 다음에 켜면 다시 계산해요.
-[img]{STEAM_CLAN_IMAGE}/46216320/0c8cda640d78cd061c3457347bf4db4dfcbb6b4d.jpg[/img]
+[img]https://clan.akamai.steamstatic.com/images/46216320/0c8cda640d78cd061c3457347bf4db4dfcbb6b4d.jpg[/img]
 
 [h2]게임을 켜 둔 채 다른 일을 할 때[/h2]
 60스테이지를 넘긴 뒤에는, 게임은 켜져 있는데 팀이 자동으로 싸우고 있지 않은 시간이 오프라인 시간으로 기록돼요. 다음에 게임을 켤 때 함께 정산되고, 오프라인 상한도 똑같이 적용돼요.

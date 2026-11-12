@@ -19,18 +19,18 @@ Das hier ist kein Update. Ich möchte die Offline-Erträge, die es in der Demo s
 
 [h2]Wie lange offline gezählt wird[/h2]
 Grundsätzlich werden bis zu 12 Stunden gezählt. Mit den beiden Akademie-Forschungen „Nachtwache“ und „Grenzpoststraße“ lässt sich das Limit weiter anheben; wie hoch es gerade ist, seht ihr in der Akademie.
-[img]{STEAM_CLAN_IMAGE}/46216320/1dd31007a875259bd4a2343d2763ac1f65cd5070.jpg[/img]
+[img]https://clan.akamai.steamstatic.com/images/46216320/1dd31007a875259bd4a2343d2763ac1f65cd5070.jpg[/img]
 
 [h2]Vor dem Schlafen den Trupp aufstellen[/h2]
 „Auto-Vorrücken“ ist standardmäßig an. Solange ihr es nicht selbst ausschaltet, kämpft sich euer Team offline mit dem Trupp, den ihr beim Verlassen aufgestellt hattet, weiter nach vorn und hört bei der ersten Niederlage auf. In der Demo geht es höchstens bis Etappe 800.
 Eine Minute vor dem Schlafengehen, um den Trupp gut aufzustellen, bringt also mehr als alles andere.
-[img]{STEAM_CLAN_IMAGE}/46216320/a854316d5678cbc77fbe5d31c5bfe5b6f359dbf3.jpg[/img]
+[img]https://clan.akamai.steamstatic.com/images/46216320/a854316d5678cbc77fbe5d31c5bfe5b6f359dbf3.jpg[/img]
 
 [h2]Nach der Rückkehr zuerst den Offline-Bericht ansehen[/h2]
 Wart ihr etwas länger weg, zeigt das Spiel beim Öffnen zuerst „Offline-Erträge werden gezählt“ mit einer Fortschrittsanzeige, danach erscheint der Offline-Bericht: wie lange ihr offline wart, wie viele Stunden angerechnet wurden, welche Ressourcen und Ausrüstung ihr bekommen habt und wie viele Etappen geschafft wurden – alles steht dort.
-[img]{STEAM_CLAN_IMAGE}/46216320/e285b8cee389981e653d1350bc2dec89a8277cd5.jpg[/img]
+[img]https://clan.akamai.steamstatic.com/images/46216320/e285b8cee389981e653d1350bc2dec89a8277cd5.jpg[/img]
 Die Erträge sind schon bei der Abrechnung gutgeschrieben, „Beute abholen“ schließt nur den Bericht. Schließt ihr das Spiel mitten in der Abrechnung, geht nichts verloren – beim nächsten Öffnen wird neu gerechnet.
-[img]{STEAM_CLAN_IMAGE}/46216320/0c8cda640d78cd061c3457347bf4db4dfcbb6b4d.jpg[/img]
+[img]https://clan.akamai.steamstatic.com/images/46216320/0c8cda640d78cd061c3457347bf4db4dfcbb6b4d.jpg[/img]
 
 [h2]Wenn das Spiel läuft und ihr etwas anderes macht[/h2]
 Sobald ihr Etappe 60 hinter euch habt, wird die Zeit, in der das Spiel läuft, euer Team aber nicht automatisch kämpft, als Offline-Zeit gezählt. Sie wird beim nächsten Öffnen des Spiels mit abgerechnet, und auch dafür gilt das Offline-Limit.
