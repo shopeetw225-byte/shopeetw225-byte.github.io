@@ -1629,6 +1629,22 @@
       "date": "2026-11-12",
       "category": "网站部署",
       "text": "研究免费公开镜像方案，准备Cloudflare与GitHub连接。"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "视频发布",
+      "text": "第十五期开发日志在B站与YouTube公开发布。",
+      "url": "/?work=episode15-dev-update-20261112"
+    },
+    {
+      "date": "2026-11-13",
+      "category": "Steam 素材",
+      "text": "补传4张详情页动图，核对39张CDN素材，整理十语详情页本地稿。"
+    },
+    {
+      "date": "2026-11-13",
+      "category": "宣传调研",
+      "text": "核查Steam市场候选，3位因近期内容适配不足暂缓。"
     }
   ]
 }
