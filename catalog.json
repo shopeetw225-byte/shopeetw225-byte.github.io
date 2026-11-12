@@ -11525,6 +11525,28 @@
       "summary": "整理新手编队、站位与阵容搭配，制作实机配图及战斗动图。",
       "files": [],
       "cover": ""
+    },
+    {
+      "id": "steam-community-group-20261112",
+      "title": "Steam 社区 · 玩家交流入口",
+      "category": "文案",
+      "group": "Steam 文案",
+      "date": "2026-11-12",
+      "dateBasis": "公开帖子时间戳及置顶列表核实",
+      "summary": "Steam 社区置顶玩家交流入口。",
+      "body": "",
+      "files": [],
+      "source": "https://steamcommunity.com/app/4855890/discussions/0/568176845289312599/",
+      "links": [
+        {
+          "platform": "Steam 社区原帖",
+          "url": "https://steamcommunity.com/app/4855890/discussions/0/568176845289312599/",
+          "date": "2026-11-12",
+          "status": "已公开"
+        }
+      ],
+      "status": "已公开 · 置顶",
+      "detailNote": "公开档案仅保留社区原帖链接。"
     }
   ]
 }
