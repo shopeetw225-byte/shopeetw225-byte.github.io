@@ -11424,11 +11424,28 @@
     },
     {
       "date": "2026-11-12",
-      "dateBasis": "当日完成与上传核查记录",
-      "status": "成片归档",
+      "dateBasis": "已核实公开作品发布日期",
+      "status": "已公开 · B站 / YouTube",
       "body": "",
       "source": "视频制作/平台視頻/第十五期 开发版介绍/成片/简中横屏版_第15期_开发版新改.mp4",
-      "links": [],
+      "links": [
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV12DWR6FE4t/",
+          "date": "2026-11-12",
+          "status": "已公开",
+          "source": "2026-11-13 官方公开view接口核实本人UID3706993395108039、开发日志15、131秒、state=0、11-12 18:38:41；本轮浏览器连接受阻。",
+          "language": "简中横屏"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=AKKpY0fO1js",
+          "date": "2026-11-12",
+          "status": "已公开",
+          "source": "2026-11-13 独立公开watch页核实指定本人频道、Devlog #15、isPrivate=false、isUnlisted=false、playability=OK、北京时间11-12 20:59:38；本轮浏览器连接受阻。",
+          "language": "英文横屏"
+        }
+      ],
       "id": "episode15-dev-update-20261112",
       "title": "第十五期 · 开发版介绍",
       "category": "宣传视频",
@@ -11446,7 +11463,8 @@
           "source": "视频制作/平台視頻/第十五期 开发版介绍/成片/简中横屏版_第15期_开发版新改.mp4",
           "sha256": "a282cc8b98849d18c306191bd3aa5da5598785db95d62f6e3a1e45a1d0c9f92d"
         }
-      ]
+      ],
+      "platformLinkKey": "15"
     },
     {
       "date": "2026-11-12",
