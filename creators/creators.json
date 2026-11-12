@@ -23119,7 +23119,15 @@
     "subject": "《放置事务所》免费Demo试玩邀请",
     "draft": "你好，我是倦猫，是单机放置游戏《放置事务所》（Idle Agency）的制作人。我们的免费 Demo 已在 Steam 开放试玩，新版本计划今天（10月20日）更新，想邀请你体验看看。主要玩法是打怪收集英雄、4×4站位配队、装备构筑和离线推关，不抽卡。请问你接这种无偿 Demo 试玩吗？可以自由分享真实感受，不要求好评。如果感兴趣，Steam 页面在这里：https://store.steampowered.com/app/4855890/ 谢谢！",
     "draft_note": "待关注并询问无偿试玩；尚未发送。",
-    "cooperation_status": "尚未联系"
+    "cooperation_status": "尚未联系",
+    "outreach": {
+      "status": "sent",
+      "platform": "B站",
+      "date": "2026-11-12",
+      "profileUrl": "https://space.bilibili.com/101555657",
+      "sent_at": "2026-11-12T06:11:42.359000+08:00",
+      "batchUrl": "creators/creator-outreach-20261112.html"
+    }
   },
   {
     "name": "三位一体x熵",

@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-12",
+  "bilibili_sent": 8,
+  "bilibili_failed": 0,
+  "skipped": 0,
+  "pending": 0,
+  "bilibili": [
+    {
+      "name": "银酱玩独游",
+      "uid": "7789351",
+      "profile_url": "https://space.bilibili.com/7789351",
+      "status": "sent",
+      "sent_at": "2026-11-12T06:09:25.240000+08:00"
+    },
+    {
+      "name": "我卡费了之神",
+      "uid": "101555657",
+      "profile_url": "https://space.bilibili.com/101555657",
+      "status": "sent",
+      "sent_at": "2026-11-12T06:11:42.359000+08:00"
+    },
+    {
+      "name": "噬回吟",
+      "uid": "38611648",
+      "profile_url": "https://space.bilibili.com/38611648",
+      "status": "sent",
+      "sent_at": "2026-11-12T06:12:34.691000+08:00"
+    },
+    {
+      "name": "老谭酸菜打卤面",
+      "uid": "14306353",
+      "profile_url": "https://space.bilibili.com/14306353",
+      "status": "sent",
+      "sent_at": "2026-11-12T06:13:10.291000+08:00"
+    },
+    {
+      "name": "Vanhorn正在游戏中",
+      "uid": "1277911298",
+      "profile_url": "https://space.bilibili.com/1277911298",
+      "status": "sent",
+      "sent_at": "2026-11-12T06:14:00.237000+08:00"
+    },
+    {
+      "name": "行者-WalkingMan",
+      "uid": "4245920",
+      "profile_url": "https://space.bilibili.com/4245920",
+      "status": "sent",
+      "sent_at": "2026-11-12T06:15:11.563000+08:00"
+    },
+    {
+      "name": "朽木雕格调",
+      "uid": "159063939",
+      "profile_url": "https://space.bilibili.com/159063939",
+      "status": "sent",
+      "sent_at": "2026-11-12T06:15:58.007000+08:00"
+    },
+    {
+      "name": "赛博鸡蛋分拣员",
+      "uid": "3690980043655431",
+      "profile_url": "https://space.bilibili.com/3690980043655431",
+      "status": "sent",
+      "sent_at": "2026-11-12T06:16:37.513000+08:00"
+    }
+  ],
+  "youtube_email_sent": 0,
+  "authorized_batch_total": 30,
+  "authorized_batch_completed": 30,
+  "prior_day_delivered": 22,
+  "resolution_note": "11月11日限额未送达1位及未尝试7位，均于11月12日送达；昨日记录保留为当日历史。",
+  "time_note": "北京时间，逐条与实际发送调用校验；已发不代表已读或接受合作。"
+}

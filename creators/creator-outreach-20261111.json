@@ -221,5 +221,13 @@
     }
   ],
   "time_note": "北京时间；发送时间来自实际发送调用并在写入前校验，非视频时长。",
-  "stop_note": "出现平台陌生人消息频率限制后已停止，没有重试。"
+  "stop_note": "出现平台陌生人消息频率限制后已停止，没有重试。",
+  "subsequent_resolution": {
+    "date": "2026-11-12",
+    "remaining8_delivered": 8,
+    "current_pending": 0,
+    "current_failed_unresolved": 0,
+    "authorized_batch_completed": 30,
+    "url": "creator-outreach-20261112.html"
+  }
 }
