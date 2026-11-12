@@ -19,14 +19,18 @@ Ceci n'est pas une mise à jour : je voudrais simplement bien expliquer les gain
 
 [h2]Combien de temps hors ligne est compté[/h2]
 De base, jusqu'à 12 heures sont comptées. Deux recherches de l'Académie, « Veille de nuit » et « Route du poste frontière », permettent de relever encore ce plafond ; le plafond actuel est indiqué à l'Académie.
+[img]{STEAM_CLAN_IMAGE}/46216320/1dd31007a875259bd4a2343d2763ac1f65cd5070.jpg[/img]
 
 [h2]Préparer son équipe avant de dormir[/h2]
 « Avancée auto » est activée par défaut. Tant que vous ne la désactivez pas vous-même, votre équipe continue d'avancer hors ligne avec la composition que vous aviez en partant, et s'arrête à la première défaite. Dans la démo, elle peut aller jusqu'à l'étape 800 au maximum.
 Prendre une minute avant de dormir pour bien composer votre équipe, c'est donc ce qui compte le plus.
+[img]{STEAM_CLAN_IMAGE}/46216320/a854316d5678cbc77fbe5d31c5bfe5b6f359dbf3.jpg[/img]
 
 [h2]En revenant, regardez d'abord le bilan hors ligne[/h2]
 Si vous êtes parti un peu longtemps, le jeu affiche d'abord « Décompte des gains hors ligne » avec sa progression, puis le bilan hors ligne s'ouvre : durée hors ligne, nombre d'heures comptées, ressources et équipement obtenus, étapes franchies, tout y est.
+[img]{STEAM_CLAN_IMAGE}/46216320/e285b8cee389981e653d1350bc2dec89a8277cd5.jpg[/img]
 Les gains sont déjà crédités au moment du décompte ; « Récupérer butin » ne fait que fermer le bilan. Si vous fermez le jeu en plein décompte, rien n'est perdu : il sera refait à la prochaine ouverture.
+[img]{STEAM_CLAN_IMAGE}/46216320/0c8cda640d78cd061c3457347bf4db4dfcbb6b4d.jpg[/img]
 
 [h2]Quand le jeu reste ouvert et que vous faites autre chose[/h2]
 Une fois l'étape 60 passée, le temps pendant lequel le jeu est ouvert mais où votre équipe ne combat pas en automatique est compté comme du temps hors ligne : il est réglé avec le reste à la prochaine ouverture du jeu, et le plafond hors ligne s'applique aussi.

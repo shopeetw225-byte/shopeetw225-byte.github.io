@@ -11302,6 +11302,78 @@
           "name": "Русский新闻原文.txt",
           "url": "assets/70a579b5beac.txt",
           "type": "text"
+        },
+        {
+          "name": "news1112_1_schinese.jpg",
+          "url": "assets/steam-696529526775087164-body-schinese-1.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261112/body-image-repair/成品/schinese/news1112_1_schinese.jpg"
+        },
+        {
+          "name": "news1112_2_schinese.jpg",
+          "url": "assets/steam-696529526775087164-body-schinese-2.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261112/body-image-repair/成品/schinese/news1112_2_schinese.jpg"
+        },
+        {
+          "name": "news1112_3_schinese.jpg",
+          "url": "assets/steam-696529526775087164-body-schinese-3.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261112/body-image-repair/成品/schinese/news1112_3_schinese.jpg"
+        },
+        {
+          "name": "news1112_4_schinese.jpg",
+          "url": "assets/steam-696529526775087164-body-schinese-4.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261112/body-image-repair/成品/schinese/news1112_4_schinese.jpg"
+        },
+        {
+          "name": "news1112_1_tchinese.jpg",
+          "url": "assets/steam-696529526775087164-body-tchinese-1.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261112/body-image-repair/成品/tchinese/news1112_1_tchinese.jpg"
+        },
+        {
+          "name": "news1112_2_tchinese.jpg",
+          "url": "assets/steam-696529526775087164-body-tchinese-2.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261112/body-image-repair/成品/tchinese/news1112_2_tchinese.jpg"
+        },
+        {
+          "name": "news1112_3_tchinese.jpg",
+          "url": "assets/steam-696529526775087164-body-tchinese-3.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261112/body-image-repair/成品/tchinese/news1112_3_tchinese.jpg"
+        },
+        {
+          "name": "news1112_4_tchinese.jpg",
+          "url": "assets/steam-696529526775087164-body-tchinese-4.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261112/body-image-repair/成品/tchinese/news1112_4_tchinese.jpg"
+        },
+        {
+          "name": "news1112_1_english.jpg",
+          "url": "assets/steam-696529526775087164-body-english-1.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261112/body-image-repair/成品/english/news1112_1_english.jpg"
+        },
+        {
+          "name": "news1112_2_english.jpg",
+          "url": "assets/steam-696529526775087164-body-english-2.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261112/body-image-repair/成品/english/news1112_2_english.jpg"
+        },
+        {
+          "name": "news1112_3_english.jpg",
+          "url": "assets/steam-696529526775087164-body-english-3.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261112/body-image-repair/成品/english/news1112_3_english.jpg"
+        },
+        {
+          "name": "news1112_4_english.jpg",
+          "url": "assets/steam-696529526775087164-body-english-4.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261112/body-image-repair/成品/english/news1112_4_english.jpg"
         }
       ],
       "cover": "assets/steam-696529526775087164-cover-schinese.png",
@@ -11314,7 +11386,7 @@
           "status": "已发布"
         }
       ],
-      "detailNote": "现有Demo玩法介绍新闻，非版本更新。按Steam公开原文归档；日期采用北京时间，倒计时保留发布当日原文。"
+      "detailNote": "现有Demo玩法介绍新闻，非版本更新。按Steam公开原文归档；三语实机配图已补齐（简中/繁中各用对应界面，其他八语用英文）；日期和倒计时保留原发布当日原文。"
     },
     {
       "id": "steam-696529526775087164-covers",

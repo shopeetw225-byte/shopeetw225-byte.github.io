@@ -19,14 +19,18 @@ This isn't an update. I just want to explain the offline earnings that are alrea
 
 [h2]How long offline time counts[/h2]
 The base is 12 hours. Two Academy research projects, “Night Watch” and “Border Post Road”, raise that cap further. You can see your current cap in the Academy.
+[img]{STEAM_CLAN_IMAGE}/46216320/1dd31007a875259bd4a2343d2763ac1f65cd5070.jpg[/img]
 
 [h2]Set up your lineup before bed[/h2]
 “Auto-advance” is on by default. Unless you've turned it off yourself, your team keeps pushing on while you're offline with the lineup you left it with, and stops after one loss. In the Demo, it can push up to stage 800 at most.
 So spending a minute setting up your lineup before bed helps more than anything.
+[img]{STEAM_CLAN_IMAGE}/46216320/a854316d5678cbc77fbe5d31c5bfe5b6f359dbf3.jpg[/img]
 
 [h2]Check the Offline Debrief when you're back[/h2]
 If you've been away for a while, opening the game first shows “Counting offline earnings” with its progress. Once that's done, the Offline Debrief pops up: how long you were offline, how many hours were counted, which resources and gear you got, and how many stages you pushed, all listed there.
+[img]{STEAM_CLAN_IMAGE}/46216320/e285b8cee389981e653d1350bc2dec89a8277cd5.jpg[/img]
 Your earnings are already credited during settlement. “Claim Spoils” just closes the debrief. If you close the game halfway through settling, nothing is lost. It'll recount the next time you open it.
+[img]{STEAM_CLAN_IMAGE}/46216320/0c8cda640d78cd061c3457347bf4db4dfcbb6b4d.jpg[/img]
 
 [h2]When the game is open but you're busy[/h2]
 Past stage 60, any time the game is open but your team isn't auto-battling gets counted as offline time. It's settled together the next time you open the game, and the offline cap applies to it too.
