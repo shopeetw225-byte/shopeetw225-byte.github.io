@@ -1,0 +1,41 @@
+Guía de inicio del accionista: desconectado, la agencia sigue trabajando para ti
+发布日期：2026-11-12 15:50（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=spanish
+
+¡Hola a todos! Soy Juanmao.
+
+¡El juego completo sale el 3 de diciembre! ¡Quedan 21 días para poder jugarlo! Si te gusta, añádelo a tu lista de deseados y te avisarán en cuanto salga.
+
+Además, estoy preparando la apertura del Mercado. Si tienes buenas sugerencias, déjalas en los comentarios.
+
+Esto no es una actualización: quiero explicar bien las ganancias sin conexión que ya tiene la demo. Mucha gente me pregunta qué se calcula exactamente después de cerrar el juego y qué conviene mirar primero al volver. Aquí van algunas cosas.
+
+[h2]Lo que se sigue acumulando al desconectarte[/h2]
+[list]
+[*]Recursos como el Oro, la Perspicacia y las Piedras de rango, además del equipamiento y los materiales de capítulo, se siguen acumulando aunque cierres el juego, y todo se suma la próxima vez que lo abras.
+[*]Cada edificio de la Fortaleza guarda lo que produce en su propio almacén y deja de producir cuando se llena. Si en la Academia investigaste «Recolección automática», también lo recoge por ti mientras estás desconectado.
+[*]Las investigaciones de la Academia y los despachos avanzan en tiempo real, así que se completan a su hora aunque estés desconectado.
+[/list]
+
+[h2]Cuánto tiempo se cuenta sin conexión[/h2]
+De base se cuentan 12 horas. Dos investigaciones de la Academia, «Guardia nocturna» y «Camino del puesto fronterizo», suben ese límite; el límite que tienes ahora se puede ver en la Academia.
+
+[h2]Prepara la formación antes de dormir[/h2]
+«Autoavance» viene activado por defecto. Mientras no lo desactives a mano, cuando estés desconectado tu equipo seguirá avanzando con la misma formación que tenías al irte, y se detendrá en cuanto pierda un combate. En la demo se puede avanzar como máximo hasta la etapa 800.
+Así que dedicar un minuto a preparar la formación antes de dormir es lo que más rinde.
+
+[h2]Al volver, mira primero el informe sin conexión[/h2]
+Si estuviste fuera un buen rato, al abrir el juego primero aparece «Contando ganancias sin conexión» con su progreso, y al terminar se abre el informe sin conexión: cuánto tiempo estuviste fuera, cuántas horas se contaron, qué recursos y equipamiento conseguiste y cuántas etapas avanzaste; todo viene ahí.
+Las ganancias ya se suman al hacer el cálculo; «Recoger botín» solo cierra el informe. Si cierras el juego a mitad del cálculo, no se pierde nada: se vuelve a calcular la próxima vez que lo abras.
+
+[h2]Cuando dejas el juego abierto y te pones con otra cosa[/h2]
+Después de superar la etapa 60, el tiempo en que el juego está abierto pero tu equipo no está combatiendo en automático cuenta como tiempo sin conexión: se calcula junto con lo demás la próxima vez que abras el juego y también tiene el límite sin conexión.
+Así que, si dejas el juego abierto mientras haces otra cosa, basta con dejar al equipo en combate automático.
+
+Después de recoger las ganancias sin conexión, el juego también te sugiere algunas cosas para hacer de paso: reclamar el despacho urgente, organizar investigaciones, recoger los almacenes llenos y revisar los despachos. Basta con ir pulsando una por una.
+
+Si hay otras mecánicas que quieras que te explique o algo que no se entienda, pregúntame en los comentarios.
+
+Si te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+[url=https://store.steampowered.com/app/5257220/]Juega la demo gratis[/url] | [url=https://store.steampowered.com/app/4855890/]Añade el juego completo a tu lista de deseados[/url]

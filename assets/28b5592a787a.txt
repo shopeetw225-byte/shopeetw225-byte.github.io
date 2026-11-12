@@ -1,0 +1,41 @@
+Guide de l'actionnaire : hors ligne, l'Agence travaille encore pour vous
+发布日期：2026-11-12 15:50（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=french
+
+Bonjour à tous, ici Juanmao.
+
+Le jeu complet sort le 3 décembre ! Plus que 21 jours avant de pouvoir y jouer ! Si le jeu vous tente, ajoutez-le à votre liste de souhaits : vous serez prévenus dès sa sortie.
+
+Par ailleurs, je prépare aussi l'ouverture du Marché. Si vous avez de bonnes idées, laissez-les en commentaire.
+
+Ceci n'est pas une mise à jour : je voudrais simplement bien expliquer les gains hors ligne qui existent déjà dans la démo. On me demande souvent ce qui est calculé une fois le jeu fermé, et ce qu'il faut regarder en premier en revenant. Voici quelques points.
+
+[h2]Ce qui continue de s'accumuler hors ligne[/h2]
+[list]
+[*]Les ressources comme l'Or, la Perspicacité et les Pierres de rang, ainsi que l'équipement et les matériaux de chapitre, continuent de s'accumuler même jeu fermé, et tout est crédité d'un coup à la prochaine ouverture.
+[*]Chaque bâtiment de la Forteresse remplit son propre entrepôt et s'arrête une fois plein. Si vous avez étudié « Collecte auto » à l'Académie, la collecte se fait aussi pour vous hors ligne.
+[*]Les recherches de l'Académie et les envois suivent le temps réel : ils se terminent à l'heure prévue, même hors ligne.
+[/list]
+
+[h2]Combien de temps hors ligne est compté[/h2]
+De base, jusqu'à 12 heures sont comptées. Deux recherches de l'Académie, « Veille de nuit » et « Route du poste frontière », permettent de relever encore ce plafond ; le plafond actuel est indiqué à l'Académie.
+
+[h2]Préparer son équipe avant de dormir[/h2]
+« Avancée auto » est activée par défaut. Tant que vous ne la désactivez pas vous-même, votre équipe continue d'avancer hors ligne avec la composition que vous aviez en partant, et s'arrête à la première défaite. Dans la démo, elle peut aller jusqu'à l'étape 800 au maximum.
+Prendre une minute avant de dormir pour bien composer votre équipe, c'est donc ce qui compte le plus.
+
+[h2]En revenant, regardez d'abord le bilan hors ligne[/h2]
+Si vous êtes parti un peu longtemps, le jeu affiche d'abord « Décompte des gains hors ligne » avec sa progression, puis le bilan hors ligne s'ouvre : durée hors ligne, nombre d'heures comptées, ressources et équipement obtenus, étapes franchies, tout y est.
+Les gains sont déjà crédités au moment du décompte ; « Récupérer butin » ne fait que fermer le bilan. Si vous fermez le jeu en plein décompte, rien n'est perdu : il sera refait à la prochaine ouverture.
+
+[h2]Quand le jeu reste ouvert et que vous faites autre chose[/h2]
+Une fois l'étape 60 passée, le temps pendant lequel le jeu est ouvert mais où votre équipe ne combat pas en automatique est compté comme du temps hors ligne : il est réglé avec le reste à la prochaine ouverture du jeu, et le plafond hors ligne s'applique aussi.
+Donc, si vous laissez le jeu ouvert pour faire autre chose, laissez simplement votre équipe en combat auto.
+
+Une fois les gains hors ligne récupérés, le jeu vous propose aussi quelques petites choses à faire au passage : récupérer les envois accélérés, lancer une recherche, vider les entrepôts pleins des bâtiments, voir les envois. Il suffit de suivre les boutons un par un.
+
+Quels autres aspects du jeu aimeriez-vous que je vous explique, et qu'est-ce qui n'est pas clair ? Posez-moi vos questions en commentaire.
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+[url=https://store.steampowered.com/app/5257220/]Jouer à la démo gratuite[/url] | [url=https://store.steampowered.com/app/4855890/]Ajouter le jeu complet à votre liste de souhaits[/url]

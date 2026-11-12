@@ -1,0 +1,41 @@
+Guia de início do acionista: mesmo offline, a agência segue trabalhando por você
+发布日期：2026-11-12 15:50（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=brazilian
+
+Olá, pessoal! Aqui é o Juanmao.
+
+O jogo completo chega em 3 de dezembro! Faltam 21 dias para vocês poderem jogar! Se curtiu, adicione à sua lista de desejos e você vai receber um aviso quando ele sair.
+
+Além disso, estou preparando a abertura do Mercado. Se tiver alguma boa sugestão, deixa nos comentários.
+
+Isto não é uma atualização: quero explicar direitinho os ganhos offline que a demo já tem. Muita gente me pergunta o que exatamente continua sendo calculado depois que você fecha o jogo e o que olhar primeiro quando volta. Separei algumas coisas.
+
+[h2]O que continua acumulando quando você sai[/h2]
+[list]
+[*]Recursos como Ouro, Discernimento e Pedras de Patente, além de equipamentos e materiais de capítulo, continuam acumulando mesmo com o jogo fechado, e tudo entra na conta da próxima vez que você abrir.
+[*]Cada construção da Fortaleza guarda o que produz no próprio armazém e para de produzir quando ele enche. Se você pesquisou "Coleta Automática" na Academia, ela também coleta para você enquanto você está offline.
+[*]As pesquisas da Academia e as missões seguem o tempo real, então terminam na hora certa mesmo com você offline.
+[/list]
+
+[h2]Quanto tempo offline é contado[/h2]
+A base é de 12 horas. Duas pesquisas da Academia, "Vigília Noturna" e "Estrada do Posto Fronteiriço", aumentam esse limite; o limite atual dá para ver na Academia.
+
+[h2]Monte a formação antes de dormir[/h2]
+O "Avanço automático" já vem ligado por padrão. Enquanto você não desligar na mão, quando estiver offline a equipe continua avançando com a mesma formação de quando você saiu, e para assim que perder uma batalha. Na demo, dá para avançar no máximo até a fase 800.
+Então, gastar um minuto montando a formação antes de dormir vale mais do que qualquer coisa.
+
+[h2]Quando voltar, veja primeiro o relatório offline[/h2]
+Se você ficou fora por mais tempo, ao abrir o jogo aparece primeiro "Contando ganhos offline" com o progresso, e quando termina abre o relatório offline: quanto tempo você ficou fora, quantas horas foram contadas, quais recursos e equipamentos você ganhou e quantas fases avançou, está tudo ali.
+Os ganhos já entram na conta durante o cálculo; "Coletar espólios" só fecha o relatório. Se você fechar o jogo no meio do cálculo, não perde nada: da próxima vez que abrir, ele calcula de novo.
+
+[h2]Quando o jogo fica aberto e você vai fazer outra coisa[/h2]
+Depois da fase 60, o tempo em que o jogo fica aberto mas a equipe não está lutando no automático conta como tempo offline: ele é calculado junto da próxima vez que você abrir o jogo e também segue o limite offline.
+Então, se for deixar o jogo aberto para fazer outra coisa, é só deixar a equipe na batalha automática.
+
+Depois de coletar os ganhos offline, o jogo ainda sugere algumas coisas para fazer de quebra: coletar a missão urgente, planejar pesquisas, coletar os armazéns cheios e ver as missões. É só ir clicando uma por uma.
+
+Se tem alguma outra mecânica que você quer que eu explique ou algo que não ficou claro, pode perguntar nos comentários.
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+[url=https://store.steampowered.com/app/5257220/]Jogue a demo gratuita[/url] | [url=https://store.steampowered.com/app/4855890/]Adicione o jogo completo à sua lista de desejos[/url]

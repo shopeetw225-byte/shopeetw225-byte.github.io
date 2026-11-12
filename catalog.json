@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T19:15:35.963598+08:00",
+  "updated": "2026-11-12",
   "hero": "assets/07851087f62e.jpg",
   "items": [
     {
@@ -11182,6 +11182,173 @@
       ],
       "status": "已发布 · 十语公开页与接口核对通过",
       "detailNote": "简中采用用户认可的原文；其他九语由Claude翻译并复核。正式版会开放Steam社区市场；游戏内资源市场与社区市场分别表述。"
+    },
+    {
+      "id": "steam-696529526775087164",
+      "title": "股东上岗指南：下线以后，事务所还在帮你干活",
+      "category": "Steam 公告",
+      "group": "已发布公告",
+      "date": "2026-11-12",
+      "dateBasis": "发布日期",
+      "publishedAt": "2026-11-12 15:50",
+      "summary": "正式版 12 月 3 日上线，倒计时 21 天！市场也准备开放了，有好的建议欢迎在评论区留言。这篇不讲更新，讲讲 Demo 里已有的离线收益：关掉游戏后哪些东西还在攒、离线能算多久、睡前为什么要开着“自动推关”、回来的离线简报怎么看，以及开着游戏时怎么挂才不吃亏。",
+      "highlights": [
+        "正式版12月3日上线，发布当日倒计时21天；市场准备开放，邀请玩家留言建议。",
+        "介绍现有Demo离线资源、建筑仓储、研究派遣与基础12小时离线上限。",
+        "说明离线自动推关、离线简报和开着游戏时的挂机方式；本篇为玩法新闻，非版本更新。"
+      ],
+      "announcementNumber": 16,
+      "status": "已发布 · 十语",
+      "body": "各位股东大人，我是倦猫。\n\n游戏正式版将在 12 月 3 日上线！还有 21 天就可以玩到！喜欢的可以加个愿望单，上线就可以收到提示啦。\n\n另外，市场也准备开放了。有什么好的建议，欢迎在评论区留言。\n\n这篇不是更新，是想把 Demo 里已经有的离线收益讲清楚。常有人问：关掉游戏以后到底在算什么，回来该先看哪儿。挑几件说说。\n\n下线以后，什么还在攒\n\n• 金币、心得、升阶石这些资源，还有装备和章节材料，关掉游戏也会接着攒，下次打开一起入账。\n• 要塞的建筑各自往自己的仓库里存，存满就停。学院学了“自动收取”，离线时也会帮你收。\n• 学院研究和派遣按真实时间走，离线期间到点照样完成。\n\n\n离线能算多久\n基础能算 12 小时。学院里的“守夜人”和“边境驿道”两项研究，能把上限再往上提；现在的上限是多少，在学院里能看到。\n\n睡前把阵容排好\n“自动推关”默认是开着的，只要你没手动关掉，离线时队伍会用你离开前的那套阵容接着往后打，输一场就停。Demo 最多推到第 800 关。\n所以睡前花一分钟把阵容排好，比什么都管用。\n\n回来先看离线简报\n离开得久一点，打开游戏会先显示“清点离线收益中”和进度，算完弹出离线简报：离线多久、计入了几小时、拿到哪些资源和装备、推了几关，都写在上面。\n收益在结算时就已经入账了，“领取战利品”只是把简报关掉。结算到一半关掉游戏也不会丢，下次打开会重新算。\n\n开着游戏去忙别的时\n过了第 60 关以后，游戏开着、队伍却没在自动打的那段时间，会记成离线时间，下次打开游戏时一起结算，也按离线上限算。\n所以开着游戏去忙别的，让队伍挂着自动连战就好。\n\n收完离线收益，游戏还会提示你顺手做几件事：领取加急委托、安排研究、收取满仓的建筑、看看派遣。照着点一遍就行。\n\n还有哪些玩法想听我讲、哪里看不明白，欢迎在评论区问我。欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+      "translations": {
+        "schinese": {
+          "title": "股东上岗指南：下线以后，事务所还在帮你干活",
+          "body": "各位股东大人，我是倦猫。\n\n游戏正式版将在 12 月 3 日上线！还有 21 天就可以玩到！喜欢的可以加个愿望单，上线就可以收到提示啦。\n\n另外，市场也准备开放了。有什么好的建议，欢迎在评论区留言。\n\n这篇不是更新，是想把 Demo 里已经有的离线收益讲清楚。常有人问：关掉游戏以后到底在算什么，回来该先看哪儿。挑几件说说。\n\n下线以后，什么还在攒\n\n• 金币、心得、升阶石这些资源，还有装备和章节材料，关掉游戏也会接着攒，下次打开一起入账。\n• 要塞的建筑各自往自己的仓库里存，存满就停。学院学了“自动收取”，离线时也会帮你收。\n• 学院研究和派遣按真实时间走，离线期间到点照样完成。\n\n\n离线能算多久\n基础能算 12 小时。学院里的“守夜人”和“边境驿道”两项研究，能把上限再往上提；现在的上限是多少，在学院里能看到。\n\n睡前把阵容排好\n“自动推关”默认是开着的，只要你没手动关掉，离线时队伍会用你离开前的那套阵容接着往后打，输一场就停。Demo 最多推到第 800 关。\n所以睡前花一分钟把阵容排好，比什么都管用。\n\n回来先看离线简报\n离开得久一点，打开游戏会先显示“清点离线收益中”和进度，算完弹出离线简报：离线多久、计入了几小时、拿到哪些资源和装备、推了几关，都写在上面。\n收益在结算时就已经入账了，“领取战利品”只是把简报关掉。结算到一半关掉游戏也不会丢，下次打开会重新算。\n\n开着游戏去忙别的时\n过了第 60 关以后，游戏开着、队伍却没在自动打的那段时间，会记成离线时间，下次打开游戏时一起结算，也按离线上限算。\n所以开着游戏去忙别的，让队伍挂着自动连战就好。\n\n收完离线收益，游戏还会提示你顺手做几件事：领取加急委托、安排研究、收取满仓的建筑、看看派遣。照着点一遍就行。\n\n还有哪些玩法想听我讲、哪里看不明白，欢迎在评论区问我。欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=schinese"
+        },
+        "tchinese": {
+          "title": "股東上工指南：下線以後，事務所還在幫你做事",
+          "body": "各位股東大人，我是倦貓。\n\n遊戲正式版將在 12 月 3 日上線！還有 21 天就可以玩到！喜歡的可以加個願望清單，上線就可以收到通知啦。\n\n另外，市場也準備開放了。有什麼好的建議，歡迎在留言區留言。\n\n這篇不是更新，是想把 Demo 裡已經有的離線收益講清楚。常有人問：關掉遊戲以後到底在算什麼，回來該先看哪裡。挑幾件說說。\n\n下線以後，什麼還在攢\n\n• 金幣、心得、升階石這些資源，還有裝備和章節材料，關掉遊戲也會繼續攢，下次打開一起入帳。\n• 要塞的建築各自往自己的倉庫裡存，存滿就停。學院學了「自動收取」，離線時也會幫你收。\n• 學院研究和派遣照真實時間走，離線期間時間到了照樣完成。\n\n\n離線能算多久\n基礎能算 12 小時。學院裡的「守夜人」和「邊境驛道」兩項研究，能把上限再往上提；現在的上限是多少，在學院裡看得到。\n\n睡前把陣容排好\n「自動推關」預設是開著的，只要你沒手動關掉，離線時隊伍會用你離開前的那套陣容繼續往後打，輸一場就停。Demo 最多推到第 800 關。\n所以睡前花一分鐘把陣容排好，比什麼都有用。\n\n回來先看離線簡報\n離開得久一點，打開遊戲會先顯示「清點離線收益中」和進度，算完跳出離線簡報：離線多久、計入了幾小時、拿到哪些資源和裝備、推了幾關，都寫在上面。\n收益在結算時就已經入帳了，「領取戰利品」只是把簡報關掉。結算到一半關掉遊戲也不會不見，下次打開會重新算。\n\n開著遊戲去忙別的時\n過了第 60 關以後，遊戲開著、隊伍卻沒在自動打的那段時間，會記成離線時間，下次打開遊戲時一起結算，也照離線上限算。\n所以開著遊戲去忙別的，讓隊伍掛著自動連戰就好。\n\n收完離線收益，遊戲還會提示你順手做幾件事：領取加急委託、安排研究、收取滿倉的建築、看看派遣。照著點一遍就行。\n\n還有哪些玩法想聽我講、哪裡看不懂，歡迎在留言區問我。歡迎加入遊戲交流群：1079312948。\n\n如果覺得還不錯，也拜託幫忙加個願望清單。謝謝大家，這對一個遊戲真的很重要。\n\n免費試玩 Demo（https://store.steampowered.com/app/5257220/）｜將正式版加入願望清單（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=tchinese"
+        },
+        "english": {
+          "title": "Shareholder onboarding: your Agency keeps working after you log off",
+          "body": "Hi everyone, Juanmao here.\n\nThe full game launches on December 3! Just 21 days until you can play it! If you like it, add it to your wishlist and you'll get a heads-up the moment it's out.\n\nAlso, I'm getting the Market ready to open. If you have any good suggestions, feel free to leave them in the comments.\n\nThis isn't an update. I just want to explain the offline earnings that are already in the Demo. People often ask what's actually being counted after they close the game, and what to check first when they come back. Here are a few things.\n\nWhat keeps piling up after you log off\n\n• Resources like Gold, Insight and Rank Stones, plus gear and chapter materials, keep piling up after you close the game, and it all gets credited together the next time you open it.\n• Each Fortress building stores its output in its own storage and stops once that's full. If the Academy has learned “Auto-Collect”, it collects for you while you're offline too.\n• Academy research and dispatches run on real time, so they still finish on schedule while you're offline.\n\n\nHow long offline time counts\nThe base is 12 hours. Two Academy research projects, “Night Watch” and “Border Post Road”, raise that cap further. You can see your current cap in the Academy.\n\nSet up your lineup before bed\n“Auto-advance” is on by default. Unless you've turned it off yourself, your team keeps pushing on while you're offline with the lineup you left it with, and stops after one loss. In the Demo, it can push up to stage 800 at most.\nSo spending a minute setting up your lineup before bed helps more than anything.\n\nCheck the Offline Debrief when you're back\nIf you've been away for a while, opening the game first shows “Counting offline earnings” with its progress. Once that's done, the Offline Debrief pops up: how long you were offline, how many hours were counted, which resources and gear you got, and how many stages you pushed, all listed there.\nYour earnings are already credited during settlement. “Claim Spoils” just closes the debrief. If you close the game halfway through settling, nothing is lost. It'll recount the next time you open it.\n\nWhen the game is open but you're busy\nPast stage 60, any time the game is open but your team isn't auto-battling gets counted as offline time. It's settled together the next time you open the game, and the offline cap applies to it too.\nSo if you leave the game open while you do something else, just keep your team on auto-battle.\n\nAfter you collect your offline earnings, the game also suggests a few things to do while you're at it: claim Rush Dispatches, plan research, collect from buildings with full storage, and check on dispatches. Just click through them.\n\nIf there's anything else in the game you'd like me to talk about, or anything that isn't clear, feel free to ask me in the comments.\n\nIf you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.\n\nPlay the free Demo（https://store.steampowered.com/app/5257220/） | Wishlist the full game（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=english"
+        },
+        "japanese": {
+          "title": "株主の着任ガイド：ゲームを閉じても、事務所はあなたのために働いています",
+          "body": "みなさん、こんにちは。倦猫（Juanmao）です。\n\n製品版は12月3日にリリースします！あと21日で遊べます！気になった方はウィッシュリストに追加しておくと、リリースされたときにお知らせが届きます。\n\nそれと、市場もオープンに向けて準備中です。いいアイデアがあれば、ぜひコメントで教えてください。\n\n今回はアップデートではありません。Demoにすでにあるオフライン収益について、きちんと説明しておきたいと思います。ゲームを閉じたあと何が計算されているのか、戻ってきたらまずどこを見ればいいのか、よく聞かれるので、いくつか取り上げてお話しします。\n\nゲームを閉じても貯まるもの\n\n• ゴールド、知見、昇階石などの資源に加えて、装備や章材も、ゲームを閉じている間に貯まり続け、次にゲームを開いたときにまとめて計上されます。\n• 要塞の建物は、それぞれ自分の倉庫に貯めていき、満杯になると止まります。学院で「自動回収」を研究していれば、オフライン中も代わりに回収してくれます。\n• 学院の研究と派遣は現実の時間で進むので、オフライン中でも時間になればちゃんと完了します。\n\n\nオフラインはどれくらい計算される？\n基本は12時間です。学院の「夜警」と「辺境の駅路」のふたつの研究で、上限をさらに引き上げられます。いまの上限がどれくらいかは、学院で確認できます。\n\n寝る前に編成を整えておこう\n「自動進行」は最初からオンになっています。自分でオフにしていなければ、オフライン中もチームは離れる前の編成のまま先へ進み続け、一度負けたら止まります。Demoで進めるのは最大でステージ800までです。\nなので、寝る前に一分だけ使って編成を整えておくのが、何よりも効きます。\n\n戻ってきたらまずオフラインレポート\nしばらく離れていたときは、ゲームを開くとまず「オフライン収益を集計中」と進み具合が表示され、集計が終わるとオフラインレポートが出ます。オフラインだった時間、何時間分が計上されたか、手に入れた資源と装備、何ステージ進んだかが、すべてそこに書いてあります。\n収益は精算の時点でもう計上されているので、「戦利品を受け取る」はレポートを閉じるだけです。精算の途中でゲームを閉じても消えることはなく、次に開いたときにもう一度計算し直します。\n\nゲームを開いたまま別のことをするとき\nステージ60を過ぎると、ゲームは開いているのにチームが自動で戦っていない時間は、オフライン時間として記録されます。次にゲームを開いたときにまとめて精算され、オフライン上限も同じように適用されます。\nなので、ゲームを開いたまま別のことをするなら、チームを自動の連続戦闘で放置しておけば大丈夫です。\n\nオフライン収益を受け取ったあと、ゲームはついでにやっておくといいことをいくつか教えてくれます。急ぎ依頼の受け取り、研究の手配、満杯になった建物の回収、派遣の確認です。順番に押していけばOKです。\n\nほかにも説明してほしい遊び方や、分かりにくいところがあれば、ぜひコメントで聞いてください。\n\nもし悪くないなと思ってもらえたら、ウィッシュリストに追加していただけるとうれしいです。みなさん、ありがとうございます。ゲームにとって、本当に大事なことなんです。\n\n無料体験版をプレイ（https://store.steampowered.com/app/5257220/） | 製品版をウィッシュリストに追加（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=japanese"
+        },
+        "korean": {
+          "title": "주주님 근무 가이드: 로그아웃한 뒤에도 사무소는 계속 일해요",
+          "body": "안녕하세요, Juanmao입니다.\n\n정식판이 12월 3일에 출시돼요! 21일만 있으면 플레이할 수 있어요! 마음에 드신다면 찜 목록에 추가해 두세요. 출시되면 알림을 받을 수 있어요.\n\n그리고 시장도 열 준비를 하고 있어요. 좋은 의견이 있으면 댓글로 남겨 주세요.\n\n이번 글은 업데이트가 아니라, 데모에 이미 있는 오프라인 수익을 제대로 설명해 보려는 글이에요. 게임을 끄고 나면 도대체 뭐가 계산되는지, 돌아오면 어디부터 봐야 하는지 자주 물어보셔서 몇 가지 골라 이야기해 볼게요.\n\n로그아웃한 뒤에도 쌓이는 것\n\n• 골드, 통찰, 승급석 같은 자원과 장비, 챕터 재료는 게임을 꺼도 계속 쌓이고, 다음에 켤 때 한꺼번에 들어와요.\n• 요새 건물은 각자 자기 창고에 쌓아 두고, 가득 차면 멈춰요. 학원에서 \"자동 수령\"을 연구해 두면 오프라인 동안에도 대신 거둬 줘요.\n• 학원 연구와 파견은 실제 시간으로 흘러가서, 오프라인 동안에도 시간이 되면 그대로 끝나요.\n\n\n오프라인은 얼마나 계산될까\n기본은 12시간까지 계산돼요. 학원의 \"야경꾼\"과 \"변경 역로\" 두 연구로 상한을 더 올릴 수 있고, 지금 상한이 얼마인지는 학원에서 볼 수 있어요.\n\n자기 전에 편성 맞춰 두기\n\"자동 진행\"은 기본으로 켜져 있어요. 직접 끄지 않았다면 오프라인 동안 팀이 떠나기 전 편성 그대로 계속 다음 스테이지로 나아가고, 한 번 지면 멈춰요. 데모에서는 최대 800스테이지까지 나아가요.\n그러니 자기 전에 일 분만 들여 편성을 맞춰 두는 게 무엇보다 효과가 좋아요.\n\n돌아오면 오프라인 보고서부터\n조금 오래 자리를 비웠다면 게임을 켤 때 먼저 \"오프라인 수익 집계 중\"과 진행도가 나오고, 계산이 끝나면 오프라인 보고서가 떠요. 오프라인이었던 시간, 반영된 시간, 얻은 자원과 장비, 나아간 스테이지 수가 모두 적혀 있어요.\n수익은 정산할 때 이미 들어와 있어서, \"전리품 수령\"은 보고서를 닫기만 하는 버튼이에요. 정산 도중에 게임을 꺼도 사라지지 않고, 다음에 켜면 다시 계산해요.\n\n게임을 켜 둔 채 다른 일을 할 때\n60스테이지를 넘긴 뒤에는, 게임은 켜져 있는데 팀이 자동으로 싸우고 있지 않은 시간이 오프라인 시간으로 기록돼요. 다음에 게임을 켤 때 함께 정산되고, 오프라인 상한도 똑같이 적용돼요.\n그러니 게임을 켜 둔 채 다른 일을 할 때는 팀을 자동 연속 전투로 걸어 두면 돼요.\n\n오프라인 수익을 다 받고 나면, 게임이 하는 김에 같이 해 두면 좋은 일 몇 가지도 알려 줘요. 가속 의뢰 수령, 연구 배정, 가득 찬 건물 저장분 수령, 파견 확인이에요. 알려 주는 대로 한 번씩 눌러 주면 돼요.\n\n또 어떤 플레이를 설명해 줬으면 하는지, 이해가 안 되는 부분은 없는지 댓글로 물어봐 주세요.\n\n괜찮다고 느끼셨다면 찜 목록에도 추가해 주세요. 모두 감사합니다. 게임 하나에는 정말 중요한 일이에요.\n\n무료 데모 플레이（https://store.steampowered.com/app/5257220/） | 정식판 찜 목록에 추가（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=koreana"
+        },
+        "german": {
+          "title": "Leitfaden für Aktionäre: Auch offline arbeitet die Agentur für euch weiter",
+          "body": "Hallo zusammen, hier ist Juanmao.\n\nDie Vollversion erscheint am 3. Dezember! Noch 21 Tage, dann könnt ihr sie spielen! Wenn sie euch gefällt, setzt sie auf eure Wunschliste, dann bekommt ihr zum Release eine Benachrichtigung.\n\nAußerdem bereite ich gerade die Öffnung des Markts vor. Wenn ihr gute Vorschläge habt, schreibt sie gern in die Kommentare.\n\nDas hier ist kein Update. Ich möchte die Offline-Erträge, die es in der Demo schon gibt, einmal richtig erklären. Oft werde ich gefragt, was eigentlich berechnet wird, wenn das Spiel aus ist, und wo man nach der Rückkehr zuerst hinschauen sollte. Hier ein paar Punkte dazu.\n\nWas offline weiter anfällt\n\n• Ressourcen wie Gold, Einsicht und Rangsteine, dazu Ausrüstung und Kapitelmaterialien, sammeln sich auch bei geschlossenem Spiel weiter an und werden beim nächsten Start gesammelt gutgeschrieben.\n• Die Gebäude der Festung füllen jeweils ihr eigenes Lager, und wenn es voll ist, hören sie auf. Habt ihr in der Akademie „Auto-Sammeln“ erforscht, wird auch offline für euch abgeholt.\n• Akademie-Forschungen und Entsendungen laufen in Echtzeit und werden auch offline pünktlich fertig.\n\n\nWie lange offline gezählt wird\nGrundsätzlich werden bis zu 12 Stunden gezählt. Mit den beiden Akademie-Forschungen „Nachtwache“ und „Grenzpoststraße“ lässt sich das Limit weiter anheben; wie hoch es gerade ist, seht ihr in der Akademie.\n\nVor dem Schlafen den Trupp aufstellen\n„Auto-Vorrücken“ ist standardmäßig an. Solange ihr es nicht selbst ausschaltet, kämpft sich euer Team offline mit dem Trupp, den ihr beim Verlassen aufgestellt hattet, weiter nach vorn und hört bei der ersten Niederlage auf. In der Demo geht es höchstens bis Etappe 800.\nEine Minute vor dem Schlafengehen, um den Trupp gut aufzustellen, bringt also mehr als alles andere.\n\nNach der Rückkehr zuerst den Offline-Bericht ansehen\nWart ihr etwas länger weg, zeigt das Spiel beim Öffnen zuerst „Offline-Erträge werden gezählt“ mit einer Fortschrittsanzeige, danach erscheint der Offline-Bericht: wie lange ihr offline wart, wie viele Stunden angerechnet wurden, welche Ressourcen und Ausrüstung ihr bekommen habt und wie viele Etappen geschafft wurden – alles steht dort.\nDie Erträge sind schon bei der Abrechnung gutgeschrieben, „Beute abholen“ schließt nur den Bericht. Schließt ihr das Spiel mitten in der Abrechnung, geht nichts verloren – beim nächsten Öffnen wird neu gerechnet.\n\nWenn das Spiel läuft und ihr etwas anderes macht\nSobald ihr Etappe 60 hinter euch habt, wird die Zeit, in der das Spiel läuft, euer Team aber nicht automatisch kämpft, als Offline-Zeit gezählt. Sie wird beim nächsten Öffnen des Spiels mit abgerechnet, und auch dafür gilt das Offline-Limit.\nWenn ihr das Spiel offen lasst und etwas anderes macht, lasst euer Team also einfach im Auto-Kampf weiterkämpfen.\n\nWenn ihr die Offline-Erträge eingesammelt habt, schlägt euch das Spiel noch ein paar Dinge vor, die ihr gleich mit erledigen könnt: Eilauftrag abholen, Forschung planen, volle Gebäudelager abholen, Entsendungen ansehen. Einfach der Reihe nach durchklicken.\n\nWelche Spielfunktionen soll ich noch erklären, und was ist euch unklar? Fragt mich gern in den Kommentaren.\n\nWenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.\n\nKostenlose Demo spielen（https://store.steampowered.com/app/5257220/） | Vollversion auf die Wunschliste setzen（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=german"
+        },
+        "french": {
+          "title": "Guide de l'actionnaire : hors ligne, l'Agence travaille encore pour vous",
+          "body": "Bonjour à tous, ici Juanmao.\n\nLe jeu complet sort le 3 décembre ! Plus que 21 jours avant de pouvoir y jouer ! Si le jeu vous tente, ajoutez-le à votre liste de souhaits : vous serez prévenus dès sa sortie.\n\nPar ailleurs, je prépare aussi l'ouverture du Marché. Si vous avez de bonnes idées, laissez-les en commentaire.\n\nCeci n'est pas une mise à jour : je voudrais simplement bien expliquer les gains hors ligne qui existent déjà dans la démo. On me demande souvent ce qui est calculé une fois le jeu fermé, et ce qu'il faut regarder en premier en revenant. Voici quelques points.\n\nCe qui continue de s'accumuler hors ligne\n\n• Les ressources comme l'Or, la Perspicacité et les Pierres de rang, ainsi que l'équipement et les matériaux de chapitre, continuent de s'accumuler même jeu fermé, et tout est crédité d'un coup à la prochaine ouverture.\n• Chaque bâtiment de la Forteresse remplit son propre entrepôt et s'arrête une fois plein. Si vous avez étudié « Collecte auto » à l'Académie, la collecte se fait aussi pour vous hors ligne.\n• Les recherches de l'Académie et les envois suivent le temps réel : ils se terminent à l'heure prévue, même hors ligne.\n\n\nCombien de temps hors ligne est compté\nDe base, jusqu'à 12 heures sont comptées. Deux recherches de l'Académie, « Veille de nuit » et « Route du poste frontière », permettent de relever encore ce plafond ; le plafond actuel est indiqué à l'Académie.\n\nPréparer son équipe avant de dormir\n« Avancée auto » est activée par défaut. Tant que vous ne la désactivez pas vous-même, votre équipe continue d'avancer hors ligne avec la composition que vous aviez en partant, et s'arrête à la première défaite. Dans la démo, elle peut aller jusqu'à l'étape 800 au maximum.\nPrendre une minute avant de dormir pour bien composer votre équipe, c'est donc ce qui compte le plus.\n\nEn revenant, regardez d'abord le bilan hors ligne\nSi vous êtes parti un peu longtemps, le jeu affiche d'abord « Décompte des gains hors ligne » avec sa progression, puis le bilan hors ligne s'ouvre : durée hors ligne, nombre d'heures comptées, ressources et équipement obtenus, étapes franchies, tout y est.\nLes gains sont déjà crédités au moment du décompte ; « Récupérer butin » ne fait que fermer le bilan. Si vous fermez le jeu en plein décompte, rien n'est perdu : il sera refait à la prochaine ouverture.\n\nQuand le jeu reste ouvert et que vous faites autre chose\nUne fois l'étape 60 passée, le temps pendant lequel le jeu est ouvert mais où votre équipe ne combat pas en automatique est compté comme du temps hors ligne : il est réglé avec le reste à la prochaine ouverture du jeu, et le plafond hors ligne s'applique aussi.\nDonc, si vous laissez le jeu ouvert pour faire autre chose, laissez simplement votre équipe en combat auto.\n\nUne fois les gains hors ligne récupérés, le jeu vous propose aussi quelques petites choses à faire au passage : récupérer les envois accélérés, lancer une recherche, vider les entrepôts pleins des bâtiments, voir les envois. Il suffit de suivre les boutons un par un.\n\nQuels autres aspects du jeu aimeriez-vous que je vous explique, et qu'est-ce qui n'est pas clair ? Posez-moi vos questions en commentaire.\n\nSi le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.\n\nJouer à la démo gratuite（https://store.steampowered.com/app/5257220/） | Ajouter le jeu complet à votre liste de souhaits（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=french"
+        },
+        "spanish": {
+          "title": "Guía de inicio del accionista: desconectado, la agencia sigue trabajando para ti",
+          "body": "¡Hola a todos! Soy Juanmao.\n\n¡El juego completo sale el 3 de diciembre! ¡Quedan 21 días para poder jugarlo! Si te gusta, añádelo a tu lista de deseados y te avisarán en cuanto salga.\n\nAdemás, estoy preparando la apertura del Mercado. Si tienes buenas sugerencias, déjalas en los comentarios.\n\nEsto no es una actualización: quiero explicar bien las ganancias sin conexión que ya tiene la demo. Mucha gente me pregunta qué se calcula exactamente después de cerrar el juego y qué conviene mirar primero al volver. Aquí van algunas cosas.\n\nLo que se sigue acumulando al desconectarte\n\n• Recursos como el Oro, la Perspicacia y las Piedras de rango, además del equipamiento y los materiales de capítulo, se siguen acumulando aunque cierres el juego, y todo se suma la próxima vez que lo abras.\n• Cada edificio de la Fortaleza guarda lo que produce en su propio almacén y deja de producir cuando se llena. Si en la Academia investigaste «Recolección automática», también lo recoge por ti mientras estás desconectado.\n• Las investigaciones de la Academia y los despachos avanzan en tiempo real, así que se completan a su hora aunque estés desconectado.\n\n\nCuánto tiempo se cuenta sin conexión\nDe base se cuentan 12 horas. Dos investigaciones de la Academia, «Guardia nocturna» y «Camino del puesto fronterizo», suben ese límite; el límite que tienes ahora se puede ver en la Academia.\n\nPrepara la formación antes de dormir\n«Autoavance» viene activado por defecto. Mientras no lo desactives a mano, cuando estés desconectado tu equipo seguirá avanzando con la misma formación que tenías al irte, y se detendrá en cuanto pierda un combate. En la demo se puede avanzar como máximo hasta la etapa 800.\nAsí que dedicar un minuto a preparar la formación antes de dormir es lo que más rinde.\n\nAl volver, mira primero el informe sin conexión\nSi estuviste fuera un buen rato, al abrir el juego primero aparece «Contando ganancias sin conexión» con su progreso, y al terminar se abre el informe sin conexión: cuánto tiempo estuviste fuera, cuántas horas se contaron, qué recursos y equipamiento conseguiste y cuántas etapas avanzaste; todo viene ahí.\nLas ganancias ya se suman al hacer el cálculo; «Recoger botín» solo cierra el informe. Si cierras el juego a mitad del cálculo, no se pierde nada: se vuelve a calcular la próxima vez que lo abras.\n\nCuando dejas el juego abierto y te pones con otra cosa\nDespués de superar la etapa 60, el tiempo en que el juego está abierto pero tu equipo no está combatiendo en automático cuenta como tiempo sin conexión: se calcula junto con lo demás la próxima vez que abras el juego y también tiene el límite sin conexión.\nAsí que, si dejas el juego abierto mientras haces otra cosa, basta con dejar al equipo en combate automático.\n\nDespués de recoger las ganancias sin conexión, el juego también te sugiere algunas cosas para hacer de paso: reclamar el despacho urgente, organizar investigaciones, recoger los almacenes llenos y revisar los despachos. Basta con ir pulsando una por una.\n\nSi hay otras mecánicas que quieras que te explique o algo que no se entienda, pregúntame en los comentarios.\n\nSi te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.\n\nJuega la demo gratis（https://store.steampowered.com/app/5257220/） | Añade el juego completo a tu lista de deseados（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=spanish"
+        },
+        "brazilian": {
+          "title": "Guia de início do acionista: mesmo offline, a agência segue trabalhando por você",
+          "body": "Olá, pessoal! Aqui é o Juanmao.\n\nO jogo completo chega em 3 de dezembro! Faltam 21 dias para vocês poderem jogar! Se curtiu, adicione à sua lista de desejos e você vai receber um aviso quando ele sair.\n\nAlém disso, estou preparando a abertura do Mercado. Se tiver alguma boa sugestão, deixa nos comentários.\n\nIsto não é uma atualização: quero explicar direitinho os ganhos offline que a demo já tem. Muita gente me pergunta o que exatamente continua sendo calculado depois que você fecha o jogo e o que olhar primeiro quando volta. Separei algumas coisas.\n\nO que continua acumulando quando você sai\n\n• Recursos como Ouro, Discernimento e Pedras de Patente, além de equipamentos e materiais de capítulo, continuam acumulando mesmo com o jogo fechado, e tudo entra na conta da próxima vez que você abrir.\n• Cada construção da Fortaleza guarda o que produz no próprio armazém e para de produzir quando ele enche. Se você pesquisou \"Coleta Automática\" na Academia, ela também coleta para você enquanto você está offline.\n• As pesquisas da Academia e as missões seguem o tempo real, então terminam na hora certa mesmo com você offline.\n\n\nQuanto tempo offline é contado\nA base é de 12 horas. Duas pesquisas da Academia, \"Vigília Noturna\" e \"Estrada do Posto Fronteiriço\", aumentam esse limite; o limite atual dá para ver na Academia.\n\nMonte a formação antes de dormir\nO \"Avanço automático\" já vem ligado por padrão. Enquanto você não desligar na mão, quando estiver offline a equipe continua avançando com a mesma formação de quando você saiu, e para assim que perder uma batalha. Na demo, dá para avançar no máximo até a fase 800.\nEntão, gastar um minuto montando a formação antes de dormir vale mais do que qualquer coisa.\n\nQuando voltar, veja primeiro o relatório offline\nSe você ficou fora por mais tempo, ao abrir o jogo aparece primeiro \"Contando ganhos offline\" com o progresso, e quando termina abre o relatório offline: quanto tempo você ficou fora, quantas horas foram contadas, quais recursos e equipamentos você ganhou e quantas fases avançou, está tudo ali.\nOs ganhos já entram na conta durante o cálculo; \"Coletar espólios\" só fecha o relatório. Se você fechar o jogo no meio do cálculo, não perde nada: da próxima vez que abrir, ele calcula de novo.\n\nQuando o jogo fica aberto e você vai fazer outra coisa\nDepois da fase 60, o tempo em que o jogo fica aberto mas a equipe não está lutando no automático conta como tempo offline: ele é calculado junto da próxima vez que você abrir o jogo e também segue o limite offline.\nEntão, se for deixar o jogo aberto para fazer outra coisa, é só deixar a equipe na batalha automática.\n\nDepois de coletar os ganhos offline, o jogo ainda sugere algumas coisas para fazer de quebra: coletar a missão urgente, planejar pesquisas, coletar os armazéns cheios e ver as missões. É só ir clicando uma por uma.\n\nSe tem alguma outra mecânica que você quer que eu explique ou algo que não ficou claro, pode perguntar nos comentários.\n\nSe você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.\n\nJogue a demo gratuita（https://store.steampowered.com/app/5257220/） | Adicione o jogo completo à sua lista de desejos（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=brazilian"
+        },
+        "russian": {
+          "title": "Памятка новому акционеру: вы вышли из игры, а агентство всё ещё работает на вас",
+          "body": "Всем привет, это Juanmao.\n\nПолная версия выходит 3 декабря! Остался 21 день, и в неё можно будет играть! Если игра вам нравится, добавьте её в список желаемого — тогда вы получите уведомление, как только она выйдет.\n\nКроме того, я готовлю к открытию рынок. Если есть хорошие идеи — пишите в комментариях.\n\nЭто не обновление — я хочу толком объяснить офлайн-доход, который уже есть в демо. Меня часто спрашивают: что вообще считается после того, как закрываешь игру, и куда смотреть первым делом, когда возвращаешься. Расскажу о нескольких вещах.\n\nЧто копится, пока вас нет\n\n• Золото, Озарение, Камни ранга и другие ресурсы, а ещё снаряжение и материалы глав продолжают копиться и после закрытия игры — всё зачислится, когда вы снова её откроете.\n• Каждое здание Крепости складывает выработку в собственный склад и перестаёт производить, когда он заполнен. Если в Академии изучен «Автосбор», он будет собирать за вас и офлайн.\n• Исследования в Академии и задания идут по реальному времени, так что и офлайн они завершаются в срок.\n\n\nСколько времени засчитывается офлайн\nБазово засчитывается 12 часов. Два исследования в Академии — «Ночной дозор» и «Пограничный тракт» — поднимают этот лимит; текущий лимит можно посмотреть в Академии.\n\nПеред сном настройте отряд\n«Автопродвижение» по умолчанию включено. Пока вы не выключили его вручную, офлайн отряд продолжит идти вперёд тем же составом, что был у вас перед уходом, и остановится после первого поражения. В демо можно продвинуться максимум до 800-го этапа.\nТак что потратить минуту перед сном на настройку отряда — самое полезное, что можно сделать.\n\nВернувшись, сначала загляните в Офлайн-сводку\nЕсли вас не было подольше, при запуске игры сначала появится «Подсчёт офлайн-дохода» с прогрессом, а после подсчёта откроется Офлайн-сводка: сколько вас не было, сколько часов засчитано, какие ресурсы и снаряжение получены и сколько этапов пройдено — всё там.\nДоход зачисляется уже во время подсчёта, а «Забрать добычу» просто закрывает сводку. Если закрыть игру посреди подсчёта, ничего не пропадёт: при следующем запуске всё посчитается заново.\n\nКогда игра открыта, а вы заняты другим\nПосле 60-го этапа время, когда игра открыта, но отряд не сражается в автобое, записывается как офлайн-время: оно рассчитывается вместе со всем остальным при следующем запуске игры и тоже ограничено офлайн-лимитом.\nТак что если оставляете игру открытой и занимаетесь другими делами, просто поставьте отряд на автобой.\n\nКогда офлайн-доход собран, игра ещё подскажет несколько дел, которые можно сделать заодно: забрать срочную отправку, назначить исследования, собрать заполненные склады и проверить задания. Просто пройдитесь по ним по очереди.\n\nЕсли хотите, чтобы я рассказал о других механиках, или что-то непонятно — спрашивайте в комментариях.\n\nЕсли игра вам понравилась, пожалуйста, добавьте её в список желаемого. Спасибо всем — для игры это правда очень важно.\n\nИграть в бесплатную демоверсию（https://store.steampowered.com/app/5257220/） | Добавить полную версию в список желаемого（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=russian"
+        }
+      },
+      "files": [
+        {
+          "name": "简体中文新闻原文.txt",
+          "url": "assets/946dfc486019.txt",
+          "type": "text"
+        },
+        {
+          "name": "繁體中文新闻原文.txt",
+          "url": "assets/7c179b70e36d.txt",
+          "type": "text"
+        },
+        {
+          "name": "English新闻原文.txt",
+          "url": "assets/237d35e4138c.txt",
+          "type": "text"
+        },
+        {
+          "name": "日本語新闻原文.txt",
+          "url": "assets/4c7381336299.txt",
+          "type": "text"
+        },
+        {
+          "name": "한국어新闻原文.txt",
+          "url": "assets/1caa2973b8e3.txt",
+          "type": "text"
+        },
+        {
+          "name": "Deutsch新闻原文.txt",
+          "url": "assets/8a1e610d3909.txt",
+          "type": "text"
+        },
+        {
+          "name": "Français新闻原文.txt",
+          "url": "assets/28b5592a787a.txt",
+          "type": "text"
+        },
+        {
+          "name": "Español新闻原文.txt",
+          "url": "assets/d17b34aae8bf.txt",
+          "type": "text"
+        },
+        {
+          "name": "Português (Brasil)新闻原文.txt",
+          "url": "assets/1df9a1016afb.txt",
+          "type": "text"
+        },
+        {
+          "name": "Русский新闻原文.txt",
+          "url": "assets/70a579b5beac.txt",
+          "type": "text"
+        }
+      ],
+      "cover": "assets/steam-696529526775087164-cover-schinese.png",
+      "source": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=schinese",
+      "links": [
+        {
+          "platform": "Steam 新闻原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=schinese",
+          "date": "2026-11-12",
+          "status": "已发布"
+        }
+      ],
+      "detailNote": "现有Demo玩法介绍新闻，非版本更新。按Steam公开原文归档；日期采用北京时间，倒计时保留发布当日原文。"
+    },
+    {
+      "id": "steam-696529526775087164-covers",
+      "title": "离线收益新闻 · 12月3日正式版上线封面",
+      "category": "封面与视觉",
+      "group": "公告封面",
+      "date": "2026-11-12",
+      "dateBasis": "发布日期",
+      "summary": "第16张Q版英雄插画「摘苹果」；左下两行大字标注上线日期。中文两语用简中图，其他八语用英文图。",
+      "status": "已发布 · 十语",
+      "files": [
+        {
+          "name": "简体中文 / 繁體中文 · 12月3日正式版上线封面",
+          "url": "assets/steam-696529526775087164-cover-schinese.png",
+          "type": "image",
+          "source": "output/steam-news-20261112/cover-date-revision-v5/16_摘苹果_两行v5_schinese.png"
+        },
+        {
+          "name": "English / 其他七语 · 12月3日正式版上线封面",
+          "url": "assets/steam-696529526775087164-cover-english.png",
+          "type": "image",
+          "source": "output/steam-news-20261112/cover-date-revision-v5/16_摘苹果_两行v5_english.png"
+        }
+      ],
+      "cover": "assets/steam-696529526775087164-cover-schinese.png",
+      "source": "output/steam-news-20261112/cover-date-revision-v5",
+      "links": [
+        {
+          "platform": "Steam 新闻原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=schinese",
+          "date": "2026-11-12",
+          "status": "已发布"
+        }
+      ]
     }
   ]
 }

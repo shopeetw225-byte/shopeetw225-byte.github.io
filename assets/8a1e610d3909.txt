@@ -1,0 +1,41 @@
+Leitfaden für Aktionäre: Auch offline arbeitet die Agentur für euch weiter
+发布日期：2026-11-12 15:50（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=german
+
+Hallo zusammen, hier ist Juanmao.
+
+Die Vollversion erscheint am 3. Dezember! Noch 21 Tage, dann könnt ihr sie spielen! Wenn sie euch gefällt, setzt sie auf eure Wunschliste, dann bekommt ihr zum Release eine Benachrichtigung.
+
+Außerdem bereite ich gerade die Öffnung des Markts vor. Wenn ihr gute Vorschläge habt, schreibt sie gern in die Kommentare.
+
+Das hier ist kein Update. Ich möchte die Offline-Erträge, die es in der Demo schon gibt, einmal richtig erklären. Oft werde ich gefragt, was eigentlich berechnet wird, wenn das Spiel aus ist, und wo man nach der Rückkehr zuerst hinschauen sollte. Hier ein paar Punkte dazu.
+
+[h2]Was offline weiter anfällt[/h2]
+[list]
+[*]Ressourcen wie Gold, Einsicht und Rangsteine, dazu Ausrüstung und Kapitelmaterialien, sammeln sich auch bei geschlossenem Spiel weiter an und werden beim nächsten Start gesammelt gutgeschrieben.
+[*]Die Gebäude der Festung füllen jeweils ihr eigenes Lager, und wenn es voll ist, hören sie auf. Habt ihr in der Akademie „Auto-Sammeln“ erforscht, wird auch offline für euch abgeholt.
+[*]Akademie-Forschungen und Entsendungen laufen in Echtzeit und werden auch offline pünktlich fertig.
+[/list]
+
+[h2]Wie lange offline gezählt wird[/h2]
+Grundsätzlich werden bis zu 12 Stunden gezählt. Mit den beiden Akademie-Forschungen „Nachtwache“ und „Grenzpoststraße“ lässt sich das Limit weiter anheben; wie hoch es gerade ist, seht ihr in der Akademie.
+
+[h2]Vor dem Schlafen den Trupp aufstellen[/h2]
+„Auto-Vorrücken“ ist standardmäßig an. Solange ihr es nicht selbst ausschaltet, kämpft sich euer Team offline mit dem Trupp, den ihr beim Verlassen aufgestellt hattet, weiter nach vorn und hört bei der ersten Niederlage auf. In der Demo geht es höchstens bis Etappe 800.
+Eine Minute vor dem Schlafengehen, um den Trupp gut aufzustellen, bringt also mehr als alles andere.
+
+[h2]Nach der Rückkehr zuerst den Offline-Bericht ansehen[/h2]
+Wart ihr etwas länger weg, zeigt das Spiel beim Öffnen zuerst „Offline-Erträge werden gezählt“ mit einer Fortschrittsanzeige, danach erscheint der Offline-Bericht: wie lange ihr offline wart, wie viele Stunden angerechnet wurden, welche Ressourcen und Ausrüstung ihr bekommen habt und wie viele Etappen geschafft wurden – alles steht dort.
+Die Erträge sind schon bei der Abrechnung gutgeschrieben, „Beute abholen“ schließt nur den Bericht. Schließt ihr das Spiel mitten in der Abrechnung, geht nichts verloren – beim nächsten Öffnen wird neu gerechnet.
+
+[h2]Wenn das Spiel läuft und ihr etwas anderes macht[/h2]
+Sobald ihr Etappe 60 hinter euch habt, wird die Zeit, in der das Spiel läuft, euer Team aber nicht automatisch kämpft, als Offline-Zeit gezählt. Sie wird beim nächsten Öffnen des Spiels mit abgerechnet, und auch dafür gilt das Offline-Limit.
+Wenn ihr das Spiel offen lasst und etwas anderes macht, lasst euer Team also einfach im Auto-Kampf weiterkämpfen.
+
+Wenn ihr die Offline-Erträge eingesammelt habt, schlägt euch das Spiel noch ein paar Dinge vor, die ihr gleich mit erledigen könnt: Eilauftrag abholen, Forschung planen, volle Gebäudelager abholen, Entsendungen ansehen. Einfach der Reihe nach durchklicken.
+
+Welche Spielfunktionen soll ich noch erklären, und was ist euch unklar? Fragt mich gern in den Kommentaren.
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+[url=https://store.steampowered.com/app/5257220/]Kostenlose Demo spielen[/url] | [url=https://store.steampowered.com/app/4855890/]Vollversion auf die Wunschliste setzen[/url]

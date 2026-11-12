@@ -1,0 +1,41 @@
+Shareholder onboarding: your Agency keeps working after you log off
+发布日期：2026-11-12 15:50（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=english
+
+Hi everyone, Juanmao here.
+
+The full game launches on December 3! Just 21 days until you can play it! If you like it, add it to your wishlist and you'll get a heads-up the moment it's out.
+
+Also, I'm getting the Market ready to open. If you have any good suggestions, feel free to leave them in the comments.
+
+This isn't an update. I just want to explain the offline earnings that are already in the Demo. People often ask what's actually being counted after they close the game, and what to check first when they come back. Here are a few things.
+
+[h2]What keeps piling up after you log off[/h2]
+[list]
+[*]Resources like Gold, Insight and Rank Stones, plus gear and chapter materials, keep piling up after you close the game, and it all gets credited together the next time you open it.
+[*]Each Fortress building stores its output in its own storage and stops once that's full. If the Academy has learned “Auto-Collect”, it collects for you while you're offline too.
+[*]Academy research and dispatches run on real time, so they still finish on schedule while you're offline.
+[/list]
+
+[h2]How long offline time counts[/h2]
+The base is 12 hours. Two Academy research projects, “Night Watch” and “Border Post Road”, raise that cap further. You can see your current cap in the Academy.
+
+[h2]Set up your lineup before bed[/h2]
+“Auto-advance” is on by default. Unless you've turned it off yourself, your team keeps pushing on while you're offline with the lineup you left it with, and stops after one loss. In the Demo, it can push up to stage 800 at most.
+So spending a minute setting up your lineup before bed helps more than anything.
+
+[h2]Check the Offline Debrief when you're back[/h2]
+If you've been away for a while, opening the game first shows “Counting offline earnings” with its progress. Once that's done, the Offline Debrief pops up: how long you were offline, how many hours were counted, which resources and gear you got, and how many stages you pushed, all listed there.
+Your earnings are already credited during settlement. “Claim Spoils” just closes the debrief. If you close the game halfway through settling, nothing is lost. It'll recount the next time you open it.
+
+[h2]When the game is open but you're busy[/h2]
+Past stage 60, any time the game is open but your team isn't auto-battling gets counted as offline time. It's settled together the next time you open the game, and the offline cap applies to it too.
+So if you leave the game open while you do something else, just keep your team on auto-battle.
+
+After you collect your offline earnings, the game also suggests a few things to do while you're at it: claim Rush Dispatches, plan research, collect from buildings with full storage, and check on dispatches. Just click through them.
+
+If there's anything else in the game you'd like me to talk about, or anything that isn't clear, feel free to ask me in the comments.
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url] | [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]
