@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "bilibili_sent": 8,
+  "bilibili_sent": 13,
   "bilibili_failed": 0,
   "skipped": 0,
   "pending": 0,
@@ -9,57 +9,92 @@
       "name": "银酱玩独游",
       "uid": "7789351",
       "profile_url": "https://space.bilibili.com/7789351",
-      "status": "sent",
-      "sent_at": "2026-11-12T06:09:25.240000+08:00"
+      "sent_at": "2026-11-12T06:09:25.240000+08:00",
+      "status": "sent"
     },
     {
       "name": "我卡费了之神",
       "uid": "101555657",
       "profile_url": "https://space.bilibili.com/101555657",
-      "status": "sent",
-      "sent_at": "2026-11-12T06:11:42.359000+08:00"
+      "sent_at": "2026-11-12T06:11:42.359000+08:00",
+      "status": "sent"
     },
     {
       "name": "噬回吟",
       "uid": "38611648",
       "profile_url": "https://space.bilibili.com/38611648",
-      "status": "sent",
-      "sent_at": "2026-11-12T06:12:34.691000+08:00"
+      "sent_at": "2026-11-12T06:12:34.691000+08:00",
+      "status": "sent"
     },
     {
       "name": "老谭酸菜打卤面",
       "uid": "14306353",
       "profile_url": "https://space.bilibili.com/14306353",
-      "status": "sent",
-      "sent_at": "2026-11-12T06:13:10.291000+08:00"
+      "sent_at": "2026-11-12T06:13:10.291000+08:00",
+      "status": "sent"
     },
     {
       "name": "Vanhorn正在游戏中",
       "uid": "1277911298",
       "profile_url": "https://space.bilibili.com/1277911298",
-      "status": "sent",
-      "sent_at": "2026-11-12T06:14:00.237000+08:00"
+      "sent_at": "2026-11-12T06:14:00.237000+08:00",
+      "status": "sent"
     },
     {
       "name": "行者-WalkingMan",
       "uid": "4245920",
       "profile_url": "https://space.bilibili.com/4245920",
-      "status": "sent",
-      "sent_at": "2026-11-12T06:15:11.563000+08:00"
+      "sent_at": "2026-11-12T06:15:11.563000+08:00",
+      "status": "sent"
     },
     {
       "name": "朽木雕格调",
       "uid": "159063939",
       "profile_url": "https://space.bilibili.com/159063939",
-      "status": "sent",
-      "sent_at": "2026-11-12T06:15:58.007000+08:00"
+      "sent_at": "2026-11-12T06:15:58.007000+08:00",
+      "status": "sent"
     },
     {
       "name": "赛博鸡蛋分拣员",
       "uid": "3690980043655431",
       "profile_url": "https://space.bilibili.com/3690980043655431",
-      "status": "sent",
-      "sent_at": "2026-11-12T06:16:37.513000+08:00"
+      "sent_at": "2026-11-12T06:16:37.513000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "小代游戏日记",
+      "uid": "188423979",
+      "profile_url": "https://space.bilibili.com/188423979",
+      "sent_at": "2026-11-12T13:38:28.441000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "朋克玩游戏",
+      "uid": "49727546",
+      "profile_url": "https://space.bilibili.com/49727546",
+      "sent_at": "2026-11-12T13:39:32.858000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "twobeings",
+      "uid": "15897509",
+      "profile_url": "https://space.bilibili.com/15897509",
+      "sent_at": "2026-11-12T13:40:26.228000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "steam情报局",
+      "uid": "473519710",
+      "profile_url": "https://space.bilibili.com/473519710",
+      "sent_at": "2026-11-12T13:42:38.131000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "御琪幽然",
+      "uid": "2908365",
+      "profile_url": "https://space.bilibili.com/2908365",
+      "sent_at": "2026-11-12T13:51:43.660000+08:00",
+      "status": "sent"
     }
   ],
   "youtube_email_sent": 0,
@@ -67,5 +102,65 @@
   "authorized_batch_completed": 30,
   "prior_day_delivered": 22,
   "resolution_note": "11月11日限额未送达1位及未尝试7位，均于11月12日送达；昨日记录保留为当日历史。",
-  "time_note": "北京时间，逐条与实际发送调用校验；已发不代表已读或接受合作。"
+  "time_note": "北京时间，逐条与实际发送调用校验；已发不代表已读或接受合作。",
+  "morning_sent": 8,
+  "additional_new_sent": 5,
+  "research_deferred": [
+    {
+      "name": "Cliencer克总",
+      "uid": "30031316",
+      "status": "deferred_recent_activity",
+      "profile_url": "https://space.bilibili.com/30031316",
+      "latest_display": "2022-01-01",
+      "sample_url": "https://www.bilibili.com/video/BV1iT4y127hD/",
+      "summary": "最近列表样本为2022-01-01，近期活动证据不足，暂缓。"
+    },
+    {
+      "name": "好游助手",
+      "uid": "1262499771",
+      "status": "deferred_recent_fit",
+      "profile_url": "https://space.bilibili.com/1262499771",
+      "latest_display": "8-12",
+      "sample_url": "https://www.bilibili.com/video/BV15MgG6QEiZ/",
+      "summary": "最近显示8-12，年份未核；以Steam工具和网吧服务为主，当前试玩适配不足，暂缓。"
+    },
+    {
+      "name": "蔬菜拉面是个老实人",
+      "uid": "170138227",
+      "status": "deferred_recent_activity",
+      "profile_url": "https://space.bilibili.com/170138227",
+      "latest_display": "2024-08-24",
+      "sample_url": "https://www.bilibili.com/video/BV1FNscedEtY/",
+      "summary": "最近列表样本为2024-08-24，近期持续内容证据不足，暂缓。"
+    },
+    {
+      "name": "大星项目说",
+      "uid": "3546585522767963",
+      "status": "deferred_recent_fit",
+      "profile_url": "https://space.bilibili.com/3546585522767963",
+      "latest_display": "2025-04-24",
+      "sample_url": "https://www.bilibili.com/video/BV1KbLizPEab/",
+      "summary": "最近列表样本为2025-04-24，主要为礼品卡和差价项目，缺少近期试玩证据，暂缓。"
+    },
+    {
+      "name": "Cs散修",
+      "uid": "403883234",
+      "status": "deferred_account_unavailable",
+      "profile_url": "https://space.bilibili.com/403883234",
+      "latest_display": null,
+      "sample_url": null,
+      "summary": "同UID搜索现显示“账号注销84421410”，主页未显示投稿，当前适配无法核实，暂缓；不推断变化原因。"
+    },
+    {
+      "name": "JaredMcCain8",
+      "uid": "363075597",
+      "status": "deferred_recent_fit",
+      "profile_url": "https://space.bilibili.com/363075597",
+      "latest_display": "2025-01-24",
+      "sample_url": "https://www.bilibili.com/video/BV1ZHfGYpEvo/",
+      "summary": "最近列表样本为2025-01-24课程；Banana样本为2024年，缺少近期游戏内容，暂缓。"
+    }
+  ],
+  "research_deferred_count": 6,
+  "research_pending_count": 0
 }

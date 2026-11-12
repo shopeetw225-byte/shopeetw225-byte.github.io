@@ -1,9 +1,9 @@
 {
   "research_date": "2026-11-09",
-  "updated_date": "2026-11-11",
+  "updated_date": "2026-11-12",
   "verified_identity_and_topic": 11,
   "unverified_work_leads_count": 0,
-  "sent": 1,
+  "sent": 3,
   "creators": [
     {
       "name": "十二斤的史迪仔",
@@ -337,7 +337,7 @@
       "uid": "1262499771",
       "profile_url": "https://space.bilibili.com/1262499771",
       "category": "Steam市场/挂卡/掉落题材",
-      "status": "暂不优先；近60天活跃待核，本轮未发邀请",
+      "status": "11月12日复核：暂缓，不计待发",
       "sources": [
         {
           "title": "steam新手市场使用教程",
@@ -383,6 +383,15 @@
         "suitability_basis": "基于已核作品及明确标注的一手索引线索作初步判断；不代表完整近期投稿审查。",
         "ready_to_send": false,
         "suitability_group": "low_priority_for_current_demo"
+      },
+      "followup_20261112": {
+        "name": "好游助手",
+        "uid": "1262499771",
+        "status": "deferred_recent_fit",
+        "profile_url": "https://space.bilibili.com/1262499771",
+        "latest_display": "8-12",
+        "sample_url": "https://www.bilibili.com/video/BV15MgG6QEiZ/",
+        "summary": "最近显示8-12，年份未核；以Steam工具和网吧服务为主，当前试玩适配不足，暂缓。"
       }
     },
     {
@@ -390,7 +399,7 @@
       "uid": "170138227",
       "profile_url": "https://space.bilibili.com/170138227",
       "category": "Steam市场/挂卡/掉落题材",
-      "status": "证据不足，暂缓；近60天活跃待核，本轮未发邀请",
+      "status": "11月12日复核：暂缓，不计待发",
       "sources": [
         {
           "title": "steam挂卡:你可能不知道的小技巧",
@@ -434,6 +443,15 @@
         "checked_at": "2026-11-10T10:47:52.318720+08:00",
         "ready_to_send": false,
         "suitability_group": "insufficient_evidence"
+      },
+      "followup_20261112": {
+        "name": "蔬菜拉面是个老实人",
+        "uid": "170138227",
+        "status": "deferred_recent_activity",
+        "profile_url": "https://space.bilibili.com/170138227",
+        "latest_display": "2024-08-24",
+        "sample_url": "https://www.bilibili.com/video/BV1FNscedEtY/",
+        "summary": "最近列表样本为2024-08-24，近期持续内容证据不足，暂缓。"
       }
     },
     {
@@ -441,7 +459,7 @@
       "uid": "3546585522767963",
       "profile_url": "https://space.bilibili.com/3546585522767963",
       "category": "Steam市场/挂卡/掉落题材",
-      "status": "暂不优先；近60天活跃待核，本轮未发邀请",
+      "status": "11月12日复核：暂缓，不计待发",
       "sources": [
         {
           "title": "5分钟教会你，如何利用steam赚钱",
@@ -495,6 +513,15 @@
         "checked_at": "2026-11-10T10:47:52.318720+08:00",
         "ready_to_send": false,
         "suitability_group": "low_priority_for_current_demo"
+      },
+      "followup_20261112": {
+        "name": "大星项目说",
+        "uid": "3546585522767963",
+        "status": "deferred_recent_fit",
+        "profile_url": "https://space.bilibili.com/3546585522767963",
+        "latest_display": "2025-04-24",
+        "sample_url": "https://www.bilibili.com/video/BV1KbLizPEab/",
+        "summary": "最近列表样本为2025-04-24，主要为礼品卡和差价项目，缺少近期试玩证据，暂缓。"
       }
     },
     {
@@ -502,7 +529,7 @@
       "uid": "188423979",
       "profile_url": "https://space.bilibili.com/188423979",
       "category": "Steam市场/挂卡/掉落题材",
-      "status": "优先复核玩法适配；近60天活跃待核，本轮未发邀请",
+      "status": "已邀请 · 2026-11-12",
       "sources": [
         {
           "title": "steam上卖鸡蛋？《Egg》一个鸡蛋￥2？",
@@ -565,6 +592,14 @@
         "suitability_basis": "基于已核作品及明确标注的一手索引线索作初步判断；不代表完整近期投稿审查。",
         "ready_to_send": false,
         "suitability_group": "priority_recheck"
+      },
+      "outreach_20261112": {
+        "status": "sent",
+        "platform": "B站",
+        "date": "2026-11-12",
+        "profileUrl": "https://space.bilibili.com/188423979",
+        "sent_at": "2026-11-12T13:38:28.441000+08:00",
+        "batchUrl": "creators/creator-outreach-20261112.html"
       }
     },
     {
@@ -572,7 +607,7 @@
       "uid": "403883234",
       "profile_url": "https://space.bilibili.com/403883234",
       "category": "Steam市场/挂卡/掉落题材",
-      "status": "暂不优先，近期与访问均待核；近60天活跃待核，本轮未发邀请",
+      "status": "11月12日复核：暂缓，不计待发",
       "sources": [
         {
           "title": "steam最全搬砖教学",
@@ -616,6 +651,15 @@
         "checked_at": "2026-11-10T10:47:52.318720+08:00",
         "ready_to_send": false,
         "suitability_group": "low_priority_for_current_demo"
+      },
+      "followup_20261112": {
+        "name": "Cs散修",
+        "uid": "403883234",
+        "status": "deferred_account_unavailable",
+        "profile_url": "https://space.bilibili.com/403883234",
+        "latest_display": null,
+        "sample_url": null,
+        "summary": "同UID搜索现显示“账号注销84421410”，主页未显示投稿，当前适配无法核实，暂缓；不推断变化原因。"
       }
     },
     {
@@ -623,7 +667,7 @@
       "uid": "363075597",
       "profile_url": "https://space.bilibili.com/363075597",
       "category": "Steam市场/挂卡/掉落题材",
-      "status": "证据不足，暂缓；近60天活跃待核，本轮未发邀请",
+      "status": "11月12日复核：暂缓，不计待发",
       "sources": [
         {
           "title": "Banana挂时长，掉落香蕉可在Steam市场交易",
@@ -669,6 +713,15 @@
         "suitability_basis": "基于已核作品及明确标注的一手索引线索作初步判断；不代表完整近期投稿审查。",
         "ready_to_send": false,
         "suitability_group": "insufficient_evidence"
+      },
+      "followup_20261112": {
+        "name": "JaredMcCain8",
+        "uid": "363075597",
+        "status": "deferred_recent_fit",
+        "profile_url": "https://space.bilibili.com/363075597",
+        "latest_display": "2025-01-24",
+        "sample_url": "https://www.bilibili.com/video/BV1ZHfGYpEvo/",
+        "summary": "最近列表样本为2025-01-24课程；Banana样本为2024年，缺少近期游戏内容，暂缓。"
       }
     },
     {
@@ -676,7 +729,7 @@
       "uid": "49727546",
       "profile_url": "https://space.bilibili.com/49727546",
       "category": "Steam市场/挂卡/掉落题材",
-      "status": "优先复核游戏推荐适配；近60天活跃待核，本轮未发邀请",
+      "status": "已邀请 · 2026-11-12",
       "sources": [
         {
           "title": "Steam超级喜加一！你从未见过的理财游戏！赶紧入库掉落属于你的理财香蕉吧！",
@@ -749,6 +802,14 @@
         "suitability_basis": "基于已核作品及明确标注的一手索引线索作初步判断；不代表完整近期投稿审查。",
         "ready_to_send": false,
         "suitability_group": "priority_recheck"
+      },
+      "outreach_20261112": {
+        "status": "sent",
+        "platform": "B站",
+        "date": "2026-11-12",
+        "profileUrl": "https://space.bilibili.com/49727546",
+        "sent_at": "2026-11-12T13:39:32.858000+08:00",
+        "batchUrl": "creators/creator-outreach-20261112.html"
       }
     }
   ],
@@ -870,5 +931,97 @@
     "batch_failed": 1,
     "batch_unattempted": 7
   },
-  "research_round_sent_20261110": 0
+  "research_round_sent_20261110": 0,
+  "followup_20261112": {
+    "sent_today_new": [
+      {
+        "name": "小代游戏日记",
+        "uid": "188423979",
+        "profile_url": "https://space.bilibili.com/188423979",
+        "sent_at": "2026-11-12T13:38:28.441000+08:00"
+      },
+      {
+        "name": "朋克玩游戏",
+        "uid": "49727546",
+        "profile_url": "https://space.bilibili.com/49727546",
+        "sent_at": "2026-11-12T13:39:32.858000+08:00"
+      },
+      {
+        "name": "twobeings",
+        "uid": "15897509",
+        "profile_url": "https://space.bilibili.com/15897509",
+        "sent_at": "2026-11-12T13:40:26.228000+08:00"
+      },
+      {
+        "name": "steam情报局",
+        "uid": "473519710",
+        "profile_url": "https://space.bilibili.com/473519710",
+        "sent_at": "2026-11-12T13:42:38.131000+08:00"
+      },
+      {
+        "name": "御琪幽然",
+        "uid": "2908365",
+        "profile_url": "https://space.bilibili.com/2908365",
+        "sent_at": "2026-11-12T13:51:43.660000+08:00"
+      }
+    ],
+    "deferred": [
+      {
+        "name": "Cliencer克总",
+        "uid": "30031316",
+        "status": "deferred_recent_activity",
+        "profile_url": "https://space.bilibili.com/30031316",
+        "latest_display": "2022-01-01",
+        "sample_url": "https://www.bilibili.com/video/BV1iT4y127hD/",
+        "summary": "最近列表样本为2022-01-01，近期活动证据不足，暂缓。"
+      },
+      {
+        "name": "好游助手",
+        "uid": "1262499771",
+        "status": "deferred_recent_fit",
+        "profile_url": "https://space.bilibili.com/1262499771",
+        "latest_display": "8-12",
+        "sample_url": "https://www.bilibili.com/video/BV15MgG6QEiZ/",
+        "summary": "最近显示8-12，年份未核；以Steam工具和网吧服务为主，当前试玩适配不足，暂缓。"
+      },
+      {
+        "name": "蔬菜拉面是个老实人",
+        "uid": "170138227",
+        "status": "deferred_recent_activity",
+        "profile_url": "https://space.bilibili.com/170138227",
+        "latest_display": "2024-08-24",
+        "sample_url": "https://www.bilibili.com/video/BV1FNscedEtY/",
+        "summary": "最近列表样本为2024-08-24，近期持续内容证据不足，暂缓。"
+      },
+      {
+        "name": "大星项目说",
+        "uid": "3546585522767963",
+        "status": "deferred_recent_fit",
+        "profile_url": "https://space.bilibili.com/3546585522767963",
+        "latest_display": "2025-04-24",
+        "sample_url": "https://www.bilibili.com/video/BV1KbLizPEab/",
+        "summary": "最近列表样本为2025-04-24，主要为礼品卡和差价项目，缺少近期试玩证据，暂缓。"
+      },
+      {
+        "name": "Cs散修",
+        "uid": "403883234",
+        "status": "deferred_account_unavailable",
+        "profile_url": "https://space.bilibili.com/403883234",
+        "latest_display": null,
+        "sample_url": null,
+        "summary": "同UID搜索现显示“账号注销84421410”，主页未显示投稿，当前适配无法核实，暂缓；不推断变化原因。"
+      },
+      {
+        "name": "JaredMcCain8",
+        "uid": "363075597",
+        "status": "deferred_recent_fit",
+        "profile_url": "https://space.bilibili.com/363075597",
+        "latest_display": "2025-01-24",
+        "sample_url": "https://www.bilibili.com/video/BV1ZHfGYpEvo/",
+        "summary": "最近列表样本为2025-01-24课程；Banana样本为2024年，缺少近期游戏内容，暂缓。"
+      }
+    ],
+    "pending": 0,
+    "note": "本次续轮11候选为5已发＋6暂缓，部分为新增线索；不把这11人与原研究11人混为同一集合。"
+  }
 }
