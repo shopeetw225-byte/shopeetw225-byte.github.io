@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "bilibili_sent": 13,
+  "bilibili_sent": 20,
   "bilibili_failed": 0,
   "skipped": 0,
   "pending": 0,
@@ -95,6 +95,55 @@
       "profile_url": "https://space.bilibili.com/2908365",
       "sent_at": "2026-11-12T13:51:43.660000+08:00",
       "status": "sent"
+    },
+    {
+      "name": "嗜千儿",
+      "uid": "12850385",
+      "profile_url": "https://space.bilibili.com/12850385",
+      "sent_at": "2026-11-12T14:28:03.086000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "人称稽总",
+      "uid": "74172367",
+      "profile_url": "https://space.bilibili.com/74172367",
+      "sent_at": "2026-11-12T14:31:55.721000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "GamerWhale",
+      "uid": "294636141",
+      "profile_url": "https://space.bilibili.com/294636141",
+      "sent_at": "2026-11-12T14:34:49.818000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "熊喵游戏",
+      "uid": "3537110055258197",
+      "profile_url": "https://space.bilibili.com/3537110055258197",
+      "sent_at": "2026-11-12T14:37:06.400000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "游戏の炼金术士",
+      "uid": "3493262383909453",
+      "profile_url": "https://space.bilibili.com/3493262383909453",
+      "sent_at": "2026-11-12T14:42:14.559000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "兰棠桑梓",
+      "uid": "7770879",
+      "profile_url": "https://space.bilibili.com/7770879",
+      "sent_at": "2026-11-12T14:43:29.469000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "奥利维诺",
+      "uid": "2449567",
+      "profile_url": "https://space.bilibili.com/2449567",
+      "sent_at": "2026-11-12T14:45:36.930000+08:00",
+      "status": "sent"
     }
   ],
   "youtube_email_sent": 0,
@@ -162,5 +211,7 @@
     }
   ],
   "research_deferred_count": 6,
-  "research_pending_count": 0
+  "research_pending_count": 0,
+  "additional_authorized_seven_sent": 7,
+  "total_additional_after_morning": 12
 }
