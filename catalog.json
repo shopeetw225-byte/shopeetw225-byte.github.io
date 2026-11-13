@@ -11154,7 +11154,7 @@
       "date": "2026-11-13",
       "dateBasis": "Steamworks 发布及十语公开页核对",
       "status": "已发布 · 十语",
-      "summary": "十语详情页调整为战斗、小窗、挂机掉装备与 Steam 社区市场的顺序。",
+      "summary": "十语详情页调整为战斗、小窗、挂机掉装备与 Steam 社区市场的顺序，并将挂机掉落和离线收益合并为一段。",
       "body": "新增独立战斗小窗、挂机装备和 Steam 社区市场内容；简中、繁中分别使用对应实机画面，其余语言使用英文画面。 同日将挂机掉装备与离线收益合并为一段，保留挂机掉装备标题和动图（Steam 修订 75）。",
       "cover": "https://clan.akamai.steamstatic.com/images/46216320/128427a8e967300f254d1bbc021edb3fe3fd34af.gif",
       "source": "output/steam-detail-market-desktop-20261112/上传进度.json",
