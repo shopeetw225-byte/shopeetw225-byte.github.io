@@ -1,6 +1,6 @@
 {
   "round": 3,
-  "updated_at": "2026-11-10",
+  "updated_at": "2026-11-13",
   "candidates": [
     {
       "name": "朋克玩游戏",
@@ -602,6 +602,220 @@
       "evidence_date": "2026-11-07",
       "high_view_verified": true,
       "evidence_text": "ШЕСТЕРЁНКИ КРУТЯТСЯ - ДЕНЬЖАТА МУТЯТСЯ! ► Idle Gumball Machine · 2026-02-12（原页日期） · 113,790次播放；САМАЯ ЛЕНИВАЯ ЭВОЛЮЦИЯ ПЛАНЕТЫ ► Planet Evolution: Idle Clicker · 2023-02-10（原页日期） · 565,583次播放"
+    },
+    {
+      "name": "十二斤的史迪仔",
+      "url": "https://space.bilibili.com/123174211",
+      "region": "domestic",
+      "platform": "B站",
+      "status": "历史备选 · 题材相邻，待玩法样本",
+      "note": "已核样本为Banana掉落及卡牌倒余额，能说明Steam掉落/市场兴趣；未取得放置阵容构筑或独游试玩样本，不能仅凭收益标题认定适配。",
+      "limits": "保留历史研究，非当前推荐或可直接发送名单。近期活跃、本人主页及近期投稿需App预核；旧作品时间不冒充近期。 发送前App重进核对已邀请、手写回复和拒绝；自动欢迎不算手写回复。 收益类标题仅是作者自述，未验证收益，不用于邀请承诺。 Market tutorial evidence alone does not prove this account covers game demos; verify current content fit before inviting.",
+      "evidence_date": "2026-11-10",
+      "videos": [
+        {
+          "title": "挂香蕉！steam游戏banana挂香蕉竟然真的能赚？",
+          "url": "https://www.bilibili.com/video/BV1Zf421D7zy/"
+        },
+        {
+          "title": "快速获得7.9-8折余额方法——冬促卡牌倒余额",
+          "url": "https://www.bilibili.com/video/BV1WrmdBUEFN/"
+        },
+        {
+          "title": "完整研究与后续复核记录",
+          "url": "/creators/steam-market-mining-20261110.html"
+        }
+      ],
+      "screening_group": "steam-market-history",
+      "ready_to_send": false
+    },
+    {
+      "name": "众鑫微客",
+      "url": "https://space.bilibili.com/601188852",
+      "region": "domestic",
+      "platform": "B站",
+      "status": "历史备选 · 暂不优先",
+      "note": "已核样本及本人公开简介偏CS市场搬砖、令牌和交易工具；当前Demo主打放置战斗与阵容构筑，市场交易并非已开放卖点，内容诉求与当前试玩重点较弱。",
+      "limits": "保留历史研究，非当前推荐或可直接发送名单。近期活跃、本人主页及近期投稿需App预核；旧作品时间不冒充近期。 发送前App重进核对已邀请、手写回复和拒绝；自动欢迎不算手写回复。 收益类标题仅是作者自述，未验证收益，不用于邀请承诺。 Market tutorial evidence alone does not prove this account covers game demos; verify current content fit before inviting.",
+      "evidence_date": "2026-11-10",
+      "videos": [
+        {
+          "title": "steam搬砖项目日常更新，普通人也能一个月6000+",
+          "url": "https://www.bilibili.com/video/BV1t8411g7Hk/"
+        },
+        {
+          "title": "steam游戏搬砖项目，稳定5年多，最稳玩法",
+          "url": "https://www.bilibili.com/video/BV1DG4LzCEK1/"
+        },
+        {
+          "title": "steam游戏搬砖，做了5年，一直稳定",
+          "url": "https://www.bilibili.com/video/BV1hzWRzmE5i/"
+        },
+        {
+          "title": "完整研究与后续复核记录",
+          "url": "/creators/steam-market-mining-20261110.html"
+        }
+      ],
+      "screening_group": "steam-market-history",
+      "ready_to_send": false
+    },
+    {
+      "name": "雨说新客",
+      "url": "https://space.bilibili.com/2020430835",
+      "region": "domestic",
+      "platform": "B站",
+      "status": "历史备选 · 暂不优先",
+      "note": "已核历史样本偏Steam搬砖项目与市场行情，尚无当前放置/策略游戏试玩证据；不能由市场相关推定愿意做玩法试玩。",
+      "limits": "保留历史研究，非当前推荐或可直接发送名单。近期活跃、本人主页及近期投稿需App预核；旧作品时间不冒充近期。 发送前App重进核对已邀请、手写回复和拒绝；自动欢迎不算手写回复。 收益类标题仅是作者自述，未验证收益，不用于邀请承诺。 Market tutorial evidence alone does not prove this account covers game demos; verify current content fit before inviting.",
+      "evidence_date": "2026-11-10",
+      "videos": [
+        {
+          "title": "steam搬砖项目最新市场行情状态，steam搬砖靠谱吗",
+          "url": "https://www.bilibili.com/video/BV1iT411t7ME/"
+        },
+        {
+          "title": "steam搬砖项目还能做吗，steam搬砖靠谱吗",
+          "url": "https://www.bilibili.com/video/BV1bm411z78s/"
+        },
+        {
+          "title": "完整研究与后续复核记录",
+          "url": "/creators/steam-market-mining-20261110.html"
+        }
+      ],
+      "screening_group": "steam-market-history",
+      "ready_to_send": false
+    },
+    {
+      "name": "Colddagger",
+      "url": "https://space.bilibili.com/14881766",
+      "region": "domestic",
+      "platform": "B站",
+      "status": "历史备选 · 已邀请（查看试玩邀请记录）",
+      "note": "已核同UID样本为挂卡；另有署名Colddagger的2020年Space Crew策略试玩索引，可作为玩法方向复核线索，但该条UID及当前活跃度均未核实，暂不能判定适配。",
+      "limits": "已邀请，勿重复发送。保留历史研究，非当前推荐或可直接发送名单。近期活跃、本人主页及近期投稿需App预核；旧作品时间不冒充近期。 发送前App重进核对已邀请、手写回复和拒绝；自动欢迎不算手写回复。 收益类标题仅是作者自述，未验证收益，不用于邀请承诺。 Market tutorial evidence alone does not prove this account covers game demos; verify current content fit before inviting.",
+      "evidence_date": "2026-11-10",
+      "videos": [
+        {
+          "title": "教你十元可以获得26款steam游戏，挂卡之后不仅回本还有的赚",
+          "url": "https://www.bilibili.com/video/BV1tW411q7pJ/"
+        },
+        {
+          "title": "完整研究与后续复核记录",
+          "url": "/creators/steam-market-mining-20261110.html"
+        }
+      ],
+      "screening_group": "steam-market-history",
+      "ready_to_send": false
+    },
+    {
+      "name": "好游助手",
+      "url": "https://space.bilibili.com/1262499771",
+      "region": "domestic",
+      "platform": "B站",
+      "status": "历史备选 · 暂不优先",
+      "note": "2026年5月单稿及作品页本人简介仍偏Steam工具、家庭共享与网吧游戏服务；尚无放置、阵容构筑或独游试玩证据，与当前Demo试玩重点匹配较弱。",
+      "limits": "保留历史研究，非当前推荐或可直接发送名单。本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。 收益标题是作者自述，不是本作收益承诺。",
+      "evidence_date": "2026-11-10",
+      "videos": [
+        {
+          "title": "steam新手市场使用教程",
+          "url": "https://www.bilibili.com/video/BV1UyUsBuEeW/"
+        },
+        {
+          "title": "完整研究与后续复核记录",
+          "url": "/creators/steam-market-mining-20261110.html"
+        }
+      ],
+      "screening_group": "steam-market-history",
+      "ready_to_send": false
+    },
+    {
+      "name": "蔬菜拉面是个老实人",
+      "url": "https://space.bilibili.com/170138227",
+      "region": "domestic",
+      "platform": "B站",
+      "status": "历史备选 · 证据不足，暂缓",
+      "note": "仅有2022年Steam挂卡技巧样本，可确认市场工具题材，不能支持目前持续更新或当前Demo玩法适配。",
+      "limits": "保留历史研究，非当前推荐或可直接发送名单。本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。 收益标题是作者自述，不是本作收益承诺。",
+      "evidence_date": "2026-11-10",
+      "videos": [
+        {
+          "title": "steam挂卡:你可能不知道的小技巧",
+          "url": "https://www.bilibili.com/video/BV153411X7vy/"
+        },
+        {
+          "title": "完整研究与后续复核记录",
+          "url": "/creators/steam-market-mining-20261110.html"
+        }
+      ],
+      "screening_group": "steam-market-history",
+      "ready_to_send": false
+    },
+    {
+      "name": "大星项目说",
+      "url": "https://space.bilibili.com/3546585522767963",
+      "region": "domestic",
+      "platform": "B站",
+      "status": "历史备选 · 暂不优先",
+      "note": "本人公开简介及已核作品偏礼品卡与Steam搬砖项目，尚未取得独游玩法试玩证据；与当前Demo的放置战斗、养成构筑诉求匹配较弱。",
+      "limits": "保留历史研究，非当前推荐或可直接发送名单。本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。 收益标题是作者自述，不是本作收益承诺。",
+      "evidence_date": "2026-11-10",
+      "videos": [
+        {
+          "title": "5分钟教会你，如何利用steam赚钱",
+          "url": "https://www.bilibili.com/video/BV1yNUHYfE7b/"
+        },
+        {
+          "title": "完整研究与后续复核记录",
+          "url": "/creators/steam-market-mining-20261110.html"
+        }
+      ],
+      "screening_group": "steam-market-history",
+      "ready_to_send": false
+    },
+    {
+      "name": "Cs散修",
+      "url": "https://space.bilibili.com/403883234",
+      "region": "domestic",
+      "platform": "B站",
+      "status": "历史备选 · 暂不优先，近期与访问均待核",
+      "note": "历史作品偏CS/Steam市场教学；当前作品访问未复核成功，暂无放置构筑试玩证据，不推断作品删除、停更或访问异常原因。",
+      "limits": "保留历史研究，非当前推荐或可直接发送名单。作者名与UID来自该作品一手历史页面及作者链接；当前接口未返回有效详情，不能确认当前作品可访问，不推断删除或限制原因。 本轮未发送邀请；近期适配和私信历史仍待核查。 收益标题是作者自述，不是本作收益承诺。",
+      "evidence_date": "2026-11-10",
+      "videos": [
+        {
+          "title": "steam最全搬砖教学",
+          "url": "https://www.bilibili.com/video/BV19rpRzpEDy/"
+        },
+        {
+          "title": "完整研究与后续复核记录",
+          "url": "/creators/steam-market-mining-20261110.html"
+        }
+      ],
+      "screening_group": "steam-market-history",
+      "ready_to_send": false
+    },
+    {
+      "name": "JaredMcCain8",
+      "url": "https://space.bilibili.com/363075597",
+      "region": "domestic",
+      "platform": "B站",
+      "status": "历史备选 · 证据不足，暂缓",
+      "note": "此前仅核到2024年Banana单稿；本轮PS课程页发布者字段确认同UID，但课程已完结且无发布日期，不能证明近期仍做游戏内容，当前Demo试玩适配证据不足。",
+      "limits": "保留历史研究，非当前推荐或可直接发送名单。本轮未发送邀请；近期活跃、试玩适配和私信历史仍待核查。 收益标题是作者自述，不是本作收益承诺。",
+      "evidence_date": "2026-11-10",
+      "videos": [
+        {
+          "title": "Banana挂时长，掉落香蕉可在Steam市场交易",
+          "url": "https://www.bilibili.com/video/BV1eS411P7hJ/"
+        },
+        {
+          "title": "完整研究与后续复核记录",
+          "url": "/creators/steam-market-mining-20261110.html"
+        }
+      ],
+      "screening_group": "steam-market-history",
+      "ready_to_send": false
     }
   ],
   "region_tabs": [
