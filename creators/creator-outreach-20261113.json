@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-13",
+  "bilibili_sent": 20,
+  "bilibili_failed": 0,
+  "bilibili": [
+    {
+      "name": "泡泡小猫吹泡泡",
+      "uid": "1068928974",
+      "profile_url": "https://space.bilibili.com/1068928974",
+      "sent_at": "2026-11-13T11:08:17.448000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "任天豚Nintentun",
+      "uid": "8396265",
+      "profile_url": "https://space.bilibili.com/8396265",
+      "sent_at": "2026-11-13T11:26:34.965000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "超大黑猫",
+      "uid": "1121735381",
+      "profile_url": "https://space.bilibili.com/1121735381",
+      "sent_at": "2026-11-13T11:29:15.449000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "I李笑笑l",
+      "uid": "1625412538",
+      "profile_url": "https://space.bilibili.com/1625412538",
+      "sent_at": "2026-11-13T11:31:03.248000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "糖豆豆主机游戏",
+      "uid": "1710824068",
+      "profile_url": "https://space.bilibili.com/1710824068",
+      "sent_at": "2026-11-13T11:33:15.475000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "Cc9丶打劫",
+      "uid": "24738986",
+      "profile_url": "https://space.bilibili.com/24738986",
+      "sent_at": "2026-11-13T11:35:12.694000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "松鼠_i",
+      "uid": "3707021373213611",
+      "profile_url": "https://space.bilibili.com/3707021373213611",
+      "sent_at": "2026-11-13T11:37:09.202000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "灵雪宅在家",
+      "uid": "26798952",
+      "profile_url": "https://space.bilibili.com/26798952",
+      "sent_at": "2026-11-13T11:39:07.320000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "迈达斯Hand",
+      "uid": "24004522",
+      "profile_url": "https://space.bilibili.com/24004522",
+      "sent_at": "2026-11-13T11:41:11.483000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "镜柯君Kim",
+      "uid": "36297829",
+      "profile_url": "https://space.bilibili.com/36297829",
+      "sent_at": "2026-11-13T11:43:12.303000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "嚎----",
+      "uid": "1144692471",
+      "profile_url": "https://space.bilibili.com/1144692471",
+      "sent_at": "2026-11-13T11:45:14.602000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "月半小胡图",
+      "uid": "550680496",
+      "profile_url": "https://space.bilibili.com/550680496",
+      "sent_at": "2026-11-13T11:47:19.419000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "阿鹏会飞了",
+      "uid": "2408577",
+      "profile_url": "https://space.bilibili.com/2408577",
+      "sent_at": "2026-11-13T11:50:47.666000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "太空巫师",
+      "uid": "3879041",
+      "profile_url": "https://space.bilibili.com/3879041",
+      "sent_at": "2026-11-13T11:52:52.510000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "这里是莱里",
+      "uid": "37093763",
+      "profile_url": "https://space.bilibili.com/37093763",
+      "sent_at": "2026-11-13T11:55:03.471000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "华鸽儿",
+      "uid": "1417682545",
+      "profile_url": "https://space.bilibili.com/1417682545",
+      "sent_at": "2026-11-13T11:57:15.146000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "敲萌豹风党",
+      "uid": "20669779",
+      "profile_url": "https://space.bilibili.com/20669779",
+      "sent_at": "2026-11-13T11:59:31.664000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "bult_0509",
+      "uid": "291942700",
+      "profile_url": "https://space.bilibili.com/291942700",
+      "sent_at": "2026-11-13T12:01:49.314000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "Nobodiiiii",
+      "uid": "321594657",
+      "profile_url": "https://space.bilibili.com/321594657",
+      "sent_at": "2026-11-13T12:04:09.109000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "戴科伟",
+      "uid": "38934028",
+      "profile_url": "https://space.bilibili.com/38934028",
+      "sent_at": "2026-11-13T12:06:37.713000+08:00",
+      "status": "sent"
+    }
+  ],
+  "skipped": 2,
+  "deferred_recent_fit": 4,
+  "old_pool_pending_preflight": 56,
+  "pending_are_not_eligible_or_sent": true,
+  "daily_target_completed": true,
+  "time_note": "北京时间；实际发送证据校验。已发送不表示对方已读或同意试玩。"
+}
