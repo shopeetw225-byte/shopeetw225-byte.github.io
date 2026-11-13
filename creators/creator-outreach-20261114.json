@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-14",
+  "bilibili_sent": 20,
+  "bilibili_failed": 0,
+  "bilibili": [
+    {
+      "name": "乱臣black",
+      "uid": "399158138",
+      "profile_url": "https://space.bilibili.com/399158138",
+      "sent_at": "2026-11-14T06:12:33.794000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "tao_brother",
+      "uid": "3493106513086715",
+      "profile_url": "https://space.bilibili.com/3493106513086715",
+      "sent_at": "2026-11-14T06:15:03.532000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "德喷234",
+      "uid": "298554004",
+      "profile_url": "https://space.bilibili.com/298554004",
+      "sent_at": "2026-11-14T06:17:15.856000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "千棭xs",
+      "uid": "22139981",
+      "profile_url": "https://space.bilibili.com/22139981",
+      "sent_at": "2026-11-14T06:26:14.555000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "代号GYT-战研所",
+      "uid": "67843989",
+      "profile_url": "https://space.bilibili.com/67843989",
+      "sent_at": "2026-11-14T06:27:43.434000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "逗比的预言家",
+      "uid": "2941854",
+      "profile_url": "https://space.bilibili.com/2941854",
+      "sent_at": "2026-11-14T06:28:55.501000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "三位一体x熵",
+      "uid": "39753851",
+      "profile_url": "https://space.bilibili.com/39753851",
+      "sent_at": "2026-11-14T06:30:48.543000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "银翼-老头",
+      "uid": "602626720",
+      "profile_url": "https://space.bilibili.com/602626720",
+      "sent_at": "2026-11-14T06:32:15.575000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "路易-XVI",
+      "uid": "12265524",
+      "profile_url": "https://space.bilibili.com/12265524",
+      "sent_at": "2026-11-14T06:33:33.171000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "MC烤土豆",
+      "uid": "10029520",
+      "profile_url": "https://space.bilibili.com/10029520",
+      "sent_at": "2026-11-14T06:35:08.991000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "输入偏移",
+      "uid": "645994066",
+      "profile_url": "https://space.bilibili.com/645994066",
+      "sent_at": "2026-11-14T06:36:30.253000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "超级大国王",
+      "uid": "21345611",
+      "profile_url": "https://space.bilibili.com/21345611",
+      "sent_at": "2026-11-14T06:37:48.919000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "吼姆拉-_",
+      "uid": "22730016",
+      "profile_url": "https://space.bilibili.com/22730016",
+      "sent_at": "2026-11-14T06:39:30.865000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "一只水里游的鱼",
+      "uid": "308954404",
+      "profile_url": "https://space.bilibili.com/308954404",
+      "sent_at": "2026-11-14T06:40:59.245000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "天才少女要乐奈",
+      "uid": "493528488",
+      "profile_url": "https://space.bilibili.com/493528488",
+      "sent_at": "2026-11-14T06:42:25.846000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "钩子Goou_Zi",
+      "uid": "2094439471",
+      "profile_url": "https://space.bilibili.com/2094439471",
+      "sent_at": "2026-11-14T06:44:06.529000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "TtotemofUndying",
+      "uid": "667595778",
+      "profile_url": "https://space.bilibili.com/667595778",
+      "sent_at": "2026-11-14T06:45:30.956000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "超可爱nobu萌奈香",
+      "uid": "15202902",
+      "profile_url": "https://space.bilibili.com/15202902",
+      "sent_at": "2026-11-14T06:47:04.078000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "北斗神哈利",
+      "uid": "381721037",
+      "profile_url": "https://space.bilibili.com/381721037",
+      "sent_at": "2026-11-14T06:49:02.254000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "沉淀淀沉",
+      "uid": "510317019",
+      "profile_url": "https://space.bilibili.com/510317019",
+      "sent_at": "2026-11-14T06:50:48.816000+08:00",
+      "status": "sent"
+    }
+  ],
+  "skipped": 0,
+  "deferred_recent_fit": 0,
+  "old_pool_pending_preflight": 36,
+  "pending_are_not_eligible_or_sent": true,
+  "daily_target_completed": true,
+  "time_note": "北京时间；实际发送证据校验。送达不表示对方已读或同意试玩。"
+}
