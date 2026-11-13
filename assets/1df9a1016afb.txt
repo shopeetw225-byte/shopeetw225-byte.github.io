@@ -22,7 +22,7 @@ A base é de 12 horas. Duas pesquisas da Academia, "Vigília Noturna" e "Estrada
 [img]https://clan.akamai.steamstatic.com/images/46216320/1dd31007a875259bd4a2343d2763ac1f65cd5070.jpg[/img]
 
 [h2]Monte a formação antes de dormir[/h2]
-O "Avanço automático" já vem ligado por padrão. Enquanto você não desligar na mão, quando estiver offline a equipe continua avançando com a mesma formação de quando você saiu, e para assim que perder uma batalha. Na demo, dá para avançar no máximo até a fase 800.
+O avanço offline já vem ligado por padrão, mesmo com o "Avanço automático" desligado na batalha. Ele só para se você ligou o "Avanço automático" e depois desligou na mão. A equipe continua avançando com a mesma formação de quando você saiu, e para assim que perder uma batalha. Na demo, dá para avançar no máximo até a fase 800.
 Então, gastar um minuto montando a formação antes de dormir vale mais do que qualquer coisa.
 [img]https://clan.akamai.steamstatic.com/images/46216320/a854316d5678cbc77fbe5d31c5bfe5b6f359dbf3.jpg[/img]
 
@@ -36,7 +36,7 @@ Os ganhos já entram na conta durante o cálculo; "Coletar espólios" só fecha 
 Depois da fase 60, o tempo em que o jogo fica aberto mas a equipe não está lutando no automático conta como tempo offline: ele é calculado junto da próxima vez que você abrir o jogo e também segue o limite offline.
 Então, se for deixar o jogo aberto para fazer outra coisa, é só deixar a equipe na batalha automática.
 
-Depois de coletar os ganhos offline, o jogo ainda sugere algumas coisas para fazer de quebra: coletar a missão urgente, planejar pesquisas, coletar os armazéns cheios e ver as missões. É só ir clicando uma por uma.
+Depois de coletar os ganhos offline, acendem uns pontinhos nas bandeiras do canto superior direito mostrando onde tem algo para fazer de quebra, como coletar a missão urgente, planejar pesquisas, coletar os armazéns cheios ou ver as missões. É só ir seguindo os pontinhos.
 
 Se tem alguma outra mecânica que você quer que eu explique ou algo que não ficou claro, pode perguntar nos comentários.
 

@@ -22,7 +22,7 @@ Grundsätzlich werden bis zu 12 Stunden gezählt. Mit den beiden Akademie-Forsch
 [img]https://clan.akamai.steamstatic.com/images/46216320/1dd31007a875259bd4a2343d2763ac1f65cd5070.jpg[/img]
 
 [h2]Vor dem Schlafen den Trupp aufstellen[/h2]
-„Auto-Vorrücken“ ist standardmäßig an. Solange ihr es nicht selbst ausschaltet, kämpft sich euer Team offline mit dem Trupp, den ihr beim Verlassen aufgestellt hattet, weiter nach vorn und hört bei der ersten Niederlage auf. In der Demo geht es höchstens bis Etappe 800.
+Offline wird standardmäßig weiter vorgerückt, auch wenn „Auto-Vorrücken“ im Kampf aus ist. Nur wenn ihr es einmal eingeschaltet und dann selbst wieder ausgeschaltet habt, rückt das Team offline nicht vor. Euer Team kämpft sich mit dem Trupp, den ihr beim Verlassen aufgestellt hattet, weiter nach vorn und hört bei der ersten Niederlage auf. In der Demo geht es höchstens bis Etappe 800.
 Eine Minute vor dem Schlafengehen, um den Trupp gut aufzustellen, bringt also mehr als alles andere.
 [img]https://clan.akamai.steamstatic.com/images/46216320/a854316d5678cbc77fbe5d31c5bfe5b6f359dbf3.jpg[/img]
 
@@ -36,7 +36,7 @@ Die Erträge sind schon bei der Abrechnung gutgeschrieben, „Beute abholen“ s
 Sobald ihr Etappe 60 hinter euch habt, wird die Zeit, in der das Spiel läuft, euer Team aber nicht automatisch kämpft, als Offline-Zeit gezählt. Sie wird beim nächsten Öffnen des Spiels mit abgerechnet, und auch dafür gilt das Offline-Limit.
 Wenn ihr das Spiel offen lasst und etwas anderes macht, lasst euer Team also einfach im Auto-Kampf weiterkämpfen.
 
-Wenn ihr die Offline-Erträge eingesammelt habt, schlägt euch das Spiel noch ein paar Dinge vor, die ihr gleich mit erledigen könnt: Eilauftrag abholen, Forschung planen, volle Gebäudelager abholen, Entsendungen ansehen. Einfach der Reihe nach durchklicken.
+Wenn ihr die Offline-Erträge eingesammelt habt, leuchten an den Fahnen oben rechts kleine Punkte auf und zeigen, wo ihr gleich noch etwas erledigen könnt, etwa Eilauftrag abholen, Forschung planen, volle Gebäudelager abholen oder Entsendungen ansehen. Einfach den Punkten nach durchklicken.
 
 Welche Spielfunktionen soll ich noch erklären, und was ist euch unklar? Fragt mich gern in den Kommentaren.
 

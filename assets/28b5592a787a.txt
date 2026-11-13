@@ -22,7 +22,7 @@ De base, jusqu'à 12 heures sont comptées. Deux recherches de l'Académie, « V
 [img]https://clan.akamai.steamstatic.com/images/46216320/1dd31007a875259bd4a2343d2763ac1f65cd5070.jpg[/img]
 
 [h2]Préparer son équipe avant de dormir[/h2]
-« Avancée auto » est activée par défaut. Tant que vous ne la désactivez pas vous-même, votre équipe continue d'avancer hors ligne avec la composition que vous aviez en partant, et s'arrête à la première défaite. Dans la démo, elle peut aller jusqu'à l'étape 800 au maximum.
+L'avancée hors ligne est active par défaut, même si « Avancée auto » est désactivée en combat. Elle ne s'arrête que si vous avez activé « Avancée auto » puis l'avez désactivée vous-même. Votre équipe continue d'avancer avec la composition que vous aviez en partant, et s'arrête à la première défaite. Dans la démo, elle peut aller jusqu'à l'étape 800 au maximum.
 Prendre une minute avant de dormir pour bien composer votre équipe, c'est donc ce qui compte le plus.
 [img]https://clan.akamai.steamstatic.com/images/46216320/a854316d5678cbc77fbe5d31c5bfe5b6f359dbf3.jpg[/img]
 
@@ -36,7 +36,7 @@ Les gains sont déjà crédités au moment du décompte ; « Récupérer butin �
 Une fois l'étape 60 passée, le temps pendant lequel le jeu est ouvert mais où votre équipe ne combat pas en automatique est compté comme du temps hors ligne : il est réglé avec le reste à la prochaine ouverture du jeu, et le plafond hors ligne s'applique aussi.
 Donc, si vous laissez le jeu ouvert pour faire autre chose, laissez simplement votre équipe en combat auto.
 
-Une fois les gains hors ligne récupérés, le jeu vous propose aussi quelques petites choses à faire au passage : récupérer les envois accélérés, lancer une recherche, vider les entrepôts pleins des bâtiments, voir les envois. Il suffit de suivre les boutons un par un.
+Une fois les gains hors ligne récupérés, de petits points s'allument sur les drapeaux en haut à droite pour signaler ce qu'il reste à faire au passage : récupérer les envois accélérés, lancer une recherche, vider les entrepôts pleins des bâtiments, voir les envois. Il suffit de suivre les points.
 
 Quels autres aspects du jeu aimeriez-vous que je vous explique, et qu'est-ce qui n'est pas clair ? Posez-moi vos questions en commentaire.
 

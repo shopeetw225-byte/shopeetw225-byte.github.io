@@ -22,7 +22,7 @@ De base se cuentan 12 horas. Dos investigaciones de la Academia, «Guardia noctu
 [img]https://clan.akamai.steamstatic.com/images/46216320/1dd31007a875259bd4a2343d2763ac1f65cd5070.jpg[/img]
 
 [h2]Prepara la formación antes de dormir[/h2]
-«Autoavance» viene activado por defecto. Mientras no lo desactives a mano, cuando estés desconectado tu equipo seguirá avanzando con la misma formación que tenías al irte, y se detendrá en cuanto pierda un combate. En la demo se puede avanzar como máximo hasta la etapa 800.
+El avance sin conexión viene activado por defecto, aunque «Autoavance» esté apagado en combate. Solo se detiene si lo activaste y luego lo desactivaste a mano. Tu equipo seguirá avanzando con la misma formación que tenías al irte, y se detendrá en cuanto pierda un combate. En la demo se puede avanzar como máximo hasta la etapa 800.
 Así que dedicar un minuto a preparar la formación antes de dormir es lo que más rinde.
 [img]https://clan.akamai.steamstatic.com/images/46216320/a854316d5678cbc77fbe5d31c5bfe5b6f359dbf3.jpg[/img]
 
@@ -36,7 +36,7 @@ Las ganancias ya se suman al hacer el cálculo; «Recoger botín» solo cierra e
 Después de superar la etapa 60, el tiempo en que el juego está abierto pero tu equipo no está combatiendo en automático cuenta como tiempo sin conexión: se calcula junto con lo demás la próxima vez que abras el juego y también tiene el límite sin conexión.
 Así que, si dejas el juego abierto mientras haces otra cosa, basta con dejar al equipo en combate automático.
 
-Después de recoger las ganancias sin conexión, el juego también te sugiere algunas cosas para hacer de paso: reclamar el despacho urgente, organizar investigaciones, recoger los almacenes llenos y revisar los despachos. Basta con ir pulsando una por una.
+Después de recoger las ganancias sin conexión, se encienden puntitos en las banderas de arriba a la derecha para indicarte dónde hay algo que hacer de paso, como reclamar el despacho urgente, organizar investigaciones, recoger los almacenes llenos o revisar los despachos. Basta con ir siguiendo los puntos.
 
 Si hay otras mecánicas que quieras que te explique o algo que no se entienda, pregúntame en los comentarios.
 

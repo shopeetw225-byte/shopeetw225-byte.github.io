@@ -22,7 +22,7 @@ The base is 12 hours. Two Academy research projects, “Night Watch” and “Bo
 [img]https://clan.akamai.steamstatic.com/images/46216320/1dd31007a875259bd4a2343d2763ac1f65cd5070.jpg[/img]
 
 [h2]Set up your lineup before bed[/h2]
-“Auto-advance” is on by default. Unless you've turned it off yourself, your team keeps pushing on while you're offline with the lineup you left it with, and stops after one loss. In the Demo, it can push up to stage 800 at most.
+Offline pushing is on by default, even if “Auto-advance” is off in battle. It only stops if you turned Auto-advance on and then switched it off yourself. Your team keeps pushing on with the lineup you left it with, and stops after one loss. In the Demo, it can push up to stage 800 at most.
 So spending a minute setting up your lineup before bed helps more than anything.
 [img]https://clan.akamai.steamstatic.com/images/46216320/a854316d5678cbc77fbe5d31c5bfe5b6f359dbf3.jpg[/img]
 
@@ -36,7 +36,7 @@ Your earnings are already credited during settlement. “Claim Spoils” just cl
 Past stage 60, any time the game is open but your team isn't auto-battling gets counted as offline time. It's settled together the next time you open the game, and the offline cap applies to it too.
 So if you leave the game open while you do something else, just keep your team on auto-battle.
 
-After you collect your offline earnings, the game also suggests a few things to do while you're at it: claim Rush Dispatches, plan research, collect from buildings with full storage, and check on dispatches. Just click through them.
+After you collect your offline earnings, small dots light up on the flags in the top-right corner to show where there's something worth doing while you're at it, like claiming Rush Dispatches, planning research, collecting from buildings with full storage, or checking on dispatches. Just follow the dots.
 
 If there's anything else in the game you'd like me to talk about, or anything that isn't clear, feel free to ask me in the comments.
 
