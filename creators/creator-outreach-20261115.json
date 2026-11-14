@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-15",
+  "bilibili_sent": 19,
+  "bilibili_failed": 0,
+  "bilibili": [
+    {
+      "name": "只言不雨",
+      "uid": "49971109",
+      "profile_url": "https://space.bilibili.com/49971109",
+      "sent_at": "2026-11-15T06:37:11.715000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "hugedragonyk",
+      "uid": "24813062",
+      "profile_url": "https://space.bilibili.com/24813062",
+      "sent_at": "2026-11-15T06:39:44.661000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "熔岩不吃盐TaG",
+      "uid": "1220782737",
+      "profile_url": "https://space.bilibili.com/1220782737",
+      "sent_at": "2026-11-15T06:44:55.773000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "Popeyechou",
+      "uid": "275589715",
+      "profile_url": "https://space.bilibili.com/275589715",
+      "sent_at": "2026-11-15T06:47:24.674000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "不是一班的六班人",
+      "uid": "667256597",
+      "profile_url": "https://space.bilibili.com/667256597",
+      "sent_at": "2026-11-15T06:49:28.303000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "杭电光头学长",
+      "uid": "330384486",
+      "profile_url": "https://space.bilibili.com/330384486",
+      "sent_at": "2026-11-15T06:52:23.875000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "千寻羽禾_Arineko",
+      "uid": "339859815",
+      "profile_url": "https://space.bilibili.com/339859815",
+      "sent_at": "2026-11-15T06:54:36.701000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "博夏夜阑",
+      "uid": "3461583176993363",
+      "profile_url": "https://space.bilibili.com/3461583176993363",
+      "sent_at": "2026-11-15T06:56:49.864000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "长黄永不倒",
+      "uid": "1456985897",
+      "profile_url": "https://space.bilibili.com/1456985897",
+      "sent_at": "2026-11-15T06:59:05.050000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "港辺_Minatohen",
+      "uid": "1124945971",
+      "profile_url": "https://space.bilibili.com/1124945971",
+      "sent_at": "2026-11-15T07:01:28.323000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "柳婒",
+      "uid": "1264781032",
+      "profile_url": "https://space.bilibili.com/1264781032",
+      "sent_at": "2026-11-15T07:03:37.151000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "超果果mc",
+      "uid": "7450650",
+      "profile_url": "https://space.bilibili.com/7450650",
+      "sent_at": "2026-11-15T07:05:57.557000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "喜欢提各种要求的刁民",
+      "uid": "3493087483530154",
+      "profile_url": "https://space.bilibili.com/3493087483530154",
+      "sent_at": "2026-11-15T07:08:15.655000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "Indiium",
+      "uid": "177549314",
+      "profile_url": "https://space.bilibili.com/177549314",
+      "sent_at": "2026-11-15T07:10:38.896000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "Zephaniah5437",
+      "uid": "179483226",
+      "profile_url": "https://space.bilibili.com/179483226",
+      "sent_at": "2026-11-15T07:12:55.223000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "啊-Giao",
+      "uid": "679317899",
+      "profile_url": "https://space.bilibili.com/679317899",
+      "sent_at": "2026-11-15T07:15:03.306000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "hmm_slacking",
+      "uid": "2069646727",
+      "profile_url": "https://space.bilibili.com/2069646727",
+      "sent_at": "2026-11-15T07:17:25.882000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "EthanFelix",
+      "uid": "405067362",
+      "profile_url": "https://space.bilibili.com/405067362",
+      "sent_at": "2026-11-15T07:19:28.955000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "KOK54",
+      "uid": "226793083",
+      "profile_url": "https://space.bilibili.com/226793083",
+      "sent_at": "2026-11-15T07:22:42.422000+08:00",
+      "status": "sent"
+    }
+  ],
+  "skipped": 0,
+  "deferred_not_sent": 4,
+  "deferred_recent_fit": 2,
+  "old_pool_pending_preflight": 13,
+  "pending_are_not_eligible_or_sent": true,
+  "daily_target_completed": false,
+  "time_note": "北京时间；实际发送证据校验。送达不表示对方已读或同意试玩。"
+}

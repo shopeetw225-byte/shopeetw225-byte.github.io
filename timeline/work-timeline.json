@@ -1691,6 +1691,47 @@
       "category": "创作者联系",
       "text": "向20位B站创作者发送免费Demo试玩邀请。",
       "url": "/creators/creator-outreach-20261114.html"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "平台视频",
+      "text": "发布第十六期阵容攻略视频。",
+      "url": "/?work=episode16-lineup-guide-20261113"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "宣传文案",
+      "text": "发布英雄获取路线攻略，配八张实机图。",
+      "url": "/?work=heybox-hero-acquisition-20261114"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "宣传文案",
+      "text": "修订已发布的英雄获取攻略图文，更新至第三版。",
+      "url": "/?work=heybox-hero-acquisition-20261114"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "视频修订",
+      "text": "修整英雄剪辑并交付新版成片。"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "海外宣传",
+      "text": "向Discord社群分享第十六期公开视频。",
+      "url": "/?work=episode16-lineup-guide-20261113"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "作品归档",
+      "text": "核对第十六期六平台公开视频，更新成片预览和封面。",
+      "url": "/?work=episode16-lineup-guide-20261113"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "创作者联系",
+      "text": "向19位B站创作者发送免费Demo试玩邀请。",
+      "url": "/creators/creator-outreach-20261115.html"
     }
   ]
 }
