@@ -7909,24 +7909,74 @@
       "group": "平台视频",
       "episode": 16,
       "episodeLabel": "开发日志 · 第十六期",
-      "date": "2026-11-13",
-      "dateBasis": "当日事实核对与Claude成片交接",
-      "status": "成片已归档",
+      "date": "2026-11-14",
+      "dateBasis": "本人平台公开详情核实发布日期；各平台日期分别记录",
+      "status": "已公开",
       "summary": "从三人起步到十人编队，介绍站位、英雄搭配和配队思路。",
       "body": "阵容攻略视频，已制作简中横屏、简中竖屏、繁中竖屏、英文横屏及英文竖屏版本。",
       "source": "视频制作/平台視頻/第十六期 阵容攻略/成片/简中横屏版_第16期_阵容攻略.mp4",
-      "duration": 140.735,
-      "cover": "assets/ep16-2f73a6e76d9d.jpg",
+      "duration": 183.971,
+      "cover": "assets/ep16-cover-6ba5209511dc.jpg",
       "files": [
         {
           "name": "简中横屏版 · 第十六期",
           "type": "video",
-          "url": "assets/ep16-2f73a6e76d9d.mp4",
+          "url": "assets/ep16-b0f4742827bb.mp4",
           "source": "视频制作/平台視頻/第十六期 阵容攻略/成片/简中横屏版_第16期_阵容攻略.mp4",
-          "sha256": "2f73a6e76d9da4c4954328d3515ff7146c798305947495590f902eed3c0c1695"
+          "sha256": "b0f4742827bbe82982bd94a1ab57095333f5e94731bb792b36aafbf98a373547"
         }
       ],
-      "links": []
+      "links": [
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1dJs36xEWG/",
+          "date": "2026-11-14",
+          "language": "简中横屏",
+          "status": "已公开",
+          "source": "2026-11-15 Chrome专用窗口只读核实。本人UID3706993395108039主页最新及独立详情：开发日志16，十个1费通关，发布时间18:19:04。"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=f1xsrfeBnVM",
+          "date": "2026-11-14",
+          "language": "英文横屏",
+          "status": "已公开",
+          "source": "2026-11-15 Chrome专用窗口只读核实。指定本人频道主页最新及watch详情：Idle Agency Devlog16；Claude公开页核实isPrivate=false、isUnlisted=false，18:19:22。"
+        },
+        {
+          "platform": "X",
+          "url": "https://x.com/Feng21671868/status/2121548767078031787",
+          "date": "2026-11-14",
+          "language": "英文竖屏",
+          "status": "已公开",
+          "source": "2026-11-15 Chrome专用窗口只读核实。本人Feng21671868主页最新及独立详情：Ten 1-cost heroes beat stage800，4:04，18:20。"
+        },
+        {
+          "platform": "抖音",
+          "url": "https://www.douyin.com/video/7707969815209725210",
+          "date": "2026-11-14",
+          "language": "简中竖屏",
+          "status": "已公开",
+          "source": "2026-11-15 Chrome专用窗口只读核实。本人qitan225主页最新及独立详情：开发日志16，十个1费，发布时间18:19。"
+        },
+        {
+          "platform": "小红书",
+          "url": "https://www.xiaohongshu.com/explore/6af835d1000000002b0391b2?xsec_token=ABxeNq2cDmFlfgwBp3R1udQVqvInWCYnVLo0UaawSdNqY=&xsec_source=pc_user",
+          "date": null,
+          "language": "简中竖屏",
+          "status": "已公开",
+          "source": "2026-11-15 Chrome专用窗口只读核实。本人49300381478主页最新及独立详情：开发日志16；页面显示昨天18:20福建，绝对日期待核。"
+        },
+        {
+          "platform": "Threads",
+          "url": "https://www.threads.com/@wtty2252026/post/Dft8u3xiXVN",
+          "date": null,
+          "language": "繁中竖屏",
+          "status": "已公开",
+          "source": "2026-11-15 Chrome专用窗口只读核实。本人wtty2252026主页最新及独立详情：開發日誌16，十個1費；仅显示11小時前，绝对日期待核。"
+        }
+      ],
+      "platformLinkKey": "16"
     },
     {
       "id": "steam-covers-restored-20261016",
