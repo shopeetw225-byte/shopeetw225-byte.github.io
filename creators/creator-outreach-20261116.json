@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "bilibili_sent": 15,
+  "bilibili_sent": 19,
   "bilibili_failed": 0,
   "bilibili": [
     {
@@ -107,6 +107,34 @@
       "profile_url": "https://space.bilibili.com/1339511953",
       "sent_at": "2026-11-16T06:43:29.110000+08:00",
       "status": "sent"
+    },
+    {
+      "name": "游戏推荐官-青青",
+      "uid": "3546952165755695",
+      "profile_url": "https://space.bilibili.com/3546952165755695",
+      "sent_at": "2026-11-16T16:19:49.891000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "steam搬砖大鱼王",
+      "uid": "3546661695523225",
+      "profile_url": "https://space.bilibili.com/3546661695523225",
+      "sent_at": "2026-11-16T16:22:20.136000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "灵七游戏侦察兵",
+      "uid": "21771026",
+      "profile_url": "https://space.bilibili.com/21771026",
+      "sent_at": "2026-11-16T16:24:54.390000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "最穷搬砖哥",
+      "uid": "1774751751",
+      "profile_url": "https://space.bilibili.com/1774751751",
+      "sent_at": "2026-11-16T16:27:20.839000+08:00",
+      "status": "sent"
     }
   ],
   "skipped": 0,
@@ -114,5 +142,12 @@
   "old_pool_pending_preflight": 0,
   "pending_are_not_eligible_or_sent": true,
   "daily_target_completed": false,
-  "time_note": "北京时间；实际发送证据校验。送达不表示对方已读或同意试玩。"
+  "time_note": "北京时间；时间取实际发送证据。送达不表示对方已读或同意试玩。",
+  "additional_batch": {
+    "sent": 4,
+    "already_sent_skipped": 3,
+    "failed": 0,
+    "pending": 0,
+    "included_in_daily_total": true
+  }
 }

@@ -1746,14 +1746,14 @@
     {
       "date": "2026-11-16",
       "category": "创作者联系",
-      "text": "向15位B站创作者发送免费Demo试玩邀请。",
+      "text": "向19位B站创作者发送免费Demo试玩邀请。",
       "url": "/creators/creator-outreach-20261116.html"
     },
     {
       "date": "2026-11-16",
       "category": "Steam素材",
       "text": "正式版商店修订76发布十语简短介绍，并更新简中截图及两支简中宣传片；十语介绍已逐一核对。其余语言的新版素材仍在制作。",
-      "url": "https://store.steampowered.com/app/4855890/"
+      "url": "/?work=steam-short-description-20261116-r76"
     }
   ]
 }

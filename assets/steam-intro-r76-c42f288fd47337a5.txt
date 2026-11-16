@@ -1,0 +1,29 @@
+schinese
+steam市场➕挂着刷宝的单人放置游戏：你在 4×4 棋盘上排好阵容和站位，英雄自动开打，离线也照样攒资源、掉装备；要塞里盖建筑、研究科技，市场里卖资源、看行情买回缺的材料，还有试炼之塔挑战极限。
+
+tchinese
+Steam 社群市場➕掛著刷寶的單人放置遊戲：你在 4×4 棋盤上排好陣容和站位，英雄自動開打，離線也照樣攢資源、掉裝備；要塞裡蓋建築、研究科技，市場裡賣資源、看行情買回缺的材料，還有試煉之塔挑戰極限。
+
+english
+Steam Community Market ➕ a solo idle looter: set lineup and positions on a 4×4 board, heroes auto-battle, and resources and gear pile up even offline. Build and research in the Fortress, sell at the Market, buy back what you lack as prices move, and test your limits in the Trial Tower.
+
+japanese
+Steam コミュニティマーケット➕放置で装備を集めるシングルプレイゲーム：4×4の盤面で編成と配置を決めれば英雄が自動で戦い、オフライン中も資源と装備がたまります。要塞で施設を建てて研究を進め、市場で資源を売り、相場を見て足りない素材を買い戻し、試練の塔で限界に挑めます。
+
+koreana
+Steam 커뮤니티 장터 ➕ 방치하며 장비를 모으는 싱글 플레이 게임: 4×4 보드에서 편성과 위치를 정하면 영웅이 자동으로 싸우고, 오프라인 중에도 자원과 장비가 쌓입니다. 요새에서 시설을 짓고 연구하며, 시장에서 자원을 팔고 시세를 보며 부족한 재료를 사들이고, 시련의 탑에서 한계에 도전하세요.
+
+german
+Steam-Community-Markt ➕ Solo-Idle voller Beute: Stell Aufstellung und Positionen aufs 4×4-Feld, die Helden kämpfen allein, auch offline gibt es Ressourcen und Ausrüstung. Bau und forsche in der Festung, verkauf am Markt, kauf Fehlendes nach Kurs zurück und teste im Prüfungsturm deine Grenzen.
+
+french
+Marché de la communauté Steam ➕ idle solo à butin : placez vos héros en 4×4, ils combattent seuls et amassent ressources et équipement même hors ligne. Bâtissez et recherchez dans la Forteresse, vendez au Marché, rachetez au cours ce qui manque et testez vos limites dans la Tour des épreuves.
+
+spanish
+Mercado de la Comunidad de Steam ➕ idle de botín en solitario: coloca tu formación en 4×4 y los héroes luchan solos, sumando recursos y equipo aun offline. Construye e investiga en la Fortaleza, vende en el Mercado, recompra lo que falte según precios y prueba tus límites en la Torre de pruebas.
+
+brazilian
+Mercado da Comunidade Steam ➕ idle de loot solo: monte formação e posições em 4×4 e os heróis lutam sozinhos, juntando recursos e equipamentos até offline. Construa e pesquise na Fortaleza, venda no Mercado, recompre o que faltar de olho nos preços e teste seus limites na Torre de Desafios.
+
+russian
+Торговая площадка Steam ➕ одиночная idle-игра о добыче: расставьте отряд на поле 4×4 — герои сражаются сами, а ресурсы и снаряжение копятся даже офлайн. Стройте и исследуйте в Крепости, продавайте ресурсы на рынке, докупайте недостающее по курсу и проверьте свои пределы в Башне испытаний.
