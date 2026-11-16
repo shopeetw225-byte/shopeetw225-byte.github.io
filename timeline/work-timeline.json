@@ -1732,6 +1732,22 @@
       "category": "创作者联系",
       "text": "向19位B站创作者发送免费Demo试玩邀请。",
       "url": "/creators/creator-outreach-20261115.html"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "游戏开发",
+      "text": "合并战斗、大招与离线推关性能优化，以及Steam目录生成器更新代码。"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "Steam素材",
+      "text": "对照新旧实机画面，核对装备、技能、开箱与离线掉落画面的变化。"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "创作者联系",
+      "text": "向15位B站创作者发送免费Demo试玩邀请。",
+      "url": "/creators/creator-outreach-20261116.html"
     }
   ]
 }

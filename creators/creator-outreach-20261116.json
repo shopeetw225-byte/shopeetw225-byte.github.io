@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-16",
+  "bilibili_sent": 15,
+  "bilibili_failed": 0,
+  "bilibili": [
+    {
+      "name": "折纸姬",
+      "uid": "4571785",
+      "profile_url": "https://space.bilibili.com/4571785",
+      "sent_at": "2026-11-16T06:15:11.987000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "牛小喯",
+      "uid": "1288445878",
+      "profile_url": "https://space.bilibili.com/1288445878",
+      "sent_at": "2026-11-16T06:17:07.323000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "谷歌live主机游戏",
+      "uid": "2480562",
+      "profile_url": "https://space.bilibili.com/2480562",
+      "sent_at": "2026-11-16T06:18:47.065000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "33不是山山",
+      "uid": "246370149",
+      "profile_url": "https://space.bilibili.com/246370149",
+      "sent_at": "2026-11-16T06:20:34.485000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "跃动的卢克",
+      "uid": "11364619",
+      "profile_url": "https://space.bilibili.com/11364619",
+      "sent_at": "2026-11-16T06:22:08.677000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "灯泡の梦",
+      "uid": "584452908",
+      "profile_url": "https://space.bilibili.com/584452908",
+      "sent_at": "2026-11-16T06:23:44.649000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "__今天学高代了吗",
+      "uid": "352468871",
+      "profile_url": "https://space.bilibili.com/352468871",
+      "sent_at": "2026-11-16T06:26:23.670000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "今朝万丈",
+      "uid": "1148771830",
+      "profile_url": "https://space.bilibili.com/1148771830",
+      "sent_at": "2026-11-16T06:28:00.773000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "xuza33",
+      "uid": "158116556",
+      "profile_url": "https://space.bilibili.com/158116556",
+      "sent_at": "2026-11-16T06:29:40.347000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "不能熬夜的猫",
+      "uid": "43296485",
+      "profile_url": "https://space.bilibili.com/43296485",
+      "sent_at": "2026-11-16T06:31:19.805000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "一过炸洋芋",
+      "uid": "3493081823316041",
+      "profile_url": "https://space.bilibili.com/3493081823316041",
+      "sent_at": "2026-11-16T06:33:25.362000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "翱翔よ",
+      "uid": "303720930",
+      "profile_url": "https://space.bilibili.com/303720930",
+      "sent_at": "2026-11-16T06:35:13.014000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "蒙面小鱼干",
+      "uid": "70576374",
+      "profile_url": "https://space.bilibili.com/70576374",
+      "sent_at": "2026-11-16T06:38:34.258000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "喵呜蛋纸",
+      "uid": "5802836",
+      "profile_url": "https://space.bilibili.com/5802836",
+      "sent_at": "2026-11-16T06:40:38.789000+08:00",
+      "status": "sent"
+    },
+    {
+      "name": "Jawward",
+      "uid": "1339511953",
+      "profile_url": "https://space.bilibili.com/1339511953",
+      "sent_at": "2026-11-16T06:43:29.110000+08:00",
+      "status": "sent"
+    }
+  ],
+  "skipped": 0,
+  "deferred_not_sent": 2,
+  "old_pool_pending_preflight": 0,
+  "pending_are_not_eligible_or_sent": true,
+  "daily_target_completed": false,
+  "time_note": "北京时间；实际发送证据校验。送达不表示对方已读或同意试玩。"
+}
