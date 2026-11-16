@@ -15,6 +15,7 @@
  $('#filters').addEventListener('submit',e=>e.preventDefault());
  $('#filters').addEventListener('input',()=>{page=1;render()});
  fetch('idle-farming-creators-20261116.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('fetch');return r.json()}).then(data=>{
+  if(data.review_status==='rechecking'){$('h1').textContent='搬砖博主 · 重新核查中';$('#total').textContent='—';$('#recent').textContent='—';$('#selected').textContent='7';$('#filters').style.display='none';$('#result-count').textContent='旧名单正在合并重筛，暂不按上一版100位推荐。';$('.notice').textContent='按用户最新要求：优先找自己玩游戏、挂机刷货、出售掉落的搬砖博主。开发者、发行方和泛游戏资讯账号移出；若核实不足100位，会如实标明数量。';return;}
   rows=data.creators;$('#total').textContent=rows.length;$('#recent').textContent=rows.filter(c=>c.recent_evidence).length;$('#selected').textContent=rows.filter(c=>c.user_selected).length;$('#checked').textContent=`资料核对：${data.research_date}`;
   [...new Set(rows.map(c=>c.category))].forEach(category=>{const option=document.createElement('option');option.value=category;option.textContent=category;$('#category').append(option)});render();
  }).catch(()=>{$('#result-count').textContent='名单暂时无法读取，请刷新重试。'});
