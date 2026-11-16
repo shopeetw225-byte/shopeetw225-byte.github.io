@@ -1,5 +1,5 @@
 async function fetchArchiveJSON(path, packed=false){
- const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),18000);
+ const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),45000);
  try{const r=await fetch(path,{signal:controller.signal,cache:'no-cache'});if(!r.ok)throw Error('数据读取失败');
  if(packed){const bytes=await r.arrayBuffer();const stream=new Blob([bytes]).stream().pipeThrough(new DecompressionStream('gzip'));return JSON.parse(await new Response(stream).text())}return await r.json();
  }finally{clearTimeout(timer)}
@@ -8,7 +8,7 @@ async function loadArchive(){
  const notice=document.createElement('p');notice.id='archive-loading';notice.setAttribute('role','status');notice.textContent='正在打开作品档案…';document.querySelector('main').prepend(notice);
  try{let d;try{if(!('DecompressionStream' in window))throw Error();d=await fetchArchiveJSON('catalog.compact.bin',true)}catch{d=await fetchArchiveJSON('catalog.json')}
  try{localStorage.setItem('idle-archive-cache',JSON.stringify(d))}catch{}notice.remove();return d;
- }catch(e){try{const cached=JSON.parse(localStorage.getItem('idle-archive-cache'));if(cached&&Array.isArray(cached.items)){notice.textContent='网络暂不可用，正在显示上次成功打开的档案。';return cached}}catch{}
+ }catch(e){try{const cached=JSON.parse(localStorage.getItem('idle-archive-cache'));if(cached&&Array.isArray(cached.items)){notice.textContent='网络暂不可用，正在显示上次成功打开的档案。';return window.applyArchiveEdits?await window.applyArchiveEdits(cached):cached}}catch{}
  notice.textContent='网络连接超时，作品档案未能加载。';const retry=document.createElement('button');retry.textContent='重新加载';retry.onclick=()=>location.reload();notice.append(' ',retry);throw e;}
 }
 const $=s=>document.querySelector(s);
