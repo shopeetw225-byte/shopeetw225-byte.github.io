@@ -1754,6 +1754,24 @@
       "category": "Steam素材",
       "text": "正式版商店修订76发布十语简短介绍，并更新简中截图及两支简中宣传片；十语介绍已逐一核对。其余语言的新版素材仍在制作。",
       "url": "/?work=steam-short-description-20261116-r76"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "创作者研究",
+      "text": "按实际游戏搬砖经历复核创作者，网页收录29位候选。",
+      "url": "/creators/farming-creators-20261116.html"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "海外宣传",
+      "text": "更新Steam商店页Discord社区入口，改用永久邀请链接。",
+      "url": "/?work=steam-short-description-20261116-r76"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "作品归档",
+      "text": "修复作品网页的Discord社区入口。",
+      "url": "/#work-log"
     }
   ]
 }
