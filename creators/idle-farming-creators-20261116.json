@@ -1,6 +1,2314 @@
 {
   "research_date": "2026-11-16",
-  "review_status": "rechecking",
-  "count": 0,
-  "creators": []
+  "review_status": "strict_complete",
+  "target_count": 100,
+  "count": 29,
+  "shortfall": 71,
+  "user_selected_total": 7,
+  "previous_pool_count": 149,
+  "criteria": "优先实际搬砖玩家；开发者、发行宣传、泛资讯、纯工具推广和纯付费开箱不计入。",
+  "creators": [
+    {
+      "uid": "3706961281419799",
+      "name": "搬的奶",
+      "profile_url": "https://space.bilibili.com/3706961281419799",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "主营搬砖",
+      "user_selected": true,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-11-13",
+      "fit_reason": "持续更新自己的桌面挂机搬砖近况，包含实际回本体验。",
+      "firsthand_basis": "本人视频简介明确谈到自己某款游戏尚未回本，另有搬砖近况与多款带市场桌面游戏内容。",
+      "videos": [
+        {
+          "bvid": "BV15WWq6RETr",
+          "url": "https://www.bilibili.com/video/BV15WWq6RETr/",
+          "title": "搬砖近况，桌面挂机小游戏量大管饱，可惜忠奸难辨啊，赤石都赤撑了~",
+          "date": "2026-11-13"
+        },
+        {
+          "bvid": "BV1bTns6TEmA",
+          "url": "https://www.bilibili.com/video/BV1bTns6TEmA/",
+          "title": "最近的4款带市场桌面挂机小游戏分享~",
+          "date": "2026-10-23"
+        }
+      ],
+      "limitations": "不保证接单、出视频或收益；合作前复核近期更新。",
+      "outreach": {
+        "has_record": true,
+        "dates": [
+          "2026-10-24"
+        ],
+        "label": "已核邀请发送：2026-10-24；正式版合作进度待确认"
+      }
+    },
+    {
+      "uid": "3493114041863110",
+      "name": "小欧_沉淀欧",
+      "profile_url": "https://space.bilibili.com/3493114041863110",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "主营搬砖",
+      "user_selected": true,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-11-06",
+      "fit_reason": "主页明确持续更新主流搬砖游戏进度，兼有 QuestAway 配置与自身体验。",
+      "firsthand_basis": "主页定位为搬砖进度更新；原稿有桌面破坏神余额体验和 QuestAway 搬砖体系讲解。",
+      "videos": [
+        {
+          "bvid": "BV1Mi4v6SEwY",
+          "url": "https://www.bilibili.com/video/BV1Mi4v6SEwY/",
+          "title": "桌面破坏神2000+之后，做个好挂机游戏真的很难吗",
+          "date": "2026-11-06"
+        },
+        {
+          "bvid": "BV1ewsd61ED8",
+          "url": "https://www.bilibili.com/video/BV1ewsd61ED8/",
+          "title": "31号steam挂机游戏idle legions真神降临？QA等听牌但真受不了了",
+          "date": "2026-10-29"
+        }
+      ],
+      "limitations": "不保证接单、出视频或收益；合作前复核近期更新。",
+      "outreach": {
+        "has_record": true,
+        "dates": [
+          "2026-10-31"
+        ],
+        "label": "已核邀请发送：2026-10-31；正式版合作进度待确认"
+      }
+    },
+    {
+      "uid": "3546661695523225",
+      "name": "steam搬砖大鱼王",
+      "profile_url": "https://space.bilibili.com/3546661695523225",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "主营搬砖",
+      "user_selected": true,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-11-01",
+      "fit_reason": "用户提供的对标账号，持续发布 Steam 挂机搬砖排期与新游内容。",
+      "firsthand_basis": "用户明确指定的参考视频；主页自述持续发布相关信息，两条同类视频归属已核。尚未核实其收入，不将标题当作收益事实。",
+      "videos": [
+        {
+          "bvid": "BV1fgx46rEDf",
+          "url": "https://www.bilibili.com/video/BV1fgx46rEDf/",
+          "title": "steam十一月挂机搬砖游戏省流！",
+          "date": "2026-11-01"
+        },
+        {
+          "bvid": "BV1Qwx56tEii",
+          "url": "https://www.bilibili.com/video/BV1Qwx56tEii/",
+          "title": "steam挂机游戏也能搬砖？新型搬砖攻略！",
+          "date": "2026-10-28"
+        }
+      ],
+      "limitations": "用户指定的参考账号；尚未取得完整个人成交记录。",
+      "outreach": {
+        "has_record": true,
+        "dates": [
+          "2026-11-16"
+        ],
+        "label": "已核邀请发送：2026-11-16；正式版合作进度待确认"
+      }
+    },
+    {
+      "uid": "1774751751",
+      "name": "最穷搬砖哥",
+      "profile_url": "https://space.bilibili.com/1774751751",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "主营搬砖",
+      "user_selected": true,
+      "recent_evidence": false,
+      "latest_evidence_date": "2026-05-31",
+      "fit_reason": "持续制作搬砖实操、出金与年度个人经历，含 Steam 游戏币选题。",
+      "firsthand_basis": "年度搬砖收入稿的简介以本人经历回顾过去一年；另有 New World 与 Steam 游戏币内容。金额和实际收入未经独立核验。",
+      "videos": [
+        {
+          "bvid": "BV1xWVQ6RE5C",
+          "url": "https://www.bilibili.com/video/BV1xWVQ6RE5C/",
+          "title": "【最穷搬砖哥】Steam游戏币出海 - 搬砖变现指南",
+          "date": "2026-05-31"
+        },
+        {
+          "bvid": "BV1zvvZB7E48",
+          "url": "https://www.bilibili.com/video/BV1zvvZB7E48/",
+          "title": "【最穷搬砖哥】2025年游戏搬砖收入",
+          "date": "2026-01-02"
+        }
+      ],
+      "limitations": "不保证接单、出视频或收益；合作前复核近期更新。",
+      "outreach": {
+        "has_record": true,
+        "dates": [
+          "2026-11-16"
+        ],
+        "label": "已核邀请发送：2026-11-16；正式版合作进度待确认"
+      }
+    },
+    {
+      "uid": "39344986",
+      "name": "爱摸鱼的k狗",
+      "profile_url": "https://space.bilibili.com/39344986",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-11-08",
+      "fit_reason": "持续制作QuestAway低成本配置与推图策略，内容中心是实际配装和挂机效率。",
+      "firsthand_basis": "80级配置稿简介说明按评论需求分享配置；另一稿简介标明是个人分享并有优化空间。本人评论进一步回答工程师伤害类型与版本调整，具有自用配置讨论的连续性。",
+      "videos": [
+        {
+          "bvid": "BV18fW76FE1e",
+          "url": "https://www.bilibili.com/video/BV18fW76FE1e/",
+          "title": "Questaway平民80级低配分享",
+          "date": "2026-11-08"
+        },
+        {
+          "bvid": "BV1pg4A67ERA",
+          "url": "https://www.bilibili.com/video/BV1pg4A67ERA/",
+          "title": "QuestAway低成本双C推图策略分享",
+          "date": "2026-11-02"
+        }
+      ],
+      "limitations": "确认的是玩家配置与搬砖题材经验，没有验证其变现流水、商务报价或当前接单意愿。",
+      "outreach": {
+        "has_record": true,
+        "dates": [
+          "2026-10-28"
+        ],
+        "label": "已核邀请发送：2026-10-28；正式版合作进度待确认"
+      }
+    },
+    {
+      "uid": "22707026",
+      "name": "fdhfrfffgg",
+      "profile_url": "https://space.bilibili.com/22707026",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-11-08",
+      "fit_reason": "QuestAway专门BD作者；自己的测试成绩和实战问题比单条新游推荐更接近用户要找的玩家型博主。",
+      "firsthand_basis": "双核BD稿的作者本人评论报告测试至3-6，并列出自身3-1、3-6的通关耗时；另有本人回复说明自己的配置正常生效。",
+      "videos": [
+        {
+          "bvid": "BV1TyWE6bEd1",
+          "url": "https://www.bilibili.com/video/BV1TyWE6bEd1/",
+          "title": "【QuestAway】物理系增伤新思路分享",
+          "date": "2026-11-08"
+        },
+        {
+          "bvid": "BV1UNxd6qEXA",
+          "url": "https://www.bilibili.com/video/BV1UNxd6qEXA/",
+          "title": "【QuestAway】双核BD分享",
+          "date": "2026-11-04"
+        }
+      ],
+      "limitations": "没有实际市场成交或提现证据；其强项是玩家实测和刷资源BD，不应宣传成已证实盈利的账号。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "253227585",
+      "name": "只有十七岁的宝宝",
+      "profile_url": "https://space.bilibili.com/253227585",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-11-07",
+      "fit_reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "firsthand_basis": "同一UID多职业实玩构筑，另有4职业速刷南瓜教程，视频标签明确速刷及Steam挂机游戏。",
+      "videos": [
+        {
+          "bvid": "BV1fU4J6sEDQ",
+          "url": "https://www.bilibili.com/video/BV1fU4J6sEDQ/",
+          "title": "4职业速刷南瓜教程，保姆级细节bd流派构筑攻略【桌面破坏神】",
+          "date": "2026-11-07"
+        },
+        {
+          "bvid": "BV1kXso68EW6",
+          "url": "https://www.bilibili.com/video/BV1kXso68EW6/",
+          "title": "【桌面破坏神】猎人全流派测试攻略推荐，哪一个流派伤害最高？",
+          "date": "2026-10-29"
+        }
+      ],
+      "limitations": "保留仅代表内容与身份符合当前公开证据；报价、合作意愿、近期全量创作方向未核。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "99910486",
+      "name": "母鸡上树公鸡下蛋",
+      "profile_url": "https://space.bilibili.com/99910486",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-11-03",
+      "fit_reason": "同一账号既做Idle Legions推进攻略，也讨论QuestAway市场开放，覆盖相近的桌面挂机市场游戏。",
+      "firsthand_basis": "Idle Legions攻略下，视频作者本人回应登录/更新问题，明确表示自己已经在挂机。",
+      "videos": [
+        {
+          "bvid": "BV1984A6YEV4",
+          "url": "https://www.bilibili.com/video/BV1984A6YEV4/",
+          "title": "Idle Legions推图攻略",
+          "date": "2026-11-03"
+        },
+        {
+          "bvid": "BV16TH36XE6n",
+          "url": "https://www.bilibili.com/video/BV16TH36XE6n/",
+          "title": "Questaway感觉拉了一坨，steam市场开了",
+          "date": "2026-10-25"
+        }
+      ],
+      "limitations": "所核视频简介为空；实际玩家角色由作者本人评论补强。市场话题存在，但未核实本人市场收益。",
+      "outreach": {
+        "has_record": true,
+        "dates": [
+          "2026-11-04"
+        ],
+        "label": "已核邀请发送：2026-11-04；正式版合作进度待确认"
+      }
+    },
+    {
+      "uid": "421183",
+      "name": "反驳型云叶",
+      "profile_url": "https://space.bilibili.com/421183",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-10-24",
+      "fit_reason": "有本人挂机掉落反馈及桌面破坏神、QuestAway 市场体验。",
+      "firsthand_basis": "本人视频简介自述刷了3600头骨却没有可交易掉落，属本人刷取体验，不能作收益承诺。",
+      "videos": [
+        {
+          "bvid": "BV13cHM6cE3Y",
+          "url": "https://www.bilibili.com/video/BV13cHM6cE3Y/",
+          "title": "QuestAway游戏内市场是什么样的",
+          "date": "2026-10-24"
+        },
+        {
+          "bvid": "BV1nhJR6uELc",
+          "url": "https://www.bilibili.com/video/BV1nhJR6uELc/",
+          "title": "桌面破坏神现在还能入场吗？",
+          "date": "2026-10-19"
+        }
+      ],
+      "limitations": "不保证接单、出视频或收益；合作前复核近期更新。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "246042548",
+      "name": "枕边夜灯",
+      "profile_url": "https://space.bilibili.com/246042548",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-10-22",
+      "fit_reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "firsthand_basis": "同一UID记录四个职业出货，并另发7-7一天三个绿符文的地图产出。",
+      "videos": [
+        {
+          "bvid": "BV1UKnm6KEyr",
+          "url": "https://www.bilibili.com/video/BV1UKnm6KEyr/",
+          "title": "【桌面破坏神】7-7永远的神！一天三个绿符文",
+          "date": "2026-10-22"
+        },
+        {
+          "bvid": "BV1roJq6tEFV",
+          "url": "https://www.bilibili.com/video/BV1roJq6tEFV/",
+          "title": "【桌面破坏神】10.17四个职业出货记录",
+          "date": "2026-10-18"
+        }
+      ],
+      "limitations": "保留仅代表内容与身份符合当前公开证据；报价、合作意愿、近期全量创作方向未核。",
+      "outreach": {
+        "has_record": true,
+        "dates": [
+          "2026-10-20"
+        ],
+        "label": "已核邀请发送：2026-10-20；正式版合作进度待确认"
+      }
+    },
+    {
+      "uid": "3048654",
+      "name": "啊森个",
+      "profile_url": "https://space.bilibili.com/3048654",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-10-19",
+      "fit_reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "firsthand_basis": "TBH搬砖系列覆盖操作与难度；抽查BV1nzJ46FEeY的00:35，见101级角色、库存/精炼和获得宝物提示。",
+      "videos": [
+        {
+          "bvid": "BV1nzJ46FEeY",
+          "url": "https://www.bilibili.com/video/BV1nzJ46FEeY/",
+          "title": "TBH 10 来财",
+          "date": "2026-10-19"
+        },
+        {
+          "bvid": "BV17qpE6gEPz",
+          "url": "https://www.bilibili.com/video/BV17qpE6gEPz/",
+          "title": "游戏搬砖 TBH 03 三英雄同时上场及常用操作",
+          "date": "2026-10-11"
+        }
+      ],
+      "limitations": "保留仅代表内容与身份符合当前公开证据；报价、合作意愿、近期全量创作方向未核。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "3707079999096997",
+      "name": "KaChaPond",
+      "profile_url": "https://space.bilibili.com/3707079999096997",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-10-17",
+      "fit_reason": "两次制作War of Genesis: Idle Loot职业实战入门与加点攻略，其中一稿明确讨论刷钱配置，题材贴合。",
+      "firsthand_basis": "个人简介自述来自泰国且喜欢玩游戏；作者本人在攻略评论区讨论接下来试玩法师及各职业特点，并承认需研究添加中文字幕，支持这是其自己的泰语玩家讲解。",
+      "videos": [
+        {
+          "bvid": "BV1QAJ86HEej",
+          "url": "https://www.bilibili.com/video/BV1QAJ86HEej/",
+          "title": "War of Genesis: Idle Loot 游侠(Ranger)基础加点攻略🔥 还能赚钱‼️ | ไกด์ Ranger",
+          "date": "2026-10-17"
+        },
+        {
+          "bvid": "BV1UfaG6AEGu",
+          "url": "https://www.bilibili.com/video/BV1UfaG6AEGu/",
+          "title": "War of Genesis: Idle Loot เกมฟรีฟาร์มเงิน 💸 | ไกด์นักดาบ 剑士攻略",
+          "date": "2026-09-28"
+        }
+      ],
+      "limitations": "主要为泰语讲解，B站中文用户转化是否合适尚待评估。未验证任何收益数字；不应把攻略提及变现视作本人真实成交凭证。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "6130577",
+      "name": "Mono_2022",
+      "profile_url": "https://space.bilibili.com/6130577",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-10-07",
+      "fit_reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "firsthand_basis": "本人持续做裂隙与灰烬之冠2000次等掉落测试，标签含录屏和掉落概率。",
+      "videos": [
+        {
+          "bvid": "BV1LnpM63EUr",
+          "url": "https://www.bilibili.com/video/BV1LnpM63EUr/",
+          "title": "桌面破坏神-灰烬之冠4:2000次掉落概率测试",
+          "date": "2026-10-07"
+        },
+        {
+          "bvid": "BV1nHpA6NEaz",
+          "url": "https://www.bilibili.com/video/BV1nHpA6NEaz/",
+          "title": "桌面破坏神-裂隙1-100，会掉什么？",
+          "date": "2026-10-07"
+        }
+      ],
+      "limitations": "含单人模式测试；不能承诺联网市场回报，也未独立重算掉率。",
+      "outreach": {
+        "has_record": true,
+        "dates": [
+          "2026-10-20"
+        ],
+        "label": "已核邀请发送：2026-10-20；正式版合作进度待确认"
+      }
+    },
+    {
+      "uid": "13180531",
+      "name": "橘花兔",
+      "profile_url": "https://space.bilibili.com/13180531",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-10-07",
+      "fit_reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "firsthand_basis": "抽查BV1krHC6SEY2的00:44，实际画面为自己的桌面破坏神角色战斗，字幕建议堆物品发现。",
+      "videos": [
+        {
+          "bvid": "BV1krHC6SEY2",
+          "url": "https://www.bilibili.com/video/BV1krHC6SEY2/",
+          "title": "桌面破坏神搬砖最终报告，欧皇肥肥得吃，非酋毛都不掉",
+          "date": "2026-10-07"
+        }
+      ],
+      "limitations": "保留仅代表内容与身份符合当前公开证据；报价、合作意愿、近期全量创作方向未核。",
+      "outreach": {
+        "has_record": true,
+        "dates": [
+          "2026-10-23"
+        ],
+        "label": "已核邀请发送：2026-10-23；正式版合作进度待确认"
+      }
+    },
+    {
+      "uid": "15099433",
+      "name": "呆呆的石头336",
+      "profile_url": "https://space.bilibili.com/15099433",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-10-05",
+      "fit_reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "firsthand_basis": "视频为本人记录，简介明确抱怨自己连续几天没见到稀有装备、符文未齐，标签为记录。",
+      "videos": [
+        {
+          "bvid": "BV1vwHx6WEre",
+          "url": "https://www.bilibili.com/video/BV1vwHx6WEre/",
+          "title": "桌面破坏神 我的装备呢?",
+          "date": "2026-10-05"
+        }
+      ],
+      "limitations": "仅一条低掉落记录，证据薄、优先级低。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "3546866094442943",
+      "name": "ddlinm",
+      "profile_url": "https://space.bilibili.com/3546866094442943",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-10-02",
+      "fit_reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "firsthand_basis": "同一UID有武僧配置、出货记录与想卖金币时的录屏题材。",
+      "videos": [
+        {
+          "bvid": "BV1szaC67Es3",
+          "url": "https://www.bilibili.com/video/BV1szaC67Es3/",
+          "title": "当你像往常一样想卖金币时",
+          "date": "2026-10-02"
+        },
+        {
+          "bvid": "BV1N7a96VExp",
+          "url": "https://www.bilibili.com/video/BV1N7a96VExp/",
+          "title": "《桌面破坏神》出货！",
+          "date": "2026-09-30"
+        }
+      ],
+      "limitations": "保留仅代表内容与身份符合当前公开证据；报价、合作意愿、近期全量创作方向未核。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "23036357",
+      "name": "IVCucurbit_圣瞳",
+      "profile_url": "https://space.bilibili.com/23036357",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": true,
+      "latest_evidence_date": "2026-09-30",
+      "fit_reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "firsthand_basis": "作者自述挂机一小时出传奇坐骑，附自己的战士配装和地图速刷。",
+      "videos": [
+        {
+          "bvid": "BV1sFaR6CEkk",
+          "url": "https://www.bilibili.com/video/BV1sFaR6CEkk/",
+          "title": "桌面破坏神 战士一分钟速刷贫瘠之地7 传奇缰绳1小时就出了",
+          "date": "2026-09-30"
+        }
+      ],
+      "limitations": "保留仅代表内容与身份符合当前公开证据；报价、合作意愿、近期全量创作方向未核。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "3546704915729078",
+      "name": "小助手山田",
+      "profile_url": "https://space.bilibili.com/3546704915729078",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": false,
+      "latest_evidence_date": "2026-06-29",
+      "fit_reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "firsthand_basis": "抽查BV1EQKU6WEDc的03:30，清楚可见Steam市场曲线/卖出弹窗、TBH背包与本人直播叠层；另有交易船上架操作视频。",
+      "videos": [
+        {
+          "bvid": "BV1EQKU6WEDc",
+          "url": "https://www.bilibili.com/video/BV1EQKU6WEDc/",
+          "title": "TBH塔斯克巴英雄的纯绿小助手交易船指南 56 小助手爱做笔记，所以吐槽灵魂石爆率，然后带水友看物品销售情况，强调关注售出占比和市场供需因素",
+          "date": "2026-06-29"
+        },
+        {
+          "bvid": "BV1Rw7H6AEBJ",
+          "url": "https://www.bilibili.com/video/BV1Rw7H6AEBJ/",
+          "title": "TBH塔斯克巴英雄的纯绿小助手交易船指南 09 回答水友：交易船怎么操作上架",
+          "date": "2026-06-27"
+        }
+      ],
+      "limitations": "保留仅代表内容与身份符合当前公开证据；报价、合作意愿、近期全量创作方向未核。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "546137849",
+      "name": "颓废豪爷a",
+      "profile_url": "https://space.bilibili.com/546137849",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": false,
+      "latest_evidence_date": "2026-06-19",
+      "fit_reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "firsthand_basis": "作者自述新手搬过TBH等游戏，直接讨论自己囤积的一仓库物品及市场重开后的处理。",
+      "videos": [
+        {
+          "bvid": "BV128jY6UEe3",
+          "url": "https://www.bilibili.com/video/BV128jY6UEe3/",
+          "title": "【TBH塔斯克巴英雄】市场停开10天，爆仓了该怎么办，牢玩家教你处理，以及回答一些问题",
+          "date": "2026-06-19"
+        },
+        {
+          "bvid": "BV1f9EB6sE53",
+          "url": "https://www.bilibili.com/video/BV1f9EB6sE53/",
+          "title": "【TBH塔斯克巴英雄】市场重新开放，有一定交易限制，囤了一仓库的东西可以合一合再卖了",
+          "date": "2026-06-11"
+        }
+      ],
+      "limitations": "保留仅代表内容与身份符合当前公开证据；报价、合作意愿、近期全量创作方向未核。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "179515655",
+      "name": "Iron_Spider_",
+      "profile_url": "https://space.bilibili.com/179515655",
+      "category": "Steam挂卡/掉落出售",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": false,
+      "latest_evidence_date": "2026-06-14",
+      "fit_reason": "多账号挂机取掉落，并记录收益与市场卖出；是实操型工作室账号，匹配搬砖受众。",
+      "firsthand_basis": "2024-06-12发布自己卖香蕉的实况，2026-06-14仍演示季节合卡与奖励发放，并在简介中说明自己经营市场号的操作方式；不是只讨论Banana新闻。",
+      "videos": [
+        {
+          "bvid": "BV1ctJF6XEXS",
+          "url": "https://www.bilibili.com/video/BV1ctJF6XEXS/",
+          "title": "steam批量合卡（含智能卡牌发放）演示教程",
+          "date": "2026-06-14"
+        },
+        {
+          "bvid": "BV1uZ421g7Lj",
+          "url": "https://www.bilibili.com/video/BV1uZ421g7Lj/",
+          "title": "希望支付宝余额也能像 steam 余额一样蹭蹭涨- Steam banana 卖香蕉实况",
+          "date": "2024-06-12"
+        }
+      ],
+      "limitations": "经营CS/Steam相关业务及账号、代充服务；不应当作独立测评号。2026证据是卡牌操作，Banana实玩证据仍为2024。标题与描述的收益均未核验。 未私信或询价。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "263977",
+      "name": "百葉兔",
+      "profile_url": "https://space.bilibili.com/263977",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": false,
+      "latest_evidence_date": "2026-06-10",
+      "fit_reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "firsthand_basis": "蓝箱刷取效率教程，作者在简介更新自己总结的箱子掉落频率与避坑经验。",
+      "videos": [
+        {
+          "bvid": "BV1HHEd63EeB",
+          "url": "https://www.bilibili.com/video/BV1HHEd63EeB/",
+          "title": "【TBH塔斯克巴英雄】一分钟一个蓝箱子",
+          "date": "2026-06-10"
+        }
+      ],
+      "limitations": "保留仅代表内容与身份符合当前公开证据；报价、合作意愿、近期全量创作方向未核。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "298973823",
+      "name": "眠川喵-",
+      "profile_url": "https://space.bilibili.com/298973823",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "实玩搬砖",
+      "user_selected": false,
+      "recent_evidence": false,
+      "latest_evidence_date": "2026-06-03",
+      "fit_reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "firsthand_basis": "同一UID有多条本人TBH通关视频，另有原创标记的宠物刷取攻略和掉箱问题处理。",
+      "videos": [
+        {
+          "bvid": "BV1QwVm6WEMa",
+          "url": "https://www.bilibili.com/video/BV1QwVm6WEMa/",
+          "title": "TBH 塔斯克巴·英雄  不出蓝箱子的解决方法。",
+          "date": "2026-06-03"
+        },
+        {
+          "bvid": "BV1LBVS6qEtu",
+          "url": "https://www.bilibili.com/video/BV1LBVS6qEtu/",
+          "title": "TBH 塔斯克巴·英雄 宠物刷取攻略图",
+          "date": "2026-05-31"
+        }
+      ],
+      "limitations": "保留仅代表内容与身份符合当前公开证据；报价、合作意愿、近期全量创作方向未核。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "1465964",
+      "name": "星灵雪枫",
+      "profile_url": "https://space.bilibili.com/1465964",
+      "category": "Steam挂机/刷宝搬砖",
+      "tier": "旧作储备",
+      "user_selected": false,
+      "recent_evidence": false,
+      "latest_evidence_date": "2026-08-01",
+      "fit_reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "firsthand_basis": "原视频描述具体自述每天挂机、处理装备、养成满级队伍、刷材料并观察价格出售；公开简介为个人玩家定位。",
+      "videos": [
+        {
+          "bvid": "BV1WLGN6DEsH",
+          "url": "https://www.bilibili.com/video/BV1WLGN6DEsH/",
+          "title": "TBH：塔斯克巴·英雄 完整符文解锁 推荐看P2   BOSS爆率预览 （腻了，弃坑）",
+          "date": "2026-08-01"
+        }
+      ],
+      "limitations": "历史实操储备，当前是否仍做搬砖待确认。明确已弃坑；只能列历史玩家，当前合作意愿未核。",
+      "outreach": {
+        "has_record": true,
+        "dates": [
+          "2026-11-07"
+        ],
+        "label": "已核邀请发送：2026-11-07；正式版合作进度待确认"
+      }
+    },
+    {
+      "uid": "493005147",
+      "name": "星空223",
+      "profile_url": "https://space.bilibili.com/493005147",
+      "category": "Steam挂卡/掉落出售",
+      "tier": "旧作储备",
+      "user_selected": false,
+      "recent_evidence": false,
+      "latest_evidence_date": "2024-06-21",
+      "fit_reason": "对Banana与Egg同时挂机的收益做比较，并继续测试Cats，属于实操型相关玩家。",
+      "firsthand_basis": "不是只引用爆火人数：2024-06-20专门发布同时运行Banana和Egg的收益情况，次日再发布Cats挂机余额游戏。",
+      "videos": [
+        {
+          "bvid": "BV1xS411A7HC",
+          "url": "https://www.bilibili.com/video/BV1xS411A7HC/",
+          "title": "steam又一款挂机赚余额游戏Cats",
+          "date": "2024-06-21"
+        },
+        {
+          "bvid": "BV1nT421a7RT",
+          "url": "https://www.bilibili.com/video/BV1nT421a7RT/",
+          "title": "Banana和EGG同时挂机的收益情况",
+          "date": "2024-06-20"
+        }
+      ],
+      "limitations": "历史实操储备，当前是否仍做搬砖待确认。证据均为2024-06；主页主要还有计算机内容。收益、账号归属和售出记录未做独立财务核验，不能保证目前持续做搬砖。 未私信或询价。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "123174211",
+      "name": "十二斤的史迪仔",
+      "profile_url": "https://space.bilibili.com/123174211",
+      "category": "Steam挂卡/掉落出售",
+      "tier": "旧作储备",
+      "user_selected": false,
+      "recent_evidence": false,
+      "latest_evidence_date": "2024-06-14",
+      "fit_reason": "连续展示批量挂香蕉和后续收益，内容明确以挂机搬砖为主体。",
+      "firsthand_basis": "同一账号先发布同时挂500个Banana，再发布后续收益记录，两条均为原创标记；是连续个人/工作室操作记录。",
+      "videos": [
+        {
+          "bvid": "BV1SsGRetEge",
+          "url": "https://www.bilibili.com/video/BV1SsGRetEge/",
+          "title": "挂香蕉又赚982块！steam游戏banana妥妥的理财游戏！",
+          "date": "2024-06-14"
+        },
+        {
+          "bvid": "BV1Jy411b7ie",
+          "url": "https://www.bilibili.com/video/BV1Jy411b7ie/",
+          "title": "挂香蕉！同时挂500个香蕉！steam游戏banana，跟我一起白嫖steam余额吧！",
+          "date": "2024-06-06"
+        }
+      ],
+      "limitations": "历史实操储备，当前是否仍做搬砖待确认。匹配证据均为2024-06；未核实现在仍在搬砖、接单意愿或报价。收益数字仅为作者题名陈述。 未私信或询价。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "472163295",
+      "name": "毒医吾二",
+      "profile_url": "https://space.bilibili.com/472163295",
+      "category": "Steam挂卡/掉落出售",
+      "tier": "旧作储备",
+      "user_selected": false,
+      "recent_evidence": false,
+      "latest_evidence_date": "2024-06-08",
+      "fit_reason": "发布自己挂机一天后的收益回顾，主题是实际挂香蕉而非泛游戏资讯。",
+      "firsthand_basis": "题名明确写自己挂了一天并评估收益能否覆盖电费；公开标签同时含Steam、香蕉、赚钱。",
+      "videos": [
+        {
+          "bvid": "BV1f1421y7N4",
+          "url": "https://www.bilibili.com/video/BV1f1421y7N4/",
+          "title": "挂了一天的香蕉！这收益我绷不住了！电费能回来吗？",
+          "date": "2024-06-08"
+        }
+      ],
+      "limitations": "历史实操储备，当前是否仍做搬砖待确认。只有一条明确个人挂机收益记录，且为2024-06；主页与标签偏币圈/投资，题材匹配和持续性弱，低优先级。未独立验证收益或售出。 未私信或询价。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "39110197",
+      "name": "终末の魔女",
+      "profile_url": "https://space.bilibili.com/39110197",
+      "category": "Steam挂卡/掉落出售",
+      "tier": "旧作储备",
+      "user_selected": false,
+      "recent_evidence": false,
+      "latest_evidence_date": "2024-05-21",
+      "fit_reason": "亲自挂机取卡，并描述逐张卖卡回收Steam余额，是有本人出售记录的玩家。",
+      "firsthand_basis": "视频简介用第一人称说明自己挂卡、卖出约1000张卡，并选择最低求购价卖出；不是只介绍挂机软件。",
+      "videos": [
+        {
+          "bvid": "BV16Du7eAEQi",
+          "url": "https://www.bilibili.com/video/BV16Du7eAEQi/",
+          "title": "如何用Steam挂卡白嫖300元",
+          "date": "2024-05-21"
+        }
+      ],
+      "limitations": "历史实操储备，当前是否仍做搬砖待确认。2024-05的旧个人经验，只能作为历史实操备选；不是已确认职业搬砖博主。作者自行陈述金额未经独立核验。 未私信或询价。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "1066000943",
+      "name": "小寒永远滴神",
+      "profile_url": "https://space.bilibili.com/1066000943",
+      "category": "Steam挂卡/掉落出售",
+      "tier": "旧作储备",
+      "user_selected": false,
+      "recent_evidence": false,
+      "latest_evidence_date": "2022-01-03",
+      "fit_reason": "以自己37款游戏的挂卡收益解释Steam卡牌搬砖，属于个人操作经验。",
+      "firsthand_basis": "简介明确纠正自己视频中的收益计算，并说自己约有37款游戏；是本人挂卡账户的经验，而非只推荐软件。",
+      "videos": [
+        {
+          "bvid": "BV15q4y127TP",
+          "url": "https://www.bilibili.com/video/BV15q4y127TP/",
+          "title": "【Steam挂卡收益】Steam挂卡收益",
+          "date": "2022-01-03"
+        }
+      ],
+      "limitations": "历史实操储备，当前是否仍做搬砖待确认。证据只有2022-01，过于陈旧，仅作历史真实玩家备选；未核实2026仍活跃或持续搬砖。收益与汇率不代表现在。 未私信或询价。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    },
+    {
+      "uid": "347160397",
+      "name": "爱你的胖胖Vzz",
+      "profile_url": "https://space.bilibili.com/347160397",
+      "category": "Steam挂卡/掉落出售",
+      "tier": "旧作储备",
+      "user_selected": false,
+      "recent_evidence": false,
+      "latest_evidence_date": "2020-06-28",
+      "fit_reason": "以本人饥荒掉落收益讲解取物品赚钱，属于Steam掉落玩法的老玩家备选。",
+      "firsthand_basis": "视频简介明确说自己已经获得过约百元收益，并说明日常领取频率；是本人体验陈述。",
+      "videos": [
+        {
+          "bvid": "BV1SK411n7zb",
+          "url": "https://www.bilibili.com/video/BV1SK411n7zb/",
+          "title": "都0202年了你还不知道《饥荒》能赚钱？",
+          "date": "2020-06-28"
+        }
+      ],
+      "limitations": "历史实操储备，当前是否仍做搬砖待确认。2020-06的旧机制经验，绝不能据此断言当前仍能同样搬砖；非桌面挂机类型，玩法距离更远。收益和2026可交易性未重新验证，仅低优先级历史备选。 未私信或询价。",
+      "outreach": {
+        "has_record": false,
+        "dates": [],
+        "label": "本地未见发送记录；联系前再核对私信"
+      }
+    }
+  ],
+  "user_pending": [
+    {
+      "uid": "3546952165755695",
+      "name": "游戏推荐官-青青",
+      "profile_url": "https://space.bilibili.com/3546952165755695",
+      "category": "用户指定",
+      "tier": "待补实玩依据",
+      "user_selected": true,
+      "fit_reason": "用户指定保留；目前核到的是搬砖游戏盘点和礼包导流，尚未取得本人刷取/出售画面。",
+      "firsthand_basis": "目前取得的内容不足以按本次严格标准计入已核实名单。",
+      "videos": [
+        {
+          "bvid": "BV1wvRQBXEfW",
+          "url": "https://www.bilibili.com/video/BV1wvRQBXEfW/",
+          "title": "游戏搬砖被央妈认可！5款搬砖游戏（3小众+2大众）抢抓红利稳赚钱",
+          "date": "2026-05-09"
+        }
+      ],
+      "limitations": "按用户指定保留，不以此补足100位。",
+      "outreach": {
+        "has_record": true,
+        "dates": [
+          "2026-11-16"
+        ],
+        "label": "已核邀请发送：2026-11-16；正式版合作进度待确认"
+      }
+    },
+    {
+      "uid": "21771026",
+      "name": "灵七游戏侦察兵",
+      "profile_url": "https://space.bilibili.com/21771026",
+      "category": "用户指定",
+      "tier": "待补实玩依据",
+      "user_selected": true,
+      "fit_reason": "用户指定保留；目前核到的是搬砖新游盘点，尚待补本人实玩搬砖或出货证据。",
+      "firsthand_basis": "目前取得的内容不足以按本次严格标准计入已核实名单。",
+      "videos": [
+        {
+          "bvid": "BV1d3xs6wEio",
+          "url": "https://www.bilibili.com/video/BV1d3xs6wEio/",
+          "title": "11月份搬砖游戏来了，有两款重点关注！希望有好的吧！",
+          "date": "2026-11-01"
+        }
+      ],
+      "limitations": "按用户指定保留，不以此补足100位。",
+      "outreach": {
+        "has_record": true,
+        "dates": [
+          "2026-11-16"
+        ],
+        "label": "已核邀请发送：2026-11-16；正式版合作进度待确认"
+      }
+    },
+    {
+      "uid": "481541567",
+      "name": "老爱闭灯玩游戏",
+      "profile_url": "https://space.bilibili.com/481541567",
+      "category": "用户指定",
+      "tier": "待补实玩依据",
+      "user_selected": true,
+      "fit_reason": "用户指定保留；连续介绍可交易挂机游戏，但当前样本尚缺个人掉落或出售证据。",
+      "firsthand_basis": "目前取得的内容不足以按本次严格标准计入已核实名单。",
+      "videos": [
+        {
+          "bvid": "BV1d7sn6mEzi",
+          "url": "https://www.bilibili.com/video/BV1d7sn6mEzi/",
+          "title": "Mini Legends Idle 可交易的桌面挂机游戏",
+          "date": "2026-11-15"
+        },
+        {
+          "bvid": "BV1ouxe6sECq",
+          "url": "https://www.bilibili.com/video/BV1ouxe6sECq/",
+          "title": "Idle Legions 可交易的桌面挂机游戏",
+          "date": "2026-10-30"
+        }
+      ],
+      "limitations": "按用户指定保留，不以此补足100位。",
+      "outreach": {
+        "has_record": true,
+        "dates": [
+          "2026-10-20"
+        ],
+        "label": "已核邀请发送：2026-10-20；正式版合作进度待确认"
+      }
+    }
+  ],
+  "previous_audit": [
+    {
+      "uid": "1817144240",
+      "name": "OEHFJODLSJFO",
+      "profile_url": "https://space.bilibili.com/1817144240",
+      "status": "pending",
+      "reason": "详细低成本通关配置属本人实玩攻略；尚缺刷箱、产出或市场实操证据。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "26758673",
+      "name": "Rare瑞儿",
+      "profile_url": "https://space.bilibili.com/26758673",
+      "status": "pending",
+      "reason": "只有新游介绍及Wiki网站说明，没有本人掉落/刷取/销售记录，不再列为严格搬砖玩家。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "23663576",
+      "name": "TM小蜜",
+      "profile_url": "https://space.bilibili.com/23663576",
+      "status": "pending",
+      "reason": "170小时通关分享能证明实玩，但未核到实际搬砖产出或销售记录；不能把长实况自动当搬砖。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "8732341",
+      "name": "bili_8732341",
+      "profile_url": "https://space.bilibili.com/8732341",
+      "status": "pending",
+      "reason": "一页灵魂石开箱为本人实玩线索；没有核到本人采集原料或销售，暂不计。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "1374099446",
+      "name": "efElysia",
+      "profile_url": "https://space.bilibili.com/1374099446",
+      "status": "pending",
+      "reason": "物品分类与作用属于机制说明，未核本人刷取或交易，不按搬砖玩家计。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "21959660",
+      "name": "m失落的小丑m",
+      "profile_url": "https://space.bilibili.com/21959660",
+      "status": "pending",
+      "reason": "速刷70级地图是本人配装演示；缺少掉落实录或市场操作，暂不计严格名单。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "3494358202452148",
+      "name": "不过佚名",
+      "profile_url": "https://space.bilibili.com/3494358202452148",
+      "status": "pending",
+      "reason": "完整新手攻略和不掉箱排错可证明玩法经验，另有助手推广；尚缺独立产出或交易实操。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "17847615",
+      "name": "中华金叶榆",
+      "profile_url": "https://space.bilibili.com/17847615",
+      "status": "pending",
+      "reason": "只有荆棘战士BD，未核到资源刷取、产出、销售。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "1463070",
+      "name": "中年大叔拯救计划",
+      "profile_url": "https://space.bilibili.com/1463070",
+      "status": "pending",
+      "reason": "新手攻略、挂机标签只证明讲过该游戏，没有核到本人刷取产出或销售。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "427072969",
+      "name": "云中天道",
+      "profile_url": "https://space.bilibili.com/427072969",
+      "status": "pending",
+      "reason": "证据是更新和爆率消息转述，未证明本人实际刷取或处理库存。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "299610856",
+      "name": "五边形来了",
+      "profile_url": "https://space.bilibili.com/299610856",
+      "status": "pending",
+      "reason": "职业BD分享带搬砖标签，但未核到本人掉落或销售；标签不能单独成为搬砖证据。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "267420",
+      "name": "伊人恋花舞剑",
+      "profile_url": "https://space.bilibili.com/267420",
+      "status": "pending",
+      "reason": "机制说明很具体，能证明个人实玩；未核具体掉落、产出或市场操作。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "349328328",
+      "name": "何大果揍阿土",
+      "profile_url": "https://space.bilibili.com/349328328",
+      "status": "pending",
+      "reason": "本人分享速刷配置和移速思路；没有掉落日志或销售记录，暂作构筑备选。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "324127505",
+      "name": "元婴小猫",
+      "profile_url": "https://space.bilibili.com/324127505",
+      "status": "pending",
+      "reason": "目前样本主要是新游推荐，尚未取得本人刷取、掉落或出售直接证据。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "3707040669108241",
+      "name": "全国虫害大汇总",
+      "profile_url": "https://space.bilibili.com/3707040669108241",
+      "status": "pending",
+      "reason": "有Steam/挂机游戏/搬砖标签，但描述为空且是新游行业评论，无所核本人操作或掉落记录。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "3546561648789870",
+      "name": "全魂real的后院",
+      "profile_url": "https://space.bilibili.com/3546561648789870",
+      "status": "pending",
+      "reason": "确有本人速刷后三图的配装和细节说明，也有刷宝标签；本轮未见具体产出或市场证据，暂按刷取构筑备选。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "99502",
+      "name": "八汰乌鸦",
+      "profile_url": "https://space.bilibili.com/99502",
+      "status": "pending",
+      "reason": "标题为个人经验与交易船简介，但本轮尚未验证真实上架、售出或本人产出画面，暂不计严格名单。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "421214042",
+      "name": "南风游戏分享",
+      "profile_url": "https://space.bilibili.com/421214042",
+      "status": "pending",
+      "reason": "简介自述鉴赏/测评；Soul's Remnant及11月盘点稿缺乏本人第一手Steam桌面挂机搬砖操作证据。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "37106487",
+      "name": "可爱的叽叽酱",
+      "profile_url": "https://space.bilibili.com/37106487",
+      "status": "pending",
+      "reason": "有本人低投入通关记录；目前是战斗构筑，未核到资源刷取或销售。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "10106931",
+      "name": "唐五四",
+      "profile_url": "https://space.bilibili.com/10106931",
+      "status": "pending",
+      "reason": "猎人炼狱速刷和裂隙实战能证明构筑经验，未核实际生产/销售。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "305089793",
+      "name": "嗨呦菌",
+      "profile_url": "https://space.bilibili.com/305089793",
+      "status": "pending",
+      "reason": "目前是联网模式试玩与装备体验；未核具体生产、刷取记录或销售。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "128480809",
+      "name": "头套哥x",
+      "profile_url": "https://space.bilibili.com/128480809",
+      "status": "pending",
+      "reason": "当前抽查的Idle Legions视频01:00与02:40主要显示商店页面，不能据此当作本人刷货证明。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "310267",
+      "name": "宫灯百合",
+      "profile_url": "https://space.bilibili.com/310267",
+      "status": "pending",
+      "reason": "目前只有裂隙战斗构筑演示，未核到搬砖产出或交易。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "37336794",
+      "name": "宮商羽",
+      "profile_url": "https://space.bilibili.com/37336794",
+      "status": "pending",
+      "reason": "本人开245颗灵魂石且带速刷标签，但原料来源与销售未核；标签不足以排除仅开箱。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "11571943",
+      "name": "小沫初",
+      "profile_url": "https://space.bilibili.com/11571943",
+      "status": "pending",
+      "reason": "本人冰法越级与通关录屏，未核具体生产或市场操作。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "483933703",
+      "name": "小确丧的游戏",
+      "profile_url": "https://space.bilibili.com/483933703",
+      "status": "pending",
+      "reason": "标题提到Steam卖装备，但所核是萌新攻略，未证实际出售本人产物。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "206208917",
+      "name": "憎恶Dong",
+      "profile_url": "https://space.bilibili.com/206208917",
+      "status": "pending",
+      "reason": "本人比较电法构筑，不等于实际搬砖记录，缺产出/市场证据。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "432317974",
+      "name": "我是一颗大果树",
+      "profile_url": "https://space.bilibili.com/432317974",
+      "status": "pending",
+      "reason": "有本人低配通关与角色操作说明，但证据是通关构筑，未落实到物品生产或市场操作。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "3546876336933564",
+      "name": "无所事事的林雨",
+      "profile_url": "https://space.bilibili.com/3546876336933564",
+      "status": "pending",
+      "reason": "只有开100颗灵魂石的直播记录；未核原料是否来自本人刷取，也未核实际销售，不把单纯开箱计为搬砖。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "1114068220",
+      "name": "是努努鴨",
+      "profile_url": "https://space.bilibili.com/1114068220",
+      "status": "pending",
+      "reason": "目前样本为新游介绍和市场评论，尚未取得本人刷货或出售记录。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "260090311",
+      "name": "曙光中的初行者",
+      "profile_url": "https://space.bilibili.com/260090311",
+      "status": "pending",
+      "reason": "本人开发越级猎人构筑，且有速刷标签；没有具体掉落、产出或交易记录，作为刷取攻略备选。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "352145914",
+      "name": "朗幽魂",
+      "profile_url": "https://space.bilibili.com/352145914",
+      "status": "pending",
+      "reason": "确实亲自录屏使用糖果和整理仓库，但00:60及05:50抽查仅见物品抽取，没有原料产出或实际销售证据；不因标题写赚多少就计为搬砖。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "500245602",
+      "name": "沫星_Leki",
+      "profile_url": "https://space.bilibili.com/500245602",
+      "status": "pending",
+      "reason": "跨TBH与桌面破坏神的新手攻略能证明实玩，但未核到本人具体刷取产出或市场操作。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "23658",
+      "name": "洛库哈奇",
+      "profile_url": "https://space.bilibili.com/23658",
+      "status": "pending",
+      "reason": "确有本人职业实玩和开币记录，但开的是官方补偿币；不将领币开箱当成搬砖产出。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "3546952165755695",
+      "name": "游戏推荐官-青青",
+      "profile_url": "https://space.bilibili.com/3546952165755695",
+      "status": "pending",
+      "reason": "用户指定保留；目前核到的是搬砖游戏盘点和礼包导流，尚未取得本人刷取/出售画面。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "21771026",
+      "name": "灵七游戏侦察兵",
+      "profile_url": "https://space.bilibili.com/21771026",
+      "status": "pending",
+      "reason": "用户指定保留；目前核到的是搬砖新游盘点，尚待补本人实玩搬砖或出货证据。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "591966",
+      "name": "無名异端",
+      "profile_url": "https://space.bilibili.com/591966",
+      "status": "pending",
+      "reason": "目前只有新手攻略与Wiki介绍，未找到本人掉落、产出、销售或以掉落目标为核心的刷取记录。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "30400633",
+      "name": "猪头阿诺",
+      "profile_url": "https://space.bilibili.com/30400633",
+      "status": "pending",
+      "reason": "有本人升级和炼狱速刷教程，但所列视频尚不能证明实际产出或交易，保留为刷取构筑备选。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "100922991",
+      "name": "王唐尼Donny",
+      "profile_url": "https://space.bilibili.com/100922991",
+      "status": "pending",
+      "reason": "个人录屏讲解巫师，可证明玩过；尚无掉落或市场实操。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "217860340",
+      "name": "玩游戏的老猪",
+      "profile_url": "https://space.bilibili.com/217860340",
+      "status": "pending",
+      "reason": "宠物推荐和猎人玩法有刷取关联，但未核实际宠物掉落或交易，暂为刷取攻略备选。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "481541567",
+      "name": "老爱闭灯玩游戏",
+      "profile_url": "https://space.bilibili.com/481541567",
+      "status": "pending",
+      "reason": "用户指定保留；连续介绍可交易挂机游戏，但当前样本尚缺个人掉落或出售证据。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "80029264",
+      "name": "老鼠教教主",
+      "profile_url": "https://space.bilibili.com/80029264",
+      "status": "pending",
+      "reason": "85个BOSS宝箱开箱是实际玩家内容，未核箱子来源或销售，严格名单暂不计。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "170138227",
+      "name": "蔬菜拉面是个老实人",
+      "profile_url": "https://space.bilibili.com/170138227",
+      "status": "pending",
+      "reason": "有个人卡牌操作的旧简介，但尚未取得近期持续实玩搬砖内容，列待复核。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "143703906",
+      "name": "蚊子叮叮www",
+      "profile_url": "https://space.bilibili.com/143703906",
+      "status": "pending",
+      "reason": "是实际TBH玩家并讨论市场，但当前保留样本主要是配队、物价和开箱，尚需补实际刷取或出售依据。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "51001603",
+      "name": "蜜柑m1kan",
+      "profile_url": "https://space.bilibili.com/51001603",
+      "status": "pending",
+      "reason": "帝国币连开，视频标签含赌博；没有采集/产出/市场实操，不按搬砖计。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "435785965",
+      "name": "野猪快跑0GC",
+      "profile_url": "https://space.bilibili.com/435785965",
+      "status": "pending",
+      "reason": "Idle Legions小号养大号标题非常接近，但简介仅123，所核公开热门评论没有作者自身操作的补充；不能只凭标题当作已核实本人实测。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "339092707",
+      "name": "阿伟3498619864",
+      "profile_url": "https://space.bilibili.com/339092707",
+      "status": "pending",
+      "reason": "DeskTopRacer题材及steam市场标签符合，但简介为短横线，缺乏本人实际操作或结果的补充。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "446022508",
+      "name": "陳夢媛",
+      "profile_url": "https://space.bilibili.com/446022508",
+      "status": "pending",
+      "reason": "低成本单人通关是本人战斗经验，但没有生产、掉落或市场实操证据。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "3989747",
+      "name": "零疯",
+      "profile_url": "https://space.bilibili.com/3989747",
+      "status": "pending",
+      "reason": "简介明确个人玩家且确实实玩，但所核是扫盲与旋风斩配装，没有产出或市场证据。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "12234783",
+      "name": "魔界矮子猪",
+      "profile_url": "https://space.bilibili.com/12234783",
+      "status": "pending",
+      "reason": "本人电法速通且给配装，但仍是通关/速度构筑，缺少具体生产或市场证据。",
+      "status_label": "待补证据"
+    },
+    {
+      "uid": "11684781",
+      "name": "-苍老师-",
+      "profile_url": "https://space.bilibili.com/11684781",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "14881766",
+      "name": "Colddagger",
+      "profile_url": "https://space.bilibili.com/14881766",
+      "status": "removed",
+      "reason": "旧样本是游戏包/挂卡指南，不足以证明近期持续搬砖；原邀请记录保留。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "403883234",
+      "name": "Cs散修",
+      "profile_url": "https://space.bilibili.com/403883234",
+      "status": "removed",
+      "reason": "当前公开接口显示账号已注销，视频不可读，不能计入可联系候选。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "669239450",
+      "name": "GamerSecret玩家机密",
+      "profile_url": "https://space.bilibili.com/669239450",
+      "status": "removed",
+      "reason": "社会实验及骗局事件评论；没有本人挂机售出证据。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "693618262",
+      "name": "IceyIruE",
+      "profile_url": "https://space.bilibili.com/693618262",
+      "status": "removed",
+      "reason": "两条长视频为付费开箱/氪金装扮回本话题；未找到挂机取掉落后出售的证据，按用户要求排除。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "363075597",
+      "name": "JaredMcCain8",
+      "profile_url": "https://space.bilibili.com/363075597",
+      "status": "removed",
+      "reason": "只有早期Banana掉落片段，尚不足以认定持续做搬砖内容。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "3546664577010526",
+      "name": "Mo游戏特惠",
+      "profile_url": "https://space.bilibili.com/3546664577010526",
+      "status": "removed",
+      "reason": "Steam榜单热点推荐；非本人搬砖流程。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "36417437",
+      "name": "STEAM特惠资讯",
+      "profile_url": "https://space.bilibili.com/36417437",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "3493137005677523",
+      "name": "Will游戏堂",
+      "profile_url": "https://space.bilibili.com/3493137005677523",
+      "status": "removed",
+      "reason": "BongoCat功能资讯、联机更新；非本人挂机售出。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "461838",
+      "name": "ZN的独立游戏世界",
+      "profile_url": "https://space.bilibili.com/461838",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "11017513",
+      "name": "_铭尘",
+      "profile_url": "https://space.bilibili.com/11017513",
+      "status": "removed",
+      "reason": "主要证据是Idle Master工具使用教程；缺少本人收益、售出或持续实玩搬砖。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "3747584220859397",
+      "name": "bili_39307970500",
+      "profile_url": "https://space.bilibili.com/3747584220859397",
+      "status": "removed",
+      "reason": "Taso Idle稿以介绍游戏系统、邀请加入愿望单及投放参数Steam链接为中心，缺乏本人搬砖操作证据；当作产品宣传线索，不作玩家账号。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "12637064",
+      "name": "slice1221",
+      "profile_url": "https://space.bilibili.com/12637064",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "473519710",
+      "name": "steam情报局",
+      "profile_url": "https://space.bilibili.com/473519710",
+      "status": "removed",
+      "reason": "团队新闻资讯（策划/配音），没有本人搬砖过程。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "13381940",
+      "name": "steam游戏姬",
+      "profile_url": "https://space.bilibili.com/13381940",
+      "status": "removed",
+      "reason": "团队Steam知识教程；缺少个人搬砖过程或收益实况。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "266171971",
+      "name": "torreach",
+      "profile_url": "https://space.bilibili.com/266171971",
+      "status": "removed",
+      "reason": "公开定位各类肉鸽小游戏，所核内容为新游试玩与电法开荒；没有独立刷取产出或销售证据。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "385914850",
+      "name": "zj1d",
+      "profile_url": "https://space.bilibili.com/385914850",
+      "status": "removed",
+      "reason": "游戏牧场栏目是独立游戏数据/介绍，所核稿内容为多个游戏资讯，不是玩家牧场或道具搬砖。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "745795",
+      "name": "゜亅゜",
+      "profile_url": "https://space.bilibili.com/745795",
+      "status": "removed",
+      "reason": "BongoCat测评；没有本人持续挂机售出证据。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "1725689072",
+      "name": "义父快上号",
+      "profile_url": "https://space.bilibili.com/1725689072",
+      "status": "removed",
+      "reason": "Banana骗局话题评论；没有本人实际搬砖记录。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "298591899",
+      "name": "二喵二汪",
+      "profile_url": "https://space.bilibili.com/298591899",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "601188852",
+      "name": "众鑫微客",
+      "profile_url": "https://space.bilibili.com/601188852",
+      "status": "removed",
+      "reason": "旧记录以CS市场项目和问卷内容为主，未取得本次目标游戏的实玩搬砖证据。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "8320195",
+      "name": "南礓柳下生",
+      "profile_url": "https://space.bilibili.com/8320195",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "26448863",
+      "name": "去年十八岁的老豪",
+      "profile_url": "https://space.bilibili.com/26448863",
+      "status": "removed",
+      "reason": "虽称实测，但现有证据主要是Steam/CS市场风险评论；缺少该游戏明确本人掉落、售出或连续搬砖实况。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "30911305",
+      "name": "哇沃WoW",
+      "profile_url": "https://space.bilibili.com/30911305",
+      "status": "removed",
+      "reason": "泛Steam卡牌工具演示；暂无足够本人搬砖/出售记录。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "301457704",
+      "name": "大宝Game",
+      "profile_url": "https://space.bilibili.com/301457704",
+      "status": "removed",
+      "reason": "新闻提醒与风险资讯；没有个人操作记录。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "3546825957050660",
+      "name": "大家好我就一打游戏的",
+      "profile_url": "https://space.bilibili.com/3546825957050660",
+      "status": "removed",
+      "reason": "公开简介明确每天一个游戏试玩并招揽游戏推荐商单，属于用户本轮排除的泛试玩推荐定位。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "3546585522767963",
+      "name": "大星项目说",
+      "profile_url": "https://space.bilibili.com/3546585522767963",
+      "status": "removed",
+      "reason": "以网创项目和技术学习导流为主，移出实玩搬砖名单。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "1262499771",
+      "name": "好游助手",
+      "profile_url": "https://space.bilibili.com/1262499771",
+      "status": "removed",
+      "reason": "账号为游戏体验服务渠道，现有样本是市场教程，不作为个人搬砖玩家计数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "925253",
+      "name": "好胃口的我",
+      "profile_url": "https://space.bilibili.com/925253",
+      "status": "removed",
+      "reason": "Bondoq Demo长评及对未来Steam市场的推测是新游鉴赏角色；没有本人实际刷掉落/交易的证明。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "34164605",
+      "name": "子辰Spenda",
+      "profile_url": "https://space.bilibili.com/34164605",
+      "status": "removed",
+      "reason": "Everdeep Idle稿以简中发行、发售、收赛博义子为宣传口吻；相关稿明确自己做汉化。当前证据是发行/汉化推广角色，不按实际搬砖玩家计入。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "631126",
+      "name": "宁也能成为光",
+      "profile_url": "https://space.bilibili.com/631126",
+      "status": "removed",
+      "reason": "Banana回顾/资讯选题；未找到本人搬砖流程或交易记录。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "1987398452",
+      "name": "安娜iv",
+      "profile_url": "https://space.bilibili.com/1987398452",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "188423979",
+      "name": "小代游戏日记",
+      "profile_url": "https://space.bilibili.com/188423979",
+      "status": "removed",
+      "reason": "现有样本偏教程/工具与资讯，未取得本次严格标准下的个人刷货出售依据；原邀请记录保留。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "6528910",
+      "name": "小贝的游戏食堂",
+      "profile_url": "https://space.bilibili.com/6528910",
+      "status": "removed",
+      "reason": "Banana爆火现象评论；没有本人挂机、掉落出售或收益记录。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "6679950",
+      "name": "山水天昕",
+      "profile_url": "https://space.bilibili.com/6679950",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "22073385",
+      "name": "布拉德莉莉",
+      "profile_url": "https://space.bilibili.com/22073385",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "10503785",
+      "name": "库洛Khloe",
+      "profile_url": "https://space.bilibili.com/10503785",
+      "status": "removed",
+      "reason": "加速器合作背景的Steam综合工具教程；非实际挂机搬砖记录。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "31150341",
+      "name": "張小臣",
+      "profile_url": "https://space.bilibili.com/31150341",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "3546382893844859",
+      "name": "徐传奇",
+      "profile_url": "https://space.bilibili.com/3546382893844859",
+      "status": "removed",
+      "reason": "Banana谁在赚钱的事件分析；不是本人挂机记录。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "1639468",
+      "name": "徘徊玩家",
+      "profile_url": "https://space.bilibili.com/1639468",
+      "status": "removed",
+      "reason": "公开简介写每日精选资讯与心得分享，视频标签含新游鉴赏家；只有更新整理，未核实际产出或销售。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "286896221",
+      "name": "德印小馆长",
+      "profile_url": "https://space.bilibili.com/286896221",
+      "status": "removed",
+      "reason": "BongoCat推荐文案；不是本人搬砖记录。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "11431302",
+      "name": "我炒鸡爱吃菠萝",
+      "profile_url": "https://space.bilibili.com/11431302",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "3546804366871265",
+      "name": "打游戏的大洋芋",
+      "profile_url": "https://space.bilibili.com/3546804366871265",
+      "status": "removed",
+      "reason": "宝箱自动领取脚本教程；现有证据是工具方法，缺少本人掉落售出或收益日志。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "71305024",
+      "name": "无实体",
+      "profile_url": "https://space.bilibili.com/71305024",
+      "status": "removed",
+      "reason": "BongoCat买前评测；非搬砖过程。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "924489",
+      "name": "昭柴猫的猫老师",
+      "profile_url": "https://space.bilibili.com/924489",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "527004644",
+      "name": "普通葡萄不普通通",
+      "profile_url": "https://space.bilibili.com/527004644",
+      "status": "removed",
+      "reason": "BongoCat玩家数量/免费桌宠话题；无个人搬砖记录。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "49727546",
+      "name": "朋克玩游戏",
+      "profile_url": "https://space.bilibili.com/49727546",
+      "status": "removed",
+      "reason": "现有样本为喜加一推荐，未取得个人刷货出售依据；原邀请记录保留。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "32873498",
+      "name": "林小天丿",
+      "profile_url": "https://space.bilibili.com/32873498",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "3841658",
+      "name": "桑果果桑",
+      "profile_url": "https://space.bilibili.com/3841658",
+      "status": "removed",
+      "reason": "虽开过85个BOSS宝箱，但同作者多条放置游戏排行和资讯，定位仍是泛放置游戏点评，且未核本人生产/销售。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "26691811",
+      "name": "海森芝士堡",
+      "profile_url": "https://space.bilibili.com/26691811",
+      "status": "removed",
+      "reason": "Banana事件评论与投资风险观点；非本人搬砖记录。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "633400731",
+      "name": "游戏动态鉴赏家",
+      "profile_url": "https://space.bilibili.com/633400731",
+      "status": "removed",
+      "reason": "游戏热点资讯；没有本人挂机与出售记录。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "525271954",
+      "name": "游戏打火球",
+      "profile_url": "https://space.bilibili.com/525271954",
+      "status": "removed",
+      "reason": "BongoCat游戏介绍；非本人搬砖日志。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "3493144777721937",
+      "name": "游戏浪人麻薯",
+      "profile_url": "https://space.bilibili.com/3493144777721937",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "23764704",
+      "name": "游戏玩家三井",
+      "profile_url": "https://space.bilibili.com/23764704",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "457472779",
+      "name": "游戏生菜",
+      "profile_url": "https://space.bilibili.com/457472779",
+      "status": "removed",
+      "reason": "游戏骗局解释；不等于实际挂机搬砖。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "20010646",
+      "name": "游戏门外汉",
+      "profile_url": "https://space.bilibili.com/20010646",
+      "status": "removed",
+      "reason": "11月五款名单实际是装备仔/天上碑m2/鬼怪世界/日蚀/宙斯等外服网游，与本轮桌面挂机市场新游范围不相符。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "11233223",
+      "name": "游民星空官方",
+      "profile_url": "https://space.bilibili.com/11233223",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "26798952",
+      "name": "灵雪宅在家",
+      "profile_url": "https://space.bilibili.com/26798952",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "3546389342587722",
+      "name": "炮火编辑部",
+      "profile_url": "https://space.bilibili.com/3546389342587722",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "243438765",
+      "name": "爱啃鸡爪的三狗",
+      "profile_url": "https://space.bilibili.com/243438765",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "413703",
+      "name": "独立游戏蜥蜴君",
+      "profile_url": "https://space.bilibili.com/413703",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "2069827323",
+      "name": "猫蛋蛋游戏分享",
+      "profile_url": "https://space.bilibili.com/2069827323",
+      "status": "removed",
+      "reason": "仅有TBH可以搬砖的介绍，标签虽有搬砖，未找到本人产出或操作记录，不能按搬砖玩家计。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "8883446",
+      "name": "琪露诺夫斯基",
+      "profile_url": "https://space.bilibili.com/8883446",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "374410865",
+      "name": "直至终末",
+      "profile_url": "https://space.bilibili.com/374410865",
+      "status": "removed",
+      "reason": "省电挂机教程题名；万元出售是问句，未证明是其本人售出，也没有连续实际收益材料。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "617381",
+      "name": "空白小糕",
+      "profile_url": "https://space.bilibili.com/617381",
+      "status": "removed",
+      "reason": "DPS稿简介是游戏剧情及卖点宣传，标签为新游试玩/独立游戏推荐等；本轮没有本人实际搬砖或市场操作证据。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "85609337",
+      "name": "红叶zero",
+      "profile_url": "https://space.bilibili.com/85609337",
+      "status": "removed",
+      "reason": "BingoPet游戏推荐；没有本人挂机和出售结果。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "3546641722247831",
+      "name": "老Gamee",
+      "profile_url": "https://space.bilibili.com/3546641722247831",
+      "status": "removed",
+      "reason": "Banana现象评论；非本人掉落/售出记录。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "95193173",
+      "name": "老猫和一修",
+      "profile_url": "https://space.bilibili.com/95193173",
+      "status": "removed",
+      "reason": "Banana、BongoCat均为新闻/机制评论；无本人搬砖结果。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "407735943",
+      "name": "老蒜名游堂",
+      "profile_url": "https://space.bilibili.com/407735943",
+      "status": "removed",
+      "reason": "BongoCat游戏推荐，题名提卖帽子但没有本人操作/售出记录。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "10999014",
+      "name": "老蕉Banous",
+      "profile_url": "https://space.bilibili.com/10999014",
+      "status": "removed",
+      "reason": "Steam游戏推荐、新闻与泛卡牌教程；暂无足以进入严格个人搬砖池的本人收益/掉落出售记录。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "261560495",
+      "name": "老陈头儿嘿",
+      "profile_url": "https://space.bilibili.com/261560495",
+      "status": "removed",
+      "reason": "所核主要为游戏解说和玩法介绍，虽然提拍卖行，也没有本人实际生产/上架/销售证据。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "25565826",
+      "name": "腿毛长倒刺",
+      "profile_url": "https://space.bilibili.com/25565826",
+      "status": "removed",
+      "reason": "Banana试玩；未证明本人以搬砖或掉落售出为目标。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "478651098",
+      "name": "艾瑞克Game",
+      "profile_url": "https://space.bilibili.com/478651098",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "3461568859736950",
+      "name": "芯片少女",
+      "profile_url": "https://space.bilibili.com/3461568859736950",
+      "status": "removed",
+      "reason": "泡沫风险评论；未证明本人取得和出售掉落。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "1621010",
+      "name": "苍穹Wizard",
+      "profile_url": "https://space.bilibili.com/1621010",
+      "status": "removed",
+      "reason": "虽有真实TBH掉落记录，但当前公开签名自称游戏设计师，按用户排除开发者的要求不计。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "9463690",
+      "name": "苏安安Susanne",
+      "profile_url": "https://space.bilibili.com/9463690",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "20982987",
+      "name": "莴笋wosun",
+      "profile_url": "https://space.bilibili.com/20982987",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "95492264",
+      "name": "蓝军_炉石传说",
+      "profile_url": "https://space.bilibili.com/95492264",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "1846104759",
+      "name": "西瓜的联机游戏推荐",
+      "profile_url": "https://space.bilibili.com/1846104759",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "194566043",
+      "name": "解说小怪兽",
+      "profile_url": "https://space.bilibili.com/194566043",
+      "status": "removed",
+      "reason": "市场泡沫资讯/解说；没有本人挂机取物并出售证据。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "2408577",
+      "name": "阿鹏会飞了",
+      "profile_url": "https://space.bilibili.com/2408577",
+      "status": "removed",
+      "reason": "所核两条为试玩、强度测评和新游介绍，不能据此当作实际搬砖博主。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "2020430835",
+      "name": "雨说新客",
+      "profile_url": "https://space.bilibili.com/2020430835",
+      "status": "removed",
+      "reason": "公开定位偏项目/网创分享，尚未取得本人目标游戏刷货、掉落或出售直接证据。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "3546564758866060",
+      "name": "韭菜说游戏",
+      "profile_url": "https://space.bilibili.com/3546564758866060",
+      "status": "removed",
+      "reason": "Banana商业模式/风险评论；没有本人搬砖过程。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "390456875",
+      "name": "风逝不是风扇",
+      "profile_url": "https://space.bilibili.com/390456875",
+      "status": "removed",
+      "reason": "合成系统更新介绍；未证明本人以掉落售出为主。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "1504032",
+      "name": "鸽MAOZi",
+      "profile_url": "https://space.bilibili.com/1504032",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "3546815565662839",
+      "name": "鹿眠眠Mia",
+      "profile_url": "https://space.bilibili.com/3546815565662839",
+      "status": "removed",
+      "reason": "所核内容未达到本人刷取、掉落或出售的标准；不以泛游戏内容凑数。",
+      "status_label": "已移出"
+    },
+    {
+      "uid": "23036357",
+      "name": "IVCucurbit_圣瞳",
+      "profile_url": "https://space.bilibili.com/23036357",
+      "status": "kept",
+      "reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "179515655",
+      "name": "Iron_Spider_",
+      "profile_url": "https://space.bilibili.com/179515655",
+      "status": "kept",
+      "reason": "多账号挂机取掉落，并记录收益与市场卖出；是实操型工作室账号，匹配搬砖受众。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "3707079999096997",
+      "name": "KaChaPond",
+      "profile_url": "https://space.bilibili.com/3707079999096997",
+      "status": "kept",
+      "reason": "两次制作War of Genesis: Idle Loot职业实战入门与加点攻略，其中一稿明确讨论刷钱配置，题材贴合。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "6130577",
+      "name": "Mono_2022",
+      "profile_url": "https://space.bilibili.com/6130577",
+      "status": "kept",
+      "reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "3546866094442943",
+      "name": "ddlinm",
+      "profile_url": "https://space.bilibili.com/3546866094442943",
+      "status": "kept",
+      "reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "22707026",
+      "name": "fdhfrfffgg",
+      "profile_url": "https://space.bilibili.com/22707026",
+      "status": "kept",
+      "reason": "QuestAway专门BD作者；自己的测试成绩和实战问题比单条新游推荐更接近用户要找的玩家型博主。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "3546661695523225",
+      "name": "steam搬砖大鱼王",
+      "profile_url": "https://space.bilibili.com/3546661695523225",
+      "status": "kept",
+      "reason": "用户提供的对标账号，持续发布 Steam 挂机搬砖排期与新游内容。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "123174211",
+      "name": "十二斤的史迪仔",
+      "profile_url": "https://space.bilibili.com/123174211",
+      "status": "kept",
+      "reason": "连续展示批量挂香蕉和后续收益，内容明确以挂机搬砖为主体。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "421183",
+      "name": "反驳型云叶",
+      "profile_url": "https://space.bilibili.com/421183",
+      "status": "kept",
+      "reason": "有本人挂机掉落反馈及桌面破坏神、QuestAway 市场体验。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "253227585",
+      "name": "只有十七岁的宝宝",
+      "profile_url": "https://space.bilibili.com/253227585",
+      "status": "kept",
+      "reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "15099433",
+      "name": "呆呆的石头336",
+      "profile_url": "https://space.bilibili.com/15099433",
+      "status": "kept",
+      "reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "3048654",
+      "name": "啊森个",
+      "profile_url": "https://space.bilibili.com/3048654",
+      "status": "kept",
+      "reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "3546704915729078",
+      "name": "小助手山田",
+      "profile_url": "https://space.bilibili.com/3546704915729078",
+      "status": "kept",
+      "reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "1066000943",
+      "name": "小寒永远滴神",
+      "profile_url": "https://space.bilibili.com/1066000943",
+      "status": "kept",
+      "reason": "以自己37款游戏的挂卡收益解释Steam卡牌搬砖，属于个人操作经验。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "3493114041863110",
+      "name": "小欧_沉淀欧",
+      "profile_url": "https://space.bilibili.com/3493114041863110",
+      "status": "kept",
+      "reason": "主页明确持续更新主流搬砖游戏进度，兼有 QuestAway 配置与自身体验。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "3706961281419799",
+      "name": "搬的奶",
+      "profile_url": "https://space.bilibili.com/3706961281419799",
+      "status": "kept",
+      "reason": "持续更新自己的桌面挂机搬砖近况，包含实际回本体验。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "1465964",
+      "name": "星灵雪枫",
+      "profile_url": "https://space.bilibili.com/1465964",
+      "status": "kept",
+      "reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "493005147",
+      "name": "星空223",
+      "profile_url": "https://space.bilibili.com/493005147",
+      "status": "kept",
+      "reason": "对Banana与Egg同时挂机的收益做比较，并继续测试Cats，属于实操型相关玩家。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "1774751751",
+      "name": "最穷搬砖哥",
+      "profile_url": "https://space.bilibili.com/1774751751",
+      "status": "kept",
+      "reason": "持续制作搬砖实操、出金与年度个人经历，含 Steam 游戏币选题。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "246042548",
+      "name": "枕边夜灯",
+      "profile_url": "https://space.bilibili.com/246042548",
+      "status": "kept",
+      "reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "13180531",
+      "name": "橘花兔",
+      "profile_url": "https://space.bilibili.com/13180531",
+      "status": "kept",
+      "reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "99910486",
+      "name": "母鸡上树公鸡下蛋",
+      "profile_url": "https://space.bilibili.com/99910486",
+      "status": "kept",
+      "reason": "同一账号既做Idle Legions推进攻略，也讨论QuestAway市场开放，覆盖相近的桌面挂机市场游戏。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "472163295",
+      "name": "毒医吾二",
+      "profile_url": "https://space.bilibili.com/472163295",
+      "status": "kept",
+      "reason": "发布自己挂机一天后的收益回顾，主题是实际挂香蕉而非泛游戏资讯。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "347160397",
+      "name": "爱你的胖胖Vzz",
+      "profile_url": "https://space.bilibili.com/347160397",
+      "status": "kept",
+      "reason": "以本人饥荒掉落收益讲解取物品赚钱，属于Steam掉落玩法的老玩家备选。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "39344986",
+      "name": "爱摸鱼的k狗",
+      "profile_url": "https://space.bilibili.com/39344986",
+      "status": "kept",
+      "reason": "持续制作QuestAway低成本配置与推图策略，内容中心是实际配装和挂机效率。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "263977",
+      "name": "百葉兔",
+      "profile_url": "https://space.bilibili.com/263977",
+      "status": "kept",
+      "reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "298973823",
+      "name": "眠川喵-",
+      "profile_url": "https://space.bilibili.com/298973823",
+      "status": "kept",
+      "reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "39110197",
+      "name": "终末の魔女",
+      "profile_url": "https://space.bilibili.com/39110197",
+      "status": "kept",
+      "reason": "亲自挂机取卡，并描述逐张卖卡回收Steam余额，是有本人出售记录的玩家。",
+      "status_label": "已保留"
+    },
+    {
+      "uid": "546137849",
+      "name": "颓废豪爷a",
+      "profile_url": "https://space.bilibili.com/546137849",
+      "status": "kept",
+      "reason": "存在本人刷取/产出/物品处理或以明确材料为目标的速刷证据，保留。",
+      "status_label": "已保留"
+    }
+  ]
 }
