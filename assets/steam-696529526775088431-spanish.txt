@@ -1,0 +1,52 @@
+Guía del accionista: cuándo sale la definitiva y cómo colocar a tus héroes
+发布日期：2026-11-17 15:21（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=spanish
+
+[b]Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo![/b]
+
+¡Hola a todos! Soy Juanmao.
+
+¡El juego completo sale el 3 de diciembre! ¡¡Quedan 16 días para poder jugarlo!! ¡Solo de pensar que muy pronto el juego llegará a vosotros me emociono muchísimo! (Atención: ¡¡¡el progreso de la demo no pasará al juego completo!!!)
+
+Con el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes buenas sugerencias sobre el Mercado, déjalas en los comentarios. Si te gusta, añádelo a tu lista de deseados y te avisarán en cuanto salga.
+
+Esto tampoco es una actualización: siguiendo con las ganancias sin conexión de la última vez, quiero hablar de los héroes y las formaciones que ya tiene la demo. Mucha gente me pregunta cuándo sale exactamente la definitiva y cómo colocar a los héroes una vez que los tiene. Aquí van algunas cosas.
+
+[h2]La definitiva no se pulsa: sale sola al cargarse[/h2]
+Cada héroe tiene una Habilidad distintiva, que es lo que todos llaman su definitiva. Al final de cada ronda, todos acumulan Moral; cuando un héroe tiene suficiente, la definitiva sale sola en su turno. No hace falta pulsar nada.
+Los héroes de cinco estrellas tienen además un primer plano exclusivo al lanzar su definitiva. A velocidad x1 se ve completo: todo el campo se detiene un momento, el primer plano abre los ojos, aparece el nombre de la técnica y luego ataca. A velocidad x2 es la versión rápida: sin primer plano, la técnica sale directamente.
+[img]{STEAM_CLAN_IMAGE}/46216320/699f25ea0e9417ed618a4fe51899ec48aa21b0d2.jpg[/img]
+
+[h2]Dos héroes de cinco estrellas que puedes conseguir pronto[/h2]
+[list]
+[*]Diva triunfal: la primera vez que superas la etapa 22, tienes garantizada su Ficha; luego recluta a la Diva en la Taberna con Cupones de reclutamiento legendario. Su definitiva aumenta el daño de la próxima Habilidad distintiva del aliado con más Intelecto de su carril y después golpea un carril enemigo entero.
+[*]Rey lobo de la llanura helada: al superar la etapa 30 de la Campaña se abre el Desafío de jefe en las Tierras de pruebas. Si le ganas por primera vez, se une directamente, sin Ficha ni Cupones. Empieza el combate con Moral ya acumulada, y su definitiva da un buen empujón de Moral al aliado con más Poder de su carril.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/25bcb29135732874f6de01cfa2ac6ce2bf1e4e59.jpg[/img]
+
+[h2]Con las auras, mira primero qué casillas cubren[/h2]
+En la página Escuadra, pulsa un héroe y en el tablero se iluminarán las casillas que cubre su aura; en la pestaña «Aura» de los detalles de habilidad también aparece dibujado el alcance. Algunos ejemplos comunes:
+[list]
+[*]Sabio del círculo de piedra: los aliados de la misma fila infligen más daño físico. «La misma fila» es la franja vertical del tablero, así que pon a tus atacantes físicos en la misma franja que ella.
+[*]Sacerdote del faro: cubre su propia casilla y a los aliados adyacentes de arriba, abajo, izquierda y derecha, y aumenta la curación que reciben.
+[/list]
+Además, con su Rasgo de clase, el Paladín (la clase por defecto del protagonista) asume parte del daño de los aliados de arriba, abajo, izquierda y derecha, así que los atacantes frágiles pueden pegarse a él.
+[img]{STEAM_CLAN_IMAGE}/46216320/d5e18de3037d401a5afa7eec8a1502859cd97199.jpg[/img]
+
+[h2]Mueve un poco la colocación inicial[/h2]
+En la página Escuadra, la franja vertical de más a la derecha es la fila 1, la que mira a los enemigos. El ataque básico golpea primero al que está más adelante en el mismo carril; si ese carril está vacío, va al carril más cercano; si alguien en el campo tiene Provocación, golpea primero a ese.
+En una partida nueva, el Lancero veterano y el Rastreador de senderos empiezan por defecto en la fila 3. Puedes mover al Lancero al frente, poner al Comandante a su lado y esconder al Rastreador detrás del Lancero.
+[img]{STEAM_CLAN_IMAGE}/46216320/b076398ea5cbd027b4357600f9cf66cedbf423c4.jpg[/img]
+
+[h2]Cuando tengas más héroes[/h2]
+[list]
+[*]Se pueden desplegar hasta 10 héroes, y el protagonista cuenta como uno. El costo máximo sube al mejorar el Salón de la agencia, y el protagonista no ocupa costo.
+[*]Los héroes de dos y tres estrellas se compran directamente en la Taberna con Cupones de reclutamiento legendario: precio fijo, sin tiradas.
+[*]Si pierdes, mira primero quién cae antes: si tu frente cae al instante, refuerza primero la resistencia; si el frente aguanta pero los enemigos no mueren, te falta daño.
+[/list]
+
+Si hay otros héroes que quieras que te explique o algo que no se entienda, pregúntame en los comentarios. También puedes unirte a nuestro [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Si te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+[url=https://store.steampowered.com/app/5257220/]Juega la demo gratis[/url] | [url=https://store.steampowered.com/app/4855890/]Añade el juego completo a tu lista de deseados[/url]

@@ -1,0 +1,52 @@
+Guia de início do acionista: quando sai a ultimate e como posicionar heróis
+发布日期：2026-11-17 15:21（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=brazilian
+
+[b]É importante, então vou falar três vezes: o progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo![/b]
+
+Olá, pessoal! Aqui é o Juanmao.
+
+O jogo completo chega em 3 de dezembro! Faltam 16 dias para vocês poderem jogar!! Só de pensar que logo o jogo vai chegar até vocês, dá uma empolgação enorme! (Atenção: o progresso da demo não vai passar para o jogo completo!!!)
+
+Com o jogo completo, o Mercado da Comunidade Steam vai abrir~ Se tiver alguma boa sugestão sobre o Mercado, deixa nos comentários. Se curtiu, adicione à sua lista de desejos e você vai receber um aviso quando ele sair.
+
+Isto também não é uma atualização: continuando dos ganhos offline da última vez, quero falar dos heróis e das formações que a demo já tem. Muita gente me pergunta quando a ultimate sai de verdade e como posicionar os heróis depois de consegui-los. Separei algumas coisas.
+
+[h2]Não precisa apertar: a ultimate sai quando carrega[/h2]
+Todo herói tem uma Habilidade exclusiva, que é o que todo mundo chama de ultimate. No fim de cada rodada, todos acumulam Moral; quando um herói junta o suficiente, a ultimate sai sozinha na vez dele. Não precisa clicar.
+Heróis de cinco estrelas ainda têm um close exclusivo ao soltar a ultimate. Na velocidade 1x dá para ver tudo: o campo inteiro para por um instante, o close abre os olhos, aparece o nome do golpe e aí vem o ataque. Na velocidade 2x é a versão rápida: sem close, o golpe sai direto.
+[img]{STEAM_CLAN_IMAGE}/46216320/73430f3e4a79ab186ac412a946f697772608e38f.jpg[/img]
+
+[h2]Dois heróis de cinco estrelas que dá para pegar cedo[/h2]
+[list]
+[*]Diva Triunfal: na primeira vez que você passa da fase 22, a Ficha dela é garantida; depois é só recrutá-la na Taverna com Cupons de Recrutamento Lendário. A ultimate dela aumenta o dano da próxima Habilidade exclusiva do aliado com mais Intelecto na mesma linha e depois atinge uma linha inimiga inteira.
+[*]Rei-Lobo da Planície Gélida: depois de passar da fase 30 da Campanha, abre o Combate de chefe nas Terras de Desafios. Vencendo pela primeira vez, ele entra direto na equipe, sem Ficha nem Cupons. Ele já começa a batalha com Moral, e a ultimate dele dá um bom tanto de Moral ao aliado com mais Poder na mesma linha.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/28af8c62f8b595c85143159e5e9ad9c5fc71dc4c.jpg[/img]
+
+[h2]Nas auras, veja primeiro quais casas elas cobrem[/h2]
+Na página Equipe, clique num herói e as casas que a aura dele cobre acendem no tabuleiro; na aba "Auras" dos detalhes da habilidade o alcance também aparece desenhado. Alguns exemplos comuns:
+[list]
+[*]Sábio do Círculo de Pedra: os aliados na mesma fileira causam mais dano físico. "Mesma fileira" é a faixa vertical do tabuleiro, então coloque seus atacantes físicos na mesma faixa que ela.
+[*]Sacerdote do Farol: cobre a própria casa e os aliados vizinhos de cima, de baixo, da esquerda e da direita, e aumenta a cura que eles recebem.
+[/list]
+Além disso, com o Traço de classe, o Paladino (a classe padrão do protagonista) absorve parte do dano dos aliados de cima, de baixo, da esquerda e da direita, então atacantes frágeis podem ficar colados nele.
+[img]{STEAM_CLAN_IMAGE}/46216320/d2458e92fe6a952785637fdf985a145204c4186a.jpg[/img]
+
+[h2]Mexa um pouco no posicionamento inicial[/h2]
+Na página Equipe, a faixa vertical mais à direita é a fileira 1, de frente para os inimigos. O ataque básico acerta primeiro quem está mais à frente na mesma linha; se essa linha estiver vazia, vai para a linha mais próxima; se alguém em campo estiver com Provocação, ataca esse primeiro.
+Num save novo, o Lanceiro Veterano e o Rastreador de Trilhas começam por padrão na fileira 3. Dá para levar o Lanceiro para a frente, colocar o Comandante do lado dele e esconder o Rastreador atrás do Lanceiro.
+[img]{STEAM_CLAN_IMAGE}/46216320/e321eaef4f1f547f8ef4f5e5a138e613948b7c3a.jpg[/img]
+
+[h2]Quando tiver mais heróis[/h2]
+[list]
+[*]Dá para escalar até 10 heróis, e o protagonista conta como um. O teto de custo sobe conforme você melhora o Salão da Agência, e o protagonista não ocupa custo.
+[*]Heróis de duas e três estrelas são comprados direto na Taverna com Cupons de Recrutamento Lendário: preço fixo, sem sorteio.
+[*]Se perder, veja primeiro quem cai antes: se a frente cai na hora, reforce primeiro a resistência; se a frente aguenta mas os inimigos não morrem, falta dano.
+[/list]
+
+Se tem algum outro herói que você quer que eu explique ou algo que não ficou claro, pode perguntar nos comentários. Também dá para entrar no nosso [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+[url=https://store.steampowered.com/app/5257220/]Jogue a demo gratuita[/url] | [url=https://store.steampowered.com/app/4855890/]Adicione o jogo completo à sua lista de desejos[/url]

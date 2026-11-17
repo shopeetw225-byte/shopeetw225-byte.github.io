@@ -1,0 +1,52 @@
+Shareholder onboarding: when ultimates fire, and how to arrange your heroes
+发布日期：2026-11-17 15:21（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=english
+
+[b]Important enough to say three times: Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game![/b]
+
+Hi everyone, Juanmao here.
+
+The full game launches on December 3! Just 16 days until you can play it!! Just thinking that the game will meet you all soon gets me so excited! (Note: Demo progress does NOT carry over to the full game!!!)
+
+The Steam Community Market will open with the full game~ If you have any good suggestions about the Market, feel free to leave them in the comments. If you like it, add it to your wishlist and you'll get a heads-up the moment it's out.
+
+This isn't an update either. Following up on last time's offline earnings, I want to talk about the heroes and lineups that are already in the Demo. People often ask when ultimates actually go off, and how to arrange their heroes once they have them. Here are a few things.
+
+[h2]No button needed: ultimates fire once charged[/h2]
+Every hero has a Signature ability, which is what everyone calls their ultimate. At the end of each round, everyone builds up Morale. Once a hero has enough, the ultimate fires automatically on their turn. No need to click anything.
+Five-star heroes also get their own close-up when they fire their ultimate. At 1x speed you see the whole thing: the entire field pauses, the close-up opens its eyes, the move's name appears, and then the hero strikes. At 2x speed you get the quick version: no close-up, the move just goes off.
+[img]{STEAM_CLAN_IMAGE}/46216320/22784ce2418320f5ccb77b834935b15aaa4a8356.jpg[/img]
+
+[h2]Two five-star heroes you can get early[/h2]
+[list]
+[*]Triumph Diva: the first time you clear stage 22, her Token is guaranteed. Then recruit her at the Tavern with Legend Recruit Coupons. Her ultimate boosts the damage of the next Signature ability for the ally with the highest Intellect in her lane, then hits an entire enemy lane.
+[*]Frost-Plain Wolf King: once you clear stage 30 in the Campaign, the Boss Challenge in the Trial Grounds opens up. Beat him there for the first time and he joins you right away, no Token or Coupons needed. He starts the battle with Morale already built up, and his ultimate gives a big chunk of Morale to the ally with the highest Might in his lane.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/7f475379bf54fd635892d77913f3e06db1cf953c.jpg[/img]
+
+[h2]For auras, first check which tiles they cover[/h2]
+On the Formation page, click a hero and the board lights up the tiles their aura covers. Open the “Aura” tab in Skill Details and the range is drawn there too. A few common ones:
+[list]
+[*]Stone-Circle Sage: allies in the same rank deal more physical damage. “Same rank” means that vertical strip on the board, so put your physical damage dealers in the same strip as her.
+[*]Lighthouse Priest: covers their own tile and the adjacent allies above, below, left and right, increasing the healing they receive.
+[/list]
+Also, the Paladin's Class Trait (the protagonist is a Paladin by default) takes on part of the damage aimed at allies above, below, left and right of him, so fragile damage dealers can stand right next to him.
+[img]{STEAM_CLAN_IMAGE}/46216320/5d0739eb75e3b6b84515ade8726e41482e2316d5.jpg[/img]
+
+[h2]Shift your starting positions a little[/h2]
+On the Formation page, the vertical strip on the far right is rank 1, facing the enemy. Basic attacks hit the front-most enemy in the same lane first; if that lane is empty, they go for the nearest lane; if anyone on the field has Taunt up, they hit the taunter first.
+On a new save, the Veteran Lancer and the Trail Tracker start in rank 3 by default. You can move the Lancer to the very front, put the Commander next to him, and tuck the Tracker behind the Lancer.
+[img]{STEAM_CLAN_IMAGE}/46216320/af42196b89cc529c8ba38066ec3496c50198ebeb.jpg[/img]
+
+[h2]Once you have more heroes[/h2]
+[list]
+[*]You can deploy up to 10 heroes, and the protagonist counts as one. The cost cap rises as you upgrade the Agency Hall, and the protagonist doesn't take up any cost.
+[*]Two- and three-star heroes can be bought directly at the Tavern with Legend Recruit Coupons. Fixed prices, no pulls.
+[*]If you lose, first check who goes down first: if your front row drops right away, shore up your tankiness first; if the front row is still standing but the enemies won't die, you're short on damage.
+[/list]
+
+If there are other heroes you'd like me to talk about, or anything that isn't clear, feel free to ask me in the comments. You're also welcome to join us on [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url] | [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]

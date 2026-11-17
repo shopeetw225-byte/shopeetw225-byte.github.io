@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-17",
   "hero": "assets/07851087f62e.jpg",
   "items": [
     {
@@ -12406,6 +12406,545 @@
       ],
       "status": "已发布 · 十语简介公开页核对通过",
       "detailNote": "正式版有 Steam 社区市场。此次简中媒体为阶段性更新，不代表新版十语素材全部完成。"
+    },
+    {
+      "id": "steam-696529526775088431",
+      "title": "股东上岗指南：大招什么时候放，人有了怎么摆",
+      "category": "Steam 公告",
+      "group": "已发布公告",
+      "date": "2026-11-17",
+      "dateBasis": "发布日期",
+      "publishedAt": "2026-11-17 15:21",
+      "summary": "Demo 的进度不会继承到正式版！正式版 12 月 3 日上线，倒计时 16 天，会开启 Steam 社区市场。这篇不讲更新，讲讲 Demo 里已有的英雄和阵容：大招什么时候放、开大特写怎么看最完整、前期就能拿到的两位五星、光环罩哪几格，以及开局站位怎么挪。",
+      "highlights": [
+        "正式版12月3日上线，发布当日倒计时16天；正式版会开启Steam社区市场，Demo进度不继承。",
+        "介绍公开Demo的自动大招、两位前期五星英雄、光环覆盖和开局站位；本篇是玩法新闻，非版本更新。",
+        "十语正文分别配四张本语实机图，共40张；中文两语附QQ群，其余八语附Discord。"
+      ],
+      "announcementNumber": 17,
+      "status": "已发布 · 十语",
+      "body": "重要的事情说三遍：Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！\n\n各位股东大人，我是倦猫。\n\n游戏正式版将在 12 月 3 日上线！还有 16 天就可以玩到啦！！一想到游戏很快就可以和你们见面就很激动哇！（注意：Demo 的进度不继承到正式版！！！）\n\n正式版会开启 Steam 社区市场～关于市场有什么好的建议，欢迎在评论区留言。喜欢的可以加个愿望单，上线就可以收到提示啦。\n\n这篇也不是更新，接着上次的离线收益，聊聊 Demo 里已经有的英雄和阵容。常有人问：大招到底什么时候放，人有了不知道怎么摆。挑几件说说。\n\n大招不用按，攒满就放\n每个英雄都有一个招牌技，也就是大家说的大招。每回合结束大家都会攒士气，攒够了，轮到他行动时就自动放出来，不用手动点。\n五星英雄放大招还有专属特写。一倍速看得最完整：全场停一下，特写睁眼、打出招式名，然后出手；开两倍速是快版，没有特写，直接放招。\n〔配图请见 Steam 原文〕\n\n前期就能拿到的两位五星\n\n• 凯歌天后：第一次打过第 22 关，保底给她的信物，再去酒馆用传说招募券招募。大招给同一条线智力最高的队友加下一次招牌技的伤害，再打敌方一整条线。\n• 霜原狼王：主线过了第 30 关，试炼之地里的首领挑战就开放，第一次打赢直接入队，不用信物也不用券。他开局就自带士气，大招还能给同一条线物攻最高的队友加一大截士气。\n\n〔配图请见 Steam 原文〕\n\n光环先看罩哪几格\n在编队页点一下英雄，他的光环罩到哪几格，棋盘上会亮出来；点开技能详情的“光环”页，也画着范围。几个常见的：\n\n• 石环圣贤：同一排的队友物理伤害更高。“同一排”是棋盘上那一竖条，所以物理输出跟她站同一竖条。\n• 灯塔祭司：罩自己和上下左右相邻的队友，让他们受到的治疗更多。\n\n另外，圣骑士（主角默认就是）的职业特性会替上下左右的队友分担一部分伤害，脆的输出可以贴着他站。\n〔配图请见 Steam 原文〕\n\n开局站位挪一下\n编队页最右边那一竖条是第 1 排，对着敌人。普攻先打同一条线最前面的人；那条线没人，就去打离得最近的那条线；场上有人嘲讽，就先打嘲讽的。\n新档开局，退役枪兵和辨路追踪手默认站在第 3 排。可以把枪兵挪到最前面，指挥官站他旁边，追踪手躲在枪兵身后。\n〔配图请见 Steam 原文〕\n\n人多了以后\n\n• 上阵最多 10 人，主角也算一个；费用上限跟着事务所大厅升级往上涨，主角不占费用。\n• 两星、三星英雄在酒馆用传说招募券直接买，明码标价，不用抽。\n• 打输了先看谁先倒：前排一下就没了，先补坦度；前排还站着、敌人却打不死，就是输出不够。\n\n\n还有哪些英雄想听我讲、哪里看不明白，欢迎在评论区问我。欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+      "translations": {
+        "schinese": {
+          "title": "股东上岗指南：大招什么时候放，人有了怎么摆",
+          "body": "重要的事情说三遍：Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！\n\n各位股东大人，我是倦猫。\n\n游戏正式版将在 12 月 3 日上线！还有 16 天就可以玩到啦！！一想到游戏很快就可以和你们见面就很激动哇！（注意：Demo 的进度不继承到正式版！！！）\n\n正式版会开启 Steam 社区市场～关于市场有什么好的建议，欢迎在评论区留言。喜欢的可以加个愿望单，上线就可以收到提示啦。\n\n这篇也不是更新，接着上次的离线收益，聊聊 Demo 里已经有的英雄和阵容。常有人问：大招到底什么时候放，人有了不知道怎么摆。挑几件说说。\n\n大招不用按，攒满就放\n每个英雄都有一个招牌技，也就是大家说的大招。每回合结束大家都会攒士气，攒够了，轮到他行动时就自动放出来，不用手动点。\n五星英雄放大招还有专属特写。一倍速看得最完整：全场停一下，特写睁眼、打出招式名，然后出手；开两倍速是快版，没有特写，直接放招。\n〔配图请见 Steam 原文〕\n\n前期就能拿到的两位五星\n\n• 凯歌天后：第一次打过第 22 关，保底给她的信物，再去酒馆用传说招募券招募。大招给同一条线智力最高的队友加下一次招牌技的伤害，再打敌方一整条线。\n• 霜原狼王：主线过了第 30 关，试炼之地里的首领挑战就开放，第一次打赢直接入队，不用信物也不用券。他开局就自带士气，大招还能给同一条线物攻最高的队友加一大截士气。\n\n〔配图请见 Steam 原文〕\n\n光环先看罩哪几格\n在编队页点一下英雄，他的光环罩到哪几格，棋盘上会亮出来；点开技能详情的“光环”页，也画着范围。几个常见的：\n\n• 石环圣贤：同一排的队友物理伤害更高。“同一排”是棋盘上那一竖条，所以物理输出跟她站同一竖条。\n• 灯塔祭司：罩自己和上下左右相邻的队友，让他们受到的治疗更多。\n\n另外，圣骑士（主角默认就是）的职业特性会替上下左右的队友分担一部分伤害，脆的输出可以贴着他站。\n〔配图请见 Steam 原文〕\n\n开局站位挪一下\n编队页最右边那一竖条是第 1 排，对着敌人。普攻先打同一条线最前面的人；那条线没人，就去打离得最近的那条线；场上有人嘲讽，就先打嘲讽的。\n新档开局，退役枪兵和辨路追踪手默认站在第 3 排。可以把枪兵挪到最前面，指挥官站他旁边，追踪手躲在枪兵身后。\n〔配图请见 Steam 原文〕\n\n人多了以后\n\n• 上阵最多 10 人，主角也算一个；费用上限跟着事务所大厅升级往上涨，主角不占费用。\n• 两星、三星英雄在酒馆用传说招募券直接买，明码标价，不用抽。\n• 打输了先看谁先倒：前排一下就没了，先补坦度；前排还站着、敌人却打不死，就是输出不够。\n\n\n还有哪些英雄想听我讲、哪里看不明白，欢迎在评论区问我。欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+          "summary": "Demo 的进度不会继承到正式版！正式版 12 月 3 日上线，倒计时 16 天，会开启 Steam 社区市场。这篇不讲更新，讲讲 Demo 里已有的英雄和阵容：大招什么时候放、开大特写怎么看最完整、前期就能拿到的两位五星、光环罩哪几格，以及开局站位怎么挪。",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=schinese"
+        },
+        "tchinese": {
+          "title": "股東上工指南：大招什麼時候放，人有了怎麼擺",
+          "body": "重要的事情說三遍：Demo 的進度不會繼承到正式版！Demo 的進度不會繼承到正式版！Demo 的進度不會繼承到正式版！\n\n各位股東大人，我是倦貓。\n\n遊戲正式版將在 12 月 3 日上線！還有 16 天就可以玩到啦！！一想到遊戲很快就可以和你們見面就很激動哇！（注意：Demo 的進度不繼承到正式版！！！）\n\n正式版會開啟 Steam 社群市場～關於市場有什麼好的建議，歡迎在評論區留言。喜歡的可以加個願望單，上線就可以收到提示啦。\n\n這篇也不是更新，接著上次的離線收益，聊聊 Demo 裡已經有的英雄和陣容。常有人問：大招到底什麼時候放，人有了不知道怎麼擺。挑幾件說說。\n\n大招不用按，攢滿就放\n每個英雄都有一個招牌技，也就是大家說的大招。每回合結束大家都會攢士氣，攢夠了，輪到他行動時就自動放出來，不用手動點。\n五星英雄放大招還有專屬特寫。一倍速看得最完整：全場停一下，特寫睜眼、打出招式名，然後出手；開兩倍速是快版，沒有特寫，直接放招。\n〔配图请见 Steam 原文〕\n\n前期就能拿到的兩位五星\n\n• 凱歌天后：第一次打過第 22 關，保底給她的信物，再去酒館用傳說招募券招募。大招給同一條線智力最高的隊友加下一次招牌技的傷害，再打敵方一整條線。\n• 霜原狼王：主線過了第 30 關，試煉之地裡的首領挑戰就開放，第一次打贏直接入隊，不用信物也不用券。他開局就自帶士氣，大招還能給同一條線物攻最高的隊友加一大截士氣。\n\n〔配图请见 Steam 原文〕\n\n光環先看罩哪幾格\n在編隊頁點一下英雄，他的光環罩到哪幾格，棋盤上會亮出來；點開技能詳情的「光環」頁，也畫著範圍。幾個常見的：\n\n• 石環聖賢：同一排的隊友物理傷害更高。「同一排」是棋盤上那一豎條，所以物理輸出跟她站同一豎條。\n• 燈塔祭司：罩自己和上下左右相鄰的隊友，讓他們受到的治療更多。\n\n另外，聖騎士（主角預設就是）的職業特性會替上下左右的隊友分擔一部分傷害，脆的輸出可以貼著他站。\n〔配图请见 Steam 原文〕\n\n開局站位挪一下\n編隊頁最右邊那一豎條是第 1 排，對著敵人。普攻先打同一條線最前面的人；那條線沒人，就去打離得最近的那條線；場上有人嘲諷，就先打嘲諷的。\n新檔開局，退役槍兵和辨路追蹤手預設站在第 3 排。可以把槍兵挪到最前面，指揮官站他旁邊，追蹤手躲在槍兵身後。\n〔配图请见 Steam 原文〕\n\n人多了以後\n\n• 上陣最多 10 人，主角也算一個；費用上限跟著事務所大廳升級往上漲，主角不占費用。\n• 兩星、三星英雄在酒館用傳說招募券直接買，明碼標價，不用抽。\n• 打輸了先看誰先倒：前排一下就沒了，先補坦度；前排還站著、敵人卻打不死，就是輸出不夠。\n\n\n還有哪些英雄想聽我講、哪裡看不懂，歡迎在留言區問我。歡迎加入遊戲交流群：1079312948。\n\n如果覺得還不錯，也拜託幫忙加個願望清單。謝謝大家，這對一個遊戲真的很重要。\n\n免費試玩 Demo（https://store.steampowered.com/app/5257220/）｜將正式版加入願望清單（https://store.steampowered.com/app/4855890/）",
+          "summary": "Demo 的進度不會繼承到正式版！正式版 12 月 3 日上線，倒數 16 天，會開啟 Steam 社群市場。這篇不講更新，聊聊 Demo 裡已經有的英雄和陣容：大招什麼時候放、開大特寫怎麼看最完整、前期就能拿到的兩位五星、光環罩哪幾格，以及開局站位怎麼挪。",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=tchinese"
+        },
+        "english": {
+          "title": "Shareholder onboarding: when ultimates fire, and how to arrange your heroes",
+          "body": "Important enough to say three times: Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game!\n\nHi everyone, Juanmao here.\n\nThe full game launches on December 3! Just 16 days until you can play it!! Just thinking that the game will meet you all soon gets me so excited! (Note: Demo progress does NOT carry over to the full game!!!)\n\nThe Steam Community Market will open with the full game~ If you have any good suggestions about the Market, feel free to leave them in the comments. If you like it, add it to your wishlist and you'll get a heads-up the moment it's out.\n\nThis isn't an update either. Following up on last time's offline earnings, I want to talk about the heroes and lineups that are already in the Demo. People often ask when ultimates actually go off, and how to arrange their heroes once they have them. Here are a few things.\n\nNo button needed: ultimates fire once charged\nEvery hero has a Signature ability, which is what everyone calls their ultimate. At the end of each round, everyone builds up Morale. Once a hero has enough, the ultimate fires automatically on their turn. No need to click anything.\nFive-star heroes also get their own close-up when they fire their ultimate. At 1x speed you see the whole thing: the entire field pauses, the close-up opens its eyes, the move's name appears, and then the hero strikes. At 2x speed you get the quick version: no close-up, the move just goes off.\n〔配图请见 Steam 原文〕\n\nTwo five-star heroes you can get early\n\n• Triumph Diva: the first time you clear stage 22, her Token is guaranteed. Then recruit her at the Tavern with Legend Recruit Coupons. Her ultimate boosts the damage of the next Signature ability for the ally with the highest Intellect in her lane, then hits an entire enemy lane.\n• Frost-Plain Wolf King: once you clear stage 30 in the Campaign, the Boss Challenge in the Trial Grounds opens up. Beat him there for the first time and he joins you right away, no Token or Coupons needed. He starts the battle with Morale already built up, and his ultimate gives a big chunk of Morale to the ally with the highest Might in his lane.\n\n〔配图请见 Steam 原文〕\n\nFor auras, first check which tiles they cover\nOn the Formation page, click a hero and the board lights up the tiles their aura covers. Open the “Aura” tab in Skill Details and the range is drawn there too. A few common ones:\n\n• Stone-Circle Sage: allies in the same rank deal more physical damage. “Same rank” means that vertical strip on the board, so put your physical damage dealers in the same strip as her.\n• Lighthouse Priest: covers their own tile and the adjacent allies above, below, left and right, increasing the healing they receive.\n\nAlso, the Paladin's Class Trait (the protagonist is a Paladin by default) takes on part of the damage aimed at allies above, below, left and right of him, so fragile damage dealers can stand right next to him.\n〔配图请见 Steam 原文〕\n\nShift your starting positions a little\nOn the Formation page, the vertical strip on the far right is rank 1, facing the enemy. Basic attacks hit the front-most enemy in the same lane first; if that lane is empty, they go for the nearest lane; if anyone on the field has Taunt up, they hit the taunter first.\nOn a new save, the Veteran Lancer and the Trail Tracker start in rank 3 by default. You can move the Lancer to the very front, put the Commander next to him, and tuck the Tracker behind the Lancer.\n〔配图请见 Steam 原文〕\n\nOnce you have more heroes\n\n• You can deploy up to 10 heroes, and the protagonist counts as one. The cost cap rises as you upgrade the Agency Hall, and the protagonist doesn't take up any cost.\n• Two- and three-star heroes can be bought directly at the Tavern with Legend Recruit Coupons. Fixed prices, no pulls.\n• If you lose, first check who goes down first: if your front row drops right away, shore up your tankiness first; if the front row is still standing but the enemies won't die, you're short on damage.\n\n\nIf there are other heroes you'd like me to talk about, or anything that isn't clear, feel free to ask me in the comments. You're also welcome to join us on Discord（https://discord.gg/uEwdWz2h62）.\n\nIf you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.\n\nPlay the free Demo（https://store.steampowered.com/app/5257220/） | Wishlist the full game（https://store.steampowered.com/app/4855890/）",
+          "summary": "Demo progress won't carry over! Full game out Dec 3, 16 days to go, opening the Steam Community Market. Not an update: the Demo's heroes and lineups.",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=english"
+        },
+        "japanese": {
+          "title": "株主の着任ガイド：必殺技はいつ出る？英雄がそろったらどう並べる？",
+          "body": "大事なことなので3回言います：Demoの進行状況は製品版に引き継がれません！Demoの進行状況は製品版に引き継がれません！Demoの進行状況は製品版に引き継がれません！\n\nみなさん、こんにちは。倦猫（Juanmao）です。\n\n製品版は12月3日にリリース！あと16日で遊べます！！もうすぐゲームをみなさんに届けられると思うと、ワクワクが止まりません！（注意：Demoの進行状況は製品版に引き継がれません！！！）\n\n製品版では Steam コミュニティマーケットが開放されます～マーケットについていいアイデアがあれば、ぜひコメントで教えてください。気になった方はウィッシュリストに追加しておくと、リリースされたときにお知らせが届きます。\n\n今回もアップデートではありません。前回のオフライン収益の続きとして、Demoにすでにある英雄と編成の話をします。必殺技っていつ出るの？英雄がそろったけど、どう並べればいいか分からない、とよく聞かれるので、いくつか取り上げてみます。\n\n必殺技はボタン不要、たまれば自動で発動\nどの英雄にも看板技がひとつあり、みんなが「必殺技」と呼んでいるのがこれです。ラウンドが終わるたびに全員が士気をためていき、たまりきると、その英雄の行動順が来たときに自動で発動します。手動で押す必要はありません。\n五つ星の英雄は、必殺技を出すときに専用のカットインもあります。いちばん完全に見られるのは1倍速です。戦場全体が一瞬止まり、カットインで目を開き、技名が出てから攻撃します。2倍速だと短縮版になり、カットインなしでそのまま技を出します。\n〔配图请见 Steam 原文〕\n\n序盤で手に入る五つ星ふたり\n\n• 凱歌の歌姫：ステージ22を初めてクリアすると彼女の証が確定で手に入るので、酒場でレジェンド募集券を使って募集しましょう。必殺技は、同じレーンで知力が一番高い味方の次の看板技のダメージを上げてから、敵のレーンひとつをまるごと攻撃します。\n• 霜原の狼王：遠征でステージ30を越えると、試練の地のボス挑戦が開放されます。初めて勝てばそのまま加入し、証も券もいりません。戦闘開始時から士気を持っていて、必殺技では同じレーンで物攻が一番高い味方に士気を大きく上乗せします。\n\n〔配图请见 Steam 原文〕\n\nオーラはまず届くマスを確認\n編成画面で英雄をクリックすると、オーラが届くマスが盤面で光ります。スキル詳細の「オーラ」タブにも範囲が描かれています。よく見かけるものをいくつか：\n\n• 石環の聖賢：同じ列の味方の与える物理ダメージが上がります。「同じ列」は盤面の縦一列のことなので、物理アタッカーは彼女と同じ縦一列に置きましょう。\n• 灯台の司祭：自分と上下左右に隣接する味方をカバーし、受ける回復量を増やします。\n\nまた、聖騎士（主人公は最初からこれ）の職業特性は、上下左右の味方が受けるダメージの一部を肩代わりします。打たれ弱いアタッカーは彼のすぐそばに置けます。\n〔配图请见 Steam 原文〕\n\n開幕の配置を少し動かそう\n編成画面のいちばん右の縦一列が第1列で、敵と向き合っています。通常攻撃はまず同じレーンの一番前にいる相手を狙います。そのレーンに誰もいなければ一番近いレーンを、挑発している相手がいればその相手を先に攻撃します。\n新しいセーブデータで始めると、退役槍兵と辨路の追跡者は最初から第3列にいます。槍兵をいちばん前に出して、指揮官をその隣に、追跡者は槍兵の後ろに隠しておけます。\n〔配图请见 Steam 原文〕\n\n人数が増えてきたら\n\n• 出撃できるのは最大10人で、主人公もひとりに数えます。コスト上限は事務所ホールのレベルアップにつれて上がり、主人公はコストを使いません。\n• 二つ星・三つ星の英雄は、酒場でレジェンド募集券を使って直接買えます。値段は明示されていて、ガチャはありません。\n• 負けたら、まず誰が先に倒れたかを見ましょう。前列があっという間に倒れるなら、まず耐久を補強。前列は立っているのに敵を倒しきれないなら、火力不足です。\n\n\nほかにも説明してほしい英雄や、分かりにくいところがあれば、ぜひコメントで聞いてください。Discord（https://discord.gg/uEwdWz2h62）にもぜひ遊びに来てください。\n\nもし悪くないなと思ってもらえたら、ウィッシュリストに追加していただけるとうれしいです。みなさん、ありがとうございます。ゲームにとって、本当に大事なことなんです。\n\n無料体験版をプレイ（https://store.steampowered.com/app/5257220/） | 製品版をウィッシュリストに追加（https://store.steampowered.com/app/4855890/）",
+          "summary": "Demoの進行状況は製品版に引き継がれません！製品版は12月3日リリース、あと16日。Steam コミュニティマーケットが開放されます。今回はアップデートではなく、Demoにすでにある英雄と編成のお話です。必殺技のタイミングと演出の見方、序盤で手に入る五つ星ふたり、オーラが届くマス、開幕の配置を紹介します。",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=japanese"
+        },
+        "korean": {
+          "title": "주주님 근무 가이드: 궁극기는 언제 나가고, 영웅이 모이면 어떻게 배치할까",
+          "body": "중요해서 세 번 말할게요: 데모 진행 상황은 정식판으로 이어지지 않아요! 데모 진행 상황은 정식판으로 이어지지 않아요! 데모 진행 상황은 정식판으로 이어지지 않아요!\n\n안녕하세요, Juanmao입니다.\n\n정식판이 12월 3일에 출시돼요! 16일만 있으면 플레이할 수 있어요!! 게임이 곧 여러분을 만난다고 생각하니 너무 설레요! (주의: 데모 진행 상황은 정식판으로 이어지지 않아요!!!)\n\n정식판에서는 Steam 커뮤니티 장터가 열려요~ 장터에 대해 좋은 의견이 있으면 댓글로 남겨 주세요. 마음에 드신다면 찜 목록에 추가해 두세요. 출시되면 알림을 받을 수 있어요.\n\n이번 글도 업데이트가 아니라, 지난번 오프라인 수익에 이어 데모에 이미 있는 영웅과 편성 이야기를 해 보려는 글이에요. 궁극기는 도대체 언제 나가는지, 영웅이 모였는데 어떻게 배치해야 할지 모르겠다는 질문을 자주 받아서 몇 가지 골라 이야기해 볼게요.\n\n궁극기는 누를 필요 없이, 다 모이면 나가요\n모든 영웅에게는 대표 스킬이 하나씩 있는데, 다들 말하는 궁극기가 바로 이거예요. 매 라운드가 끝날 때마다 모두 사기를 모으고, 충분히 모이면 그 영웅의 차례에 자동으로 발동해요. 직접 누를 필요가 없어요.\n오성 영웅은 궁극기를 쓸 때 전용 클로즈업 연출도 있어요. 1배속에서 가장 온전하게 볼 수 있어요. 전장이 잠깐 멈추고, 클로즈업에서 눈을 뜨고, 기술 이름이 뜬 다음 공격해요. 2배속에서는 빠른 버전이라 클로즈업 없이 바로 기술을 써요.\n〔配图请见 Steam 原文〕\n\n초반에 얻을 수 있는 오성 영웅 둘\n\n• 개선가의 디바: 22스테이지를 처음 깨면 그녀의 신물이 확정으로 나오고, 주점에서 전설 모집권으로 모집하면 돼요. 궁극기는 같은 라인에서 지력이 가장 높은 아군의 다음 대표 스킬 피해를 올려 주고, 적 라인 하나를 통째로 공격해요.\n• 서리 평원 늑대왕: 원정에서 30스테이지를 넘기면 시련의 땅 보스 도전이 열리고, 처음 이기면 바로 합류해요. 신물도 모집권도 필요 없어요. 전투 시작부터 사기를 갖고 있고, 궁극기로 같은 라인에서 물리 공격이 가장 높은 아군에게 사기를 크게 채워 줘요.\n\n〔配图请见 Steam 原文〕\n\n오라는 먼저 닿는 칸부터 확인\n편성 화면에서 영웅을 클릭하면 오라가 닿는 칸이 판 위에 표시돼요. 스킬 상세의 \"오라\" 탭에도 범위가 그려져 있어요. 자주 보는 몇 가지:\n\n• 돌고리 성현: 같은 열에 있는 아군이 가하는 물리 피해가 올라가요. \"같은 열\"은 판에서 세로 한 줄을 말하니까, 물리 딜러는 그녀와 같은 세로줄에 세우세요.\n• 등대의 사제: 자신과 상하좌우로 붙어 있는 아군을 감싸서, 받는 치유를 늘려 줘요.\n\n그리고 성기사(주인공의 기본 직업)의 직업 특성은 상하좌우 아군이 받는 피해 일부를 대신 나눠 받아요. 약한 딜러는 그 바로 옆에 붙여 세워도 돼요.\n〔配图请见 Steam 原文〕\n\n시작 배치를 조금 옮겨 보세요\n편성 화면 맨 오른쪽 세로줄이 1열이고, 적과 마주 보고 있어요. 일반 공격은 먼저 같은 라인의 맨 앞 적을 노리고, 그 라인에 아무도 없으면 가장 가까운 라인을 공격해요. 도발 중인 적이 있으면 그 적부터 공격해요.\n새 세이브로 시작하면 퇴역 창병과 길 찾는 추적자가 기본으로 3열에 서 있어요. 창병을 맨 앞으로 옮기고, 지휘관은 그 옆에, 추적자는 창병 뒤에 숨겨 두면 돼요.\n〔配图请见 Steam 原文〕\n\n영웅이 많아지면\n\n• 출전은 최대 10명이고, 주인공도 한 명으로 쳐요. 코스트 상한은 사무소 홀을 업그레이드할수록 올라가고, 주인공은 코스트를 차지하지 않아요.\n• 2성·3성 영웅은 주점에서 전설 모집권으로 바로 살 수 있어요. 가격이 정해져 있어서 뽑기가 필요 없어요.\n• 졌다면 누가 먼저 쓰러졌는지부터 보세요. 전열이 순식간에 쓰러지면 탱킹부터 보강하고, 전열은 버티는데 적이 안 죽으면 화력이 부족한 거예요.\n\n\n또 어떤 영웅을 설명해 줬으면 하는지, 이해가 안 되는 부분은 없는지 댓글로 물어봐 주세요. Discord（https://discord.gg/uEwdWz2h62）에도 놀러 오세요.\n\n괜찮다고 느끼셨다면 찜 목록에도 추가해 주세요. 모두 감사합니다. 게임 하나에는 정말 중요한 일이에요.\n\n무료 데모 플레이（https://store.steampowered.com/app/5257220/） | 정식판 찜 목록에 추가（https://store.steampowered.com/app/4855890/）",
+          "summary": "데모 진행 상황은 정식판으로 이어지지 않아요! 정식판은 12월 3일 출시, 16일 남았고 Steam 커뮤니티 장터가 열려요. 이번엔 업데이트가 아니라 데모에 이미 있는 영웅과 편성 이야기예요. 궁극기 타이밍과 연출 보는 법, 초반에 얻는 오성 영웅 둘, 오라가 닿는 칸, 시작 배치를 정리했어요.",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=koreana"
+        },
+        "german": {
+          "title": "Leitfaden für Aktionäre: Wann Ultimates zünden, wie ihr Helden aufstellt",
+          "body": "So wichtig, dass ich es dreimal sage: Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen!\n\nHallo zusammen, hier ist Juanmao.\n\nDie Vollversion erscheint am 3. Dezember! Noch 16 Tage, dann könnt ihr sie spielen!! Bei dem Gedanken, dass das Spiel bald bei euch ist, bin ich total aufgeregt! (Achtung: Der Demo-Fortschritt wird nicht in die Vollversion übernommen!!!)\n\nMit der Vollversion öffnet der Steam-Community-Markt~ Wenn ihr gute Vorschläge zum Markt habt, schreibt sie gern in die Kommentare. Wenn euch das Spiel gefällt, setzt es auf eure Wunschliste, dann bekommt ihr zum Release eine Benachrichtigung.\n\nAuch das hier ist kein Update. Nach den Offline-Erträgen vom letzten Mal geht es diesmal um die Helden und Aufstellungen, die es in der Demo schon gibt. Oft werde ich gefragt, wann die Ultimates eigentlich ausgelöst werden und wie man seine Helden aufstellen soll, wenn man sie erst mal hat. Hier ein paar Punkte dazu.\n\nNichts drücken: Die Ultimate zündet, sobald sie geladen ist\nJeder Held hat eine Signaturfähigkeit – das, was alle seine Ultimate nennen. Am Ende jeder Runde sammeln alle Moral. Ist genug da, wird die Ultimate automatisch ausgelöst, sobald der Held am Zug ist. Ihr müsst nichts anklicken.\nFünf-Sterne-Helden haben bei ihrer Ultimate außerdem eine eigene Nahaufnahme. Bei 1-facher Geschwindigkeit seht ihr sie komplett: Das ganze Feld hält kurz an, in der Nahaufnahme öffnen sich die Augen, der Name der Technik erscheint, dann folgt der Angriff. Bei 2-facher Geschwindigkeit gibt es die Kurzfassung: keine Nahaufnahme, die Technik wird direkt ausgelöst.\n〔配图请见 Steam 原文〕\n\nZwei Fünf-Sterne-Helden, die ihr früh bekommt\n\n• Triumph-Diva: Wenn ihr Etappe 22 zum ersten Mal schafft, ist ihre Marke garantiert. Danach werbt ihr sie in der Taverne mit Legenden-Rekrutierungsgutscheinen an. Ihre Ultimate erhöht den Schaden der nächsten Signaturfähigkeit des Verbündeten mit dem höchsten Intellekt in ihrer Linie und trifft dann eine ganze feindliche Linie.\n• Frostebenen-Wolfskönig: Habt ihr im Feldzug Etappe 30 geschafft, öffnet sich im Prüfungsgelände die Bossherausforderung. Beim ersten Sieg schließt er sich euch direkt an – ganz ohne Marke oder Gutscheine. Er startet schon mit Moral in den Kampf, und seine Ultimate gibt dem Verbündeten mit der höchsten Macht in seiner Linie einen großen Schub Moral.\n\n〔配图请见 Steam 原文〕\n\nBei Auren zuerst schauen, welche Felder sie abdecken\nKlickt auf der Trupp-Seite einen Helden an, dann leuchten auf dem Brett die Felder auf, die seine Aura abdeckt. Auch im Reiter „Aura“ der Fähigkeitsdetails ist der Bereich eingezeichnet. Ein paar häufige Beispiele:\n\n• Steinkreis-Weiser: Verbündete in derselben Reihe verursachen mehr physischen Schaden. „Dieselbe Reihe“ ist der senkrechte Streifen auf dem Brett, also stellt eure physischen Schadensverursacher in denselben Streifen wie sie.\n• Leuchtturmpriester: deckt das eigene Feld und die direkt angrenzenden Verbündeten oben, unten, links und rechts ab und erhöht die Heilung, die sie erhalten.\n\nAußerdem übernimmt der Paladin (das ist die Hauptfigur standardmäßig) mit seinem Klassenmerkmal einen Teil des Schadens, den die Verbündeten oben, unten, links und rechts von ihm abbekommen. Empfindliche Schadensverursacher können sich also direkt neben ihn stellen.\n〔配图请见 Steam 原文〕\n\nDie Startaufstellung ein wenig umstellen\nAuf der Trupp-Seite ist der senkrechte Streifen ganz rechts Reihe 1, den Feinden zugewandt. Normalangriffe treffen zuerst den Vordersten in derselben Linie; ist die Linie leer, geht es auf die nächstgelegene Linie; hat jemand auf dem Feld Spott aktiv, wird zuerst er angegriffen.\nIn einem neuen Spielstand stehen der Veteranen-Lanzer und der Pfadspurer standardmäßig in Reihe 3. Ihr könnt den Lanzer ganz nach vorne ziehen, den Kommandanten neben ihn stellen und den Spurer hinter dem Lanzer verstecken.\n〔配图请见 Steam 原文〕\n\nWenn ihr mehr Helden habt\n\n• Bis zu 10 Helden können in den Einsatz, die Hauptfigur zählt mit. Das Kostenlimit steigt mit dem Ausbau der Agenturhalle, und die Hauptfigur verbraucht keine Kosten.\n• Zwei- und Drei-Sterne-Helden kauft ihr in der Taverne direkt mit Legenden-Rekrutierungsgutscheinen – feste Preise, kein Ziehen.\n• Wenn ihr verliert, schaut zuerst, wer zuerst fällt: Kippt die Vorderreihe sofort um, braucht ihr zuerst mehr Standfestigkeit; steht die Vorderreihe noch, aber die Feinde sterben nicht, fehlt es an Schaden.\n\n\nWelche Helden soll ich noch erklären, und was ist euch unklar? Fragt mich gern in den Kommentaren. Kommt auch gern auf unseren Discord（https://discord.gg/uEwdWz2h62）.\n\nWenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.\n\nKostenlose Demo spielen（https://store.steampowered.com/app/5257220/） | Vollversion auf die Wunschliste setzen（https://store.steampowered.com/app/4855890/）",
+          "summary": "Demo-Fortschritt wird nicht übernommen! Vollversion am 3. Dezember, noch 16 Tage, dann öffnet der Steam-Community-Markt. Kein Update: Helden und Aufstellungen.",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=german"
+        },
+        "french": {
+          "title": "Guide de l'actionnaire : quand partent les ultimes, comment placer vos héros",
+          "body": "C'est important, alors je le dis trois fois : la progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet !\n\nBonjour à tous, ici Juanmao.\n\nLe jeu complet sort le 3 décembre ! Plus que 16 jours avant de pouvoir y jouer !! Rien que de penser que le jeu va bientôt vous rencontrer, c'est trop excitant ! (Attention : la progression de la démo ne sera pas reprise dans le jeu complet !!!)\n\nLe Marché de la communauté Steam ouvrira avec le jeu complet~ Si vous avez de bonnes idées sur le Marché, laissez-les en commentaire. Si le jeu vous tente, ajoutez-le à votre liste de souhaits : vous serez prévenus dès sa sortie.\n\nCeci n'est pas non plus une mise à jour : après les gains hors ligne de la dernière fois, je voudrais parler des héros et des compositions qui existent déjà dans la démo. On me demande souvent quand les ultimes se déclenchent vraiment, et comment placer ses héros une fois qu'on les a. Voici quelques points.\n\nPas besoin d'appuyer : l'ultime part dès qu'il est chargé\nChaque héros possède une Spécialité, ce que tout le monde appelle son ultime. À la fin de chaque tour, tout le monde accumule du Moral ; une fois qu'il y en a assez, l'ultime se déclenche automatiquement quand vient le tour du héros. Pas besoin de cliquer.\nLes héros cinq étoiles ont en plus un gros plan dédié quand ils lancent leur ultime. C'est en vitesse x1 qu'on le voit en entier : tout le terrain se fige un instant, le gros plan ouvre les yeux, le nom de la technique s'affiche, puis l'attaque part. En vitesse x2, c'est la version rapide : pas de gros plan, la technique part directement.\n〔配图请见 Steam 原文〕\n\nDeux héros cinq étoiles à obtenir tôt\n\n• Diva triomphale : la première fois que vous passez l'étape 22, son Jeton est garanti ; recrutez-la ensuite à la Taverne avec des Bons de recrutement légendaire. Son ultime augmente les dégâts de la prochaine Spécialité de l'allié ayant la plus haute Intelligence sur sa ligne, puis frappe toute une ligne ennemie.\n• Roi-loup de la plaine gelée : une fois l'étape 30 de la Campagne passée, le Défi de boss des Terres des épreuves s'ouvre. Battez-le une première fois et il vous rejoint directement, sans Jeton ni Bons. Il commence le combat avec du Moral, et son ultime donne une grosse dose de Moral à l'allié ayant la plus haute Puissance sur sa ligne.\n\n〔配图请见 Steam 原文〕\n\nPour les auras, regardez d'abord les cases couvertes\nSur la page Équipe, cliquez sur un héros : les cases couvertes par son aura s'allument sur le plateau. Dans l'onglet « Aura » des détails de compétence, la zone est aussi dessinée. Quelques exemples courants :\n\n• Sage du cercle de pierre : les alliés de la même rangée infligent plus de dégâts physiques. « La même rangée », c'est la bande verticale sur le plateau : placez donc vos attaquants physiques dans la même bande qu'elle.\n• Prêtre du phare : couvre sa propre case et les alliés adjacents en haut, en bas, à gauche et à droite, et augmente les soins qu'ils reçoivent.\n\nPar ailleurs, grâce à son Trait de classe, le Paladin (la classe par défaut du protagoniste) encaisse une partie des dégâts des alliés situés en haut, en bas, à gauche et à droite : vos attaquants fragiles peuvent se coller à lui.\n〔配图请见 Steam 原文〕\n\nDéplacez un peu votre placement de départ\nSur la page Équipe, la bande verticale tout à droite est la rangée 1, face aux ennemis. Les attaques de base visent d'abord l'ennemi le plus en avant sur la même ligne ; si cette ligne est vide, elles visent la ligne la plus proche ; si quelqu'un a Provocation sur le terrain, il est frappé en premier.\nSur une nouvelle sauvegarde, le Lancier vétéran et le Pisteur des sentiers sont placés par défaut en rangée 3. Vous pouvez avancer le Lancier tout devant, placer le Commandant à côté de lui et cacher le Pisteur derrière le Lancier.\n〔配图请见 Steam 原文〕\n\nQuand vous avez plus de héros\n\n• Jusqu'à 10 héros peuvent être déployés, protagoniste compris. Le plafond de coût augmente avec les améliorations du Grand hall de l'agence, et le protagoniste ne coûte rien.\n• Les héros deux et trois étoiles s'achètent directement à la Taverne avec des Bons de recrutement légendaire : prix affichés, pas de tirage.\n• Si vous perdez, regardez d'abord qui tombe en premier : si vos héros à l'avant tombent d'un coup, renforcez d'abord la résistance ; s'ils tiennent mais que les ennemis ne meurent pas, c'est que vous manquez de dégâts.\n\n\nQuels autres héros aimeriez-vous que je vous présente, et qu'est-ce qui n'est pas clair ? Posez-moi vos questions en commentaire. Vous pouvez aussi nous rejoindre sur Discord（https://discord.gg/uEwdWz2h62）.\n\nSi le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.\n\nJouer à la démo gratuite（https://store.steampowered.com/app/5257220/） | Ajouter le jeu complet à votre liste de souhaits（https://store.steampowered.com/app/4855890/）",
+          "summary": "La progression de la démo n'est pas reprise ! Jeu complet le 3 décembre, J-16, le Marché de la communauté Steam ouvre. Pas de mise à jour : héros et compos.",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=french"
+        },
+        "spanish": {
+          "title": "Guía del accionista: cuándo sale la definitiva y cómo colocar a tus héroes",
+          "body": "Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo!\n\n¡Hola a todos! Soy Juanmao.\n\n¡El juego completo sale el 3 de diciembre! ¡¡Quedan 16 días para poder jugarlo!! ¡Solo de pensar que muy pronto el juego llegará a vosotros me emociono muchísimo! (Atención: ¡¡¡el progreso de la demo no pasará al juego completo!!!)\n\nCon el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes buenas sugerencias sobre el Mercado, déjalas en los comentarios. Si te gusta, añádelo a tu lista de deseados y te avisarán en cuanto salga.\n\nEsto tampoco es una actualización: siguiendo con las ganancias sin conexión de la última vez, quiero hablar de los héroes y las formaciones que ya tiene la demo. Mucha gente me pregunta cuándo sale exactamente la definitiva y cómo colocar a los héroes una vez que los tiene. Aquí van algunas cosas.\n\nLa definitiva no se pulsa: sale sola al cargarse\nCada héroe tiene una Habilidad distintiva, que es lo que todos llaman su definitiva. Al final de cada ronda, todos acumulan Moral; cuando un héroe tiene suficiente, la definitiva sale sola en su turno. No hace falta pulsar nada.\nLos héroes de cinco estrellas tienen además un primer plano exclusivo al lanzar su definitiva. A velocidad x1 se ve completo: todo el campo se detiene un momento, el primer plano abre los ojos, aparece el nombre de la técnica y luego ataca. A velocidad x2 es la versión rápida: sin primer plano, la técnica sale directamente.\n〔配图请见 Steam 原文〕\n\nDos héroes de cinco estrellas que puedes conseguir pronto\n\n• Diva triunfal: la primera vez que superas la etapa 22, tienes garantizada su Ficha; luego recluta a la Diva en la Taberna con Cupones de reclutamiento legendario. Su definitiva aumenta el daño de la próxima Habilidad distintiva del aliado con más Intelecto de su carril y después golpea un carril enemigo entero.\n• Rey lobo de la llanura helada: al superar la etapa 30 de la Campaña se abre el Desafío de jefe en las Tierras de pruebas. Si le ganas por primera vez, se une directamente, sin Ficha ni Cupones. Empieza el combate con Moral ya acumulada, y su definitiva da un buen empujón de Moral al aliado con más Poder de su carril.\n\n〔配图请见 Steam 原文〕\n\nCon las auras, mira primero qué casillas cubren\nEn la página Escuadra, pulsa un héroe y en el tablero se iluminarán las casillas que cubre su aura; en la pestaña «Aura» de los detalles de habilidad también aparece dibujado el alcance. Algunos ejemplos comunes:\n\n• Sabio del círculo de piedra: los aliados de la misma fila infligen más daño físico. «La misma fila» es la franja vertical del tablero, así que pon a tus atacantes físicos en la misma franja que ella.\n• Sacerdote del faro: cubre su propia casilla y a los aliados adyacentes de arriba, abajo, izquierda y derecha, y aumenta la curación que reciben.\n\nAdemás, con su Rasgo de clase, el Paladín (la clase por defecto del protagonista) asume parte del daño de los aliados de arriba, abajo, izquierda y derecha, así que los atacantes frágiles pueden pegarse a él.\n〔配图请见 Steam 原文〕\n\nMueve un poco la colocación inicial\nEn la página Escuadra, la franja vertical de más a la derecha es la fila 1, la que mira a los enemigos. El ataque básico golpea primero al que está más adelante en el mismo carril; si ese carril está vacío, va al carril más cercano; si alguien en el campo tiene Provocación, golpea primero a ese.\nEn una partida nueva, el Lancero veterano y el Rastreador de senderos empiezan por defecto en la fila 3. Puedes mover al Lancero al frente, poner al Comandante a su lado y esconder al Rastreador detrás del Lancero.\n〔配图请见 Steam 原文〕\n\nCuando tengas más héroes\n\n• Se pueden desplegar hasta 10 héroes, y el protagonista cuenta como uno. El costo máximo sube al mejorar el Salón de la agencia, y el protagonista no ocupa costo.\n• Los héroes de dos y tres estrellas se compran directamente en la Taberna con Cupones de reclutamiento legendario: precio fijo, sin tiradas.\n• Si pierdes, mira primero quién cae antes: si tu frente cae al instante, refuerza primero la resistencia; si el frente aguanta pero los enemigos no mueren, te falta daño.\n\n\nSi hay otros héroes que quieras que te explique o algo que no se entienda, pregúntame en los comentarios. También puedes unirte a nuestro Discord（https://discord.gg/uEwdWz2h62）.\n\nSi te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.\n\nJuega la demo gratis（https://store.steampowered.com/app/5257220/） | Añade el juego completo a tu lista de deseados（https://store.steampowered.com/app/4855890/）",
+          "summary": "¡El progreso de la demo no se conserva! Sale el 3 de diciembre (16 días) y abre el Mercado de la Comunidad de Steam. No es actualización: héroes y formaciones.",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=spanish"
+        },
+        "brazilian": {
+          "title": "Guia de início do acionista: quando sai a ultimate e como posicionar heróis",
+          "body": "É importante, então vou falar três vezes: o progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo!\n\nOlá, pessoal! Aqui é o Juanmao.\n\nO jogo completo chega em 3 de dezembro! Faltam 16 dias para vocês poderem jogar!! Só de pensar que logo o jogo vai chegar até vocês, dá uma empolgação enorme! (Atenção: o progresso da demo não vai passar para o jogo completo!!!)\n\nCom o jogo completo, o Mercado da Comunidade Steam vai abrir~ Se tiver alguma boa sugestão sobre o Mercado, deixa nos comentários. Se curtiu, adicione à sua lista de desejos e você vai receber um aviso quando ele sair.\n\nIsto também não é uma atualização: continuando dos ganhos offline da última vez, quero falar dos heróis e das formações que a demo já tem. Muita gente me pergunta quando a ultimate sai de verdade e como posicionar os heróis depois de consegui-los. Separei algumas coisas.\n\nNão precisa apertar: a ultimate sai quando carrega\nTodo herói tem uma Habilidade exclusiva, que é o que todo mundo chama de ultimate. No fim de cada rodada, todos acumulam Moral; quando um herói junta o suficiente, a ultimate sai sozinha na vez dele. Não precisa clicar.\nHeróis de cinco estrelas ainda têm um close exclusivo ao soltar a ultimate. Na velocidade 1x dá para ver tudo: o campo inteiro para por um instante, o close abre os olhos, aparece o nome do golpe e aí vem o ataque. Na velocidade 2x é a versão rápida: sem close, o golpe sai direto.\n〔配图请见 Steam 原文〕\n\nDois heróis de cinco estrelas que dá para pegar cedo\n\n• Diva Triunfal: na primeira vez que você passa da fase 22, a Ficha dela é garantida; depois é só recrutá-la na Taverna com Cupons de Recrutamento Lendário. A ultimate dela aumenta o dano da próxima Habilidade exclusiva do aliado com mais Intelecto na mesma linha e depois atinge uma linha inimiga inteira.\n• Rei-Lobo da Planície Gélida: depois de passar da fase 30 da Campanha, abre o Combate de chefe nas Terras de Desafios. Vencendo pela primeira vez, ele entra direto na equipe, sem Ficha nem Cupons. Ele já começa a batalha com Moral, e a ultimate dele dá um bom tanto de Moral ao aliado com mais Poder na mesma linha.\n\n〔配图请见 Steam 原文〕\n\nNas auras, veja primeiro quais casas elas cobrem\nNa página Equipe, clique num herói e as casas que a aura dele cobre acendem no tabuleiro; na aba \"Auras\" dos detalhes da habilidade o alcance também aparece desenhado. Alguns exemplos comuns:\n\n• Sábio do Círculo de Pedra: os aliados na mesma fileira causam mais dano físico. \"Mesma fileira\" é a faixa vertical do tabuleiro, então coloque seus atacantes físicos na mesma faixa que ela.\n• Sacerdote do Farol: cobre a própria casa e os aliados vizinhos de cima, de baixo, da esquerda e da direita, e aumenta a cura que eles recebem.\n\nAlém disso, com o Traço de classe, o Paladino (a classe padrão do protagonista) absorve parte do dano dos aliados de cima, de baixo, da esquerda e da direita, então atacantes frágeis podem ficar colados nele.\n〔配图请见 Steam 原文〕\n\nMexa um pouco no posicionamento inicial\nNa página Equipe, a faixa vertical mais à direita é a fileira 1, de frente para os inimigos. O ataque básico acerta primeiro quem está mais à frente na mesma linha; se essa linha estiver vazia, vai para a linha mais próxima; se alguém em campo estiver com Provocação, ataca esse primeiro.\nNum save novo, o Lanceiro Veterano e o Rastreador de Trilhas começam por padrão na fileira 3. Dá para levar o Lanceiro para a frente, colocar o Comandante do lado dele e esconder o Rastreador atrás do Lanceiro.\n〔配图请见 Steam 原文〕\n\nQuando tiver mais heróis\n\n• Dá para escalar até 10 heróis, e o protagonista conta como um. O teto de custo sobe conforme você melhora o Salão da Agência, e o protagonista não ocupa custo.\n• Heróis de duas e três estrelas são comprados direto na Taverna com Cupons de Recrutamento Lendário: preço fixo, sem sorteio.\n• Se perder, veja primeiro quem cai antes: se a frente cai na hora, reforce primeiro a resistência; se a frente aguenta mas os inimigos não morrem, falta dano.\n\n\nSe tem algum outro herói que você quer que eu explique ou algo que não ficou claro, pode perguntar nos comentários. Também dá para entrar no nosso Discord（https://discord.gg/uEwdWz2h62）.\n\nSe você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.\n\nJogue a demo gratuita（https://store.steampowered.com/app/5257220/） | Adicione o jogo completo à sua lista de desejos（https://store.steampowered.com/app/4855890/）",
+          "summary": "O progresso da demo não é mantido! Chega em 3 de dezembro, faltam 16 dias, e abre o Mercado da Comunidade Steam. Não é atualização: heróis e formações.",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=brazilian"
+        },
+        "russian": {
+          "title": "Памятка новому акционеру: когда срабатывает ульта и как расставить героев",
+          "body": "Это важно, поэтому повторю трижды: прогресс из демо не перенесётся в полную версию! Прогресс из демо не перенесётся в полную версию! Прогресс из демо не перенесётся в полную версию!\n\nВсем привет, это Juanmao.\n\nПолная версия выходит 3 декабря! Осталось 16 дней, и в неё можно будет играть!! Как подумаю, что игра совсем скоро встретится с вами, — прямо дух захватывает! (Внимание: прогресс из демо не перенесётся в полную версию!!!)\n\nВ полной версии откроется Торговая площадка Steam~ Если есть хорошие идеи насчёт рынка — пишите в комментариях. Если игра вам нравится, добавьте её в список желаемого — тогда вы получите уведомление, как только она выйдет.\n\nЭто тоже не обновление — продолжая тему офлайн-дохода из прошлого раза, хочу рассказать о героях и составах, которые уже есть в демо. Меня часто спрашивают: когда вообще срабатывает ульта и как расставить героев, когда они уже есть. Расскажу о нескольких вещах.\n\nУльту не нужно нажимать — она срабатывает, когда накопится\nУ каждого героя есть фирменный навык — то, что все называют ультой. В конце каждого раунда все копят боевой дух; когда его хватает, ульта срабатывает автоматически в ход героя. Нажимать ничего не нужно.\nУ пятизвёздочных героев при ульте есть ещё и собственный крупный план. Полностью его видно на скорости x1: всё поле на миг замирает, на крупном плане открываются глаза, появляется название приёма, и только потом удар. На скорости x2 — быстрая версия: без крупного плана, приём применяется сразу.\n〔配图请见 Steam 原文〕\n\nДва пятизвёздочных героя, которых можно получить рано\n\n• Дива триумфа: когда вы впервые пройдёте 22-й этап, её жетон выпадет гарантированно; затем наймите её в Таверне за легендарные пропуска найма. Её ульта усиливает урон следующего фирменного навыка союзника с самым высоким интеллектом на её линии, а затем бьёт по целой вражеской линии.\n• Король волков морозной равнины: после 30-го этапа похода в Землях испытаний открывается испытание босса. Победите его в первый раз — и он сразу вступит в отряд, без жетона и пропусков. Он начинает бой уже с запасом боевого духа, а его ульта даёт союзнику с самой высокой мощью на его линии большую порцию боевого духа.\n\n〔配图请见 Steam 原文〕\n\nС аурами сначала смотрите, какие клетки они покрывают\nНа странице «Отряд» нажмите на героя — на поле подсветятся клетки, которые покрывает его аура; во вкладке «Аура» в деталях навыка зона тоже нарисована. Несколько частых примеров:\n\n• Мудрец каменного круга: союзники в том же ряду наносят больше физического урона. «Тот же ряд» — это вертикальная полоса на поле, так что ставьте бойцов с физическим уроном в ту же полосу, что и она.\n• Жрец маяка: покрывает свою клетку и соседних союзников сверху, снизу, слева и справа, увеличивая получаемое ими лечение.\n\nКроме того, благодаря черте класса Паладин (главный герой по умолчанию именно он) берёт на себя часть урона союзников сверху, снизу, слева и справа, так что хрупких бойцов можно ставить вплотную к нему.\n〔配图请见 Steam 原文〕\n\nНемного подвиньте стартовую расстановку\nНа странице «Отряд» крайняя правая вертикальная полоса — это 1-й ряд, он смотрит на врагов. Обычная атака сначала бьёт самого переднего на той же линии; если на этой линии никого нет — ближайшую линию; если кто-то на поле применил провокацию — сначала его.\nВ новом сохранении Ветеран-копейщик и Следопыт троп по умолчанию стоят в 3-м ряду. Можно выдвинуть копейщика в самый первый ряд, поставить рядом с ним командира, а следопыта спрятать за копейщиком.\n〔配图请见 Steam 原文〕\n\nКогда героев станет больше\n\n• В отряде может быть до 10 героев, главный герой тоже считается. Предел цены растёт по мере улучшения Зала агентства, а главный герой цену не занимает.\n• Двух- и трёхзвёздочных героев можно купить прямо в Таверне за легендарные пропуска найма: цена фиксированная, никаких круток.\n• Проиграли — сначала посмотрите, кто падает первым: если передний ряд сносят сразу, сначала добавьте живучести; если передний ряд стоит, а враги не умирают, значит, не хватает урона.\n\n\nЕсли хотите, чтобы я рассказал о других героях, или что-то непонятно — спрашивайте в комментариях. Заходите и в наш Discord（https://discord.gg/uEwdWz2h62）.\n\nЕсли игра вам понравилась, пожалуйста, добавьте её в список желаемого. Спасибо всем — для игры это правда очень важно.\n\nИграть в бесплатную демоверсию（https://store.steampowered.com/app/5257220/） | Добавить полную версию в список желаемого（https://store.steampowered.com/app/4855890/）",
+          "summary": "Прогресс из демо не перенесётся! Полная версия 3 декабря, осталось 16 дней, откроется Торговая площадка Steam. Не обновление, а рассказ о героях и составах в демо.",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=russian"
+        }
+      },
+      "files": [
+        {
+          "name": "简体中文 · 段落1 · 实机配图",
+          "url": "assets/steam-696529526775088431-schinese-image_1.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/schinese/news1115_1_schinese.jpg",
+          "language": "schinese",
+          "paragraph": "IMAGE_1",
+          "sha256": "8aac31d058483b311947558e58c8f11405bdaeb20443d2da76b2f84adc3a80b5"
+        },
+        {
+          "name": "简体中文 · 段落2 · 实机配图",
+          "url": "assets/steam-696529526775088431-schinese-image_2.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/schinese/news1115_2_schinese.jpg",
+          "language": "schinese",
+          "paragraph": "IMAGE_2",
+          "sha256": "251d881d13cae6e7124188bcafdf2018378a973e074fec115e7a36a13c11e793"
+        },
+        {
+          "name": "简体中文 · 段落3 · 实机配图",
+          "url": "assets/steam-696529526775088431-schinese-image_3.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/schinese/news1115_3_schinese.jpg",
+          "language": "schinese",
+          "paragraph": "IMAGE_3",
+          "sha256": "4e20fe9e39511ad37548b8b18e3e90f7d9d6fb2665792281d2a27a4ad7b7b35d"
+        },
+        {
+          "name": "简体中文 · 段落4 · 实机配图",
+          "url": "assets/steam-696529526775088431-schinese-image_4.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/schinese/news1115_4_schinese.jpg",
+          "language": "schinese",
+          "paragraph": "IMAGE_4",
+          "sha256": "2017fce63b6d750018189ddc17550f2617faad337824773d3727ec656b378a16"
+        },
+        {
+          "name": "繁體中文 · 段落1 · 实机配图",
+          "url": "assets/steam-696529526775088431-tchinese-image_1.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/tchinese/news1115_1_tchinese.jpg",
+          "language": "tchinese",
+          "paragraph": "IMAGE_1",
+          "sha256": "1852b6a648faf7a6faf959ca6587a7ab3db623ef6e5171094536aa35219c62b4"
+        },
+        {
+          "name": "繁體中文 · 段落2 · 实机配图",
+          "url": "assets/steam-696529526775088431-tchinese-image_2.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/tchinese/news1115_2_tchinese.jpg",
+          "language": "tchinese",
+          "paragraph": "IMAGE_2",
+          "sha256": "1b17e316667e271ba7412a1f0283a86a4b6cc982fa06597a8cc1efb24591d699"
+        },
+        {
+          "name": "繁體中文 · 段落3 · 实机配图",
+          "url": "assets/steam-696529526775088431-tchinese-image_3.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/tchinese/news1115_3_tchinese.jpg",
+          "language": "tchinese",
+          "paragraph": "IMAGE_3",
+          "sha256": "5d84119fefeb7f64a20b5e70a76dbae9ee7f0d673ee98ee40e0cb0611a246242"
+        },
+        {
+          "name": "繁體中文 · 段落4 · 实机配图",
+          "url": "assets/steam-696529526775088431-tchinese-image_4.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/tchinese/news1115_4_tchinese.jpg",
+          "language": "tchinese",
+          "paragraph": "IMAGE_4",
+          "sha256": "e7a23f9bc8c0fb144277c4cabdc6a69f0dd9ae066608e509cb331ced4189fffb"
+        },
+        {
+          "name": "English · 段落1 · 实机配图",
+          "url": "assets/steam-696529526775088431-english-image_1.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/english/news1115_1_english.jpg",
+          "language": "english",
+          "paragraph": "IMAGE_1",
+          "sha256": "32f6d9a6fe87433ad38fc0e8b1a5680f665076d4c6bc2a8a43f2ad31d634f957"
+        },
+        {
+          "name": "English · 段落2 · 实机配图",
+          "url": "assets/steam-696529526775088431-english-image_2.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/english/news1115_2_english.jpg",
+          "language": "english",
+          "paragraph": "IMAGE_2",
+          "sha256": "aefe52ffd6590e4de48c73f587392dc86445b95b6bb627812b70ee0ca6e9de3f"
+        },
+        {
+          "name": "English · 段落3 · 实机配图",
+          "url": "assets/steam-696529526775088431-english-image_3.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/english/news1115_3_english.jpg",
+          "language": "english",
+          "paragraph": "IMAGE_3",
+          "sha256": "a95f4280bfcb4c14aed33dab5fdecdecec9f0ea5a7f96d84ea357166018986de"
+        },
+        {
+          "name": "English · 段落4 · 实机配图",
+          "url": "assets/steam-696529526775088431-english-image_4.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/english/news1115_4_english.jpg",
+          "language": "english",
+          "paragraph": "IMAGE_4",
+          "sha256": "663e7f831bd71f7ec688d1269d1dfbbad39d2b0525649dd616a5ac0ae795d256"
+        },
+        {
+          "name": "日本語 · 段落1 · 实机配图",
+          "url": "assets/steam-696529526775088431-japanese-image_1.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/japanese/news1115_1_japanese.jpg",
+          "language": "japanese",
+          "paragraph": "IMAGE_1",
+          "sha256": "5c668b61db10d4b1c1ad0d4fe0e624ee809cc09b1806aefb0a47e5e993c6f153"
+        },
+        {
+          "name": "日本語 · 段落2 · 实机配图",
+          "url": "assets/steam-696529526775088431-japanese-image_2.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/japanese/news1115_2_japanese.jpg",
+          "language": "japanese",
+          "paragraph": "IMAGE_2",
+          "sha256": "0ce2ac7e9a5b2c2cc02d6fbce0ac4abcf2602879a3c11eb9bbd452a41050933f"
+        },
+        {
+          "name": "日本語 · 段落3 · 实机配图",
+          "url": "assets/steam-696529526775088431-japanese-image_3.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/japanese/news1115_3_japanese.jpg",
+          "language": "japanese",
+          "paragraph": "IMAGE_3",
+          "sha256": "9382db6c33f69870bf8af695b3eae9ef17224ca70329e19f2373dfe4295c980d"
+        },
+        {
+          "name": "日本語 · 段落4 · 实机配图",
+          "url": "assets/steam-696529526775088431-japanese-image_4.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/japanese/news1115_4_japanese.jpg",
+          "language": "japanese",
+          "paragraph": "IMAGE_4",
+          "sha256": "f5e51da0ce889f136786ba1276cc6376d26c20da9937e3a3761de4ff68f09e9f"
+        },
+        {
+          "name": "한국어 · 段落1 · 实机配图",
+          "url": "assets/steam-696529526775088431-korean-image_1.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/korean/news1115_1_korean.jpg",
+          "language": "korean",
+          "paragraph": "IMAGE_1",
+          "sha256": "0f21cfbd23507102213b5e6589c515a899f9b7b6b7fc1a73e7e6a1c28f350f95"
+        },
+        {
+          "name": "한국어 · 段落2 · 实机配图",
+          "url": "assets/steam-696529526775088431-korean-image_2.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/korean/news1115_2_korean.jpg",
+          "language": "korean",
+          "paragraph": "IMAGE_2",
+          "sha256": "46347b2abf6ae88e0e29f826e476ecf33eca10f476bcd6ee06e2159383570f97"
+        },
+        {
+          "name": "한국어 · 段落3 · 实机配图",
+          "url": "assets/steam-696529526775088431-korean-image_3.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/korean/news1115_3_korean.jpg",
+          "language": "korean",
+          "paragraph": "IMAGE_3",
+          "sha256": "22017b8b8393879a8b5a877980859852f4953a0fe32c017818a3dafe0d166c1e"
+        },
+        {
+          "name": "한국어 · 段落4 · 实机配图",
+          "url": "assets/steam-696529526775088431-korean-image_4.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/korean/news1115_4_korean.jpg",
+          "language": "korean",
+          "paragraph": "IMAGE_4",
+          "sha256": "79f9ad50d82896f4dfd1a191ba65b6b27dbe9f9fce68bbf6aa9fc05ee228aad1"
+        },
+        {
+          "name": "Deutsch · 段落1 · 实机配图",
+          "url": "assets/steam-696529526775088431-german-image_1.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/german/news1115_1_german.jpg",
+          "language": "german",
+          "paragraph": "IMAGE_1",
+          "sha256": "49f68a6e91f2c602f2c91272aa6ffcca63e2b978fc4172871682c1b113bd4a36"
+        },
+        {
+          "name": "Deutsch · 段落2 · 实机配图",
+          "url": "assets/steam-696529526775088431-german-image_2.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/german/news1115_2_german.jpg",
+          "language": "german",
+          "paragraph": "IMAGE_2",
+          "sha256": "a23042619b7517241104ff1a9b4776b5dce018bccb25e5a45d23051aea78c0af"
+        },
+        {
+          "name": "Deutsch · 段落3 · 实机配图",
+          "url": "assets/steam-696529526775088431-german-image_3.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/german/news1115_3_german.jpg",
+          "language": "german",
+          "paragraph": "IMAGE_3",
+          "sha256": "020373e861742c84e4e087a0e9b47707efcaba7e31fa112982aa4db46a08993b"
+        },
+        {
+          "name": "Deutsch · 段落4 · 实机配图",
+          "url": "assets/steam-696529526775088431-german-image_4.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/german/news1115_4_german.jpg",
+          "language": "german",
+          "paragraph": "IMAGE_4",
+          "sha256": "8054e74c7b85c47df410635a64c36dfa90e7082fb0af4c8fe1ff44e957786a67"
+        },
+        {
+          "name": "Français · 段落1 · 实机配图",
+          "url": "assets/steam-696529526775088431-french-image_1.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/french/news1115_1_french.jpg",
+          "language": "french",
+          "paragraph": "IMAGE_1",
+          "sha256": "f0d9efb6ee79450b79c53f375d130d2fa0ae42ec152712a380f0eb03b9de5725"
+        },
+        {
+          "name": "Français · 段落2 · 实机配图",
+          "url": "assets/steam-696529526775088431-french-image_2.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/french/news1115_2_french.jpg",
+          "language": "french",
+          "paragraph": "IMAGE_2",
+          "sha256": "633a0167e1c39fe558430a9dc76ec510783dfe26b9bb0addcedc688440c60187"
+        },
+        {
+          "name": "Français · 段落3 · 实机配图",
+          "url": "assets/steam-696529526775088431-french-image_3.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/french/news1115_3_french.jpg",
+          "language": "french",
+          "paragraph": "IMAGE_3",
+          "sha256": "3b84634cff6e2d1fbe372cc8cf3d4da39db561eff9de700c0da958a6200da5d4"
+        },
+        {
+          "name": "Français · 段落4 · 实机配图",
+          "url": "assets/steam-696529526775088431-french-image_4.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/french/news1115_4_french.jpg",
+          "language": "french",
+          "paragraph": "IMAGE_4",
+          "sha256": "4b9252bb260b688d16143fe690d2f224404e624b33ad65fbe5c2791e3119a5b3"
+        },
+        {
+          "name": "Español · 段落1 · 实机配图",
+          "url": "assets/steam-696529526775088431-spanish-image_1.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/spanish/news1115_1_spanish.jpg",
+          "language": "spanish",
+          "paragraph": "IMAGE_1",
+          "sha256": "0fd4ec0b4a5c32c2e9ae1878324fd34ace0ffb4fa79c5d05130692c500fd0505"
+        },
+        {
+          "name": "Español · 段落2 · 实机配图",
+          "url": "assets/steam-696529526775088431-spanish-image_2.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/spanish/news1115_2_spanish.jpg",
+          "language": "spanish",
+          "paragraph": "IMAGE_2",
+          "sha256": "608aa65508781608377b54e0accd41328984634d81198f7a633828f0225e6bd1"
+        },
+        {
+          "name": "Español · 段落3 · 实机配图",
+          "url": "assets/steam-696529526775088431-spanish-image_3.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/spanish/news1115_3_spanish.jpg",
+          "language": "spanish",
+          "paragraph": "IMAGE_3",
+          "sha256": "c8f4cc7b46b8a6957d5f70789d9dc45f96097c4b542d90bedcc28e34b444c95b"
+        },
+        {
+          "name": "Español · 段落4 · 实机配图",
+          "url": "assets/steam-696529526775088431-spanish-image_4.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/spanish/news1115_4_spanish.jpg",
+          "language": "spanish",
+          "paragraph": "IMAGE_4",
+          "sha256": "2f771fea0d169ec8839cb599a1422a096f7e267ea2c585d947e7bb82752f8ccf"
+        },
+        {
+          "name": "Português (Brasil) · 段落1 · 实机配图",
+          "url": "assets/steam-696529526775088431-brazilian-image_1.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/brazilian/news1115_1_brazilian.jpg",
+          "language": "brazilian",
+          "paragraph": "IMAGE_1",
+          "sha256": "e03360de886fff3c6ba583632c2ee97f6d7b2fb1e39fcb05acdc4d87d4fcc3af"
+        },
+        {
+          "name": "Português (Brasil) · 段落2 · 实机配图",
+          "url": "assets/steam-696529526775088431-brazilian-image_2.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/brazilian/news1115_2_brazilian.jpg",
+          "language": "brazilian",
+          "paragraph": "IMAGE_2",
+          "sha256": "f05d8c02a69f880aaf4e0ffcc308046797d1932f7975623738d665bc4e2c3899"
+        },
+        {
+          "name": "Português (Brasil) · 段落3 · 实机配图",
+          "url": "assets/steam-696529526775088431-brazilian-image_3.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/brazilian/news1115_3_brazilian.jpg",
+          "language": "brazilian",
+          "paragraph": "IMAGE_3",
+          "sha256": "5daa54563cb01715da1b058b3b7066358a8f31878e6fde8f3328085f9c70804e"
+        },
+        {
+          "name": "Português (Brasil) · 段落4 · 实机配图",
+          "url": "assets/steam-696529526775088431-brazilian-image_4.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/brazilian/news1115_4_brazilian.jpg",
+          "language": "brazilian",
+          "paragraph": "IMAGE_4",
+          "sha256": "40c2f1c2811d65c5edd610fd03b988481b1090c3bd4235412c973fe19f546e86"
+        },
+        {
+          "name": "Русский · 段落1 · 实机配图",
+          "url": "assets/steam-696529526775088431-russian-image_1.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/russian/news1115_1_russian.jpg",
+          "language": "russian",
+          "paragraph": "IMAGE_1",
+          "sha256": "d1f146fb682c8ad307f19c4322387d43138dae9723c84afc21bea155305b8224"
+        },
+        {
+          "name": "Русский · 段落2 · 实机配图",
+          "url": "assets/steam-696529526775088431-russian-image_2.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/russian/news1115_2_russian.jpg",
+          "language": "russian",
+          "paragraph": "IMAGE_2",
+          "sha256": "2eddaa55625fef6647eddbb3ce651e4d01f36aef58e4ab255526e8ee7823b04c"
+        },
+        {
+          "name": "Русский · 段落3 · 实机配图",
+          "url": "assets/steam-696529526775088431-russian-image_3.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/russian/news1115_3_russian.jpg",
+          "language": "russian",
+          "paragraph": "IMAGE_3",
+          "sha256": "d67efb08a87231bc3f12c2968eeb345752bb91e5ed9bb7fb96c627a0af019b11"
+        },
+        {
+          "name": "Русский · 段落4 · 实机配图",
+          "url": "assets/steam-696529526775088431-russian-image_4.jpg",
+          "type": "image",
+          "source": "output/steam-news-20261115/成品/russian/news1115_4_russian.jpg",
+          "language": "russian",
+          "paragraph": "IMAGE_4",
+          "sha256": "3b2421c229990b776497d7d33529b57a3cc869471d4a797f548f3edd0b347bb5"
+        },
+        {
+          "name": "简体中文公告原文.txt",
+          "url": "assets/steam-696529526775088431-schinese.txt",
+          "type": "text"
+        },
+        {
+          "name": "繁體中文公告原文.txt",
+          "url": "assets/steam-696529526775088431-tchinese.txt",
+          "type": "text"
+        },
+        {
+          "name": "English公告原文.txt",
+          "url": "assets/steam-696529526775088431-english.txt",
+          "type": "text"
+        },
+        {
+          "name": "日本語公告原文.txt",
+          "url": "assets/steam-696529526775088431-japanese.txt",
+          "type": "text"
+        },
+        {
+          "name": "한국어公告原文.txt",
+          "url": "assets/steam-696529526775088431-korean.txt",
+          "type": "text"
+        },
+        {
+          "name": "Deutsch公告原文.txt",
+          "url": "assets/steam-696529526775088431-german.txt",
+          "type": "text"
+        },
+        {
+          "name": "Français公告原文.txt",
+          "url": "assets/steam-696529526775088431-french.txt",
+          "type": "text"
+        },
+        {
+          "name": "Español公告原文.txt",
+          "url": "assets/steam-696529526775088431-spanish.txt",
+          "type": "text"
+        },
+        {
+          "name": "Português (Brasil)公告原文.txt",
+          "url": "assets/steam-696529526775088431-brazilian.txt",
+          "type": "text"
+        },
+        {
+          "name": "Русский公告原文.txt",
+          "url": "assets/steam-696529526775088431-russian.txt",
+          "type": "text"
+        }
+      ],
+      "cover": "assets/steam-696529526775088431-cover-schinese.png",
+      "source": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=schinese",
+      "links": [
+        {
+          "platform": "Steam 公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=schinese",
+          "date": "2026-11-17",
+          "status": "已发布"
+        }
+      ],
+      "detailNote": "按Steam已公开原文归档；十语各4张本语界面图，按语言和段落标记。正文使用静态实机图，无GIF。"
+    },
+    {
+      "id": "steam-696529526775088431-covers",
+      "title": "英雄与阵容新闻 · 两版公告封面",
+      "category": "封面与视觉",
+      "group": "公告封面",
+      "date": "2026-11-17",
+      "dateBasis": "发布日期",
+      "summary": "Q版英雄装饰圣诞树；简中、繁中用中文封面，其他八语用英文封面。",
+      "status": "已发布 · 十语",
+      "files": [
+        {
+          "name": "简中／繁中 · 公告封面",
+          "url": "assets/steam-696529526775088431-cover-schinese.png",
+          "type": "image",
+          "source": "output/steam-news-20261115/v8/publication/artwork/header_schinese.png",
+          "sha256": "4537f5f8c1c7901958411a7fdad6ae6f28e3269afdc9a13452bc3267b42c0dc1"
+        },
+        {
+          "name": "其他八语 · 公告封面",
+          "url": "assets/steam-696529526775088431-cover-english.png",
+          "type": "image",
+          "source": "output/steam-news-20261115/v8/publication/artwork/header_english.png",
+          "sha256": "b6b15a7d1c3b47fcf57fd052054a66c34f2bbb0ea4c8c31e6ded8a12add06ec5"
+        }
+      ],
+      "cover": "assets/steam-696529526775088431-cover-schinese.png",
+      "source": "output/steam-news-20261115/封面",
+      "links": [
+        {
+          "platform": "Steam 公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=schinese",
+          "date": "2026-11-17",
+          "status": "已发布"
+        }
+      ]
     }
   ]
 }

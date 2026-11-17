@@ -1,0 +1,52 @@
+Leitfaden für Aktionäre: Wann Ultimates zünden, wie ihr Helden aufstellt
+发布日期：2026-11-17 15:21（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=german
+
+[b]So wichtig, dass ich es dreimal sage: Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen![/b]
+
+Hallo zusammen, hier ist Juanmao.
+
+Die Vollversion erscheint am 3. Dezember! Noch 16 Tage, dann könnt ihr sie spielen!! Bei dem Gedanken, dass das Spiel bald bei euch ist, bin ich total aufgeregt! (Achtung: Der Demo-Fortschritt wird nicht in die Vollversion übernommen!!!)
+
+Mit der Vollversion öffnet der Steam-Community-Markt~ Wenn ihr gute Vorschläge zum Markt habt, schreibt sie gern in die Kommentare. Wenn euch das Spiel gefällt, setzt es auf eure Wunschliste, dann bekommt ihr zum Release eine Benachrichtigung.
+
+Auch das hier ist kein Update. Nach den Offline-Erträgen vom letzten Mal geht es diesmal um die Helden und Aufstellungen, die es in der Demo schon gibt. Oft werde ich gefragt, wann die Ultimates eigentlich ausgelöst werden und wie man seine Helden aufstellen soll, wenn man sie erst mal hat. Hier ein paar Punkte dazu.
+
+[h2]Nichts drücken: Die Ultimate zündet, sobald sie geladen ist[/h2]
+Jeder Held hat eine Signaturfähigkeit – das, was alle seine Ultimate nennen. Am Ende jeder Runde sammeln alle Moral. Ist genug da, wird die Ultimate automatisch ausgelöst, sobald der Held am Zug ist. Ihr müsst nichts anklicken.
+Fünf-Sterne-Helden haben bei ihrer Ultimate außerdem eine eigene Nahaufnahme. Bei 1-facher Geschwindigkeit seht ihr sie komplett: Das ganze Feld hält kurz an, in der Nahaufnahme öffnen sich die Augen, der Name der Technik erscheint, dann folgt der Angriff. Bei 2-facher Geschwindigkeit gibt es die Kurzfassung: keine Nahaufnahme, die Technik wird direkt ausgelöst.
+[img]{STEAM_CLAN_IMAGE}/46216320/fb9466c107cb88b3310aa6e599f533d0431814e6.jpg[/img]
+
+[h2]Zwei Fünf-Sterne-Helden, die ihr früh bekommt[/h2]
+[list]
+[*]Triumph-Diva: Wenn ihr Etappe 22 zum ersten Mal schafft, ist ihre Marke garantiert. Danach werbt ihr sie in der Taverne mit Legenden-Rekrutierungsgutscheinen an. Ihre Ultimate erhöht den Schaden der nächsten Signaturfähigkeit des Verbündeten mit dem höchsten Intellekt in ihrer Linie und trifft dann eine ganze feindliche Linie.
+[*]Frostebenen-Wolfskönig: Habt ihr im Feldzug Etappe 30 geschafft, öffnet sich im Prüfungsgelände die Bossherausforderung. Beim ersten Sieg schließt er sich euch direkt an – ganz ohne Marke oder Gutscheine. Er startet schon mit Moral in den Kampf, und seine Ultimate gibt dem Verbündeten mit der höchsten Macht in seiner Linie einen großen Schub Moral.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/6848713eeca512029f7a461314dfb25d65f1a7b7.jpg[/img]
+
+[h2]Bei Auren zuerst schauen, welche Felder sie abdecken[/h2]
+Klickt auf der Trupp-Seite einen Helden an, dann leuchten auf dem Brett die Felder auf, die seine Aura abdeckt. Auch im Reiter „Aura“ der Fähigkeitsdetails ist der Bereich eingezeichnet. Ein paar häufige Beispiele:
+[list]
+[*]Steinkreis-Weiser: Verbündete in derselben Reihe verursachen mehr physischen Schaden. „Dieselbe Reihe“ ist der senkrechte Streifen auf dem Brett, also stellt eure physischen Schadensverursacher in denselben Streifen wie sie.
+[*]Leuchtturmpriester: deckt das eigene Feld und die direkt angrenzenden Verbündeten oben, unten, links und rechts ab und erhöht die Heilung, die sie erhalten.
+[/list]
+Außerdem übernimmt der Paladin (das ist die Hauptfigur standardmäßig) mit seinem Klassenmerkmal einen Teil des Schadens, den die Verbündeten oben, unten, links und rechts von ihm abbekommen. Empfindliche Schadensverursacher können sich also direkt neben ihn stellen.
+[img]{STEAM_CLAN_IMAGE}/46216320/07c5369eb55929f90e8334fd076415415f076965.jpg[/img]
+
+[h2]Die Startaufstellung ein wenig umstellen[/h2]
+Auf der Trupp-Seite ist der senkrechte Streifen ganz rechts Reihe 1, den Feinden zugewandt. Normalangriffe treffen zuerst den Vordersten in derselben Linie; ist die Linie leer, geht es auf die nächstgelegene Linie; hat jemand auf dem Feld Spott aktiv, wird zuerst er angegriffen.
+In einem neuen Spielstand stehen der Veteranen-Lanzer und der Pfadspurer standardmäßig in Reihe 3. Ihr könnt den Lanzer ganz nach vorne ziehen, den Kommandanten neben ihn stellen und den Spurer hinter dem Lanzer verstecken.
+[img]{STEAM_CLAN_IMAGE}/46216320/97207773e1649141ecb4048fa6f24370e84f5a1a.jpg[/img]
+
+[h2]Wenn ihr mehr Helden habt[/h2]
+[list]
+[*]Bis zu 10 Helden können in den Einsatz, die Hauptfigur zählt mit. Das Kostenlimit steigt mit dem Ausbau der Agenturhalle, und die Hauptfigur verbraucht keine Kosten.
+[*]Zwei- und Drei-Sterne-Helden kauft ihr in der Taverne direkt mit Legenden-Rekrutierungsgutscheinen – feste Preise, kein Ziehen.
+[*]Wenn ihr verliert, schaut zuerst, wer zuerst fällt: Kippt die Vorderreihe sofort um, braucht ihr zuerst mehr Standfestigkeit; steht die Vorderreihe noch, aber die Feinde sterben nicht, fehlt es an Schaden.
+[/list]
+
+Welche Helden soll ich noch erklären, und was ist euch unklar? Fragt mich gern in den Kommentaren. Kommt auch gern auf unseren [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+[url=https://store.steampowered.com/app/5257220/]Kostenlose Demo spielen[/url] | [url=https://store.steampowered.com/app/4855890/]Vollversion auf die Wunschliste setzen[/url]
