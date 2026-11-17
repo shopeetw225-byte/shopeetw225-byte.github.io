@@ -1793,6 +1793,18 @@
       "date": "2026-11-17",
       "category": "宣传工具",
       "text": "完善十语素材批次制作、公告差异审稿和上传核对工具。"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "创作者联系",
+      "text": "向19位B站创作者发送试玩邀请。",
+      "url": "/creators/creator-outreach-20261117.html"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "作品归档",
+      "text": "归档本人已公开的小黑盒离线挂机攻略。",
+      "url": "/?work=heybox-offline-guide-197052160"
     }
   ]
 }

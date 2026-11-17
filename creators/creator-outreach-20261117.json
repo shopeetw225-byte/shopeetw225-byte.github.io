@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-17",
+  "bilibili_sent": 19,
+  "bilibili_failed": 0,
+  "skipped_prior_record": 14,
+  "deferred_not_sent": 5,
+  "pending": 0,
+  "bilibili": [
+    {
+      "uid": "22707026",
+      "name": "fdhfrfffgg",
+      "profile_url": "https://space.bilibili.com/22707026",
+      "status": "sent",
+      "sent_at": "2026-11-17T17:06:44.009000+08:00"
+    },
+    {
+      "uid": "253227585",
+      "name": "只有十七岁的宝宝",
+      "profile_url": "https://space.bilibili.com/253227585",
+      "status": "sent",
+      "sent_at": "2026-11-17T17:08:27.475000+08:00"
+    },
+    {
+      "uid": "421183",
+      "name": "反驳型云叶",
+      "profile_url": "https://space.bilibili.com/421183",
+      "status": "sent",
+      "sent_at": "2026-11-17T17:10:08.722000+08:00"
+    },
+    {
+      "uid": "3048654",
+      "name": "啊森个",
+      "profile_url": "https://space.bilibili.com/3048654",
+      "status": "sent",
+      "sent_at": "2026-11-17T17:11:28.629000+08:00"
+    },
+    {
+      "uid": "15099433",
+      "name": "呆呆的石头336",
+      "profile_url": "https://space.bilibili.com/15099433",
+      "status": "sent",
+      "sent_at": "2026-11-17T17:12:45.961000+08:00"
+    },
+    {
+      "uid": "3546866094442943",
+      "name": "ddlinm",
+      "profile_url": "https://space.bilibili.com/3546866094442943",
+      "status": "sent",
+      "sent_at": "2026-11-17T17:14:13.315000+08:00"
+    },
+    {
+      "uid": "23036357",
+      "name": "IVCucurbit_圣瞳",
+      "profile_url": "https://space.bilibili.com/23036357",
+      "status": "sent",
+      "sent_at": "2026-11-17T17:37:35.457000+08:00"
+    },
+    {
+      "uid": "3707079999096997",
+      "name": "KaChaPond",
+      "profile_url": "https://space.bilibili.com/3707079999096997",
+      "status": "sent",
+      "sent_at": "2026-11-17T17:38:56.584000+08:00"
+    },
+    {
+      "uid": "3546704915729078",
+      "name": "小助手山田",
+      "profile_url": "https://space.bilibili.com/3546704915729078",
+      "status": "sent",
+      "sent_at": "2026-11-17T17:40:49.717000+08:00"
+    },
+    {
+      "uid": "546137849",
+      "name": "颓废豪爷a",
+      "profile_url": "https://space.bilibili.com/546137849",
+      "status": "sent",
+      "sent_at": "2026-11-17T17:42:54.077000+08:00"
+    },
+    {
+      "uid": "179515655",
+      "name": "Iron_Spider_",
+      "profile_url": "https://space.bilibili.com/179515655",
+      "status": "sent",
+      "sent_at": "2026-11-17T17:51:08.337000+08:00"
+    },
+    {
+      "uid": "263977",
+      "name": "百葉兔",
+      "profile_url": "https://space.bilibili.com/263977",
+      "status": "sent",
+      "sent_at": "2026-11-17T17:53:35.756000+08:00"
+    },
+    {
+      "uid": "298973823",
+      "name": "眠川喵-",
+      "profile_url": "https://space.bilibili.com/298973823",
+      "status": "sent",
+      "sent_at": "2026-11-17T17:55:26.776000+08:00"
+    },
+    {
+      "uid": "39110197",
+      "name": "终末の魔女",
+      "profile_url": "https://space.bilibili.com/39110197",
+      "status": "sent",
+      "sent_at": "2026-11-17T18:01:44.219000+08:00"
+    },
+    {
+      "uid": "1639468",
+      "name": "徘徊玩家",
+      "profile_url": "https://space.bilibili.com/1639468",
+      "status": "sent",
+      "sent_at": "2026-11-17T18:06:38.041000+08:00"
+    },
+    {
+      "uid": "17847615",
+      "name": "中华金叶榆",
+      "profile_url": "https://space.bilibili.com/17847615",
+      "status": "sent",
+      "sent_at": "2026-11-17T18:08:57.124000+08:00"
+    },
+    {
+      "uid": "37106487",
+      "name": "可爱的叽叽酱",
+      "profile_url": "https://space.bilibili.com/37106487",
+      "status": "sent",
+      "sent_at": "2026-11-17T18:11:45.909000+08:00"
+    },
+    {
+      "uid": "100922991",
+      "name": "王唐尼Donny",
+      "profile_url": "https://space.bilibili.com/100922991",
+      "status": "sent",
+      "sent_at": "2026-11-17T18:15:37.490000+08:00"
+    },
+    {
+      "uid": "30400633",
+      "name": "猪头阿诺",
+      "profile_url": "https://space.bilibili.com/30400633",
+      "status": "sent",
+      "sent_at": "2026-11-17T18:18:01.269000+08:00"
+    }
+  ],
+  "time_note": "北京时间；时间取实际发送证据。送达不表示已读或同意试玩。"
+}
