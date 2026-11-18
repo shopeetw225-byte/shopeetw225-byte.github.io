@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-18",
+  "bilibili_sent": 5,
+  "bilibili_failed": 0,
+  "youtube_email_sent": 0,
+  "email_failed": 0,
+  "bilibili": [
+    {
+      "uid": "493005147",
+      "name": "星空223",
+      "profile_url": "https://space.bilibili.com/493005147",
+      "status": "sent",
+      "sent_at": "2026-11-18T11:36:48.810000+08:00"
+    },
+    {
+      "uid": "123174211",
+      "name": "十二斤的史迪仔",
+      "profile_url": "https://space.bilibili.com/123174211",
+      "status": "sent",
+      "sent_at": "2026-11-18T11:40:57.952000+08:00"
+    },
+    {
+      "uid": "472163295",
+      "name": "毒医吾二",
+      "profile_url": "https://space.bilibili.com/472163295",
+      "status": "sent",
+      "sent_at": "2026-11-18T13:33:45.939000+08:00"
+    },
+    {
+      "uid": "1066000943",
+      "name": "小寒永远滴神",
+      "profile_url": "https://space.bilibili.com/1066000943",
+      "status": "sent",
+      "sent_at": "2026-11-18T13:36:20.982000+08:00"
+    },
+    {
+      "uid": "347160397",
+      "name": "爱你的胖胖Vzz",
+      "profile_url": "https://space.bilibili.com/347160397",
+      "status": "sent",
+      "sent_at": "2026-11-18T13:39:36.367000+08:00"
+    }
+  ],
+  "youtube": [],
+  "time_note": "北京时间；时间取实际发送证据。送达不表示已读或同意试玩。"
+}

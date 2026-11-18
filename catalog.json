@@ -13052,6 +13052,218 @@
       ],
       "cover": "assets/heybox-197197233-0-ab6d2e34d52d.png",
       "detailNote": "按用户本人最终公开正文归档，保留2张实机GIF、要塞截图与缩小梗图；正式版12月3日上线。"
+    },
+    {
+      "id": "steam-store-native-desktop-20261118-r79",
+      "title": "Steam 商店素材 · 十语桌面多窗与仓库、英雄页",
+      "category": "封面与视觉",
+      "group": "详情页图片",
+      "date": "2026-11-18",
+      "dateBasis": "Steam 商店修订79发布及十语公开页、动画播放核对",
+      "status": "已发布 · 十语",
+      "summary": "发布十语各自语言的桌面多窗动图，同时更新11张简繁商店截图和6张仓库、英雄页动图。",
+      "body": "桌面多窗动图十种语言各用本语游戏界面，展示拖出战斗、调低不透明度、悬停恢复及多个独立页面。简中更新第04、07张截图，繁中更新第01–09张；仓库和英雄页各使用简中、繁中、英文版本，其他八种语言引用英文画面。十个公开语言页均已核对九张截图及新动图的实际播放，正文、标题图和宣传片保持原有版本。本次不包含新录制的离线／开箱动图。",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/5931c147b31720e821a0589906f2a761.poster.avif?t=1794979959",
+      "source": "output/steam-store-auto-sync/daily-20261117/production-qa-resume/E-preflight/E-publish-result.json",
+      "files": [
+        {
+          "name": "简体中文 · 桌面多窗",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/5931c147b31720e821a0589906f2a761.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "繁体中文 · 桌面多窗",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/70d95ded02deac111278b3ff87f5b896.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "英文 · 桌面多窗",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/ec5aa048503fb18fda3d4db6994ed325.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "日文 · 桌面多窗",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/d55d7fe7993f21720fe2073e8aa9f6cf.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "韩文 · 桌面多窗",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/7813ef1fd552dc89cd9f70f369f9f28d.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "德文 · 桌面多窗",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/9d428348ddd198aab466454b19ecf6af.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "法文 · 桌面多窗",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/d95b684e471d22739aacdbcdb4240183.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "西班牙文 · 桌面多窗",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/92850b0c8ea8a9e2d9071ec757ecd13a.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "巴西葡萄牙文 · 桌面多窗",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/c0ba047fcdb082a24ed36b67f6d8350d.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "俄文 · 桌面多窗",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/a9faf5bacdbc3b7f402fd8eaf5ae0009.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "简体中文 · 仓库装备",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/8a4501b4cacf076683f565c4dba848a7.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "简体中文 · 英雄页",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/0ec1ea28299023da17f15fd7378df2a3.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "繁体中文 · 仓库装备",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/2473f8b6cd4aa454537df8ca8ab0cf80.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "繁体中文 · 英雄页",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/070b4a3ff9667b3f8a4b1b8d11c0c3fa.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "英文 · 仓库装备",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/078413352c20c7b7f45516f52e87113e.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "英文 · 英雄页",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/da76bdeaf5a17d578247127791352ccc.mp4?t=1794979959",
+          "type": "video"
+        },
+        {
+          "name": "简体中文 · 商店截图 04",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/5f22ce213ce74bfbd284c1054b2088c34e432ec6/ss_5f22ce213ce74bfbd284c1054b2088c34e432ec6.1920x1080.jpg?t=1794979959",
+          "type": "image"
+        },
+        {
+          "name": "简体中文 · 商店截图 07",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/c4676b2a78f97b0ab09a22758005da3f40ea517e/ss_c4676b2a78f97b0ab09a22758005da3f40ea517e.1920x1080.jpg?t=1794979959",
+          "type": "image"
+        },
+        {
+          "name": "繁体中文 · 商店截图 01",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9bd971355af92b7aeab25b6a6bbd3735d46ba971/ss_9bd971355af92b7aeab25b6a6bbd3735d46ba971.1920x1080.jpg?t=1794979959",
+          "type": "image"
+        },
+        {
+          "name": "繁体中文 · 商店截图 02",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/6db452a7fce8bdbb2db8ebb97c2d356dd17e8d25/ss_6db452a7fce8bdbb2db8ebb97c2d356dd17e8d25.1920x1080.jpg?t=1794979959",
+          "type": "image"
+        },
+        {
+          "name": "繁体中文 · 商店截图 03",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/0f7c25088ab670d9392463335ca6dc9f38d12176/ss_0f7c25088ab670d9392463335ca6dc9f38d12176.1920x1080.jpg?t=1794979959",
+          "type": "image"
+        },
+        {
+          "name": "繁体中文 · 商店截图 04",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f92ede5f92a58945974a9514bd9a3b544d3c0bf2/ss_f92ede5f92a58945974a9514bd9a3b544d3c0bf2.1920x1080.jpg?t=1794979959",
+          "type": "image"
+        },
+        {
+          "name": "繁体中文 · 商店截图 05",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/3b2fa6e7c752e775e3ad05fe5fe9b5a6ccac0a8b/ss_3b2fa6e7c752e775e3ad05fe5fe9b5a6ccac0a8b.1920x1080.jpg?t=1794979959",
+          "type": "image"
+        },
+        {
+          "name": "繁体中文 · 商店截图 06",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/c7417ea934ba9993f4ef6a4795ad6a2830274c93/ss_c7417ea934ba9993f4ef6a4795ad6a2830274c93.1920x1080.jpg?t=1794979959",
+          "type": "image"
+        },
+        {
+          "name": "繁体中文 · 商店截图 07",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/fd00f657bbc13b8e452c105a0d0ad0d55ef02f0a/ss_fd00f657bbc13b8e452c105a0d0ad0d55ef02f0a.1920x1080.jpg?t=1794979959",
+          "type": "image"
+        },
+        {
+          "name": "繁体中文 · 商店截图 08",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/e7fcf708e2b1f111a07a0465961224957ff4599c/ss_e7fcf708e2b1f111a07a0465961224957ff4599c.1920x1080.jpg?t=1794979959",
+          "type": "image"
+        },
+        {
+          "name": "繁体中文 · 商店截图 09",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/b8c0fc802112ee8642b08ee0c280b0363ede6190/ss_b8c0fc802112ee8642b08ee0c280b0363ede6190.1920x1080.jpg?t=1794979959",
+          "type": "image"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-18",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-18",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-18",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-18",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-18",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-18",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-18",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-18",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-18",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-18",
+          "status": "已发布"
+        }
+      ]
     }
   ]
 }
