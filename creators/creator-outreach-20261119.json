@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-19",
+  "bilibili_sent": 20,
+  "bilibili_failed": 0,
+  "youtube_email_sent": 0,
+  "email_failed": 0,
+  "pending": 0,
+  "bilibili": [
+    {
+      "uid": "285258610",
+      "name": "主播街客",
+      "profile_url": "https://space.bilibili.com/285258610",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:18:07.910000+08:00"
+    },
+    {
+      "uid": "542093269",
+      "name": "流放阿拉丁",
+      "profile_url": "https://space.bilibili.com/542093269",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:20:15.686000+08:00"
+    },
+    {
+      "uid": "98450637",
+      "name": "仙肉王小城",
+      "profile_url": "https://space.bilibili.com/98450637",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:22:13.649000+08:00"
+    },
+    {
+      "uid": "20551099",
+      "name": "蝴蝶killer",
+      "profile_url": "https://space.bilibili.com/20551099",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:24:41.543000+08:00"
+    },
+    {
+      "uid": "339176577",
+      "name": "轻资谈",
+      "profile_url": "https://space.bilibili.com/339176577",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:26:53.619000+08:00"
+    },
+    {
+      "uid": "382477660",
+      "name": "我是墨鱼不是摸鱼",
+      "profile_url": "https://space.bilibili.com/382477660",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:29:04.166000+08:00"
+    },
+    {
+      "uid": "6689870",
+      "name": "大家好啊我是巨大喷流",
+      "profile_url": "https://space.bilibili.com/6689870",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:31:05.322000+08:00"
+    },
+    {
+      "uid": "385169124",
+      "name": "短裤游戏",
+      "profile_url": "https://space.bilibili.com/385169124",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:33:19.333000+08:00"
+    },
+    {
+      "uid": "237830132",
+      "name": "普通话很biu准的树懒",
+      "profile_url": "https://space.bilibili.com/237830132",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:35:31.921000+08:00"
+    },
+    {
+      "uid": "350443066",
+      "name": "二二麻",
+      "profile_url": "https://space.bilibili.com/350443066",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:40:58.459000+08:00"
+    },
+    {
+      "uid": "3691000897735398",
+      "name": "u1爱",
+      "profile_url": "https://space.bilibili.com/3691000897735398",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:43:22.152000+08:00"
+    },
+    {
+      "uid": "506858894",
+      "name": "没墨的才子",
+      "profile_url": "https://space.bilibili.com/506858894",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:45:46.893000+08:00"
+    },
+    {
+      "uid": "28912477",
+      "name": "少侠李狗蛋",
+      "profile_url": "https://space.bilibili.com/28912477",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:48:14.753000+08:00"
+    },
+    {
+      "uid": "4668965",
+      "name": "蓝鬼儿_火炬之光",
+      "profile_url": "https://space.bilibili.com/4668965",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:50:41.354000+08:00"
+    },
+    {
+      "uid": "1904233668",
+      "name": "柏笑鸭",
+      "profile_url": "https://space.bilibili.com/1904233668",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:52:58.696000+08:00"
+    },
+    {
+      "uid": "22431511",
+      "name": "sakura7czh",
+      "profile_url": "https://space.bilibili.com/22431511",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:55:20.490000+08:00"
+    },
+    {
+      "uid": "499931462",
+      "name": "小杰Akds",
+      "profile_url": "https://space.bilibili.com/499931462",
+      "status": "sent",
+      "sent_at": "2026-11-19T06:57:55.358000+08:00"
+    },
+    {
+      "uid": "27228888",
+      "name": "黑虎阿福-小八",
+      "profile_url": "https://space.bilibili.com/27228888",
+      "status": "sent",
+      "sent_at": "2026-11-19T07:00:29.809000+08:00"
+    },
+    {
+      "uid": "1203327039",
+      "name": "冷月冰痕",
+      "profile_url": "https://space.bilibili.com/1203327039",
+      "status": "sent",
+      "sent_at": "2026-11-19T07:04:36.236000+08:00"
+    },
+    {
+      "uid": "483265975",
+      "name": "顽家萝卜毛",
+      "profile_url": "https://space.bilibili.com/483265975",
+      "status": "sent",
+      "sent_at": "2026-11-19T07:06:53.443000+08:00"
+    }
+  ],
+  "youtube": [],
+  "time_note": "北京时间；时间取实际发送调用证据。送达不表示已读或同意试玩。"
+}
