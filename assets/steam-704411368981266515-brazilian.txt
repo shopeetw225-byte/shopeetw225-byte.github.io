@@ -1,0 +1,83 @@
+Progresso do desenvolvimento: avaliação das fases, tutorial, Ferraria e mais
+
+É importante, então vou falar três vezes: o progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo!
+
+Olá, pessoal! Aqui é o Juanmao.
+
+O jogo completo chega em 3 de dezembro! Com o jogo completo, o Mercado da Comunidade Steam vai abrir~ Se tiver alguma ideia sobre o Mercado, deixa nos comentários.
+
+Esta semana a versão de desenvolvimento mudou bastante de novo, então vou falar do que mais dá para sentir jogando. Já deixo avisado: tudo aqui embaixo está na versão de desenvolvimento, e as imagens também são da versão de desenvolvimento; a demo que dá para baixar agora ainda não tem nada disso. Os números ainda estão sendo ajustados; vale o que sair no jogo completo.
+
+Avaliação da fase: toda fase ganha uma nota
+Toda vez que você vence uma fase da campanha principal, ganha uma avaliação conforme jogou bem, de C a SSS. Vencer na 1ª rodada dá SSS; em quantas rodadas você vence e se alguém cai decidem SS, S, A e as outras.
+Na tela de resultado aparece o que falta para a próxima avaliação, por exemplo, vencer em 1 rodada para chegar ao SSS; se tirar uma avaliação melhor, acende "Novo recorde".
+No mapa, cada fase mostra sua letra, e na plaquinha do capítulo dá para ver quantas fases estão em cada avaliação; se as 10 fases de uma zona estiverem com SSS, a bandeira da zona fica dourada. Fechar um capítulo inteiro com A ou mais, e com S ou mais, dá uma recompensa única para cada um.
+Quer melhorar fases antigas? Use "Melhorar": começa pela fase com a avaliação mais baixa, joga uma partida por fase e vai até a avaliação que você escolher: S, SS ou SSS.
+〔配图请见Steam原文及归档图片〕
+
+Tutorial: abriu, aprendeu
+O tutorial foi refeito: quando uma função abre, aparece um personagem para explicar rapidinho e depois te guia para clicar uma vez. Quem explica quase sempre é o Lanceiro Veterano.
+As lições que você já viu e os cartões de explicação ficam guardados em "Anotações de Lanceiro Veterano"; no canto superior direito da Fortaleza tem um botão de anotações, para consultar quando esquecer alguma coisa. Funções que ainda não abriram também têm uma página nas anotações, dizendo a partir de qual fase abrem e quem vai explicar.
+A primeira batalha também ensina com mais detalhe: na primeira vez que sai uma Habilidade exclusiva, o jogo pausa um pouco e mostra onde acelera, onde ver o Registro e em qual baú ficam as coisas que você coleta.
+Se não quiser ver o tutorial, dá para pular no começo, e também ligar ou desligar quando quiser em Opções.
+〔配图请见Steam原文及归档图片〕
+
+Ferraria: tudo de equipamento num lugar só
+
+• O lado esquerdo da Ferraria virou uma fileira de abas: Equip., Materiais, Forjar, Baús, Reciclar e Garantia; o Arsenal, que antes era separado, também veio para cá.
+• Abrir baús ganhou animação nova: a trava salta, a tampa abre e sai uma coluna de luz; um toque acelera. Se vierem muitas coisas, elas rolam dentro do painel e não cobrem o botão "Coletar".
+• "Forjar" começa com uma visão geral dos conjuntos, em três páginas: Conjuntos gerais, Conjuntos de classe e Peças lendárias; dá para filtrar os que combinam com o primeiro herói da Equipe em campo e "Meus conjuntos".
+• No armazém, o equipamento que alguém está usando ganha um carimbinho com o nome de quem usa; se o dinheiro não der, o botão fica cinza e diz direto se falta Ouro ou Minério de Cristal, e quanto.
+
+〔配图请见Steam原文及归档图片〕
+
+Equipamento lendário e Maestria do Conjunto
+
+• Equipamento lendário agora cai repetido e, venha de onde vier, começa no Grau 1. Peças lendárias de conjunto sobem em "Elevar", na Ferraria, comendo duplicatas do mesmo conjunto e da mesma posição, até o Grau 6; Lendários avulsos repetidos se juntam sozinhos.
+• Lendários avulsos agora também podem receber Polimento e Remodelar.
+• Maestria do Conjunto: desmontando peças comuns de conjunto ou Peças lendárias de conjunto, você junta maestria daquele conjunto, até o nível 10; cada nível aumenta em mais 1% os efeitos de 2 e 4 peças desse conjunto.
+• Quando faltar pouco para subir, também dá para gastar Material de desmonte para "Infundir" maestria num conjunto, mas infundir é só um empurrãozinho; o principal continua sendo desmontar. A maestria fica na página do herói, em "Conjuntos".
+
+〔配图请见Steam原文及归档图片〕
+
+Pesquisa e construções: menos coisa para vigiar
+
+• Nas Linhas de pesquisa, um único espaço pode enfileirar até 10 níveis seguidos da mesma linha, sem precisar voltar e clicar nível por nível.
+• A partir da fase 400 dá para aprender "Pesquisa Automática": quando a fila esvazia, ela coloca sozinha o próximo nível mais barato que você puder pagar nas Linhas de pesquisa. Não quer? Dá para desligar na página de Linhas de pesquisa.
+• A barra de progresso da pesquisa agora é clicável: cada toque tira um pouco do tempo de pesquisa, segurando ela continua tocando sozinha, e não custa nada.
+• A partir do nível 50, as construções ganham Refino, com 10 graus no total, usando Ouro e Minério de Cristal: Mina de Ouro, Campo de Treino e outras aumentam a renda, e a Academia reduz o tempo de pesquisa. Os níveis 45 a 50 também ficaram um pouco mais baratos.
+• A cada 5 níveis as construções dão uma pequena recompensa; por exemplo, a Mina de Ouro e o Campo de Treino no nível 35 dão uma Bancada grátis a mais.
+
+〔配图请见Steam原文及归档图片〕
+
+Fim de jogo: Patamar dos Espíritos guardiões até 8 e Megaestruturas na fase 1200
+O limite de Patamar dos Espíritos guardiões subiu de 5 para 8: o patamar 6 dá mais um espaço de Glifo, o 7 deixa a Aura mais forte e o 8 aumenta o bônus de Parentesco. Se a Aura da Equipe em campo já estiver no limite, o jogo avisa antes que o bônus de Aura do patamar 7 não vai fazer diferença, para você não subir à toa.
+A partir da fase 1200, dá para construir "Megaestruturas" na Academia: são quatro, Grande Bolsa, Comando de Treino, Secretaria do Tesouro e Grande Depósito, que aumentam, respectivamente, o limite de venda de ouro por hora, a renda de Discernimento e Pedras de Patente, os equipamentos que caem com o jogo rodando sozinho e a capacidade das construções. Cada nível dá +5%, e a partir da fase 1000 você já consegue vê-las.
+〔配图请见Steam原文及归档图片〕
+
+Outras mudanças
+
+• A página de habilidades do herói agora tem lista à esquerda e detalhes à direita, e mostra direto quanto os números mudam ao subir de nível; a página de equipamento virou um círculo de seis espaços, com "Remover tudo" e um atalho direto para a Ferraria.
+• Na Equipe, escalar clicando e escalar arrastando agora seguem as mesmas regras; se você sair da Equipe para a página de um herói e voltar, continua no herói que estava vendo; as teclas numéricas trocam de página em qualquer tela.
+• No Relatório de uma batalha, clique na fileira de retratos lá em cima para ver outro herói; o Elenco agora ordena por padrão primeiro por estrelas e depois por nível.
+• Depois do despertar, o dano contínuo da Rainha da Corte dos Ossos dói mais a cada tique, e lançar de novo não zera.
+• Nas fases 1600, 1800 e 2000 e nos Desafios da era correspondentes, a vida e o ataque dos inimigos caíram um pouco, então essas paredes vão ficar um pouco mais tranquilas.
+• A partir da fase 801, equipamentos comuns que caem ou são forjados vão no máximo até o Grau 5; o Grau 6 fica para os equipamentos lendários.
+• O salvamento ganhou backups automáticos em níveis (um de 5 minutos, um de 30 minutos e um de 3 horas). Ao sair da batalha, os recursos dos closes das supremas são liberados, e a janelinha de batalha para de renderizar quando minimizada, então deixar o jogo rodando gasta menos.
+
+
+O que ainda estamos fazendo
+Isto aqui ainda está em produção, e nem a versão de desenvolvimento tem algo completo para jogar, então por enquanto é só a direção:
+
+• Reformulação da Torre de Desafios: vai avançar por capítulos e não vai ter um topo final.
+• Arena.
+• Linhas de fases próprias e avaliações para as dificuldades Difícil e Pesadelo.
+• Conjuntos Steam, heróis exclusivos da Steam e levar itens do inventário Steam para dentro do jogo ainda estão em teste interno; avisaremos quando forem abertos.
+
+O plano é o jogo completo trazer a Torre de Desafios e a Arena; quando tiver novidade, eu conto para vocês.
+
+Dessas mudanças, qual você quer jogar primeiro? Alguma coisa parece estranha? Me conta nos comentários. Também dá para entrar no nosso Discord（https://discord.gg/uEwdWz2h62）.
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+Jogue a demo gratuita（https://store.steampowered.com/app/5257220/） | Adicione o jogo completo à sua lista de desejos（https://store.steampowered.com/app/4855890/）

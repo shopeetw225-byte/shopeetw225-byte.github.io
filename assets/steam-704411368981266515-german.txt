@@ -1,0 +1,83 @@
+Entwicklungsstand: Etappenwertung, neues Tutorial, Schmiede und mehr
+
+So wichtig, dass ich es dreimal sage: Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen!
+
+Hallo zusammen, hier ist Juanmao.
+
+Die Vollversion erscheint am 3. Dezember! Mit der Vollversion öffnet der Steam-Community-Markt~ Wenn ihr Gedanken zum Markt habt, schreibt sie gern in die Kommentare.
+
+Diese Woche hat sich in der Entwicklungsversion wieder einiges getan, ich picke mal raus, was ihr am meisten merken werdet. Gleich vorweg: Alles hier steckt in der Entwicklungsversion, und auch die Bilder sind Aufnahmen aus der Entwicklungsversion. In der Demo, die ihr gerade herunterladen könnt, ist davon noch nichts drin. Die Zahlen werden außerdem noch angepasst, maßgeblich ist die Vollversion.
+
+Etappenwertung: Jede Etappe bekommt eine Note
+Jedes Mal, wenn ihr eine Etappe der Hauptkampagne gewinnt, gibt es je nachdem, wie sauber der Sieg war, eine Wertung von C bis SSS. Sieg in Runde 1 heißt SSS; wie viele Runden ihr braucht und ob jemand fällt, entscheidet über SS, S, A und die übrigen Stufen.
+Die Auswertung zeigt genau, was euch zur nächsten Stufe noch fehlt, etwa „Sieg bis Runde 1 → SSS“; holt ihr eine bessere Wertung als vorher, leuchtet „Neuer Rekord“ auf.
+Auf der Karte trägt jede Etappe ihren Buchstaben, und am Kapitelschild seht ihr, wie viele Etappen ihr in jeder Stufe habt; sind alle 10 Etappen einer Zone auf SSS, wird die Zonenflagge golden. Ein ganzes Kapitel komplett auf A oder besser und komplett auf S oder besser bringt jeweils eine einmalige Belohnung.
+Wollt ihr alte Etappen nachbessern, gibt es „Aufwerten“: Ab der Etappe mit der niedrigsten Wertung wird pro Etappe ein Kampf gespielt, bis sie die gewählte Stufe S, SS oder SSS erreicht.
+〔配图请见Steam原文及归档图片〕
+
+Tutorial: Erklärt wird, was gerade aufgeht
+Das Tutorial wurde komplett neu geschrieben: Sobald eine Funktion freigeschaltet wird, kommt eine Figur vorbei, erklärt sie in einer kurzen Lektion und klickt sie danach einmal mit euch durch. Meistens übernimmt das der Veteranen-Lanzer.
+Alle Lektionen und Erklärkarten, die ihr schon gesehen habt, landen in den „Notizen von Veteranen-Lanzer“. Oben rechts in der Festung gibt es dafür einen Notizen-Button – wenn ihr mal etwas vergessen habt, blättert einfach nach. Auch Funktionen, die noch nicht offen sind, haben dort schon eine Seite, auf der steht, nach welcher Etappe wer sie erklären kommt.
+Auch der erste Kampf erklärt jetzt mehr: Wenn zum ersten Mal eine Signaturfähigkeit ausgelöst wird, hält das Spiel kurz an und zeigt euch, wo ihr beschleunigt, wo ihr den Kampfbericht seht und in welcher Kiste eure Beute landet.
+Wer kein Tutorial will, kann es zu Beginn überspringen, und in den Optionen lassen sich die „Hilfetipps“ jederzeit ein- und ausschalten.
+〔配图请见Steam原文及归档图片〕
+
+Schmiede: Alles rund um Ausrüstung an einem Ort
+
+• Die Schmiede hat links jetzt eine Reihe von Reitern: Ausrüstung, Material, Fertigen, Kisten, Recyceln, Garantie. Das bisher eigenständige Arsenal ist ebenfalls hier eingezogen.
+• Das Öffnen von Kisten hat eine neue Animation: Der Verschluss springt auf, der Deckel klappt hoch und eine Lichtsäule schießt heraus; ein Klick spult vor. Kommt viel heraus, scrollt die Liste im Panel, statt den Button zum Abholen zu verdecken.
+• „Fertigen“ startet mit einer Übersicht aller Sets, aufgeteilt in drei Reiter: Allgemeine Sets, Klassen-Sets und Legendäre Set-Teile. Filtern könnt ihr nach dem, was zum ersten Helden in eurem Einsatztrupp passt, und nach „Meine Sets“.
+• Getragene Ausrüstung bekommt im Lager einen kleinen Stempel mit dem Namen des Trägers. Reicht das Geld nicht, wird der Button grau und sagt direkt, ob Gold oder Kristallerz fehlt und wie viel.
+
+〔配图请见Steam原文及归档图片〕
+
+Legendäre Ausrüstung und Set-Meisterschaft
+
+• Legendäre Ausrüstung kann jetzt mehrfach droppen und startet, egal woher sie kommt, auf Güte 1. Legendäre Set-Teile füttert ihr in der Schmiede unter „Aufwerten“ mit Duplikaten desselben Sets und desselben Platzes, bis hinauf zu Güte 6; doppelte legendäre Einzelstücke werden automatisch eingerechnet.
+• Legendäre Einzelstücke lassen sich jetzt auch schleifen („Schliff“) und umformen.
+• Set-Meisterschaft: Zerlegt normale Set-Teile oder legendäre Set-Teile, um Meisterschaft für dieses Set zu sammeln, bis Stufe 10. Jede Stufe macht die 2- und 4-Teile-Effekte des Sets um weitere 1 % stärker.
+• Fehlt nur noch ein bisschen bis zur nächsten Stufe, könnt ihr mit Zerlegematerial auch Meisterschaft in ein Set „Einspeisen“. Das füllt aber nur ein wenig auf, der Hauptweg bleibt das Zerlegen. Die Meisterschaft seht ihr auf der Heldenseite unter „Sets & Werte“.
+
+〔配图请见Steam原文及归档图片〕
+
+Forschung und Gebäude: weniger Babysitten
+
+• In einem Platz könnt ihr jetzt bis zu 10 Stufen desselben Forschungspfads hintereinander einreihen, statt für jede Stufe einzeln wiederzukommen.
+• Ab Etappe 400 lässt sich „Auto-Forschung“ erforschen: Ist die Warteschlange leer, reiht sie automatisch die günstigste nächste Stufe unter den Forschungspfaden ein, die ihr euch leisten könnt. Wer das nicht will, schaltet es auf der Seite „Forschungspfade“ ab.
+• Den Forschungsbalken könnt ihr anklicken: Jeder Klick zieht etwas Forschungszeit ab, gedrückt halten klickt weiter, und das kostet nichts.
+• Gebäude lassen sich ab Stufe 50 veredeln, insgesamt 10 Stufen, mit Gold und Kristallerz: Goldmine, Trainingsplatz und Co. bringen mehr Einkommen, die Akademie verkürzt die Forschungszeit. Die Stufen 45 bis 50 sind außerdem etwas günstiger geworden.
+• Alle 5 Gebäudestufen gibt es eine kleine Belohnung, zum Beispiel bei Goldmine und Trainingsplatz auf Stufe 35 einen zusätzlichen kostenlosen Arbeitsplatz.
+
+〔配图请见Steam原文及归档图片〕
+
+Spätspiel: Schutzgeister bis Grad 8, Megabauten ab Etappe 1200
+Das Grad-Limit der Schutzgeister steigt von 5 auf 8: Grad 6 bringt einen weiteren Glyphenplatz, Grad 7 eine stärkere Aura, Grad 8 einen höheren Verwandtschaftsbonus. Ist die Aura eures Einsatztrupps schon am Limit, sagt euch das Spiel vorher, dass der Aurabonus von Grad 7 nicht wirkt, damit ihr nicht umsonst aufsteigt.
+Ab Etappe 1200 könnt ihr in der Akademie „Megabauten“ errichten: Große Börse, Drillamt, Schatzamt und Großes Depot. Sie erhöhen der Reihe nach das stündliche Goldverkaufslimit, das Einkommen an Einsicht und Rangsteinen, die Ausrüstungsbeute im Leerlauf und die Gebäudekapazität. Jede Stufe bringt +5 %, und ab Etappe 1000 könnt ihr sie euch schon ansehen.
+〔配图请见Steam原文及归档图片〕
+
+Weitere Änderungen
+
+• Die Seite „Fähigkeiten“ der Helden zeigt jetzt links eine Liste und rechts die Details, und wie sich die Werte nach einem Upgrade ändern, steht direkt dabei. Die Seite „Ausrüstung“ ist jetzt ein Ring aus sechs Plätzen, mit „Alles ablegen“ und einem Sprung direkt zur Schmiede.
+• Im „Trupp“ folgen Anklicken und Ziehen zum Aufstellen jetzt denselben Regeln; wechselt ihr vom Trupp zur Heldenseite und zurück, bleibt ihr beim zuletzt angesehenen Helden; die Zifferntasten blättern auf jeder Seite um.
+• Im „Bericht“ eines Kampfes wechselt ihr per Klick auf die Porträtreihe oben den Helden. Der Kader sortiert standardmäßig erst nach Sternen, dann nach Stufe.
+• Nach dem Erwachen der Königin des Knochenhofs tut jeder Tick ihres Schadens über Zeit mehr weh als der vorige, und erneutes Wirken setzt ihn nicht zurück.
+• In den Etappen 1600, 1800 und 2000 sowie den passenden Epochenprüfungen haben Gegner etwas weniger LP und Angriff, diese Mauern sollten also etwas leichter fallen.
+• Ab Etappe 801 gehen normale Ausrüstungsbeute und Fertigung höchstens bis Güte 5; Güte 6 bleibt legendärer Ausrüstung vorbehalten.
+• Spielstände bekommen jetzt gestaffelte automatische Sicherungen (je eine für 5 Minuten, 30 Minuten und 3 Stunden). Beim Verlassen eines Kampfes werden die Ressourcen der Ultimate-Nahaufnahmen freigegeben, und das minimierte Kampf-Minifenster rendert nicht mehr, Idlen kostet also weniger Ressourcen.
+
+
+Was noch in Arbeit ist
+Daran wird noch gearbeitet, auch in der Entwicklungsversion gibt es davon noch keine vollständig spielbare Fassung. Deshalb erst mal nur die Richtung:
+
+• Überarbeitung des Prüfungsturms: Es geht Kapitel für Kapitel voran, eine letzte Turmspitze gibt es nicht.
+• Arena.
+• Eigene Etappenlinien und Wertungen für die Schwierigkeitsgrade Schwer und Albtraum.
+• Steam-Sets, Steam-exklusive Helden und das Mitnehmen von Gegenständen aus eurem Steam-Inventar ins Spiel sind noch im internen Test. Wann sie freigeschaltet werden, geben wir gesondert bekannt.
+
+Geplant ist, dass die Vollversion den Prüfungsturm und die Arena mitbringt. Sobald es Fortschritte gibt, sage ich euch Bescheid.
+
+Welche dieser Änderungen wollt ihr am liebsten zuerst spielen, und was kommt euch komisch vor? Erzählt es mir gern in den Kommentaren. Kommt auch gern auf unseren Discord（https://discord.gg/uEwdWz2h62）.
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+Kostenlose Demo spielen（https://store.steampowered.com/app/5257220/） | Vollversion auf die Wunschliste setzen（https://store.steampowered.com/app/4855890/）

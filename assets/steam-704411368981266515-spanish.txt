@@ -1,0 +1,83 @@
+Avances del desarrollo: notas de etapa, tutorial y Herrería, lo que cambió
+
+Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo!
+
+¡Hola a todos! Soy Juanmao.
+
+¡El juego completo sale el 3 de diciembre! Con el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes alguna idea sobre el Mercado, déjala en los comentarios.
+
+Esta semana la versión de desarrollo ha vuelto a cambiar bastante, así que te cuento lo que más se nota al jugar. Antes de nada: todo lo de abajo está en la versión de desarrollo y las imágenes también son de la versión de desarrollo; la demo que puedes descargar ahora todavía no lo tiene. Los números aún se están ajustando; lo que cuenta es lo que salga en el juego completo.
+
+Notas de etapa: cada etapa tiene su nota
+Cada vez que ganas una etapa de la campaña principal, recibes una Nota de etapa según lo bien que hayas jugado, de C a SSS. Ganar en la ronda 1 da SSS; en cuántas rondas ganas y si cae alguien deciden SS, S, A y las demás.
+En los resultados se indica qué te falta para la siguiente nota, por ejemplo, ganar en 1 ronda para llegar a SSS; si consigues una nota mejor, se ilumina «Nuevo récord».
+En el mapa, cada etapa lleva su letra, y en el rótulo del capítulo también ves cuántas etapas tienes en cada nota; si las 10 etapas de una zona tienen SSS, la bandera de la zona se vuelve dorada. Tener un capítulo entero con A o más, y con S o más, da una recompensa única por cada uno.
+Si quieres subir la nota de etapas antiguas, usa «Mejorar»: empieza por la etapa con la nota más baja, juega una partida por etapa y sube hasta la nota que elijas: S, SS o SSS.
+〔配图请见Steam原文及归档图片〕
+
+Tutorial: te enseña cada cosa cuando se abre
+Hemos rehecho el tutorial: cuando se abre una función, viene un personaje a explicarla en un momento y luego te guía para pulsarla una vez. Casi siempre te lo explica el Lancero veterano.
+Las lecciones que ya viste y las tarjetas de explicación se guardan en «Notas de Lancero veterano»; en la esquina superior derecha de la Fortaleza hay un botón de notas para repasarlas cuando se te olvide algo. Las funciones que aún no se han abierto también tienen su página en las notas, donde pone a partir de qué etapa se abren y quién te las explicará.
+El primer combate también enseña con más detalle: la primera vez que sale una Habilidad distintiva, se pausa un momento y te cuenta dónde se acelera, dónde ver el Registro y en qué cofre se guarda lo que recoges.
+Si no quieres ver el tutorial, puedes saltarlo al empezar, y también activarlo o desactivarlo cuando quieras en Ajustes.
+〔配图请见Steam原文及归档图片〕
+
+Herrería: todo lo del equipo, en un solo sitio
+
+• El lado izquierdo de la Herrería ahora es una fila de pestañas: Equipo, Materiales, Forjar, Cofres, Reciclar y Seguro; el Arsenal, que antes iba aparte, también se ha integrado aquí.
+• Abrir cofres tiene una animación nueva: salta el cierre, se levanta la tapa y sale una columna de luz; con un toque la adelantas. Si salen muchas cosas, se desplazan dentro del panel y no tapan el botón «Reclamar».
+• «Forjar» empieza con un resumen de conjuntos en tres páginas: Conjuntos generales, Conjuntos de clase y Piezas legendarias; puedes filtrar los que van bien con el primer héroe de tu Escuadra activa y «Mis conjuntos».
+• En el almacén, el equipo que alguien lleva puesto tiene un pequeño sello con el nombre de quien lo lleva; si no te alcanza el dinero, el botón se pone gris y te dice directamente si falta Oro o Mena de cristal, y cuánto.
+
+〔配图请见Steam原文及归档图片〕
+
+Equipo legendario y Maestría del conjunto
+
+• El equipo legendario ahora puede salir repetido y, venga de donde venga, empieza en Grado 1. Las Piezas legendarias de conjunto se suben en «Elevar», en la Herrería, alimentándolas con duplicados del mismo conjunto y la misma posición, hasta Grado 6; si te sale repetido un Legendario suelto, se fusiona solo.
+• Los Legendarios sueltos ahora también admiten Pulido y Remodelar.
+• Maestría del conjunto: al reciclar piezas normales de conjunto o Piezas legendarias de conjunto, acumulas maestría de ese conjunto, hasta el nivel 10; cada nivel sube un 1 % más los efectos de 2 y 4 piezas de ese conjunto.
+• Si te falta poco para subir, también puedes gastar Material de desguace para «Infundir» maestría en un conjunto, aunque infundir solo da un empujoncito: lo principal sigue siendo reciclar. La maestría se ve en la página del héroe, en «Conjuntos».
+
+〔配图请见Steam原文及归档图片〕
+
+Investigación y edificios: menos tiempo pendiente
+
+• En las Líneas de estudio, un solo hueco puede encadenar hasta 10 niveles seguidos de la misma línea, sin volver a pulsar nivel a nivel.
+• A partir de la etapa 400 se puede aprender «Investigación Automática»: cuando la cola se vacía, pone sola el siguiente nivel más barato que puedas pagar de tus Líneas de estudio. Si no la quieres, puedes desactivarla en la página de Líneas de estudio.
+• La barra de progreso de la investigación se puede pulsar: cada toque quita un poco de tiempo de investigación, si mantienes pulsado sigue tocando solo, y no cuesta nada.
+• A partir del nivel 50, los edificios tienen Refinado, con 10 grados en total, que cuesta Oro y Mena de cristal: la Mina de oro, el Campo de entrenamiento y otros suman ingresos, y la Academia reduce el tiempo de investigación. Los niveles del 45 al 50 también se han abaratado un poco.
+• Cada 5 niveles los edificios dan una pequeña recompensa; por ejemplo, la Mina de oro y el Campo de entrenamiento dan en el nivel 35 una Estación gratis más.
+
+〔配图请见Steam原文及归档图片〕
+
+Juego avanzado: Grado de los Espíritus guardianes hasta 8 y Megaestructuras en la etapa 1200
+El tope de Grado de los Espíritus guardianes sube de 5 a 8: el grado 6 da una casilla más de Glifo, el 7 refuerza el Aura y el 8 sube la bonificación de Parentesco. Si el Aura de tu Escuadra activa ya está al tope, te avisa antes de que la mejora de Aura del grado 7 no te servirá, para que no subas en balde.
+A partir de la etapa 1200, en la Academia se pueden construir «Megaestructuras»: son cuatro, Gran Bolsa, Comandancia de Instrucción, Oficina de Tesoros y Gran Depósito, y suben respectivamente el cupo horario de venta de oro, los ingresos de Perspicacia y Piedras de rango, el equipo que cae mientras el juego avanza solo y la capacidad de los edificios. Cada nivel da +5 %, y desde la etapa 1000 ya puedes verlas.
+〔配图请见Steam原文及归档图片〕
+
+Otros cambios
+
+• La página de habilidades del héroe ahora tiene la lista a la izquierda y los detalles a la derecha, y muestra directamente cuánto cambian los números al subir; la página de equipo pasa a ser un círculo de seis casillas, con «Quitar todo» y acceso directo a la Herrería.
+• En la Escuadra, colocar héroes con clic o arrastrándolos sigue ahora las mismas reglas; si vas de la Escuadra a la página de un héroe y vuelves, sigues en el héroe que estabas mirando; las teclas numéricas cambian de página en cualquier pantalla.
+• En el Informe de un combate, pulsa la fila de retratos de arriba para ver a otro héroe; el Plantel se ordena por defecto primero por estrellas y luego por nivel.
+• Tras despertar, el daño continuo de la Reina de la corte de huesos duele más con cada tic que el anterior, y volver a lanzarlo no lo reinicia.
+• En las etapas 1600, 1800 y 2000 y en sus pruebas de época correspondientes, la vida y el ataque de los enemigos bajan un poco, así que estos muros serán algo más llevaderos.
+• A partir de la etapa 801, el equipo normal que cae o se forja llega como máximo a Grado 5; el Grado 6 queda reservado para el equipo legendario.
+• Las partidas guardadas tienen ahora copias de seguridad automáticas por niveles (una de 5 minutos, otra de 30 minutos y otra de 3 horas). Al salir del combate se liberan los recursos de los primeros planos de las ultis, y la ventanita de combate deja de renderizarse al minimizarla, así que dejar el juego corriendo consume menos.
+
+
+Lo que aún estamos haciendo
+Esto todavía está en desarrollo y ni siquiera la versión de desarrollo tiene algo completo que se pueda jugar, así que de momento solo te cuento hacia dónde va:
+
+• Rediseño de la Torre de pruebas: avanzará por capítulos y no tendrá una cima final.
+• Arena.
+• Líneas de etapas propias y notas para las dificultades Difícil y Pesadilla.
+• Los conjuntos de Steam, los héroes exclusivos de Steam y llevar objetos de tu inventario de Steam al juego siguen en pruebas internas; avisaremos cuando se abran.
+
+Para el juego completo tenemos previsto incluir la Torre de pruebas y la Arena; cuando haya avances, lo contaré por aquí.
+
+De todos estos cambios, ¿cuál te apetece probar primero? ¿Hay algo que no te cuadre? Cuéntamelo en los comentarios. También puedes unirte a nuestro Discord（https://discord.gg/uEwdWz2h62）.
+
+Si te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+Juega la demo gratis（https://store.steampowered.com/app/5257220/） | Añade el juego completo a tu lista de deseados（https://store.steampowered.com/app/4855890/）

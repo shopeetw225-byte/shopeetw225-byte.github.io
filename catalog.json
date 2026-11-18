@@ -13264,6 +13264,905 @@
           "status": "已发布"
         }
       ]
+    },
+    {
+      "id": "steam-704411368981266515",
+      "title": "开发进度：关卡评价、新手引导、铁匠铺，最近改了这些",
+      "category": "Steam 公告",
+      "group": "已发布公告",
+      "date": "2026-11-18",
+      "dateBasis": "Steam公开公告posttime（北京时间）",
+      "publishedAt": "2026-11-18 16:14",
+      "summary": "正式版 12 月 3 日上线，会开启 Steam 社区市场；Demo 的进度不会继承到正式版。这期说说开发版最近的变化：每关多了 C 到 SSS 的关卡评价，新手引导改成功能开一样教一样，铁匠铺把装备相关的东西都收到了一处，传说装备能吃重复件升品，研究能连排、能自动排。这些都在开发版里，现在能下载的 Demo 还没有。",
+      "highlights": [
+        "正式版12月3日上线，将开启Steam社区市场；Demo进度不继承正式版。",
+        "介绍开发版关卡评价、新手引导、铁匠铺、传说装备、研究建筑与后期内容，当前公开Demo尚未包含。",
+        "十语正文各配6张本语实机图；简中、繁中用中文封面，其他八语用英文封面。"
+      ],
+      "announcementNumber": 18,
+      "status": "已发布 · 十语",
+      "cover": "assets/steam-704411368981266515-cover-schinese.png",
+      "body": "重要的事情说三遍：Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！\n\n各位股东大人，我是倦猫。\n\n游戏正式版将在 12 月 3 日上线，正式版会开启 Steam 社区市场～对市场有什么想法，欢迎在评论区留言。\n\n这周开发版又改了不少，挑玩家最能感觉到的说一说。先说好：下面这些都在开发版里，图也都是开发版画面，现在能下载的 Demo 里还没有；数值都还在调，以正式版为准。\n\n关卡评价：每关都有个分\n主线每一关打赢以后，会按打得多漂亮给一个评价，从 C 到 SSS。第 1 回合就打赢是 SSS；几回合内赢、有没有人倒下，决定 SS、S、A 这些档。\n结算的时候会写清楚离下一档还差什么，比如“1 回合内 → SSS”；刷出更高的评价会亮“新纪录”。\n地图上每关都挂着字母，章节名牌上也能看到各档有几关；一个战区 10 关全是 SSS，战区旗会变成金色。一章全部 A 以上、全部 S 以上，各有一份一次性奖励。\n想把旧关卡刷上去，可以用“补评价”：从评价最低的关开始，一关打一场，补到你选的 S、SS 或 SSS。\n〔配图请见Steam原文及归档图片〕\n\n新手引导：开到哪，教到哪\n新手引导重写了一遍：一个功能开了，就有一位角色来讲一小段，讲完带你点一遍，大多是退役枪兵来讲。\n讲过的课和说明卡都收在“退役枪兵的笔记”里，要塞右上角有个笔记按钮，忘了随时翻。还没开的功能，笔记里也会留一页，写着第几关以后谁来讲。\n第一场战斗也教得更细了：第一次放出招牌技时停一下，告诉你哪里加速、哪里看战报、捡到的东西收在哪个箱子里。\n不想看引导的，开局可以略过，设置里也能随时开关。\n〔配图请见Steam原文及归档图片〕\n\n铁匠铺：装备的事都在这里\n\n• 铁匠铺左边改成一排页签：装备、素材、定向打造、开箱、自动回收、保底，原来单独的军备也并了进来。\n• 开箱有了新演出：锁扣弹开、箱盖翻起、光柱冲出来，点一下就能快进；开出来的东西多，就在面板里滚动，不会挡住领取按钮。\n• 定向打造先看套装总览，分通用、职业、传说三页，能筛“适合出战队第一位的”和“我已有的套装”。\n• 仓库里穿在身上的装备，会盖一枚写着穿戴者的小印章；钱不够时按钮变灰，直接写缺金币还是缺晶矿、缺多少。\n\n〔配图请见Steam原文及归档图片〕\n\n传说装备和套装精通\n\n• 传说装备现在会重复掉了，不管从哪来，都从品级 1 起步。传说套装件在铁匠铺“升品”里喂同套同号位的重复件，一路升到品级 6；传说散件掉了重复会自动并进去。\n• 传说散件现在也能打磨、重塑了。\n• 套装精通：分解普通套装件或传说套装件，攒这一套的精通，最高 10 级，每级让这套的 2 件、4 件效果再高 1%。\n• 差一点升级时，也能花分解材料给某一套“灌注”精通，不过灌注只是补一点，主要还是靠分解。精通在英雄页“套装与词条”里看。\n\n〔配图请见Steam原文及归档图片〕\n\n研究和建筑：少盯一点\n\n• 研究线可以一格连排同一条线最多 10 级，不用一级一级回来点。\n• 第 400 关以后能学“自动研究”：队列一空，就自动排上买得起的研究线里最便宜的下一级。不想要可以在研究线页关掉。\n• 研究进度条可以点：每点一下减一点研究时间，按住就连点，不花钱。\n• 建筑到 50 级后能精炼，一共 10 阶，用金币和晶矿：金矿、训练场这些加收入，学院减研究时间。45 到 50 级这几级也便宜了一些。\n• 建筑每 5 级会有个小奖励，比如金矿、训练场 35 级多给一个免费加工工位。\n\n〔配图请见Steam原文及归档图片〕\n\n后期：守护灵灵阶到 8，1200 关开巨构\n守护灵的灵阶上限从 5 提到了 8：6 阶多一格灵纹，7 阶光环更强，8 阶同心加成更高。出战队的光环已经顶到上限时，会提前告诉你升到 7 阶的光环加成用不上，不用白升。\n第 1200 关以后，学院里能造“巨构”：大交易所、练兵总署、寻宝司、总仓四座，分别加每小时售金额度、心得和升阶石收入、挂机掉装备、建筑容量。每升一级 +5%，第 1000 关起就能先看到。\n〔配图请见Steam原文及归档图片〕\n\n其他改动\n\n• 英雄技能页改成左边列表、右边详情，升级后数值变多少直接列出来；装备页换成一圈六格，能全部卸下、一键去铁匠铺。\n• 编队里点选上阵和拖着上阵规则统一了；从编队去英雄页再回来，还停在刚才看的英雄；数字键在哪个页面都是换页。\n• 战报里点上面一排头像就能换人看；名册默认先按星级、再按等级排。\n• 白骨女王觉醒后的持续伤害，每跳都比上一跳更疼，再放一次也不会清零。\n• 第 1600、1800、2000 关和对应的纪元试炼，敌人血量和攻击下调了一些，这几道墙会好过一点。\n• 第 801 关以后，普通装备掉落和打造最高到品级 5，品级 6 留给传说装备。\n• 存档多了分级自动备份（5 分钟、30 分钟、3 小时各一份）。离开战斗会释放大招特写的资源，战斗小窗最小化后不再渲染，挂着更省资源。\n\n\n还在做的\n下面这些还在做，开发版里也还没有完整能玩的版本，先说个方向：\n\n• 试炼之塔重做：改成按章推进，没有最终塔顶。\n• 竞技场。\n• 困难、噩梦难度的独立关卡线和评价。\n• Steam 套装、Steam 专属英雄，以及把 Steam 库存里的道具带进游戏，现在还在内部测试，什么时候开放另行通知。\n\n正式版计划带上试炼之塔和竞技场，进度有了再跟大家说。\n\n这些改动里最想先玩到哪个、哪里看着不对劲，欢迎在评论区跟我说说。欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+      "translations": {
+        "schinese": {
+          "title": "开发进度：关卡评价、新手引导、铁匠铺，最近改了这些",
+          "summary": "正式版 12 月 3 日上线，会开启 Steam 社区市场；Demo 的进度不会继承到正式版。这期说说开发版最近的变化：每关多了 C 到 SSS 的关卡评价，新手引导改成功能开一样教一样，铁匠铺把装备相关的东西都收到了一处，传说装备能吃重复件升品，研究能连排、能自动排。这些都在开发版里，现在能下载的 Demo 还没有。",
+          "body": "重要的事情说三遍：Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！\n\n各位股东大人，我是倦猫。\n\n游戏正式版将在 12 月 3 日上线，正式版会开启 Steam 社区市场～对市场有什么想法，欢迎在评论区留言。\n\n这周开发版又改了不少，挑玩家最能感觉到的说一说。先说好：下面这些都在开发版里，图也都是开发版画面，现在能下载的 Demo 里还没有；数值都还在调，以正式版为准。\n\n关卡评价：每关都有个分\n主线每一关打赢以后，会按打得多漂亮给一个评价，从 C 到 SSS。第 1 回合就打赢是 SSS；几回合内赢、有没有人倒下，决定 SS、S、A 这些档。\n结算的时候会写清楚离下一档还差什么，比如“1 回合内 → SSS”；刷出更高的评价会亮“新纪录”。\n地图上每关都挂着字母，章节名牌上也能看到各档有几关；一个战区 10 关全是 SSS，战区旗会变成金色。一章全部 A 以上、全部 S 以上，各有一份一次性奖励。\n想把旧关卡刷上去，可以用“补评价”：从评价最低的关开始，一关打一场，补到你选的 S、SS 或 SSS。\n〔配图请见Steam原文及归档图片〕\n\n新手引导：开到哪，教到哪\n新手引导重写了一遍：一个功能开了，就有一位角色来讲一小段，讲完带你点一遍，大多是退役枪兵来讲。\n讲过的课和说明卡都收在“退役枪兵的笔记”里，要塞右上角有个笔记按钮，忘了随时翻。还没开的功能，笔记里也会留一页，写着第几关以后谁来讲。\n第一场战斗也教得更细了：第一次放出招牌技时停一下，告诉你哪里加速、哪里看战报、捡到的东西收在哪个箱子里。\n不想看引导的，开局可以略过，设置里也能随时开关。\n〔配图请见Steam原文及归档图片〕\n\n铁匠铺：装备的事都在这里\n\n• 铁匠铺左边改成一排页签：装备、素材、定向打造、开箱、自动回收、保底，原来单独的军备也并了进来。\n• 开箱有了新演出：锁扣弹开、箱盖翻起、光柱冲出来，点一下就能快进；开出来的东西多，就在面板里滚动，不会挡住领取按钮。\n• 定向打造先看套装总览，分通用、职业、传说三页，能筛“适合出战队第一位的”和“我已有的套装”。\n• 仓库里穿在身上的装备，会盖一枚写着穿戴者的小印章；钱不够时按钮变灰，直接写缺金币还是缺晶矿、缺多少。\n\n〔配图请见Steam原文及归档图片〕\n\n传说装备和套装精通\n\n• 传说装备现在会重复掉了，不管从哪来，都从品级 1 起步。传说套装件在铁匠铺“升品”里喂同套同号位的重复件，一路升到品级 6；传说散件掉了重复会自动并进去。\n• 传说散件现在也能打磨、重塑了。\n• 套装精通：分解普通套装件或传说套装件，攒这一套的精通，最高 10 级，每级让这套的 2 件、4 件效果再高 1%。\n• 差一点升级时，也能花分解材料给某一套“灌注”精通，不过灌注只是补一点，主要还是靠分解。精通在英雄页“套装与词条”里看。\n\n〔配图请见Steam原文及归档图片〕\n\n研究和建筑：少盯一点\n\n• 研究线可以一格连排同一条线最多 10 级，不用一级一级回来点。\n• 第 400 关以后能学“自动研究”：队列一空，就自动排上买得起的研究线里最便宜的下一级。不想要可以在研究线页关掉。\n• 研究进度条可以点：每点一下减一点研究时间，按住就连点，不花钱。\n• 建筑到 50 级后能精炼，一共 10 阶，用金币和晶矿：金矿、训练场这些加收入，学院减研究时间。45 到 50 级这几级也便宜了一些。\n• 建筑每 5 级会有个小奖励，比如金矿、训练场 35 级多给一个免费加工工位。\n\n〔配图请见Steam原文及归档图片〕\n\n后期：守护灵灵阶到 8，1200 关开巨构\n守护灵的灵阶上限从 5 提到了 8：6 阶多一格灵纹，7 阶光环更强，8 阶同心加成更高。出战队的光环已经顶到上限时，会提前告诉你升到 7 阶的光环加成用不上，不用白升。\n第 1200 关以后，学院里能造“巨构”：大交易所、练兵总署、寻宝司、总仓四座，分别加每小时售金额度、心得和升阶石收入、挂机掉装备、建筑容量。每升一级 +5%，第 1000 关起就能先看到。\n〔配图请见Steam原文及归档图片〕\n\n其他改动\n\n• 英雄技能页改成左边列表、右边详情，升级后数值变多少直接列出来；装备页换成一圈六格，能全部卸下、一键去铁匠铺。\n• 编队里点选上阵和拖着上阵规则统一了；从编队去英雄页再回来，还停在刚才看的英雄；数字键在哪个页面都是换页。\n• 战报里点上面一排头像就能换人看；名册默认先按星级、再按等级排。\n• 白骨女王觉醒后的持续伤害，每跳都比上一跳更疼，再放一次也不会清零。\n• 第 1600、1800、2000 关和对应的纪元试炼，敌人血量和攻击下调了一些，这几道墙会好过一点。\n• 第 801 关以后，普通装备掉落和打造最高到品级 5，品级 6 留给传说装备。\n• 存档多了分级自动备份（5 分钟、30 分钟、3 小时各一份）。离开战斗会释放大招特写的资源，战斗小窗最小化后不再渲染，挂着更省资源。\n\n\n还在做的\n下面这些还在做，开发版里也还没有完整能玩的版本，先说个方向：\n\n• 试炼之塔重做：改成按章推进，没有最终塔顶。\n• 竞技场。\n• 困难、噩梦难度的独立关卡线和评价。\n• Steam 套装、Steam 专属英雄，以及把 Steam 库存里的道具带进游戏，现在还在内部测试，什么时候开放另行通知。\n\n正式版计划带上试炼之塔和竞技场，进度有了再跟大家说。\n\n这些改动里最想先玩到哪个、哪里看着不对劲，欢迎在评论区跟我说说。欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266515?l=schinese"
+        },
+        "tchinese": {
+          "title": "開發進度：關卡評價、新手引導、鐵匠鋪，最近改了這些",
+          "summary": "正式版 12 月 3 日上線，會開啟 Steam 社群市場；Demo 的進度不會繼承到正式版。這期說說開發版最近的變化：每關多了 C 到 SSS 的關卡評價，新手引導改成功能開一樣教一樣，鐵匠鋪把裝備相關的東西都收到了一處，傳說裝備能吃重複件升品，研究能連排、能自動排。這些都在開發版裡，現在能下載的 Demo 還沒有。",
+          "body": "重要的事情說三遍：Demo 的進度不會繼承到正式版！Demo 的進度不會繼承到正式版！Demo 的進度不會繼承到正式版！\n\n各位股東大人，我是倦貓。\n\n遊戲正式版將在 12 月 3 日上線，正式版會開啟 Steam 社群市場～對市場有什麼想法，歡迎在留言區留言。\n\n這週開發版又改了不少，挑玩家最能感覺到的說一說。先說好：下面這些都在開發版裡，圖也都是開發版畫面，現在能下載的 Demo 裡還沒有；數值都還在調，以正式版為準。\n\n關卡評價：每關都有個分\n主線每一關打贏以後，會按打得多漂亮給一個評價，從 C 到 SSS。第 1 回合就打贏是 SSS；幾回合內贏、有沒有人倒下，決定 SS、S、A 這些檔。\n結算的時候會寫清楚離下一檔還差什麼，比如「1 回合內 → SSS」；刷出更高的評價會亮「新紀錄」。\n地圖上每關都掛著字母，章節名牌上也能看到各檔有幾關；一個戰區 10 關全是 SSS，戰區旗會變成金色。一章全部 A 以上、全部 S 以上，各有一份一次性獎勵。\n想把舊關卡刷上去，可以用「補評價」：從評價最低的關開始，一關打一場，補到你選的 S、SS 或 SSS。\n〔配图请见Steam原文及归档图片〕\n\n新手引導：開到哪，教到哪\n新手引導重寫了一遍：一個功能開了，就有一位角色來講一小段，講完帶你點一遍，大多是退役槍兵來講。\n講過的課和說明卡都收在「退役槍兵的筆記」裡，要塞右上角有個筆記按鈕，忘了隨時翻。還沒開的功能，筆記裡也會留一頁，寫著第幾關以後誰來講。\n第一場戰鬥也教得更細了：第一次放出招牌技時停一下，告訴你哪裡加速、哪裡看戰報、撿到的東西收在哪個箱子裡。\n不想看引導的，開局可以略過，設定裡也能隨時開關。\n〔配图请见Steam原文及归档图片〕\n\n鐵匠鋪：裝備的事都在這裡\n\n• 鐵匠鋪左邊改成一排頁籤：裝備、素材、定向打造、開箱、自動回收、保底，原本單獨的軍備也併了進來。\n• 開箱有了新演出：鎖扣彈開、箱蓋翻起、光柱衝出來，點一下就能快轉；開出來的東西多，就在面板裡捲動，不會擋住領取按鈕。\n• 定向打造先看套裝總覽，分通用、職業、傳說三頁，能篩「適合出戰隊第一位的」和「我已有的套裝」。\n• 倉庫裡穿在身上的裝備，會蓋一枚寫著穿戴者的小印章；錢不夠時按鈕變灰，直接寫缺金幣還是缺晶礦、缺多少。\n\n〔配图请见Steam原文及归档图片〕\n\n傳說裝備和套裝精通\n\n• 傳說裝備現在會重複掉了，不管從哪來，都從品級 1 起步。傳說套裝件在鐵匠鋪「升品」裡餵同套同號位的重複件，一路升到品級 6；傳說散件掉了重複會自動併進去。\n• 傳說散件現在也能打磨、重塑了。\n• 套裝精通：分解普通套裝件或傳說套裝件，攢這一套的精通，最高 10 級，每級讓這套的 2 件、4 件效果再高 1%。\n• 差一點升級時，也能花分解材料給某一套「灌注」精通，不過灌注只是補一點，主要還是靠分解。精通在英雄頁「套裝與詞條」裡看。\n\n〔配图请见Steam原文及归档图片〕\n\n研究和建築：少盯一點\n\n• 研究線可以一格連排同一條線最多 10 級，不用一級一級回來點。\n• 第 400 關以後能學「自動研究」：隊列一空，就自動排上買得起的研究線裡最便宜的下一級。不想要可以在研究線頁關掉。\n• 研究進度條可以點：每點一下減一點研究時間，按住就連點，不花錢。\n• 建築到 50 級後能精煉，一共 10 階，用金幣和晶礦：金礦、訓練場這些加收入，學院減研究時間。45 到 50 級這幾級也便宜了一些。\n• 建築每 5 級會有個小獎勵，比如金礦、訓練場 35 級多給一個免費加工工位。\n\n〔配图请见Steam原文及归档图片〕\n\n後期：守護靈靈階到 8，1200 關開巨構\n守護靈的靈階上限從 5 提到了 8：6 階多一格靈紋，7 階光環更強，8 階同心加成更高。出戰隊的光環已經頂到上限時，會提前告訴你升到 7 階的光環加成用不上，不用白升。\n第 1200 關以後，學院裡能造「巨構」：大交易所、練兵總署、尋寶司、總倉四座，分別加每小時售金額度、心得和升階石收入、掛機掉裝備、建築容量。每升一級 +5%，第 1000 關起就能先看到。\n〔配图请见Steam原文及归档图片〕\n\n其他改動\n\n• 英雄技能頁改成左邊列表、右邊詳情，升級後數值變多少直接列出來；裝備頁換成一圈六格，能全部卸下、一鍵去鐵匠鋪。\n• 編隊裡點選上陣和拖著上陣規則統一了；從編隊去英雄頁再回來，還停在剛才看的英雄；數字鍵在哪個頁面都是換頁。\n• 戰報裡點上面一排頭像就能換人看；名冊預設先按星級、再按等級排。\n• 白骨女王覺醒後的持續傷害，每跳都比上一跳更痛，再放一次也不會歸零。\n• 第 1600、1800、2000 關和對應的紀元試煉，敵人血量和攻擊下調了一些，這幾道牆會好過一點。\n• 第 801 關以後，普通裝備掉落和打造最高到品級 5，品級 6 留給傳說裝備。\n• 存檔多了分級自動備份（5 分鐘、30 分鐘、3 小時各一份）。離開戰鬥會釋放大招特寫的資源，戰鬥小窗最小化後不再渲染，掛著更省資源。\n\n\n還在做的\n下面這些還在做，開發版裡也還沒有完整能玩的版本，先說個方向：\n\n• 試煉之塔重做：改成按章推進，沒有最終塔頂。\n• 競技場。\n• 困難、惡夢難度的獨立關卡線和評價。\n• Steam 套裝、Steam 專屬英雄，以及把 Steam 庫存裡的道具帶進遊戲，現在還在內部測試，什麼時候開放另行通知。\n\n正式版計畫帶上試煉之塔和競技場，進度有了再跟大家說。\n\n這些改動裡最想先玩到哪個、哪裡看著不對勁，歡迎在留言區跟我說說。歡迎加入遊戲交流群：1079312948。\n\n如果覺得還不錯，也拜託幫忙加個願望清單。謝謝大家，這對一個遊戲真的很重要。\n\n免費試玩 Demo（https://store.steampowered.com/app/5257220/）｜將正式版加入願望清單（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266515?l=tchinese"
+        },
+        "english": {
+          "title": "Dev progress: Stage Ratings, a new tutorial, the Blacksmith and more",
+          "summary": "Out Dec 3 with the Steam Community Market; Demo progress won't carry over. In the dev build, not the Demo yet: C–SSS Stage Ratings, a new tutorial, the Blacksmith, auto research.",
+          "body": "Important enough to say three times: Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game!\n\nHi everyone, Juanmao here.\n\nThe full game launches on December 3! The Steam Community Market will open with the full game~ If you have any thoughts about the Market, feel free to leave them in the comments.\n\nThe development build changed quite a bit again this week, so I'll pick out the things you'll notice most. Just to be clear up front: everything below is in the development build, and the images are all screenshots from the development build. The Demo you can download right now doesn't have any of it yet. The numbers are all still being tuned, so the full game is what counts.\n\nStage Ratings: every stage gets a score\nEvery time you win a main campaign stage, you get a rating from C to SSS based on how cleanly you won. Win in round 1 and it's SSS; how many rounds it takes and whether anyone falls decide SS, S, A and the other tiers.\nThe results screen spells out what you still need for the next tier, like “Win by round 1 → SSS”, and when you beat your old rating, “New Record” lights up.\nOn the map, every stage shows its letter, and the chapter nameplate shows how many stages you have in each tier; get all 10 stages of a zone to SSS and the zone flag turns gold. Getting a whole chapter to A or better, and to S or better, each gives a one-time reward.\nWant to push old stages higher? Use “Re-rate”: starting from your lowest-rated stage, it plays one battle per stage until they reach the S, SS or SSS you picked.\n〔配图请见Steam原文及归档图片〕\n\nTutorial: it teaches as things open up\nThe tutorial has been rewritten from scratch: whenever a feature opens up, a character comes over to explain it in a short lesson, then walks you through it once. Most of the time it's the Veteran Lancer doing the teaching.\nEvery lesson and tip card you've seen is kept in “Veteran Lancer's Notes”. There's a notes button in the top right of the Fortress, so if you forget something, flip back anytime. Features that haven't opened yet already get a page in the notes too, saying after which stage who will come and explain it.\nThe first battle also teaches you more: the first time a Signature Skill fires, it pauses to show you where to speed up, where to check the Battle Log, and which chest your loot goes into.\nDon't want the tutorial? You can skip it at the start, and you can switch “Guidance Tips” on or off in Settings anytime.\n〔配图请见Steam原文及归档图片〕\n\nBlacksmith: everything gear-related in one place\n\n• The Blacksmith now has a row of tabs on the left: Gear, Materials, Craft, Chests, Auto Recycle, Pity. The old standalone Armory has been merged in too.\n• Opening chests has a new animation: the latch pops, the lid flips up and a beam of light shoots out. One click fast-forwards it. If a lot comes out, it scrolls inside the panel instead of covering the claim button.\n• Craft starts with an overview of all sets, split into three tabs: General Sets, Class Sets and Legendary Set Pieces. You can filter by what suits the first hero in your fielded squad, and by “Sets I own”.\n• Gear that someone is wearing gets a small stamp in storage showing who's wearing it. When you can't afford something, the button turns gray and tells you straight out whether you're short on Gold or Crystal Ore, and by how much.\n\n〔配图请见Steam原文及归档图片〕\n\nLegendary gear and Set Mastery\n\n• Legendary gear can now drop as duplicates, and no matter where it comes from, it starts at Grade 1. A Legendary Set Piece can be fed duplicates of the same set and the same slot under “Grade Up” in the Blacksmith, all the way up to Grade 6; duplicate Legendary Singles get merged in automatically.\n• Legendary Singles can now be polished and reshaped too.\n• Set Mastery: salvage ordinary set pieces or Legendary Set Pieces to build up Mastery for that set, up to level 10. Each level makes that set's 2-piece and 4-piece effects another 1% stronger.\n• When you're just short of the next level, you can also spend salvage materials to “Infuse” Mastery into a set. Infusing only tops it up a little, though; salvaging is still the main way. You can check Mastery under “Sets & Stats” on the hero page.\n\n〔配图请见Steam原文及归档图片〕\n\nResearch and buildings: less babysitting\n\n• One slot can now queue up to 10 levels of the same research track in a row, so you don't have to come back and click level by level.\n• After stage 400 you can learn “Auto Research”: as soon as the queue is empty, it automatically queues the cheapest next level among the research tracks you can afford. Don't want it? Turn it off on the Research Tracks page.\n• The research progress bar is clickable: each click cuts a bit of research time, hold it down to keep clicking, and it costs nothing.\n• Buildings can be refined after level 50, 10 tiers in total, using Gold and Crystal Ore: the Gold Mine, Training Ground and the like earn more, and the Academy cuts research time. Levels 45 to 50 have also gotten a bit cheaper.\n• Every 5 building levels there's a small bonus; for example, at level 35 the Gold Mine and Training Ground give an extra free Workstation.\n\n〔配图请见Steam原文及归档图片〕\n\nLate game: Guardian Spirits up to grade 8, Megastructures at stage 1200\nThe grade cap for Guardian Spirits has gone up from 5 to 8: grade 6 adds one more Glyph slot, grade 7 makes the Aura stronger, and grade 8 raises the Kindred bonus. If your fielded squad's Aura is already at the cap, it warns you ahead of time that the grade 7 Aura bonus won't do anything, so you don't upgrade for nothing.\nAfter stage 1200, you can build “Megastructures” in the Academy: the Grand Exchange, Drill Office, Treasure Bureau and Great Depot. They raise, in that order, the hourly gold-sale allowance, Insight and Rank Stone income, idle equipment drops, and building capacity. Each level adds +5%, and you can already preview them from stage 1000.\n〔配图请见Steam原文及归档图片〕\n\nOther changes\n\n• The hero Skills page now has a list on the left and details on the right, and it shows exactly how the numbers change after an upgrade. The Gear page is now a ring of six slots, with “Unequip All” and a one-click jump to the Blacksmith.\n• In Formation, clicking and dragging heroes into the lineup now follow the same rules; going from Formation to a hero page and back keeps you on the hero you were just looking at; number keys switch pages on every screen.\n• On a battle’s Report page, click the row of portraits at the top to switch heroes. The Roster now sorts by stars first, then by level, by default.\n• Once Bone Court Queen awakens, every tick of her damage over time hurts more than the last, and casting it again doesn't reset it.\n• At stages 1600, 1800 and 2000 and their matching Epoch trials, enemy HP and Attack have been lowered a bit, so those walls should be a little easier to get past.\n• From stage 801 on, ordinary gear drops and crafting go up to Grade 5 at most; Grade 6 is kept for legendary gear.\n• Saves now get tiered auto-backups (one each for 5 minutes, 30 minutes and 3 hours). Leaving a battle frees the resources used by ultimate close-ups, and the battle mini-window stops rendering when it's minimized, so idling uses fewer resources.\n\n\nStill in the works\nThese are still being worked on, and there's no fully playable version of them in the development build yet either, so here's just the direction:\n\n• Trial Tower rework: it'll progress chapter by chapter, with no final top floor.\n• Arena.\n• Separate stage lines and ratings for Hard and Nightmare difficulties.\n• Steam sets, Steam-exclusive heroes, and bringing items from your Steam inventory into the game are still in internal testing. When they open will be announced separately.\n\nThe full game is planned to include the Trial Tower and the Arena. I'll let you know once there's more progress.\n\nWhich of these changes do you most want to try first, and does anything look off? Tell me in the comments. You're also welcome to join us on Discord（https://discord.gg/uEwdWz2h62）.\n\nIf you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.\n\nPlay the free Demo（https://store.steampowered.com/app/5257220/） | Wishlist the full game（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266515?l=english"
+        },
+        "japanese": {
+          "title": "開発進捗：ステージ評価、初心者ガイド、鍛冶屋など最近の変更まとめ",
+          "summary": "製品版は12月3日リリース、Steam コミュニティマーケットも開放されます。Demoの進行状況は製品版に引き継がれません。開発版の最近の変化：CからSSSのステージ評価、機能ごとに教える初心者ガイド、装備をまとめた鍛冶屋、重複品で昇品できる伝説装備、研究の連続予約と自動研究。今のDemoにはまだ入っていません。",
+          "body": "大事なことなので3回言います：Demoの進行状況は製品版に引き継がれません！Demoの進行状況は製品版に引き継がれません！Demoの進行状況は製品版に引き継がれません！\n\nみなさん、こんにちは。倦猫（Juanmao）です。\n\n製品版は12月3日にリリース。製品版では Steam コミュニティマーケットが開放されます～マーケットについて思うことがあれば、ぜひコメントで教えてください。\n\n今週も開発版でいろいろ変わったので、プレイヤーがいちばん実感しやすいところを選んでお話しします。先に言っておくと、以下はすべて開発版の内容で、画像も開発版の画面です。今ダウンロードできるDemoにはまだ入っていません。数値もまだ調整中なので、製品版のものが正式になります。\n\nステージ評価：どのステージにも点数がつく\nメインのステージは、勝つたびに戦いぶりに応じてCからSSSまでの評価がつきます。1ターン目で勝てばSSS。何ターン以内に勝ったか、戦闘不能になった人がいるかで、SS・S・Aなどのランクが決まります。\nリザルトでは、次のランクまで何が足りないかがはっきり書かれます。たとえば「1ターン以内 → SSS」。より高い評価を取ると「新記録」が光ります。\nマップでは各ステージに評価の文字がつき、章の名札でも各ランクが何ステージあるか見られます。ひとつの戦区の10ステージがすべてSSSになると、戦区の旗が金色に変わります。1章をすべてA以上、すべてS以上にすると、それぞれ一度きりの報酬があります。\n昔のステージの評価を上げたいときは「評価上げ」が使えます。評価がいちばん低いステージから1ステージにつき1戦ずつ挑み、選んだS・SS・SSSまで上げていきます。\n〔配图请见Steam原文及归档图片〕\n\n初心者ガイド：開いたところから教える\n初心者ガイドを作り直しました。機能がひとつ開くと、キャラクターが来て少しだけ説明し、そのあと一度実際に操作するところまで案内してくれます。説明役はほとんど退役槍兵です。\nこれまでの講義と説明カードは「退役槍兵のノート」にまとめてあります。要塞の右上にノートのボタンがあるので、忘れたらいつでも読み返せます。まだ開いていない機能もノートに1ページ残っていて、どのステージの後に誰が説明に来るかが書いてあります。\n最初の戦闘もていねいに教えるようになりました。初めて看板技を出したところで一度止まり、どこで加速するか、どこで戦闘記録を見るか、拾ったものがどの箱に入るかを教えてくれます。\nガイドがいらない方は、始めるときにスキップできますし、設定からいつでもオン・オフできます。\n〔配图请见Steam原文及归档图片〕\n\n鍛冶屋：装備のことは全部ここで\n\n• 鍛冶屋の左側がタブの列になりました：装備、素材、指定鍛造、開封、自動回収、天井。もともと別だった軍備もここに統合されています。\n• 開封に新しい演出がつきました。留め金が外れ、ふたが開いて、光の柱が噴き出します。クリックすれば早送りできます。出てきたものが多いときはパネルの中でスクロールするので、受け取りボタンが隠れません。\n• 指定鍛造はまずセットの一覧から。汎用・職業・伝説の3ページに分かれていて、「出撃編成の1人目向け」と「所持セット」で絞り込めます。\n• 倉庫では、誰かが装備中の装備に装備者の名前入りの小さなハンコが押されます。お金が足りないとボタンがグレーになり、ゴールドと晶鉱のどちらがいくつ足りないかがそのまま書かれます。\n\n〔配图请见Steam原文及归档图片〕\n\n伝説装備とセット熟練\n\n• 伝説装備が重複して出るようになりました。どこで手に入れても品級1からのスタートです。伝説セット品は鍛冶屋の「昇品」で同じセット・同じ部位の重複品を食べさせると、品級6まで上がっていきます。伝説単品は重複して出ると自動で統合されます。\n• 伝説単品も研磨・再鍛ができるようになりました。\n• セット熟練：通常のセット品や伝説セット品を分解すると、そのセットの熟練がたまります。最大10レベルで、1レベルごとにそのセットの2・4セット効果がさらに1%上がります。\n• あと少しでレベルが上がるときは、分解素材を使ってセットに熟練を「注入」することもできます。ただ、注入はちょっと補う程度で、メインはあくまで分解です。熟練は英雄画面の「セットとステータス」で確認できます。\n\n〔配图请见Steam原文及归档图片〕\n\n研究と建物：張り付かなくても大丈夫\n\n• 研究ラインは、同じラインを1枠で最大10レベルまで続けて予約できます。1レベルずつ戻ってきて押す必要はありません。\n• ステージ400以降は「自動研究」を習得できます。予約が空くと、買える研究ラインの中でいちばん安い次のレベルを自動で予約します。いらなければ研究ラインの画面でオフにできます。\n• 研究の進行バーはクリックできます。1回押すごとに研究時間が少し縮み、長押しで連打になります。費用はかかりません。\n• 建物はレベル50になると精錬できます。全10段階で、ゴールドと晶鉱を使います。金鉱や訓練場などは収入が増え、学院は研究時間が短くなります。レベル45〜50のあたりも少し安くなりました。\n• 建物は5レベルごとにちょっとした報酬があります。たとえば金鉱と訓練場は、レベル35で無料の加工作業台がひとつ増えます。\n\n〔配图请见Steam原文及归档图片〕\n\n終盤：守護霊の霊階は8まで、ステージ1200で巨大建造物\n守護霊の霊階の上限が5から8になりました。霊階6で霊紋の枠がひとつ増え、霊階7でオーラが強くなり、霊階8で同心のボーナスが上がります。出撃編成のオーラがすでに上限に達しているときは、霊階7に上げてもオーラのボーナスが活きないことを前もって教えてくれるので、むだに上げずに済みます。\nステージ1200以降は、学院で「巨大建造物」を建てられます。大取引所、練兵総署、尋宝司、総倉の4つで、それぞれ毎時のゴールド売却枠、知見と昇階石の収入、放置中の装備ドロップ、建物の容量を増やします。1レベルごとに+5%で、ステージ1000から先に見ることができます。\n〔配图请见Steam原文及归档图片〕\n\nその他の変更\n\n• 英雄のスキル画面は左がリスト、右が詳細になり、レベルアップで数値がどれだけ変わるかがそのまま表示されます。装備画面は6つの枠が輪になった形になり、「全部外す」も「鍛冶屋へ」もワンクリックです。\n• 編成で、クリックで出撃させるときとドラッグで出撃させるときのルールを統一しました。編成から英雄画面に行って戻ってきても、さっき見ていた英雄のままです。数字キーはどの画面でもページ切り替えになります。\n• 戦闘レポートでは、上に並んだ顔アイコンをクリックすると見る人を切り替えられます。英雄名簿はデフォルトで星の数順、次にレベル順に並びます。\n• 白骨の女王の覚醒後の継続ダメージは、1回ごとに前回より痛くなり、もう一度使ってもリセットされません。\n• ステージ1600・1800・2000と、それに対応する紀元の試練で、敵のHPと攻撃を少し下げました。このあたりの壁は少し越えやすくなります。\n• ステージ801以降、通常装備のドロップと鍛造は品級5までになり、品級6は伝説装備のためにとっておきます。\n• セーブに段階的な自動バックアップを追加しました（5分・30分・3時間で1つずつ）。戦闘を離れると必殺技のカットイン用リソースを解放し、戦闘の小ウィンドウは最小化すると描画しなくなるので、放置中の負荷が軽くなります。\n\n\nまだ作っているもの\n以下はまだ制作中で、開発版でもまだ一通り遊べる状態にはなっていません。方向性だけ先にお伝えします：\n\n• 試練の塔の作り直し：章ごとに進む形にして、最終的な塔の頂上はなくなります。\n• 闘技場。\n• ハード・ナイトメア難易度の独立したステージラインと評価。\n• Steamセット、Steam専用英雄、そしてSteamインベントリのアイテムをゲームに持ち込む機能は、現在内部テスト中です。開放時期は改めてお知らせします。\n\n製品版には試練の塔と闘技場を入れる予定です。進展があったらまたお話しします。\n\n今回の変更で、いちばん早く遊びたいのはどれか、どこか気になるところはないか、ぜひコメントで教えてください。Discord（https://discord.gg/uEwdWz2h62）にもぜひ遊びに来てください。\n\nもし悪くないなと思ってもらえたら、ウィッシュリストに追加していただけるとうれしいです。みなさん、ありがとうございます。ゲームにとって、本当に大事なことなんです。\n\n無料体験版をプレイ（https://store.steampowered.com/app/5257220/） | 製品版をウィッシュリストに追加（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266515?l=japanese"
+        },
+        "korean": {
+          "title": "개발 진행 상황: 스테이지 평가, 초보자 가이드, 대장간 등 최근 바뀐 것들",
+          "summary": "정식판은 12월 3일 출시되고 Steam 커뮤니티 장터가 열려요. 데모 진행 상황은 이어지지 않아요. 개발 버전 최근 변화: C~SSS 스테이지 평가, 기능마다 알려 주는 초보자 가이드, 장비를 모은 대장간, 중복품으로 품급을 올리는 전설 장비, 연구 연속 예약과 자동 연구. 지금 데모에는 아직 없어요.",
+          "body": "중요해서 세 번 말할게요: 데모 진행 상황은 정식판으로 이어지지 않아요! 데모 진행 상황은 정식판으로 이어지지 않아요! 데모 진행 상황은 정식판으로 이어지지 않아요!\n\n안녕하세요, Juanmao입니다.\n\n정식판이 12월 3일에 출시돼요. 정식판에서는 Steam 커뮤니티 장터가 열려요~ 장터에 대해 하고 싶은 말이 있으면 댓글로 남겨 주세요.\n\n이번 주에도 개발 버전에서 꽤 많이 바뀌어서, 플레이어가 가장 체감할 만한 것들을 골라 이야기해 볼게요. 먼저 말씀드리면, 아래 내용은 모두 개발 버전에 있는 것이고 이미지도 전부 개발 버전 화면이에요. 지금 받을 수 있는 데모에는 아직 없어요. 수치도 아직 조정 중이라 정식판을 기준으로 봐 주세요.\n\n스테이지 평가: 스테이지마다 점수가 붙어요\n메인 스테이지는 이길 때마다 얼마나 깔끔하게 이겼는지에 따라 C부터 SSS까지 평가를 받아요. 1턴에 이기면 SSS이고, 몇 턴 안에 이겼는지, 전사자가 나왔는지에 따라 SS, S, A 같은 등급이 정해져요.\n결산 화면에서는 다음 등급까지 뭐가 모자란지 알려 줘요. 예를 들면 \"1턴 이내 승리 → SSS\"처럼요. 더 높은 평가를 받으면 \"신기록\"이 떠요.\n지도에서는 스테이지마다 평가 글자가 붙어 있고, 장 이름표에서도 등급별로 몇 스테이지인지 볼 수 있어요. 한 전투 지역의 10스테이지가 모두 SSS면 전투 지역 깃발이 금색으로 바뀌어요. 한 장을 전부 A 이상, 전부 S 이상으로 만들면 각각 일회성 보상이 있어요.\n예전 스테이지 평가를 올리고 싶다면 \"평가 올리기\"를 쓰면 돼요. 평가가 가장 낮은 스테이지부터 한 스테이지에 한 판씩 싸워서, 고른 S, SS, SSS까지 채워 줘요.\n〔配图请见Steam原文及归档图片〕\n\n초보자 가이드: 열리는 대로 알려 줘요\n초보자 가이드를 새로 만들었어요. 기능 하나가 열리면 캐릭터 한 명이 와서 짧게 설명하고, 설명이 끝나면 직접 한 번 눌러 보도록 안내해 줘요. 설명은 대부분 퇴역 창병이 맡아요.\n지금까지 배운 내용과 설명 카드는 \"퇴역 창병의 노트\"에 모여 있어요. 요새 오른쪽 위에 노트 버튼이 있으니 잊어버리면 언제든 펼쳐 보세요. 아직 안 열린 기능도 노트에 한 페이지가 남아 있어서, 몇 스테이지 이후에 누가 설명하러 오는지 적혀 있어요.\n첫 전투도 더 자세히 알려 줘요. 대표 스킬을 처음 쓰는 순간 잠깐 멈추고, 어디서 가속하는지, 어디서 기록을 보는지, 주운 물건이 어느 상자에 담기는지 알려 줘요.\n가이드가 필요 없으면 시작할 때 건너뛸 수 있고, 설정에서도 언제든 켜고 끌 수 있어요.\n〔配图请见Steam原文及归档图片〕\n\n대장간: 장비 일은 전부 여기서\n\n• 대장간 왼쪽이 탭 한 줄로 바뀌었어요: 장비, 재료, 지정 제작, 상자 개봉, 자동 회수, 천장. 원래 따로 있던 군비도 여기로 합쳐졌어요.\n• 상자 개봉에 새 연출이 생겼어요. 걸쇠가 튕겨 열리고, 뚜껑이 젖혀지고, 빛기둥이 솟아올라요. 클릭하면 빨리 넘길 수 있어요. 나온 게 많으면 패널 안에서 스크롤돼서 수령 버튼을 가리지 않아요.\n• 지정 제작은 먼저 세트 목록부터 봐요. 공용, 직업, 전설 세 페이지로 나뉘고, \"출전 편성 첫 번째 영웅 추천\"과 \"보유 세트\"로 걸러 볼 수 있어요.\n• 창고에서 누군가 착용 중인 장비에는 착용자 이름이 적힌 작은 도장이 찍혀요. 돈이 모자라면 버튼이 회색으로 바뀌고, 골드와 수정 광석 중 뭐가 얼마나 모자란지 바로 적혀 있어요.\n\n〔配图请见Steam原文及归档图片〕\n\n전설 장비와 세트 숙련\n\n• 이제 전설 장비도 중복으로 나와요. 어디서 얻든 품급 1부터 시작해요. 전설 세트품은 대장간 \"품급 상승\"에서 같은 세트, 같은 부위의 중복품을 먹이면 품급 6까지 올라가요. 전설 단품은 중복으로 나오면 자동으로 합쳐져요.\n• 전설 단품도 이제 연마와 재구성을 할 수 있어요.\n• 세트 숙련: 일반 세트품이나 전설 세트품을 분해하면 그 세트의 숙련이 쌓여요. 최대 10레벨이고, 레벨마다 그 세트의 2·4세트 효과가 1%씩 더 올라가요.\n• 레벨업까지 조금 모자랄 때는 분해 재료를 써서 세트에 숙련을 \"주입\"할 수도 있어요. 다만 주입은 살짝 보태는 정도이고, 주로는 분해로 쌓아요. 숙련은 영웅 화면의 \"세트와 능력치\"에서 볼 수 있어요.\n\n〔配图请见Steam原文及归档图片〕\n\n연구와 건물: 덜 지켜봐도 돼요\n\n• 연구 트랙은 한 칸에 같은 트랙을 최대 10레벨까지 연달아 예약할 수 있어요. 한 레벨씩 돌아와서 누를 필요가 없어요.\n• 400스테이지 이후에는 \"자동 연구\"를 배울 수 있어요. 대기열이 비면 살 수 있는 연구 트랙 중 가장 싼 다음 레벨을 자동으로 걸어 줘요. 원하지 않으면 연구 트랙 화면에서 끌 수 있어요.\n• 연구 진행 바를 누를 수 있어요. 한 번 누를 때마다 연구 시간이 조금씩 줄고, 누르고 있으면 연타돼요. 비용은 들지 않아요.\n• 건물은 50레벨이 되면 정련할 수 있어요. 총 10단계이고 골드와 수정 광석을 써요. 금광, 훈련장 같은 건물은 수입이 늘고, 학원은 연구 시간이 줄어요. 45~50레벨 구간도 조금 싸졌어요.\n• 건물은 5레벨마다 작은 보상이 있어요. 예를 들어 금광과 훈련장은 35레벨에 무료 가공 작업대를 하나 더 줘요.\n\n〔配图请见Steam原文及归档图片〕\n\n후반: 수호령 등급은 8까지, 1200스테이지에 거대 건축\n수호령 등급 상한이 5에서 8로 올랐어요. 6등급에는 영혼 문양 칸이 하나 늘고, 7등급은 오라가 더 강해지고, 8등급은 한마음 보너스가 더 높아져요. 출전 편성의 오라가 이미 상한에 닿았다면, 7등급으로 올려도 오라 보너스를 못 쓴다는 걸 미리 알려 줘서 괜히 올리지 않아도 돼요.\n1200스테이지 이후에는 학원에서 \"거대 건축\"을 지을 수 있어요. 대거래소, 훈련 총서, 탐보사, 총창고 네 곳이고, 각각 시간당 골드 판매 한도, 통찰과 승급석 수입, 방치 장비 드롭, 건물 용량을 늘려 줘요. 레벨마다 +5%이고, 1000스테이지부터 미리 볼 수 있어요.\n〔配图请见Steam原文及归档图片〕\n\n그 밖의 변경\n\n• 영웅 스킬 화면이 왼쪽 목록, 오른쪽 상세로 바뀌었고, 레벨업하면 수치가 얼마나 바뀌는지 바로 보여 줘요. 장비 화면은 여섯 칸이 둥글게 놓인 형태로 바뀌었고, \"전부 해제\"도 \"대장간으로\"도 한 번에 할 수 있어요.\n• 편성에서 클릭으로 출전시킬 때와 드래그로 출전시킬 때의 규칙을 통일했어요. 편성에서 영웅 화면에 갔다가 돌아와도 방금 보던 영웅이 그대로예요. 숫자 키는 어느 화면에서든 페이지 전환이에요.\n• 전투 보고에서 위쪽에 늘어선 초상화를 누르면 다른 영웅으로 바꿔 볼 수 있어요. 영웅 명단은 기본적으로 성급순, 그다음 레벨순으로 정렬돼요.\n• 백골 여왕의 각성 후 지속 피해는 틱마다 이전 틱보다 더 아파지고, 다시 써도 초기화되지 않아요.\n• 1600, 1800, 2000스테이지와 해당 시대 시련의 적 체력과 공격력을 조금 낮췄어요. 이 벽들이 조금은 넘기 쉬워질 거예요.\n• 801스테이지 이후 일반 장비 드롭과 제작은 최대 품급 5까지이고, 품급 6은 전설 장비 몫으로 남겨 둬요.\n• 저장 데이터에 단계별 자동 백업이 생겼어요(5분, 30분, 3시간 단위로 하나씩). 전투에서 나가면 궁극기 클로즈업 리소스를 해제하고, 전투 미니 창은 최소화하면 더 이상 렌더링하지 않아서 방치할 때 리소스를 덜 먹어요.\n\n\n아직 만들고 있는 것\n아래 내용은 아직 작업 중이고, 개발 버전에서도 아직 제대로 플레이할 수 있는 상태는 아니에요. 방향만 먼저 말씀드릴게요:\n\n• 시련의 탑 개편: 장 단위로 진행하는 방식으로 바뀌고, 최종 꼭대기는 없어요.\n• 투기장.\n• 어려움, 악몽 난이도의 독립 스테이지 라인과 평가.\n• Steam 세트, Steam 전용 영웅, 그리고 Steam 인벤토리 아이템을 게임으로 가져오는 기능은 지금 내부 테스트 중이에요. 언제 열릴지는 따로 알려 드릴게요.\n\n정식판에는 시련의 탑과 투기장을 넣을 계획이에요. 진척이 생기면 또 알려 드릴게요.\n\n이번 변경 중에 가장 먼저 해 보고 싶은 게 뭔지, 어디가 이상해 보이는지 댓글로 알려 주세요. Discord（https://discord.gg/uEwdWz2h62）에도 놀러 오세요.\n\n괜찮다고 느끼셨다면 찜 목록에도 추가해 주세요. 모두 감사합니다. 게임 하나에는 정말 중요한 일이에요.\n\n무료 데모 플레이（https://store.steampowered.com/app/5257220/） | 정식판 찜 목록에 추가（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266515?l=koreana"
+        },
+        "german": {
+          "title": "Entwicklungsstand: Etappenwertung, neues Tutorial, Schmiede und mehr",
+          "summary": "Am 3. Dezember mit Steam-Community-Markt; Demo-Fortschritt wird nicht übernommen. Entwicklungsversion, nicht in der Demo: Etappenwertung C–SSS, Tutorial, Schmiede, Auto-Forschung.",
+          "body": "So wichtig, dass ich es dreimal sage: Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen!\n\nHallo zusammen, hier ist Juanmao.\n\nDie Vollversion erscheint am 3. Dezember! Mit der Vollversion öffnet der Steam-Community-Markt~ Wenn ihr Gedanken zum Markt habt, schreibt sie gern in die Kommentare.\n\nDiese Woche hat sich in der Entwicklungsversion wieder einiges getan, ich picke mal raus, was ihr am meisten merken werdet. Gleich vorweg: Alles hier steckt in der Entwicklungsversion, und auch die Bilder sind Aufnahmen aus der Entwicklungsversion. In der Demo, die ihr gerade herunterladen könnt, ist davon noch nichts drin. Die Zahlen werden außerdem noch angepasst, maßgeblich ist die Vollversion.\n\nEtappenwertung: Jede Etappe bekommt eine Note\nJedes Mal, wenn ihr eine Etappe der Hauptkampagne gewinnt, gibt es je nachdem, wie sauber der Sieg war, eine Wertung von C bis SSS. Sieg in Runde 1 heißt SSS; wie viele Runden ihr braucht und ob jemand fällt, entscheidet über SS, S, A und die übrigen Stufen.\nDie Auswertung zeigt genau, was euch zur nächsten Stufe noch fehlt, etwa „Sieg bis Runde 1 → SSS“; holt ihr eine bessere Wertung als vorher, leuchtet „Neuer Rekord“ auf.\nAuf der Karte trägt jede Etappe ihren Buchstaben, und am Kapitelschild seht ihr, wie viele Etappen ihr in jeder Stufe habt; sind alle 10 Etappen einer Zone auf SSS, wird die Zonenflagge golden. Ein ganzes Kapitel komplett auf A oder besser und komplett auf S oder besser bringt jeweils eine einmalige Belohnung.\nWollt ihr alte Etappen nachbessern, gibt es „Aufwerten“: Ab der Etappe mit der niedrigsten Wertung wird pro Etappe ein Kampf gespielt, bis sie die gewählte Stufe S, SS oder SSS erreicht.\n〔配图请见Steam原文及归档图片〕\n\nTutorial: Erklärt wird, was gerade aufgeht\nDas Tutorial wurde komplett neu geschrieben: Sobald eine Funktion freigeschaltet wird, kommt eine Figur vorbei, erklärt sie in einer kurzen Lektion und klickt sie danach einmal mit euch durch. Meistens übernimmt das der Veteranen-Lanzer.\nAlle Lektionen und Erklärkarten, die ihr schon gesehen habt, landen in den „Notizen von Veteranen-Lanzer“. Oben rechts in der Festung gibt es dafür einen Notizen-Button – wenn ihr mal etwas vergessen habt, blättert einfach nach. Auch Funktionen, die noch nicht offen sind, haben dort schon eine Seite, auf der steht, nach welcher Etappe wer sie erklären kommt.\nAuch der erste Kampf erklärt jetzt mehr: Wenn zum ersten Mal eine Signaturfähigkeit ausgelöst wird, hält das Spiel kurz an und zeigt euch, wo ihr beschleunigt, wo ihr den Kampfbericht seht und in welcher Kiste eure Beute landet.\nWer kein Tutorial will, kann es zu Beginn überspringen, und in den Optionen lassen sich die „Hilfetipps“ jederzeit ein- und ausschalten.\n〔配图请见Steam原文及归档图片〕\n\nSchmiede: Alles rund um Ausrüstung an einem Ort\n\n• Die Schmiede hat links jetzt eine Reihe von Reitern: Ausrüstung, Material, Fertigen, Kisten, Recyceln, Garantie. Das bisher eigenständige Arsenal ist ebenfalls hier eingezogen.\n• Das Öffnen von Kisten hat eine neue Animation: Der Verschluss springt auf, der Deckel klappt hoch und eine Lichtsäule schießt heraus; ein Klick spult vor. Kommt viel heraus, scrollt die Liste im Panel, statt den Button zum Abholen zu verdecken.\n• „Fertigen“ startet mit einer Übersicht aller Sets, aufgeteilt in drei Reiter: Allgemeine Sets, Klassen-Sets und Legendäre Set-Teile. Filtern könnt ihr nach dem, was zum ersten Helden in eurem Einsatztrupp passt, und nach „Meine Sets“.\n• Getragene Ausrüstung bekommt im Lager einen kleinen Stempel mit dem Namen des Trägers. Reicht das Geld nicht, wird der Button grau und sagt direkt, ob Gold oder Kristallerz fehlt und wie viel.\n\n〔配图请见Steam原文及归档图片〕\n\nLegendäre Ausrüstung und Set-Meisterschaft\n\n• Legendäre Ausrüstung kann jetzt mehrfach droppen und startet, egal woher sie kommt, auf Güte 1. Legendäre Set-Teile füttert ihr in der Schmiede unter „Aufwerten“ mit Duplikaten desselben Sets und desselben Platzes, bis hinauf zu Güte 6; doppelte legendäre Einzelstücke werden automatisch eingerechnet.\n• Legendäre Einzelstücke lassen sich jetzt auch schleifen („Schliff“) und umformen.\n• Set-Meisterschaft: Zerlegt normale Set-Teile oder legendäre Set-Teile, um Meisterschaft für dieses Set zu sammeln, bis Stufe 10. Jede Stufe macht die 2- und 4-Teile-Effekte des Sets um weitere 1 % stärker.\n• Fehlt nur noch ein bisschen bis zur nächsten Stufe, könnt ihr mit Zerlegematerial auch Meisterschaft in ein Set „Einspeisen“. Das füllt aber nur ein wenig auf, der Hauptweg bleibt das Zerlegen. Die Meisterschaft seht ihr auf der Heldenseite unter „Sets & Werte“.\n\n〔配图请见Steam原文及归档图片〕\n\nForschung und Gebäude: weniger Babysitten\n\n• In einem Platz könnt ihr jetzt bis zu 10 Stufen desselben Forschungspfads hintereinander einreihen, statt für jede Stufe einzeln wiederzukommen.\n• Ab Etappe 400 lässt sich „Auto-Forschung“ erforschen: Ist die Warteschlange leer, reiht sie automatisch die günstigste nächste Stufe unter den Forschungspfaden ein, die ihr euch leisten könnt. Wer das nicht will, schaltet es auf der Seite „Forschungspfade“ ab.\n• Den Forschungsbalken könnt ihr anklicken: Jeder Klick zieht etwas Forschungszeit ab, gedrückt halten klickt weiter, und das kostet nichts.\n• Gebäude lassen sich ab Stufe 50 veredeln, insgesamt 10 Stufen, mit Gold und Kristallerz: Goldmine, Trainingsplatz und Co. bringen mehr Einkommen, die Akademie verkürzt die Forschungszeit. Die Stufen 45 bis 50 sind außerdem etwas günstiger geworden.\n• Alle 5 Gebäudestufen gibt es eine kleine Belohnung, zum Beispiel bei Goldmine und Trainingsplatz auf Stufe 35 einen zusätzlichen kostenlosen Arbeitsplatz.\n\n〔配图请见Steam原文及归档图片〕\n\nSpätspiel: Schutzgeister bis Grad 8, Megabauten ab Etappe 1200\nDas Grad-Limit der Schutzgeister steigt von 5 auf 8: Grad 6 bringt einen weiteren Glyphenplatz, Grad 7 eine stärkere Aura, Grad 8 einen höheren Verwandtschaftsbonus. Ist die Aura eures Einsatztrupps schon am Limit, sagt euch das Spiel vorher, dass der Aurabonus von Grad 7 nicht wirkt, damit ihr nicht umsonst aufsteigt.\nAb Etappe 1200 könnt ihr in der Akademie „Megabauten“ errichten: Große Börse, Drillamt, Schatzamt und Großes Depot. Sie erhöhen der Reihe nach das stündliche Goldverkaufslimit, das Einkommen an Einsicht und Rangsteinen, die Ausrüstungsbeute im Leerlauf und die Gebäudekapazität. Jede Stufe bringt +5 %, und ab Etappe 1000 könnt ihr sie euch schon ansehen.\n〔配图请见Steam原文及归档图片〕\n\nWeitere Änderungen\n\n• Die Seite „Fähigkeiten“ der Helden zeigt jetzt links eine Liste und rechts die Details, und wie sich die Werte nach einem Upgrade ändern, steht direkt dabei. Die Seite „Ausrüstung“ ist jetzt ein Ring aus sechs Plätzen, mit „Alles ablegen“ und einem Sprung direkt zur Schmiede.\n• Im „Trupp“ folgen Anklicken und Ziehen zum Aufstellen jetzt denselben Regeln; wechselt ihr vom Trupp zur Heldenseite und zurück, bleibt ihr beim zuletzt angesehenen Helden; die Zifferntasten blättern auf jeder Seite um.\n• Im „Bericht“ eines Kampfes wechselt ihr per Klick auf die Porträtreihe oben den Helden. Der Kader sortiert standardmäßig erst nach Sternen, dann nach Stufe.\n• Nach dem Erwachen der Königin des Knochenhofs tut jeder Tick ihres Schadens über Zeit mehr weh als der vorige, und erneutes Wirken setzt ihn nicht zurück.\n• In den Etappen 1600, 1800 und 2000 sowie den passenden Epochenprüfungen haben Gegner etwas weniger LP und Angriff, diese Mauern sollten also etwas leichter fallen.\n• Ab Etappe 801 gehen normale Ausrüstungsbeute und Fertigung höchstens bis Güte 5; Güte 6 bleibt legendärer Ausrüstung vorbehalten.\n• Spielstände bekommen jetzt gestaffelte automatische Sicherungen (je eine für 5 Minuten, 30 Minuten und 3 Stunden). Beim Verlassen eines Kampfes werden die Ressourcen der Ultimate-Nahaufnahmen freigegeben, und das minimierte Kampf-Minifenster rendert nicht mehr, Idlen kostet also weniger Ressourcen.\n\n\nWas noch in Arbeit ist\nDaran wird noch gearbeitet, auch in der Entwicklungsversion gibt es davon noch keine vollständig spielbare Fassung. Deshalb erst mal nur die Richtung:\n\n• Überarbeitung des Prüfungsturms: Es geht Kapitel für Kapitel voran, eine letzte Turmspitze gibt es nicht.\n• Arena.\n• Eigene Etappenlinien und Wertungen für die Schwierigkeitsgrade Schwer und Albtraum.\n• Steam-Sets, Steam-exklusive Helden und das Mitnehmen von Gegenständen aus eurem Steam-Inventar ins Spiel sind noch im internen Test. Wann sie freigeschaltet werden, geben wir gesondert bekannt.\n\nGeplant ist, dass die Vollversion den Prüfungsturm und die Arena mitbringt. Sobald es Fortschritte gibt, sage ich euch Bescheid.\n\nWelche dieser Änderungen wollt ihr am liebsten zuerst spielen, und was kommt euch komisch vor? Erzählt es mir gern in den Kommentaren. Kommt auch gern auf unseren Discord（https://discord.gg/uEwdWz2h62）.\n\nWenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.\n\nKostenlose Demo spielen（https://store.steampowered.com/app/5257220/） | Vollversion auf die Wunschliste setzen（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266515?l=german"
+        },
+        "french": {
+          "title": "Point dev : notes d'étape, nouveau tutoriel, la Forge et plus encore",
+          "summary": "Sortie le 3 décembre avec le Marché de la communauté Steam ; progression de la démo non reprise. En dev, pas encore en démo : notes d'étape C–SSS, tutoriel, Forge, recherche auto.",
+          "body": "C'est important, alors je le dis trois fois : la progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet !\n\nBonjour à tous, ici Juanmao.\n\nLe jeu complet sort le 3 décembre ! Le Marché de la communauté Steam ouvrira avec le jeu complet~ Si vous avez des idées sur le Marché, laissez-les en commentaire.\n\nCette semaine, la version de développement a encore pas mal bougé ; je vous présente ce que vous remarquerez le plus. Une précision d'abord : tout ce qui suit se trouve dans la version de développement, et les images sont toutes tirées de la version de développement. La démo téléchargeable en ce moment ne contient encore rien de tout ça. Les chiffres sont aussi encore en cours d'ajustement : c'est le jeu complet qui fera foi.\n\nNotes d'étape : chaque étape a sa note\nChaque fois que vous gagnez une étape de la campagne principale, vous recevez une note de C à SSS selon la propreté de votre victoire. Gagner dès le tour 1, c'est SSS ; le nombre de tours et le fait que quelqu'un tombe ou non décident des paliers SS, S, A et des autres.\nL'écran de résultats indique clairement ce qui manque pour le palier suivant, par exemple gagner en 1 tour pour obtenir SSS, et si vous battez votre ancienne note, « Record battu » s'allume.\nSur la carte, chaque étape affiche sa lettre, et le panneau du chapitre montre combien d'étapes vous avez dans chaque palier ; avec les 10 étapes d'une zone en SSS, le drapeau de la zone devient doré. Un chapitre entièrement noté A ou plus, et entièrement noté S ou plus, donne chaque fois une récompense unique.\nPour remonter d'anciennes étapes, il y a « Améliorer » : en partant de l'étape la moins bien notée, un combat par étape, jusqu'à atteindre le S, le SS ou le SSS que vous avez choisi.\n〔配图请见Steam原文及归档图片〕\n\nTutoriel : on vous explique au fur et à mesure\nLe tutoriel a été entièrement réécrit : dès qu'une fonction s'ouvre, un personnage vient l'expliquer en une courte leçon, puis vous la fait essayer une fois. La plupart du temps, c'est le Lancier vétéran qui s'en charge.\nToutes les leçons et fiches d'explication déjà vues sont rangées dans le « Carnet de Lancier vétéran ». Un bouton Carnet se trouve en haut à droite de la Forteresse : si vous oubliez quelque chose, feuilletez-le quand vous voulez. Les fonctions pas encore ouvertes y ont déjà leur page, qui indique après quelle étape et qui viendra les expliquer.\nLe premier combat explique aussi davantage : la première fois qu'une Spécialité se déclenche, le jeu fait une pause pour vous montrer où accélérer, où consulter le Journal et dans quel coffre arrive votre butin.\nSi vous ne voulez pas du tutoriel, vous pouvez le passer au début, et les « Conseils de guidage » s'activent ou se désactivent à tout moment dans les Paramètres.\n〔配图请见Steam原文及归档图片〕\n\nForge : tout l'équipement au même endroit\n\n• La Forge a maintenant une rangée d'onglets à gauche : « Équip. », « Matériaux », « Façonner », « Coffres », « Recyclage », « Garantie ». L'ancien Arsenal indépendant y a aussi été intégré.\n• L'ouverture des coffres a une nouvelle animation : le loquet saute, le couvercle se soulève et une colonne de lumière jaillit ; un clic suffit pour passer en avance rapide. Quand il y a beaucoup de butin, la liste défile dans le panneau sans cacher le bouton « Récupérer ».\n• « Façonner » s'ouvre sur un aperçu des ensembles, réparti en trois onglets : Ensembles généraux, Ensembles de classe et Pièces légendaires. Vous pouvez filtrer ce qui convient au premier héros de votre équipe engagée, ou afficher « Mes ensembles ».\n• Dans l'entrepôt, l'équipement porté reçoit un petit tampon avec le nom de son porteur. Quand l'argent manque, le bouton devient gris et indique directement s'il vous manque de l'or ou du Minerai de cristal, et combien.\n\n〔配图请见Steam原文及归档图片〕\n\nÉquipement légendaire et Maîtrise d'ensemble\n\n• L'équipement légendaire peut désormais tomber en double et, quelle que soit sa provenance, il commence à la gamme 1. Une Pièce légendaire d'ensemble se nourrit, dans « Élever » à la Forge, de doublons du même ensemble et du même emplacement, jusqu'à la gamme 6 ; les Légendaires isolés en double sont fusionnés automatiquement.\n• Les Légendaires isolés peuvent maintenant aussi passer au Polissage et être remodelés.\n• Maîtrise d'ensemble : démontez des pièces d'ensemble ordinaires ou des Pièces légendaires d'ensemble pour accumuler la maîtrise de cet ensemble, jusqu'au niveau 10. Chaque niveau renforce encore de 1 % les effets 2 et 4 pièces de l'ensemble.\n• S'il vous manque juste un peu pour monter, vous pouvez aussi dépenser des Matériaux de démontage pour « Infuser » de la maîtrise dans un ensemble. L'infusion ne fait toutefois que compléter un peu : le démontage reste la voie principale. La maîtrise se consulte sur la page du héros, dans « Ensembles et stats ».\n\n〔配图请见Steam原文及归档图片〕\n\nRecherche et bâtiments : moins de surveillance\n\n• Un seul emplacement peut maintenant enchaîner jusqu'à 10 niveaux d'une même voie de recherche : plus besoin de revenir cliquer niveau par niveau.\n• Après l'étape 400, vous pouvez apprendre « Recherche Auto » : dès que la file est vide, elle y place automatiquement le prochain niveau le moins cher parmi les voies de recherche que vous pouvez payer. Si vous n'en voulez pas, désactivez-la sur la page « Voies de recherche ».\n• La barre de progression de la recherche est cliquable : chaque clic retire un peu de temps de recherche, maintenez pour cliquer en continu, et c'est gratuit.\n• À partir du niveau 50, les bâtiments peuvent passer au Raffinage, 10 paliers en tout, avec de l'or et du Minerai de cristal : la Mine d'or, le Terrain d'entraînement et les autres rapportent plus, et l'Académie réduit le temps de recherche. Les niveaux 45 à 50 coûtent aussi un peu moins cher.\n• Tous les 5 niveaux, un bâtiment donne un petit bonus : par exemple, au niveau 35, la Mine d'or et le Terrain d'entraînement offrent un Poste gratuit de plus.\n\n〔配图请见Steam原文及归档图片〕\n\nFin de partie : Esprits gardiens jusqu'au grade 8, Mégastructures à l'étape 1200\nLe grade max des Esprits gardiens passe de 5 à 8 : le grade 6 ajoute une case de glyphe, le grade 7 renforce l'aura, le grade 8 augmente le bonus de parenté. Si l'aura de votre équipe engagée est déjà au plafond, le jeu vous prévient à l'avance que le bonus d'aura du grade 7 ne servira pas, pour que vous ne montiez pas pour rien.\nAprès l'étape 1200, l'Académie permet de construire des « Mégastructures » : la Grande Bourse, l'Office d'entraînement, le Bureau des trésors et le Grand Dépôt. Elles augmentent respectivement le quota horaire de vente d'or, les revenus de Perspicacité et de Pierres de rang, le butin d'équipement au repos et la capacité des bâtiments. Chaque niveau donne +5 %, et vous pouvez déjà les découvrir dès l'étape 1000.\n〔配图请见Steam原文及归档图片〕\n\nAutres changements\n\n• La page « Compét. » des héros affiche maintenant une liste à gauche et les détails à droite, avec la variation des valeurs après amélioration indiquée directement. La page « Équip. » devient un cercle de six cases, avec « Tout retirer » et un accès direct à la Forge.\n• Dans « Équipe », placer un héros en cliquant ou en le faisant glisser suit désormais les mêmes règles ; si vous passez de l'équipe à la page d'un héros puis revenez, vous restez sur le héros que vous regardiez ; les touches numériques changent de page sur tous les écrans.\n• Dans le « Rapport » d'un combat, cliquez sur la rangée de portraits en haut pour changer de héros. L'Effectif est désormais trié par défaut par étoiles, puis par niveau.\n• Une fois éveillée, la Reine de la cour des os inflige des dégâts sur la durée dont chaque tic fait plus mal que le précédent, et les relancer ne les remet pas à zéro.\n• Aux étapes 1600, 1800 et 2000 et aux épreuves d'ère correspondantes, les PV et l'attaque des ennemis ont un peu baissé : ces murs devraient être un peu plus faciles à passer.\n• À partir de l'étape 801, le butin et la fabrication d'équipement ordinaire montent au maximum à la gamme 5 ; la gamme 6 est réservée à l'équipement légendaire.\n• Le jeu fait maintenant des sauvegardes auto échelonnées (une de 5 minutes, une de 30 minutes, une de 3 heures). Quitter un combat libère les ressources des gros plans d'ultime, et la mini-fenêtre de combat ne fait plus de rendu une fois réduite : l'idle consomme moins de ressources.\n\n\nEncore en chantier\nCe qui suit est encore en cours de développement, et même la version de développement n'en a pas encore de version entièrement jouable ; voici donc juste la direction :\n\n• Refonte de la Tour des épreuves : progression chapitre par chapitre, sans sommet final.\n• L'Arène.\n• Des lignes d'étapes et des notes séparées pour les difficultés Difficile et Cauchemar.\n• Les Ensembles Steam, les héros exclusifs Steam et le fait d'apporter dans le jeu des objets de votre inventaire Steam sont encore en test interne. Leur date d'ouverture sera annoncée séparément.\n\nLe jeu complet prévoit d'inclure la Tour des épreuves et l'Arène. Je vous en reparlerai quand ça aura avancé.\n\nParmi ces changements, lequel avez-vous le plus envie d'essayer en premier, et qu'est-ce qui vous semble bizarre ? Dites-le-moi en commentaire. Vous pouvez aussi nous rejoindre sur Discord（https://discord.gg/uEwdWz2h62）.\n\nSi le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.\n\nJouer à la démo gratuite（https://store.steampowered.com/app/5257220/） | Ajouter le jeu complet à votre liste de souhaits（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266515?l=french"
+        },
+        "spanish": {
+          "title": "Avances del desarrollo: notas de etapa, tutorial y Herrería, lo que cambió",
+          "summary": "Sale el 3 de diciembre con el Mercado de la Comunidad de Steam; el progreso de la demo no pasará. En desarrollo, aún no en la demo: notas de etapa C–SSS, tutorial, Herrería y más.",
+          "body": "Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo!\n\n¡Hola a todos! Soy Juanmao.\n\n¡El juego completo sale el 3 de diciembre! Con el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes alguna idea sobre el Mercado, déjala en los comentarios.\n\nEsta semana la versión de desarrollo ha vuelto a cambiar bastante, así que te cuento lo que más se nota al jugar. Antes de nada: todo lo de abajo está en la versión de desarrollo y las imágenes también son de la versión de desarrollo; la demo que puedes descargar ahora todavía no lo tiene. Los números aún se están ajustando; lo que cuenta es lo que salga en el juego completo.\n\nNotas de etapa: cada etapa tiene su nota\nCada vez que ganas una etapa de la campaña principal, recibes una Nota de etapa según lo bien que hayas jugado, de C a SSS. Ganar en la ronda 1 da SSS; en cuántas rondas ganas y si cae alguien deciden SS, S, A y las demás.\nEn los resultados se indica qué te falta para la siguiente nota, por ejemplo, ganar en 1 ronda para llegar a SSS; si consigues una nota mejor, se ilumina «Nuevo récord».\nEn el mapa, cada etapa lleva su letra, y en el rótulo del capítulo también ves cuántas etapas tienes en cada nota; si las 10 etapas de una zona tienen SSS, la bandera de la zona se vuelve dorada. Tener un capítulo entero con A o más, y con S o más, da una recompensa única por cada uno.\nSi quieres subir la nota de etapas antiguas, usa «Mejorar»: empieza por la etapa con la nota más baja, juega una partida por etapa y sube hasta la nota que elijas: S, SS o SSS.\n〔配图请见Steam原文及归档图片〕\n\nTutorial: te enseña cada cosa cuando se abre\nHemos rehecho el tutorial: cuando se abre una función, viene un personaje a explicarla en un momento y luego te guía para pulsarla una vez. Casi siempre te lo explica el Lancero veterano.\nLas lecciones que ya viste y las tarjetas de explicación se guardan en «Notas de Lancero veterano»; en la esquina superior derecha de la Fortaleza hay un botón de notas para repasarlas cuando se te olvide algo. Las funciones que aún no se han abierto también tienen su página en las notas, donde pone a partir de qué etapa se abren y quién te las explicará.\nEl primer combate también enseña con más detalle: la primera vez que sale una Habilidad distintiva, se pausa un momento y te cuenta dónde se acelera, dónde ver el Registro y en qué cofre se guarda lo que recoges.\nSi no quieres ver el tutorial, puedes saltarlo al empezar, y también activarlo o desactivarlo cuando quieras en Ajustes.\n〔配图请见Steam原文及归档图片〕\n\nHerrería: todo lo del equipo, en un solo sitio\n\n• El lado izquierdo de la Herrería ahora es una fila de pestañas: Equipo, Materiales, Forjar, Cofres, Reciclar y Seguro; el Arsenal, que antes iba aparte, también se ha integrado aquí.\n• Abrir cofres tiene una animación nueva: salta el cierre, se levanta la tapa y sale una columna de luz; con un toque la adelantas. Si salen muchas cosas, se desplazan dentro del panel y no tapan el botón «Reclamar».\n• «Forjar» empieza con un resumen de conjuntos en tres páginas: Conjuntos generales, Conjuntos de clase y Piezas legendarias; puedes filtrar los que van bien con el primer héroe de tu Escuadra activa y «Mis conjuntos».\n• En el almacén, el equipo que alguien lleva puesto tiene un pequeño sello con el nombre de quien lo lleva; si no te alcanza el dinero, el botón se pone gris y te dice directamente si falta Oro o Mena de cristal, y cuánto.\n\n〔配图请见Steam原文及归档图片〕\n\nEquipo legendario y Maestría del conjunto\n\n• El equipo legendario ahora puede salir repetido y, venga de donde venga, empieza en Grado 1. Las Piezas legendarias de conjunto se suben en «Elevar», en la Herrería, alimentándolas con duplicados del mismo conjunto y la misma posición, hasta Grado 6; si te sale repetido un Legendario suelto, se fusiona solo.\n• Los Legendarios sueltos ahora también admiten Pulido y Remodelar.\n• Maestría del conjunto: al reciclar piezas normales de conjunto o Piezas legendarias de conjunto, acumulas maestría de ese conjunto, hasta el nivel 10; cada nivel sube un 1 % más los efectos de 2 y 4 piezas de ese conjunto.\n• Si te falta poco para subir, también puedes gastar Material de desguace para «Infundir» maestría en un conjunto, aunque infundir solo da un empujoncito: lo principal sigue siendo reciclar. La maestría se ve en la página del héroe, en «Conjuntos».\n\n〔配图请见Steam原文及归档图片〕\n\nInvestigación y edificios: menos tiempo pendiente\n\n• En las Líneas de estudio, un solo hueco puede encadenar hasta 10 niveles seguidos de la misma línea, sin volver a pulsar nivel a nivel.\n• A partir de la etapa 400 se puede aprender «Investigación Automática»: cuando la cola se vacía, pone sola el siguiente nivel más barato que puedas pagar de tus Líneas de estudio. Si no la quieres, puedes desactivarla en la página de Líneas de estudio.\n• La barra de progreso de la investigación se puede pulsar: cada toque quita un poco de tiempo de investigación, si mantienes pulsado sigue tocando solo, y no cuesta nada.\n• A partir del nivel 50, los edificios tienen Refinado, con 10 grados en total, que cuesta Oro y Mena de cristal: la Mina de oro, el Campo de entrenamiento y otros suman ingresos, y la Academia reduce el tiempo de investigación. Los niveles del 45 al 50 también se han abaratado un poco.\n• Cada 5 niveles los edificios dan una pequeña recompensa; por ejemplo, la Mina de oro y el Campo de entrenamiento dan en el nivel 35 una Estación gratis más.\n\n〔配图请见Steam原文及归档图片〕\n\nJuego avanzado: Grado de los Espíritus guardianes hasta 8 y Megaestructuras en la etapa 1200\nEl tope de Grado de los Espíritus guardianes sube de 5 a 8: el grado 6 da una casilla más de Glifo, el 7 refuerza el Aura y el 8 sube la bonificación de Parentesco. Si el Aura de tu Escuadra activa ya está al tope, te avisa antes de que la mejora de Aura del grado 7 no te servirá, para que no subas en balde.\nA partir de la etapa 1200, en la Academia se pueden construir «Megaestructuras»: son cuatro, Gran Bolsa, Comandancia de Instrucción, Oficina de Tesoros y Gran Depósito, y suben respectivamente el cupo horario de venta de oro, los ingresos de Perspicacia y Piedras de rango, el equipo que cae mientras el juego avanza solo y la capacidad de los edificios. Cada nivel da +5 %, y desde la etapa 1000 ya puedes verlas.\n〔配图请见Steam原文及归档图片〕\n\nOtros cambios\n\n• La página de habilidades del héroe ahora tiene la lista a la izquierda y los detalles a la derecha, y muestra directamente cuánto cambian los números al subir; la página de equipo pasa a ser un círculo de seis casillas, con «Quitar todo» y acceso directo a la Herrería.\n• En la Escuadra, colocar héroes con clic o arrastrándolos sigue ahora las mismas reglas; si vas de la Escuadra a la página de un héroe y vuelves, sigues en el héroe que estabas mirando; las teclas numéricas cambian de página en cualquier pantalla.\n• En el Informe de un combate, pulsa la fila de retratos de arriba para ver a otro héroe; el Plantel se ordena por defecto primero por estrellas y luego por nivel.\n• Tras despertar, el daño continuo de la Reina de la corte de huesos duele más con cada tic que el anterior, y volver a lanzarlo no lo reinicia.\n• En las etapas 1600, 1800 y 2000 y en sus pruebas de época correspondientes, la vida y el ataque de los enemigos bajan un poco, así que estos muros serán algo más llevaderos.\n• A partir de la etapa 801, el equipo normal que cae o se forja llega como máximo a Grado 5; el Grado 6 queda reservado para el equipo legendario.\n• Las partidas guardadas tienen ahora copias de seguridad automáticas por niveles (una de 5 minutos, otra de 30 minutos y otra de 3 horas). Al salir del combate se liberan los recursos de los primeros planos de las ultis, y la ventanita de combate deja de renderizarse al minimizarla, así que dejar el juego corriendo consume menos.\n\n\nLo que aún estamos haciendo\nEsto todavía está en desarrollo y ni siquiera la versión de desarrollo tiene algo completo que se pueda jugar, así que de momento solo te cuento hacia dónde va:\n\n• Rediseño de la Torre de pruebas: avanzará por capítulos y no tendrá una cima final.\n• Arena.\n• Líneas de etapas propias y notas para las dificultades Difícil y Pesadilla.\n• Los conjuntos de Steam, los héroes exclusivos de Steam y llevar objetos de tu inventario de Steam al juego siguen en pruebas internas; avisaremos cuando se abran.\n\nPara el juego completo tenemos previsto incluir la Torre de pruebas y la Arena; cuando haya avances, lo contaré por aquí.\n\nDe todos estos cambios, ¿cuál te apetece probar primero? ¿Hay algo que no te cuadre? Cuéntamelo en los comentarios. También puedes unirte a nuestro Discord（https://discord.gg/uEwdWz2h62）.\n\nSi te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.\n\nJuega la demo gratis（https://store.steampowered.com/app/5257220/） | Añade el juego completo a tu lista de deseados（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266515?l=spanish"
+        },
+        "brazilian": {
+          "title": "Progresso do desenvolvimento: avaliação das fases, tutorial, Ferraria e mais",
+          "summary": "Chega em 3 de dezembro com o Mercado da Comunidade Steam; o progresso da demo não passa. Em desenvolvimento, ainda não na demo: avaliação C–SSS, tutorial, Ferraria e mais.",
+          "body": "É importante, então vou falar três vezes: o progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo!\n\nOlá, pessoal! Aqui é o Juanmao.\n\nO jogo completo chega em 3 de dezembro! Com o jogo completo, o Mercado da Comunidade Steam vai abrir~ Se tiver alguma ideia sobre o Mercado, deixa nos comentários.\n\nEsta semana a versão de desenvolvimento mudou bastante de novo, então vou falar do que mais dá para sentir jogando. Já deixo avisado: tudo aqui embaixo está na versão de desenvolvimento, e as imagens também são da versão de desenvolvimento; a demo que dá para baixar agora ainda não tem nada disso. Os números ainda estão sendo ajustados; vale o que sair no jogo completo.\n\nAvaliação da fase: toda fase ganha uma nota\nToda vez que você vence uma fase da campanha principal, ganha uma avaliação conforme jogou bem, de C a SSS. Vencer na 1ª rodada dá SSS; em quantas rodadas você vence e se alguém cai decidem SS, S, A e as outras.\nNa tela de resultado aparece o que falta para a próxima avaliação, por exemplo, vencer em 1 rodada para chegar ao SSS; se tirar uma avaliação melhor, acende \"Novo recorde\".\nNo mapa, cada fase mostra sua letra, e na plaquinha do capítulo dá para ver quantas fases estão em cada avaliação; se as 10 fases de uma zona estiverem com SSS, a bandeira da zona fica dourada. Fechar um capítulo inteiro com A ou mais, e com S ou mais, dá uma recompensa única para cada um.\nQuer melhorar fases antigas? Use \"Melhorar\": começa pela fase com a avaliação mais baixa, joga uma partida por fase e vai até a avaliação que você escolher: S, SS ou SSS.\n〔配图请见Steam原文及归档图片〕\n\nTutorial: abriu, aprendeu\nO tutorial foi refeito: quando uma função abre, aparece um personagem para explicar rapidinho e depois te guia para clicar uma vez. Quem explica quase sempre é o Lanceiro Veterano.\nAs lições que você já viu e os cartões de explicação ficam guardados em \"Anotações de Lanceiro Veterano\"; no canto superior direito da Fortaleza tem um botão de anotações, para consultar quando esquecer alguma coisa. Funções que ainda não abriram também têm uma página nas anotações, dizendo a partir de qual fase abrem e quem vai explicar.\nA primeira batalha também ensina com mais detalhe: na primeira vez que sai uma Habilidade exclusiva, o jogo pausa um pouco e mostra onde acelera, onde ver o Registro e em qual baú ficam as coisas que você coleta.\nSe não quiser ver o tutorial, dá para pular no começo, e também ligar ou desligar quando quiser em Opções.\n〔配图请见Steam原文及归档图片〕\n\nFerraria: tudo de equipamento num lugar só\n\n• O lado esquerdo da Ferraria virou uma fileira de abas: Equip., Materiais, Forjar, Baús, Reciclar e Garantia; o Arsenal, que antes era separado, também veio para cá.\n• Abrir baús ganhou animação nova: a trava salta, a tampa abre e sai uma coluna de luz; um toque acelera. Se vierem muitas coisas, elas rolam dentro do painel e não cobrem o botão \"Coletar\".\n• \"Forjar\" começa com uma visão geral dos conjuntos, em três páginas: Conjuntos gerais, Conjuntos de classe e Peças lendárias; dá para filtrar os que combinam com o primeiro herói da Equipe em campo e \"Meus conjuntos\".\n• No armazém, o equipamento que alguém está usando ganha um carimbinho com o nome de quem usa; se o dinheiro não der, o botão fica cinza e diz direto se falta Ouro ou Minério de Cristal, e quanto.\n\n〔配图请见Steam原文及归档图片〕\n\nEquipamento lendário e Maestria do Conjunto\n\n• Equipamento lendário agora cai repetido e, venha de onde vier, começa no Grau 1. Peças lendárias de conjunto sobem em \"Elevar\", na Ferraria, comendo duplicatas do mesmo conjunto e da mesma posição, até o Grau 6; Lendários avulsos repetidos se juntam sozinhos.\n• Lendários avulsos agora também podem receber Polimento e Remodelar.\n• Maestria do Conjunto: desmontando peças comuns de conjunto ou Peças lendárias de conjunto, você junta maestria daquele conjunto, até o nível 10; cada nível aumenta em mais 1% os efeitos de 2 e 4 peças desse conjunto.\n• Quando faltar pouco para subir, também dá para gastar Material de desmonte para \"Infundir\" maestria num conjunto, mas infundir é só um empurrãozinho; o principal continua sendo desmontar. A maestria fica na página do herói, em \"Conjuntos\".\n\n〔配图请见Steam原文及归档图片〕\n\nPesquisa e construções: menos coisa para vigiar\n\n• Nas Linhas de pesquisa, um único espaço pode enfileirar até 10 níveis seguidos da mesma linha, sem precisar voltar e clicar nível por nível.\n• A partir da fase 400 dá para aprender \"Pesquisa Automática\": quando a fila esvazia, ela coloca sozinha o próximo nível mais barato que você puder pagar nas Linhas de pesquisa. Não quer? Dá para desligar na página de Linhas de pesquisa.\n• A barra de progresso da pesquisa agora é clicável: cada toque tira um pouco do tempo de pesquisa, segurando ela continua tocando sozinha, e não custa nada.\n• A partir do nível 50, as construções ganham Refino, com 10 graus no total, usando Ouro e Minério de Cristal: Mina de Ouro, Campo de Treino e outras aumentam a renda, e a Academia reduz o tempo de pesquisa. Os níveis 45 a 50 também ficaram um pouco mais baratos.\n• A cada 5 níveis as construções dão uma pequena recompensa; por exemplo, a Mina de Ouro e o Campo de Treino no nível 35 dão uma Bancada grátis a mais.\n\n〔配图请见Steam原文及归档图片〕\n\nFim de jogo: Patamar dos Espíritos guardiões até 8 e Megaestruturas na fase 1200\nO limite de Patamar dos Espíritos guardiões subiu de 5 para 8: o patamar 6 dá mais um espaço de Glifo, o 7 deixa a Aura mais forte e o 8 aumenta o bônus de Parentesco. Se a Aura da Equipe em campo já estiver no limite, o jogo avisa antes que o bônus de Aura do patamar 7 não vai fazer diferença, para você não subir à toa.\nA partir da fase 1200, dá para construir \"Megaestruturas\" na Academia: são quatro, Grande Bolsa, Comando de Treino, Secretaria do Tesouro e Grande Depósito, que aumentam, respectivamente, o limite de venda de ouro por hora, a renda de Discernimento e Pedras de Patente, os equipamentos que caem com o jogo rodando sozinho e a capacidade das construções. Cada nível dá +5%, e a partir da fase 1000 você já consegue vê-las.\n〔配图请见Steam原文及归档图片〕\n\nOutras mudanças\n\n• A página de habilidades do herói agora tem lista à esquerda e detalhes à direita, e mostra direto quanto os números mudam ao subir de nível; a página de equipamento virou um círculo de seis espaços, com \"Remover tudo\" e um atalho direto para a Ferraria.\n• Na Equipe, escalar clicando e escalar arrastando agora seguem as mesmas regras; se você sair da Equipe para a página de um herói e voltar, continua no herói que estava vendo; as teclas numéricas trocam de página em qualquer tela.\n• No Relatório de uma batalha, clique na fileira de retratos lá em cima para ver outro herói; o Elenco agora ordena por padrão primeiro por estrelas e depois por nível.\n• Depois do despertar, o dano contínuo da Rainha da Corte dos Ossos dói mais a cada tique, e lançar de novo não zera.\n• Nas fases 1600, 1800 e 2000 e nos Desafios da era correspondentes, a vida e o ataque dos inimigos caíram um pouco, então essas paredes vão ficar um pouco mais tranquilas.\n• A partir da fase 801, equipamentos comuns que caem ou são forjados vão no máximo até o Grau 5; o Grau 6 fica para os equipamentos lendários.\n• O salvamento ganhou backups automáticos em níveis (um de 5 minutos, um de 30 minutos e um de 3 horas). Ao sair da batalha, os recursos dos closes das supremas são liberados, e a janelinha de batalha para de renderizar quando minimizada, então deixar o jogo rodando gasta menos.\n\n\nO que ainda estamos fazendo\nIsto aqui ainda está em produção, e nem a versão de desenvolvimento tem algo completo para jogar, então por enquanto é só a direção:\n\n• Reformulação da Torre de Desafios: vai avançar por capítulos e não vai ter um topo final.\n• Arena.\n• Linhas de fases próprias e avaliações para as dificuldades Difícil e Pesadelo.\n• Conjuntos Steam, heróis exclusivos da Steam e levar itens do inventário Steam para dentro do jogo ainda estão em teste interno; avisaremos quando forem abertos.\n\nO plano é o jogo completo trazer a Torre de Desafios e a Arena; quando tiver novidade, eu conto para vocês.\n\nDessas mudanças, qual você quer jogar primeiro? Alguma coisa parece estranha? Me conta nos comentários. Também dá para entrar no nosso Discord（https://discord.gg/uEwdWz2h62）.\n\nSe você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.\n\nJogue a demo gratuita（https://store.steampowered.com/app/5257220/） | Adicione o jogo completo à sua lista de desejos（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266515?l=brazilian"
+        },
+        "russian": {
+          "title": "Ход разработки: оценки этапов, обучение, Кузница — что изменилось",
+          "summary": "Выход 3 декабря с Торговой площадкой Steam; прогресс из демо не перенесётся. В рабочей сборке, но не в демо: оценки этапов C–SSS, новое обучение, Кузница, автоисследование.",
+          "body": "Это важно, поэтому повторю трижды: прогресс из демо не перенесётся в полную версию! Прогресс из демо не перенесётся в полную версию! Прогресс из демо не перенесётся в полную версию!\n\nВсем привет, это Juanmao.\n\nПолная версия выходит 3 декабря! В полной версии откроется Торговая площадка Steam~ Если есть мысли насчёт рынка — пишите в комментариях.\n\nЗа эту неделю в рабочей сборке опять поменялось немало — расскажу о том, что игроки заметят сильнее всего. Сразу оговорюсь: всё, о чём ниже, есть в рабочей сборке, и картинки тоже из рабочей сборки; в демо, которое можно скачать сейчас, этого пока нет. Цифры ещё настраиваются — окончательные будут в полной версии.\n\nОценка этапа: у каждого этапа своя оценка\nПосле каждой победы на этапе основной кампании игра ставит оценку — от C до SSS — смотря насколько красиво вы сыграли. Победа в 1-м раунде — это SSS; а SS, S, A и ниже зависят от того, за сколько раундов вы победили и пал ли кто-нибудь.\nНа экране итогов прямо написано, чего не хватает до следующей оценки, например «Победа к раунду 1 → SSS»; если выбьете оценку выше, загорится «Новый рекорд».\nНа карте у каждого этапа висит буква, а на табличке главы видно, сколько этапов на какой оценке; если все 10 этапов зоны на SSS, флаг зоны станет золотым. Если вся глава на A или выше — разовая награда, если вся на S или выше — ещё одна.\nЧтобы подтянуть старые этапы, есть «Улучшить»: начиная с этапа с самой низкой оценкой, игра проводит по одному бою на этап, пока не дотянет до выбранной вами оценки — S, SS или SSS.\n〔配图请见Steam原文及归档图片〕\n\nОбучение: открылось — объяснили\nОбучение переписано заново: когда открывается функция, кто-нибудь из персонажей коротко про неё рассказывает, а потом один раз проводит вас по кнопкам. Чаще всего рассказывает Ветеран-копейщик.\nПройденные уроки и карточки с пояснениями собраны в «Заметки: Ветеран-копейщик»; в правом верхнем углу Крепости есть кнопка заметок — если что-то забыли, можно открыть в любой момент. Для функций, которые ещё не открыты, в заметках тоже есть страница: после какого этапа функция откроется и кто будет про неё рассказывать.\nПервый бой тоже объясняет подробнее: когда фирменный навык срабатывает впервые, игра ненадолго останавливается и показывает, где ускорить бой, где смотреть журнал боя и в каком сундуке лежит собранная добыча.\nЕсли обучение не нужно, его можно пропустить в начале игры, а в Настройках — включить или выключить в любой момент.\n〔配图请见Steam原文及归档图片〕\n\nКузница: всё про снаряжение — в одном месте\n\n• Слева в Кузнице теперь ряд вкладок: «Снаряжение», «Материалы», «Ковка», «Сундуки», «Автосдача» и «Гарант»; сюда же переехал Арсенал, который раньше был отдельно.\n• У открытия сундуков новая анимация: отскакивает защёлка, поднимается крышка, вырывается столб света; одно нажатие — и анимация проматывается. Если добычи много, она прокручивается внутри панели и не закрывает кнопку «Забрать».\n• «Ковка» начинается с обзора комплектов на трёх страницах: «Общие комплекты», «Классовые комплекты» и «Легендарные предметы»; можно отфильтровать то, что подходит первому герою боевого отряда, и «Мои комплекты».\n• Надетое снаряжение на складе помечено маленькой печатью с именем владельца; если не хватает денег, кнопка становится серой и прямо пишет, чего не хватает — золота или кристальной руды — и сколько.\n\n〔配图请见Steam原文及归档图片〕\n\nЛегендарное снаряжение и мастерство комплекта\n\n• Легендарное снаряжение теперь может выпадать повторно и, откуда бы оно ни пришло, начинает с грейда 1. Легендарный предмет комплекта прокачивается в Кузнице на вкладке «Повышение»: скармливайте ему дубликаты того же комплекта и той же позиции — и так до грейда 6; повторно выпавшая одиночная легенда сама вливается в уже имеющуюся.\n• Одиночным легендам теперь тоже доступны «Шлифовка» и «Перековка».\n• Мастерство комплекта: разбирая обычные или легендарные предметы комплекта, вы копите мастерство этого комплекта, максимум до 10-го уровня; каждый уровень усиливает эффекты за 2 и 4 предмета этого комплекта ещё на 1%.\n• Если до нового уровня не хватает совсем чуть-чуть, можно потратить материалы разборки и «Влить» мастерство в нужный комплект, но вливание — лишь небольшая добавка, основной источник всё-таки разбор. Мастерство смотрите на странице героя, в разделе «Комплекты».\n\n〔配图请见Steam原文及归档图片〕\n\nИсследования и здания: меньше следить\n\n• В «Курсах исследований» одна ячейка может поставить подряд до 10 уровней одного курса — не нужно возвращаться и жать по уровню.\n• После 400-го этапа можно изучить «Автоисследование»: когда очередь пустеет, оно само ставит самый дешёвый следующий уровень из курсов, который вам по карману. Если не нужно — его можно отключить на странице курсов исследований.\n• На полосу прогресса исследования теперь можно нажимать: каждое нажатие немного сокращает время исследования, если зажать — нажимается само, и это бесплатно.\n• После 50-го уровня у зданий открывается «Очистка» — всего 10 ступеней, за золото и кристальную руду: Золотой рудник, Тренировочный плац и другие дают больше дохода, а Академия сокращает время исследований. Уровни с 45-го по 50-й тоже немного подешевели.\n• Каждые 5 уровней здание даёт небольшой бонус: например, у Золотого рудника и Тренировочного плаца на 35-м уровне появляется ещё одно бесплатное рабочее место.\n\n〔配图请见Steam原文及归档图片〕\n\nПоздняя игра: разряд хранителей до 8, мегасооружения с 1200-го этапа\nПредел разряда хранителей поднят с 5 до 8: на 6-м разряде появляется ещё одна ячейка глифа, на 7-м усиливается аура, на 8-м растёт бонус единодушия. Если аура боевого отряда уже упёрлась в предел, игра заранее предупредит, что прибавка к ауре на 7-м разряде не пригодится, — чтобы не повышать впустую.\nПосле 1200-го этапа в Академии можно строить «Мегасооружения» — их четыре: Великая биржа, Учебное управление, Палата кладов и Главный склад. Они повышают соответственно почасовой лимит продажи золота, доход Озарения и камней ранга, выпадение снаряжения в простое и вместимость зданий. Каждый уровень — +5%, а посмотреть на них можно уже с 1000-го этапа.\n〔配图请见Steam原文及归档图片〕\n\nПрочие изменения\n\n• Страница навыков героя теперь устроена так: слева список, справа подробности, а при повышении уровня сразу видно, как изменятся цифры; страница снаряжения стала кольцом из шести ячеек, есть «Снять всё» и переход в Кузницу одной кнопкой.\n• В «Отряде» выбор кликом и перетаскивание героев теперь работают по одним правилам; если перейти из отряда на страницу героя и вернуться, вы останетесь на том же герое; цифровые клавиши листают страницы на любом экране.\n• В «Отчёте» о бое нажмите на ряд портретов сверху, чтобы переключиться на другого героя; «Состав» по умолчанию сортируется сначала по звёздам, потом по уровню.\n• После пробуждения периодический урон Королевы Костяного двора с каждым тиком бьёт сильнее предыдущего, а повторное применение его не сбрасывает.\n• На 1600-м, 1800-м и 2000-м этапах и в соответствующих испытаниях эпохи здоровье и атака врагов немного снижены — через эти стены станет чуть проще пробиться.\n• После 801-го этапа обычное снаряжение из добычи и ковки будет максимум грейда 5; грейд 6 оставлен для легендарного снаряжения.\n• У сохранений появились многоуровневые автокопии (по одной на 5 минут, 30 минут и 3 часа). При выходе из боя освобождаются ресурсы крупных планов ульт, а свёрнутое окошко боя больше не отрисовывается — в фоне игра расходует меньше ресурсов.\n\n\nНад чем ещё работаем\nЭто всё пока в работе, полноценной играбельной версии нет даже в рабочей сборке, так что пока только направление:\n\n• Переработка Башни испытаний: продвижение по главам, без финальной вершины.\n• Арена.\n• Отдельные линии этапов и оценки для сложностей «Сложная» и «Кошмар».\n• Комплекты Steam, эксклюзивные герои Steam и перенос предметов из инвентаря Steam в игру — сейчас на внутреннем тестировании; когда откроем, сообщим отдельно.\n\nВ полную версию планируем добавить Башню испытаний и Арену — как будет прогресс, расскажу.\n\nЧто из этого хочется попробовать первым и что выглядит странно — пишите в комментариях. Заходите и в наш Discord（https://discord.gg/uEwdWz2h62）.\n\nЕсли игра вам понравилась, пожалуйста, добавьте её в список желаемого. Спасибо всем — для игры это правда очень важно.\n\nИграть в бесплатную демоверсию（https://store.steampowered.com/app/5257220/） | Добавить полную версию в список желаемого（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266515?l=russian"
+        }
+      },
+      "files": [
+        {
+          "name": "简体中文 · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266515-schinese-image_1-d99e96bffd.jpg",
+          "type": "image",
+          "language": "schinese",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/schinese/IMAGE_1_01_关卡评价_结算.png",
+          "source_sha256": "d99e96bffda2dd254792227ff0946889d0549d25becd10738351ba4d489cf08b",
+          "sha256": "784885e6eb4dd624fdfdc47a0b0cd5cff59cb01d568d599dd1a8acb17d6c65a2",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/5038bfdc149282e245f19a015b68aa6084a85f3c.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "简体中文 · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266515-schinese-image_2-ce519ecfbb.jpg",
+          "type": "image",
+          "language": "schinese",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/schinese/IMAGE_2_02_退役枪兵的笔记.png",
+          "source_sha256": "ce519ecfbb1e93f527408aa0a3d137be00733bd4c74f208ed44d95c17ae1fac6",
+          "sha256": "0a1f6a88571220bdc6a672c33a2a25f279610a5c09e0ac75d4a12df8b52610eb",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/0dade1d64d74c0ae8395be3f888b5f8e8a4e38e5.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "简体中文 · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266515-schinese-image_3-bf94bf8d6c.jpg",
+          "type": "image",
+          "language": "schinese",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/schinese/IMAGE_3_03c_开箱页_左栏页签.png",
+          "source_sha256": "bf94bf8d6c810cd6396fc4add7200485297046c04b6db5d4bbe7281056fb1202",
+          "sha256": "fec5a4543ec028c886cd23ca1d4be6d0336b79861851048a0a47de37710cc55d",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/8094583c060a549eabfe993c377f3ec2704176df.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "简体中文 · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266515-schinese-image_4-dcbd47467c.jpg",
+          "type": "image",
+          "language": "schinese",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/schinese/IMAGE_4_04_套装与词条_精通.png",
+          "source_sha256": "dcbd47467c3dd9eaf8d62323ef8560f155115316c3494d6739839a67dfc97c98",
+          "sha256": "d3b7db1a409baf3c1735ce1e624c5aa8d39b3b99af42dd28d93e066c1e18c0ba",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/03f5a3b838628c1f0ce65f2ef33f1356ebb4b7a8.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "简体中文 · 段落5 · 实机配图",
+          "url": "assets/steam-704411368981266515-schinese-image_5-51ea9a17b3.jpg",
+          "type": "image",
+          "language": "schinese",
+          "paragraph": "IMAGE_5",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/schinese/IMAGE_5_05b_研究线_无点按.png",
+          "source_sha256": "51ea9a17b3c4f465fbc5b04338b29b4d69573bd7be37d6f93fa04a1b41b40841",
+          "sha256": "26157eabb0de3a4504ae9d14370316416e8ac43bc499b8b300c96c6c1e4efc79",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/38f061da95150033314b7c63f18a79397292e2a5.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "简体中文 · 段落6 · 实机配图",
+          "url": "assets/steam-704411368981266515-schinese-image_6-e217a8a990.jpg",
+          "type": "image",
+          "language": "schinese",
+          "paragraph": "IMAGE_6",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/schinese/IMAGE_6_06_学院_巨构.png",
+          "source_sha256": "e217a8a99021af7d31e17c1123952add1aa0a271dbcb339bbb3f54f3ad56d9df",
+          "sha256": "1ccb1e2be13528ae9c68da59a5ce71d578e8ea47184fa8ea87caf985c15a2c76",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/04998147f55abe9ea89057ee31291abac784a5c5.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "繁體中文 · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266515-tchinese-image_1-0bc63b3b4c.jpg",
+          "type": "image",
+          "language": "tchinese",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/tchinese/IMAGE_1_01_关卡评价_结算.png",
+          "source_sha256": "0bc63b3b4cbdfd3662cdddd2375a2f21ca0db1ad3e61aaa01bda0eea0fe58000",
+          "sha256": "c5c0b256a4c108efe9ed3d85f333b6fc24b21a9b59ef060a93c8e1bb3e1d9f86",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/2a68a01f37ae6891bc3c3b21fff57c05c3393af2.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "繁體中文 · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266515-tchinese-image_2-6857f4e95e.jpg",
+          "type": "image",
+          "language": "tchinese",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/tchinese/IMAGE_2_02_退役枪兵的笔记.png",
+          "source_sha256": "6857f4e95e4dac8cb6bb662356c3c32e1ead003cb852838e76c95930fb6bd856",
+          "sha256": "67dcd9c0f44a7676dbdbb62b93d76e2134e0510152e1aa9fe341aee288344d00",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/5785bf8be7eae70a97842ff11d8860ab3df3d45f.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "繁體中文 · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266515-tchinese-image_3-9cc7aba9ff.jpg",
+          "type": "image",
+          "language": "tchinese",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/tchinese/IMAGE_3_03c_开箱页_左栏页签.png",
+          "source_sha256": "9cc7aba9ff2ca0d90f58cea726c7c3e910bfd518fe88d0994db5331938f63e2f",
+          "sha256": "792de7f833f1e4d96a40c8a7ed35bf04a956c361f1ec2db9e1a8009617defb95",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/93aa2ceed167b30d2f9036a1e8e30128af28f1a0.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "繁體中文 · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266515-tchinese-image_4-4ca9f92a41.jpg",
+          "type": "image",
+          "language": "tchinese",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/tchinese/IMAGE_4_04_套装与词条_精通.png",
+          "source_sha256": "4ca9f92a415ccdde6c8361666fa95ad08aa79fdc2914ae00b78bcc212036b861",
+          "sha256": "7f2ceaefbd251bdb631882e9af1b61a9521eac4f62c49581128599b87040e8ab",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/1ddd67e99a8efe150762fc5685766f982f3f2809.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "繁體中文 · 段落5 · 实机配图",
+          "url": "assets/steam-704411368981266515-tchinese-image_5-5ced80f61c.jpg",
+          "type": "image",
+          "language": "tchinese",
+          "paragraph": "IMAGE_5",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/tchinese/IMAGE_5_05b_研究线_无点按.png",
+          "source_sha256": "5ced80f61c1f74edc549f9ec03df73637839ec66638ee57e32909a5de4554a62",
+          "sha256": "844cb87f90abef1fcb278d1d0336cfaa294ef4fd2e24f2334f8870e490e78fa1",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/94c76fe6aa2902f9e058ae579c31f06db2007279.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "繁體中文 · 段落6 · 实机配图",
+          "url": "assets/steam-704411368981266515-tchinese-image_6-71597457d0.jpg",
+          "type": "image",
+          "language": "tchinese",
+          "paragraph": "IMAGE_6",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/tchinese/IMAGE_6_06_学院_巨构.png",
+          "source_sha256": "71597457d06e0e88a94ccbada0038380b34f844228426f02967703e97d52571d",
+          "sha256": "98e5a2cb7691af91f6ad793dd0a3cd3464c1279813d35f1f0a076201ce587bd6",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/d8d4983532f61c8b96f06cab5be872ed411125e1.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "English · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266515-english-image_1-453c9c1e22.jpg",
+          "type": "image",
+          "language": "english",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/english/IMAGE_1_01_关卡评价_结算.png",
+          "source_sha256": "453c9c1e22573f674c35a3ea1633d6e76cc261ab5584b83cd22586ee716bc23e",
+          "sha256": "cfd356738c5371f03b0e600931dda7f274a91714b755f41e13ef4d4317e43580",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/137db4ac63f50833aa1665c62ca16bd996c59859.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "English · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266515-english-image_2-e2912d08a3.jpg",
+          "type": "image",
+          "language": "english",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/english/IMAGE_2_02_退役枪兵的笔记.png",
+          "source_sha256": "e2912d08a3a9487b9eaa2a2ee30eb70c0bab2b1496c32e5b9742271e223ac9b5",
+          "sha256": "51582676ed49e6eb03e5c2aec2b2a84657f15f0841cbb93f23449b7d1e572ec0",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/87f73c2959d66d2c9babbe0866a6c2c2056b3bea.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "English · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266515-english-image_3-7713cdc006.jpg",
+          "type": "image",
+          "language": "english",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/english/IMAGE_3_03c_开箱页_左栏页签.png",
+          "source_sha256": "7713cdc006ad7797138fa035c9dc3abfe2bb71c17fbf6f55a0431d55d57435db",
+          "sha256": "807d9540b6fbd21fbea53eb1beab26b1930d65cc21c53db3b142e6f2f605502a",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/b33ecf7a2ff431d6afc5faba43d838f26e825527.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "English · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266515-english-image_4-efc7ef60fa.jpg",
+          "type": "image",
+          "language": "english",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/english/IMAGE_4_04_套装与词条_精通.png",
+          "source_sha256": "efc7ef60fa95f601451b0ada1b3f7a7a3db0db9c520e6a92b31c29f0514fe7d5",
+          "sha256": "aa571536f47b062992b51fcffc6589efeae67af59bb245ca255d0100af34cb8f",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/af13384efd35481792cd75d6f4b70e1f1e085c5a.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "English · 段落5 · 实机配图",
+          "url": "assets/steam-704411368981266515-english-image_5-1f241ee3d2.jpg",
+          "type": "image",
+          "language": "english",
+          "paragraph": "IMAGE_5",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/english/IMAGE_5_05b_研究线_无点按.png",
+          "source_sha256": "1f241ee3d2766b4944cf739061410657b90baa3b15dd9379c1724daf60edff16",
+          "sha256": "1c43ed4e2fdd08e0e8280a334926fd44400705ea338ed529633ccd773e2ac22e",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/b28fe31c779b801e049aa8e0e4e282ec508a3842.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "English · 段落6 · 实机配图",
+          "url": "assets/steam-704411368981266515-english-image_6-de4dc5bd59.jpg",
+          "type": "image",
+          "language": "english",
+          "paragraph": "IMAGE_6",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/english/IMAGE_6_06_学院_巨构.png",
+          "source_sha256": "de4dc5bd59707124d8756dbd295f58dda988119f289539bca7b96773895d63c4",
+          "sha256": "2d802ff2b1de028c657a20a2b98a0fdd721b3a13c02a8293151be5f317ea48e6",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/857b4e76ff5d88f1d7aa1b78c9f19d29dcd416a0.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "日本語 · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266515-japanese-image_1-07c8a28133.jpg",
+          "type": "image",
+          "language": "japanese",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/japanese/IMAGE_1_01_关卡评价_结算.png",
+          "source_sha256": "07c8a281330ceac4fd11d8f588cb199e2cf23996b0fb33c17787f3d09f995545",
+          "sha256": "f4d4fabb0db61e6e6c96a88cad950828d17357ec927da25ac17140a9775c77f4",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/acc54a41b27b63ddb05771318169494921099550.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "日本語 · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266515-japanese-image_2-7d612c4526.jpg",
+          "type": "image",
+          "language": "japanese",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/japanese/IMAGE_2_02_退役枪兵的笔记.png",
+          "source_sha256": "7d612c45269a0db32a0404046e21f2c29e35a0cfa3e9934f3b1c66080e15b88c",
+          "sha256": "de30d8dda1f91bdb7a62fdbe8af627e7950be70f88b4d291e5bdb0ee41077b48",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/34644f41b991392007f9c0263367568214800280.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "日本語 · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266515-japanese-image_3-aeab97470a.jpg",
+          "type": "image",
+          "language": "japanese",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/japanese/IMAGE_3_03c_开箱页_左栏页签.png",
+          "source_sha256": "aeab97470aaf07e4e5b87115e0a72c1f111ac6d260d6e719496c27dbbe86223a",
+          "sha256": "6ba968ff355bc6ccc261861acd56289189fa92c14272a32a0e673fba0da3f9e8",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/27a3f539aa928db0d3f32b54fae992601df63b9e.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "日本語 · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266515-japanese-image_4-6c25af6e09.jpg",
+          "type": "image",
+          "language": "japanese",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/japanese/IMAGE_4_04_套装与词条_精通.png",
+          "source_sha256": "6c25af6e0957e3b483ee7a244b58d5301447082dfdc656ec92266608e289ba1c",
+          "sha256": "caf2b6a08b7b66cd44ab34c00b7613c665bfc9fad222d3e94b8d857d6c4ddeb7",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/d98239ef9f2d4689508d18d52a16c528364b986d.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "日本語 · 段落5 · 实机配图",
+          "url": "assets/steam-704411368981266515-japanese-image_5-ba0c049cf9.jpg",
+          "type": "image",
+          "language": "japanese",
+          "paragraph": "IMAGE_5",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/japanese/IMAGE_5_05b_研究线_无点按.png",
+          "source_sha256": "ba0c049cf944be4f356fbfece1b4989dbd401daaaed80ef52db4a9553ee785b1",
+          "sha256": "ee30f110ebb99e241ab628503a09826539e297b31dba163767ff18ff18b4ffd9",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/a85e7ef2ccac622de16f8ef4a712c7965d357247.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "日本語 · 段落6 · 实机配图",
+          "url": "assets/steam-704411368981266515-japanese-image_6-a2ad445de0.jpg",
+          "type": "image",
+          "language": "japanese",
+          "paragraph": "IMAGE_6",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/japanese/IMAGE_6_06_学院_巨构.png",
+          "source_sha256": "a2ad445de0b44ce9719ddd5dab06e94ffb120131e41f28202c3f03bee58362ca",
+          "sha256": "9bfd761a2f821fdfc8dc277de7a6b1fa8351d5a55e7203ee24feff1cd4ccb925",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/4aca8bb576f4e5e30921cab644b7f3f2a5b3aa25.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "한국어 · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266515-korean-image_1-d7afb803d5.jpg",
+          "type": "image",
+          "language": "korean",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/koreana/IMAGE_1_01_关卡评价_结算.png",
+          "source_sha256": "d7afb803d5ac5cd6c5035a6124396365ea41c3956cf7c39b8372408e486ef341",
+          "sha256": "263feb5273c3c8648c44e1175f93cd05386168de80809e28bef9363eecd1336a",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/64745f452fadfd0cbdbd60b53b2bc7e987ef1421.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "한국어 · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266515-korean-image_2-28c4c0ea7d.jpg",
+          "type": "image",
+          "language": "korean",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/koreana/IMAGE_2_02_退役枪兵的笔记.png",
+          "source_sha256": "28c4c0ea7d1578f50d195f5cdf1fe8d64284802e572715b56c926461e195ce38",
+          "sha256": "8318718d3aa9f79b6cd91661aca8762e3d913a9ecca7f14f5e245849f20d8070",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/ad65bdc6f5d6a30adb434c2c5f3354676c0517c8.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "한국어 · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266515-korean-image_3-7e1d9e84b4.jpg",
+          "type": "image",
+          "language": "korean",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/koreana/IMAGE_3_03c_开箱页_左栏页签.png",
+          "source_sha256": "7e1d9e84b4d8c4b634188f3d182479c53f54ffb64ee9c7b4341a09dae8616910",
+          "sha256": "f7c74b77d8cc3f9b7c2ec7e5e2aa737fe968c55b5cbd561c86344371ce4277dc",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/e7894413449f59cbd89c80a0cbb3c31952abb4ae.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "한국어 · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266515-korean-image_4-e4f05c48b8.jpg",
+          "type": "image",
+          "language": "korean",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/koreana/IMAGE_4_04_套装与词条_精通.png",
+          "source_sha256": "e4f05c48b81329307ded780f9c0cbc496668d2b225726f3c258aa651cf5b6adc",
+          "sha256": "f947aa7a5403037b4b22579ad005f47b47386b07b588b10504731605f3353e5e",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/629936d4baa61aa6cd77e67f4b30964605a94946.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "한국어 · 段落5 · 实机配图",
+          "url": "assets/steam-704411368981266515-korean-image_5-5c16ec6379.jpg",
+          "type": "image",
+          "language": "korean",
+          "paragraph": "IMAGE_5",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/koreana/IMAGE_5_05b_研究线_无点按.png",
+          "source_sha256": "5c16ec6379fd1476a1f4d4edf22bb5fb20741c0e985e2c147a2e3944b57e673d",
+          "sha256": "7799bff3e0995f801c638371646a2f865693e4146e6cbcba10e085fc13b3b586",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/ffbacd5c0f123d126f6614c69456e294a8fc77ff.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "한국어 · 段落6 · 实机配图",
+          "url": "assets/steam-704411368981266515-korean-image_6-e2a2edefca.jpg",
+          "type": "image",
+          "language": "korean",
+          "paragraph": "IMAGE_6",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/koreana/IMAGE_6_06_学院_巨构.png",
+          "source_sha256": "e2a2edefca5bf169b3b1fc0133025ee4182a7a8d17655d42e433e20536aaa734",
+          "sha256": "0f5aea78355b3068e190c686559e77560abf6a488077ee517dbcb6116344da39",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/e6154573e258cefb7c14809399e6be0f9f6dfef2.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Deutsch · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266515-german-image_1-f713788e3a.jpg",
+          "type": "image",
+          "language": "german",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/german/IMAGE_1_01_关卡评价_结算.png",
+          "source_sha256": "f713788e3a3b8e93990eda62d34df4265e8001bba016b105db3bb15344a0fe84",
+          "sha256": "2e96a703d70561a02f97fa1b57e890cf34f13b8e6ce34c1397f0d6044d232653",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/17679c3dbb686ebab5752077ea4e9e641de17072.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Deutsch · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266515-german-image_2-b21feeba50.jpg",
+          "type": "image",
+          "language": "german",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/german/IMAGE_2_02_退役枪兵的笔记.png",
+          "source_sha256": "b21feeba5094078dd253a896bbec15a37bb68486b9c09d77bdfe326bc8ff16a8",
+          "sha256": "7f224fe2f387387c9455c4193ae691251f77317d76e583d2682e89421bc24764",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/8e44c6dd3440a6146f4a918c5c86986cd6ce080b.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Deutsch · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266515-german-image_3-d6918d09a3.jpg",
+          "type": "image",
+          "language": "german",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/german/IMAGE_3_03c_开箱页_左栏页签.png",
+          "source_sha256": "d6918d09a3f9dccd3273d387a757c988e65bad5ca791c55cb7664ccd777002cc",
+          "sha256": "25a9de3a31a48a60ed0b93a9edc018dfdbc5310854fbea57bd8dacee17e0fb9d",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/65cd8402564e575cb065b1fb227432f99d39627f.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Deutsch · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266515-german-image_4-32adf68e4c.jpg",
+          "type": "image",
+          "language": "german",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/german/IMAGE_4_04_套装与词条_精通.png",
+          "source_sha256": "32adf68e4c8693413d8c1c0c7c96a8642d6d7d229bf7f2c8b5d5164bff9cae63",
+          "sha256": "04f765b4763c29488783f6c5cc671306c5611974ef884491d489b8bb212b58fb",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/9f72aba4b276295668605f068502d1f1776866b7.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Deutsch · 段落5 · 实机配图",
+          "url": "assets/steam-704411368981266515-german-image_5-cd3b9bfd90.jpg",
+          "type": "image",
+          "language": "german",
+          "paragraph": "IMAGE_5",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/german/IMAGE_5_05b_研究线_无点按.png",
+          "source_sha256": "cd3b9bfd9008ccb086a67996075860760bae5512f3475da9b91cb981f570b79f",
+          "sha256": "1ace6a1e22a0dbe182992062518b35fb8980ad69dc247b3ae1312450dfa80172",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/f512be2b7368f160bddf8260cc2c1100c59a87b9.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Deutsch · 段落6 · 实机配图",
+          "url": "assets/steam-704411368981266515-german-image_6-93c7ec0b8d.jpg",
+          "type": "image",
+          "language": "german",
+          "paragraph": "IMAGE_6",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/german/IMAGE_6_06_学院_巨构.png",
+          "source_sha256": "93c7ec0b8d398e0a54dc07d5da46d147e6602fcd97b1bcdb2edbdc3f59ba50e0",
+          "sha256": "df38bb6424f53b85713ef64041dac23770c059ef74b37f8f5bf8d03a8f104cac",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/4ed42bbdadc1e10787f496cb3bf4737850ceaa60.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Français · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266515-french-image_1-c7ffe0740c.jpg",
+          "type": "image",
+          "language": "french",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/french/IMAGE_1_01_关卡评价_结算.png",
+          "source_sha256": "c7ffe0740c62d1ff1874bf05466e901831677ac7eeed1738ab5c4c62391ff92c",
+          "sha256": "4ef069dfc9af0a882c2f357e7bab1a50c65155377ebd314210b8e806b4a8b778",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/e1e6dfb2c2f422f9d1c39a1063873cc07958e864.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Français · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266515-french-image_2-1a2367be14.jpg",
+          "type": "image",
+          "language": "french",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/french/IMAGE_2_02_退役枪兵的笔记.png",
+          "source_sha256": "1a2367be14df1247b88820faa2cad193a938653421f6b31aee80814d82551f96",
+          "sha256": "2d12a54cadb4e7693ed72e3f7d2f2fe1b21f9b665b29531139c5f516d72dadd3",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/6c70f721bb8de0cf6531098b95308ffc7c411d85.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Français · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266515-french-image_3-0b149f014a.jpg",
+          "type": "image",
+          "language": "french",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/french/IMAGE_3_03c_开箱页_左栏页签.png",
+          "source_sha256": "0b149f014aab17699e6ad0572f7a767a7978a1cb42147afba754f2fe940f999e",
+          "sha256": "5c70ed8f9a16877f86f2c8ec008c087421bf85cab0a29b0460ba1bf066bf531b",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/cf3d2ce241ff520a02001c71bd3f3a165fb523b8.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Français · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266515-french-image_4-ad4944378b.jpg",
+          "type": "image",
+          "language": "french",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/french/IMAGE_4_04_套装与词条_精通.png",
+          "source_sha256": "ad4944378bc25cea1e5edabfd2e33b54d7cad3e7187fa56e7e36f08b9fe78458",
+          "sha256": "ce477bbbe71a7a5d10d3aafaa76c369b32e6ba7f464ba9629d217bdb8eb5b390",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/b39dea418963c66c81ec2eccff243996d62cc34c.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Français · 段落5 · 实机配图",
+          "url": "assets/steam-704411368981266515-french-image_5-b43aac7a5d.jpg",
+          "type": "image",
+          "language": "french",
+          "paragraph": "IMAGE_5",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/french/IMAGE_5_05b_研究线_无点按.png",
+          "source_sha256": "b43aac7a5dca752f431a421a23ec6ed2a36948008d76d572ba52aa638ac7d762",
+          "sha256": "5a18ecf01a8b3f31a116b669aba92199ba2c69ef763db63e79c2ba33cad4829f",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/9c3186e3d6edd69978e814e53c5b401a0439d678.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Français · 段落6 · 实机配图",
+          "url": "assets/steam-704411368981266515-french-image_6-952bbde315.jpg",
+          "type": "image",
+          "language": "french",
+          "paragraph": "IMAGE_6",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/french/IMAGE_6_06_学院_巨构.png",
+          "source_sha256": "952bbde31540b0b7ab4f10282a0e4c915f897ed786875d8821f0261e7f2c6cc8",
+          "sha256": "a50944f462b2033f69fe25cf66af3bcfa4595a55f8287d2cf7ffe14694415d17",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/16ce29204c125594ff50f3bac5b670e5de60f92e.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Español · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266515-spanish-image_1-f28fa41c4d.jpg",
+          "type": "image",
+          "language": "spanish",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/spanish/IMAGE_1_01_关卡评价_结算.png",
+          "source_sha256": "f28fa41c4dddfbea318ff601631d9395eda91a2bf0a6c03ccd18e8682f462431",
+          "sha256": "d00001105b7e94f43c426cb47e60d8fb6d250207542e2eceaa1f08a14121c65e",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/34beec8e88aa04545137e9c52deec6bad250bf21.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Español · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266515-spanish-image_2-40490ed64d.jpg",
+          "type": "image",
+          "language": "spanish",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/spanish/IMAGE_2_02_退役枪兵的笔记.png",
+          "source_sha256": "40490ed64d5087d3f796ecb0bf7b469fed03e8b1b5d04d19a1cbfc48c068c017",
+          "sha256": "7c687a536f093798e85730503a3529983c9552bd65bacc6f40986ffebbca49fd",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/ca2da47462ad9a9f8e3985388ff794d11b98b043.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Español · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266515-spanish-image_3-e01a9c96d8.jpg",
+          "type": "image",
+          "language": "spanish",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/spanish/IMAGE_3_03c_开箱页_左栏页签.png",
+          "source_sha256": "e01a9c96d8e4f326fcc071711dab4a793605d5601b89e80c0c9d2c57e8f98c7d",
+          "sha256": "c48bf81d36d7500c1d8cf62a211ab872028077269635e1594f4a1dd51e8c9370",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/e7532947210aafce62687be47641c6f14eeda5a8.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Español · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266515-spanish-image_4-20e57ea7f4.jpg",
+          "type": "image",
+          "language": "spanish",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/spanish/IMAGE_4_04_套装与词条_精通.png",
+          "source_sha256": "20e57ea7f42b23b8f4637c319ced1d88edb33e1e468e4ff6f4d891c65c9075de",
+          "sha256": "22ceea1c06d2b67d6addc452317c2e12cd13c088528562b730b124a4f6e333b1",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/2bb66b23b6c6139135d16ed855e8ab3d337a1cbf.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Español · 段落5 · 实机配图",
+          "url": "assets/steam-704411368981266515-spanish-image_5-12fd74047e.jpg",
+          "type": "image",
+          "language": "spanish",
+          "paragraph": "IMAGE_5",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/spanish/IMAGE_5_05b_研究线_无点按.png",
+          "source_sha256": "12fd74047ed564b020635e477a8d8bbc8368219f71811e1ebfa5d459c6cb7237",
+          "sha256": "c3199dc6731017b561d4bc0d5c4e8e5d21352f8fc42b07f3d97f0ec9d5fd6865",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/9e9d2c48c1d0a45a7130d1ce34a955c539af6db2.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Español · 段落6 · 实机配图",
+          "url": "assets/steam-704411368981266515-spanish-image_6-266a595c9c.jpg",
+          "type": "image",
+          "language": "spanish",
+          "paragraph": "IMAGE_6",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/spanish/IMAGE_6_06_学院_巨构.png",
+          "source_sha256": "266a595c9c6d1c4f80fa4beef3649bb4984ea27647262fcd730ac82c74576bdc",
+          "sha256": "c084978d708bc2687783db3388e935401af45e324a396a3ca0c374530b6cfbfa",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/15e1e3a54954f31697850baffaaa1970b0af1f8a.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Português (Brasil) · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266515-brazilian-image_1-c624cfea3b.jpg",
+          "type": "image",
+          "language": "brazilian",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/brazilian/IMAGE_1_01_关卡评价_结算.png",
+          "source_sha256": "c624cfea3b93a108a24c6b9071f1f3ceb0485195eeb33c0ff6556ee3006aad8f",
+          "sha256": "7a1de069efd05524ad1c7edf19bc40f8bb73c49b356fbeee7db1b9faa82d9c30",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/20735e89d848bc34e74621e58bd780ecba44741b.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Português (Brasil) · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266515-brazilian-image_2-b4b9bce1f8.jpg",
+          "type": "image",
+          "language": "brazilian",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/brazilian/IMAGE_2_02_退役枪兵的笔记.png",
+          "source_sha256": "b4b9bce1f8a4adb4d9b4b38aeb0dbb233cd7330878e519367a50eb9309abf6e5",
+          "sha256": "98369ad22c4234ff2cec5afd65d193b698eaaf66781d8f555f010672189a85a9",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/cee3f127fe1ada27b4472c4ebc6a41afaa2ba6f6.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Português (Brasil) · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266515-brazilian-image_3-332e61dcb2.jpg",
+          "type": "image",
+          "language": "brazilian",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/brazilian/IMAGE_3_03c_开箱页_左栏页签.png",
+          "source_sha256": "332e61dcb2cd7da5de8beb921222ab461ce769afb934f20cab7d4a4578793a6f",
+          "sha256": "ae9b536671ceefcf22ae28ca25c7a3487462233adb2655be2177bb36b54d42b2",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/ce2b43242bd001ea31086eeb5844aa4190c7beac.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Português (Brasil) · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266515-brazilian-image_4-98e2986fff.jpg",
+          "type": "image",
+          "language": "brazilian",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/brazilian/IMAGE_4_04_套装与词条_精通.png",
+          "source_sha256": "98e2986fff887bec6f26138cc6dbc440b91978673b324b0ebe94d0a9446fc19d",
+          "sha256": "4f18e0103d51ce2ecfe26e6f77b35305b8238c40f56c751956098d551f331893",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/6e19c730dea31606601cbd21bbb780558248b7c7.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Português (Brasil) · 段落5 · 实机配图",
+          "url": "assets/steam-704411368981266515-brazilian-image_5-98e4aa6652.jpg",
+          "type": "image",
+          "language": "brazilian",
+          "paragraph": "IMAGE_5",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/brazilian/IMAGE_5_05b_研究线_无点按.png",
+          "source_sha256": "98e4aa6652ca74d57c3349706a584c1f768f70e4074bf5e7254c4e98a186e3cd",
+          "sha256": "7125f83730cbbb568e3f7923773fd80e526a2a211e18639fa5b291e9101ba1dc",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/80875f406c958f6fd1ae75259f544c44c8ab5923.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Português (Brasil) · 段落6 · 实机配图",
+          "url": "assets/steam-704411368981266515-brazilian-image_6-a728858291.jpg",
+          "type": "image",
+          "language": "brazilian",
+          "paragraph": "IMAGE_6",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/brazilian/IMAGE_6_06_学院_巨构.png",
+          "source_sha256": "a728858291821d76e8b9b47bea183d1094019889a2db848e711306e6b8075008",
+          "sha256": "b174666eb9304f927485c0b9a1cc267c970bf612ea7631e4b68bfb1a550b345e",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/19f440d68b3b52ffec8f6cfcf5ce38f780b678e2.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Русский · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266515-russian-image_1-33f76df6e2.jpg",
+          "type": "image",
+          "language": "russian",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/russian/IMAGE_1_01_关卡评价_结算.png",
+          "source_sha256": "33f76df6e20d45e6611a9d1d4cc5cc5eea79e78eb0cf22a04982ae06491e7a6b",
+          "sha256": "c7385e92119854370638d328713264b88fc4d1f4a2509626e90d92591120381c",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/f5b2a4959b1e847cc5b1f0bc65ca94618692cef8.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Русский · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266515-russian-image_2-2776fbaba9.jpg",
+          "type": "image",
+          "language": "russian",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/russian/IMAGE_2_02_退役枪兵的笔记.png",
+          "source_sha256": "2776fbaba97ee10ae1fcb6877d353fa78809d4152a4ebaf690a14a409141714f",
+          "sha256": "0309b33c1c5bd6a4b1bf29ff39e031772007b1b7cb1d0f8efe6969545739d1b2",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/d60614c7bf94e855ed05070534a9ae80dcd438d3.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Русский · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266515-russian-image_3-3e6e53bb73.jpg",
+          "type": "image",
+          "language": "russian",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/russian/IMAGE_3_03c_开箱页_左栏页签.png",
+          "source_sha256": "3e6e53bb735c3b5803524b11188f3601934add917c71f1ea52392b2b3362de2c",
+          "sha256": "17fc1d4302e6c379fce78f7e974ee68b159d6b65c3005008c4291ffd66c3e383",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/9c34c389ba4f60d907d72c321ba5b2ff23622c64.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Русский · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266515-russian-image_4-ea3becfdbc.jpg",
+          "type": "image",
+          "language": "russian",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/russian/IMAGE_4_04_套装与词条_精通.png",
+          "source_sha256": "ea3becfdbc9f4539d5e1ed40ec52b73bed418213639054e28690aa2e4ed216db",
+          "sha256": "484d4a97ce638bc960f77d2448101109d11bfd89d7371ea42d14f45ad47e17f2",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/8765eeadf454faaacde082801705daa3829d9c8b.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Русский · 段落5 · 实机配图",
+          "url": "assets/steam-704411368981266515-russian-image_5-c6d5378018.jpg",
+          "type": "image",
+          "language": "russian",
+          "paragraph": "IMAGE_5",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/russian/IMAGE_5_05b_研究线_无点按.png",
+          "source_sha256": "c6d537801868f760fcab606846303e902b6083d39f4f4a3a611814c0d8f64d2d",
+          "sha256": "f773cc0df78328568a8154a76016da478396c99b5616c33e0908c3d6c60046d8",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/b6bdc3d97d68e1112898d9891c71db815336c5e3.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Русский · 段落6 · 实机配图",
+          "url": "assets/steam-704411368981266515-russian-image_6-fe775d3265.jpg",
+          "type": "image",
+          "language": "russian",
+          "paragraph": "IMAGE_6",
+          "source": "output/steam-weekly-dev-20261118/配图/成品/russian/IMAGE_6_06_学院_巨构.png",
+          "source_sha256": "fe775d3265832cfb9261c3efc07683cebef6fc624948fe0532293c4d81f55c37",
+          "sha256": "278c87577319d7b590219050e86265903eef8dc81597d97ba6ccbe75d3cbac3d",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/12cff4565e08f6f15a19c73b30fd46ba7c1dd9a0.png",
+          "public_pixel_equality_evidence": "output/steam-weekly-dev-20261118/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "简体中文公告原文.txt",
+          "url": "assets/steam-704411368981266515-schinese.txt",
+          "type": "text"
+        },
+        {
+          "name": "繁體中文公告原文.txt",
+          "url": "assets/steam-704411368981266515-tchinese.txt",
+          "type": "text"
+        },
+        {
+          "name": "English公告原文.txt",
+          "url": "assets/steam-704411368981266515-english.txt",
+          "type": "text"
+        },
+        {
+          "name": "日本語公告原文.txt",
+          "url": "assets/steam-704411368981266515-japanese.txt",
+          "type": "text"
+        },
+        {
+          "name": "한국어公告原文.txt",
+          "url": "assets/steam-704411368981266515-korean.txt",
+          "type": "text"
+        },
+        {
+          "name": "Deutsch公告原文.txt",
+          "url": "assets/steam-704411368981266515-german.txt",
+          "type": "text"
+        },
+        {
+          "name": "Français公告原文.txt",
+          "url": "assets/steam-704411368981266515-french.txt",
+          "type": "text"
+        },
+        {
+          "name": "Español公告原文.txt",
+          "url": "assets/steam-704411368981266515-spanish.txt",
+          "type": "text"
+        },
+        {
+          "name": "Português (Brasil)公告原文.txt",
+          "url": "assets/steam-704411368981266515-brazilian.txt",
+          "type": "text"
+        },
+        {
+          "name": "Русский公告原文.txt",
+          "url": "assets/steam-704411368981266515-russian.txt",
+          "type": "text"
+        }
+      ],
+      "source": "https://store.steampowered.com/news/app/4855890/view/704411368981266515?l=schinese",
+      "links": [
+        {
+          "platform": "Steam公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266515?l=schinese",
+          "date": "2026-11-18",
+          "status": "已发布"
+        }
+      ],
+      "detailNote": "按Steam已公开原文归档。十语各6张本语开发版实机图，按语言和段落标记；正文图为静态图。"
+    },
+    {
+      "id": "steam-704411368981266515-covers",
+      "title": "开发进度公告 · 两版公告封面",
+      "category": "封面与视觉",
+      "group": "公告封面",
+      "date": "2026-11-18",
+      "dateBasis": "发布日期",
+      "summary": "Q版英雄切蛋糕；简中、繁中用中文封面，其他八语用英文封面。",
+      "status": "已发布 · 十语",
+      "files": [
+        {
+          "name": "简中／繁中 · 公告封面",
+          "url": "assets/steam-704411368981266515-cover-schinese.png",
+          "type": "image",
+          "source": "output/steam-weekly-dev-20261118/publication/artwork-upload/header_schinese.png",
+          "sha256": "66f08a0ea3977a34ae486c7e20064734f3d0459b38757a94020b0146bda6b48a"
+        },
+        {
+          "name": "其他八语 · 公告封面",
+          "url": "assets/steam-704411368981266515-cover-english.png",
+          "type": "image",
+          "source": "output/steam-weekly-dev-20261118/publication/artwork-upload/header_english.png",
+          "sha256": "932a54af1735dd1d8e738d0e95e3a8adc485af98ed14dd26a700bde56435c6a1"
+        }
+      ],
+      "cover": "assets/steam-704411368981266515-cover-schinese.png",
+      "source": "output/steam-weekly-dev-20261118/封面",
+      "links": [
+        {
+          "platform": "Steam公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266515?l=schinese",
+          "date": "2026-11-18",
+          "status": "已发布"
+        }
+      ]
     }
   ]
 }

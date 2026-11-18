@@ -1,0 +1,83 @@
+Dev progress: Stage Ratings, a new tutorial, the Blacksmith and more
+
+Important enough to say three times: Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game!
+
+Hi everyone, Juanmao here.
+
+The full game launches on December 3! The Steam Community Market will open with the full game~ If you have any thoughts about the Market, feel free to leave them in the comments.
+
+The development build changed quite a bit again this week, so I'll pick out the things you'll notice most. Just to be clear up front: everything below is in the development build, and the images are all screenshots from the development build. The Demo you can download right now doesn't have any of it yet. The numbers are all still being tuned, so the full game is what counts.
+
+Stage Ratings: every stage gets a score
+Every time you win a main campaign stage, you get a rating from C to SSS based on how cleanly you won. Win in round 1 and it's SSS; how many rounds it takes and whether anyone falls decide SS, S, A and the other tiers.
+The results screen spells out what you still need for the next tier, like “Win by round 1 → SSS”, and when you beat your old rating, “New Record” lights up.
+On the map, every stage shows its letter, and the chapter nameplate shows how many stages you have in each tier; get all 10 stages of a zone to SSS and the zone flag turns gold. Getting a whole chapter to A or better, and to S or better, each gives a one-time reward.
+Want to push old stages higher? Use “Re-rate”: starting from your lowest-rated stage, it plays one battle per stage until they reach the S, SS or SSS you picked.
+〔配图请见Steam原文及归档图片〕
+
+Tutorial: it teaches as things open up
+The tutorial has been rewritten from scratch: whenever a feature opens up, a character comes over to explain it in a short lesson, then walks you through it once. Most of the time it's the Veteran Lancer doing the teaching.
+Every lesson and tip card you've seen is kept in “Veteran Lancer's Notes”. There's a notes button in the top right of the Fortress, so if you forget something, flip back anytime. Features that haven't opened yet already get a page in the notes too, saying after which stage who will come and explain it.
+The first battle also teaches you more: the first time a Signature Skill fires, it pauses to show you where to speed up, where to check the Battle Log, and which chest your loot goes into.
+Don't want the tutorial? You can skip it at the start, and you can switch “Guidance Tips” on or off in Settings anytime.
+〔配图请见Steam原文及归档图片〕
+
+Blacksmith: everything gear-related in one place
+
+• The Blacksmith now has a row of tabs on the left: Gear, Materials, Craft, Chests, Auto Recycle, Pity. The old standalone Armory has been merged in too.
+• Opening chests has a new animation: the latch pops, the lid flips up and a beam of light shoots out. One click fast-forwards it. If a lot comes out, it scrolls inside the panel instead of covering the claim button.
+• Craft starts with an overview of all sets, split into three tabs: General Sets, Class Sets and Legendary Set Pieces. You can filter by what suits the first hero in your fielded squad, and by “Sets I own”.
+• Gear that someone is wearing gets a small stamp in storage showing who's wearing it. When you can't afford something, the button turns gray and tells you straight out whether you're short on Gold or Crystal Ore, and by how much.
+
+〔配图请见Steam原文及归档图片〕
+
+Legendary gear and Set Mastery
+
+• Legendary gear can now drop as duplicates, and no matter where it comes from, it starts at Grade 1. A Legendary Set Piece can be fed duplicates of the same set and the same slot under “Grade Up” in the Blacksmith, all the way up to Grade 6; duplicate Legendary Singles get merged in automatically.
+• Legendary Singles can now be polished and reshaped too.
+• Set Mastery: salvage ordinary set pieces or Legendary Set Pieces to build up Mastery for that set, up to level 10. Each level makes that set's 2-piece and 4-piece effects another 1% stronger.
+• When you're just short of the next level, you can also spend salvage materials to “Infuse” Mastery into a set. Infusing only tops it up a little, though; salvaging is still the main way. You can check Mastery under “Sets & Stats” on the hero page.
+
+〔配图请见Steam原文及归档图片〕
+
+Research and buildings: less babysitting
+
+• One slot can now queue up to 10 levels of the same research track in a row, so you don't have to come back and click level by level.
+• After stage 400 you can learn “Auto Research”: as soon as the queue is empty, it automatically queues the cheapest next level among the research tracks you can afford. Don't want it? Turn it off on the Research Tracks page.
+• The research progress bar is clickable: each click cuts a bit of research time, hold it down to keep clicking, and it costs nothing.
+• Buildings can be refined after level 50, 10 tiers in total, using Gold and Crystal Ore: the Gold Mine, Training Ground and the like earn more, and the Academy cuts research time. Levels 45 to 50 have also gotten a bit cheaper.
+• Every 5 building levels there's a small bonus; for example, at level 35 the Gold Mine and Training Ground give an extra free Workstation.
+
+〔配图请见Steam原文及归档图片〕
+
+Late game: Guardian Spirits up to grade 8, Megastructures at stage 1200
+The grade cap for Guardian Spirits has gone up from 5 to 8: grade 6 adds one more Glyph slot, grade 7 makes the Aura stronger, and grade 8 raises the Kindred bonus. If your fielded squad's Aura is already at the cap, it warns you ahead of time that the grade 7 Aura bonus won't do anything, so you don't upgrade for nothing.
+After stage 1200, you can build “Megastructures” in the Academy: the Grand Exchange, Drill Office, Treasure Bureau and Great Depot. They raise, in that order, the hourly gold-sale allowance, Insight and Rank Stone income, idle equipment drops, and building capacity. Each level adds +5%, and you can already preview them from stage 1000.
+〔配图请见Steam原文及归档图片〕
+
+Other changes
+
+• The hero Skills page now has a list on the left and details on the right, and it shows exactly how the numbers change after an upgrade. The Gear page is now a ring of six slots, with “Unequip All” and a one-click jump to the Blacksmith.
+• In Formation, clicking and dragging heroes into the lineup now follow the same rules; going from Formation to a hero page and back keeps you on the hero you were just looking at; number keys switch pages on every screen.
+• On a battle’s Report page, click the row of portraits at the top to switch heroes. The Roster now sorts by stars first, then by level, by default.
+• Once Bone Court Queen awakens, every tick of her damage over time hurts more than the last, and casting it again doesn't reset it.
+• At stages 1600, 1800 and 2000 and their matching Epoch trials, enemy HP and Attack have been lowered a bit, so those walls should be a little easier to get past.
+• From stage 801 on, ordinary gear drops and crafting go up to Grade 5 at most; Grade 6 is kept for legendary gear.
+• Saves now get tiered auto-backups (one each for 5 minutes, 30 minutes and 3 hours). Leaving a battle frees the resources used by ultimate close-ups, and the battle mini-window stops rendering when it's minimized, so idling uses fewer resources.
+
+
+Still in the works
+These are still being worked on, and there's no fully playable version of them in the development build yet either, so here's just the direction:
+
+• Trial Tower rework: it'll progress chapter by chapter, with no final top floor.
+• Arena.
+• Separate stage lines and ratings for Hard and Nightmare difficulties.
+• Steam sets, Steam-exclusive heroes, and bringing items from your Steam inventory into the game are still in internal testing. When they open will be announced separately.
+
+The full game is planned to include the Trial Tower and the Arena. I'll let you know once there's more progress.
+
+Which of these changes do you most want to try first, and does anything look off? Tell me in the comments. You're also welcome to join us on Discord（https://discord.gg/uEwdWz2h62）.
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+Play the free Demo（https://store.steampowered.com/app/5257220/） | Wishlist the full game（https://store.steampowered.com/app/4855890/）

@@ -1,9 +1,12 @@
 {
   "date": "2026-11-18",
-  "bilibili_sent": 5,
+  "bilibili_sent": 20,
   "bilibili_failed": 0,
   "youtube_email_sent": 0,
   "email_failed": 0,
+  "skipped_prior_record": 1,
+  "deferred_not_sent": 4,
+  "pending": 0,
   "bilibili": [
     {
       "uid": "493005147",
@@ -39,8 +42,113 @@
       "profile_url": "https://space.bilibili.com/347160397",
       "status": "sent",
       "sent_at": "2026-11-18T13:39:36.367000+08:00"
+    },
+    {
+      "uid": "10583860",
+      "name": "白纸丶酱",
+      "profile_url": "https://space.bilibili.com/10583860",
+      "status": "sent",
+      "sent_at": "2026-11-18T14:00:09.964000+08:00"
+    },
+    {
+      "uid": "65623611",
+      "name": "搬砖大忽悠",
+      "profile_url": "https://space.bilibili.com/65623611",
+      "status": "sent",
+      "sent_at": "2026-11-18T14:09:40.735000+08:00"
+    },
+    {
+      "uid": "143703906",
+      "name": "蚊子叮叮www",
+      "profile_url": "https://space.bilibili.com/143703906",
+      "status": "sent",
+      "sent_at": "2026-11-18T14:15:16.638000+08:00"
+    },
+    {
+      "uid": "1621010",
+      "name": "苍穹Wizard",
+      "profile_url": "https://space.bilibili.com/1621010",
+      "status": "sent",
+      "sent_at": "2026-11-18T14:20:13.756000+08:00"
+    },
+    {
+      "uid": "1210822890",
+      "name": "搬得会长",
+      "profile_url": "https://space.bilibili.com/1210822890",
+      "status": "sent",
+      "sent_at": "2026-11-18T14:27:36.704000+08:00"
+    },
+    {
+      "uid": "29341511",
+      "name": "漩涡搬砖人",
+      "profile_url": "https://space.bilibili.com/29341511",
+      "status": "sent",
+      "sent_at": "2026-11-18T14:30:57.810000+08:00"
+    },
+    {
+      "uid": "520133016",
+      "name": "麒麟游戏攻略",
+      "profile_url": "https://space.bilibili.com/520133016",
+      "status": "sent",
+      "sent_at": "2026-11-18T14:34:12.244000+08:00"
+    },
+    {
+      "uid": "283666",
+      "name": "修哲sama",
+      "profile_url": "https://space.bilibili.com/283666",
+      "status": "sent",
+      "sent_at": "2026-11-18T14:52:02.347000+08:00"
+    },
+    {
+      "uid": "3546374387796863",
+      "name": "80后老梅游戏攻略",
+      "profile_url": "https://space.bilibili.com/3546374387796863",
+      "status": "sent",
+      "sent_at": "2026-11-18T14:55:17.551000+08:00"
+    },
+    {
+      "uid": "27945777",
+      "name": "麽唁。",
+      "profile_url": "https://space.bilibili.com/27945777",
+      "status": "sent",
+      "sent_at": "2026-11-18T14:57:10.380000+08:00"
+    },
+    {
+      "uid": "392026095",
+      "name": "菜鸡小西瓜",
+      "profile_url": "https://space.bilibili.com/392026095",
+      "status": "sent",
+      "sent_at": "2026-11-18T14:59:25.918000+08:00"
+    },
+    {
+      "uid": "421214042",
+      "name": "南风游戏分享",
+      "profile_url": "https://space.bilibili.com/421214042",
+      "status": "sent",
+      "sent_at": "2026-11-18T15:04:18.144000+08:00"
+    },
+    {
+      "uid": "3706962889935598",
+      "name": "天痕的游戏养生小屋",
+      "profile_url": "https://space.bilibili.com/3706962889935598",
+      "status": "sent",
+      "sent_at": "2026-11-18T15:07:07.898000+08:00"
+    },
+    {
+      "uid": "485458677",
+      "name": "爱搬砖的枫月",
+      "profile_url": "https://space.bilibili.com/485458677",
+      "status": "sent",
+      "sent_at": "2026-11-18T15:11:50.495000+08:00"
+    },
+    {
+      "uid": "1870880670",
+      "name": "阿杜搬砖日记",
+      "profile_url": "https://space.bilibili.com/1870880670",
+      "status": "sent",
+      "sent_at": "2026-11-18T15:14:54.445000+08:00"
     }
   ],
   "youtube": [],
-  "time_note": "北京时间；时间取实际发送证据。送达不表示已读或同意试玩。"
+  "time_note": "北京时间；时间取实际发送证据。今日合计20位，包含早前5位及本轮新增15位；送达不表示已读或同意试玩。"
 }
