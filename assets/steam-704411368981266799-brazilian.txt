@@ -1,0 +1,50 @@
+Guia do acionista: como treinar heróis e onde gastar Discernimento e pedras
+
+É importante, então vou falar três vezes: o progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo!
+
+Olá, pessoal! Aqui é o Juanmao.
+
+O jogo completo chega em 3 de dezembro! Faltam 14 dias! Com o jogo completo, o Mercado da Comunidade Steam vai abrir~ Se tiver alguma ideia sobre o Mercado, deixa nos comentários.
+
+Isto também não é uma atualização: continuando dos heróis e formações da última vez, vamos falar de como treinar os heróis depois de recrutá-los. Muita gente pergunta: é Discernimento, Pedra de Patente, essência pra todo lado… no que gastar primeiro? Vamos por partes.
+
+Antes de tudo: não tem como subir estrelas
+As estrelas de um herói são a raridade dele: veio com tantas estrelas, fica com tantas estrelas, não muda. E cada herói só existe uma vez, você nunca recruta repetido, então não precisa juntar cópias para alimentar ninguém. Um herói fica mais forte por três caminhos: nível, patente e maestria de habilidade.
+
+Nível: Discernimento e sobe tudo de uma vez
+Subir de nível só custa Discernimento, nada de ouro. Você ganha Discernimento passando fases e com o jogo rodando sozinho, e o Campo de Treino, liberado na fase 5, produz sem parar.
+Na página do herói, toque em "Subir nível ×N" e ele vai direto ao nível máximo da patente atual; se o Discernimento não der, sobe até acabar. O teto de nível acompanha a patente: na patente 0 é o nível 10, e cada patente a mais soma 10 níveis. Quando chegar no teto, o botão vira "Promover" e a linha de aviso mostra "Nível máximo · promova para elevar o teto".
+〔配图请见Steam原文及归档图片〕
+
+Patente: primeiro enche o nível, depois promove
+Promover custa Pedras de Patente, e só dá com o nível da patente atual no máximo. Ao tocar em "Promover", aparece antes um card de prévia: quanto de Força você ganha, até onde vão o teto de nível e o teto de maestria, e quantas pedras custa. No card dá para "Promover 1x" ou ir direto em "Até patente N": sobe até onde os recursos aguentarem, e os níveis que faltarem no caminho são completados antes com Discernimento, automaticamente.
+Da patente 10 em diante, cada promoção já enche o nível até o novo teto, sem gastar mais Discernimento.
+〔配图请见Steam原文及归档图片〕
+
+Patentes 5, 10, 15 e 20 pedem Pedras de Avanço
+Para chegar nessas patentes, além das Pedras de Patente é preciso entregar Pedras de Avanço: 4, 12, 24 e 40, respectivamente. Sem Pedras de Avanço suficientes, o herói fica parado nesse marco. A imagem acima é justamente a patente 4 indo para a 5: além das Pedras de Patente, precisa de 4 Pedras de Avanço.
+Na demo, as Pedras de Avanço vêm de: primeira vitória na fase 5 e nos chefes, drops com o jogo rodando sozinho e desmonte dos equipamentos que caem. Por isso, nos marcos, priorize os titulares; os reservas podem passar depois.
+
+Promover todos de uma vez
+Na página "Elenco" tem um botão "Promover N", em que N é quantos heróis podem ser promovidos agora. Ele abre a lista "Promover todos": cada linha mostra quem vai de qual patente para qual e quanto de Força ganha, e embaixo vem o total de Pedras de Patente, Pedras de Avanço e Discernimento que vai ser gasto. A ordem: heróis em campo primeiro, depois por Força decrescente, e para quando os recursos acabam. Se não quiser promover alguém, é só desmarcar; confira tudo e confirme.
+〔配图请见Steam原文及归档图片〕
+
+Maestria de habilidade: só treina a Habilidade exclusiva
+Libera ao passar da fase 20. Na aba "Habilidades" da página do herói, na linha da Habilidade exclusiva dá para subir a maestria. A maestria só amplia a própria Habilidade exclusiva e não aumenta a Força, então não ache que treinou à toa só porque o número de Força não mexeu.
+A maestria custa essência: os 3 primeiros níveis usam Essência Azul, do 4 ao 7 Essência Roxa e do 8 em diante Essência Dourada; heróis de cinco estrelas gastam o dobro. Sobrou Discernimento? Dá para refinar em essência também. O teto de maestria acompanha a patente: 1 nível acima da patente atual, no máximo 20.
+Quando um herói de cinco estrelas (lendário) chega à patente 9 com maestria 4, ele desperta: a Habilidade exclusiva vira a versão despertada, e a linha marcada com "Libera ao despertar" na aba de habilidades também abre.
+〔配图请见Steam原文及归档图片〕
+
+Onde gastar Discernimento e pedras
+
+• Discernimento: primeiro para levar ao máximo o nível de quem está em campo, assim a promoção não trava.
+• Pedras de Patente: é só seguir o "Promover todos", que já promove primeiro quem está em campo.
+• Pedras de Avanço: guarde para os titulares passarem os marcos.
+• Essência: vai para a Habilidade exclusiva do titular que você mais usa; a maestria não soma Força, mas o dano é de verdade.
+
+
+Se tem mais alguma coisa que você quer que eu explique ou algo que não ficou claro, pode perguntar nos comentários. Também dá para entrar no nosso Discord（https://discord.gg/uEwdWz2h62）.
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+Jogue a demo gratuita（https://store.steampowered.com/app/5257220/） | Adicione o jogo completo à sua lista de desejos（https://store.steampowered.com/app/4855890/）

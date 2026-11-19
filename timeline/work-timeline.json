@@ -1875,6 +1875,12 @@
       "category": "创作者联系",
       "text": "向20位B站创作者发送试玩邀请。",
       "url": "/creators/creator-outreach-20261119.html"
+    },
+    {
+      "date": "2026-11-19",
+      "category": "Steam公告",
+      "text": "发布十语英雄成长新闻，介绍等级、升阶、突破石与技能精通；每语4张本语Demo实机图，已逐语核对公开页。",
+      "url": "/?work=steam-704411368981266799"
     }
   ]
 }

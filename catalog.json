@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "hero": "assets/07851087f62e.jpg",
   "items": [
     {
@@ -14160,6 +14160,665 @@
           "platform": "Steam公告原文",
           "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266515?l=schinese",
           "date": "2026-11-18",
+          "status": "已发布"
+        }
+      ]
+    },
+    {
+      "id": "steam-704411368981266799",
+      "title": "股东上岗指南：英雄怎么练，心得和石头往哪花",
+      "category": "Steam 公告",
+      "group": "已发布公告",
+      "date": "2026-11-19",
+      "dateBasis": "Steam公开公告posttime（北京时间）",
+      "publishedAt": "2026-11-19 12:33",
+      "summary": "Demo 的进度不会继承到正式版！正式版 12 月 3 日上线，倒计时 14 天，会开启 Steam 社区市场。这篇讲 Demo 里英雄怎么变强：心得一键升级、升阶和突破石关口、一次全部升阶，还有只练招牌技的技能精通。",
+      "highlights": [
+        "正式版12月3日上线，将开启Steam社区市场；Demo进度不继承正式版。",
+        "介绍Demo英雄等级、升阶与突破石、全部升阶和招牌技精通；星级固定，无重复英雄养成。",
+        "十语正文各配4张本语实机图；简中、繁中用中文封面，其他八语用英文封面。"
+      ],
+      "announcementNumber": 19,
+      "status": "已发布 · 十语",
+      "cover": "assets/steam-704411368981266799-cover-schinese.png",
+      "body": "重要的事情说三遍：Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！\n\n各位股东大人，我是倦猫。\n\n游戏正式版将在 12 月 3 日上线，还有 14 天！正式版会开启 Steam 社区市场～对市场有什么想法，欢迎在评论区留言。\n\n这篇还是不讲更新，接着上次的英雄和阵容，聊聊人招来以后怎么练。常有人问：心得、升阶石、精华一大堆，到底先花哪个。一条条说。\n\n先说一句：没有升星\n英雄的星级就是稀有度，招来几星就是几星，不会变。同一位英雄也只会有一个，不会招到重复的，所以不用攒重复卡去喂。英雄变强靠三条线：等级、阶、技能精通。\n\n等级：心得一键升满\n升级只花「心得」，不花金币。心得打关卡、挂机都会给，第 5 关解锁的训练场也会一直产。\n在英雄页点「升 N 级」，一下就升到本阶的等级上限，心得不够就升到用完为止。等级上限跟着阶走：0 阶 10 级，之后每升一阶多 10 级。到顶了按钮会变成「升阶」，提示那一行写着「等级已满 · 升阶提高上限」。\n〔配图请见Steam原文及归档图片〕\n\n升阶：等级满了再升\n升阶花「升阶石」，前提是本阶等级已经升满。点「升阶」会先弹一张预览卡，写着战力加多少、等级上限和技能精通上限各涨到多少，还有要花多少石头。卡上可以只「升一阶」，也可以直接点「升到第 N 阶」，资源够升到哪就升到哪，中间缺的等级会先用心得自动补满。\n升到第 10 阶以后，每次升阶等级会直接补满到新上限，不用再花心得。\n〔配图请见Steam原文及归档图片〕\n\n第 5、10、15、20 阶要突破石\n升到这几阶，除了升阶石，还要额外交「突破石」，分别是 4、12、24、40 颗。突破石不够，英雄就停在关口前。上面那张图就是第 4 阶升第 5 阶：除了升阶石，还要 4 颗突破石。\nDemo 里突破石的来源：第 5 关和首领首通、挂机掉落、分解掉落的装备。所以关口前先给主力用，替补可以晚点再过。\n\n一次全部升阶\n「角色背包」页有个「可升阶 N」的按钮，N 是现在能升阶的人数。点开是「全部升阶」清单，每一行写着谁从第几阶升到第几阶、战力加多少，底下是升阶石、突破石、心得一共要花多少。顺序是出战中的英雄先升，再按战力从高到低，资源用完就停。不想升的那位把勾去掉，看清楚再确认。\n〔配图请见Steam原文及归档图片〕\n\n技能精通：只练招牌技\n通关第 20 关开放。在英雄页的「技能」页签里，招牌技那一行可以升精通。精通只放大招牌技本身，不涨战力，所以别看战力数字没动就以为白练了。\n精通花的是精华：前 3 级用蓝精华，4 到 7 级用紫精华，8 级起用金精华，五星英雄用量翻倍。心得多了也可以炼成精华。精通上限跟阶挂钩：比当前阶多 1 级，最高 20 级。\n五星（传说）英雄到 9 阶、精通 4 级，就会觉醒，招牌技换成觉醒版，技能页里标着「觉醒解锁」的那一条也会打开。\n〔配图请见Steam原文及归档图片〕\n\n心得和石头往哪花\n\n• 心得先给出战的人把等级升满，升阶才不会卡。\n• 升阶石跟着「全部升阶」走就行，它本来就先升出战的。\n• 突破石省着给主力过关口。\n• 精华给你最常用的那位主力的招牌技，精通不加战力，但出伤是实打实的。\n\n\n还有哪些想听我讲、哪里看不明白，欢迎在评论区问我。欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+      "translations": {
+        "schinese": {
+          "title": "股东上岗指南：英雄怎么练，心得和石头往哪花",
+          "summary": "Demo 的进度不会继承到正式版！正式版 12 月 3 日上线，倒计时 14 天，会开启 Steam 社区市场。这篇讲 Demo 里英雄怎么变强：心得一键升级、升阶和突破石关口、一次全部升阶，还有只练招牌技的技能精通。",
+          "body": "重要的事情说三遍：Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！\n\n各位股东大人，我是倦猫。\n\n游戏正式版将在 12 月 3 日上线，还有 14 天！正式版会开启 Steam 社区市场～对市场有什么想法，欢迎在评论区留言。\n\n这篇还是不讲更新，接着上次的英雄和阵容，聊聊人招来以后怎么练。常有人问：心得、升阶石、精华一大堆，到底先花哪个。一条条说。\n\n先说一句：没有升星\n英雄的星级就是稀有度，招来几星就是几星，不会变。同一位英雄也只会有一个，不会招到重复的，所以不用攒重复卡去喂。英雄变强靠三条线：等级、阶、技能精通。\n\n等级：心得一键升满\n升级只花「心得」，不花金币。心得打关卡、挂机都会给，第 5 关解锁的训练场也会一直产。\n在英雄页点「升 N 级」，一下就升到本阶的等级上限，心得不够就升到用完为止。等级上限跟着阶走：0 阶 10 级，之后每升一阶多 10 级。到顶了按钮会变成「升阶」，提示那一行写着「等级已满 · 升阶提高上限」。\n〔配图请见Steam原文及归档图片〕\n\n升阶：等级满了再升\n升阶花「升阶石」，前提是本阶等级已经升满。点「升阶」会先弹一张预览卡，写着战力加多少、等级上限和技能精通上限各涨到多少，还有要花多少石头。卡上可以只「升一阶」，也可以直接点「升到第 N 阶」，资源够升到哪就升到哪，中间缺的等级会先用心得自动补满。\n升到第 10 阶以后，每次升阶等级会直接补满到新上限，不用再花心得。\n〔配图请见Steam原文及归档图片〕\n\n第 5、10、15、20 阶要突破石\n升到这几阶，除了升阶石，还要额外交「突破石」，分别是 4、12、24、40 颗。突破石不够，英雄就停在关口前。上面那张图就是第 4 阶升第 5 阶：除了升阶石，还要 4 颗突破石。\nDemo 里突破石的来源：第 5 关和首领首通、挂机掉落、分解掉落的装备。所以关口前先给主力用，替补可以晚点再过。\n\n一次全部升阶\n「角色背包」页有个「可升阶 N」的按钮，N 是现在能升阶的人数。点开是「全部升阶」清单，每一行写着谁从第几阶升到第几阶、战力加多少，底下是升阶石、突破石、心得一共要花多少。顺序是出战中的英雄先升，再按战力从高到低，资源用完就停。不想升的那位把勾去掉，看清楚再确认。\n〔配图请见Steam原文及归档图片〕\n\n技能精通：只练招牌技\n通关第 20 关开放。在英雄页的「技能」页签里，招牌技那一行可以升精通。精通只放大招牌技本身，不涨战力，所以别看战力数字没动就以为白练了。\n精通花的是精华：前 3 级用蓝精华，4 到 7 级用紫精华，8 级起用金精华，五星英雄用量翻倍。心得多了也可以炼成精华。精通上限跟阶挂钩：比当前阶多 1 级，最高 20 级。\n五星（传说）英雄到 9 阶、精通 4 级，就会觉醒，招牌技换成觉醒版，技能页里标着「觉醒解锁」的那一条也会打开。\n〔配图请见Steam原文及归档图片〕\n\n心得和石头往哪花\n\n• 心得先给出战的人把等级升满，升阶才不会卡。\n• 升阶石跟着「全部升阶」走就行，它本来就先升出战的。\n• 突破石省着给主力过关口。\n• 精华给你最常用的那位主力的招牌技，精通不加战力，但出伤是实打实的。\n\n\n还有哪些想听我讲、哪里看不明白，欢迎在评论区问我。欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266799?l=schinese"
+        },
+        "tchinese": {
+          "title": "股東上工指南：英雄怎麼練，心得和石頭往哪花",
+          "summary": "Demo 的進度不會繼承到正式版！正式版 12 月 3 日上線，倒數 14 天，會開啟 Steam 社群市場。這篇講 Demo 裡英雄怎麼變強：心得一鍵升級、升階和突破石關口、一次全部升階，還有只練招牌技的技能精通。",
+          "body": "重要的事情說三遍：Demo 的進度不會繼承到正式版！Demo 的進度不會繼承到正式版！Demo 的進度不會繼承到正式版！\n\n各位股東大人，我是倦貓。\n\n遊戲正式版將在 12 月 3 日上線，還有 14 天！正式版會開啟 Steam 社群市場～對市場有什麼想法，歡迎在留言區留言。\n\n這篇還是不講更新，接著上次的英雄和陣容，聊聊人招來以後怎麼練。常有人問：心得、升階石、精華一大堆，到底先花哪個。一條一條說。\n\n先說一句：沒有升星\n英雄的星級就是稀有度，招來幾星就是幾星，不會變。同一位英雄也只會有一個，不會招到重複的，所以不用存重複卡去餵。英雄變強靠三條線：等級、階、技能精通。\n\n等級：心得一鍵升滿\n升級只花「心得」，不花金幣。心得打關卡、掛機都會給，第 5 關解鎖的訓練場也會一直產。\n在英雄頁點「升 N 級」，一下就升到本階的等級上限，心得不夠就升到用完為止。等級上限跟著階走：0 階 10 級，之後每升一階多 10 級。到頂了按鈕會變成「升階」，提示那一行寫著「等級已滿 · 升階提高上限」。\n〔配图请见Steam原文及归档图片〕\n\n升階：等級滿了再升\n升階花「升階石」，前提是本階等級已經升滿。點「升階」會先跳出一張預覽卡，寫著戰力加多少、等級上限和技能精通上限各漲到多少，還有要花多少石頭。卡上可以只「升一階」，也可以直接點「升到第 N 階」，資源夠升到哪就升到哪，中間缺的等級會先用心得自動補滿。\n升到第 10 階以後，每次升階等級會直接補滿到新上限，不用再花心得。\n〔配图请见Steam原文及归档图片〕\n\n第 5、10、15、20 階要突破石\n升到這幾階，除了升階石，還要額外交「突破石」，分別是 4、12、24、40 顆。突破石不夠，英雄就卡在關口前。上面那張圖就是第 4 階升第 5 階：除了升階石，還要 4 顆突破石。\nDemo 裡突破石的來源：第 5 關和首領首通、掛機掉落、分解掉落的裝備。所以關口前先給主力用，替補可以晚點再過。\n\n一次全部升階\n「角色背包」頁有個「可升階 N」的按鈕，N 是現在能升階的人數。點開是「全部升階」清單，每一行寫著誰從第幾階升到第幾階、戰力加多少，底下是升階石、突破石、心得一共要花多少。順序是出戰中的英雄先升，再按戰力從高到低，資源用完就停。不想升的那位把勾取消，看清楚再確認。\n〔配图请见Steam原文及归档图片〕\n\n技能精通：只練招牌技\n通關第 20 關開放。在英雄頁的「技能」分頁裡，招牌技那一行可以升精通。精通只放大招牌技本身，不漲戰力，所以別看戰力數字沒動就以為白練了。\n精通花的是精華：前 3 級用藍精華，4 到 7 級用紫精華，8 級起用金精華，五星英雄用量翻倍。心得多了也可以煉成精華。精通上限跟階綁在一起：比目前的階多 1 級，最高 20 級。\n五星（傳說）英雄到 9 階、精通 4 級，就會覺醒，招牌技換成覺醒版，技能頁裡標著「覺醒解鎖」的那一條也會打開。\n〔配图请见Steam原文及归档图片〕\n\n心得和石頭往哪花\n\n• 心得先給出戰的人把等級升滿，升階才不會卡。\n• 升階石跟著「全部升階」走就好，它本來就先升出戰的。\n• 突破石省著給主力過關口。\n• 精華給你最常用的那位主力的招牌技，精通不加戰力，但輸出是實打實的。\n\n\n還有哪些想聽我講、哪裡看不懂，歡迎在留言區問我。歡迎加入遊戲交流群：1079312948。\n\n如果覺得還不錯，也拜託幫忙加個願望清單。謝謝大家，這對一個遊戲真的很重要。\n\n免費試玩 Demo（https://store.steampowered.com/app/5257220/）｜將正式版加入願望清單（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266799?l=tchinese"
+        },
+        "english": {
+          "title": "Shareholder onboarding: how to train heroes, where to spend Insight and stones",
+          "summary": "Demo progress won't carry over! Full game out Dec 3, 14 days to go, opening the Steam Community Market. This one: how heroes grow in the Demo, from levels to mastery.",
+          "body": "Important enough to say three times: Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game!\n\nHi everyone, Juanmao here.\n\nThe full game launches on December 3! Just 14 days to go! The Steam Community Market will open with the full game~ If you have any thoughts about the Market, feel free to leave them in the comments.\n\nStill not an update this time. Following up on last time's heroes and lineups, let's talk about how to train your heroes once you've recruited them. People often ask: Insight, Rank Stones, Essence, it all piles up, so what should I spend first? Let's go through it one by one.\n\nFirst things first: there's no star-up\nA hero's stars are their rarity. However many stars they come with, that's what they keep. You also only ever get one of each hero, never duplicates, so there's no need to hoard dupes to feed them. Heroes get stronger along three lines: level, rank, and skill mastery.\n\nLevels: max them out in one click\nLeveling up only costs Insight, no gold. You get Insight from clearing stages and from idling, and the Training Ground, unlocked at stage 5, keeps producing it too.\nOn the hero page, click “Level Up ×N” and the hero jumps straight to the level cap of their current rank; if you're short on Insight, they level up as far as it goes. The level cap follows rank: 10 at rank 0, plus 10 more for each rank after that. Once they're capped, the button changes to “Rank Up” and the hint line reads “Level maxed · Rank up to raise cap”.\n〔配图请见Steam原文及归档图片〕\n\nRank up: once the level is maxed\nRanking up costs Rank Stones, and the hero has to be at the max level for their current rank. Click “Rank Up” and a preview card pops up first, showing how much power you gain, what the level cap and skill mastery cap go up to, and how many stones it costs. On the card you can just “Rank Up Once”, or go straight for “Up to Rank N”: it goes as far as your resources allow, and any levels missing along the way get filled in with Insight automatically.\nFrom rank 10 on, every rank-up fills the level straight to the new cap, no Insight needed.\n〔配图请见Steam原文及归档图片〕\n\nRanks 5, 10, 15 and 20 need Breakthrough Stones\nTo reach these ranks you need Breakthrough Stones on top of Rank Stones: 4, 12, 24 and 40 respectively. Not enough of them, and the hero stays stuck at the gate. The image above is exactly that, rank 4 to rank 5: Rank Stones plus 4 Breakthrough Stones.\nIn the Demo, Breakthrough Stones come from first clears of stage 5 and of bosses, idle drops, and salvaging gear. So at the gates, give them to your main heroes first; the bench can wait.\n\nRank up everyone at once\nOn the “Roster” page there's a “Rank Up N” button, where N is how many heroes can rank up right now. Open it to get the “Rank Up All” list: each row shows who goes from which rank to which and how much power they gain, and at the bottom you see the total Rank Stones, Breakthrough Stones and Insight it'll cost. Fielded heroes go first, then by power from high to low, and it stops when resources run out. Untick anyone you don't want to rank up, and check it over before you confirm.\n〔配图请见Steam原文及归档图片〕\n\nSkill mastery: Signature ability only\nUnlocks once you clear stage 20. In the “Skills” tab on the hero page, you can level up mastery on the Signature ability's row. Mastery only boosts the Signature ability itself and doesn't add power, so don't assume it was wasted just because the power number didn't move.\nMastery costs Essence: the first 3 levels take Blue Essence, levels 4 to 7 take Purple Essence, and level 8 onward takes Gold Essence; five-star heroes need double. Extra Insight can also be refined into Essence. The mastery cap is tied to rank: 1 level above the current rank, up to level 20.\nA five-star (Legendary) hero awakens at rank 9 with mastery level 4: their Signature ability switches to its awakened version, and the line on the Skills tab marked “Unlocks on awakening” opens up too.\n〔配图请见Steam原文及归档图片〕\n\nWhere to spend Insight and stones\n\n• Insight first goes into maxing the levels of your fielded heroes, so their rank-ups don't get stuck.\n• For Rank Stones, just follow “Rank Up All”. It already ranks up fielded heroes first.\n• Save Breakthrough Stones to get your main heroes through the gates.\n• Put Essence into the Signature ability of the main hero you use most. Mastery doesn't add power, but the damage is very real.\n\n\nIf there's anything else you'd like me to cover, or anything that isn't clear, feel free to ask me in the comments. You're also welcome to join us on Discord（https://discord.gg/uEwdWz2h62）.\n\nIf you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.\n\nPlay the free Demo（https://store.steampowered.com/app/5257220/） | Wishlist the full game（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266799?l=english"
+        },
+        "japanese": {
+          "title": "株主の着任ガイド：英雄の育て方、知見と石はどこに使う？",
+          "summary": "Demoの進行状況は製品版に引き継がれません！製品版は12月3日リリース、あと14日。Steam コミュニティマーケットが開放されます。今回はDemoでの英雄の育て方：知見で一気にレベルアップ、昇階と突破石の関門、すべて昇階、看板技だけを鍛えるスキル熟練を紹介します。",
+          "body": "大事なことなので3回言います：Demoの進行状況は製品版に引き継がれません！Demoの進行状況は製品版に引き継がれません！Demoの進行状況は製品版に引き継がれません！\n\nみなさん、こんにちは。倦猫（Juanmao）です。\n\n製品版は12月3日にリリース。あと14日です！製品版では Steam コミュニティマーケットが開放されます～マーケットについて思うことがあれば、ぜひコメントで教えてください。\n\n今回もアップデートの話ではありません。前回の英雄と編成の続きとして、仲間にした英雄の育て方をお話しします。「知見も昇階石もエッセンスもたくさんあるけど、どれから使えばいいの？」とよく聞かれるので、ひとつずつ説明していきます。\n\nまずひとこと：星上げはありません\n英雄の星の数はそのままレアリティで、仲間にしたときの星から変わりません。同じ英雄は一人しか手に入らず、重複して出ることもないので、重複キャラを集めて食べさせる必要もありません。英雄を強くする軸は三つ：レベル、階位、スキル熟練です。\n\nレベル：知見でまとめて上限まで\nレベルアップに使うのは「知見」だけで、ゴールドはかかりません。知見はステージ攻略でも放置でも手に入り、ステージ5で解放される訓練場もずっと生産してくれます。\n英雄画面で「Lv+N」を押すと、今の階位のレベル上限まで一気に上がります。知見が足りなければ、使い切るところまで上がります。レベル上限は階位で決まり、階位0なら10レベル、そこから階位がひとつ上がるごとに10ずつ増えます。上限に達すると、ボタンが「昇階」に変わり、案内の行に「レベル最大 · 昇階で上限アップ」と表示されます。\n〔配图请见Steam原文及归档图片〕\n\n昇階：レベルが上限になってから\n昇階には「昇階石」を使います。条件は、今の階位でレベルが上限に達していること。「昇階」を押すとまずプレビューカードが出て、戦力がどれだけ上がるか、レベル上限とスキル熟練上限がそれぞれいくつになるか、石がいくつ必要かが書いてあります。カードでは「1階位昇階」だけもできますし、「階位Nまで昇階」を押せば資源が続くところまで一気に上がります。途中で足りないレベルは、先に知見で自動的に埋めてくれます。\n階位10に到達したあとは、昇階するたびにレベルが新しい上限まで自動で埋まるので、知見はもういりません。\n〔配图请见Steam原文及归档图片〕\n\n階位5・10・15・20には突破石が必要\nこれらの階位に上がるときは、昇階石に加えて「突破石」がそれぞれ4・12・24・40個必要です。突破石が足りないと、英雄はその関門の手前で止まります。上の画像がちょうど階位4から階位5への昇階で、昇階石のほかに突破石が4個必要です。\nDemoでの突破石の入手先は、ステージ5とボスの初回クリア、放置中のドロップ、ドロップした装備の分解です。なので関門はまず主力から越えさせて、控えはあとからで大丈夫です。\n\nまとめて全員昇階\n「キャラ一覧」画面に「昇階可 N」のボタンがあり、Nは今昇階できる人数です。開くと「すべて昇階」のリストが出ます。各行に誰が階位いくつからいくつに上がるか、戦力がどれだけ上がるかが書かれていて、下に昇階石・突破石・知見の合計コストが表示されます。順番は出撃中の英雄が先、次に戦力の高い順で、資源が尽きたら止まります。上げたくない英雄はチェックを外して、よく確認してから決定しましょう。\n〔配图请见Steam原文及归档图片〕\n\nスキル熟練：看板技だけを鍛える\nステージ20をクリアすると開放されます。英雄画面の「スキル」タブで、看板技の行から熟練を上げられます。熟練は看板技そのものだけを強化し、戦力は上がりません。戦力の数字が動かなくても、無駄になったわけではありませんよ。\n熟練に使うのはエッセンスです。1〜3レベルは青のエッセンス、4〜7レベルは紫のエッセンス、8レベルからは金のエッセンスで、五つ星英雄は必要量が倍になります。知見が余ったらエッセンスに錬成することもできます。熟練上限は階位と連動していて、今の階位より1高いところまで、最大20です。\n五つ星（レジェンド）英雄は階位9・熟練4に達すると覚醒し、看板技が覚醒版に変わります。スキルタブで「覚醒で解放」となっている項目も開放されます。\n〔配图请见Steam原文及归档图片〕\n\n知見と石はどこに使う？\n\n• 知見はまず出撃メンバーのレベルを上限まで。そうすれば昇階で詰まりません。\n• 昇階石は「すべて昇階」に任せればOK。もともと出撃中の英雄から上げてくれます。\n• 突破石は温存して、主力の関門突破に回しましょう。\n• エッセンスはいちばんよく使う主力の看板技へ。熟練は戦力には出ませんが、ダメージはしっかり上がります。\n\n\nほかにも聞きたいことや分かりにくいところがあれば、ぜひコメントで聞いてください。Discord（https://discord.gg/uEwdWz2h62）にもぜひ遊びに来てください。\n\nもし悪くないなと思ってもらえたら、ウィッシュリストに追加していただけるとうれしいです。みなさん、ありがとうございます。ゲームにとって、本当に大事なことなんです。\n\n無料体験版をプレイ（https://store.steampowered.com/app/5257220/） | 製品版をウィッシュリストに追加（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266799?l=japanese"
+        },
+        "korean": {
+          "title": "주주님 근무 가이드: 영웅은 어떻게 키우고, 통찰과 돌은 어디에 쓸까",
+          "summary": "데모 진행 상황은 정식판으로 이어지지 않아요! 정식판은 12월 3일 출시, 14일 남았고 Steam 커뮤니티 장터가 열려요. 이번엔 데모에서 영웅 키우는 법이에요. 통찰로 한 번에 레벨업, 승급과 돌파석 관문, 전체 승급, 대표 스킬만 키우는 스킬 숙련까지 정리했어요.",
+          "body": "중요해서 세 번 말할게요: 데모 진행 상황은 정식판으로 이어지지 않아요! 데모 진행 상황은 정식판으로 이어지지 않아요! 데모 진행 상황은 정식판으로 이어지지 않아요!\n\n안녕하세요, Juanmao입니다.\n\n정식판이 12월 3일에 출시돼요. 14일 남았어요! 정식판에서는 Steam 커뮤니티 장터가 열려요~ 장터에 대해 하고 싶은 말이 있으면 댓글로 남겨 주세요.\n\n이번 글도 업데이트 얘기는 아니에요. 지난번 영웅과 편성 이야기에 이어서, 영웅을 모은 다음 어떻게 키우는지 이야기해 볼게요. 통찰, 승급석, 정수가 잔뜩 쌓였는데 뭐부터 써야 하냐는 질문을 자주 받아서 하나씩 정리했어요.\n\n먼저 한마디: 성급 올리기는 없어요\n영웅의 별 개수가 곧 희귀도라서, 모집했을 때 몇 성이면 계속 그대로예요. 같은 영웅은 한 명만 얻을 수 있고 중복으로 나오지도 않으니, 중복 카드를 모아서 먹일 필요도 없어요. 영웅이 강해지는 길은 세 가지예요: 레벨, 단계, 스킬 숙련.\n\n레벨: 통찰로 한 번에 상한까지\n레벨업에는 \"통찰\"만 들고, 골드는 들지 않아요. 통찰은 스테이지를 깨도, 방치해도 들어오고, 스테이지 5에서 열리는 훈련장에서도 계속 생산돼요.\n영웅 화면에서 \"N레벨업\"을 누르면 현재 단계의 레벨 상한까지 한 번에 올라가요. 통찰이 모자라면 다 쓸 때까지만 올라가요. 레벨 상한은 단계를 따라가요. 0단계는 10레벨이고, 단계가 하나 오를 때마다 10레벨씩 늘어나요. 상한에 닿으면 버튼이 \"승급\"으로 바뀌고, 안내 줄에 \"레벨 최대 · 승급으로 상한 증가\"라고 떠요.\n〔配图请见Steam原文及归档图片〕\n\n승급: 레벨을 다 채운 다음에\n승급에는 \"승급석\"이 들고, 현재 단계에서 레벨을 다 채워야 해요. \"승급\"을 누르면 먼저 미리보기 카드가 떠서, 전투력이 얼마나 오르는지, 레벨 상한과 스킬 숙련 상한이 각각 얼마까지 오르는지, 돌이 몇 개 드는지 알려 줘요. 카드에서 \"1단계 승급\"만 할 수도 있고, \"N단계까지 승급\"을 바로 누르면 자원이 되는 데까지 쭉 올라가요. 중간에 모자란 레벨은 통찰로 먼저 자동으로 채워 줘요.\n10단계에 오른 뒤부터는 승급할 때마다 레벨이 새 상한까지 바로 채워져서, 통찰을 더 쓸 필요가 없어요.\n〔配图请见Steam原文及归档图片〕\n\n5·10·15·20단계에는 돌파석이 필요해요\n이 단계로 올릴 때는 승급석 말고도 \"돌파석\"을 추가로 내야 하고, 각각 4·12·24·40개예요. 돌파석이 모자라면 영웅은 관문 앞에서 멈춰요. 위 이미지가 바로 4단계에서 5단계로 올리는 장면인데, 승급석 말고도 돌파석 4개가 필요해요.\n데모에서 돌파석은 스테이지 5와 보스 첫 클리어, 방치 드롭, 드롭된 장비 분해로 얻을 수 있어요. 그러니 관문은 주력부터 넘기고, 후보는 나중에 넘겨도 돼요.\n\n한 번에 전체 승급\n\"영웅 목록\" 화면에 \"승급 가능 N\" 버튼이 있는데, N은 지금 승급할 수 있는 인원수예요. 누르면 \"전체 승급\" 목록이 열려요. 줄마다 누가 몇 단계에서 몇 단계로 오르는지, 전투력이 얼마나 오르는지 나와 있고, 아래에는 승급석·돌파석·통찰이 총 얼마나 드는지 나와요. 순서는 출전 중인 영웅부터, 그다음 전투력이 높은 순이고, 자원이 떨어지면 멈춰요. 올리고 싶지 않은 영웅은 체크를 풀고, 잘 확인한 다음 확정하세요.\n〔配图请见Steam原文及归档图片〕\n\n스킬 숙련: 대표 스킬만 키워요\n스테이지 20을 클리어하면 열려요. 영웅 화면의 \"스킬\" 탭에서 대표 스킬 줄의 숙련을 올릴 수 있어요. 숙련은 대표 스킬 자체만 강화하고 전투력은 오르지 않아요. 그러니 전투력 숫자가 그대로라고 헛키웠다고 생각하지 마세요.\n숙련에는 정수가 들어요. 1~3레벨은 푸른 정수, 4~7레벨은 보라 정수, 8레벨부터는 황금 정수를 쓰고, 5성 영웅은 필요량이 두 배예요. 통찰이 남으면 정수로 바꿀 수도 있어요. 숙련 상한은 단계에 묶여 있어서, 현재 단계보다 1 높은 데까지, 최대 20이에요.\n5성(전설) 영웅은 9단계, 숙련 4레벨이 되면 각성해서 대표 스킬이 각성 버전으로 바뀌고, 스킬 탭에서 \"각성 시 해금\"이라고 표시된 항목도 열려요.\n〔配图请见Steam原文及归档图片〕\n\n통찰과 돌은 어디에 쓸까\n\n• 통찰은 먼저 출전 멤버 레벨을 다 채우는 데 쓰세요. 그래야 승급에서 막히지 않아요.\n• 승급석은 \"전체 승급\"에 맡기면 돼요. 원래 출전 중인 영웅부터 올려 줘요.\n• 돌파석은 아껴 뒀다가 주력이 관문을 넘을 때 쓰세요.\n• 정수는 가장 자주 쓰는 주력의 대표 스킬에 주세요. 숙련은 전투력에는 안 잡히지만 딜은 확실히 올라가요.\n\n\n또 듣고 싶은 이야기나 이해가 안 되는 부분이 있으면 댓글로 물어봐 주세요. Discord（https://discord.gg/uEwdWz2h62）에도 놀러 오세요.\n\n괜찮다고 느끼셨다면 찜 목록에도 추가해 주세요. 모두 감사합니다. 게임 하나에는 정말 중요한 일이에요.\n\n무료 데모 플레이（https://store.steampowered.com/app/5257220/） | 정식판 찜 목록에 추가（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266799?l=koreana"
+        },
+        "german": {
+          "title": "Leitfaden für Aktionäre: Helden trainieren – wohin mit Einsicht und Steinen",
+          "summary": "Demo-Fortschritt wird nicht übernommen! Vollversion am 3. Dezember, noch 14 Tage, dann öffnet der Steam-Community-Markt. Diesmal: wie Helden in der Demo stärker werden.",
+          "body": "So wichtig, dass ich es dreimal sage: Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen!\n\nHallo zusammen, hier ist Juanmao.\n\nDie Vollversion erscheint am 3. Dezember! Noch 14 Tage! Mit der Vollversion öffnet der Steam-Community-Markt~ Wenn ihr Gedanken zum Markt habt, schreibt sie gern in die Kommentare.\n\nAuch diesmal kein Update. Nach den Helden und Aufstellungen vom letzten Mal geht es jetzt darum, wie ihr eure Helden trainiert, wenn ihr sie erst mal angeworben habt. Oft werde ich gefragt: Einsicht, Rangsteine, Essenzen – von allem ein ganzer Haufen, was gebe ich zuerst aus? Gehen wir es Punkt für Punkt durch.\n\nVorweg: Sterne steigen nicht\nDie Sterne eines Helden sind seine Seltenheit. Mit so vielen Sternen, wie er kommt, bleibt er auch. Jeden Helden gibt es außerdem nur einmal, Duplikate bekommt ihr nicht – ihr müsst also keine doppelten Karten zum Verfüttern sammeln. Stärker werden Helden über drei Wege: Stufe, Rang und Fähigkeitsmeisterschaft.\n\nStufe: mit einem Klick bis zum Limit\nLeveln kostet nur Einsicht, kein Gold. Einsicht gibt es für Etappen und im Leerlauf, und der Trainingsplatz, der ab Etappe 5 freigeschaltet ist, produziert laufend welche.\nKlickt auf der Heldenseite auf „Leveln ×N“, dann springt der Held direkt auf das Stufenlimit seines aktuellen Rangs; reicht die Einsicht nicht, levelt er, so weit sie reicht. Das Stufenlimit hängt am Rang: Bei Rang 0 liegt es bei 10, mit jedem weiteren Rang kommen 10 Stufen dazu. Ist das Limit erreicht, wird der Button zu „Befördern“, und in der Hinweiszeile steht „Level maximal · Befördern hebt Limit“.\n〔配图请见Steam原文及归档图片〕\n\nBefördern: erst, wenn die Stufe voll ist\nBefördern kostet Rangsteine, und der Held muss das Stufenlimit seines aktuellen Rangs erreicht haben. Klickt ihr auf „Befördern“, erscheint zuerst eine Vorschaukarte: wie viel Kampfkraft dazukommt, auf welchen Wert Stufenlimit und Meisterschaftslimit steigen und wie viele Steine es kostet. Auf der Karte könnt ihr nur „1× befördern“ oder direkt „Bis Rang N“ klicken: Es geht so weit, wie eure Ressourcen reichen, und fehlende Stufen dazwischen werden automatisch mit Einsicht aufgefüllt.\nAb Rang 10 füllt jede Beförderung die Stufe direkt bis zum neuen Limit auf, ganz ohne Einsicht.\n〔配图请见Steam原文及归档图片〕\n\nRang 5, 10, 15 und 20 brauchen Durchbruchsteine\nFür diese Ränge braucht ihr zusätzlich zu den Rangsteinen noch Durchbruchsteine, und zwar 4, 12, 24 bzw. 40. Reichen die nicht, bleibt der Held vor der Schwelle stehen. Das Bild oben zeigt genau den Schritt von Rang 4 auf Rang 5: Rangsteine plus 4 Durchbruchsteine.\nIn der Demo bekommt ihr Durchbruchsteine beim ersten Abschluss von Etappe 5 und von Bossen, als Leerlauf-Beute und beim Zerlegen erbeuteter Ausrüstung. Gebt sie an den Schwellen also zuerst euren Hauptkämpfern; die Ersatzbank kann warten.\n\nAlle auf einmal befördern\nAuf der Seite „Kader“ gibt es einen Button „Befördern N“; N ist die Zahl der Helden, die gerade befördert werden können. Dahinter steckt die Liste „Alle befördern“: Jede Zeile zeigt, wer von welchem Rang auf welchen steigt und wie viel Kampfkraft dazukommt, darunter steht, wie viele Rangsteine, Durchbruchsteine und wie viel Einsicht insgesamt draufgehen. Helden im Einsatz kommen zuerst, dann nach Kampfkraft absteigend; sind die Ressourcen aufgebraucht, stoppt es. Wen ihr nicht befördern wollt, bei dem nehmt ihr den Haken raus – erst genau hinschauen, dann bestätigen.\n〔配图请见Steam原文及归档图片〕\n\nFähigkeitsmeisterschaft: nur für die Signaturfähigkeit\nWird freigeschaltet, sobald ihr Etappe 20 geschafft habt. Im Reiter „Fähigkeiten“ auf der Heldenseite könnt ihr in der Zeile der Signaturfähigkeit die Meisterschaft steigern. Die Meisterschaft verstärkt nur die Signaturfähigkeit selbst und erhöht nicht die Kampfkraft – wenn sich die Zahl nicht bewegt, war das Training also nicht umsonst.\nMeisterschaft kostet Essenz: Die ersten 3 Stufen brauchen Blaue Essenz, Stufe 4 bis 7 Violette Essenz, ab Stufe 8 Goldene Essenz; Fünf-Sterne-Helden brauchen doppelt so viel. Überschüssige Einsicht lässt sich auch zu Essenz veredeln. Das Meisterschaftslimit hängt am Rang: 1 Stufe über dem aktuellen Rang, höchstens Stufe 20.\nEin Fünf-Sterne-Held (Legendär) erwacht bei Rang 9 und Meisterschaftsstufe 4: Seine Signaturfähigkeit wird zur erwachten Version, und die Zeile mit „Entsperrt beim Erwachen“ im Fähigkeiten-Reiter öffnet sich ebenfalls.\n〔配图请见Steam原文及归档图片〕\n\nWohin mit Einsicht und Steinen\n\n• Einsicht zuerst in die Helden im Einsatz stecken und deren Stufe vollmachen, dann hakt es beim Befördern nicht.\n• Bei Rangsteinen einfach „Alle befördern“ nutzen – das befördert die Helden im Einsatz ohnehin zuerst.\n• Durchbruchsteine aufsparen, damit eure Hauptkämpfer über die Schwellen kommen.\n• Essenz in die Signaturfähigkeit des Hauptkämpfers, den ihr am häufigsten einsetzt. Meisterschaft bringt keine Kampfkraft, aber der Schaden ist ganz real.\n\n\nWorüber soll ich noch schreiben, und was ist euch unklar? Fragt mich gern in den Kommentaren. Kommt auch gern auf unseren Discord（https://discord.gg/uEwdWz2h62）.\n\nWenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.\n\nKostenlose Demo spielen（https://store.steampowered.com/app/5257220/） | Vollversion auf die Wunschliste setzen（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266799?l=german"
+        },
+        "french": {
+          "title": "Guide de l'actionnaire : former vos héros, où dépenser Perspicacité et pierres",
+          "summary": "La progression de la démo n'est pas reprise ! Jeu complet le 3 décembre, J-14, le Marché de la communauté Steam ouvre. Au menu : comment vos héros progressent dans la démo.",
+          "body": "C'est important, alors je le dis trois fois : la progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet !\n\nBonjour à tous, ici Juanmao.\n\nLe jeu complet sort le 3 décembre ! Plus que 14 jours ! Le Marché de la communauté Steam ouvrira avec le jeu complet~ Si vous avez des idées sur le Marché, laissez-les en commentaire.\n\nToujours pas de mise à jour cette fois : après les héros et les compositions de la dernière fois, parlons de comment entraîner vos héros une fois recrutés. On me demande souvent : Perspicacité, Pierres de rang, essences, tout s'accumule… on dépense quoi en premier ? Voyons ça point par point.\n\nD'abord : pas de montée en étoiles\nLes étoiles d'un héros, c'est sa rareté : il garde le nombre d'étoiles avec lequel il arrive. Chaque héros n'existe aussi qu'en un seul exemplaire, pas de doublons, donc inutile de garder des doubles pour les sacrifier. Un héros devient plus fort sur trois axes : niveau, rang et maîtrise de compétence.\n\nNiveau : au max en un clic\nMonter de niveau ne coûte que de la Perspicacité, pas d'or. Vous en gagnez en passant des étapes et en mode auto, et le Terrain d'entraînement, débloqué à l'étape 5, en produit en continu.\nSur la page du héros, cliquez sur « Monter niv. ×N » : il monte d'un coup jusqu'au niveau max de son rang actuel ; s'il manque de Perspicacité, il monte aussi loin qu'elle le permet. Le niveau max suit le rang : 10 au rang 0, puis 10 de plus à chaque rang. Une fois au plafond, le bouton devient « Promouvoir » et la ligne d'indication affiche « Niv. max · promouvoir pour le relever ».\n〔配图请见Steam原文及归档图片〕\n\nPromouvoir : une fois le niveau au max\nUne promotion coûte des Pierres de rang, et le héros doit avoir atteint le niveau max de son rang. Cliquez sur « Promouvoir » : une carte d'aperçu s'affiche d'abord, avec le gain de force, les nouveaux plafonds de niveau et de maîtrise, et le nombre de pierres à payer. Sur la carte, vous pouvez juste faire « Promouvoir 1× » ou cliquer directement sur « Jusqu'au rang N » : ça monte aussi loin que vos ressources le permettent, et les niveaux manquants en chemin sont complétés automatiquement avec de la Perspicacité.\nÀ partir du rang 10, chaque promotion remplit directement le niveau jusqu'au nouveau max, sans dépenser de Perspicacité.\n〔配图请见Steam原文及归档图片〕\n\nLes rangs 5, 10, 15 et 20 demandent des Pierres de percée\nPour atteindre ces rangs, il faut, en plus des Pierres de rang, des Pierres de percée : respectivement 4, 12, 24 et 40. Sans assez de pierres, le héros reste bloqué au palier. L'image ci-dessus montre justement le passage du rang 4 au rang 5 : des Pierres de rang, plus 4 Pierres de percée.\nDans la démo, les Pierres de percée viennent de la première victoire à l'étape 5 et contre les boss, du butin en auto et du recyclage de l'équipement obtenu. Aux paliers, donnez-les donc d'abord à vos héros principaux ; les remplaçants peuvent attendre.\n\nTout promouvoir d'un coup\nSur la page « Effectif », il y a un bouton « Promouvoir N », où N est le nombre de héros qui peuvent être promus maintenant. Il ouvre la liste « Tout promouvoir » : chaque ligne indique qui passe de quel rang à quel rang et le gain de force, et en bas s'affiche le total de Pierres de rang, de Pierres de percée et de Perspicacité à dépenser. Les héros engagés passent d'abord, puis par force décroissante, et ça s'arrête quand les ressources sont épuisées. Décochez ceux que vous ne voulez pas promouvoir, vérifiez bien, puis confirmez.\n〔配图请见Steam原文及归档图片〕\n\nMaîtrise de compétence : rien que pour la Spécialité\nElle se débloque une fois l'étape 20 passée. Dans l'onglet « Compét. » de la page du héros, la ligne de la Spécialité permet de monter sa maîtrise. La maîtrise n'amplifie que la Spécialité elle-même et n'augmente pas la force : si le chiffre ne bouge pas, ce n'est pas de l'entraînement perdu.\nLa maîtrise coûte des essences : les 3 premiers niveaux demandent de l'Essence bleue, les niveaux 4 à 7 de l'Essence violette, et à partir du niveau 8 de l'Essence dorée ; les héros cinq étoiles en consomment deux fois plus. La Perspicacité en trop peut aussi être raffinée en essence. Le plafond de maîtrise suit le rang : 1 niveau de plus que le rang actuel, jusqu'au niveau 20 au maximum.\nUn héros cinq étoiles (légendaire) s'éveille au rang 9 avec une maîtrise de niveau 4 : sa Spécialité passe en version éveillée, et la ligne « Débloqué à l'éveil » de l'onglet des compétences s'ouvre aussi.\n〔配图请见Steam原文及归档图片〕\n\nOù dépenser Perspicacité et pierres\n\n• La Perspicacité, d'abord pour monter au max le niveau des héros engagés : les promotions ne bloqueront pas.\n• Pour les Pierres de rang, suivez simplement « Tout promouvoir » : il promeut déjà les héros engagés en premier.\n• Gardez les Pierres de percée pour faire passer les paliers à vos héros principaux.\n• Les essences vont à la Spécialité du héros principal que vous utilisez le plus. La maîtrise n'ajoute pas de force, mais les dégâts, eux, sont bien réels.\n\n\nQu'aimeriez-vous que je vous présente d'autre, et qu'est-ce qui n'est pas clair ? Posez-moi vos questions en commentaire. Vous pouvez aussi nous rejoindre sur Discord（https://discord.gg/uEwdWz2h62）.\n\nSi le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.\n\nJouer à la démo gratuite（https://store.steampowered.com/app/5257220/） | Ajouter le jeu complet à votre liste de souhaits（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266799?l=french"
+        },
+        "spanish": {
+          "title": "Guía del accionista: cómo entrenar héroes y en qué gastar Perspicacia y piedras",
+          "summary": "¡El progreso de la demo no se conserva! El juego completo sale el 3 de diciembre (14 días) y abre el Mercado de la Comunidad de Steam. Cómo subir héroes: nivel, rango y maestría.",
+          "body": "Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo!\n\n¡Hola a todos! Soy Juanmao.\n\n¡El juego completo sale el 3 de diciembre! ¡Quedan 14 días! Con el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes alguna idea sobre el Mercado, déjala en los comentarios.\n\nEsto tampoco es una actualización: siguiendo con los héroes y las formaciones de la última vez, hoy toca hablar de cómo entrenar a los héroes una vez reclutados. Mucha gente me pregunta: tengo Perspicacia, Piedras de rango y esencias a montones… ¿en qué gasto primero? Vamos punto por punto.\n\nLo primero: aquí no se suben estrellas\nLas estrellas de un héroe son su rareza: sale con las que sale y no cambian. Además, cada héroe existe una sola vez y nunca te tocará repetido, así que no hace falta guardar copias para alimentarlo. Un héroe se hace más fuerte por tres vías: nivel, rango y maestría de habilidad.\n\nNivel: Perspicacia y al máximo de un toque\nSubir de nivel solo cuesta Perspicacia, nada de oro. La Perspicacia se consigue superando etapas y mientras el juego avanza solo, y el Campo de entrenamiento, que se desbloquea en la etapa 5, la produce sin parar.\nEn la página del héroe, pulsa «Subir Nv. ×N» y llegará de golpe al nivel máximo de su rango actual; si no te alcanza la Perspicacia, sube hasta que se acabe. El tope de nivel va ligado al rango: en el rango 0 es el nivel 10, y cada rango más suma 10 niveles. Cuando llegues al tope, el botón pasa a ser «Ascender» y la línea de aviso muestra «Nivel máx. · asciende para subir el tope».\n〔配图请见Steam原文及归档图片〕\n\nRango: primero el nivel al máximo, luego asciendes\nAscender cuesta Piedras de rango, y solo se puede con el nivel del rango actual al máximo. Al pulsar «Ascender» sale primero una tarjeta de vista previa: cuánta fuerza ganas, hasta dónde suben el tope de nivel y el tope de maestría, y cuántas piedras cuesta. En la tarjeta puedes «Ascender 1 vez» o ir directo a «Hasta rango N»: sube hasta donde den tus recursos, y los niveles que falten por el camino se rellenan antes con Perspicacia de forma automática.\nA partir del rango 10, cada ascenso llena el nivel directamente hasta el nuevo tope, sin gastar más Perspicacia.\n〔配图请见Steam原文及归档图片〕\n\nLos rangos 5, 10, 15 y 20 piden Piedras de avance\nPara llegar a estos rangos, además de Piedras de rango hay que entregar Piedras de avance: 4, 12, 24 y 40 respectivamente. Si no tienes suficientes, el héroe se queda parado en ese umbral. La imagen de arriba es justo el paso del rango 4 al 5: además de Piedras de rango, hacen falta 4 Piedras de avance.\nEn la demo, las Piedras de avance salen de: la primera vez que superas la etapa 5 y a los jefes, lo que cae mientras el juego avanza solo y reciclar el equipo que consigues. Así que, en los umbrales, primero tus titulares; los suplentes pueden pasarlos más tarde.\n\nAscender a todos de una vez\nEn la página «Plantel» hay un botón «Ascender N», donde N es cuántos héroes pueden ascender ahora mismo. Al abrirlo aparece la lista «Ascender todos»: cada fila dice quién pasa de qué rango a cuál y cuánta fuerza gana, y abajo está el total de Piedras de rango, Piedras de avance y Perspicacia que vas a gastar. El orden: primero los héroes en combate, luego por fuerza de mayor a menor, y se detiene al agotar los recursos. Si no quieres ascender a alguno, quítale la marca; revísalo bien y confirma.\n〔配图请见Steam原文及归档图片〕\n\nMaestría de habilidad: solo para la Habilidad distintiva\nSe abre al superar la etapa 20. En la pestaña «Habilidades» de la página del héroe, en la fila de la Habilidad distintiva puedes subir la maestría. La maestría solo potencia la propia Habilidad distintiva y no sube la fuerza, así que no pienses que has entrenado en balde porque el número de fuerza no se mueva.\nLa maestría se paga con esencias: los 3 primeros niveles con Esencia azul, del 4 al 7 con Esencia morada y del 8 en adelante con Esencia dorada; los héroes de cinco estrellas gastan el doble. Si te sobra Perspicacia, también puedes convertirla en esencia. El tope de maestría va ligado al rango: 1 nivel más que el rango actual, hasta un máximo de 20.\nCuando un héroe de cinco estrellas (legendario) llega al rango 9 con la maestría a nivel 4, despierta: su Habilidad distintiva pasa a la versión despertada, y en la pestaña de habilidades se abre también la línea marcada con «Se desbloquea al despertar».\n〔配图请见Steam原文及归档图片〕\n\nEn qué gastar la Perspicacia y las piedras\n\n• Perspicacia: primero para subir al máximo el nivel de los que están en combate; así el ascenso no se atasca.\n• Piedras de rango: deja que las reparta «Ascender todos», que ya asciende primero a los que están en combate.\n• Piedras de avance: guárdalas para que tus titulares pasen los umbrales.\n• Esencias: para la Habilidad distintiva del titular que más uses; la maestría no suma fuerza, pero el daño que aporta es muy real.\n\n\nSi hay algo más que quieras que te explique o algo que no se entienda, pregúntame en los comentarios. También puedes unirte a nuestro Discord（https://discord.gg/uEwdWz2h62）.\n\nSi te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.\n\nJuega la demo gratis（https://store.steampowered.com/app/5257220/） | Añade el juego completo a tu lista de deseados（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266799?l=spanish"
+        },
+        "brazilian": {
+          "title": "Guia do acionista: como treinar heróis e onde gastar Discernimento e pedras",
+          "summary": "O progresso da demo não é mantido! O jogo completo chega em 3 de dezembro, faltam 14 dias, e abre o Mercado da Comunidade Steam. Como evoluir heróis: nível, patente e maestria.",
+          "body": "É importante, então vou falar três vezes: o progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo!\n\nOlá, pessoal! Aqui é o Juanmao.\n\nO jogo completo chega em 3 de dezembro! Faltam 14 dias! Com o jogo completo, o Mercado da Comunidade Steam vai abrir~ Se tiver alguma ideia sobre o Mercado, deixa nos comentários.\n\nIsto também não é uma atualização: continuando dos heróis e formações da última vez, vamos falar de como treinar os heróis depois de recrutá-los. Muita gente pergunta: é Discernimento, Pedra de Patente, essência pra todo lado… no que gastar primeiro? Vamos por partes.\n\nAntes de tudo: não tem como subir estrelas\nAs estrelas de um herói são a raridade dele: veio com tantas estrelas, fica com tantas estrelas, não muda. E cada herói só existe uma vez, você nunca recruta repetido, então não precisa juntar cópias para alimentar ninguém. Um herói fica mais forte por três caminhos: nível, patente e maestria de habilidade.\n\nNível: Discernimento e sobe tudo de uma vez\nSubir de nível só custa Discernimento, nada de ouro. Você ganha Discernimento passando fases e com o jogo rodando sozinho, e o Campo de Treino, liberado na fase 5, produz sem parar.\nNa página do herói, toque em \"Subir nível ×N\" e ele vai direto ao nível máximo da patente atual; se o Discernimento não der, sobe até acabar. O teto de nível acompanha a patente: na patente 0 é o nível 10, e cada patente a mais soma 10 níveis. Quando chegar no teto, o botão vira \"Promover\" e a linha de aviso mostra \"Nível máximo · promova para elevar o teto\".\n〔配图请见Steam原文及归档图片〕\n\nPatente: primeiro enche o nível, depois promove\nPromover custa Pedras de Patente, e só dá com o nível da patente atual no máximo. Ao tocar em \"Promover\", aparece antes um card de prévia: quanto de Força você ganha, até onde vão o teto de nível e o teto de maestria, e quantas pedras custa. No card dá para \"Promover 1x\" ou ir direto em \"Até patente N\": sobe até onde os recursos aguentarem, e os níveis que faltarem no caminho são completados antes com Discernimento, automaticamente.\nDa patente 10 em diante, cada promoção já enche o nível até o novo teto, sem gastar mais Discernimento.\n〔配图请见Steam原文及归档图片〕\n\nPatentes 5, 10, 15 e 20 pedem Pedras de Avanço\nPara chegar nessas patentes, além das Pedras de Patente é preciso entregar Pedras de Avanço: 4, 12, 24 e 40, respectivamente. Sem Pedras de Avanço suficientes, o herói fica parado nesse marco. A imagem acima é justamente a patente 4 indo para a 5: além das Pedras de Patente, precisa de 4 Pedras de Avanço.\nNa demo, as Pedras de Avanço vêm de: primeira vitória na fase 5 e nos chefes, drops com o jogo rodando sozinho e desmonte dos equipamentos que caem. Por isso, nos marcos, priorize os titulares; os reservas podem passar depois.\n\nPromover todos de uma vez\nNa página \"Elenco\" tem um botão \"Promover N\", em que N é quantos heróis podem ser promovidos agora. Ele abre a lista \"Promover todos\": cada linha mostra quem vai de qual patente para qual e quanto de Força ganha, e embaixo vem o total de Pedras de Patente, Pedras de Avanço e Discernimento que vai ser gasto. A ordem: heróis em campo primeiro, depois por Força decrescente, e para quando os recursos acabam. Se não quiser promover alguém, é só desmarcar; confira tudo e confirme.\n〔配图请见Steam原文及归档图片〕\n\nMaestria de habilidade: só treina a Habilidade exclusiva\nLibera ao passar da fase 20. Na aba \"Habilidades\" da página do herói, na linha da Habilidade exclusiva dá para subir a maestria. A maestria só amplia a própria Habilidade exclusiva e não aumenta a Força, então não ache que treinou à toa só porque o número de Força não mexeu.\nA maestria custa essência: os 3 primeiros níveis usam Essência Azul, do 4 ao 7 Essência Roxa e do 8 em diante Essência Dourada; heróis de cinco estrelas gastam o dobro. Sobrou Discernimento? Dá para refinar em essência também. O teto de maestria acompanha a patente: 1 nível acima da patente atual, no máximo 20.\nQuando um herói de cinco estrelas (lendário) chega à patente 9 com maestria 4, ele desperta: a Habilidade exclusiva vira a versão despertada, e a linha marcada com \"Libera ao despertar\" na aba de habilidades também abre.\n〔配图请见Steam原文及归档图片〕\n\nOnde gastar Discernimento e pedras\n\n• Discernimento: primeiro para levar ao máximo o nível de quem está em campo, assim a promoção não trava.\n• Pedras de Patente: é só seguir o \"Promover todos\", que já promove primeiro quem está em campo.\n• Pedras de Avanço: guarde para os titulares passarem os marcos.\n• Essência: vai para a Habilidade exclusiva do titular que você mais usa; a maestria não soma Força, mas o dano é de verdade.\n\n\nSe tem mais alguma coisa que você quer que eu explique ou algo que não ficou claro, pode perguntar nos comentários. Também dá para entrar no nosso Discord（https://discord.gg/uEwdWz2h62）.\n\nSe você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.\n\nJogue a demo gratuita（https://store.steampowered.com/app/5257220/） | Adicione o jogo completo à sua lista de desejos（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266799?l=brazilian"
+        },
+        "russian": {
+          "title": "Памятка новому акционеру: как качать героев и куда тратить Озарение и камни",
+          "summary": "Прогресс из демо не перенесётся! Полная версия 3 декабря, осталось 14 дней, откроется Торговая площадка Steam. Как качать героев: уровни, ранги, камни прорыва и мастерство.",
+          "body": "Это важно, поэтому повторю трижды: прогресс из демо не перенесётся в полную версию! Прогресс из демо не перенесётся в полную версию! Прогресс из демо не перенесётся в полную версию!\n\nВсем привет, это Juanmao.\n\nПолная версия выходит 3 декабря! Осталось 14 дней! В полной версии откроется Торговая площадка Steam~ Если есть мысли насчёт рынка — пишите в комментариях.\n\nЭто снова не обновление — продолжая тему героев и составов из прошлого раза, расскажу, как прокачивать героев, когда они уже наняты. Меня часто спрашивают: Озарения, камней ранга, эссенций — целая куча, на что тратить в первую очередь? Разберём по порядку.\n\nСразу скажу: звёзды не повышаются\nЗвёзды героя — это его редкость: сколько звёзд было при найме, столько и останется. И каждый герой существует в единственном экземпляре, повторов при найме не бывает, так что копить дубликаты на прокачку не нужно. Герой становится сильнее по трём направлениям: уровень, ранг и мастерство навыка.\n\nУровень: Озарение — и сразу до предела\nУровень повышается только за Озарение, золото не нужно. Озарение дают за прохождение этапов и пока игра идёт сама, а Тренировочный плац, который открывается на 5-м этапе, производит его постоянно.\nНа странице героя нажмите «Ур. +N» — герой сразу поднимется до предела уровня для текущего ранга; если Озарения не хватит, поднимется, пока оно не кончится. Предел уровня зависит от ранга: на ранге 0 это 10-й уровень, и каждый следующий ранг добавляет ещё 10. Когда упрётесь в предел, кнопка сменится на «Ранг +1», а в строке подсказки появится «Уровень максимальный · ранг поднимет предел».\n〔配图请见Steam原文及归档图片〕\n\nРанг: сначала уровень до предела, потом повышение\nПовышение ранга стоит камни ранга, и оно доступно, только когда уровень на текущем ранге уже на пределе. Нажмите «Ранг +1» — сначала появится карточка предпросмотра: сколько прибавится силы, до скольки вырастут предел уровня и предел мастерства и сколько камней нужно. На карточке можно поднять всего один ранг («Ранг +1»), а можно сразу нажать «До ранга N»: герой поднимется настолько, насколько хватит ресурсов, а недостающие по пути уровни сначала автоматически доберутся за Озарение.\nНачиная с 10-го ранга, каждое повышение сразу поднимает уровень до нового предела, Озарение больше тратить не нужно.\n〔配图请见Steam原文及归档图片〕\n\nРанги 5, 10, 15 и 20 требуют камни прорыва\nЧтобы получить эти ранги, кроме камней ранга нужно отдать ещё и камни прорыва: 4, 12, 24 и 40 соответственно. Не хватает камней прорыва — герой застрянет перед этим рубежом. На картинке выше как раз переход с 4-го ранга на 5-й: кроме камней ранга нужно 4 камня прорыва.\nВ демо камни прорыва можно получить так: за первое прохождение 5-го этапа и боссов, в добыче, пока игра идёт сама, и при разборе выпавшего снаряжения. Так что на рубежах сначала проводите основных героев, запасные подождут.\n\nПовысить всех разом\nНа странице «Состав» есть кнопка «Ранг↑ N», где N — сколько героев можно повысить прямо сейчас. Она открывает список «Повысить всех»: в каждой строке — кто с какого ранга на какой поднимается и сколько силы прибавит, а внизу — сколько всего уйдёт камней ранга, камней прорыва и Озарения. Порядок такой: сначала герои в отряде, затем по убыванию силы; когда ресурсы кончаются, повышение останавливается. Кого не хотите повышать — снимите галочку, всё проверьте и подтвердите.\n〔配图请见Steam原文及归档图片〕\n\nМастерство навыка: качается только фирменный навык\nОткрывается после прохождения 20-го этапа. На странице героя во вкладке «Навыки» в строке фирменного навыка можно повышать мастерство. Мастерство усиливает только сам фирменный навык и не влияет на силу, так что не думайте, что качали зря, если цифра силы не сдвинулась.\nМастерство оплачивается эссенцией: первые 3 уровня — Синяя эссенция, с 4-го по 7-й — Фиолетовая эссенция, с 8-го — Золотая эссенция; пятизвёздочным героям нужно вдвое больше. Лишнее Озарение тоже можно переплавить в эссенцию. Предел мастерства привязан к рангу: на 1 больше текущего ранга, максимум 20.\nКогда пятизвёздочный (легендарный) герой достигает 9-го ранга и 4-го уровня мастерства, он пробуждается: фирменный навык меняется на пробуждённую версию, а во вкладке навыков открывается и строка с пометкой «Откроется при пробуждении».\n〔配图请见Steam原文及归档图片〕\n\nКуда тратить Озарение и камни\n\n• Озарение — сначала на то, чтобы поднять до предела уровень героев в отряде, тогда повышение ранга не застрянет.\n• Камни ранга — просто доверьте их кнопке «Повысить всех», она и так первыми повышает героев из отряда.\n• Камни прорыва берегите, чтобы основные герои проходили рубежи.\n• Эссенцию — на фирменный навык основного героя, которым вы пользуетесь чаще всего: мастерство не прибавляет силы, но урон даёт самый настоящий.\n\n\nЕсли хотите, чтобы я рассказал о чём-то ещё, или что-то непонятно — спрашивайте в комментариях. Заходите и в наш Discord（https://discord.gg/uEwdWz2h62）.\n\nЕсли игра вам понравилась, пожалуйста, добавьте её в список желаемого. Спасибо всем — для игры это правда очень важно.\n\nИграть в бесплатную демоверсию（https://store.steampowered.com/app/5257220/） | Добавить полную версию в список желаемого（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266799?l=russian"
+        }
+      },
+      "files": [
+        {
+          "name": "简体中文 · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266799-schinese-image_1-701e4d60da.jpg",
+          "type": "image",
+          "language": "schinese",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-news-20261120/配图/成品/schinese/IMAGE_1_01_成员页_升N级.png",
+          "source_sha256": "701e4d60da80ec9e2df73b495797ffec48e33f4f585e7e34e4e9f1f9e55452ad",
+          "sha256": "9773b32a0de14a28f9a1b554aa26952882dc7dd13762b2ccdce5ad5e7e699565",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/8efeb8d3aeae26b1dccbfb8a733c985bbf1805e0.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "简体中文 · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266799-schinese-image_2-cbe92b0c34.jpg",
+          "type": "image",
+          "language": "schinese",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-news-20261120/配图/成品/schinese/IMAGE_2_02_升阶卡_突破关口.png",
+          "source_sha256": "cbe92b0c3473e96e9cfd053e2a3b29fec3e71e9295e680aa2ce3281d6e46faf1",
+          "sha256": "0b563558621fc8360f685dc8576201f072ba430faf2e41f2b8ce18789d6a2dc6",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/9b995e9c73bc5c415d0c9ceb8e42b8f80f927206.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "简体中文 · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266799-schinese-image_3-14fbebc207.jpg",
+          "type": "image",
+          "language": "schinese",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-news-20261120/配图/成品/schinese/IMAGE_3_03_全部升阶清单.png",
+          "source_sha256": "14fbebc2075751cbecaa99be2d77fa469f7a6e02800a970770f3c6bce06d2fc8",
+          "sha256": "783dc01ee296abb80a88254dac863428b477fb92c8a0c261b6c233bc7c7664e5",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/4242c3a895797feb3231db855d902c5b870d4bd3.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "简体中文 · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266799-schinese-image_4-5a1ec8cff7.jpg",
+          "type": "image",
+          "language": "schinese",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-news-20261120/配图/成品/schinese/IMAGE_4_04_技能页_招牌技精通.png",
+          "source_sha256": "5a1ec8cff73c509de7423b263b09f9424fda46a10a0041f8f1b1760229f9fe57",
+          "sha256": "66f884c9b1281135866d8cf9ec25228d57a8aca1896c5419f1f024b2378da209",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/cf114a8b2b7c8e4f6723aff13b323aea895830c4.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "繁體中文 · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266799-tchinese-image_1-d3a4239553.jpg",
+          "type": "image",
+          "language": "tchinese",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-news-20261120/配图/成品/tchinese/IMAGE_1_01_成员页_升N级.png",
+          "source_sha256": "d3a423955348043905ed99fa14f07157cfcc54ddc53057e2dba3d74ac78222f6",
+          "sha256": "ac908042824b6e0b4173afdc9a2ba04158d019239d98c1da265ba878dfa2d1a9",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/88b436e6523b2d09f92aaed7b11d4cc1cfa6a32c.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "繁體中文 · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266799-tchinese-image_2-d887988374.jpg",
+          "type": "image",
+          "language": "tchinese",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-news-20261120/配图/成品/tchinese/IMAGE_2_02_升阶卡_突破关口.png",
+          "source_sha256": "d8879883742416aa9b1f7048fb71a8ba77c35a164660585588ab68cca56ab670",
+          "sha256": "ab7a1e2aa492a42d5fbdbc5e5ce1b164fc67ff59b7fe5ac280bbbde38a9ea876",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/036fcf9f8ce09e4751c63905371fabe72e69ef36.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "繁體中文 · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266799-tchinese-image_3-1d4af0fb2e.jpg",
+          "type": "image",
+          "language": "tchinese",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-news-20261120/配图/成品/tchinese/IMAGE_3_03_全部升阶清单.png",
+          "source_sha256": "1d4af0fb2e42482c2891aeee078b6f5bcedcf61f6281db373803ec1fe2cf9e3e",
+          "sha256": "1871a95f4bae45b3369183ebc6969483d09c1ea8f9f6179df97ca1105f46a204",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/167dda2fed8d6e1db89953b75b234e32c4775113.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "繁體中文 · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266799-tchinese-image_4-785f9c7914.jpg",
+          "type": "image",
+          "language": "tchinese",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-news-20261120/配图/成品/tchinese/IMAGE_4_04d_技能页_招牌技精通_踏云神僧.png",
+          "source_sha256": "785f9c79141756f12014ec195d9e6a9f51db1697f6629d1d95406c30a0a3d061",
+          "sha256": "ba02ba07c4b263ba563a4aae3988106f74ae80b0b3d478d7e9fe343ec24a7bec",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/85474caf2eb29df29f8ea61d752a3455199d8ec7.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "English · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266799-english-image_1-6b043f8332.jpg",
+          "type": "image",
+          "language": "english",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-news-20261120/配图/成品/english/IMAGE_1_01_成员页_升N级.png",
+          "source_sha256": "6b043f8332fe6dc6328980ab5915399f038f29e1aa95ac37864aca1e3db1ea39",
+          "sha256": "f380a04b731eca7974a8eca8187b1be89bf796992ff46d60f0ef2e0036096c98",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/d1da05696105d19fce5cb56c69a228cd18df9208.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "English · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266799-english-image_2-d096477eaf.jpg",
+          "type": "image",
+          "language": "english",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-news-20261120/配图/成品/english/IMAGE_2_02_升阶卡_突破关口.png",
+          "source_sha256": "d096477eaf040f84259b8138f36a1af2b92b5a34c73b14833a8aa577eabeed9b",
+          "sha256": "30d5c7d98884361cf1fa0b7905d6ca76b10d5956bdfddcf7c54bdae0711fae59",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/274c91da919a95d767e3324ffa2fe620dcb5a38a.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "English · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266799-english-image_3-b42599532a.jpg",
+          "type": "image",
+          "language": "english",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-news-20261120/配图/成品/english/IMAGE_3_03_全部升阶清单_v2.png",
+          "source_sha256": "b42599532ab02c3538c97d9af43cfdeec4f46f44380a061786d735bf9f754fe5",
+          "sha256": "25c03ac00ec01cc41819ad9f37d6292ad0c3f34dac826a9d014e3b43ec49b1e6",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/ae21f930842a0c06633c0906116e6acc64851af9.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "English · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266799-english-image_4-307c1fdc41.jpg",
+          "type": "image",
+          "language": "english",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-news-20261120/配图/成品/english/IMAGE_4_04b_技能页_招牌技精通_觉醒行.png",
+          "source_sha256": "307c1fdc4174d3cda9bd5037a7033d6d251f950add5fa027a9221210859019ab",
+          "sha256": "f662eec110b7b2b5969d9512c098f3b9cdedccd96f1fd1d51adefddc533c3e41",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/aff48f0550bbb6dbc67b8ef5ad88b4ac3cb703c4.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "日本語 · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266799-japanese-image_1-c324729bf8.jpg",
+          "type": "image",
+          "language": "japanese",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-news-20261120/配图/成品/japanese/IMAGE_1_01_成员页_升N级.png",
+          "source_sha256": "c324729bf8e3c963e979e5472ee8ff42f406ec1b73b79380990386586682a3be",
+          "sha256": "1edd495156612f303a4c6244fc1f62dbac8932b82dfb7ad0618860f146546189",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/f311b9b295260f15f740d0e2ec46a156d5aec0e9.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "日本語 · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266799-japanese-image_2-b58b927cd5.jpg",
+          "type": "image",
+          "language": "japanese",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-news-20261120/配图/成品/japanese/IMAGE_2_02_升阶卡_突破关口.png",
+          "source_sha256": "b58b927cd5f6e0d1a19a52e5fa9e89ed73baa91ce54d96fcea89185f0be3c005",
+          "sha256": "9e28f220d869fb4fb6ba9fc25c8846d375f86ec7e33ecd25f82230bcd9509327",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/630b02fe75fd981e935be20e73a6de6386ad9653.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "日本語 · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266799-japanese-image_3-7bcf5b47d4.jpg",
+          "type": "image",
+          "language": "japanese",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-news-20261120/配图/成品/japanese/IMAGE_3_03_全部升阶清单.png",
+          "source_sha256": "7bcf5b47d475444fddd33783f5b2abac8852c237aee99d8775c5494596052f93",
+          "sha256": "6e026f0a3d64411e2852436fb14574ba46feaa8d76fed7760ea00f27e8f44d6f",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/b318f1557f22581c10261d7e3a438332b4b0ef27.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "日本語 · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266799-japanese-image_4-2611578ad1.jpg",
+          "type": "image",
+          "language": "japanese",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-news-20261120/配图/成品/japanese/IMAGE_4_04d_技能页_招牌技精通_踏云神僧.png",
+          "source_sha256": "2611578ad13b356a39c2386c256851a006dae3e116843fcf5b75e590f17ef50c",
+          "sha256": "ff90d55375d6c8c7b33c0a6ede5429d5a3a7b7f7ee4081b94f0d8da8e624580f",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/e9c165c74d055298eefd3ace8672a9506944fdf4.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "한국어 · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266799-korean-image_1-a1c0e626c6.jpg",
+          "type": "image",
+          "language": "korean",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-news-20261120/配图/成品/koreana/IMAGE_1_01_成员页_升N级.png",
+          "source_sha256": "a1c0e626c6f60d707bb4a2cb89dff8882620b65795aed229b347c2fac3e972d2",
+          "sha256": "246ef21fd3b7ac7fa4f3d03a37b981ef4dda8f0e26b62886ffcd06d1aea67bd5",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/7821967c76a75196d4c6a287e34c23752f84cb8c.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "한국어 · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266799-korean-image_2-61247edddb.jpg",
+          "type": "image",
+          "language": "korean",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-news-20261120/配图/成品/koreana/IMAGE_2_02_升阶卡_突破关口.png",
+          "source_sha256": "61247edddb5d21ea41ccc4153b1884deeb2b347d2e70ab17fed69067ecf9953d",
+          "sha256": "823df652eecd64c100a495795e6a08b47d505f8f3a1867f50c491ab17ab97ae6",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/3ab7ac714b519b201f4f5d054539a38e6111f3a5.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "한국어 · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266799-korean-image_3-e7dfc1ebf8.jpg",
+          "type": "image",
+          "language": "korean",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-news-20261120/配图/成品/koreana/IMAGE_3_03_全部升阶清单.png",
+          "source_sha256": "e7dfc1ebf8cf5c30751420288628af6648ea21d03185e001c952dbf30df33ea7",
+          "sha256": "92b9080cb4c17520615eb0c32aae3f958263c21c3255e611b8bfc61dc350d62c",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/1c092a1418d87a51e33602f26214e909c53b7085.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "한국어 · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266799-korean-image_4-302dee01c4.jpg",
+          "type": "image",
+          "language": "korean",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-news-20261120/配图/成品/koreana/IMAGE_4_04d_技能页_招牌技精通_踏云神僧.png",
+          "source_sha256": "302dee01c4a843a387c1b8c1ed923b76c10ed5a16da34304ee14d14c740fce34",
+          "sha256": "d93b4ca4b476cff9f51d2bc64ef4ddcdc2f68b86683ba575f4fe5c7b2f6c399c",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/243e8242361b06a440c2cef4cb106aebdabc4b4d.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Deutsch · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266799-german-image_1-b8015b4d0b.jpg",
+          "type": "image",
+          "language": "german",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-news-20261120/配图/成品/german/IMAGE_1_01_成员页_升N级.png",
+          "source_sha256": "b8015b4d0bd3c42f1ff1fed2a274e0e23e3edca622d34b204c07bc560c502978",
+          "sha256": "214a1a5493b84f8a1daa3343e2f74fbb2106c1b21b4d4dda972c2cc4a648df1d",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/cfe4a79b1e84c3d6119035dfb9e619258f87d79e.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Deutsch · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266799-german-image_2-ff6670a959.jpg",
+          "type": "image",
+          "language": "german",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-news-20261120/配图/成品/german/IMAGE_2_02_升阶卡_突破关口.png",
+          "source_sha256": "ff6670a959657ae7fa902341d91e305d191b1b18fbfded41fc789a3100834634",
+          "sha256": "a738940e805b8dc906b91a6115f59677d46169258aa30b8c5f1e9d950643f4bd",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/1678ab0a43a6f6b5601b1071d20714945ddaca5f.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Deutsch · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266799-german-image_3-c0889994d0.jpg",
+          "type": "image",
+          "language": "german",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-news-20261120/配图/成品/german/IMAGE_3_03_全部升阶清单_v2.png",
+          "source_sha256": "c0889994d0aa11253cee65c20323793410c73bf7f9763b7b9b2d08d12394f887",
+          "sha256": "a6b5ad64b6d8edf6ef75c2c6abd817b41688d7d9729f9a63649f380abed04036",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/6a526ff937a5362dfcea594ae15742399b740ce4.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Deutsch · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266799-german-image_4-e4c5c8eb79.jpg",
+          "type": "image",
+          "language": "german",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-news-20261120/配图/成品/german/IMAGE_4_04b_技能页_招牌技精通_觉醒行.png",
+          "source_sha256": "e4c5c8eb793777b425a0df422779fff34b02e78a82eb5a0b16c3aa8d1c9410f1",
+          "sha256": "3e066c4446346798cc0fb02cbe6aaf8772df2f99183bd704ff6de96c6cad8e68",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/4bf866e4f60534ef41dc4d33728735731d3907a2.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Français · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266799-french-image_1-26e090773a.jpg",
+          "type": "image",
+          "language": "french",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-news-20261120/配图/成品/french/IMAGE_1_01_成员页_升N级.png",
+          "source_sha256": "26e090773abf9e299a31801bb2f33b2c07f8d217e901b73adfe73e4eac8bd6ad",
+          "sha256": "b7f37ac337dcccefe0ca451bace602a664609be33a85065a9e9f42491904115d",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/37ce68535ddbc8518cb32efd5a86572005f6b7a4.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Français · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266799-french-image_2-4d58ee0a34.jpg",
+          "type": "image",
+          "language": "french",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-news-20261120/配图/成品/french/IMAGE_2_02_升阶卡_突破关口.png",
+          "source_sha256": "4d58ee0a34d46a2606ee440b0ea2313b7a3d01cdd8b090bee05d61942ca1b87a",
+          "sha256": "87c140d697d4847d4c0f67e77e08874e262cf897ec9a493a92454f50022af667",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/da17c74e78815f5a051be492b14281026a7ad488.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Français · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266799-french-image_3-a4b9fd6b38.jpg",
+          "type": "image",
+          "language": "french",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-news-20261120/配图/成品/french/IMAGE_3_03_全部升阶清单_v2.png",
+          "source_sha256": "a4b9fd6b38465f04e81ca50a176ceed359b7bf8ca7fa737dab904fee33a004f7",
+          "sha256": "4f11215aa4c76291a065be6e63ea2757feb1820a2e816ce902dfe83c9c0eb79b",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/19bda1f6b8a8dcfb9878e6251775de56d7ba938b.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Français · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266799-french-image_4-e313624081.jpg",
+          "type": "image",
+          "language": "french",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-news-20261120/配图/成品/french/IMAGE_4_04d_技能页_招牌技精通_踏云神僧.png",
+          "source_sha256": "e313624081afa3bec49715c9825fc06f43a8c519bd1bbeea603bcc8f99ea9ef1",
+          "sha256": "94e0d400308f8c91c861cb24969a88008875b30f1cefd12254b47c1e2f7bf610",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/5326ef3b3ac4e1087ce61ac3a32972bed333ccb7.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Español · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266799-spanish-image_1-11c740ec82.jpg",
+          "type": "image",
+          "language": "spanish",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-news-20261120/配图/成品/spanish/IMAGE_1_01_成员页_升N级.png",
+          "source_sha256": "11c740ec82a5df329f50a540010bfc0c8598829fe6a9e5b25c3587b05878d73c",
+          "sha256": "3131fed351c30dce441569680e4640240b9fa7c6709e3a7dcc14f5fcef28e3ae",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/4cc83123ac5d756226c042f5965eac0d39f6df35.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Español · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266799-spanish-image_2-0fb842bae4.jpg",
+          "type": "image",
+          "language": "spanish",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-news-20261120/配图/成品/spanish/IMAGE_2_02_升阶卡_突破关口.png",
+          "source_sha256": "0fb842bae404007a4dd49dcaa9596a87ffb88e8537255d85653dbc26a96230eb",
+          "sha256": "8d7c66eef2ddd12e3500095ff431d24dbd824f2916441219162d9f6f0bbd3231",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/5ba49fc8ba6d392e38550d54b5002b3cab08e42a.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Español · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266799-spanish-image_3-5e2a619c3c.jpg",
+          "type": "image",
+          "language": "spanish",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-news-20261120/配图/成品/spanish/IMAGE_3_03_全部升阶清单_v2.png",
+          "source_sha256": "5e2a619c3c8a91031a0332650fc44f2e473436609dbaef744543e6f347b4ff6d",
+          "sha256": "c93983c21bf27dc2e188a54f635105ab0074dd36b42b6adebf72faaa986b37ca",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/abcd2655332b46badb19073e6b787f9c7e1d53d2.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Español · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266799-spanish-image_4-cf6dbbab3a.jpg",
+          "type": "image",
+          "language": "spanish",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-news-20261120/配图/成品/spanish/IMAGE_4_04d_技能页_招牌技精通_踏云神僧.png",
+          "source_sha256": "cf6dbbab3aee2e86df879c997c2896b9e90fc176fd07b06f00e54e5d1c2d0ba7",
+          "sha256": "a97d1e901b9d0392d845a1979004f6dab3edc1231098fddded85c45672c7bf0c",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/5f9511029560e0fe74e301fe16ea0c6171c7db83.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Português (Brasil) · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266799-brazilian-image_1-0a5aacf1a8.jpg",
+          "type": "image",
+          "language": "brazilian",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-news-20261120/配图/成品/brazilian/IMAGE_1_01_成员页_升N级.png",
+          "source_sha256": "0a5aacf1a8cbbc94114a52f1b38104eb738afac69dfc3c806cb12dabcbaa2715",
+          "sha256": "9c5a4d8ac441a57e9b72911260852f99d37b502f0e0bc138900b310e13264013",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/30f5dee8dfa96a15897fc813a30412c99fac96e8.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Português (Brasil) · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266799-brazilian-image_2-8962207153.jpg",
+          "type": "image",
+          "language": "brazilian",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-news-20261120/配图/成品/brazilian/IMAGE_2_02_升阶卡_突破关口.png",
+          "source_sha256": "896220715370ae00b2e3367e2fda5ad638aea1c686856184216bba65c6f024f7",
+          "sha256": "da80c727e2570ae7c385d319e29af648a28e39818d07ae86fbb5cbad0013922e",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/bb1fe79ae0cba49a7dbab81485b4a46d10c90b7a.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Português (Brasil) · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266799-brazilian-image_3-fb25c7bc84.jpg",
+          "type": "image",
+          "language": "brazilian",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-news-20261120/配图/成品/brazilian/IMAGE_3_03_全部升阶清单_v2.png",
+          "source_sha256": "fb25c7bc842c52d28c023b3825634e527b5d58c3f7c2f15e07036a263859e973",
+          "sha256": "36a9973f80d31164720f9453b552dd7ecc9cf46594a03da77c4020a4e8f3d3e9",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/7e67555463d0421d99e1ca2c9444ec83dbba4823.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Português (Brasil) · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266799-brazilian-image_4-3b191af09e.jpg",
+          "type": "image",
+          "language": "brazilian",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-news-20261120/配图/成品/brazilian/IMAGE_4_04d_技能页_招牌技精通_踏云神僧.png",
+          "source_sha256": "3b191af09e7f75c51b92c459659a1ee2ba0925a70b7ecc6c634183d3fadaa5bc",
+          "sha256": "53d8ce3b018ba386c8becd5041ef28ef34ff92f3452952b52c5ef75098ca5ca5",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/8c45e9cc2368dcc98f202f036ae728eb0b732109.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Русский · 段落1 · 实机配图",
+          "url": "assets/steam-704411368981266799-russian-image_1-4f38fed418.jpg",
+          "type": "image",
+          "language": "russian",
+          "paragraph": "IMAGE_1",
+          "source": "output/steam-news-20261120/配图/成品/russian/IMAGE_1_01_成员页_升N级.png",
+          "source_sha256": "4f38fed418098eeaa25609a832ad09be411ce6d04eef5b7e8dd2ded808d9dce0",
+          "sha256": "a031908abae1f32cbcec2c7893f5d75621552d5f6ae405f7c354bbd6fc8509c8",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/1165b9477a4e010bc4ef6dadc0f05984619a80e7.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Русский · 段落2 · 实机配图",
+          "url": "assets/steam-704411368981266799-russian-image_2-1fe7d5b1b4.jpg",
+          "type": "image",
+          "language": "russian",
+          "paragraph": "IMAGE_2",
+          "source": "output/steam-news-20261120/配图/成品/russian/IMAGE_2_02_升阶卡_突破关口.png",
+          "source_sha256": "1fe7d5b1b463213d1755a8826a91011490e3330ccc10cf4d8fbf010de87b78f8",
+          "sha256": "93759e990f2018d4a53dab976ddff1476ccf874a399bfe15c7c08a1dd776143f",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/047698f206c955104c74a8fd848d68fb8e40414c.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Русский · 段落3 · 实机配图",
+          "url": "assets/steam-704411368981266799-russian-image_3-36d7f14c09.jpg",
+          "type": "image",
+          "language": "russian",
+          "paragraph": "IMAGE_3",
+          "source": "output/steam-news-20261120/配图/成品/russian/IMAGE_3_03_全部升阶清单_v2.png",
+          "source_sha256": "36d7f14c09dfb5cf5491c3c306eaf830ab7e731e3291a95dc363aaff9d705682",
+          "sha256": "df744dab283cf364c475a0ea69e89d8a8ec677c752271f442eb6ad90cd94e7cb",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/ea08a21f31fe4e8c41ff23899815ec12b934aa22.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "Русский · 段落4 · 实机配图",
+          "url": "assets/steam-704411368981266799-russian-image_4-c60b4d37e3.jpg",
+          "type": "image",
+          "language": "russian",
+          "paragraph": "IMAGE_4",
+          "source": "output/steam-news-20261120/配图/成品/russian/IMAGE_4_04d_技能页_招牌技精通_踏云神僧.png",
+          "source_sha256": "c60b4d37e3f160823b17e46cb4cfe88a6f0f2e069c0e8824e02d36ff4579fa69",
+          "sha256": "c5b5a46e57256f8a5fa6861aced3f97cbaae2cb032830d6dd56f9d63584883b5",
+          "public_original_url": "https://clan.akamai.steamstatic.com/images/46216320/1c62f937e79a07d97ab6097ac9117ef0489585f5.png",
+          "public_pixel_equality_evidence": "output/steam-news-20261120/publication/cdn-fullsize-refs.json"
+        },
+        {
+          "name": "简体中文公告原文.txt",
+          "url": "assets/steam-704411368981266799-schinese.txt",
+          "type": "text"
+        },
+        {
+          "name": "繁體中文公告原文.txt",
+          "url": "assets/steam-704411368981266799-tchinese.txt",
+          "type": "text"
+        },
+        {
+          "name": "English公告原文.txt",
+          "url": "assets/steam-704411368981266799-english.txt",
+          "type": "text"
+        },
+        {
+          "name": "日本語公告原文.txt",
+          "url": "assets/steam-704411368981266799-japanese.txt",
+          "type": "text"
+        },
+        {
+          "name": "한국어公告原文.txt",
+          "url": "assets/steam-704411368981266799-korean.txt",
+          "type": "text"
+        },
+        {
+          "name": "Deutsch公告原文.txt",
+          "url": "assets/steam-704411368981266799-german.txt",
+          "type": "text"
+        },
+        {
+          "name": "Français公告原文.txt",
+          "url": "assets/steam-704411368981266799-french.txt",
+          "type": "text"
+        },
+        {
+          "name": "Español公告原文.txt",
+          "url": "assets/steam-704411368981266799-spanish.txt",
+          "type": "text"
+        },
+        {
+          "name": "Português (Brasil)公告原文.txt",
+          "url": "assets/steam-704411368981266799-brazilian.txt",
+          "type": "text"
+        },
+        {
+          "name": "Русский公告原文.txt",
+          "url": "assets/steam-704411368981266799-russian.txt",
+          "type": "text"
+        }
+      ],
+      "source": "https://store.steampowered.com/news/app/4855890/view/704411368981266799?l=schinese",
+      "links": [
+        {
+          "platform": "Steam公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266799?l=schinese",
+          "date": "2026-11-19",
+          "status": "已发布"
+        }
+      ],
+      "detailNote": "按Steam已公开原文归档。十语各4张本语Demo实机图，按语言和段落标记；正文图为静态图。"
+    },
+    {
+      "id": "steam-704411368981266799-covers",
+      "title": "英雄成长新闻 · 两版公告封面",
+      "category": "封面与视觉",
+      "group": "公告封面",
+      "date": "2026-11-19",
+      "dateBasis": "发布日期",
+      "summary": "Q版英雄摆摊叫卖；简中、繁中用中文封面，其他八语用英文封面。",
+      "status": "已发布 · 十语",
+      "files": [
+        {
+          "name": "简中／繁中 · 公告封面",
+          "url": "assets/steam-704411368981266799-cover-schinese.png",
+          "type": "image",
+          "source": "output/steam-news-20261120/publication/artwork-upload/header_schinese.png",
+          "sha256": "ac0804e61a2deb47bb79b9658d40eeaea796232cba2b45c811a11d6886bec0c6"
+        },
+        {
+          "name": "其他八语 · 公告封面",
+          "url": "assets/steam-704411368981266799-cover-english.png",
+          "type": "image",
+          "source": "output/steam-news-20261120/publication/artwork-upload/header_english.png",
+          "sha256": "d729fd4d49756a0a8873de08a8924470d898a0decd18f34cabe32735603e63d7"
+        }
+      ],
+      "cover": "assets/steam-704411368981266799-cover-schinese.png",
+      "source": "output/steam-news-20261120/封面",
+      "links": [
+        {
+          "platform": "Steam公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981266799?l=schinese",
+          "date": "2026-11-19",
           "status": "已发布"
         }
       ]

@@ -1,0 +1,50 @@
+Guide de l'actionnaire : former vos héros, où dépenser Perspicacité et pierres
+
+C'est important, alors je le dis trois fois : la progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet !
+
+Bonjour à tous, ici Juanmao.
+
+Le jeu complet sort le 3 décembre ! Plus que 14 jours ! Le Marché de la communauté Steam ouvrira avec le jeu complet~ Si vous avez des idées sur le Marché, laissez-les en commentaire.
+
+Toujours pas de mise à jour cette fois : après les héros et les compositions de la dernière fois, parlons de comment entraîner vos héros une fois recrutés. On me demande souvent : Perspicacité, Pierres de rang, essences, tout s'accumule… on dépense quoi en premier ? Voyons ça point par point.
+
+D'abord : pas de montée en étoiles
+Les étoiles d'un héros, c'est sa rareté : il garde le nombre d'étoiles avec lequel il arrive. Chaque héros n'existe aussi qu'en un seul exemplaire, pas de doublons, donc inutile de garder des doubles pour les sacrifier. Un héros devient plus fort sur trois axes : niveau, rang et maîtrise de compétence.
+
+Niveau : au max en un clic
+Monter de niveau ne coûte que de la Perspicacité, pas d'or. Vous en gagnez en passant des étapes et en mode auto, et le Terrain d'entraînement, débloqué à l'étape 5, en produit en continu.
+Sur la page du héros, cliquez sur « Monter niv. ×N » : il monte d'un coup jusqu'au niveau max de son rang actuel ; s'il manque de Perspicacité, il monte aussi loin qu'elle le permet. Le niveau max suit le rang : 10 au rang 0, puis 10 de plus à chaque rang. Une fois au plafond, le bouton devient « Promouvoir » et la ligne d'indication affiche « Niv. max · promouvoir pour le relever ».
+〔配图请见Steam原文及归档图片〕
+
+Promouvoir : une fois le niveau au max
+Une promotion coûte des Pierres de rang, et le héros doit avoir atteint le niveau max de son rang. Cliquez sur « Promouvoir » : une carte d'aperçu s'affiche d'abord, avec le gain de force, les nouveaux plafonds de niveau et de maîtrise, et le nombre de pierres à payer. Sur la carte, vous pouvez juste faire « Promouvoir 1× » ou cliquer directement sur « Jusqu'au rang N » : ça monte aussi loin que vos ressources le permettent, et les niveaux manquants en chemin sont complétés automatiquement avec de la Perspicacité.
+À partir du rang 10, chaque promotion remplit directement le niveau jusqu'au nouveau max, sans dépenser de Perspicacité.
+〔配图请见Steam原文及归档图片〕
+
+Les rangs 5, 10, 15 et 20 demandent des Pierres de percée
+Pour atteindre ces rangs, il faut, en plus des Pierres de rang, des Pierres de percée : respectivement 4, 12, 24 et 40. Sans assez de pierres, le héros reste bloqué au palier. L'image ci-dessus montre justement le passage du rang 4 au rang 5 : des Pierres de rang, plus 4 Pierres de percée.
+Dans la démo, les Pierres de percée viennent de la première victoire à l'étape 5 et contre les boss, du butin en auto et du recyclage de l'équipement obtenu. Aux paliers, donnez-les donc d'abord à vos héros principaux ; les remplaçants peuvent attendre.
+
+Tout promouvoir d'un coup
+Sur la page « Effectif », il y a un bouton « Promouvoir N », où N est le nombre de héros qui peuvent être promus maintenant. Il ouvre la liste « Tout promouvoir » : chaque ligne indique qui passe de quel rang à quel rang et le gain de force, et en bas s'affiche le total de Pierres de rang, de Pierres de percée et de Perspicacité à dépenser. Les héros engagés passent d'abord, puis par force décroissante, et ça s'arrête quand les ressources sont épuisées. Décochez ceux que vous ne voulez pas promouvoir, vérifiez bien, puis confirmez.
+〔配图请见Steam原文及归档图片〕
+
+Maîtrise de compétence : rien que pour la Spécialité
+Elle se débloque une fois l'étape 20 passée. Dans l'onglet « Compét. » de la page du héros, la ligne de la Spécialité permet de monter sa maîtrise. La maîtrise n'amplifie que la Spécialité elle-même et n'augmente pas la force : si le chiffre ne bouge pas, ce n'est pas de l'entraînement perdu.
+La maîtrise coûte des essences : les 3 premiers niveaux demandent de l'Essence bleue, les niveaux 4 à 7 de l'Essence violette, et à partir du niveau 8 de l'Essence dorée ; les héros cinq étoiles en consomment deux fois plus. La Perspicacité en trop peut aussi être raffinée en essence. Le plafond de maîtrise suit le rang : 1 niveau de plus que le rang actuel, jusqu'au niveau 20 au maximum.
+Un héros cinq étoiles (légendaire) s'éveille au rang 9 avec une maîtrise de niveau 4 : sa Spécialité passe en version éveillée, et la ligne « Débloqué à l'éveil » de l'onglet des compétences s'ouvre aussi.
+〔配图请见Steam原文及归档图片〕
+
+Où dépenser Perspicacité et pierres
+
+• La Perspicacité, d'abord pour monter au max le niveau des héros engagés : les promotions ne bloqueront pas.
+• Pour les Pierres de rang, suivez simplement « Tout promouvoir » : il promeut déjà les héros engagés en premier.
+• Gardez les Pierres de percée pour faire passer les paliers à vos héros principaux.
+• Les essences vont à la Spécialité du héros principal que vous utilisez le plus. La maîtrise n'ajoute pas de force, mais les dégâts, eux, sont bien réels.
+
+
+Qu'aimeriez-vous que je vous présente d'autre, et qu'est-ce qui n'est pas clair ? Posez-moi vos questions en commentaire. Vous pouvez aussi nous rejoindre sur Discord（https://discord.gg/uEwdWz2h62）.
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+Jouer à la démo gratuite（https://store.steampowered.com/app/5257220/） | Ajouter le jeu complet à votre liste de souhaits（https://store.steampowered.com/app/4855890/）

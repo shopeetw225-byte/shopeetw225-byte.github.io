@@ -1,0 +1,50 @@
+Leitfaden für Aktionäre: Helden trainieren – wohin mit Einsicht und Steinen
+
+So wichtig, dass ich es dreimal sage: Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen!
+
+Hallo zusammen, hier ist Juanmao.
+
+Die Vollversion erscheint am 3. Dezember! Noch 14 Tage! Mit der Vollversion öffnet der Steam-Community-Markt~ Wenn ihr Gedanken zum Markt habt, schreibt sie gern in die Kommentare.
+
+Auch diesmal kein Update. Nach den Helden und Aufstellungen vom letzten Mal geht es jetzt darum, wie ihr eure Helden trainiert, wenn ihr sie erst mal angeworben habt. Oft werde ich gefragt: Einsicht, Rangsteine, Essenzen – von allem ein ganzer Haufen, was gebe ich zuerst aus? Gehen wir es Punkt für Punkt durch.
+
+Vorweg: Sterne steigen nicht
+Die Sterne eines Helden sind seine Seltenheit. Mit so vielen Sternen, wie er kommt, bleibt er auch. Jeden Helden gibt es außerdem nur einmal, Duplikate bekommt ihr nicht – ihr müsst also keine doppelten Karten zum Verfüttern sammeln. Stärker werden Helden über drei Wege: Stufe, Rang und Fähigkeitsmeisterschaft.
+
+Stufe: mit einem Klick bis zum Limit
+Leveln kostet nur Einsicht, kein Gold. Einsicht gibt es für Etappen und im Leerlauf, und der Trainingsplatz, der ab Etappe 5 freigeschaltet ist, produziert laufend welche.
+Klickt auf der Heldenseite auf „Leveln ×N“, dann springt der Held direkt auf das Stufenlimit seines aktuellen Rangs; reicht die Einsicht nicht, levelt er, so weit sie reicht. Das Stufenlimit hängt am Rang: Bei Rang 0 liegt es bei 10, mit jedem weiteren Rang kommen 10 Stufen dazu. Ist das Limit erreicht, wird der Button zu „Befördern“, und in der Hinweiszeile steht „Level maximal · Befördern hebt Limit“.
+〔配图请见Steam原文及归档图片〕
+
+Befördern: erst, wenn die Stufe voll ist
+Befördern kostet Rangsteine, und der Held muss das Stufenlimit seines aktuellen Rangs erreicht haben. Klickt ihr auf „Befördern“, erscheint zuerst eine Vorschaukarte: wie viel Kampfkraft dazukommt, auf welchen Wert Stufenlimit und Meisterschaftslimit steigen und wie viele Steine es kostet. Auf der Karte könnt ihr nur „1× befördern“ oder direkt „Bis Rang N“ klicken: Es geht so weit, wie eure Ressourcen reichen, und fehlende Stufen dazwischen werden automatisch mit Einsicht aufgefüllt.
+Ab Rang 10 füllt jede Beförderung die Stufe direkt bis zum neuen Limit auf, ganz ohne Einsicht.
+〔配图请见Steam原文及归档图片〕
+
+Rang 5, 10, 15 und 20 brauchen Durchbruchsteine
+Für diese Ränge braucht ihr zusätzlich zu den Rangsteinen noch Durchbruchsteine, und zwar 4, 12, 24 bzw. 40. Reichen die nicht, bleibt der Held vor der Schwelle stehen. Das Bild oben zeigt genau den Schritt von Rang 4 auf Rang 5: Rangsteine plus 4 Durchbruchsteine.
+In der Demo bekommt ihr Durchbruchsteine beim ersten Abschluss von Etappe 5 und von Bossen, als Leerlauf-Beute und beim Zerlegen erbeuteter Ausrüstung. Gebt sie an den Schwellen also zuerst euren Hauptkämpfern; die Ersatzbank kann warten.
+
+Alle auf einmal befördern
+Auf der Seite „Kader“ gibt es einen Button „Befördern N“; N ist die Zahl der Helden, die gerade befördert werden können. Dahinter steckt die Liste „Alle befördern“: Jede Zeile zeigt, wer von welchem Rang auf welchen steigt und wie viel Kampfkraft dazukommt, darunter steht, wie viele Rangsteine, Durchbruchsteine und wie viel Einsicht insgesamt draufgehen. Helden im Einsatz kommen zuerst, dann nach Kampfkraft absteigend; sind die Ressourcen aufgebraucht, stoppt es. Wen ihr nicht befördern wollt, bei dem nehmt ihr den Haken raus – erst genau hinschauen, dann bestätigen.
+〔配图请见Steam原文及归档图片〕
+
+Fähigkeitsmeisterschaft: nur für die Signaturfähigkeit
+Wird freigeschaltet, sobald ihr Etappe 20 geschafft habt. Im Reiter „Fähigkeiten“ auf der Heldenseite könnt ihr in der Zeile der Signaturfähigkeit die Meisterschaft steigern. Die Meisterschaft verstärkt nur die Signaturfähigkeit selbst und erhöht nicht die Kampfkraft – wenn sich die Zahl nicht bewegt, war das Training also nicht umsonst.
+Meisterschaft kostet Essenz: Die ersten 3 Stufen brauchen Blaue Essenz, Stufe 4 bis 7 Violette Essenz, ab Stufe 8 Goldene Essenz; Fünf-Sterne-Helden brauchen doppelt so viel. Überschüssige Einsicht lässt sich auch zu Essenz veredeln. Das Meisterschaftslimit hängt am Rang: 1 Stufe über dem aktuellen Rang, höchstens Stufe 20.
+Ein Fünf-Sterne-Held (Legendär) erwacht bei Rang 9 und Meisterschaftsstufe 4: Seine Signaturfähigkeit wird zur erwachten Version, und die Zeile mit „Entsperrt beim Erwachen“ im Fähigkeiten-Reiter öffnet sich ebenfalls.
+〔配图请见Steam原文及归档图片〕
+
+Wohin mit Einsicht und Steinen
+
+• Einsicht zuerst in die Helden im Einsatz stecken und deren Stufe vollmachen, dann hakt es beim Befördern nicht.
+• Bei Rangsteinen einfach „Alle befördern“ nutzen – das befördert die Helden im Einsatz ohnehin zuerst.
+• Durchbruchsteine aufsparen, damit eure Hauptkämpfer über die Schwellen kommen.
+• Essenz in die Signaturfähigkeit des Hauptkämpfers, den ihr am häufigsten einsetzt. Meisterschaft bringt keine Kampfkraft, aber der Schaden ist ganz real.
+
+
+Worüber soll ich noch schreiben, und was ist euch unklar? Fragt mich gern in den Kommentaren. Kommt auch gern auf unseren Discord（https://discord.gg/uEwdWz2h62）.
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+Kostenlose Demo spielen（https://store.steampowered.com/app/5257220/） | Vollversion auf die Wunschliste setzen（https://store.steampowered.com/app/4855890/）
