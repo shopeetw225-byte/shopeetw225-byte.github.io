@@ -15175,6 +15175,193 @@
       "source": "待发布文案",
       "links": [],
       "detailNote": "待发布文案归档，原文与素材保留。"
+    },
+    {
+      "id": "steam-store-gif-updates-20261120-r81",
+      "title": "Steam 详情页动图 · 修订80–81",
+      "category": "封面与视觉",
+      "group": "详情页图片",
+      "date": "2026-11-20",
+      "dateBasis": "Steam修订80、81发布记录及十语公开页与动效核对",
+      "status": "已发布 · 十语",
+      "summary": "更新十语详情页共64处动图引用，涉及22个不同素材；包含离线掉落、仓库、要塞、试炼、阵容与守护灵等画面。",
+      "body": "商店修订80更新十语的离线掉落、仓库、要塞和试炼动图，共40处引用；修订81补充24处战斗大招、桌面多窗、阵容与守护灵引用。离线掉落、仓库、要塞、试炼、阵容和守护灵使用简中、繁中、英文素材，其他七语共用英文版本；桌面多窗只更换简中、繁中和英文，其他七语保留原有本语画面；战斗大招只更新简中。守护灵沿用9fa来源，并非本轮新录素材。十语公开页与公开动效均已核对，截图、预告片和正文未在这两次发布中更换。",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/c83bc000fa87cdd7481fc9179d147ee4.poster.avif?t=1795159102",
+      "source": "output/task-rollout-20261120/21-store-r81/public-comparison.json",
+      "files": [
+        {
+          "name": "简体中文 · 战斗大招",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/c83bc000fa87cdd7481fc9179d147ee4.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "简体中文 · 桌面多窗",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/1cdbb9db44e04ced2ca4695dd5917b46.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "简体中文 · 离线掉落与结算",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/c8f4e4e00312424ead7be9696f738cb8.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "简体中文 · 仓库装备",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/ddbe1308c260e43005f9ae96b68300c3.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "简体中文 · 阵容搭配",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/509bcf984bd04bd0464d496cd113982e.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "简体中文 · 守护灵 · 9fa",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/228e97e72166c788621b861f1a6cc97f.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "简体中文 · 要塞",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/56067cdb59d55c0de359ae7b68e8a3f7.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "简体中文 · 试炼",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/7e96e93609ceea157dfda1d0bf31ff72.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "繁体中文 · 桌面多窗",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/cf8f29d43637d92d2772ee4ca893eefa.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "繁体中文 · 离线掉落与结算",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/6a50eb6b7cc7bd555a1d6ce1af363167.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "繁体中文 · 仓库装备",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/e32ff9e30a3e7132e87f5e267de8fd5b.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "繁体中文 · 阵容搭配",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/6f560503c8cdfb322c96d00a3f8ca0ba.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "繁体中文 · 守护灵 · 9fa",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/83196be9dfc8f0ecfe6b134d77b8e1d8.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "繁体中文 · 要塞",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/c5906e8bcd7eac4891800daba83275c7.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "繁体中文 · 试炼",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/d7488d808d3bcc20d2bcb57445b0d98c.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "英文 · 桌面多窗",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/3fb30083673871fe2bad6d6aeaf0df40.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "英文 · 离线掉落与结算（其他七语共用）",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/0a753dfae34a8b905fb88fc4e8445658.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "英文 · 仓库装备（其他七语共用）",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/e099cfa0688780a95990f8e7595c99be.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "英文 · 阵容搭配（其他七语共用）",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/9412a3d7c2d89b68857ea5d922171e7d.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "英文 · 守护灵（其他七语共用） · 9fa",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/180d9424df3fc6056ff58382ae37d049.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "英文 · 要塞（其他七语共用）",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/51db4f11277f5f6f3dc5f4000de2c123.mp4?t=1795159102",
+          "type": "video"
+        },
+        {
+          "name": "英文 · 试炼（其他七语共用）",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/5c4dd49b80c1638cc50a0d54e9be6717.mp4?t=1795159102",
+          "type": "video"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-20",
+          "status": "已发布"
+        }
+      ]
     }
   ]
 }
