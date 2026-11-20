@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "hero": "assets/07851087f62e.jpg",
   "items": [
     {
@@ -15738,6 +15738,161 @@
         }
       ],
       "source": "output/task-rollout-20261120/21-store-r84/screenshot-verification.json"
+    },
+    {
+      "id": "heybox-trial-tower-197362262",
+      "title": "打输不扣东西、没有次数限制：《放置事务所》正式版试炼之塔攻略",
+      "date": "2026-11-20",
+      "dateBasis": "本人11月20日已公开；11月21日公开页复核三处勘误生效，编辑时间另记",
+      "category": "文案",
+      "group": "平台文案",
+      "status": "已公开 · 小黑盒",
+      "summary": "正式版试炼之塔攻略：入口、推层、驻层与塔匣，配七张开发版演示存档实机图。",
+      "body": "《放置事务所》正式版12月3日上线，正式版会开启 Steam 社区市场。demo不继承！！！！！！\n\n这篇是正式版的试炼之塔攻略，下面都是当前开发版的实机画面，用的是演示存档，数值还在调，以当前开发版为准。\n\n一、在哪、什么时候开\n打过第 12 关，要塞里就能建“试炼之地”。建好以后在要塞里点这栋建筑，按“进入”，先是“试炼”入口页，有两扇门：“首领挑战”和“试炼之塔”。这篇只讲试炼之塔。\n\n“试炼”入口页：两扇门“首领挑战”和“试炼之塔”（演示存档）\n\n二、怎么爬\n每次“开战”都打下一层：赢了，最高记录多一层；输了，停在原层，什么都不扣，练强了再来。没有每日次数，不要门票，也不耗体力。\n每层的敌人是固定的，难度不会跟着你的战力变。塔页上写着这一层的“敌方战力”，对着看自己的队伍够不够。目前每 30 层是一个塔章，章里第 10、20、30 层是首领层。\n层数列表能看到前后几层，但只能看、不能跳层，挑战永远从下一层开始。\n\n试炼之塔：最高记录 89 层，下一层第 90 层；左边展开的层数列表只能看，不能跳层；右上写着“爬塔奖励改版中”，下面是“驻层”“推层”“开战”（演示存档，数值还在调）\n\n三、推层：自动往上爬\n首通第 60 层以后，“推层”就解锁了。按下去它会一直打下一层；打不过就退回上一层一直刷，连输 3 场再退一层，不会自己回头重打卡住的那层。\n点“推层”会弹出“自动连战”窗，可以设“目标层数”，爬到就停，每支编队可以单独设；不填就一直打下去。\n\n点“推层”弹出的“自动连战”窗：每支编队单独设“目标层数”（演示存档）\n\n四、驻层：挑一层反复刷\n首达第 1 层以后就能“驻层”：选一个已经首达过的层反复刷，每场胜利得 1 个塔匣，不会推进层数，连输 3 场退一层。可以挑一支编队去驻层。\n停在驻层的时候关掉游戏，离线那段也会照塔的最高记录算塔匣，那段时间主线不掉装备。关游戏不会自动推层。\n\n“驻层”窗：填“驻守层数”，只能选已经首达过的层（演示存档）\n\n五、塔匣\n塔原来的奖励正在改版，塔页标题栏写着“爬塔奖励改版中”，现在每赢一场给 1 个塔匣。结算画面上不显示，匣子直接进军备的“素材”里，数量会多一个。\n每个塔章里，第 1–10 层出精通匣（对应章节的套装装备），第 11–20 层出信物匣（对应章节英雄的信物），第 21–30 层出灵匣（守护灵的蛋或者灵髓）。所以驻哪一层，就是在刷哪一种匣子。\n开出来的品级按开匣时塔的最高记录算（也受主线进度限制），驻低层刷出来的匣子不会变差。\n\n打第 90 层之前：灵匣 · 塔章 3 有 3 个（演示存档）\n\n打赢第 90 层以后：灵匣 · 塔章 3 变成 4 个（演示存档）\n\n匣子不会自动开，在军备左边的“素材”里，选中以后按“全部开启”一次开完；用不上的匣子可以“换匣”：几个没开的匣子换一个指定的（只能换已经打到过的那一段），会亏一点。\n\n军备“素材”页里选中精通匣 · 塔章 3：下面是“换匣”和“全部开启”（演示存档）\n\n正式版上线以后，你打算先推层，还是先驻层刷匣子？评论区说说。\n\n点击这里加入放置事务所玩家交流群\n",
+      "files": [
+        {
+          "name": "图1 · “试炼”入口页：两扇门“首领挑战”和“试炼之塔”（演示存档）",
+          "type": "image",
+          "url": "assets/heybox-trial-tower-197362262-1-922c527e08cf.jpg",
+          "source": "output/heybox-trial-tower-20261120/原图/xhh_tower_1.jpg",
+          "sourceSha256": "922c527e08cf32d2e548bb23c7f5dcb38886478c81166ddda97c45b7c656e487",
+          "sha256": "922c527e08cf32d2e548bb23c7f5dcb38886478c81166ddda97c45b7c656e487",
+          "publishedImageUrl": "https://imgheybox.max-c.com/web/bbs/2026/11/20/69cbdf04772410ab3db1e254a243d466/thumb.jpeg?imageMogr2/format/webp/quality/75/ignore-error/1/auto-orient"
+        },
+        {
+          "name": "图2 · 试炼之塔：最高记录 89 层，下一层第 90 层；左边展开的层数列表只能看，不能跳层；右上写着“爬塔奖励改版中”，下面是“驻层”“推层”“开战”（演示存档，数值还在调）",
+          "type": "image",
+          "url": "assets/heybox-trial-tower-197362262-2-eedd3fceb540.jpg",
+          "source": "output/heybox-trial-tower-20261120/原图/xhh_tower_2b.jpg",
+          "sourceSha256": "eedd3fceb540c8352a49d0d9b24c9bb486118ae1d9dc61f8fb8c56a0d699f33f",
+          "sha256": "eedd3fceb540c8352a49d0d9b24c9bb486118ae1d9dc61f8fb8c56a0d699f33f",
+          "publishedImageUrl": "https://imgheybox.max-c.com/web/bbs/2026/11/20/59890b237247603c7b9d066a6d6ee831/thumb.jpeg?imageMogr2/format/webp/quality/75/ignore-error/1/auto-orient"
+        },
+        {
+          "name": "图3 · 点“推层”弹出的“自动连战”窗：每支编队单独设“目标层数”（演示存档）",
+          "type": "image",
+          "url": "assets/heybox-trial-tower-197362262-3-0babbde7d40b.jpg",
+          "source": "output/heybox-trial-tower-20261120/原图/xhh_tower_3.jpg",
+          "sourceSha256": "0babbde7d40bd189840e1f141775ee9e72fe1210181515499f129e7932ef842b",
+          "sha256": "0babbde7d40bd189840e1f141775ee9e72fe1210181515499f129e7932ef842b",
+          "publishedImageUrl": "https://imgheybox.max-c.com/web/bbs/2026/11/20/0b8e776149c13f7456245abcffb9c9c6/thumb.jpeg?imageMogr2/format/webp/quality/75/ignore-error/1/auto-orient"
+        },
+        {
+          "name": "图4 · “驻层”窗：填“驻守层数”，只能选已经首达过的层（演示存档）",
+          "type": "image",
+          "url": "assets/heybox-trial-tower-197362262-4-fb9028da2f06.jpg",
+          "source": "output/heybox-trial-tower-20261120/原图/xhh_tower_4.jpg",
+          "sourceSha256": "fb9028da2f0668e1750b8940637f5d54a37d669d307f1882418a81b8016af48f",
+          "sha256": "fb9028da2f0668e1750b8940637f5d54a37d669d307f1882418a81b8016af48f",
+          "publishedImageUrl": "https://imgheybox.max-c.com/web/bbs/2026/11/20/af4555f5783c94e6f3efa64f631a043c/thumb.jpeg?imageMogr2/format/webp/quality/75/ignore-error/1/auto-orient"
+        },
+        {
+          "name": "图5 · 打第 90 层之前：灵匣 · 塔章 3 有 3 个（演示存档）",
+          "type": "image",
+          "url": "assets/heybox-trial-tower-197362262-5-d47cb0c57049.jpg",
+          "source": "output/heybox-trial-tower-20261120/原图/xhh_tower_5a.jpg",
+          "sourceSha256": "d47cb0c570493493c09aa25d54d716015f982833d904909c5721e561e571dde9",
+          "sha256": "d47cb0c570493493c09aa25d54d716015f982833d904909c5721e561e571dde9",
+          "publishedImageUrl": "https://imgheybox.max-c.com/web/bbs/2026/11/20/f1b056a2d81f192185d2b8bc0b4c435c/thumb.jpeg?imageMogr2/format/webp/quality/75/ignore-error/1/auto-orient"
+        },
+        {
+          "name": "图6 · 打赢第 90 层以后：灵匣 · 塔章 3 变成 4 个（演示存档）",
+          "type": "image",
+          "url": "assets/heybox-trial-tower-197362262-6-301c5d55565c.jpg",
+          "source": "output/heybox-trial-tower-20261120/原图/xhh_tower_5c.jpg",
+          "sourceSha256": "301c5d55565c40dbb6676a4501bcc47dec53a2fdbb6d55187f0ed62a1b92fad9",
+          "sha256": "301c5d55565c40dbb6676a4501bcc47dec53a2fdbb6d55187f0ed62a1b92fad9",
+          "publishedImageUrl": "https://imgheybox.max-c.com/web/bbs/2026/11/20/3334beef396a3d23a1fa6775d0fb2749/thumb.jpeg?imageMogr2/format/webp/quality/75/ignore-error/1/auto-orient"
+        },
+        {
+          "name": "图7 · 军备“素材”页里选中精通匣 · 塔章 3：下面是“换匣”和“全部开启”（演示存档）",
+          "type": "image",
+          "url": "assets/heybox-trial-tower-197362262-7-063f307bf361.jpg",
+          "source": "output/heybox-trial-tower-20261120/原图/xhh_tower_6.jpg",
+          "sourceSha256": "063f307bf3619aadc910cd30294a493705a958b0434a7a22befeb9dd1fe88ee6",
+          "sha256": "063f307bf3619aadc910cd30294a493705a958b0434a7a22befeb9dd1fe88ee6",
+          "publishedImageUrl": "https://imgheybox.max-c.com/web/bbs/2026/11/20/f9887b7fae5b1646a90fb96958649592/thumb.jpeg?imageMogr2/format/webp/quality/75/ignore-error/1/auto-orient"
+        },
+        {
+          "name": "公开正文（含勘误）",
+          "url": "assets/heybox-trial-tower-197362262-public.txt",
+          "type": "text",
+          "sha256": "653bbe96d1c2c961529c5a604f63f8064eb22b6b4867178d514bec791b29ca5e"
+        }
+      ],
+      "links": [
+        {
+          "platform": "小黑盒",
+          "url": "https://www.xiaoheihe.cn/app/bbs/link/197362262",
+          "date": "2026-11-20",
+          "status": "已公开"
+        }
+      ],
+      "source": "output/task-rollout-20261121/21-heybox-trial-tower-197362262/result.json",
+      "cover": "https://imgheybox1.max-c.com/web/bbs/2026/11/20/ce1ce8bac502f35d620e65cac458bad8/thumb.png?imageMogr2/auto-orient/ignore-error/1/format/jpg/thumbnail/1125x600%3E"
+    },
+    {
+      "id": "episode17-update3-20261119",
+      "title": "第十七期 · 更新篇三",
+      "category": "宣传视频",
+      "group": "平台视频",
+      "episode": 17,
+      "episodeLabel": "开发日志 17",
+      "platformLinkKey": "17",
+      "date": "2026-11-20",
+      "productionDate": "2026-11-19",
+      "dateBasis": "B站、YouTube、X及抖音公开日期；制作日期11月19日另记，小红书和Threads发布日期待核",
+      "status": "已公开 · 六平台",
+      "summary": "新手引导重做与正式版新内容，六平台公开直链已核实。",
+      "files": [],
+      "links": [
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1JBsq6uE93/",
+          "date": "2026-11-20",
+          "status": "已公开",
+          "language": "简中横屏"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=4XIzm80JHsI",
+          "date": "2026-11-20",
+          "status": "已公开",
+          "language": "英文横屏"
+        },
+        {
+          "platform": "X",
+          "url": "https://x.com/Feng21671868/status/2123618165448143229",
+          "date": "2026-11-20",
+          "status": "已公开",
+          "language": "英文竖屏"
+        },
+        {
+          "platform": "抖音",
+          "url": "https://www.douyin.com/video/7710089570053852443",
+          "date": "2026-11-20",
+          "status": "已公开",
+          "language": "简中竖屏"
+        },
+        {
+          "platform": "小红书",
+          "url": "https://www.xiaohongshu.com/explore/6affbd85000000002a038b7c?xsec_token=AB700Xwyoutus5nfku5Ra5PFmPpgYUsWfIw9UX8nkCDKw=&xsec_source=pc_user",
+          "date": null,
+          "status": "已公开",
+          "language": "简中竖屏",
+          "dateNote": "发布日期待核"
+        },
+        {
+          "platform": "Threads",
+          "url": "https://www.threads.com/@wtty2252026/post/Df6xGm9jvO3",
+          "date": null,
+          "status": "已公开",
+          "language": "繁中竖屏",
+          "dateNote": "发布日期待核"
+        }
+      ],
+      "source": "output/video-platform-sync/20261121/episode17-public-link-increment.json",
+      "detailNote": "请通过平台链接观看，本页暂不提供预览。"
     }
   ]
 }
