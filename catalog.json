@@ -15362,6 +15362,382 @@
           "status": "已发布"
         }
       ]
+    },
+    {
+      "id": "steam-main-trailer-v36-20261120-r84",
+      "title": "Steam 主预告片 · v36（临时版）",
+      "category": "宣传视频",
+      "group": "Steam 视频",
+      "date": "2026-11-20",
+      "dateBasis": "Steam修订82–84分批发布及十语公开映射、逐片片段实播核对；修订85缩略图修复公开核对",
+      "status": "已发布 · 八语成片",
+      "summary": "八种语言各一支实机预告片；巴葡、俄语商店页暂用英文片。",
+      "body": "本批v36临时版使用8f5来源，简中、繁中、英文、日文、韩文、德文、法文、西班牙文分别使用对应语言成片；巴西葡萄牙文与俄文尚未交付本语新版，公开页继续引用英文。各语言公开页均按主片在前、精简片在后的顺序显示，已核对逐片片段实播。旧版预览与历史记录保留。 日文精简片和韩文主片的缩略图已在修订85补齐，并核对公开图片。",
+      "cover": "assets/v36-r84-main-cover-9a873954f60b.jpg",
+      "files": [
+        {
+          "name": "简体中文 · 主预告片",
+          "url": "assets/v36-r84-main-schinese-cfbf1b4bc239.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/待确认/放置事务所_Steam主预告片_v36_8f5.mp4",
+          "sha256": "320805036e93b1eb60bb8e2f2a1a04625841162bac851a974f1e63db6865e6ce",
+          "previewSha256": "cfbf1b4bc239fa6ee1fd6a231839d47f116a53f03ebe8e86779105f95517e690",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514369
+        },
+        {
+          "name": "繁体中文 · 主预告片",
+          "url": "assets/v36-r84-main-tchinese-1a1ab4372a1e.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/待确认/繁中版v36_8f5.mp4",
+          "sha256": "6d172a05c53907dd2464fab25f26053a88c72836065d43fe4854bd049bbd25cc",
+          "previewSha256": "1a1ab4372a1ec85b14e31eaa518d138378a552acb52dce5241044a5d78a96dc0",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514383
+        },
+        {
+          "name": "英文 · 主预告片",
+          "url": "assets/v36-r84-main-english-ca4711a64e2c.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/待确认/英文版v36_8f5.mp4",
+          "sha256": "a73a182e056c408cccdff6a00002546c930ba534c25e0326a6635c6a93beff79",
+          "previewSha256": "ca4711a64e2cb02c628d5f8e780d9949cdbf3f6787b084d331018aaf02db664d",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514346
+        },
+        {
+          "name": "日文 · 主预告片",
+          "url": "assets/v36-r84-main-japanese-f34d6483ba45.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/待确认/日文版v36_8f5.mp4",
+          "sha256": "02889bd1eaaa8009b84bd1a78eaaca49faf5c8a464e4275cdc74b76f7145b152",
+          "previewSha256": "f34d6483ba452d38bf7a6834df59c387f9e11918d2a35284a30d5adba322f7be",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514415
+        },
+        {
+          "name": "韩文 · 主预告片",
+          "url": "assets/v36-r84-main-koreana-d50e50d72261.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/待确认/韩文版v36_8f5.mp4",
+          "sha256": "49e4da0a71b17ee711e21946f1e6e8e08f0b99b9be4834a49b30e224712264a7",
+          "previewSha256": "d50e50d72261a19b819ac300cbbdc9cc2056460da40f6ccad75439d8f300c382",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514424
+        },
+        {
+          "name": "德文 · 主预告片",
+          "url": "assets/v36-r84-main-german-dbdde2754f32.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/待确认/德文版v36_8f5.mp4",
+          "sha256": "50edbd60f05a4d4c8762a6006228715aed56ab4f1af51551a0e0a9967b96bbf6",
+          "previewSha256": "dbdde2754f32168bad9e992a40707a26d5f268e9dccd3418df27dfd7ef94e326",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514388
+        },
+        {
+          "name": "法文 · 主预告片",
+          "url": "assets/v36-r84-main-french-c9690c43823e.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/待确认/法文版v36_8f5.mp4",
+          "sha256": "01f1b94302ca53cff2680e225605f0fc00e0384f888634b32fe49d62b59ad41d",
+          "previewSha256": "c9690c43823e0f30aa1b9c8e8d24473625ee2c3338fa5f35a41ddfd9d5690d5a",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514426
+        },
+        {
+          "name": "西班牙文 · 主预告片",
+          "url": "assets/v36-r84-main-spanish-d18b0b164002.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/待确认/西班牙文版v36_8f5.mp4",
+          "sha256": "215c043aaab0763b62943722837233870999a8bb5043f644dd30c871015d35b3",
+          "previewSha256": "d18b0b164002af7dae511e843e04f5da58ebc710ed8dd8e9fb2b0eb7df2768e2",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514391
+        },
+        {
+          "name": "韩文 · 主片缩略图 · 修订85",
+          "url": "assets/r85-thumbnail-257514424-f79a40eccc72.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257514424/4b3e7a99570704ad5bc2bd0972aa5e666bd6b041/movie_600x337.jpg?t=1795168685",
+          "sha256": "f79a40eccc7276546d50246a13fcaf00e15eefc1bc3308869c82f0532ea96e08"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文（英文回退）",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文（英文回退）",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-20",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261120/incremental-media/R84-published-film-manifest.json",
+      "detailNote": "网页为压缩预览，完整版本见对应Steam商店页。",
+      "sourceCommit": "8f587f671"
+    },
+    {
+      "id": "steam-short-trailer-v36-20261120-r84",
+      "title": "Steam 精简宣传片 · v36（临时版）",
+      "category": "宣传视频",
+      "group": "Steam 视频",
+      "date": "2026-11-20",
+      "dateBasis": "Steam修订82–84分批发布及十语公开映射、逐片片段实播核对；修订85缩略图修复公开核对",
+      "status": "已发布 · 八语成片",
+      "summary": "八种语言各一支实机预告片；巴葡、俄语商店页暂用英文片。",
+      "body": "本批v36临时版使用8f5来源，简中、繁中、英文、日文、韩文、德文、法文、西班牙文分别使用对应语言成片；巴西葡萄牙文与俄文尚未交付本语新版，公开页继续引用英文。各语言公开页均按主片在前、精简片在后的顺序显示，已核对逐片片段实播。旧版预览与历史记录保留。 日文精简片和韩文主片的缩略图已在修订85补齐，并核对公开图片。",
+      "cover": "assets/v36-r84-short-cover-19f078423bb1.jpg",
+      "files": [
+        {
+          "name": "简体中文 · 精简宣传片",
+          "url": "assets/v36-r84-short-schinese-d8e1140b7cd3.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/待确认/简中横屏版_Steam精简宣传片_v36_8f5.mp4",
+          "sha256": "209f4dee9651c7fa1e44d3c6c8e071515392ddacb230a48ae0d88b8fb77b5021",
+          "previewSha256": "d8e1140b7cd305d4c01e3a8aa3e87ec185bf1e4b47d14877045ca4fab6af7961",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514370
+        },
+        {
+          "name": "繁体中文 · 精简宣传片",
+          "url": "assets/v36-r84-short-tchinese-a6492fc9d442.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/待确认/繁中横屏版_Steam精简宣传片_v36_8f5.mp4",
+          "sha256": "88140fdff3d1e62100b376456500ad3ba4812f5dcb12dc19571635e51d6b3774",
+          "previewSha256": "a6492fc9d4429abd9f2d137052f0b16d0723daa5746490ddc07d4f8f7cd8922d",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514384
+        },
+        {
+          "name": "英文 · 精简宣传片",
+          "url": "assets/v36-r84-short-english-6036103e7407.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/待确认/英文横屏版_Steam精简宣传片_v36_8f5.mp4",
+          "sha256": "758531a0b13e8b015fffe44e9ea3ec30d6cd9b1457b86af7b184597437159c81",
+          "previewSha256": "6036103e74074f03f72580747fc84f884cdf0dcd834bcb99296d55745f97773f",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514368
+        },
+        {
+          "name": "日文 · 精简宣传片",
+          "url": "assets/v36-r84-short-japanese-8a13b114b4f2.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/待确认/日文横屏版_Steam精简宣传片_v36_8f5.mp4",
+          "sha256": "ef361e8d25c9c7d01c3854180dd6fb2a62a0c2788655df65a37ecdfc7c63c0e7",
+          "previewSha256": "8a13b114b4f2f0d94f5d90565db285ca44082b5f0c4e126176c9bd0629474dc3",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514423
+        },
+        {
+          "name": "韩文 · 精简宣传片",
+          "url": "assets/v36-r84-short-koreana-3289c768c59f.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/待确认/韩文横屏版_Steam精简宣传片_v36_8f5.mp4",
+          "sha256": "6078807c3499e46d7c9545de3848ebd51bb069898c5c45cbf3ccb65be49ce0e7",
+          "previewSha256": "3289c768c59ff43196c0e149d305558692b1509fc47c93d1786c2d5c7e52ea25",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514425
+        },
+        {
+          "name": "德文 · 精简宣传片",
+          "url": "assets/v36-r84-short-german-b5eb5fc950f9.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/待确认/德文横屏版_Steam精简宣传片_v36_8f5.mp4",
+          "sha256": "e75e4f6fffd804761de499bfa0dbda5b1e4b34cedf6b4994c90035b31fec9d2a",
+          "previewSha256": "b5eb5fc950f9709f3a8bd05a77af39995c8df469023371e4efb4e5fc58de5689",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514390
+        },
+        {
+          "name": "法文 · 精简宣传片",
+          "url": "assets/v36-r84-short-french-def8c8b6113c.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/待确认/法文横屏版_Steam精简宣传片_v36_8f5.mp4",
+          "sha256": "f56d6d2ae8c65e23621c4d915adad97bc2f9fab37b68356b3f038804324af6d5",
+          "previewSha256": "def8c8b6113cbdb11cb97ee6c3b92f739e01c5ba5fa28185dcee8c9f365777f6",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514427
+        },
+        {
+          "name": "西班牙文 · 精简宣传片",
+          "url": "assets/v36-r84-short-spanish-b17461599b0f.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/待确认/西班牙文横屏版_Steam精简宣传片_v36_8f5.mp4",
+          "sha256": "3d039f4898618e88a7131bb2bd8278f3b510b1194a9cfdb2d01aec4114ddd0c8",
+          "previewSha256": "b17461599b0fe88dd4643440d714980dc28665228fb2ce0e560b8c9524326384",
+          "updated": "2026-11-20",
+          "steamMovieId": 257514395
+        },
+        {
+          "name": "日文 · 精简片缩略图 · 修订85",
+          "url": "assets/r85-thumbnail-257514423-29e8bbfe7ddd.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257514423/a1d2e849bb6a85ffad239267b944ca072ba99d7f/movie_600x337.jpg?t=1795168685",
+          "sha256": "29e8bbfe7ddde0436d60da44367203fac71d5ebd07952f14c1090b36bbff0381"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文（英文回退）",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-20",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文（英文回退）",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-20",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261120/incremental-media/R84-published-film-manifest.json",
+      "detailNote": "网页为压缩预览，完整版本见对应Steam商店页。",
+      "sourceCommit": "8f587f671"
+    },
+    {
+      "id": "steam-store-screenshots-20261120-r84",
+      "title": "Steam 商店截图 · 简中01–03",
+      "category": "封面与视觉",
+      "group": "宣传图",
+      "date": "2026-11-20",
+      "dateBasis": "Steam修订84公开截图顺序、来源与实际画面核对",
+      "status": "已发布 · 简中三张",
+      "summary": "同步简中商店前3张截图：战斗大招、事务所经营和阵容搭配。",
+      "body": "本次仅更新简中第01、02、03张公开截图。其余77项已验收截图仍待更新，不计为已公开；其他语言与历史截图保留。",
+      "cover": "assets/r84-schinese-shot-01-69602691b4f9.jpg",
+      "files": [
+        {
+          "name": "简体中文 · 截图01 · 战斗大招",
+          "url": "assets/r84-schinese-shot-01-69602691b4f9.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/2c22c8714212633f1f9943943517cc5c0c62da47/ss_2c22c8714212633f1f9943943517cc5c0c62da47.1920x1080.jpg?t=1795166140",
+          "sha256": "69602691b4f928e23e04531fd3f7999178bbe647a2b58359c07ee5ea57e2fbbc"
+        },
+        {
+          "name": "简体中文 · 截图02 · 事务所经营",
+          "url": "assets/r84-schinese-shot-02-2734c0c7da14.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/d190802863397b99384c94931366cffb17954feb/ss_d190802863397b99384c94931366cffb17954feb.1920x1080.jpg?t=1795166140",
+          "sha256": "2734c0c7da146824b668f4d71793093bf3f664ac54df9b2f50f264fc4d9b19d4"
+        },
+        {
+          "name": "简体中文 · 截图03 · 阵容搭配",
+          "url": "assets/r84-schinese-shot-03-1298f05e06f1.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9aca38ef840fd3a67873a245cc85bf284ec2b38a/ss_9aca38ef840fd3a67873a245cc85bf284ec2b38a.1920x1080.jpg?t=1795166140",
+          "sha256": "1298f05e06f1c500a476fc0bda1dd3bbe208d0c72074c92f98a0fde202b61af1"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-20",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/task-rollout-20261120/21-store-r84/screenshot-verification.json"
     }
   ]
 }
