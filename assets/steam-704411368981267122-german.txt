@@ -1,0 +1,54 @@
+Leitfaden für Aktionäre: nebenbei farmen, Kampf in eine Desktop-Ecke schieben
+
+So wichtig, dass ich es dreimal sage: Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen!
+
+Hallo zusammen, hier ist Juanmao.
+
+Die Vollversion erscheint am 3. Dezember! Noch 13 Tage! Mit der Vollversion öffnet der Steam-Community-Markt~ Wenn ihr Gedanken zum Markt habt, schreibt sie gern in die Kommentare.
+
+Auch diesmal kein Update. Heute geht's darum, wie ihr die Demo nebenbei laufen lasst, während ihr was anderes macht. Ist ja ein Idle-Spiel – da muss man nicht die ganze Zeit im Vollbild draufstarren.
+
+Mit Auto-Kampf schrumpft der Kampf zum Mini-Fenster
+Wenn „Auto-Vorrücken“ oder „Auto-Farmen“ an ist, gibt es oben rechts auf der Kampfseite den Knopf „Auf Mini-Fenster in der Ecke verkleinern“. Ein Klick, und der Kampf schrumpft in eine Ecke des Hauptbildschirms und läuft dort weiter. Wechselt ihr einfach zu Festung, Helden oder einer anderen Seite, verkleinert er sich auch von selbst.
+Ein Klick aufs Mini-Fenster holt den Kampfbildschirm wieder groß, das ■ darauf beendet den Auto-Kampf.
+〔配图见Steam原文〕
+
+Den Kampf aus dem Hauptfenster ziehen
+Wollt ihr ihn auf den zweiten Bildschirm oder in eine Ecke vom Desktop packen, macht einfach ein eigenes Fenster draus. Drei Wege, alle gehen:
+
+• Oben rechts auf der Kampfseite auf „In eigenem Fenster öffnen“ klicken;
+• oben links am Mini-Fenster auf denselben Knopf klicken;
+• oder den Kampfbildschirm gedrückt halten und einfach aus dem Hauptfenster ziehen.
+
+Unter Windows zeigt das Kampffenster beim Drüberfahren mit der Maus den Namen der Etappe und „Etwa X Gold pro Stunde“; per Doppelklick geht's zurück zum Hauptbildschirm.
+Zwei Dinge vorab:
+
+• Sind die „Hilfetipps“ an, gibt's diese Knöpfe zum Herausziehen erst, wenn ihr Etappe 15 geschafft habt (das gilt auch für den Knopf bei den Verwaltungsseiten, zu dem ich gleich komme). Davor gibt's nur das Mini-Fenster. Schaltet ihr die „Hilfetipps“ in den Optionen aus, habt ihr alles von Anfang an.
+• Die eigenen Fenster sind für die Desktop-Versionen unter Windows und macOS gedacht. Auf dem Steam Deck nehmt ihr einfach das Mini-Fenster.
+
+〔配图见Steam原文〕
+
+Immer im Vordergrund und durchsichtig – liegt über anderen Fenstern, ohne zu stören
+Schaltet unter Optionen → „Anzeige“ die Option „Kampffenster immer im Vordergrund“ ein, dann schwebt das Kampffenster immer ganz oben. Der Knopf mit dem Pfeil nach oben am Kampffenster ist derselbe Schalter.
+Rechts am Kampffenster sitzt ein Regler für die Deckkraft. Einfach nach oben oder unten ziehen, runter geht's bis 0 %. Keine Sorge, wenn es zu durchsichtig wird: Fahrt mit der Maus drüber, dann ist es kurz wieder deutlich zu sehen. Und findet ihr es wirklich nicht mehr, klickt auf den runden Knopf in der Ecke des Hauptbildschirms – dann ist es wieder da, und die Deckkraft springt auch auf 100 % zurück.
+Auf dem Mac müsst ihr das Kampffenster erst einmal anklicken, dann erscheinen die Knöpfe und das klare Bild. Auf ein paar Windows-PCs scheint der Desktop nicht durch; runtergedreht wird das Fenster dann nur papierfarben.
+〔配图见Steam原文〕
+
+Die Knöpfe am Kampffenster
+Klickt auf „⋯“, um sie aufzuklappen. Der Reihe nach: Vordergrund (Pfeil nach oben), Lautsprecher (schaltet das ganze Spiel stumm), Zusammenführen (gebogener Pfeil, zurück ins Hauptfenster, der Kampf läuft weiter). Klickt ihr dann ganz rechts auf den Doppelpfeil „Weitere Tasten“, kommen noch Form wechseln (16:9 oder quadratisch), die Seitenknöpfe Festung, Feldzug, Helden und Arsenal sowie „Spiel beenden“ dazu. In dieser Ansicht könnt ihr das Fenster auch an allen vier Ecken größer und kleiner ziehen.
+Wollt ihr den Spielsound nicht hören, gibt's unter Optionen → „Audio“ außerdem „Stumm ohne Fokus“.
+
+Auch Verwaltungsseiten kriegen ein eigenes Fenster
+Oben rechts im Hauptbildschirm, unter den Navigationsflaggen, sitzt ein kleiner Knopf: „Diese Seite in eigenem Fenster öffnen“. Helden, Trupp, Taverne, Akademie, Kodex – all diese Seiten lassen sich einzeln öffnen. Packt zum Beispiel die Trupp-Seite auf den zweiten Bildschirm und baut eure Aufstellung um, während ihr dem Kampf zuschaut.
+Offene Fenster und ihre Position merkt sich das Spiel, beim nächsten Start sind sie wieder an derselben Stelle. Der Markt ist in der Demo nicht offen, deshalb gibt's diese Seite nicht.
+〔配图见Steam原文〕
+
+Hauptfenster zu, ohne das Spiel aus Versehen zu beenden
+Ist das Kampffenster draußen, verkleinert das × am Hauptfenster (auf dem Mac der rote Punkt oder Cmd+Q) nur das Hauptfenster und speichert dabei einmal. Der Kampf läuft weiter.
+Wollt ihr das Spiel wirklich beenden, nehmt „Speichern & beenden“ in den Optionen oder „Spiel beenden“ unter „Weitere Tasten“ am Kampffenster (den müsst ihr zweimal hintereinander klicken).
+
+Worüber soll ich noch schreiben, und was ist euch unklar? Fragt mich gern in den Kommentaren. Kommt auch gern auf unseren Discord（https://discord.gg/uEwdWz2h62）.
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+Kostenlose Demo spielen（https://store.steampowered.com/app/5257220/） | Vollversion auf die Wunschliste setzen（https://store.steampowered.com/app/4855890/）

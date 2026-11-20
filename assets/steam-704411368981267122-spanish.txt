@@ -1,0 +1,54 @@
+Guía del accionista: farmea mientras trabajas y lleva el combate a un rincón
+
+Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo!
+
+¡Hola a todos! Soy Juanmao.
+
+¡El juego completo sale el 3 de diciembre! ¡Quedan 13 días! Con el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes alguna idea sobre el Mercado, déjala en los comentarios.
+
+Esto tampoco es una actualización: hoy toca hablar de cómo dejar la demo farmeando mientras trabajas. Es un juego idle; no vas a estar mirándolo a pantalla completa todo el rato.
+
+Con el farmeo puesto, el combate se encoge a una miniventana
+Cuando en la página de combate tienes activado «Autoavance» o «Autofarmeo», arriba a la derecha aparece el botón «Reducir a la miniventana de la esquina»: un clic y el combate se encoge a una esquina de la pantalla principal y sigue peleando. Si te vas directamente a páginas como Fortaleza o Héroes, también se encoge solo.
+Si haces clic en la miniventana, vuelves a la pantalla de combate; el ■ de arriba detiene el autocombate.
+〔配图见Steam原文〕
+
+Saca el combate de la ventana principal
+Si lo quieres en la otra pantalla o en una esquina del escritorio, conviértelo en una ventana independiente. Hay tres maneras:
+
+• pulsa «Abrir en su propia ventana» arriba a la derecha de la página de combate;
+• pulsa ese mismo botón en la esquina superior izquierda de la miniventana;
+• o mantén pulsado el combate y arrástralo fuera de la ventana principal.
+
+En Windows, si dejas el ratón encima de la ventana de combate, verás el nombre de la etapa y «Unos … de oro por hora»; con doble clic vuelves a la pantalla principal.
+Dos cosas que conviene aclarar antes:
+
+• Si tienes activados los «Consejos de guía», estos botones para sacar ventanas (también el de las páginas de gestión, del que hablo más abajo) no aparecen hasta que superas la etapa 15; antes solo tienes la miniventana de la esquina. Si desactivas los «Consejos de guía» en Ajustes, los tienes todos desde el principio.
+• Las ventanas independientes son para la versión de escritorio de Windows y macOS; en Steam Deck usa la miniventana de la esquina.
+
+〔配图见Steam原文〕
+
+Siempre encima y transparente: sobre otras ventanas sin estorbar
+En Ajustes → «Pantalla», activa «Ventana de combate siempre encima» y la ventana de combate se quedará flotando por encima de todo. El botón con la flecha hacia arriba de la propia ventana de combate es ese mismo interruptor.
+A la derecha de la ventana de combate hay una barra de opacidad: arrástrala arriba o abajo y listo, se puede bajar hasta el 0%. Si se te queda transparente, tranquilo: al pasar el ratón por encima se ve nítida un momento; y si de verdad no la encuentras, pulsa el botón redondo de la esquina de la pantalla principal para recuperarla, y la opacidad vuelve al 100%.
+En Mac, primero tienes que hacer un clic en la ventana de combate para que salgan los botones y la imagen nítida. En unos pocos PC con Windows no se ve el escritorio a través: al bajar la opacidad, solo se aclara hasta un color papel.
+〔配图见Steam原文〕
+
+Los botones de la ventana de combate
+Al pulsar «⋯» se despliegan, en orden: siempre encima (flecha hacia arriba), altavoz (silencia todo el juego) y unir (flecha curva: vuelve a la ventana principal y el combate sigue). Si pulsas el de más a la derecha, «Más botones», el de la doble flecha, salen además cambiar la forma (16:9 o cuadrado), los botones de las páginas Fortaleza, Campaña, Héroes y Arsenal, y «Salir del juego»; con todo eso desplegado, también puedes arrastrar las cuatro esquinas de la ventana para cambiar su tamaño.
+Si no quieres oír el juego, en Ajustes → «Sonido» también tienes «Silenciar en 2.º plano».
+
+Las páginas de gestión también se abren en su propia ventana
+Arriba a la derecha de la pantalla principal, debajo de las banderas de navegación, hay un botoncito llamado «Abrir esta página en su propia ventana». Héroes, Escuadra, Taberna, Academia, Códice: todas se pueden abrir aparte. Por ejemplo, pon la Escuadra en la otra pantalla y ajusta la formación mientras miras el combate.
+Las ventanas abiertas y su posición se recuerdan: la próxima vez que abras el juego seguirán en su sitio. El Mercado no está activado en la demo, así que esa página no está.
+〔配图见Steam原文〕
+
+Cerrar la ventana principal no cierra el juego por error
+Mientras la ventana de combate está fuera, pulsar la × de la ventana principal (en Mac, el punto rojo o Cmd+Q) solo minimiza la ventana principal, de paso guarda la partida, y el combate sigue.
+Si de verdad quieres salir, usa «Guardar y salir» en Ajustes, o «Salir del juego» dentro de «Más botones» en la ventana de combate (hay que pulsarlo dos veces seguidas).
+
+Si hay algo más que quieras que te explique o algo que no se entienda, pregúntame en los comentarios. También puedes unirte a nuestro Discord（https://discord.gg/uEwdWz2h62）.
+
+Si te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+Juega la demo gratis（https://store.steampowered.com/app/5257220/） | Añade el juego completo a tu lista de deseados（https://store.steampowered.com/app/4855890/）
