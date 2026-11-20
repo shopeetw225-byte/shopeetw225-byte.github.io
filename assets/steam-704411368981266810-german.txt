@@ -1,0 +1,56 @@
+Leitfaden für Aktionäre: Festgefahren? Aufgabe lesen, dann Schlüssel mitbringen
+
+So wichtig, dass ich es dreimal sage: Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen!
+
+Hallo zusammen, hier ist Juanmao.
+
+Die Vollversion erscheint am 3. Dezember! Noch 13 Tage! Mit der Vollversion öffnet der Steam-Community-Markt~ Wenn ihr Gedanken zum Markt habt, schreibt sie gern in die Kommentare.
+
+Auch diesmal kein Update. Heute geht es darum, was ihr tun könnt, wenn ihr in der Demo festhängt. Viele Etappen scheitern nicht an zu wenig Kampfkraft, sondern daran, dass ihr die „Aufgabe“ dieser Etappe noch nicht gelöst habt.
+
+Vor dem Kampf: erst die Vorab-Aufklärung
+Klickt auf der Trupp-Seite auf das runde Porträtabzeichen in der Spalte der Gegner, dann öffnet sich die „Vorab-Aufklärung“. Vor Kämpfen der Hauptgeschichte erscheint sie auch von selbst; habt ihr im selben Kapitel schon dieselbe Gegneraufstellung gesehen, kommt sie nicht noch einmal, nach einer Niederlage beim neuen Versuch aber immer.
+Dort steht die Aufgabe dieser Etappe, zum Beispiel „Dornen“: Die Gegner werfen einen Teil des Schadens eurer Normalangriffe zurück. Sobald der Kampf läuft, seht ihr das nicht mehr, also werft vorher einen Blick darauf.
+Nach Etappe 28 steht hinter jeder Aufgabe, welchen „Schlüssel“ ihr mitbringen solltet; nach Etappe 33 wird zusätzlich markiert, ob euer Trupp ihn dabeihat: grüner Haken heißt gelöst, roter Kreis heißt noch nicht. Kann euer ganzer Trupp keine einzige Aufgabe lösen, wird die Zeile mit der Kampfkraft rot, und dort steht „Dieser Trupp hat keine Lösung für diese Aufgabe“.
+〔配图见Steam原文〕
+
+Welcher Schlüssel löst welche Aufgabe
+
+• Exekution → Exekutionsschutz
+• Dornen → Dornenschutz
+• Heilung → Wundtreffer
+• Schweigen → Schweigeschutz
+• Moralverlust → Treffermoral oder Anfangsmoral
+• Schilde → Durchdringung
+
+Exekutionsschutz, Dornenschutz, Wundtreffer und Schweigeschutz: Trägt einer im Trupp so einen Schlüssel, werden für den ganzen Trupp 60% neutralisiert. Durchdringung und Moral zählen nur für den Träger selbst.
+Manche Klassen und Helden bringen die Lösung schon mit. Über „Wer hilft“ in der Aufklärung seht ihr, wer auf der Bank passt.
+
+In der Demo gibt es Schlüssel nur auf Bestellung in der Schmiede
+Exekutionsschutz, Dornenschutz, Wundtreffer, Schweigeschutz und Durchdringung: Diese fünf werden nie zufällig ausgewürfelt und droppen auch nicht. Ihr bekommt sie nur als Wunsch-Affix in der Schmiede.
+Die Schmiede öffnet mit Etappe 15, und für Wunsch-Affixe gibt es sonst keine Hürde: Wählt im Reiter „Schmieden“ einen Bauplan, klickt auf „Wunsch-Affix“ und sperrt ein Affix; die übrigen werden wie gewohnt ausgewürfelt. Das kostet 5-mal so viel wie normales Schmieden, und für Schlüssel-Affixe kommt noch Kapitelmaterial dazu, je späteres Kapitel, desto mehr.
+Habt ihr gegen dieselbe Aufgabe zweimal verloren und könnt den Schlüssel schon schmieden, bringt euch eine Hinweiskarte in die Schmiede, damit ihr ihn schmiedet und anlegt.
+In der Vollversion wird die Ausrüstung komplett erneuert, und wie ihr an Schlüssel kommt, ändert sich ebenfalls. Folgt dann einfach den Hinweisen im Spiel.
+〔配图见Steam原文〕
+
+Verloren? Erst den einen Satz auf der Ergebniskarte lesen
+Nach einer Niederlage in der Hauptgeschichte sagt euch die Ergebniskarte in einem Satz, woran es vor allem lag: Jemand fiel gleich zu Beginn durch einen einzigen Treffer, eure Hinterreihe wurde in einem Zug ausgelöscht, eure Fähigkeiten wurden durch Schweigen oder Moralentzug gestoppt, oder ihr wurdet in der Entscheidungsphase zermürbt. Hat euch die Aufgabe der Etappe besiegt, steht das direkt da, samt dem, was ihr beim nächsten Mal mitbringen solltet.
+Außerdem rechnet das Spiel durch, ob „nur eine Änderung“ zum Sieg reicht: einen Helden verschieben, zwei die Plätze tauschen lassen oder jemanden von der Bank statt eines anderen aufstellen. Gewinnt die Simulation, wird der Titel zu „Eine Änderung fehlt“, daneben gibt es den Button „Ändern“. Ein Klick übernimmt die Änderung, den Kampf startet ihr aber selbst.
+〔配图见Steam原文〕
+
+Kampfbericht: wer hat wie viel gemacht
+Öffnet im Kampf den Kampfbericht, dann seht ihr die Ranglisten für Schaden, Heilung, Erlitten, Schild, Moral und Kontrolle, und der Kampf läuft beim Anschauen weiter. Fahrt mit der Maus über eine Zeile, dann steht dort, wen der Held vor allem getroffen hat, wie viel mehr er durch Buffs geschafft hat und von wem die meisten davon kamen.
+Klickt ihr hinein, öffnet sich der ganze Bericht: Verlauf ansehen, Runden per Ziehen auswählen und nacheinander jeden Helden einzeln durchgehen. Nach einer Niederlage öffnet ihn auch „Werte ansehen“ auf der Ergebniskarte.
+〔配图见Steam原文〕
+
+Verlieren kostet nichts
+
+• Es gibt keine Ausdauer, eine Niederlage kostet keine Ressourcen, und nach dem Umstellen des Trupps könnt ihr sofort wieder ran.
+• Schafft Auto-Vorrücken eine Etappe nicht, geht es zur vorherigen zurück und farmt dort weiter, statt leer zu laufen. Seid ihr stärker geworden, kommt zurück und fordert die Etappe, an der ihr hängt, von Hand heraus.
+
+
+Worüber soll ich noch schreiben, und was ist euch unklar? Fragt mich gern in den Kommentaren. Kommt auch gern auf unseren Discord（https://discord.gg/uEwdWz2h62）.
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+Kostenlose Demo spielen（https://store.steampowered.com/app/5257220/） | Vollversion auf die Wunschliste setzen（https://store.steampowered.com/app/4855890/）

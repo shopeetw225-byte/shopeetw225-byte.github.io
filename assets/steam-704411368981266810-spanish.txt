@@ -1,0 +1,56 @@
+Guía del accionista: ¿atascado? Primero mira el examen y luego lleva la llave
+
+Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo!
+
+¡Hola a todos! Soy Juanmao.
+
+¡El juego completo sale el 3 de diciembre! ¡Quedan 13 días! Con el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes alguna idea sobre el Mercado, déjala en los comentarios.
+
+Esto tampoco es una actualización: hoy toca hablar de qué hacer cuando te atascas en la demo. Muchas etapas no se te resisten por falta de fuerza, sino porque no has resuelto el «examen» de esa etapa.
+
+Antes de pelear, mira el Reconocimiento previo
+En la página «Escuadra», pulsa la insignia redonda con el retrato en la columna enemiga y se abrirá el «Reconocimiento previo». Antes de los combates de la campaña también aparece solo; si en el mismo capítulo ya viste una formación enemiga igual, no vuelve a salir, pero si pierdes y lo reintentas, sale siempre.
+Ahí aparece el examen de la etapa, por ejemplo «Espinas»: el enemigo te devuelve parte del daño de tus ataques básicos. Una vez empezado el combate ya no se puede ver, así que échale un vistazo antes.
+Tras superar la etapa 28, detrás de cada examen se indica qué «llave» debes llevar; tras superar la etapa 33, también se marca si tu escuadra la lleva: la marca verde es que tienes solución y el círculo rojo, que todavía no. Si tu escuadra no resuelve ni un solo examen, la línea de fuerza se pone en rojo y dice «Esta escuadra no tiene respuesta para este examen».
+〔配图见Steam原文〕
+
+Qué llave abre cada examen
+
+• Ejecución → Antiejecución
+• Espinas → Antiespinas
+• Curación → Golpes hirientes
+• Silencio → Guarda de silencio
+• Drenaje de moral → Moral por golpe o Moral inicial
+• Escudos → Penetración
+
+Con Antiejecución, Antiespinas, Golpes hirientes y Guarda de silencio basta con que una persona de la escuadra la lleve para neutralizar el 60% en todo el equipo; Penetración y las de moral solo cuentan para quien las lleva.
+Algunas clases y héroes ya traen su propia solución. Con «Quién sirve», en el panel de reconocimiento, ves quién del banquillo encaja.
+
+En la demo, las llaves se encargan a medida en la Herrería
+Antiejecución, Antiespinas, Golpes hirientes, Guarda de silencio y Penetración no salen al azar ni caen como botín: solo se pueden encargar a medida en la Herrería.
+La Herrería se abre en la etapa 15 y el encargo no tiene más requisitos: en la página «Forja» elige un plano, pulsa «Afijo a medida» y fija un afijo; los demás salen al azar como siempre. Hacerlo a medida cuesta 5 veces lo que una forja normal, y los afijos de llave piden además materiales de capítulo, más cuanto más avanzado sea el capítulo.
+Si pierdes dos veces contra el examen de una misma etapa y ya puedes forjar la llave, aparece una tarjeta de guía que te lleva a la Herrería para forjarla y luego equipártela.
+En el juego completo, el equipamiento se renovará entero y la forma de conseguir las llaves también cambiará; cuando llegue el momento, solo sigue las indicaciones del juego.
+〔配图见Steam原文〕
+
+Si pierdes, lee primero la frase de la tarjeta de resultado
+Al perder en la campaña, la tarjeta de resultado te dice en una sola frase dónde perdiste sobre todo: si alguien cayó de un solo golpe al principio, si te barrieron la retaguardia de un golpe, si te cortaron las habilidades distintivas con silencio o drenaje de moral, o si te desgastaron en la fase decisiva. Si perdiste contra el examen de la etapa, te lo señala directamente y te dice qué llevar para volver a intentarlo.
+El juego también calcula por ti si ganarías cambiando una sola cosa: mover a una persona, intercambiar de sitio a dos o meter a alguien del banquillo en lugar de otro. Si la simulación gana, el título pasa a ser «Solo falta un cambio» y al lado aparece el botón «Aplicar»: lo pulsas y se aplica al momento; el combate lo sigues empezando tú.
+〔配图见Steam原文〕
+
+El registro: quién hizo cuánto
+Abre el Registro en pleno combate y verás las clasificaciones de Daño, Curación, Recibido, Escudo, Moral y Control; el combate no se detiene mientras miras. Pasa el ratón por una fila y te dirá a quién golpeó sobre todo, cuánto daño extra le dieron las mejoras y de quién vinieron la mayoría.
+Si haces clic, entras en el informe completo: ves la evolución, puedes arrastrar para seleccionar rondas y vas pasando de personaje en personaje para verlos uno a uno. Si pierdes, también puedes abrirlo con «Ver datos» en la tarjeta de resultado.
+〔配图见Steam原文〕
+
+Perder no sale caro
+
+• No hay energía: perder no te quita recursos, y en cuanto ajustas la escuadra puedes volver a intentarlo.
+• Si el autoavance no puede con una etapa, vuelve a la anterior y sigue farmeando, sin quedarse dando vueltas en vano; cuando seas más fuerte, acuérdate de volver y desafiar a mano la etapa en la que te atascaste.
+
+
+Si hay algo más que quieras que te explique o algo que no se entienda, pregúntame en los comentarios. También puedes unirte a nuestro Discord（https://discord.gg/uEwdWz2h62）.
+
+Si te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+Juega la demo gratis（https://store.steampowered.com/app/5257220/） | Añade el juego completo a tu lista de deseados（https://store.steampowered.com/app/4855890/）

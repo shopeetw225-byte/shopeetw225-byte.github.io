@@ -1,0 +1,56 @@
+Guide de l'actionnaire : bloqué ? Lisez d'abord l'examen, puis apportez la clé
+
+C'est important, alors je le dis trois fois : la progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet !
+
+Bonjour à tous, ici Juanmao.
+
+Le jeu complet sort le 3 décembre ! Plus que 13 jours ! Le Marché de la communauté Steam ouvrira avec le jeu complet~ Si vous avez des idées sur le Marché, laissez-les en commentaire.
+
+Toujours pas de mise à jour cette fois : parlons de quoi faire quand on bloque dans la démo. Si beaucoup d'étapes ne passent pas, ce n'est souvent pas un manque de force : vous n'avez simplement pas encore résolu l'« examen » de l'étape.
+
+Avant le combat, lisez la Reconnaissance
+Sur la page Équipe, cliquez sur le médaillon de portrait rond dans la colonne ennemie : la « Reconnaissance » s'ouvre. Elle apparaît aussi d'elle-même avant les combats de l'histoire principale ; si vous avez déjà vu la même formation ennemie dans le même chapitre, elle ne revient pas, mais après une défaite, elle s'affiche toujours quand vous retentez.
+On y voit les examens de l'étape, par exemple « Épines » : les ennemis vous renvoient une partie des dégâts de vos attaques de base. Une fois le combat lancé, vous ne les voyez plus, alors jetez-y un œil avant.
+Après l'étape 28, chaque examen indique quelle « clé » apporter ; après l'étape 33, il signale aussi si votre équipe l'a : coche verte, vous avez la réponse ; cercle rouge, pas encore. Si toute l'équipe ne peut répondre à aucun examen, la ligne de force passe en rouge avec « Cette équipe n'a aucune réponse à cet examen ».
+〔配图见Steam原文〕
+
+Quelle clé pour quel examen
+
+• Exécution → Anti-exécution
+• Épines → Anti-épines
+• Soins → Coups blessants
+• Silence → Anti-silence
+• Perte de moral → Moral touché ou Moral initial
+• Boucliers → Pénétration
+
+Anti-exécution, Anti-épines, Coups blessants et Anti-silence : il suffit qu'un seul membre de l'équipe en porte une pour neutraliser 60% pour toute l'équipe. Pénétration et moral ne comptent que pour celui qui les porte.
+Certaines classes et certains héros ont déjà la réponse en eux. Le bouton « Qui répond » de la Reconnaissance montre qui, sur le banc, convient.
+
+Dans la démo, les clés se commandent à la Forge
+Anti-exécution, Anti-épines, Coups blessants, Anti-silence et Pénétration : ces cinq-là ne sortent jamais au hasard et ne tombent jamais en butin. On ne les obtient que sur commande à la Forge.
+La Forge ouvre à l'étape 15, et la commande n'a aucune autre condition : dans l'onglet « Forger », choisissez un plan, cliquez sur « Affixe ciblé » et verrouillez un affixe ; les autres restent aléatoires comme d'habitude. Une commande coûte 5 fois une forge normale, et les affixes-clés demandent en plus des Matériaux de chapitre, d'autant plus que le chapitre est avancé.
+Si vous perdez deux fois contre l'examen d'une même étape et que vous pouvez déjà forger la clé, une carte de guide vous emmène à la Forge pour la forger, puis l'équiper.
+Dans le jeu complet, l'équipement sera entièrement renouvelé et la façon d'obtenir les clés changera aussi : le moment venu, suivez simplement les indications du jeu.
+〔配图见Steam原文〕
+
+Perdu ? Lisez d'abord la phrase de la carte de résultat
+Après une défaite dans l'histoire principale, la carte de résultat résume en une phrase où vous avez surtout perdu : quelqu'un mis K.O. d'un seul coup dès le début, votre rang arrière balayé en un coup, vos compétences bloquées par silence ou perte de moral, ou une équipe épuisée en phase décisive. Si c'est l'examen de l'étape qui vous a battu, elle le dit directement et vous indique quoi apporter la prochaine fois.
+Le jeu calcule aussi pour vous si « un seul changement » suffirait : déplacer un héros, en échanger deux, ou aligner quelqu'un du banc à la place d'un autre. Si la simulation gagne, le titre devient « À un changement près », avec un bouton « Valider » à côté : un clic applique le changement, mais c'est toujours vous qui lancez le combat.
+〔配图见Steam原文〕
+
+Le Journal : qui a fait combien
+En combat, ouvrez le Journal pour voir les classements Dégâts, Soins, Subis, Bouclier, Moral et Contrôle, et le combat continue pendant que vous regardez. Survolez une ligne pour voir qui ce héros a surtout frappé, combien ses buffs lui ont fait gagner, et de qui ils venaient surtout.
+Cliquez dessus pour ouvrir le rapport complet : vous voyez la courbe, sélectionnez des tours en faisant glisser, et passez d'un héros à l'autre pour les voir un par un. Après une défaite, « Voir stats » sur la carte de résultat l'ouvre aussi.
+〔配图见Steam原文〕
+
+Perdre ne coûte rien
+
+• Pas d'endurance, et une défaite ne coûte aucune ressource : modifiez votre équipe et relancez tout de suite.
+• Si l'Avancée auto ne passe pas une étape, elle revient à la précédente et continue de farmer au lieu de tourner à vide. Une fois plus fort, pensez à revenir défier à la main l'étape qui vous bloquait.
+
+
+Qu'aimeriez-vous que je vous présente d'autre, et qu'est-ce qui n'est pas clair ? Posez-moi vos questions en commentaire. Vous pouvez aussi nous rejoindre sur Discord（https://discord.gg/uEwdWz2h62）.
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+Jouer à la démo gratuite（https://store.steampowered.com/app/5257220/） | Ajouter le jeu complet à votre liste de souhaits（https://store.steampowered.com/app/4855890/）

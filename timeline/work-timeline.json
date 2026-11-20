@@ -1923,6 +1923,12 @@
       "category": "创作者联系",
       "text": "向1位B站创作者发送试玩邀请。",
       "url": "/creators/creator-outreach-20261120.html"
+    },
+    {
+      "date": "2026-11-20",
+      "category": "Steam公告",
+      "text": "发布卡关篇玩法新闻，介绍战前侦察、考题钥匙、铁匠铺订制与战报。",
+      "url": "/?work=steam-704411368981266810"
     }
   ]
 }
