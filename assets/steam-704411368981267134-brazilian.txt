@@ -1,0 +1,54 @@
+Guia do acionista: farme enquanto trabalha e leve a batalha a um canto da tela
+
+É importante, então vou falar três vezes: o progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo!
+
+Olá, pessoal! Aqui é o Juanmao.
+
+O jogo completo chega em 3 de dezembro! Faltam 12 dias! Com o jogo completo, o Mercado da Comunidade Steam vai abrir~ Se tiver alguma ideia sobre o Mercado, deixa nos comentários.
+
+Isto também não é uma atualização: hoje vou mostrar como deixar a demo farmando enquanto você trabalha. É jogo idle, né? Não dá pra ficar olhando em tela cheia o tempo todo.
+
+Com o farm ligado, a batalha vira uma minijanela
+Quando a página de batalha está com "Avanço automático" ou "Farm automático" ligado, no canto superior direito aparece o botão "Reduzir para a minijanela no canto": um clique e a batalha encolhe para um canto da tela principal e continua rolando. Se você for direto para páginas como Fortaleza ou Heróis, ela também encolhe sozinha.
+Clicando na minijanela, você volta para a tela de batalha; o ■ em cima dela é para parar a auto-batalha.
+〔配图请见 Steam 原文〕
+
+Tire a batalha da janela principal
+Quer deixar no segundo monitor ou num canto da área de trabalho? É só transformar em janela própria. Tem três jeitos:
+
+• clique em "Abrir em janela própria" no canto superior direito da página de batalha;
+• clique no mesmo botão no canto superior esquerdo da minijanela;
+• ou segure a tela de batalha e arraste para fora da janela principal.
+
+No Windows, parando o mouse sobre a janela de batalha, aparecem o nome da fase e "Cerca de … de ouro por hora"; com clique duplo você volta para a tela principal.
+Duas coisas pra deixar claras antes:
+
+• Com as "Dicas de orientação" ligadas, esses botões de tirar a janela (incluindo o das páginas de gestão, que eu explico mais abaixo) só aparecem depois de passar da fase 15; antes disso só tem a minijanela no canto. Se desligar as "Dicas de orientação" nas Opções, tudo fica disponível desde o começo.
+• A janela própria é para o desktop no Windows e no macOS; no Steam Deck, use a minijanela no canto.
+
+〔配图请见 Steam 原文〕
+
+Sempre no topo e transparente: por cima de outras janelas sem atrapalhar
+Em Opções → "Tela", ligue "Janela de batalha sempre no topo" e a janela de batalha fica flutuando por cima de tudo. O botão com a seta para cima na própria janela de batalha é esse mesmo interruptor.
+No lado direito da janela de batalha tem uma barra de opacidade: é só arrastar para cima ou para baixo, dá pra baixar até 0%. Ficou transparente demais? Sem problema: passando o mouse por cima, ela fica nítida por um momento; e se não achar mesmo, clique no botão redondo no canto da tela principal para trazê-la de volta, e a opacidade volta para 100%.
+No Mac, primeiro dê um clique na janela de batalha para os botões e a imagem nítida aparecerem. Em alguns poucos PCs com Windows, a área de trabalho não aparece por trás: ao baixar a opacidade, ela só desbota para uma cor de papel.
+〔配图请见 Steam 原文〕
+
+Os botões da janela de batalha
+Clicando em "⋯", aparecem em ordem: sempre no topo (seta para cima), alto-falante (muta o jogo inteiro) e juntar (seta curva: volta para a janela principal e a batalha continua). Clicando no último da direita, "Mais botões", o de seta dupla, aparecem ainda alternar o formato (16:9 ou quadrado), os botões das páginas Fortaleza, Campanha, Heróis e Arsenal, e "Sair do jogo"; com tudo isso aberto, dá pra arrastar os quatro cantos da janela para mudar o tamanho.
+Se não quiser ouvir o som do jogo, em Opções → "Áudio" também tem "Silenciar fora de foco".
+
+As páginas de gestão também abrem em janela própria
+No canto superior direito da tela principal, embaixo das bandeiras de navegação, tem um botãozinho chamado "Abrir esta página em janela própria". Heróis, Equipe, Taverna, Academia, Códice: todas podem abrir separadas. Por exemplo, deixe a Equipe no segundo monitor e mexa na formação enquanto acompanha a batalha.
+As janelas abertas e as posições ficam salvas: na próxima vez que abrir o jogo, elas estarão no mesmo lugar. O Mercado não está ativado na demo, então essa página não aparece.
+〔配图请见 Steam 原文〕
+
+Fechar a janela principal não fecha o jogo sem querer
+Com a janela de batalha do lado de fora, apertar o × da janela principal (no Mac, a bolinha vermelha ou Cmd+Q) só minimiza a janela principal, já salva o jogo de quebra, e a batalha continua.
+Se quiser sair de verdade, use "Salvar e sair" nas Opções, ou "Sair do jogo" em "Mais botões" na janela de batalha (esse precisa de dois cliques seguidos).
+
+Se tem mais alguma coisa que você quer que eu explique ou algo que não ficou claro, pode perguntar nos comentários. Também dá para entrar no nosso Discord（https://discord.gg/uEwdWz2h62）.
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+Jogue a demo gratuita（https://store.steampowered.com/app/5257220/） | Adicione o jogo completo à sua lista de desejos（https://store.steampowered.com/app/4855890/）
