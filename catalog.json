@@ -15,28 +15,51 @@
           "url": "assets/45af03ba62d3.mp4",
           "type": "video",
           "source": "视频制作/回复评论/第一期 玩家回复篇/成片/简中横屏版_回复评论第1期_玩家回复篇.mp4",
-          "updated": "2026-10-13"
+          "updated": "2026-10-13",
+          "sourceAvailability": {
+            "source": "视频制作/回复评论/第一期 玩家回复篇/成片/简中横屏版_回复评论第1期_玩家回复篇.mp4",
+            "sha256": "c6aaaecc8e4a9eb029efdaf9c8e977aecb11780156536555a9c38131715163f8",
+            "status": "retained"
+          }
         },
         {
           "name": "简中竖屏版_回复评论第1期_玩家回复篇.mp4",
           "url": "assets/3d2eba7f9b01.mp4",
           "type": "video",
           "source": "视频制作/回复评论/第一期 玩家回复篇/成片/简中竖屏版_回复评论第1期_玩家回复篇.mp4",
-          "updated": "2026-10-13"
+          "updated": "2026-10-13",
+          "sourceAvailability": {
+            "source": "视频制作/回复评论/第一期 玩家回复篇/成片/简中竖屏版_回复评论第1期_玩家回复篇.mp4",
+            "name": "简中竖屏版_回复评论第1期_玩家回复篇.mp4",
+            "sha256": "b6664fc09cbdfc972c919cd836577b62b734e2238283a10e5b7d0154b0aca8f3",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "繁中竖屏版_回复评论第1期_玩家回复篇.mp4",
           "url": "assets/a2b151f4cc9f.mp4",
           "type": "video",
           "source": "视频制作/回复评论/第一期 玩家回复篇/成片/繁中竖屏版_回复评论第1期_玩家回复篇.mp4",
-          "updated": "2026-10-13"
+          "updated": "2026-10-13",
+          "sourceAvailability": {
+            "source": "视频制作/回复评论/第一期 玩家回复篇/成片/繁中竖屏版_回复评论第1期_玩家回复篇.mp4",
+            "name": "繁中竖屏版_回复评论第1期_玩家回复篇.mp4",
+            "sha256": "c0f71c1af74b65e80ef676a3e9a4f1cd1f504bd9c4bb49f28750e29c77d4bb6d",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "英文竖屏版_回复评论第1期_玩家回复篇.mp4",
           "url": "assets/74592cf2cdcc.mp4",
           "type": "video",
           "source": "视频制作/回复评论/第一期 玩家回复篇/成片/英文竖屏版_回复评论第1期_玩家回复篇.mp4",
-          "updated": "2026-10-13"
+          "updated": "2026-10-13",
+          "sourceAvailability": {
+            "source": "视频制作/回复评论/第一期 玩家回复篇/成片/英文竖屏版_回复评论第1期_玩家回复篇.mp4",
+            "name": "英文竖屏版_回复评论第1期_玩家回复篇.mp4",
+            "sha256": "73aa8ac16bc04c346971dae05ef45efb5140edc22929b5878824933a0e422471",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "英文配音横屏版_回复评论第1期_玩家回复篇.mp4",
@@ -50,7 +73,7 @@
       "body": "",
       "source": "视频制作/回复评论/第一期 玩家回复篇/成片/简中横屏版_回复评论第1期_玩家回复篇.mp4",
       "cover": "assets/1a209e41efff.jpg",
-      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
+      "detailNote": "网页提供压缩预览版；归档状态不代表平台发布状态。 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 3 个高码率成片。网页压缩预览和公开链接保留。",
       "duration": 237.4,
       "episode": 7,
       "links": [
@@ -92,7 +115,37 @@
       ],
       "group": "平台视频",
       "episodeLabel": "回复评论 01",
-      "publicationCheckedAt": "2026-11-13T06:17:23.105063+08:00"
+      "publicationCheckedAt": "2026-11-13T06:17:23.105063+08:00",
+      "sourceRetention": {
+        "id": "work-7",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/回复评论/第一期 玩家回复篇/成片/简中横屏版_回复评论第1期_玩家回复篇.mp4",
+          "sha256": "c6aaaecc8e4a9eb029efdaf9c8e977aecb11780156536555a9c38131715163f8",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/回复评论/第一期 玩家回复篇/成片/繁中竖屏版_回复评论第1期_玩家回复篇.mp4",
+            "name": "繁中竖屏版_回复评论第1期_玩家回复篇.mp4",
+            "sha256": "c0f71c1af74b65e80ef676a3e9a4f1cd1f504bd9c4bb49f28750e29c77d4bb6d",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/回复评论/第一期 玩家回复篇/成片/英文竖屏版_回复评论第1期_玩家回复篇.mp4",
+            "name": "英文竖屏版_回复评论第1期_玩家回复篇.mp4",
+            "sha256": "73aa8ac16bc04c346971dae05ef45efb5140edc22929b5878824933a0e422471",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/回复评论/第一期 玩家回复篇/成片/简中竖屏版_回复评论第1期_玩家回复篇.mp4",
+            "name": "简中竖屏版_回复评论第1期_玩家回复篇.mp4",
+            "sha256": "b6664fc09cbdfc972c919cd836577b62b734e2238283a10e5b7d0154b0aca8f3",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "work-12",
@@ -5959,7 +6012,12 @@
           "name": "简中横屏版_第7期_锻造篇.mp4",
           "url": "assets/forging7-preview.mp4",
           "type": "video",
-          "source": "视频制作/第七期 锻造篇/成片/简中横屏版_第7期_锻造篇.mp4"
+          "source": "视频制作/第七期 锻造篇/成片/简中横屏版_第7期_锻造篇.mp4",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第七期 锻造篇/成片/简中横屏版_第7期_锻造篇.mp4",
+            "sha256": "49ce09628a2d69175a1b0be378ad65227c2d34c9a0ee57720851d39e9e20e7bc",
+            "status": "retained"
+          }
         }
       ],
       "body": "",
@@ -6005,9 +6063,39 @@
         }
       ],
       "status": "已公开 · B站 / 小红书 / 抖音 / X / Threads",
-      "detailNote": "网页提供压缩预览；上方平台链接直达已发布作品。原始成片保留在本地。",
+      "detailNote": "网页提供压缩预览；上方平台链接直达已发布作品。 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 3 个高码率成片。网页压缩预览和公开链接保留。",
       "cover": "assets/forging7-poster.jpg",
-      "publicationCheckedAt": "2026-11-13T06:17:23.105063+08:00"
+      "publicationCheckedAt": "2026-11-13T06:17:23.105063+08:00",
+      "sourceRetention": {
+        "id": "work-7-forging",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第七期 锻造篇/成片/简中横屏版_第7期_锻造篇.mp4",
+          "sha256": "49ce09628a2d69175a1b0be378ad65227c2d34c9a0ee57720851d39e9e20e7bc",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第七期 锻造篇/成片/英文竖屏版_第7期_锻造篇.mp4",
+            "name": "英文竖屏版_第7期_锻造篇.mp4",
+            "sha256": "1f42f085160beec3945d98b5ac4dc990b9715e76fbb5a9cdbfaa5f4e07675d51",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第七期 锻造篇/成片/简中竖屏版_第7期_锻造篇.mp4",
+            "name": "简中竖屏版_第7期_锻造篇.mp4",
+            "sha256": "0566ab8980184bba20931a9038db913db36ba30a4db0e7458a36864f4d11c27e",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第七期 锻造篇/成片/繁中竖屏版_第7期_锻造篇.mp4",
+            "name": "繁中竖屏版_第7期_锻造篇.mp4",
+            "sha256": "ec40c43f80b033a7305b3794d8200cecd987da4994fbe9674914a1c02c435e24",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "work-8-heroes",
@@ -6022,7 +6110,12 @@
           "name": "简中横屏版_第8期_新英雄与守护灵篇.mp4",
           "url": "assets/episode8-preview.mp4",
           "type": "video",
-          "source": "视频制作/第八期 新英雄与守护灵篇/成片/简中横屏版_第8期_新英雄与守护灵篇.mp4"
+          "source": "视频制作/第八期 新英雄与守护灵篇/成片/简中横屏版_第8期_新英雄与守护灵篇.mp4",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第八期 新英雄与守护灵篇/成片/简中横屏版_第8期_新英雄与守护灵篇.mp4",
+            "sha256": "fd9d1a21804abe2875433b445117830a08ca8a9c0dfe02a9fc36fe5f1b653ded",
+            "status": "retained"
+          }
         }
       ],
       "body": "",
@@ -6087,10 +6180,46 @@
         }
       ],
       "status": "已公开 · B站 / YouTube / X / Threads / 小红书 / 抖音",
-      "detailNote": "六个平台的本期公开直达链接已核实；Threads绝对发布日期待核，页面播放器本轮提示无法播放。下方为压缩预览，原始五个语言与画幅版本保留在本地。",
+      "detailNote": "六个平台的本期公开直达链接已核实；Threads绝对发布日期待核，页面播放器本轮提示无法播放。下方为压缩预览 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 4 个高码率成片。网页压缩预览和公开链接保留。",
       "cover": "assets/episode8-poster.jpg",
       "duration": 291.7,
-      "publicationCheckedAt": "2026-10-19T09:58:32.774209+08:00"
+      "publicationCheckedAt": "2026-10-19T09:58:32.774209+08:00",
+      "sourceRetention": {
+        "id": "work-8-heroes",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第八期 新英雄与守护灵篇/成片/简中横屏版_第8期_新英雄与守护灵篇.mp4",
+          "sha256": "fd9d1a21804abe2875433b445117830a08ca8a9c0dfe02a9fc36fe5f1b653ded",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第八期 新英雄与守护灵篇/成片/英文竖屏版_第8期_新英雄与守护灵篇.mp4",
+            "name": "英文竖屏版_第8期_新英雄与守护灵篇.mp4",
+            "sha256": "2a2816ef9ee4399c02bdf19bcc355540e8f6934f67250fa10182c7174821fde7",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第八期 新英雄与守护灵篇/成片/英文配音横屏版_第8期_新英雄与守护灵篇.mp4",
+            "name": "英文配音横屏版_第8期_新英雄与守护灵篇.mp4",
+            "sha256": "7e93dee83afbf3e09037bd484e8752af333d86c2684560c52a425cf53b372e7a",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第八期 新英雄与守护灵篇/成片/简中竖屏版_第8期_新英雄与守护灵篇.mp4",
+            "name": "简中竖屏版_第8期_新英雄与守护灵篇.mp4",
+            "sha256": "59419bed7750bd48d57aad3ff7ae293067e4de17deaf6c5999d76bf75c15c06b",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第八期 新英雄与守护灵篇/成片/繁中竖屏版_第8期_新英雄与守护灵篇.mp4",
+            "name": "繁中竖屏版_第8期_新英雄与守护灵篇.mp4",
+            "sha256": "da5e1470998d843eab819d50a6980690280df938d80829773ae8282f3d62138b",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "short-idle-boss",
@@ -6105,7 +6234,12 @@
           "name": "简中横屏版_短片_挂着也能打爆首领.mp4",
           "url": "assets/short-idle-boss-preview.mp4",
           "type": "video",
-          "source": "视频制作/短片 挂着也能打爆首领/成片/简中横屏版_短片_挂着也能打爆首领.mp4"
+          "source": "视频制作/短片 挂着也能打爆首领/成片/简中横屏版_短片_挂着也能打爆首领.mp4",
+          "sourceAvailability": {
+            "source": "视频制作/其他/短片 挂着也能打爆首领/成片/简中横屏版_短片_挂着也能打爆首领.mp4",
+            "sha256": "0c06a22e70ade71a5ca8ab125ce92917023aac36cebb8ce525ffbb870a0d3126",
+            "status": "retained"
+          }
         }
       ],
       "body": "",
@@ -6167,10 +6301,46 @@
       ],
       "status": "已公开 · B站 / 抖音 / 小红书 / YouTube / X / Threads",
       "duration": 56.233333,
-      "detailNote": "56秒平台宣传短片，不属于开发日志期数。六平台已核实公开直达链接；Threads公开页仅显示相对时间，未取得精确时分。网页提供压缩预览，原始五种语言与画幅版本保留在项目中。",
+      "detailNote": "56秒平台宣传短片，不属于开发日志期数。六平台已核实公开直达链接；Threads公开页仅显示相对时间，未取得精确时分。网页提供压缩预览 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 4 个高码率成片。网页压缩预览和公开链接保留。",
       "cover": "assets/short-idle-boss-poster.jpg",
       "verificationNote": "2026-10-20补齐B站、抖音、小红书、X、Threads公开直达链接；YouTube沿用当日零点公开播放核实。用户自发，不修改或代发任何平台内容。",
-      "publicationCheckedAt": "2026-10-20T10:19:02.815942+08:00"
+      "publicationCheckedAt": "2026-10-20T10:19:02.815942+08:00",
+      "sourceRetention": {
+        "id": "short-idle-boss",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/其他/短片 挂着也能打爆首领/成片/简中横屏版_短片_挂着也能打爆首领.mp4",
+          "sha256": "0c06a22e70ade71a5ca8ab125ce92917023aac36cebb8ce525ffbb870a0d3126",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/其他/短片 挂着也能打爆首领/成片/英文竖屏版_短片_挂着也能打爆首领.mp4",
+            "name": "英文竖屏版_短片_挂着也能打爆首领.mp4",
+            "sha256": "e964f88db8505aed3026d9daf32cc823cd93ed2656cc961fe9ccc9db8dd023c6",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/其他/短片 挂着也能打爆首领/成片/简中竖屏版_短片_挂着也能打爆首领.mp4",
+            "name": "简中竖屏版_短片_挂着也能打爆首领.mp4",
+            "sha256": "d0a46acdfa17f731e320d51b37da22aa361ca1c72e24209f7ac9462f5ae119d8",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/其他/短片 挂着也能打爆首领/成片/繁中竖屏版_短片_挂着也能打爆首领.mp4",
+            "name": "繁中竖屏版_短片_挂着也能打爆首领.mp4",
+            "sha256": "2d82b8eac2d9e573abfe8a4f1625a8b333c87cb62b86e3b572cb19be56cd98ea",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/其他/短片 挂着也能打爆首领/成片/英文横屏版_短片_挂着也能打爆首领.mp4",
+            "name": "英文横屏版_短片_挂着也能打爆首领.mp4",
+            "sha256": "1237b07ac7954f66e02564225f0bc5c130884b334abf4db01c724595035303f9",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "episode9-demo",
@@ -6185,7 +6355,12 @@
           "name": "简中横屏版_第9期_完整Demo介绍.mp4",
           "url": "assets/episode9-preview.mp4",
           "type": "video",
-          "source": "视频制作/第九期 完整Demo介绍/成片/简中横屏版_第9期_完整Demo介绍.mp4"
+          "source": "视频制作/第九期 完整Demo介绍/成片/简中横屏版_第9期_完整Demo介绍.mp4",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第九期 完整Demo介绍/成片/简中横屏版_第9期_完整Demo介绍.mp4",
+            "sha256": "c87f7cd3d2d44617e3f4323aa2677aee9980415c02d76cba8ed53762c9734650",
+            "status": "retained"
+          }
         }
       ],
       "body": "",
@@ -6251,10 +6426,46 @@
       ],
       "status": "已公开 · YouTube / X / B站 / Threads / 小红书 / 抖音",
       "duration": 228.78,
-      "detailNote": "第九期五种语言与画幅的原始成片和各平台封面已完成；网页提供简中横屏压缩预览。六平台已发布并核实直达链接。",
+      "detailNote": "第九期五种语言与画幅的原始成片和各平台封面已完成；网页提供简中横屏压缩预览。六平台已发布并核实直达链接。 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 4 个高码率成片。网页压缩预览和公开链接保留。",
       "cover": "assets/episode9-poster.jpg",
       "verificationNote": "2026-10-21用户告知已发布；从本人公开主页、作品详情及抖音创作者中心核实六平台第九期直达链接。",
-      "publicationCheckedAt": "2026-10-21T14:00:08+08:00"
+      "publicationCheckedAt": "2026-10-21T14:00:08+08:00",
+      "sourceRetention": {
+        "id": "episode9-demo",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第九期 完整Demo介绍/成片/简中横屏版_第9期_完整Demo介绍.mp4",
+          "sha256": "c87f7cd3d2d44617e3f4323aa2677aee9980415c02d76cba8ed53762c9734650",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第九期 完整Demo介绍/成片/简中竖屏版_第9期_完整Demo介绍.mp4",
+            "name": "简中竖屏版_第9期_完整Demo介绍.mp4",
+            "sha256": "40af65b56a1a52da9570fafad67c1d752cd1041c27a4b4724e6014cf88bef0f9",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第九期 完整Demo介绍/成片/英文配音横屏版_第9期_完整Demo介绍.mp4",
+            "name": "英文配音横屏版_第9期_完整Demo介绍.mp4",
+            "sha256": "c32413b70fc93f15f690cd0ce348263d1dc1439ebe2456d6f389fe515d73d1b7",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第九期 完整Demo介绍/成片/英文竖屏版_第9期_完整Demo介绍.mp4",
+            "name": "英文竖屏版_第9期_完整Demo介绍.mp4",
+            "sha256": "59a96e74196fc0a9b6dbe11524b0d4a6d2d2ebe490a549b4d4e824724d79d533",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第九期 完整Demo介绍/成片/繁中竖屏版_第9期_完整Demo介绍.mp4",
+            "name": "繁中竖屏版_第9期_完整Demo介绍.mp4",
+            "sha256": "dce797773b83ed119a16b29967afe35bd944663c7ed939d54435839dd3ff4ac8",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "episode10-demo-update",
@@ -6269,7 +6480,12 @@
           "name": "简中横屏版_第10期_Demo更新篇.mp4",
           "url": "assets/episode10-preview.mp4",
           "type": "video",
-          "source": "视频制作/第十期 Demo更新篇/成片/简中横屏版_第10期_Demo更新篇.mp4"
+          "source": "视频制作/第十期 Demo更新篇/成片/简中横屏版_第10期_Demo更新篇.mp4",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第十期 Demo更新篇/成片/简中横屏版_第10期_Demo更新篇.mp4",
+            "sha256": "d4179c4d5a81677908983bf04164f11a205c3df01117c6863c414e0ca6398b3a",
+            "status": "retained"
+          }
         }
       ],
       "cover": "assets/episode10-poster.jpg",
@@ -6336,8 +6552,44 @@
       ],
       "status": "已公开 · B站 / YouTube / X / 抖音 / 小红书 / Threads",
       "duration": 218.9,
-      "detailNote": "第十期五种语言与画幅的原始成片和各平台封面已完成；网页提供简中横屏压缩预览。六平台已发布并核实直达链接（2026-10-23 复核）。",
-      "publicationCheckedAt": "2026-10-23T12:18:51.273093+08:00"
+      "detailNote": "第十期五种语言与画幅的原始成片和各平台封面已完成；网页提供简中横屏压缩预览。六平台已发布并核实直达链接（2026-10-23 复核）。 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 4 个高码率成片。网页压缩预览和公开链接保留。",
+      "publicationCheckedAt": "2026-10-23T12:18:51.273093+08:00",
+      "sourceRetention": {
+        "id": "episode10-demo-update",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第十期 Demo更新篇/成片/简中横屏版_第10期_Demo更新篇.mp4",
+          "sha256": "d4179c4d5a81677908983bf04164f11a205c3df01117c6863c414e0ca6398b3a",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第十期 Demo更新篇/成片/简中竖屏版_第10期_Demo更新篇.mp4",
+            "name": "简中竖屏版_第10期_Demo更新篇.mp4",
+            "sha256": "366215955b46c583fc372b64527682f601b5872e3ca82f34039af066d8a84952",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十期 Demo更新篇/成片/英文配音横屏版_第10期_Demo更新篇.mp4",
+            "name": "英文配音横屏版_第10期_Demo更新篇.mp4",
+            "sha256": "04e816764248325df3115b731f0411874d4f57bab71a58cce2292700c4c743d6",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十期 Demo更新篇/成片/英文竖屏版_第10期_Demo更新篇.mp4",
+            "name": "英文竖屏版_第10期_Demo更新篇.mp4",
+            "sha256": "a011ae986dcb1fd72ae33dfe1fd9277796607ec913575bd7cfcedad1d039f636",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十期 Demo更新篇/成片/繁中竖屏版_第10期_Demo更新篇.mp4",
+            "name": "繁中竖屏版_第10期_Demo更新篇.mp4",
+            "sha256": "0ab7c63039ec2a5bbde52f5cc38f228b0cc0cb444dfa3b46a2a146aa525f91f7",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "episode11-update",
@@ -6352,7 +6604,12 @@
           "name": "简中横屏版_第11期_更新篇.mp4",
           "url": "assets/episode11-preview.mp4",
           "type": "video",
-          "source": "视频制作/第十一期 更新篇/成片/简中横屏版_第11期_更新篇.mp4"
+          "source": "视频制作/第十一期 更新篇/成片/简中横屏版_第11期_更新篇.mp4",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第十一期 更新篇/成片/简中横屏版_第11期_更新篇.mp4",
+            "sha256": "cbbb9d77195bd7d5fc8cd85b6ce260e7d5a81d0628fdf19215c51d4c5807edbe",
+            "status": "retained"
+          }
         }
       ],
       "cover": "assets/episode11-poster.jpg",
@@ -6419,9 +6676,45 @@
       ],
       "status": "已公开 · YouTube / X / B站 / 抖音 / 小红书 / Threads",
       "duration": 165.2,
-      "detailNote": "简中横屏压缩预览与第十一期已完成封面。六平台公开作品均已核实并附直达链接。",
+      "detailNote": "简中横屏压缩预览与第十一期已完成封面。六平台公开作品均已核实并附直达链接。 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 4 个高码率成片。网页压缩预览和公开链接保留。",
       "reviewNote": "2026-10-24：B站8个标签chip、抖音5个正式mention、小红书5个正式topic、YouTube8个tag chip、X3个识别为蓝色的hashtag、Threads已从候选中点选獨立遊戲。YouTube简介不含外链；小红书正文及话题不含Steam。横封面保留原图，4:3裁切有文字不全提示，适配生成被图像工具拒绝。",
-      "publicationCheckedAt": "2026-10-24T15:38:24+08:00"
+      "publicationCheckedAt": "2026-10-24T15:38:24+08:00",
+      "sourceRetention": {
+        "id": "episode11-update",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第十一期 更新篇/成片/简中横屏版_第11期_更新篇.mp4",
+          "sha256": "cbbb9d77195bd7d5fc8cd85b6ce260e7d5a81d0628fdf19215c51d4c5807edbe",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第十一期 更新篇/成片/简中竖屏版_第11期_更新篇.mp4",
+            "name": "简中竖屏版_第11期_更新篇.mp4",
+            "sha256": "4ba1092c08ce13e03e71bb6a52e6b528ac87e09023740b4f2c7fdf5b9d5bd224",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十一期 更新篇/成片/繁中竖屏版_第11期_更新篇.mp4",
+            "name": "繁中竖屏版_第11期_更新篇.mp4",
+            "sha256": "a56851f0614b8f700e4bdb830f01f3e7bc862ab5c054d17ad2b72005fef65d56",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十一期 更新篇/成片/英文竖屏版_第11期_更新篇.mp4",
+            "name": "英文竖屏版_第11期_更新篇.mp4",
+            "sha256": "d68c3af91c6b823a39296d42f3575819f9a0e4743ee8be559c665b55a9d03291",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十一期 更新篇/成片/英文配音横屏版_第11期_更新篇.mp4",
+            "name": "英文配音横屏版_第11期_更新篇.mp4",
+            "sha256": "0f5d4d5cc62e6c2f4c645f522eae9cedab747aafb776a2b86e5d4b6320fd927d",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "episode12-changes",
@@ -6437,7 +6730,12 @@
           "url": "assets/episode12-preview-d02f492e-small.mp4",
           "type": "video",
           "source": "视频制作/第十二期 改动篇/成片/简中横屏版_第12期_改动篇.mp4",
-          "sourceSha256": "d02f492ebd8268589465385b4aea9daf58c882196b0096917892f694479ee8d0"
+          "sourceSha256": "d02f492ebd8268589465385b4aea9daf58c882196b0096917892f694479ee8d0",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第十二期 改动篇/成片/简中横屏版_第12期_改动篇.mp4",
+            "sha256": "d02f492ebd8268589465385b4aea9daf58c882196b0096917892f694479ee8d0",
+            "status": "retained"
+          }
         }
       ],
       "cover": "assets/ea9a23969b57.jpg",
@@ -6488,7 +6786,37 @@
       ],
       "status": "已公开 · X / YouTube / B站 / 抖音 / 小红书",
       "duration": 254.0,
-      "detailNote": "网页提供10月28日新版简中横屏成片压缩预览；五种语言与画幅的原始成片及各平台封面保留在项目中。视频介绍的是主线开发中的内容，需等下次更新。"
+      "detailNote": "网页提供10月28日新版简中横屏成片压缩预览；各平台封面保留在项目中。视频介绍的是主线开发中的内容，需等下次更新。 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 3 个高码率成片。网页压缩预览和公开链接保留。",
+      "sourceRetention": {
+        "id": "episode12-changes",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第十二期 改动篇/成片/简中横屏版_第12期_改动篇.mp4",
+          "sha256": "d02f492ebd8268589465385b4aea9daf58c882196b0096917892f694479ee8d0",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第十二期 改动篇/成片/简中竖屏版_第12期_改动篇.mp4",
+            "name": "简中竖屏版_第12期_改动篇.mp4",
+            "sha256": "676e5a6e3d86fb9f9595829ce15a083a4af268fd59e857ce91aa4d63992484d4",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十二期 改动篇/成片/英文配音横屏版_第12期_改动篇.mp4",
+            "name": "英文配音横屏版_第12期_改动篇.mp4",
+            "sha256": "9598d3bfeb0664a1d54d4ce85b02097b57cf5307ad5333673eecfc91de357438",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十二期 改动篇/成片/英文竖屏版_第12期_改动篇.mp4",
+            "name": "英文竖屏版_第12期_改动篇.mp4",
+            "sha256": "ccddd6e659d6064e01c72fa41719698cb317dccb0702e9d320ef9d8a28ac5fa6",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "promo-battle-caravan",
@@ -6554,7 +6882,12 @@
           "url": "assets/episode13-preview-20261031.mp4",
           "type": "video",
           "source": "视频制作/第十三期 更新篇二/成片/简中横屏版_第13期_更新篇二.mp4",
-          "sourceSha256": "2993f5ccfb3fa269ffa146241736557ff6b4ac4089382f6ec2bb22ba13166a6a"
+          "sourceSha256": "2993f5ccfb3fa269ffa146241736557ff6b4ac4089382f6ec2bb22ba13166a6a",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第十三期 更新篇二/成片/简中横屏版_第13期_更新篇二.mp4",
+            "sha256": "2993f5ccfb3fa269ffa146241736557ff6b4ac4089382f6ec2bb22ba13166a6a",
+            "status": "retained"
+          }
         }
       ],
       "cover": "assets/episode13-cover-20261031.jpg",
@@ -6609,7 +6942,43 @@
       ],
       "status": "已公开 · B站 / YouTube / X / Threads / 抖音 / 小红书",
       "duration": 223,
-      "detailNote": "第十三期简中横屏压缩预览与定稿封面；仅列已核实的公开平台链接。"
+      "detailNote": "第十三期简中横屏压缩预览与定稿封面；仅列已核实的公开平台链接。 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 4 个高码率成片。网页压缩预览和公开链接保留。",
+      "sourceRetention": {
+        "id": "episode13-update2",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第十三期 更新篇二/成片/简中横屏版_第13期_更新篇二.mp4",
+          "sha256": "2993f5ccfb3fa269ffa146241736557ff6b4ac4089382f6ec2bb22ba13166a6a",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第十三期 更新篇二/成片/英文竖屏版_第13期_更新篇二.mp4",
+            "name": "英文竖屏版_第13期_更新篇二.mp4",
+            "sha256": "14a0ee9421a97b9575bf4e8212ee1549393adef40c1a77b4dfa4c6c3b16cb62b",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十三期 更新篇二/成片/英文配音横屏版_第13期_更新篇二.mp4",
+            "name": "英文配音横屏版_第13期_更新篇二.mp4",
+            "sha256": "f3956889734dd5578d7f0a98eaa2fc7eee98bba299da28ac8068b1fd2b9b14af",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十三期 更新篇二/成片/简中竖屏版_第13期_更新篇二.mp4",
+            "name": "简中竖屏版_第13期_更新篇二.mp4",
+            "sha256": "f8afc2d24a9f4bfa8cf1bb31879053af7bfd7c038465dff9f2659628825723f5",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十三期 更新篇二/成片/繁中竖屏版_第13期_更新篇二.mp4",
+            "name": "繁中竖屏版_第13期_更新篇二.mp4",
+            "sha256": "5c01f808edecc430a04dc9f3fa906f79cee4913e423ce7e713d0db076da63d53",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "steam-short-trailer-20261102",
@@ -6667,7 +7036,12 @@
           "url": "assets/episode14-preview-20261105.mp4",
           "type": "video",
           "source": "视频制作/平台視頻/第十四期 Demo介绍/成片/简中横屏版_第14期_Demo介绍.mp4",
-          "sourceSha256": "e2e1084ee69b64fd0f43755ed5a74bac321cf5f4a89d06d702bcc33e003c68d7"
+          "sourceSha256": "e2e1084ee69b64fd0f43755ed5a74bac321cf5f4a89d06d702bcc33e003c68d7",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第十四期 Demo介绍/成片/简中横屏版_第14期_Demo介绍.mp4",
+            "sha256": "e2e1084ee69b64fd0f43755ed5a74bac321cf5f4a89d06d702bcc33e003c68d7",
+            "status": "retained"
+          }
         }
       ],
       "cover": "assets/episode14-cover-20261105.jpg",
@@ -6721,7 +7095,44 @@
         }
       ],
       "status": "已公开 · B站 / 抖音 / 小红书 / YouTube / X / Threads",
-      "duration": 71.471
+      "duration": 71.471,
+      "sourceRetention": {
+        "id": "episode14-demo",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第十四期 Demo介绍/成片/简中横屏版_第14期_Demo介绍.mp4",
+          "sha256": "e2e1084ee69b64fd0f43755ed5a74bac321cf5f4a89d06d702bcc33e003c68d7",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第十四期 Demo介绍/成片/英文竖屏版_第14期_Demo介绍.mp4",
+            "name": "英文竖屏版_第14期_Demo介绍.mp4",
+            "sha256": "e066b8b539a0f422a551bcb3591cac6fcffd9a5262713cc4beb73ed10e49ed84",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十四期 Demo介绍/成片/简中竖屏版_第14期_Demo介绍.mp4",
+            "name": "简中竖屏版_第14期_Demo介绍.mp4",
+            "sha256": "0436062a31f007923860ad7e6c395cad331976978f246179fad9502b7a751114",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十四期 Demo介绍/成片/繁中竖屏版_第14期_Demo介绍.mp4",
+            "name": "繁中竖屏版_第14期_Demo介绍.mp4",
+            "sha256": "471ef275cd64826e7748382139b37756356a8e2d3ebe745bac34c78bc52c5839",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十四期 Demo介绍/成片/英文配音横屏版_第14期_Demo介绍.mp4",
+            "name": "英文配音横屏版_第14期_Demo介绍.mp4",
+            "sha256": "f920bc08c339896c0d6a0e3848b368a4981c3cf07450ef35a23ff27f67f7fbdf",
+            "status": "removed_after_publication"
+          }
+        ]
+      },
+      "detailNote": "本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 4 个高码率成片。网页压缩预览和公开链接保留。"
     },
     {
       "id": "steam-main-trailer-v26-20261030",
@@ -7274,7 +7685,12 @@
           "url": "assets/ai-race-800-preview-20261110.mp4",
           "type": "video",
           "source": "视频制作/其他/AI比赛_第800关/成片/简中横屏版_AI比赛_第800关.mp4",
-          "sourceSha256": "9ae06cfea57fa6ad5fbb6640e5c8713b2fbaad23c31cb26a709bd9c77ef6922c"
+          "sourceSha256": "9ae06cfea57fa6ad5fbb6640e5c8713b2fbaad23c31cb26a709bd9c77ef6922c",
+          "sourceAvailability": {
+            "source": "视频制作/其他/AI比赛_第800关/成片/简中横屏版_AI比赛_第800关.mp4",
+            "sha256": "9ae06cfea57fa6ad5fbb6640e5c8713b2fbaad23c31cb26a709bd9c77ef6922c",
+            "status": "retained"
+          }
         }
       ],
       "cover": "assets/ai-race-800-cover-0-20261110.jpg",
@@ -7325,9 +7741,45 @@
       ],
       "status": "已公开 · B站 / YouTube / X / 抖音 / 小红书 / Threads",
       "source": "视频制作/其他/AI比赛_第800关",
-      "detailNote": "AI对决独立归类。比赛副本第800关经强化；免费Demo中的普通关卡未作同样强化。",
+      "detailNote": "AI对决独立归类。比赛副本第800关经强化；免费Demo中的普通关卡未作同样强化。 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 4 个高码率成片。网页压缩预览和公开链接保留。",
       "verificationNote": "五平台最新列表未见新增，抖音列表受限；不声称六平台均无更新。AI比赛独立分类，已有六个真实公开链接不改。只修本地过时核查状态，不构建或部署。",
-      "publicationCheckedAt": "2026-11-12T06:10:40.572191+08:00"
+      "publicationCheckedAt": "2026-11-12T06:10:40.572191+08:00",
+      "sourceRetention": {
+        "id": "ai-race-800",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/其他/AI比赛_第800关/成片/简中横屏版_AI比赛_第800关.mp4",
+          "sha256": "9ae06cfea57fa6ad5fbb6640e5c8713b2fbaad23c31cb26a709bd9c77ef6922c",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/其他/AI比赛_第800关/成片/繁中竖屏版_AI比赛_第800关.mp4",
+            "name": "繁中竖屏版_AI比赛_第800关.mp4",
+            "sha256": "a5c68035baa09874e6855e0ef5c1097e5526877f0188904eb61312d41a8f0a00",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/其他/AI比赛_第800关/成片/简中竖屏版_AI比赛_第800关.mp4",
+            "name": "简中竖屏版_AI比赛_第800关.mp4",
+            "sha256": "c1cfed8c84ca4977f3de8f60762580900f9cce2a5805bef6a3a76f6b75af6db4",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/其他/AI比赛_第800关/成片/英文竖屏版_AI比赛_第800关.mp4",
+            "name": "英文竖屏版_AI比赛_第800关.mp4",
+            "sha256": "fa06e9031f9e643825b304dade9d516c69abdac958afe178c2e92d238dd95f28",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/其他/AI比赛_第800关/成片/英文配音横屏版_AI比赛_第800关.mp4",
+            "name": "英文配音横屏版_AI比赛_第800关.mp4",
+            "sha256": "7860e31c2497e8a0954b8a94cd5efe96e16a8056a338bf823b06e1761f4e6062",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "ai-race-800-visuals",
@@ -7871,14 +8323,56 @@
           "url": "assets/ep15-a282cc8b9884.mp4",
           "type": "video",
           "source": "视频制作/平台視頻/第十五期 开发版介绍/成片/简中横屏版_第15期_开发版新改.mp4",
-          "sha256": "a282cc8b98849d18c306191bd3aa5da5598785db95d62f6e3a1e45a1d0c9f92d"
+          "sha256": "a282cc8b98849d18c306191bd3aa5da5598785db95d62f6e3a1e45a1d0c9f92d",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第十五期 开发版介绍/成片/简中横屏版_第15期_开发版新改.mp4",
+            "sha256": "a282cc8b98849d18c306191bd3aa5da5598785db95d62f6e3a1e45a1d0c9f92d",
+            "status": "retained"
+          }
         }
       ],
       "platformLinkKey": "15",
       "pending": [
         "第十五期X、Threads、小红书、抖音本人主页与候选详情：Chrome等待远程调试授权、IAB连接超时、Safari连接超时，公开网页备用读取也受限；下一轮继续，不推定未发布。"
       ],
-      "publicationCheckedAt": "2026-11-13T06:17:23.105063+08:00"
+      "publicationCheckedAt": "2026-11-13T06:17:23.105063+08:00",
+      "sourceRetention": {
+        "id": "episode15-dev-update-20261112",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第十五期 开发版介绍/成片/简中横屏版_第15期_开发版新改.mp4",
+          "sha256": "a282cc8b98849d18c306191bd3aa5da5598785db95d62f6e3a1e45a1d0c9f92d",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第十五期 开发版介绍/成片/英文竖屏版_第15期_开发版新改.mp4",
+            "name": "英文竖屏版_第15期_开发版新改.mp4",
+            "sha256": "27eb00197e556075ebaa29a3663d09e9602947cb61f5359d3288f8382f933317",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十五期 开发版介绍/成片/英文配音横屏版_第15期_开发版新改.mp4",
+            "name": "英文配音横屏版_第15期_开发版新改.mp4",
+            "sha256": "5e172aad55e91513fc1f262973ced4de4e5b02d93178528ca9e14500ead82a7e",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十五期 开发版介绍/成片/繁中竖屏版_第15期_开发版新改.mp4",
+            "name": "繁中竖屏版_第15期_开发版新改.mp4",
+            "sha256": "df1347dc463fe1df89feaac82ff0ecb1b2a47b88e95f5e47e8879c26b9d9650f",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十五期 开发版介绍/成片/简中竖屏版_第15期_开发版新改.mp4",
+            "name": "简中竖屏版_第15期_开发版新改.mp4",
+            "sha256": "f1e2f95222b65854288be56c4f238de763285ec3ab33d6a20eca194f1ba47f93",
+            "status": "removed_after_publication"
+          }
+        ]
+      },
+      "detailNote": "本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 4 个高码率成片。网页压缩预览和公开链接保留。"
     },
     {
       "id": "steam-community-group-20261112",
@@ -7923,7 +8417,12 @@
           "type": "video",
           "url": "assets/ep16-b0f4742827bb.mp4",
           "source": "视频制作/平台視頻/第十六期 阵容攻略/成片/简中横屏版_第16期_阵容攻略.mp4",
-          "sha256": "b0f4742827bbe82982bd94a1ab57095333f5e94731bb792b36aafbf98a373547"
+          "sha256": "b0f4742827bbe82982bd94a1ab57095333f5e94731bb792b36aafbf98a373547",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第十六期 阵容攻略/成片/简中横屏版_第16期_阵容攻略.mp4",
+            "sha256": "b0f4742827bbe82982bd94a1ab57095333f5e94731bb792b36aafbf98a373547",
+            "status": "retained"
+          }
         }
       ],
       "links": [
@@ -7976,7 +8475,44 @@
           "source": "2026-11-15 Chrome专用窗口只读核实。本人wtty2252026主页最新及独立详情：開發日誌16，十個1費；仅显示11小時前，绝对日期待核。"
         }
       ],
-      "platformLinkKey": "16"
+      "platformLinkKey": "16",
+      "sourceRetention": {
+        "id": "episode16-lineup-guide-20261113",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第十六期 阵容攻略/成片/简中横屏版_第16期_阵容攻略.mp4",
+          "sha256": "b0f4742827bbe82982bd94a1ab57095333f5e94731bb792b36aafbf98a373547",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第十六期 阵容攻略/成片/英文竖屏版_第16期_阵容攻略.mp4",
+            "name": "英文竖屏版_第16期_阵容攻略.mp4",
+            "sha256": "b26e60bec4d445684409e8b6e2e000e15cd98dcb90da7e1c49bbcff27bed5b17",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十六期 阵容攻略/成片/英文配音横屏版_第16期_阵容攻略.mp4",
+            "name": "英文配音横屏版_第16期_阵容攻略.mp4",
+            "sha256": "2fe1854b49f1385ba0f10c301699ac18ea39f21f63b4f3ceecf1e87abb1ac57b",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十六期 阵容攻略/成片/简中竖屏版_第16期_阵容攻略.mp4",
+            "name": "简中竖屏版_第16期_阵容攻略.mp4",
+            "sha256": "628f3cce671b3c0c48db024a204d719426e1ec477f70d92167fb98c374edcb57",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第十六期 阵容攻略/成片/繁中竖屏版_第16期_阵容攻略.mp4",
+            "name": "繁中竖屏版_第16期_阵容攻略.mp4",
+            "sha256": "0be35d14d2f56f46c1c261d3f229272a1cf864fac1b6d9da62e055147bb387cb",
+            "status": "removed_after_publication"
+          }
+        ]
+      },
+      "detailNote": "本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 4 个高码率成片。网页压缩预览和公开链接保留。"
     },
     {
       "id": "steam-covers-restored-20261016",
@@ -11329,35 +11865,58 @@
           "url": "assets/dfd17145a6d4.mp4",
           "type": "video",
           "source": "视频制作/第一期 英雄与装备介绍/成片/简中横屏版_第1期_英雄与装备介绍.mp4",
-          "updated": "2026-10-01"
+          "updated": "2026-10-01",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第一期 英雄与装备介绍/成片/简中横屏版_第1期_英雄与装备介绍.mp4",
+            "sha256": "1a8ad6e88c321ede6d36e9ac7159a6c32b8d46812af540fbef867c0854b0fa7c",
+            "status": "retained"
+          }
         },
         {
           "name": "简中竖屏版_第1期_英雄与装备介绍.mp4",
           "url": "assets/89b6f41c80cd.mp4",
           "type": "video",
           "source": "视频制作/第一期 英雄与装备介绍/成片/简中竖屏版_第1期_英雄与装备介绍.mp4",
-          "updated": "2026-10-01"
+          "updated": "2026-10-01",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第一期 英雄与装备介绍/成片/简中竖屏版_第1期_英雄与装备介绍.mp4",
+            "name": "简中竖屏版_第1期_英雄与装备介绍.mp4",
+            "sha256": "c02f9c0e53207b0a1451ef4ef30bb4726447d94ac9393e80298b466bfa43bb61",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "英文横屏版_第1期_英雄与装备介绍.mp4",
           "url": "assets/d0443065745d.mp4",
           "type": "video",
           "source": "视频制作/第一期 英雄与装备介绍/成片/英文横屏版_第1期_英雄与装备介绍.mp4",
-          "updated": "2026-10-01"
+          "updated": "2026-10-01",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第一期 英雄与装备介绍/成片/英文横屏版_第1期_英雄与装备介绍.mp4",
+            "name": "英文横屏版_第1期_英雄与装备介绍.mp4",
+            "sha256": "3ab5255878f81a46b7dad837576ac8f8b16c8f19890bcd6f2742f20ab8f6c5e5",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "英文竖屏版_第1期_英雄与装备介绍.mp4",
           "url": "assets/362271d45c3e.mp4",
           "type": "video",
           "source": "视频制作/第一期 英雄与装备介绍/成片/英文竖屏版_第1期_英雄与装备介绍.mp4",
-          "updated": "2026-10-07"
+          "updated": "2026-10-07",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第一期 英雄与装备介绍/成片/英文竖屏版_第1期_英雄与装备介绍.mp4",
+            "name": "英文竖屏版_第1期_英雄与装备介绍.mp4",
+            "sha256": "480ab2d9970b8a118703991598a71270134b344a34871adb96e82bb2d5224134",
+            "status": "removed_after_publication"
+          }
         }
       ],
       "status": "已公开 · B站 / YouTube / X / Threads / 抖音 / 小红书",
       "body": "",
       "source": "视频制作/第一期 英雄与装备介绍/成片/简中横屏版_第1期_英雄与装备介绍.mp4",
       "cover": "assets/f96eaa6b538c.jpg",
-      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
+      "detailNote": "网页提供压缩预览版；归档状态不代表平台发布状态。 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 3 个高码率成片。网页压缩预览和公开链接保留。",
       "duration": 297.4,
       "episode": 1,
       "links": [
@@ -11404,7 +11963,37 @@
           "source": "2026-10-13 账号公开作品页及创作中心核对"
         }
       ],
-      "group": "平台视频"
+      "group": "平台视频",
+      "sourceRetention": {
+        "id": "work-1",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第一期 英雄与装备介绍/成片/简中横屏版_第1期_英雄与装备介绍.mp4",
+          "sha256": "1a8ad6e88c321ede6d36e9ac7159a6c32b8d46812af540fbef867c0854b0fa7c",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第一期 英雄与装备介绍/成片/英文横屏版_第1期_英雄与装备介绍.mp4",
+            "name": "英文横屏版_第1期_英雄与装备介绍.mp4",
+            "sha256": "3ab5255878f81a46b7dad837576ac8f8b16c8f19890bcd6f2742f20ab8f6c5e5",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第一期 英雄与装备介绍/成片/简中竖屏版_第1期_英雄与装备介绍.mp4",
+            "name": "简中竖屏版_第1期_英雄与装备介绍.mp4",
+            "sha256": "c02f9c0e53207b0a1451ef4ef30bb4726447d94ac9393e80298b466bfa43bb61",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第一期 英雄与装备介绍/成片/英文竖屏版_第1期_英雄与装备介绍.mp4",
+            "name": "英文竖屏版_第1期_英雄与装备介绍.mp4",
+            "sha256": "480ab2d9970b8a118703991598a71270134b344a34871adb96e82bb2d5224134",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "work-2",
@@ -11419,49 +12008,84 @@
           "url": "assets/2429561a6a05.mp4",
           "type": "video",
           "source": "视频制作/第二期 站位与配队/成片/简中横屏版_第2期_站位与配队.mp4",
-          "updated": "2026-10-03"
+          "updated": "2026-10-03",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第二期 站位与配队/成片/简中横屏版_第2期_站位与配队.mp4",
+            "sha256": "e5571c974914048f08a17cde208df8202c5fcf2e0c93f9234c8cb33b86906873",
+            "status": "retained"
+          }
         },
         {
           "name": "简中竖屏版_第2期_站位与配队.mp4",
           "url": "assets/d4f2a3802883.mp4",
           "type": "video",
           "source": "视频制作/第二期 站位与配队/成片/简中竖屏版_第2期_站位与配队.mp4",
-          "updated": "2026-10-03"
+          "updated": "2026-10-03",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第二期 站位与配队/成片/简中竖屏版_第2期_站位与配队.mp4",
+            "name": "简中竖屏版_第2期_站位与配队.mp4",
+            "sha256": "ecd2209c5c77e624a807b088bff64114e3ea3b3c88579e5186c6b72fa7e9f98b",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "繁中竖屏版_第2期_站位与配队.mp4",
           "url": "assets/dbbb32606a75.mp4",
           "type": "video",
           "source": "视频制作/第二期 站位与配队/成片/繁中竖屏版_第2期_站位与配队.mp4",
-          "updated": "2026-10-03"
+          "updated": "2026-10-03",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第二期 站位与配队/成片/繁中竖屏版_第2期_站位与配队.mp4",
+            "name": "繁中竖屏版_第2期_站位与配队.mp4",
+            "sha256": "3feabe944d6bef661e82c75990b9690d2e1b8211e7ee21ac736ab8b550502170",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "英文横屏版_第2期_站位与配队.mp4",
           "url": "assets/e27452d901d9.mp4",
           "type": "video",
           "source": "视频制作/第二期 站位与配队/成片/英文横屏版_第2期_站位与配队.mp4",
-          "updated": "2026-10-03"
+          "updated": "2026-10-03",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第二期 站位与配队/成片/英文横屏版_第2期_站位与配队.mp4",
+            "name": "英文横屏版_第2期_站位与配队.mp4",
+            "sha256": "2a8bf1eea1e0528dc4bc6d39e6553f23743bd249f85dd3f65b02020a83f80957",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "英文竖屏版_第2期_站位与配队.mp4",
           "url": "assets/157581e471be.mp4",
           "type": "video",
           "source": "视频制作/第二期 站位与配队/成片/英文竖屏版_第2期_站位与配队.mp4",
-          "updated": "2026-10-07"
+          "updated": "2026-10-07",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第二期 站位与配队/成片/英文竖屏版_第2期_站位与配队.mp4",
+            "name": "英文竖屏版_第2期_站位与配队.mp4",
+            "sha256": "28c173cdc5cb2b6d3df355adc36986427a7ccf22d9d87d507004387f736de97c",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "英文配音横屏版_第2期_站位与配队.mp4",
           "url": "assets/61086cd3de69.mp4",
           "type": "video",
           "source": "视频制作/第二期 站位与配队/成片/英文配音横屏版_第2期_站位与配队.mp4",
-          "updated": "2026-10-09"
+          "updated": "2026-10-09",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第二期 站位与配队/成片/英文配音横屏版_第2期_站位与配队.mp4",
+            "name": "英文配音横屏版_第2期_站位与配队.mp4",
+            "sha256": "9000b73189b34cc5d63ba218681d833798c199fd69be26e43b4e6c91f95bc53b",
+            "status": "removed_after_publication"
+          }
         }
       ],
       "status": "已公开 · B站 / YouTube / X / Threads / 抖音 / 小红书",
       "body": "",
       "source": "视频制作/第二期 站位与配队/成片/简中横屏版_第2期_站位与配队.mp4",
       "cover": "assets/dce845fa1217.jpg",
-      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
+      "detailNote": "网页提供压缩预览版；归档状态不代表平台发布状态。 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 5 个高码率成片。网页压缩预览和公开链接保留。",
       "duration": 240.8,
       "episode": 2,
       "links": [
@@ -11509,7 +12133,49 @@
         }
       ],
       "group": "平台视频",
-      "publicationCheckedAt": "2026-10-24T15:38:24+08:00"
+      "publicationCheckedAt": "2026-10-24T15:38:24+08:00",
+      "sourceRetention": {
+        "id": "work-2",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第二期 站位与配队/成片/简中横屏版_第2期_站位与配队.mp4",
+          "sha256": "e5571c974914048f08a17cde208df8202c5fcf2e0c93f9234c8cb33b86906873",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第二期 站位与配队/成片/简中竖屏版_第2期_站位与配队.mp4",
+            "name": "简中竖屏版_第2期_站位与配队.mp4",
+            "sha256": "ecd2209c5c77e624a807b088bff64114e3ea3b3c88579e5186c6b72fa7e9f98b",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第二期 站位与配队/成片/繁中竖屏版_第2期_站位与配队.mp4",
+            "name": "繁中竖屏版_第2期_站位与配队.mp4",
+            "sha256": "3feabe944d6bef661e82c75990b9690d2e1b8211e7ee21ac736ab8b550502170",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第二期 站位与配队/成片/英文配音横屏版_第2期_站位与配队.mp4",
+            "name": "英文配音横屏版_第2期_站位与配队.mp4",
+            "sha256": "9000b73189b34cc5d63ba218681d833798c199fd69be26e43b4e6c91f95bc53b",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第二期 站位与配队/成片/英文横屏版_第2期_站位与配队.mp4",
+            "name": "英文横屏版_第2期_站位与配队.mp4",
+            "sha256": "2a8bf1eea1e0528dc4bc6d39e6553f23743bd249f85dd3f65b02020a83f80957",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第二期 站位与配队/成片/英文竖屏版_第2期_站位与配队.mp4",
+            "name": "英文竖屏版_第2期_站位与配队.mp4",
+            "sha256": "28c173cdc5cb2b6d3df355adc36986427a7ccf22d9d87d507004387f736de97c",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "work-3",
@@ -11524,35 +12190,58 @@
           "url": "assets/4214b81aeb22.mp4",
           "type": "video",
           "source": "视频制作/第三期 挂机篇/成片/简中横屏版_第3期_挂机篇.mp4",
-          "updated": "2026-10-03"
+          "updated": "2026-10-03",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第三期 挂机篇/成片/简中横屏版_第3期_挂机篇.mp4",
+            "sha256": "293f1e5560f9966177a1b29af83719e62d7abda164cedb4fd5d65c45aa2bd484",
+            "status": "retained"
+          }
         },
         {
           "name": "简中竖屏版_第3期_挂机篇.mp4",
           "url": "assets/01b3dadd1664.mp4",
           "type": "video",
           "source": "视频制作/第三期 挂机篇/成片/简中竖屏版_第3期_挂机篇.mp4",
-          "updated": "2026-10-03"
+          "updated": "2026-10-03",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第三期 挂机篇/成片/简中竖屏版_第3期_挂机篇.mp4",
+            "name": "简中竖屏版_第3期_挂机篇.mp4",
+            "sha256": "4064847c9d3f559e3c41af695363f12b9c3c33fa16d32d257c3fc7ad90a6a5c1",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "繁中竖屏版_第3期_挂机篇.mp4",
           "url": "assets/e9361fa03ab0.mp4",
           "type": "video",
           "source": "视频制作/第三期 挂机篇/成片/繁中竖屏版_第3期_挂机篇.mp4",
-          "updated": "2026-10-03"
+          "updated": "2026-10-03",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第三期 挂机篇/成片/繁中竖屏版_第3期_挂机篇.mp4",
+            "name": "繁中竖屏版_第3期_挂机篇.mp4",
+            "sha256": "59317fd7cbd5bd2a0b1911414a7261793211ea36feade8c62634fa2b63de4fab",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "英文竖屏版_第3期_挂机篇.mp4",
           "url": "assets/fc0578034303.mp4",
           "type": "video",
           "source": "视频制作/第三期 挂机篇/成片/英文竖屏版_第3期_挂机篇.mp4",
-          "updated": "2026-10-07"
+          "updated": "2026-10-07",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第三期 挂机篇/成片/英文竖屏版_第3期_挂机篇.mp4",
+            "name": "英文竖屏版_第3期_挂机篇.mp4",
+            "sha256": "66a32aa311320d4801583ddc0c5baa7a8d2b0ca4aa7b8c683d563136f8649dec",
+            "status": "removed_after_publication"
+          }
         }
       ],
       "status": "已公开 · B站 / X / Threads / 抖音 / 小红书 / YouTube",
       "body": "",
       "source": "视频制作/第三期 挂机篇/成片/简中横屏版_第3期_挂机篇.mp4",
       "cover": "assets/683ed0712d7b.jpg",
-      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
+      "detailNote": "网页提供压缩预览版；归档状态不代表平台发布状态。 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 3 个高码率成片。网页压缩预览和公开链接保留。",
       "duration": 247.9,
       "episode": 3,
       "links": [
@@ -11600,7 +12289,37 @@
         }
       ],
       "group": "平台视频",
-      "publicationCheckedAt": "2026-10-24T15:38:24+08:00"
+      "publicationCheckedAt": "2026-10-24T15:38:24+08:00",
+      "sourceRetention": {
+        "id": "work-3",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第三期 挂机篇/成片/简中横屏版_第3期_挂机篇.mp4",
+          "sha256": "293f1e5560f9966177a1b29af83719e62d7abda164cedb4fd5d65c45aa2bd484",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第三期 挂机篇/成片/英文竖屏版_第3期_挂机篇.mp4",
+            "name": "英文竖屏版_第3期_挂机篇.mp4",
+            "sha256": "66a32aa311320d4801583ddc0c5baa7a8d2b0ca4aa7b8c683d563136f8649dec",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第三期 挂机篇/成片/简中竖屏版_第3期_挂机篇.mp4",
+            "name": "简中竖屏版_第3期_挂机篇.mp4",
+            "sha256": "4064847c9d3f559e3c41af695363f12b9c3c33fa16d32d257c3fc7ad90a6a5c1",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第三期 挂机篇/成片/繁中竖屏版_第3期_挂机篇.mp4",
+            "name": "繁中竖屏版_第3期_挂机篇.mp4",
+            "sha256": "59317fd7cbd5bd2a0b1911414a7261793211ea36feade8c62634fa2b63de4fab",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "work-4",
@@ -11615,35 +12334,58 @@
           "url": "assets/c246e5d7bde4.mp4",
           "type": "video",
           "source": "视频制作/第四期 离线与要塞篇/成片/简中横屏版_第4期_离线与要塞篇.mp4",
-          "updated": "2026-10-06"
+          "updated": "2026-10-06",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第四期 离线与要塞篇/成片/简中横屏版_第4期_离线与要塞篇.mp4",
+            "sha256": "02d2613fd97d945f5224b341a8c3e27081aeb5bd83726fad458aa400dd9e727b",
+            "status": "retained"
+          }
         },
         {
           "name": "简中竖屏版_第4期_离线与要塞篇.mp4",
           "url": "assets/e206fa29333e.mp4",
           "type": "video",
           "source": "视频制作/第四期 离线与要塞篇/成片/简中竖屏版_第4期_离线与要塞篇.mp4",
-          "updated": "2026-10-06"
+          "updated": "2026-10-06",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第四期 离线与要塞篇/成片/简中竖屏版_第4期_离线与要塞篇.mp4",
+            "name": "简中竖屏版_第4期_离线与要塞篇.mp4",
+            "sha256": "e2d5af383a5da6a44c7c09f0de9f817f840857f423338a3a8bec71964386b291",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "繁中竖屏版_第4期_离线与要塞篇.mp4",
           "url": "assets/d9e802b53b71.mp4",
           "type": "video",
           "source": "视频制作/第四期 离线与要塞篇/成片/繁中竖屏版_第4期_离线与要塞篇.mp4",
-          "updated": "2026-10-06"
+          "updated": "2026-10-06",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第四期 离线与要塞篇/成片/繁中竖屏版_第4期_离线与要塞篇.mp4",
+            "name": "繁中竖屏版_第4期_离线与要塞篇.mp4",
+            "sha256": "db9d86fc8757650844ab8670556f48e6740ff4d2e388a7eb6cd3631508d99322",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "英文竖屏版_第4期_离线与要塞篇.mp4",
           "url": "assets/8d5645deb410.mp4",
           "type": "video",
           "source": "视频制作/第四期 离线与要塞篇/成片/英文竖屏版_第4期_离线与要塞篇.mp4",
-          "updated": "2026-10-07"
+          "updated": "2026-10-07",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第四期 离线与要塞篇/成片/英文竖屏版_第4期_离线与要塞篇.mp4",
+            "name": "英文竖屏版_第4期_离线与要塞篇.mp4",
+            "sha256": "207fda7f380cffea454c32f9251af38ac62623d4ea4a26e4cf33406dc61f14c3",
+            "status": "removed_after_publication"
+          }
         }
       ],
       "status": "已公开 · B站 / X / Threads / 抖音 / 小红书 / YouTube",
       "body": "",
       "source": "视频制作/第四期 离线与要塞篇/成片/简中横屏版_第4期_离线与要塞篇.mp4",
       "cover": "assets/ec8ba8fa3b35.jpg",
-      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
+      "detailNote": "网页提供压缩预览版；归档状态不代表平台发布状态。 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 3 个高码率成片。网页压缩预览和公开链接保留。",
       "duration": 270.6,
       "episode": 4,
       "links": [
@@ -11692,7 +12434,37 @@
       ],
       "group": "平台视频",
       "episodeLabel": "开发日志 04",
-      "publicationCheckedAt": "2026-10-24T15:38:24+08:00"
+      "publicationCheckedAt": "2026-10-24T15:38:24+08:00",
+      "sourceRetention": {
+        "id": "work-4",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第四期 离线与要塞篇/成片/简中横屏版_第4期_离线与要塞篇.mp4",
+          "sha256": "02d2613fd97d945f5224b341a8c3e27081aeb5bd83726fad458aa400dd9e727b",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第四期 离线与要塞篇/成片/繁中竖屏版_第4期_离线与要塞篇.mp4",
+            "name": "繁中竖屏版_第4期_离线与要塞篇.mp4",
+            "sha256": "db9d86fc8757650844ab8670556f48e6740ff4d2e388a7eb6cd3631508d99322",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第四期 离线与要塞篇/成片/简中竖屏版_第4期_离线与要塞篇.mp4",
+            "name": "简中竖屏版_第4期_离线与要塞篇.mp4",
+            "sha256": "e2d5af383a5da6a44c7c09f0de9f817f840857f423338a3a8bec71964386b291",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第四期 离线与要塞篇/成片/英文竖屏版_第4期_离线与要塞篇.mp4",
+            "name": "英文竖屏版_第4期_离线与要塞篇.mp4",
+            "sha256": "207fda7f380cffea454c32f9251af38ac62623d4ea4a26e4cf33406dc61f14c3",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "work-5",
@@ -11707,35 +12479,58 @@
           "url": "assets/c4e09cc466f9.mp4",
           "type": "video",
           "source": "视频制作/第五期 英雄培养篇/成片/简中横屏版_第5期_英雄培养篇.mp4",
-          "updated": "2026-10-07"
+          "updated": "2026-10-07",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第五期 英雄培养篇/成片/简中横屏版_第5期_英雄培养篇.mp4",
+            "sha256": "b053b3646f6083e8297b42fce0cd69ffe25bea47bf6b22450a71be39bc3eb824",
+            "status": "retained"
+          }
         },
         {
           "name": "简中竖屏版_第5期_英雄培养篇.mp4",
           "url": "assets/dca449b5b188.mp4",
           "type": "video",
           "source": "视频制作/第五期 英雄培养篇/成片/简中竖屏版_第5期_英雄培养篇.mp4",
-          "updated": "2026-10-07"
+          "updated": "2026-10-07",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第五期 英雄培养篇/成片/简中竖屏版_第5期_英雄培养篇.mp4",
+            "name": "简中竖屏版_第5期_英雄培养篇.mp4",
+            "sha256": "0c7c0a05bf2cb663cb42f166dc8bbb6b5851a4c6053d60247462407a3e916c21",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "繁中竖屏版_第5期_英雄培养篇.mp4",
           "url": "assets/a9ec91e5959a.mp4",
           "type": "video",
           "source": "视频制作/第五期 英雄培养篇/成片/繁中竖屏版_第5期_英雄培养篇.mp4",
-          "updated": "2026-10-07"
+          "updated": "2026-10-07",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第五期 英雄培养篇/成片/繁中竖屏版_第5期_英雄培养篇.mp4",
+            "name": "繁中竖屏版_第5期_英雄培养篇.mp4",
+            "sha256": "de8d29db9018167c997a8db5224af920ffa12b674ddbe561cb85b86782be4892",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "英文竖屏版_第5期_英雄培养篇.mp4",
           "url": "assets/0a48cc3bc7cc.mp4",
           "type": "video",
           "source": "视频制作/第五期 英雄培养篇/成片/英文竖屏版_第5期_英雄培养篇.mp4",
-          "updated": "2026-10-07"
+          "updated": "2026-10-07",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第五期 英雄培养篇/成片/英文竖屏版_第5期_英雄培养篇.mp4",
+            "name": "英文竖屏版_第5期_英雄培养篇.mp4",
+            "sha256": "e6c0c269f2de83487f72f5a3fb3daa1e02ec907429b8dd6d41e3bc1be1369b1e",
+            "status": "removed_after_publication"
+          }
         }
       ],
       "status": "已公开 · B站 / 抖音 / 小红书 / X / Threads / YouTube",
       "body": "",
       "source": "视频制作/第五期 英雄培养篇/成片/简中横屏版_第5期_英雄培养篇.mp4",
       "cover": "assets/1104006128cd.jpg",
-      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
+      "detailNote": "网页提供压缩预览版；归档状态不代表平台发布状态。 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 3 个高码率成片。网页压缩预览和公开链接保留。",
       "duration": 270.3,
       "episode": 5,
       "links": [
@@ -11783,7 +12578,37 @@
         }
       ],
       "group": "平台视频",
-      "publicationCheckedAt": "2026-10-24T15:38:24+08:00"
+      "publicationCheckedAt": "2026-10-24T15:38:24+08:00",
+      "sourceRetention": {
+        "id": "work-5",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第五期 英雄培养篇/成片/简中横屏版_第5期_英雄培养篇.mp4",
+          "sha256": "b053b3646f6083e8297b42fce0cd69ffe25bea47bf6b22450a71be39bc3eb824",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第五期 英雄培养篇/成片/英文竖屏版_第5期_英雄培养篇.mp4",
+            "name": "英文竖屏版_第5期_英雄培养篇.mp4",
+            "sha256": "e6c0c269f2de83487f72f5a3fb3daa1e02ec907429b8dd6d41e3bc1be1369b1e",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第五期 英雄培养篇/成片/繁中竖屏版_第5期_英雄培养篇.mp4",
+            "name": "繁中竖屏版_第5期_英雄培养篇.mp4",
+            "sha256": "de8d29db9018167c997a8db5224af920ffa12b674ddbe561cb85b86782be4892",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第五期 英雄培养篇/成片/简中竖屏版_第5期_英雄培养篇.mp4",
+            "name": "简中竖屏版_第5期_英雄培养篇.mp4",
+            "sha256": "0c7c0a05bf2cb663cb42f166dc8bbb6b5851a4c6053d60247462407a3e916c21",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "work-6",
@@ -11798,42 +12623,71 @@
           "url": "assets/32f61677f459.mp4",
           "type": "video",
           "source": "视频制作/第六期 Demo通关攻略/成片/简中横屏版_第6期_Demo玩法介绍.mp4",
-          "updated": "2026-10-09"
+          "updated": "2026-10-09",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第六期 Demo通关攻略/成片/简中横屏版_第6期_Demo玩法介绍.mp4",
+            "sha256": "5857de3253899ed2a007069f6405e815c0d84631fe55ff965bddbf7199c56d55",
+            "status": "retained"
+          }
         },
         {
           "name": "简中竖屏版_第6期_Demo玩法介绍.mp4",
           "url": "assets/2caa9d82cc14.mp4",
           "type": "video",
           "source": "视频制作/第六期 Demo通关攻略/成片/简中竖屏版_第6期_Demo玩法介绍.mp4",
-          "updated": "2026-10-09"
+          "updated": "2026-10-09",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第六期 Demo通关攻略/成片/简中竖屏版_第6期_Demo玩法介绍.mp4",
+            "name": "简中竖屏版_第6期_Demo玩法介绍.mp4",
+            "sha256": "e03c8e1abdaeb2aff6e47afdd5ad9037d23ec641ca251ce1dea19c9b63ea78f7",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "繁中竖屏版_第6期_Demo玩法介绍.mp4",
           "url": "assets/d68c866d1c51.mp4",
           "type": "video",
           "source": "视频制作/第六期 Demo通关攻略/成片/繁中竖屏版_第6期_Demo玩法介绍.mp4",
-          "updated": "2026-10-09"
+          "updated": "2026-10-09",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第六期 Demo通关攻略/成片/繁中竖屏版_第6期_Demo玩法介绍.mp4",
+            "name": "繁中竖屏版_第6期_Demo玩法介绍.mp4",
+            "sha256": "e660b5cf486d105d13ea03382b3266309a8ad96b6456ba6b394ccfe744a4f7ef",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "英文竖屏版_第6期_Demo玩法介绍.mp4",
           "url": "assets/5f6fc0b391dd.mp4",
           "type": "video",
           "source": "视频制作/第六期 Demo通关攻略/成片/英文竖屏版_第6期_Demo玩法介绍.mp4",
-          "updated": "2026-10-09"
+          "updated": "2026-10-09",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第六期 Demo通关攻略/成片/英文竖屏版_第6期_Demo玩法介绍.mp4",
+            "name": "英文竖屏版_第6期_Demo玩法介绍.mp4",
+            "sha256": "5e09f84f6c021cdd47d4e91f0421332dd196888bc233c02d74475ba5aca0db00",
+            "status": "removed_after_publication"
+          }
         },
         {
           "name": "英文配音横屏版_第6期_Demo玩法介绍.mp4",
           "url": "assets/09291fbaa4a9.mp4",
           "type": "video",
           "source": "视频制作/第六期 Demo通关攻略/成片/英文配音横屏版_第6期_Demo玩法介绍.mp4",
-          "updated": "2026-10-09"
+          "updated": "2026-10-09",
+          "sourceAvailability": {
+            "source": "视频制作/平台視頻/第六期 Demo通关攻略/成片/英文配音横屏版_第6期_Demo玩法介绍.mp4",
+            "name": "英文配音横屏版_第6期_Demo玩法介绍.mp4",
+            "sha256": "a6fc02e669c994f558d2c98cc16c8703d3bd077c21ee9baa036d8b7206dde15c",
+            "status": "removed_after_publication"
+          }
         }
       ],
       "status": "已公开 · B站 / YouTube / X / Threads / 抖音 / 小红书",
       "body": "",
       "source": "视频制作/第六期 Demo通关攻略/成片/简中横屏版_第6期_Demo玩法介绍.mp4",
       "cover": "assets/b7419afeec44.jpg",
-      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
+      "detailNote": "网页提供压缩预览版；归档状态不代表平台发布状态。 本地简中横屏原始成片已核实保留；2026-11-21 清理了本条已公开其他版本的 4 个高码率成片。网页压缩预览和公开链接保留。",
       "duration": 206.4,
       "episode": 6,
       "links": [
@@ -11882,7 +12736,43 @@
       ],
       "group": "平台视频",
       "episodeLabel": "DEMO 宣传",
-      "publicationCheckedAt": "2026-10-24T15:38:24+08:00"
+      "publicationCheckedAt": "2026-10-24T15:38:24+08:00",
+      "sourceRetention": {
+        "id": "work-6",
+        "checkedAt": "2026-11-21T18:50:04.125404+08:00",
+        "cleanupDate": "2026-11-21",
+        "retainedOriginal": {
+          "source": "视频制作/平台視頻/第六期 Demo通关攻略/成片/简中横屏版_第6期_Demo玩法介绍.mp4",
+          "sha256": "5857de3253899ed2a007069f6405e815c0d84631fe55ff965bddbf7199c56d55",
+          "status": "retained"
+        },
+        "removedOriginals": [
+          {
+            "source": "视频制作/平台視頻/第六期 Demo通关攻略/成片/繁中竖屏版_第6期_Demo玩法介绍.mp4",
+            "name": "繁中竖屏版_第6期_Demo玩法介绍.mp4",
+            "sha256": "e660b5cf486d105d13ea03382b3266309a8ad96b6456ba6b394ccfe744a4f7ef",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第六期 Demo通关攻略/成片/英文配音横屏版_第6期_Demo玩法介绍.mp4",
+            "name": "英文配音横屏版_第6期_Demo玩法介绍.mp4",
+            "sha256": "a6fc02e669c994f558d2c98cc16c8703d3bd077c21ee9baa036d8b7206dde15c",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第六期 Demo通关攻略/成片/英文竖屏版_第6期_Demo玩法介绍.mp4",
+            "name": "英文竖屏版_第6期_Demo玩法介绍.mp4",
+            "sha256": "5e09f84f6c021cdd47d4e91f0421332dd196888bc233c02d74475ba5aca0db00",
+            "status": "removed_after_publication"
+          },
+          {
+            "source": "视频制作/平台視頻/第六期 Demo通关攻略/成片/简中竖屏版_第6期_Demo玩法介绍.mp4",
+            "name": "简中竖屏版_第6期_Demo玩法介绍.mp4",
+            "sha256": "e03c8e1abdaeb2aff6e47afdd5ad9037d23ec641ca251ce1dea19c9b63ea78f7",
+            "status": "removed_after_publication"
+          }
+        ]
+      }
     },
     {
       "id": "steam-main-trailer",
