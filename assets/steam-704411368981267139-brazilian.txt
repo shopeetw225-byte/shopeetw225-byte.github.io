@@ -1,0 +1,58 @@
+Guia do acionista: como conseguir heróis com contratos, listas e chefes
+
+É importante, então vou falar três vezes: o progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo!
+
+Olá, pessoal! Aqui é o Juanmao.
+
+O jogo completo chega em 3 de dezembro! Faltam 11 dias! Com o jogo completo, o Mercado da Comunidade Steam vai abrir~ Se tiver alguma ideia sobre o Mercado, deixa nos comentários.
+
+No guia de heróis de uns dias atrás, falei de como treinar a galera depois de recrutar; agora vou contar de onde ela vem. Antes de tudo: o jogo não tem gacha, e como conseguir cada herói está escrito às claras.
+
+Quer alguém? Olhe o Códice primeiro
+Abra um herói no Códice e você vê de onde ele vem: se entra ao vencer certa fase, se é recrutado na Taverna ou se é preciso vencer um combate de chefe. Os heróis que você ainda não tem aparecem só como silhueta, mas a origem aparece do mesmo jeito. O Códice da demo só mostra os heróis que dá para conseguir na demo, então tudo o que aparece ali dá para pegar.
+〔配图请见 Steam 原文〕
+
+Mande heróis em contratos e junte Cupons de Recrutamento Lendário
+Na página "Contratos" da Taverna, você manda heróis para fazer missões. Quando o prazo acaba, tudo se resolve sozinho e os Cupons de Recrutamento Lendário caem direto para você, sem precisar voltar para coletar.
+
+• Dá para mandar até quem está na Equipe: eles continuam lutando e farmando normalmente, então o avanço não para;
+• Cada cartão de missão mostra "Prev. +N cupons", então escolha os que rendem mais; algumas missões exigem certa Força ou uma classe específica, e isso também vem no cartão;
+• Com preguiça de escolher? Aperte "Envio automático": ele pega primeiro quem tem a classe certa e depois vai da maior para a menor Força. Escolhidos, aperte "Confirmar";
+• Se apertar "Cancelar" no meio do caminho, os heróis voltam na hora, mas esse contrato não dá cupons.
+
+No começo, com poucos heróis no elenco, os contratos ainda não abrem; a tela avisa quantos faltam. Recrute mais alguns e pronto.
+〔配图请见 Steam 原文〕
+
+A partir da fase 101: listas de baixa estrela que mudam toda hora
+Depois de chegar à fase 101, aparece na Taverna uma lista de heróis de baixa estrela que muda a cada hora cheia; eles são recrutados com Bilhetes de Recrutamento da Era. Esses bilhetes caem nas vitórias em batalha e enquanto você farma.
+
+• A lista funciona em rodízio: em cada rodada, todo mundo aparece. No painel de garantias da lista, uma linha mostra quantos ainda faltam nesta rodada e o prazo máximo, "em até Nh";
+• Atualizar na mão só passa para a próxima página, sem bagunçar o rodízio; a primeira vez de cada hora é grátis;
+• Listas que passaram enquanto você estava offline não voltam: ao retornar, você vê a página da hora atual.
+
+〔配图请见 Steam 原文〕
+
+Dá para escolher o alvo da garantia lendária
+Para recrutar um herói lendário, primeiro você precisa da Ficha de recruta exclusiva dele e depois de Cupons de Recrutamento Lendário, na Taverna. As fichas caem nas vitórias em batalha e enquanto você farma, e vários lendários dividem a mesma garantia.
+Na página "Recrutar" da Taverna, abra quem você quer e aperte "Definir como alvo da garantia": quando a garantia chegar, a ficha vai para ele. Só que só dá para definir lendários da sua era atual, e a ficha só vai para ele se você já tiver chegado à fase de origem dele e estiver jogando uma fase dessa mesma era; sem alvo definido, a ficha sai aleatória entre os candidatos. O progresso da garantia aparece no painel de garantias da Taverna.
+(Como pegar a Diva Triunfal, o Rei-Lobo da Planície Gélida e companhia eu já contei no post de 15 de novembro, então não vou repetir aqui.)
+〔配图请见 Steam 原文〕
+
+Combate de chefe: perder não custa nada, tente de novo na hora
+Depois de concluir a fase 12, as "Terras de Desafios" abrem na Fortaleza, e lá dentro fica o "Combate de chefe". Cada vez que você derrota o chefe de um capítulo da história principal, um combate novo abre aqui; na primeira vitória, o herói entra direto para o time, sem ficha nem cupom.
+
+• A dificuldade é fixa e não sobe junto com a sua Força; se não der, vá treinar e volte mais forte;
+• Perder não tem custo nem tempo de espera: dá para tentar de novo na hora;
+• Vencer só dá o herói, sem recursos;
+• Os combates de chefe não entram no Avanço automático: você precisa entrar e iniciar na mão;
+• Além dos chefes de capítulo, a demo tem alguns chefes intermediários; conclua a fase correspondente e já dá para desafiá-los.
+
+〔配图请见 Steam 原文〕
+
+Então os heróis vêm por estes caminhos: drops nas batalhas, cupons dos contratos da Taverna, as listas de cada hora e os combates de chefe. Quer alguém? Olhe a origem dele no Códice e você já sabe para onde ir.
+
+Se tem mais alguma coisa que você quer que eu explique ou algo que não ficou claro, pode perguntar nos comentários. Também dá para entrar no nosso Discord（https://discord.gg/uEwdWz2h62）.
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+Jogue a demo gratuita（https://store.steampowered.com/app/5257220/） | Adicione o jogo completo à sua lista de desejos（https://store.steampowered.com/app/4855890/）

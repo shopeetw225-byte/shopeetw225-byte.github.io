@@ -1,0 +1,58 @@
+Leitfaden für Aktionäre: Wunschhelden bekommen – Aufträge, Listen, Bosse
+
+So wichtig, dass ich es dreimal sage: Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen!
+
+Hallo zusammen, hier ist Juanmao.
+
+Die Vollversion erscheint am 3. Dezember! Noch 11 Tage! Mit der Vollversion öffnet der Steam-Community-Markt~ Wenn ihr Gedanken zum Markt habt, schreibt sie gern in die Kommentare.
+
+Vor ein paar Tagen ging es darum, wie ihr eure Helden trainiert, sobald ihr sie habt. Diesmal geht es darum, woher sie kommen. Vorweg: Das Spiel hat kein Gacha, wie man jeden Helden bekommt, steht schwarz auf weiß da.
+
+Wunschheld? Erst in den Kodex schauen
+Klickt im Kodex einen Helden an, und ihr seht, woher er kommt: Beitritt nach dem Sieg in einer bestimmten Etappe, Anwerben in der Taverne oder eine Bossherausforderung. Helden, die ihr noch nicht habt, erscheinen als Silhouette, ihre Herkunft steht trotzdem da. Der Demo-Kodex listet nur Helden, die es in der Demo gibt – alles, was ihr dort seht, könnt ihr auch bekommen.
+〔配图请见 Steam 原文〕
+
+Helden auf Aufträge schicken, Legenden-Rekrutierungsgutscheine sammeln
+Im Reiter „Aufträge“ der Taverne könnt ihr Helden losschicken. Läuft die Zeit ab, wird automatisch abgerechnet, und die Legenden-Rekrutierungsgutscheine landen direkt bei euch – abholen müsst ihr nichts.
+
+• Auch Helden aus dem Trupp können los. Sie kämpfen und farmen trotzdem weiter, beim Vorrücken verliert ihr also nichts.
+• Auf jeder Auftragskarte steht „Ca. +N Gutscheine“ – nehmt die, die mehr bringen. Manche Aufträge verlangen Kampfkraft oder eine bestimmte Klasse, auch das steht auf der Karte.
+• Keine Lust zu wählen? Drückt „Auto-Entsendung“. Sie nimmt zuerst passende Klassen und füllt dann nach Kampfkraft von hoch nach niedrig auf. Danach einfach „Bestätigen“ drücken.
+• Mit „Abbrechen“ kommen die Helden sofort zurück, aber für diesen Auftrag gibt es dann keine Gutscheine.
+
+Ganz am Anfang habt ihr zu wenige Helden, deshalb sind Entsendungen noch gesperrt. Das Spiel zeigt an, wie viele noch fehlen. Werbt ein paar mehr an, dann geht es los.
+〔配图请见 Steam 原文〕
+
+Ab Etappe 101 wechselt die Liste mit wenigen Sternen stündlich
+Ab Etappe 101 hat die Taverne eine zusätzliche Liste mit Helden weniger Sterne. Zur vollen Stunde kommt eine neue Gruppe, angeworben wird mit Ära-Anwerbescheinen. Die gibt es bei Kampfsiegen und beim Farmen.
+
+• Die Liste rotiert, und in einer Runde ist jeder einmal dran. Auf der Garantie-Tafel der Liste steht in einer Zeile, wie viele in dieser Runde noch übrig sind und dass sie spätestens „in N Std.“ dran sind.
+• Manuell aktualisieren blättert nur eine Seite weiter und bringt die Rotation nicht durcheinander. Das erste Mal pro Stunde ist gratis.
+• Was ihr offline verpasst, wird nicht nachgeholt. Wenn ihr zurückkommt, seht ihr die Seite der aktuellen Stunde.
+
+〔配图请见 Steam 原文〕
+
+Für Legenden-Helden könnt ihr ein Garantie-Ziel setzen
+Für einen Legenden-Helden braucht ihr erst seine eigene Anwerbemarke, dann werbt ihr ihn in der Taverne mit Legenden-Rekrutierungsgutscheinen an. Anwerbemarken gibt es bei Kampfsiegen und beim Farmen, und mehrere Legenden teilen sich eine Garantie.
+Öffnet in der Taverne den Reiter „Anwerben“, wählt den Helden, den ihr wollt, und drückt „Als Garantie-Ziel setzen“. Greift die Garantie, geht die Marke an ihn. Setzen lassen sich nur legendäre Helden eurer aktuellen Ära, und die Marke geht nur an ihn, wenn ihr seine Herkunftsetappe schon erreicht habt und gerade eine Etappe derselben Ära spielt. Ohne Ziel wird zufällig unter den Kandidaten gewählt. Den Garantie-Fortschritt seht ihr auf der Garantie-Tafel der Taverne.
+(Wie man Triumph-Diva, Frostebenen-Wolfskönig und ein paar andere bekommt, stand schon im Beitrag vom 15. November, das wiederhole ich hier nicht.)
+〔配图请见 Steam 原文〕
+
+Bossherausforderung: Verlieren kostet nichts, sofort neu versuchen
+Nach Etappe 12 öffnet in der Festung das „Prüfungsgelände“, darin gibt es die „Bossherausforderung“. Für jeden Kapitelboss, den ihr in der Hauptstory besiegt, kommt hier ein Kampf dazu. Beim ersten Sieg tritt der Held direkt bei – ohne Marke und ohne Gutscheine.
+
+• Die Schwierigkeit ist fest und wächst nicht mit eurer Kampfkraft. Klappt es noch nicht, trainiert erst und kommt stärker zurück.
+• Verlieren kostet nichts, und es gibt keine Abklingzeit – ihr könnt sofort neu antreten.
+• Ein Sieg bringt nur den Helden, keine Ressourcen.
+• Bossherausforderungen laufen nicht über Auto-Vorrücken, ihr müsst selbst reingehen und starten.
+• Neben den Kapitelbossen gibt es in der Demo noch ein paar Zwischenbosse. Schafft die passende Etappe, dann könnt ihr sie herausfordern.
+
+〔配图请见 Steam 原文〕
+
+Das sind also die Wege zu neuen Helden: Drops im Kampf, Gutscheine über Aufträge in der Taverne, die stündliche Liste und Bossherausforderungen. Wenn ihr jemanden wollt, schaut zuerst im Kodex nach der Herkunft, dann wisst ihr, wohin.
+
+Worüber soll ich noch schreiben, und was ist euch unklar? Fragt mich gern in den Kommentaren. Kommt auch gern auf unseren Discord（https://discord.gg/uEwdWz2h62）.
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+Kostenlose Demo spielen（https://store.steampowered.com/app/5257220/） | Vollversion auf die Wunschliste setzen（https://store.steampowered.com/app/4855890/）

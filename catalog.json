@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "hero": "assets/07851087f62e.jpg",
   "items": [
     {
@@ -17227,6 +17227,504 @@
         },
         "russian": {
           "background": "https://clan.fastly.steamstatic.com/images/46216320/86386afe1fc03ebde28cd26e9b1a79ce8ab63850.png",
+          "cover_variant": "english"
+        }
+      },
+      "detailNote": "归档已公开的十语原文、各语实机配图及两版封面；图片可逐张查看，原始公开页面见上方链接。"
+    },
+    {
+      "id": "steam-704411368981267139",
+      "title": "股东上岗指南：想要的英雄怎么拿，派遣、名单和首领挑战",
+      "category": "Steam 公告",
+      "group": "已发布公告",
+      "announcementNumber": 22,
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22 12:00:44",
+      "dateBasis": "Steam公开posttime及十语已公开状态（北京时间），非前日创建或定时激活时间",
+      "status": "已发布 · 十语原文",
+      "summary": "Demo 的进度不会继承到正式版！正式版 12 月 3 日上线，还有 11 天，会开启 Steam 社区市场。这篇讲 Demo 里想要的英雄从哪来：酒馆派人跑委托攒传说招募券、整点轮换的低星名单、指定保底目标，还有试炼之地的首领挑战。",
+      "highlights": [
+        "介绍Demo英雄获取途径：图鉴、委托招募券、低星名单和首领挑战。",
+        "正式版12月3日上线，Demo进度不继承；十语各配五张本语实机图。"
+      ],
+      "cover": "assets/steam-704411368981267139-cover-schinese.png",
+      "body": "重要的事情说三遍：Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！\n\n各位股东大人，我是倦猫。\n\n游戏正式版将在 12 月 3 日上线，还有 11 天！正式版会开启 Steam 社区市场～对市场有什么想法，欢迎在评论区留言。\n\n前几天的英雄篇讲了人招来以后怎么练，这篇讲讲人从哪来。先说一句：这游戏没有抽卡，每位英雄怎么拿都明码写着。\n\n想要谁，先翻图鉴\n图鉴里点开一位英雄，就能看到他从哪来：第几关胜利加入、在酒馆招募，还是去打首领挑战。还没拿到的英雄只是个黑影，来源照样写着。Demo 的图鉴只列 Demo 里拿得到的英雄，看到的都能拿。\n〔配图请见 Steam 原文〕\n\n派人跑委托，攒传说招募券\n酒馆的「委托」页可以派英雄出去跑任务，到期自动结算，传说招募券直接发到手上，不用回来领。\n\n• 编队里的人也能派，派出去照样上阵挂机，不耽误推关；\n• 每张任务卡上都写着「预计 +N 券」，挑多的接；有的任务要求战力或者职业，卡面上也写着；\n• 懒得挑人就按「一键派遣」，它先挑职业对得上的，再按战力从高到低选，选好按「确认派遣」；\n• 中途「取消委托」，人会立刻回来，但这一单不给券。\n\n刚开局名册人太少，派遣还开不了，界面会提示还差几个人，多招几位就开了。\n〔配图请见 Steam 原文〕\n\n第 101 关起，低星名单整点换一批\n打到第 101 关以后，酒馆里会多一份低星名单，每到整点换一批人，用纪元招募券招募。纪元招募券在战斗胜利和挂机时会掉。\n\n• 名单是轮着来的，一轮之内每位都会轮到。低星名单的保底看板上有一行写着这一轮还剩几位、最晚「N 小时内」轮到；\n• 手动刷新只是往后翻一页，不会打乱轮替，每小时第一次免费；\n• 离线时错过的名单不补，回来看到的是当下这一小时的那一页。\n\n〔配图请见 Steam 原文〕\n\n传说英雄可以指定保底\n传说英雄要先拿到专属信物，再用传说招募券在酒馆招募。信物在战斗胜利和挂机时会掉，几位传说共用一份保底。\n到酒馆「招募」页点开想要的那位，按「设为保底目标」，保底到点的那一次，信物就给他。能设的只有当前纪元的传说英雄，而且要你已经打到他的来源关卡、正在打同一纪元的关卡，信物才会给他；没设目标的话，就在候选里随机。保底进度在酒馆的保底看板里能看到。\n（凯歌天后、霜原狼王这几位的拿法，11-15 那篇讲过，这里就不重复了。）\n〔配图请见 Steam 原文〕\n\n首领挑战：输了不亏，马上重打\n通关第 12 关以后，要塞里的「试炼之地」就开了，里面有「首领挑战」。主线每打过一章的章首领，这里就开一场；第一次打赢，那位英雄直接加入，不用信物也不用券。\n\n• 难度是固定的，不会跟着你的战力变高，打不过就先去练，练强了再回来；\n• 输了没有代价，也没有冷却，可以马上重打；\n• 打赢只给英雄，不给资源；\n• 首领挑战不在自动推关里，要自己进去点；\n• 除了章首领，Demo 里还有几位中段首领，打过对应的关卡就能挑战。\n\n〔配图请见 Steam 原文〕\n\n英雄就从这几条路来：战斗里掉、酒馆派遣攒券、整点名单，还有首领挑战。想要谁，先翻图鉴看一眼来源，就知道该往哪走。\n\n还有哪些想听我讲、哪里看不明白，欢迎在评论区问我。欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+      "translations": {
+        "schinese": {
+          "title": "股东上岗指南：想要的英雄怎么拿，派遣、名单和首领挑战",
+          "summary": "Demo 的进度不会继承到正式版！正式版 12 月 3 日上线，还有 11 天，会开启 Steam 社区市场。这篇讲 Demo 里想要的英雄从哪来：酒馆派人跑委托攒传说招募券、整点轮换的低星名单、指定保底目标，还有试炼之地的首领挑战。",
+          "body": "重要的事情说三遍：Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！\n\n各位股东大人，我是倦猫。\n\n游戏正式版将在 12 月 3 日上线，还有 11 天！正式版会开启 Steam 社区市场～对市场有什么想法，欢迎在评论区留言。\n\n前几天的英雄篇讲了人招来以后怎么练，这篇讲讲人从哪来。先说一句：这游戏没有抽卡，每位英雄怎么拿都明码写着。\n\n想要谁，先翻图鉴\n图鉴里点开一位英雄，就能看到他从哪来：第几关胜利加入、在酒馆招募，还是去打首领挑战。还没拿到的英雄只是个黑影，来源照样写着。Demo 的图鉴只列 Demo 里拿得到的英雄，看到的都能拿。\n〔配图请见 Steam 原文〕\n\n派人跑委托，攒传说招募券\n酒馆的「委托」页可以派英雄出去跑任务，到期自动结算，传说招募券直接发到手上，不用回来领。\n\n• 编队里的人也能派，派出去照样上阵挂机，不耽误推关；\n• 每张任务卡上都写着「预计 +N 券」，挑多的接；有的任务要求战力或者职业，卡面上也写着；\n• 懒得挑人就按「一键派遣」，它先挑职业对得上的，再按战力从高到低选，选好按「确认派遣」；\n• 中途「取消委托」，人会立刻回来，但这一单不给券。\n\n刚开局名册人太少，派遣还开不了，界面会提示还差几个人，多招几位就开了。\n〔配图请见 Steam 原文〕\n\n第 101 关起，低星名单整点换一批\n打到第 101 关以后，酒馆里会多一份低星名单，每到整点换一批人，用纪元招募券招募。纪元招募券在战斗胜利和挂机时会掉。\n\n• 名单是轮着来的，一轮之内每位都会轮到。低星名单的保底看板上有一行写着这一轮还剩几位、最晚「N 小时内」轮到；\n• 手动刷新只是往后翻一页，不会打乱轮替，每小时第一次免费；\n• 离线时错过的名单不补，回来看到的是当下这一小时的那一页。\n\n〔配图请见 Steam 原文〕\n\n传说英雄可以指定保底\n传说英雄要先拿到专属信物，再用传说招募券在酒馆招募。信物在战斗胜利和挂机时会掉，几位传说共用一份保底。\n到酒馆「招募」页点开想要的那位，按「设为保底目标」，保底到点的那一次，信物就给他。能设的只有当前纪元的传说英雄，而且要你已经打到他的来源关卡、正在打同一纪元的关卡，信物才会给他；没设目标的话，就在候选里随机。保底进度在酒馆的保底看板里能看到。\n（凯歌天后、霜原狼王这几位的拿法，11-15 那篇讲过，这里就不重复了。）\n〔配图请见 Steam 原文〕\n\n首领挑战：输了不亏，马上重打\n通关第 12 关以后，要塞里的「试炼之地」就开了，里面有「首领挑战」。主线每打过一章的章首领，这里就开一场；第一次打赢，那位英雄直接加入，不用信物也不用券。\n\n• 难度是固定的，不会跟着你的战力变高，打不过就先去练，练强了再回来；\n• 输了没有代价，也没有冷却，可以马上重打；\n• 打赢只给英雄，不给资源；\n• 首领挑战不在自动推关里，要自己进去点；\n• 除了章首领，Demo 里还有几位中段首领，打过对应的关卡就能挑战。\n\n〔配图请见 Steam 原文〕\n\n英雄就从这几条路来：战斗里掉、酒馆派遣攒券、整点名单，还有首领挑战。想要谁，先翻图鉴看一眼来源，就知道该往哪走。\n\n还有哪些想听我讲、哪里看不明白，欢迎在评论区问我。欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=schinese"
+        },
+        "tchinese": {
+          "title": "股東上工指南：想要的英雄怎麼拿，派遣、名單和首領挑戰",
+          "summary": "Demo 的進度不會繼承到正式版！正式版 12 月 3 日上線，還有 11 天，會開啟 Steam 社群市場。這篇講 Demo 裡想要的英雄從哪來：酒館派人跑委託存傳說招募券、整點輪換的低星名單、指定保底目標，還有試煉之地的首領挑戰。",
+          "body": "重要的事情說三遍：Demo 的進度不會繼承到正式版！Demo 的進度不會繼承到正式版！Demo 的進度不會繼承到正式版！\n\n各位股東大人，我是倦貓。\n\n遊戲正式版將在 12 月 3 日上線，還有 11 天！正式版會開啟 Steam 社群市場～對市場有什麼想法，歡迎在留言區留言。\n\n前幾天講了英雄招來以後怎麼練，這篇講講人從哪來。先說一句：這遊戲沒有抽卡，每位英雄怎麼拿都明碼寫著。\n\n想要誰，先翻圖鑑\n在圖鑑裡點開一位英雄，就能看到他從哪來：第幾關勝利加入、在酒館招募，還是去打首領挑戰。還沒拿到的英雄只是個黑影，來源照樣寫著。Demo 的圖鑑只列出 Demo 裡拿得到的英雄，看得到的都拿得到。\n〔配图请见 Steam 原文〕\n\n派人跑委託，存傳說招募券\n酒館的「委託」頁可以派英雄出去跑任務，到期自動結算，傳說招募券直接發到手上，不用回來領。\n\n• 編隊裡的人也能派，派出去照樣上場掛機，不耽誤推關；\n• 每張任務卡上都寫著「預計 +N 券」，挑多的接；有的任務要求戰力或職業，卡面上也會寫；\n• 懶得挑人就按「一鍵派遣」，它會先挑職業對得上的，再按戰力從高到低選，選好按「確認派遣」；\n• 中途「取消委託」，人會馬上回來，但這一單不給券。\n\n剛開局名冊人太少，派遣還開不了，介面會提示還差幾個人，多招幾位就開了。\n〔配图请见 Steam 原文〕\n\n第 101 關起，低星名單整點換一批\n打到第 101 關以後，酒館裡會多一份低星名單，每到整點換一批人，用紀元招募券招募。紀元招募券在戰鬥勝利和掛機時會掉。\n\n• 名單是輪著來的，一輪之內每位都會輪到。低星名單的保底看板上有一行寫著這一輪還剩幾位、最晚「N 小時內」輪到；\n• 手動刷新只是往後翻一頁，不會打亂輪替，每小時第一次免費；\n• 離線時錯過的名單不會補，回來看到的是當下這一小時的那一頁。\n\n〔配图请见 Steam 原文〕\n\n傳說英雄可以指定保底\n傳說英雄要先拿到專屬信物，再用傳說招募券在酒館招募。信物在戰鬥勝利和掛機時會掉，幾位傳說共用一份保底。\n到酒館「招募」頁點開想要的那位，按「設為保底目標」，保底到了的那一次，信物就給他。能設的只有目前紀元的傳說英雄，而且要你已經打到他的來源關卡、正在打同一紀元的關卡，信物才會給他；沒設目標的話，就從候選裡隨機。保底進度在酒館的保底看板裡看得到。\n（凱歌天后、霜原狼王這幾位怎麼拿，11 月 15 日那篇講過，這裡就不重複了。）\n〔配图请见 Steam 原文〕\n\n首領挑戰：輸了不虧，馬上重打\n通關第 12 關以後，要塞裡的「試煉之地」就開了，裡面有「首領挑戰」。主線每打過一章的章首領，這裡就開一場；第一次打贏，那位英雄直接加入，不用信物也不用券。\n\n• 難度是固定的，不會跟著你的戰力變高，打不過就先去練，練強了再回來；\n• 輸了沒有代價，也沒有冷卻，可以馬上重打；\n• 打贏只給英雄，不給資源；\n• 首領挑戰不在自動推關裡，要自己進去點；\n• 除了章首領，Demo 裡還有幾位中段首領，打過對應的關卡就能挑戰。\n\n〔配图请见 Steam 原文〕\n\n英雄就從這幾條路來：戰鬥裡掉、酒館派遣存券、整點名單，還有首領挑戰。想要誰，先翻圖鑑看一眼來源，就知道該往哪走。\n\n還有哪些想聽我講、哪裡看不懂，歡迎在留言區問我。歡迎加入遊戲交流群：1079312948。\n\n如果覺得還不錯，也拜託幫忙加個願望清單。謝謝大家，這對一個遊戲真的很重要。\n\n免費試玩 Demo（https://store.steampowered.com/app/5257220/）｜將正式版加入願望清單（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=tchinese"
+        },
+        "english": {
+          "title": "Shareholder onboarding: get the heroes you want – commissions, lists, bosses",
+          "summary": "Demo progress won't carry over! Full game out Dec 3, 11 days to go, opening the Steam Community Market. This one: where Demo heroes come from and how to get yours.",
+          "body": "Important enough to say three times: Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game!\n\nHi everyone, Juanmao here.\n\nThe full game launches on December 3! Just 11 days to go! The Steam Community Market will open with the full game~ If you have any thoughts about the Market, feel free to leave them in the comments.\n\nA few days ago I covered how to train heroes once you've recruited them. This one is about where they come from. First off: there's no gacha in this game, and how to get every hero is all written down.\n\nWant someone? Check the Codex first\nOpen a hero in the Codex and you'll see where they come from: joining after you win a certain stage, recruiting at the Tavern, or beating a Boss Challenge. Heroes you don't have yet show up as silhouettes, but their source is still listed. The Demo's Codex only lists heroes you can get in the Demo, so everyone you see there is obtainable.\n〔配图请见 Steam 原文〕\n\nSend heroes on commissions, earn Legend Recruit Coupons\nOn the Tavern's \"Commissions\" tab, you can send heroes out on jobs. They settle automatically when time's up, and the Legend Recruit Coupons go straight to you. No need to come back and claim them.\n\n• Heroes in your Formation can go too. They keep fighting and idling while they're out, so your stage progress isn't held up.\n• Every job card shows \"Est. +N coupons\", so pick the ones that pay more. Some jobs require a certain power or class, and that's on the card too.\n• Don't feel like picking? Hit \"Auto dispatch\". It picks heroes with a matching class first, then fills in by power from high to low. Once it's done, press \"Confirm\".\n• Hit \"Cancel\" partway and the heroes come back right away, but that job pays no coupons.\n\nEarly on your roster is too small, so dispatching isn't open yet. The screen tells you how many more heroes you need. Recruit a few more and it opens up.\n〔配图请见 Steam 原文〕\n\nFrom Stage 101, the low-star list changes every hour\nOnce you reach Stage 101, the Tavern gets an extra low-star list. A new batch of heroes shows up on the hour, and you recruit them with Era Recruit Tickets. Era Recruit Tickets drop from battle wins and while idling.\n\n• The list rotates, and everyone comes up once per round. The low-star guarantee board has a line showing how many are left this round and that they'll show up \"Within Nh\" at the latest.\n• A manual refresh just flips to the next page. It doesn't shuffle the rotation, and the first one each hour is free.\n• Lists you miss while offline don't come back. When you return, you see the page for the current hour.\n\n〔配图请见 Steam 原文〕\n\nPick a guarantee target for Legend heroes\nA Legend hero first needs their own Recruit Token, then you recruit them at the Tavern with Legend Recruit Coupons. Recruit Tokens drop from battle wins and while idling, and several Legend heroes share one guarantee.\nGo to the Tavern's \"Recruit\" tab, open the hero you want, and press \"Set as Guarantee Target\". When the guarantee kicks in, the token goes to them. Only legendary heroes from your current era can be set, and the token only goes to them once you've reached their source stage and are playing a stage in that same era. With no target set, it's random among the candidates. You can track guarantee progress on the Tavern's guarantee board.\n(How to get Triumph Diva, Frost-Plain Wolf King and a few others was covered in the Nov 15 post, so I won't repeat it here.)\n〔配图请见 Steam 原文〕\n\nBoss Challenges: losing costs nothing, retry right away\nAfter you clear Stage 12, the \"Trial Grounds\" in the Fortress opens up, with \"Boss Challenge\" inside. Each chapter boss you beat in the main story opens a new fight here. Win it the first time and that hero joins you directly, no token or coupons needed.\n\n• The difficulty is fixed and doesn't scale with your power. If you can't win yet, go train and come back stronger.\n• Losing has no cost and no cooldown, so you can retry right away.\n• A win only gives you the hero, not resources.\n• Boss Challenges aren't part of Auto-advance. You have to go in and start them yourself.\n• Besides chapter bosses, the Demo also has a few mid-chapter bosses. Clear the matching stage and you can challenge them.\n\n〔配图请见 Steam 原文〕\n\nSo that's where heroes come from: battle drops, Tavern commissions for coupons, the hourly list, and Boss Challenges. Want someone? Check their source in the Codex first, and you'll know where to go.\n\nIf there's anything else you'd like me to cover, or anything that isn't clear, feel free to ask me in the comments. You're also welcome to join us on Discord（https://discord.gg/uEwdWz2h62）.\n\nIf you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.\n\nPlay the free Demo（https://store.steampowered.com/app/5257220/） | Wishlist the full game（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=english"
+        },
+        "japanese": {
+          "title": "株主の着任ガイド：欲しい英雄の手に入れ方、派遣・名簿・ボス挑戦",
+          "summary": "Demoの進行状況は製品版に引き継がれません！製品版は12月3日リリース、あと11日。Steam コミュニティマーケットが開放されます。今回はDemoで欲しい英雄の入手先を紹介：酒場で英雄を依頼に派遣してレジェンド募集券を貯める方法、毎正時に入れ替わる低星名簿、天井目標の指定、そして試練の地のボス挑戦です。",
+          "body": "大事なことなので3回言います：Demoの進行状況は製品版に引き継がれません！Demoの進行状況は製品版に引き継がれません！Demoの進行状況は製品版に引き継がれません！\n\nみなさん、こんにちは。倦猫（Juanmao）です。\n\n製品版は12月3日にリリース。あと11日です！製品版では Steam コミュニティマーケットが開放されます～マーケットについて思うことがあれば、ぜひコメントで教えてください。\n\n数日前は英雄を仲間にしたあとの育て方を紹介しましたが、今回はその英雄をどこで手に入れるかの話です。先に言っておくと、このゲームにガチャはありません。どの英雄も入手方法がはっきり書いてあります。\n\n欲しい英雄がいたら、まず図鑑を見よう\n図鑑で英雄を開くと、どこで手に入るかが分かります。どのステージの勝利で加入するのか、酒場で募集するのか、それともボス挑戦で勝つのか。まだ手に入れていない英雄はシルエットだけですが、入手先はちゃんと載っています。Demoの図鑑にはDemoで入手できる英雄だけが載っているので、載っている英雄は全員手に入ります。\n〔配图请见 Steam 原文〕\n\n英雄を依頼に出して、レジェンド募集券を貯める\n酒場の「依頼」ページでは、英雄を任務に派遣できます。期限が来ると自動で精算され、レジェンド募集券がそのまま手元に届くので、受け取りに戻る必要はありません。\n\n• 編成中の英雄も派遣できます。派遣中もそのまま出撃して放置するので、ステージ攻略の邪魔になりません。\n• 任務カードにはそれぞれ「獲得見込み +N枚」と書いてあるので、多いものを選びましょう。戦力や職業の条件がある任務も、カードに書いてあります。\n• 選ぶのが面倒なら「一括派遣」。職業が合う英雄を優先して、そのあと戦力の高い順に選んでくれます。決まったら「派遣を確定」を押しましょう。\n• 途中で「依頼を取消」すると英雄はすぐ戻ってきますが、その依頼の券はもらえません。\n\n始めたばかりで手持ちの英雄が少ないうちは、派遣がまだ開放されません。あと何人必要か画面に表示されるので、何人か募集すれば開放されます。\n〔配图请见 Steam 原文〕\n\nステージ101から、低星名簿が毎正時に入れ替わる\nステージ101に到達すると、酒場に低星名簿が追加されます。毎正時にメンバーが入れ替わり、時代募集券で募集できます。時代募集券は戦闘勝利時と放置中にドロップします。\n\n• 名簿は順番に回ってくるので、1巡のうちに全員が必ず登場します。低星名簿の天井ボードには、この巡で残り何人か、そして最長「N 時間以内」に登場することが書いてあります。\n• 手動更新は次のページをめくるだけで、順番は崩れません。1時間ごとに1回目は無料です。\n• オフライン中に逃した名簿は補填されません。戻ってきたときに見えるのは、その時間のページです。\n\n〔配图请见 Steam 原文〕\n\nレジェンド英雄は天井目標を指定できる\nレジェンド英雄は、まず専用の募集の証を手に入れてから、酒場でレジェンド募集券を使って募集します。募集の証は戦闘勝利時と放置中にドロップし、天井は何人かのレジェンドで共通です。\n酒場の「募集」ページで欲しい英雄を開いて「天井目標に設定」を押すと、天井に達したときの募集の証がその英雄のものになります。ただし、設定できるのは今の時代のレジェンド英雄だけで、その英雄の入手元ステージにすでに到達していて、いま攻略中のステージも同じ時代であることが条件です。目標を設定しなければ、候補の中からランダムで決まります。天井の進み具合は酒場の天井ボードで確認できます。\n（凱歌の歌姫や霜原の狼王などの入手方法は11月15日の記事で紹介したので、ここでは省略します。）\n〔配图请见 Steam 原文〕\n\nボス挑戦：負けても損なし、すぐ再挑戦\nステージ12をクリアすると、要塞の「試練の地」が開放され、その中に「ボス挑戦」があります。メインストーリーで章ボスを倒すたびに、ここに1戦ずつ追加されます。初めて勝つとその英雄がそのまま加入し、募集の証も券もいりません。\n\n• 難易度は固定で、こちらの戦力に合わせて上がることはありません。勝てなければ先に育成して、強くなってから戻ってきましょう。\n• 負けてもペナルティはなく、クールタイムもないので、すぐ再挑戦できます。\n• 勝って手に入るのは英雄だけで、資源はもらえません。\n• ボス挑戦は自動進行には含まれないので、自分で入って挑戦する必要があります。\n• 章ボスのほかに、Demoには中盤のボスも何体かいて、対応するステージをクリアすれば挑戦できます。\n\n〔配图请见 Steam 原文〕\n\n英雄はこんなルートで手に入ります：戦闘でのドロップ、酒場の派遣で券を貯める、毎正時の名簿、そしてボス挑戦。欲しい英雄がいたら、まず図鑑で入手先を見れば、どこへ向かえばいいか分かります。\n\nほかにも聞きたいことや分かりにくいところがあれば、ぜひコメントで聞いてください。Discord（https://discord.gg/uEwdWz2h62）にもぜひ遊びに来てください。\n\nもし悪くないなと思ってもらえたら、ウィッシュリストに追加していただけるとうれしいです。みなさん、ありがとうございます。ゲームにとって、本当に大事なことなんです。\n\n無料体験版をプレイ（https://store.steampowered.com/app/5257220/） | 製品版をウィッシュリストに追加（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=japanese"
+        },
+        "korean": {
+          "title": "주주님 근무 가이드: 원하는 영웅 얻는 법, 파견·명단·보스 도전",
+          "summary": "데모 진행 상황은 정식판으로 이어지지 않아요! 정식판은 12월 3일 출시, 11일 남았고 Steam 커뮤니티 장터가 열려요. 이번엔 데모에서 원하는 영웅 얻는 법: 주점 의뢰 파견으로 전설 모집권 모으기, 정시마다 바뀌는 저성 명단, 천장 목표 지정, 시련의 땅 보스 도전.",
+          "body": "중요해서 세 번 말할게요: 데모 진행 상황은 정식판으로 이어지지 않아요! 데모 진행 상황은 정식판으로 이어지지 않아요! 데모 진행 상황은 정식판으로 이어지지 않아요!\n\n안녕하세요, Juanmao입니다.\n\n정식판이 12월 3일에 출시돼요. 11일 남았어요! 정식판에서는 Steam 커뮤니티 장터가 열려요~ 장터에 대해 하고 싶은 말이 있으면 댓글로 남겨 주세요.\n\n며칠 전에는 영웅을 데려온 뒤 어떻게 키우는지 이야기했는데, 이번엔 영웅을 어디서 데려오는지 정리해 볼게요. 먼저 한마디 하자면, 이 게임에는 뽑기가 없어요. 영웅마다 얻는 방법이 다 공개되어 있어요.\n\n원하는 영웅이 있으면 먼저 도감부터\n도감에서 영웅을 눌러 보면 어디서 얻는지 나와요. 몇 스테이지에서 승리하면 합류하는지, 주점에서 모집하는지, 아니면 보스 도전에서 이겨야 하는지요. 아직 얻지 못한 영웅은 실루엣으로만 보이지만, 얻는 곳은 그대로 나와요. 데모 도감에는 데모에서 얻을 수 있는 영웅만 나오니까, 보이는 영웅은 다 얻을 수 있어요.\n〔配图请见 Steam 原文〕\n\n영웅을 의뢰에 보내서 전설 모집권 모으기\n주점의 \"의뢰\" 페이지에서 영웅을 임무에 파견할 수 있어요. 기한이 되면 자동으로 정산되고, 전설 모집권이 바로 들어오니까 따로 받으러 올 필요가 없어요.\n\n• 편성에 있는 영웅도 파견할 수 있어요. 파견 중에도 그대로 전투에 나가 방치하니까 스테이지 진행에 지장이 없어요.\n• 임무 카드마다 \"모집권 +N 예상\"이 적혀 있으니 많이 주는 걸 고르세요. 전투력이나 직업 조건이 있는 임무도 카드에 적혀 있어요.\n• 고르기 귀찮으면 \"일괄 파견\"을 누르세요. 직업이 맞는 영웅을 먼저 고르고, 그다음 전투력 높은 순으로 골라 줘요. 다 골랐으면 \"파견 확인\"을 누르면 돼요.\n• 중간에 \"의뢰 취소\"를 하면 영웅은 바로 돌아오지만, 그 의뢰의 모집권은 받을 수 없어요.\n\n막 시작해서 보유 영웅이 너무 적으면 아직 파견이 열리지 않아요. 몇 명이 더 필요한지 화면에 나오니까, 몇 명 더 모집하면 열려요.\n〔配图请见 Steam 原文〕\n\n스테이지 101부터, 저성 명단이 정시마다 교체\n스테이지 101에 도달하면 주점에 저성 명단이 하나 더 생겨요. 정시마다 명단이 바뀌고, 시대 모집권으로 모집해요. 시대 모집권은 전투 승리와 방치 중에 떨어져요.\n\n• 명단은 순서대로 돌아서, 한 순환 안에 모두 한 번씩은 나와요. 저성 명단의 보장 게시판에는 이번 순환에 몇 명 남았는지, 늦어도 \"N시간 이내\"에 나온다는 줄이 있어요.\n• 수동 새로고침은 다음 페이지로 넘기는 것뿐이라 순서가 꼬이지 않아요. 매시간 첫 번째는 무료예요.\n• 오프라인 동안 놓친 명단은 보충되지 않아요. 돌아오면 지금 이 시간의 페이지가 보여요.\n\n〔配图请见 Steam 原文〕\n\n전설 영웅은 천장 목표를 정할 수 있어요\n전설 영웅은 먼저 전용 모집 신물을 얻은 다음, 주점에서 전설 모집권으로 모집해요. 모집 신물은 전투 승리와 방치 중에 떨어지고, 전설 영웅 여러 명이 천장 하나를 같이 써요.\n주점의 \"모집\" 페이지에서 원하는 영웅을 열고 \"천장 목표로 설정\"을 누르면, 천장에 도달한 그 회차의 모집 신물이 그 영웅에게 가요. 단, 설정할 수 있는 건 현재 시대의 전설 영웅뿐이고, 그 영웅의 출처 스테이지에 이미 도달했으며 지금 진행 중인 스테이지도 같은 시대여야 해요. 목표를 정하지 않으면 후보 중에서 무작위로 정해져요. 천장 진행도는 주점의 보장 게시판에서 볼 수 있어요.\n(개선가의 디바, 서리 평원 늑대왕 같은 영웅들을 얻는 방법은 11월 15일 글에서 다뤘으니 여기서는 생략할게요.)\n〔配图请见 Steam 原文〕\n\n보스 도전: 져도 손해 없고, 바로 재도전\n스테이지 12를 클리어하면 요새의 \"시련의 땅\"이 열리고, 그 안에 \"보스 도전\"이 있어요. 메인 스토리에서 챕터 보스를 쓰러뜨릴 때마다 여기에 도전이 하나씩 열려요. 처음 이기면 그 영웅이 바로 합류해요. 모집 신물도 모집권도 필요 없어요.\n\n• 난이도는 고정이라 내 전투력에 따라 올라가지 않아요. 못 이기면 먼저 키우고, 강해진 다음에 다시 오세요.\n• 져도 손실이 없고 쿨타임도 없어서 바로 재도전할 수 있어요.\n• 이기면 영웅만 주고, 자원은 주지 않아요.\n• 보스 도전은 자동 진행에 포함되지 않으니 직접 들어가서 눌러야 해요.\n• 챕터 보스 말고도 데모에는 중반 보스가 몇 명 더 있어서, 해당 스테이지를 깨면 도전할 수 있어요.\n\n〔配图请见 Steam 原文〕\n\n영웅은 이런 길로 얻어요. 전투 드롭, 주점 파견으로 모집권 모으기, 정시 명단, 그리고 보스 도전. 원하는 영웅이 있으면 먼저 도감에서 출처를 확인해 보세요. 어디로 가야 할지 바로 알 수 있어요.\n\n또 듣고 싶은 이야기나 이해가 안 되는 부분이 있으면 댓글로 물어봐 주세요. Discord（https://discord.gg/uEwdWz2h62）에도 놀러 오세요.\n\n괜찮다고 느끼셨다면 찜 목록에도 추가해 주세요. 모두 감사합니다. 게임 하나에는 정말 중요한 일이에요.\n\n무료 데모 플레이（https://store.steampowered.com/app/5257220/） | 정식판 찜 목록에 추가（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=koreana"
+        },
+        "german": {
+          "title": "Leitfaden für Aktionäre: Wunschhelden bekommen – Aufträge, Listen, Bosse",
+          "summary": "Demo-Fortschritt wird nicht übernommen! Vollversion am 3. Dezember, noch 11 Tage, dann öffnet der Steam-Community-Markt. Diesmal: woher die Helden der Demo kommen.",
+          "body": "So wichtig, dass ich es dreimal sage: Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen!\n\nHallo zusammen, hier ist Juanmao.\n\nDie Vollversion erscheint am 3. Dezember! Noch 11 Tage! Mit der Vollversion öffnet der Steam-Community-Markt~ Wenn ihr Gedanken zum Markt habt, schreibt sie gern in die Kommentare.\n\nVor ein paar Tagen ging es darum, wie ihr eure Helden trainiert, sobald ihr sie habt. Diesmal geht es darum, woher sie kommen. Vorweg: Das Spiel hat kein Gacha, wie man jeden Helden bekommt, steht schwarz auf weiß da.\n\nWunschheld? Erst in den Kodex schauen\nKlickt im Kodex einen Helden an, und ihr seht, woher er kommt: Beitritt nach dem Sieg in einer bestimmten Etappe, Anwerben in der Taverne oder eine Bossherausforderung. Helden, die ihr noch nicht habt, erscheinen als Silhouette, ihre Herkunft steht trotzdem da. Der Demo-Kodex listet nur Helden, die es in der Demo gibt – alles, was ihr dort seht, könnt ihr auch bekommen.\n〔配图请见 Steam 原文〕\n\nHelden auf Aufträge schicken, Legenden-Rekrutierungsgutscheine sammeln\nIm Reiter „Aufträge“ der Taverne könnt ihr Helden losschicken. Läuft die Zeit ab, wird automatisch abgerechnet, und die Legenden-Rekrutierungsgutscheine landen direkt bei euch – abholen müsst ihr nichts.\n\n• Auch Helden aus dem Trupp können los. Sie kämpfen und farmen trotzdem weiter, beim Vorrücken verliert ihr also nichts.\n• Auf jeder Auftragskarte steht „Ca. +N Gutscheine“ – nehmt die, die mehr bringen. Manche Aufträge verlangen Kampfkraft oder eine bestimmte Klasse, auch das steht auf der Karte.\n• Keine Lust zu wählen? Drückt „Auto-Entsendung“. Sie nimmt zuerst passende Klassen und füllt dann nach Kampfkraft von hoch nach niedrig auf. Danach einfach „Bestätigen“ drücken.\n• Mit „Abbrechen“ kommen die Helden sofort zurück, aber für diesen Auftrag gibt es dann keine Gutscheine.\n\nGanz am Anfang habt ihr zu wenige Helden, deshalb sind Entsendungen noch gesperrt. Das Spiel zeigt an, wie viele noch fehlen. Werbt ein paar mehr an, dann geht es los.\n〔配图请见 Steam 原文〕\n\nAb Etappe 101 wechselt die Liste mit wenigen Sternen stündlich\nAb Etappe 101 hat die Taverne eine zusätzliche Liste mit Helden weniger Sterne. Zur vollen Stunde kommt eine neue Gruppe, angeworben wird mit Ära-Anwerbescheinen. Die gibt es bei Kampfsiegen und beim Farmen.\n\n• Die Liste rotiert, und in einer Runde ist jeder einmal dran. Auf der Garantie-Tafel der Liste steht in einer Zeile, wie viele in dieser Runde noch übrig sind und dass sie spätestens „in N Std.“ dran sind.\n• Manuell aktualisieren blättert nur eine Seite weiter und bringt die Rotation nicht durcheinander. Das erste Mal pro Stunde ist gratis.\n• Was ihr offline verpasst, wird nicht nachgeholt. Wenn ihr zurückkommt, seht ihr die Seite der aktuellen Stunde.\n\n〔配图请见 Steam 原文〕\n\nFür Legenden-Helden könnt ihr ein Garantie-Ziel setzen\nFür einen Legenden-Helden braucht ihr erst seine eigene Anwerbemarke, dann werbt ihr ihn in der Taverne mit Legenden-Rekrutierungsgutscheinen an. Anwerbemarken gibt es bei Kampfsiegen und beim Farmen, und mehrere Legenden teilen sich eine Garantie.\nÖffnet in der Taverne den Reiter „Anwerben“, wählt den Helden, den ihr wollt, und drückt „Als Garantie-Ziel setzen“. Greift die Garantie, geht die Marke an ihn. Setzen lassen sich nur legendäre Helden eurer aktuellen Ära, und die Marke geht nur an ihn, wenn ihr seine Herkunftsetappe schon erreicht habt und gerade eine Etappe derselben Ära spielt. Ohne Ziel wird zufällig unter den Kandidaten gewählt. Den Garantie-Fortschritt seht ihr auf der Garantie-Tafel der Taverne.\n(Wie man Triumph-Diva, Frostebenen-Wolfskönig und ein paar andere bekommt, stand schon im Beitrag vom 15. November, das wiederhole ich hier nicht.)\n〔配图请见 Steam 原文〕\n\nBossherausforderung: Verlieren kostet nichts, sofort neu versuchen\nNach Etappe 12 öffnet in der Festung das „Prüfungsgelände“, darin gibt es die „Bossherausforderung“. Für jeden Kapitelboss, den ihr in der Hauptstory besiegt, kommt hier ein Kampf dazu. Beim ersten Sieg tritt der Held direkt bei – ohne Marke und ohne Gutscheine.\n\n• Die Schwierigkeit ist fest und wächst nicht mit eurer Kampfkraft. Klappt es noch nicht, trainiert erst und kommt stärker zurück.\n• Verlieren kostet nichts, und es gibt keine Abklingzeit – ihr könnt sofort neu antreten.\n• Ein Sieg bringt nur den Helden, keine Ressourcen.\n• Bossherausforderungen laufen nicht über Auto-Vorrücken, ihr müsst selbst reingehen und starten.\n• Neben den Kapitelbossen gibt es in der Demo noch ein paar Zwischenbosse. Schafft die passende Etappe, dann könnt ihr sie herausfordern.\n\n〔配图请见 Steam 原文〕\n\nDas sind also die Wege zu neuen Helden: Drops im Kampf, Gutscheine über Aufträge in der Taverne, die stündliche Liste und Bossherausforderungen. Wenn ihr jemanden wollt, schaut zuerst im Kodex nach der Herkunft, dann wisst ihr, wohin.\n\nWorüber soll ich noch schreiben, und was ist euch unklar? Fragt mich gern in den Kommentaren. Kommt auch gern auf unseren Discord（https://discord.gg/uEwdWz2h62）.\n\nWenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.\n\nKostenlose Demo spielen（https://store.steampowered.com/app/5257220/） | Vollversion auf die Wunschliste setzen（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=german"
+        },
+        "french": {
+          "title": "Guide de l'actionnaire : obtenir vos héros – envois, listes et défis de boss",
+          "summary": "La progression de la démo n'est pas reprise ! Jeu complet le 3 décembre, J-11, le Marché de la communauté Steam ouvre. Au menu : d'où viennent les héros de la démo.",
+          "body": "C'est important, alors je le dis trois fois : la progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet !\n\nBonjour à tous, ici Juanmao.\n\nLe jeu complet sort le 3 décembre ! Plus que 11 jours ! Le Marché de la communauté Steam ouvrira avec le jeu complet~ Si vous avez des idées sur le Marché, laissez-les en commentaire.\n\nIl y a quelques jours, j'ai expliqué comment entraîner vos héros une fois recrutés. Cette fois, voyons d'où ils viennent. D'abord : pas de gacha dans ce jeu, la façon d'obtenir chaque héros est écrite noir sur blanc.\n\nVous voulez un héros ? Ouvrez d'abord le Codex\nDans le Codex, cliquez sur un héros pour voir d'où il vient : il rejoint après une victoire à une certaine étape, se recrute à la Taverne, ou s'obtient via un Défi de boss. Les héros que vous n'avez pas encore apparaissent en silhouette, mais leur origine est quand même indiquée. Le Codex de la démo ne liste que les héros disponibles dans la démo : tous ceux que vous y voyez peuvent s'obtenir.\n〔配图请见 Steam 原文〕\n\nEnvoyez vos héros en mission, gagnez des Bons de recrutement légendaire\nDans l'onglet « Envois » de la Taverne, vous pouvez envoyer des héros en mission. À la fin, tout se règle automatiquement et les Bons de recrutement légendaire arrivent directement chez vous, rien à récupérer.\n\n• Les héros de votre Équipe peuvent partir aussi. Ils continuent de combattre et de farmer, donc votre progression n'est pas ralentie.\n• Chaque carte de mission affiche « Prév. +N bons » : prenez celles qui rapportent le plus. Certaines missions demandent une force ou une classe précise, c'est aussi indiqué sur la carte.\n• La flemme de choisir ? Appuyez sur « Envoi auto ». Il prend d'abord les classes qui correspondent, puis complète par force, de la plus haute à la plus basse. Ensuite, appuyez sur « Confirmer ».\n• Avec « Annuler » en cours de route, les héros reviennent tout de suite, mais cette mission ne rapporte aucun bon.\n\nAu tout début, votre effectif est trop petit et les envois ne sont pas encore ouverts. L'écran indique combien de héros il vous manque : recrutez-en quelques-uns de plus et ce sera débloqué.\n〔配图请见 Steam 原文〕\n\nDès l'étape 101, la liste de faible rang change toutes les heures\nUne fois l'étape 101 atteinte, la Taverne propose une liste supplémentaire de héros de faible rang. Un nouveau groupe arrive à chaque heure pile, à recruter avec des tickets de recrutement d'ère. Ces tickets tombent lors des victoires et pendant le farm.\n\n• La liste tourne, et chacun passe une fois par tour. Sur le tableau de garantie de la liste, une ligne indique combien il en reste ce tour-ci et qu'ils arrivent au plus tard « sous N h ».\n• Rafraîchir à la main ne fait que passer à la page suivante, sans mélanger la rotation. Le premier rafraîchissement de chaque heure est gratuit.\n• Les listes manquées hors ligne ne sont pas rattrapées : à votre retour, vous voyez la page de l'heure en cours.\n\n〔配图请见 Steam 原文〕\n\nLes héros légendaires ont une cible de garantie au choix\nPour un héros légendaire, il faut d'abord son propre Jeton de recrue, puis le recruter à la Taverne avec des Bons de recrutement légendaire. Les Jetons de recrue tombent lors des victoires et pendant le farm, et plusieurs légendaires partagent la même garantie.\nDans l'onglet « Recruter » de la Taverne, ouvrez le héros voulu et appuyez sur « En faire la cible de garantie ». Quand la garantie tombe, le jeton est pour lui. Seuls les héros légendaires de votre ère actuelle peuvent être choisis, et le jeton ne lui revient que si vous avez déjà atteint son étape d'origine et jouez une étape de la même ère. Sans cible, c'est au hasard parmi les candidats. La progression de la garantie s'affiche sur le tableau de garantie de la Taverne.\n(Comment obtenir la Diva triomphale, le Roi-loup de la plaine gelée et quelques autres, je l'ai expliqué dans l'article du 15 novembre, je ne le répète pas ici.)\n〔配图请见 Steam 原文〕\n\nDéfi de boss : perdre ne coûte rien, rejouez tout de suite\nAprès l'étape 12, les « Terres des épreuves » s'ouvrent dans la Forteresse, avec le « Défi de boss » à l'intérieur. Chaque boss de chapitre vaincu dans l'histoire principale y ouvre un combat. À la première victoire, ce héros vous rejoint directement, sans jeton ni bons.\n\n• La difficulté est fixe et ne suit pas votre force. Si ça ne passe pas encore, entraînez-vous et revenez plus fort.\n• Perdre ne coûte rien et il n'y a pas de temps de recharge : vous pouvez réessayer tout de suite.\n• Une victoire ne donne que le héros, pas de ressources.\n• Les Défis de boss ne font pas partie de l'Avancée auto : il faut y aller et les lancer vous-même.\n• En plus des boss de chapitre, la démo a quelques boss de mi-parcours. Terminez l'étape correspondante pour pouvoir les défier.\n\n〔配图请见 Steam 原文〕\n\nVoilà d'où viennent les héros : butin de combat, bons via les envois de la Taverne, la liste horaire et les Défis de boss. Vous voulez quelqu'un ? Regardez d'abord son origine dans le Codex, et vous saurez où aller.\n\nQu'aimeriez-vous que je vous présente d'autre, et qu'est-ce qui n'est pas clair ? Posez-moi vos questions en commentaire. Vous pouvez aussi nous rejoindre sur Discord（https://discord.gg/uEwdWz2h62）.\n\nSi le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.\n\nJouer à la démo gratuite（https://store.steampowered.com/app/5257220/） | Ajouter le jeu complet à votre liste de souhaits（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=french"
+        },
+        "spanish": {
+          "title": "Guía del accionista: consigue a tus héroes con encargos, listas y jefes",
+          "summary": "¡El progreso de la demo no se conserva! Juego completo el 3 de diciembre (11 días) y abre el Mercado de la Comunidad de Steam. Hoy: de dónde salen los héroes de la demo.",
+          "body": "Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo!\n\n¡Hola a todos! Soy Juanmao.\n\n¡El juego completo sale el 3 de diciembre! ¡Quedan 11 días! Con el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes alguna idea sobre el Mercado, déjala en los comentarios.\n\nEn la guía de héroes de hace unos días vimos cómo entrenar a los héroes una vez reclutados; hoy toca ver de dónde salen. Antes que nada: este juego no tiene gacha, y cómo conseguir a cada héroe está escrito a la vista.\n\n¿Quieres a alguien? Mira primero el Códice\nAbre a un héroe en el Códice y verás de dónde sale: si se une al ganar cierta etapa, si se recluta en la Taberna o si hay que ganarle un desafío de jefe. Los héroes que aún no tienes salen como una silueta, pero su origen aparece igual. El Códice de la demo solo muestra los héroes que se pueden conseguir en la demo, así que todo lo que ves se puede conseguir.\n〔配图请见 Steam 原文〕\n\nManda héroes de encargo y junta cupones de reclutamiento legendario\nEn la página «Encargos» de la Taberna puedes mandar héroes a hacer misiones. Al terminar el plazo se liquidan solas y los cupones de reclutamiento legendario te llegan directamente, sin tener que ir a recogerlos.\n\n• También puedes mandar a los de tu Escuadra: aunque estén de encargo, siguen luchando y farmeando como siempre, así que no frenan tu avance;\n• Cada tarjeta de misión indica «Cupones est.: +N», así que elige las que den más; algunas piden cierta fuerza o una clase concreta, y eso también viene en la tarjeta;\n• Si te da pereza elegir, pulsa «Despacho rápido»: primero escoge a los que tengan la clase adecuada y luego va de mayor a menor fuerza. Cuando esté listo, pulsa «Confirmar»;\n• Si pulsas «Cancelar» a medias, los héroes vuelven al instante, pero ese encargo no da cupones.\n\nAl principio tendrás pocos héroes y los encargos aún no estarán disponibles; la pantalla te dirá cuántos te faltan. Recluta a unos cuantos más y se abren.\n〔配图请见 Steam 原文〕\n\nDesde la etapa 101: listas de pocas estrellas que cambian cada hora\nA partir de la etapa 101, en la Taberna aparece una lista de héroes de pocas estrellas que cambia cada hora en punto; se reclutan con boletos de reclutamiento de era. Esos boletos caen al ganar combates y mientras farmeas.\n\n• La lista va por turnos: en cada ronda aparecen todos. En el panel de garantías de la lista, una línea indica cuántos quedan en esta ronda y que, a más tardar, aparecerán «en N h»;\n• Refrescar a mano solo pasa a la siguiente página y no altera el orden de rotación; la primera vez de cada hora es gratis;\n• Las listas que pasen mientras estás desconectado no se recuperan: al volver verás la página de la hora actual.\n\n〔配图请见 Steam 原文〕\n\nPuedes elegir a qué héroe legendario va la garantía\nPara reclutar a un héroe legendario primero necesitas su ficha de reclutamiento exclusiva y después cupones de reclutamiento legendario, en la Taberna. Las fichas caen al ganar combates y mientras farmeas, y varios legendarios comparten una misma garantía.\nVe a la página «Reclutar» de la Taberna, abre al que quieras y pulsa «Fijar objetivo de garantía»: cuando se cumpla la garantía, la ficha será para él. Eso sí, solo se pueden fijar héroes legendarios de tu era actual, y la ficha solo será para él si ya llegaste a su etapa de origen y estás jugando una etapa de esa misma era; si no fijas objetivo, la ficha sale al azar entre los candidatos. El progreso de la garantía se ve en el panel de garantías de la Taberna.\n(Cómo conseguir a la Diva triunfal, al Rey lobo de la llanura helada y compañía ya lo conté en el post del 15 de noviembre, así que no lo repito aquí.)\n〔配图请见 Steam 原文〕\n\nDesafío de jefe: perder no cuesta nada, reintenta al momento\nAl superar la etapa 12 se abren las «Tierras de pruebas» en la Fortaleza, y dentro está la sección «Desafío de jefe». Cada vez que derrotas al jefe de un capítulo de la historia principal, aquí se abre un desafío; la primera vez que lo ganas, ese héroe se une directamente, sin fichas ni cupones.\n\n• La dificultad es fija y no sube con tu fuerza; si no puedes, ve a entrenar y vuelve cuando seas más fuerte;\n• Perder no tiene ningún coste ni tiempo de espera: puedes reintentarlo al momento;\n• Ganar solo da el héroe, no recursos;\n• Los desafíos de jefe no entran en el Autoavance: tienes que entrar y lanzarlos tú;\n• Además de los jefes de capítulo, la demo tiene algunos jefes intermedios; supera la etapa correspondiente y podrás desafiarlos.\n\n〔配图请见 Steam 原文〕\n\nAsí que los héroes salen por estos caminos: lo que cae en combate, los cupones de los encargos de la Taberna, las listas de cada hora y los desafíos de jefe. Si quieres a alguien, mira primero su origen en el Códice y sabrás por dónde ir.\n\nSi hay algo más que quieras que te explique o algo que no se entienda, pregúntame en los comentarios. También puedes unirte a nuestro Discord（https://discord.gg/uEwdWz2h62）.\n\nSi te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.\n\nJuega la demo gratis（https://store.steampowered.com/app/5257220/） | Añade el juego completo a tu lista de deseados（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=spanish"
+        },
+        "brazilian": {
+          "title": "Guia do acionista: como conseguir heróis com contratos, listas e chefes",
+          "summary": "O progresso da demo não é mantido! O jogo completo chega em 3 de dezembro, faltam 11 dias, e abre o Mercado da Comunidade Steam. Hoje: de onde vêm os heróis da demo.",
+          "body": "É importante, então vou falar três vezes: o progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo!\n\nOlá, pessoal! Aqui é o Juanmao.\n\nO jogo completo chega em 3 de dezembro! Faltam 11 dias! Com o jogo completo, o Mercado da Comunidade Steam vai abrir~ Se tiver alguma ideia sobre o Mercado, deixa nos comentários.\n\nNo guia de heróis de uns dias atrás, falei de como treinar a galera depois de recrutar; agora vou contar de onde ela vem. Antes de tudo: o jogo não tem gacha, e como conseguir cada herói está escrito às claras.\n\nQuer alguém? Olhe o Códice primeiro\nAbra um herói no Códice e você vê de onde ele vem: se entra ao vencer certa fase, se é recrutado na Taverna ou se é preciso vencer um combate de chefe. Os heróis que você ainda não tem aparecem só como silhueta, mas a origem aparece do mesmo jeito. O Códice da demo só mostra os heróis que dá para conseguir na demo, então tudo o que aparece ali dá para pegar.\n〔配图请见 Steam 原文〕\n\nMande heróis em contratos e junte Cupons de Recrutamento Lendário\nNa página \"Contratos\" da Taverna, você manda heróis para fazer missões. Quando o prazo acaba, tudo se resolve sozinho e os Cupons de Recrutamento Lendário caem direto para você, sem precisar voltar para coletar.\n\n• Dá para mandar até quem está na Equipe: eles continuam lutando e farmando normalmente, então o avanço não para;\n• Cada cartão de missão mostra \"Prev. +N cupons\", então escolha os que rendem mais; algumas missões exigem certa Força ou uma classe específica, e isso também vem no cartão;\n• Com preguiça de escolher? Aperte \"Envio automático\": ele pega primeiro quem tem a classe certa e depois vai da maior para a menor Força. Escolhidos, aperte \"Confirmar\";\n• Se apertar \"Cancelar\" no meio do caminho, os heróis voltam na hora, mas esse contrato não dá cupons.\n\nNo começo, com poucos heróis no elenco, os contratos ainda não abrem; a tela avisa quantos faltam. Recrute mais alguns e pronto.\n〔配图请见 Steam 原文〕\n\nA partir da fase 101: listas de baixa estrela que mudam toda hora\nDepois de chegar à fase 101, aparece na Taverna uma lista de heróis de baixa estrela que muda a cada hora cheia; eles são recrutados com Bilhetes de Recrutamento da Era. Esses bilhetes caem nas vitórias em batalha e enquanto você farma.\n\n• A lista funciona em rodízio: em cada rodada, todo mundo aparece. No painel de garantias da lista, uma linha mostra quantos ainda faltam nesta rodada e o prazo máximo, \"em até Nh\";\n• Atualizar na mão só passa para a próxima página, sem bagunçar o rodízio; a primeira vez de cada hora é grátis;\n• Listas que passaram enquanto você estava offline não voltam: ao retornar, você vê a página da hora atual.\n\n〔配图请见 Steam 原文〕\n\nDá para escolher o alvo da garantia lendária\nPara recrutar um herói lendário, primeiro você precisa da Ficha de recruta exclusiva dele e depois de Cupons de Recrutamento Lendário, na Taverna. As fichas caem nas vitórias em batalha e enquanto você farma, e vários lendários dividem a mesma garantia.\nNa página \"Recrutar\" da Taverna, abra quem você quer e aperte \"Definir como alvo da garantia\": quando a garantia chegar, a ficha vai para ele. Só que só dá para definir lendários da sua era atual, e a ficha só vai para ele se você já tiver chegado à fase de origem dele e estiver jogando uma fase dessa mesma era; sem alvo definido, a ficha sai aleatória entre os candidatos. O progresso da garantia aparece no painel de garantias da Taverna.\n(Como pegar a Diva Triunfal, o Rei-Lobo da Planície Gélida e companhia eu já contei no post de 15 de novembro, então não vou repetir aqui.)\n〔配图请见 Steam 原文〕\n\nCombate de chefe: perder não custa nada, tente de novo na hora\nDepois de concluir a fase 12, as \"Terras de Desafios\" abrem na Fortaleza, e lá dentro fica o \"Combate de chefe\". Cada vez que você derrota o chefe de um capítulo da história principal, um combate novo abre aqui; na primeira vitória, o herói entra direto para o time, sem ficha nem cupom.\n\n• A dificuldade é fixa e não sobe junto com a sua Força; se não der, vá treinar e volte mais forte;\n• Perder não tem custo nem tempo de espera: dá para tentar de novo na hora;\n• Vencer só dá o herói, sem recursos;\n• Os combates de chefe não entram no Avanço automático: você precisa entrar e iniciar na mão;\n• Além dos chefes de capítulo, a demo tem alguns chefes intermediários; conclua a fase correspondente e já dá para desafiá-los.\n\n〔配图请见 Steam 原文〕\n\nEntão os heróis vêm por estes caminhos: drops nas batalhas, cupons dos contratos da Taverna, as listas de cada hora e os combates de chefe. Quer alguém? Olhe a origem dele no Códice e você já sabe para onde ir.\n\nSe tem mais alguma coisa que você quer que eu explique ou algo que não ficou claro, pode perguntar nos comentários. Também dá para entrar no nosso Discord（https://discord.gg/uEwdWz2h62）.\n\nSe você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.\n\nJogue a demo gratuita（https://store.steampowered.com/app/5257220/） | Adicione o jogo completo à sua lista de desejos（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=brazilian"
+        },
+        "russian": {
+          "title": "Памятка новому акционеру: где брать героев — поручения, списки и боссы",
+          "summary": "Прогресс из демо не перенесётся! Полная версия 3 декабря, осталось 11 дней, откроется Торговая площадка Steam. Сегодня — откуда в демо берутся герои.",
+          "body": "Это важно, поэтому повторю трижды: прогресс из демо не перенесётся в полную версию! Прогресс из демо не перенесётся в полную версию! Прогресс из демо не перенесётся в полную версию!\n\nВсем привет, это Juanmao.\n\nПолная версия выходит 3 декабря! Осталось 11 дней! В полной версии откроется Торговая площадка Steam~ Если есть мысли насчёт рынка — пишите в комментариях.\n\nНа днях в статье про героев я рассказал, как их качать после найма, а сегодня — откуда они вообще берутся. Сразу скажу: гачи в игре нет, и как получить каждого героя, написано прямо.\n\nХотите кого-то — сначала загляните в Кодекс\nОткройте героя в Кодексе, и вы увидите, откуда он берётся: присоединяется после победы на каком-то этапе, нанимается в Таверне или ждёт вас в испытании босса. Героев, которых у вас ещё нет, видно только силуэтом, но откуда они берутся, всё равно написано. В Кодексе демо показаны только герои, которых можно получить в демо, так что всех, кого видите, можно заполучить.\n〔配图请见 Steam 原文〕\n\nОтправляйте героев на поручения и копите легендарные пропуска найма\nНа вкладке «Поручения» в Таверне можно отправить героев на задания. Когда срок выходит, всё засчитывается само, а легендарные пропуска найма сразу приходят вам — возвращаться за ними не нужно.\n\n• Отправлять можно и тех, кто в Отряде: они всё равно продолжают сражаться и фармить, так что продвижение не тормозит;\n• На каждой карточке задания написано «Ожид. пропусков: +N» — берите те, где больше; некоторые задания требуют определённой силы или класса, это тоже указано на карточке;\n• Лень выбирать — жмите «Автоотправка»: сначала она подберёт героев подходящего класса, потом — по силе, от большей к меньшей. Когда всё готово, жмите «Подтвердить»;\n• Если нажать «Отменить» на полпути, герои сразу вернутся, но за это поручение пропусков не будет.\n\nВ самом начале героев слишком мало, и поручения ещё закрыты; игра подскажет, скольких не хватает. Наймите ещё нескольких — и всё откроется.\n〔配图请见 Steam 原文〕\n\nС этапа 101: список героев низкого ранга меняется каждый час\nНачиная с этапа 101, в Таверне появляется список героев низкого ранга, который обновляется в начале каждого часа; нанимают их за билеты найма эпохи. Билеты выпадают за победы в боях и во время фарма.\n\n• Список идёт по кругу: за один круг появляется каждый. На панели гарантий этого списка есть строка, где видно, сколько героев ещё осталось в этом круге и крайний срок — «за N ч»;\n• Ручное обновление просто листает на следующую страницу и не сбивает очерёдность; первое обновление в каждом часу бесплатное;\n• Списки, пропущенные офлайн, не возвращаются: вернувшись, вы увидите страницу текущего часа.\n\n〔配图请见 Steam 原文〕\n\nЛегендарному герою можно назначить гарант\nЧтобы нанять легендарного героя, сначала нужен его личный жетон найма, а потом — легендарные пропуска найма в Таверне. Жетоны выпадают за победы в боях и во время фарма, а гарант у нескольких легендарных героев общий.\nОткройте вкладку «Нанять» в Таверне, выберите нужного героя и нажмите «Сделать целью гаранта»: когда сработает гарант, жетон достанется ему. Но есть условия: выбрать можно только легендарного героя текущей эпохи, а жетон достанется ему, только если вы уже дошли до его этапа-источника и проходите этап той же эпохи; если цель не задана, жетон достанется случайному герою из кандидатов. Прогресс гаранта виден на панели гарантий в Таверне.\n(Как получить Диву триумфа, Короля волков морозной равнины и других, я уже рассказывал в посте от 15 ноября, так что повторяться не буду.)\n〔配图请见 Steam 原文〕\n\nИспытание босса: проиграть не страшно, можно сразу переиграть\nПосле прохождения этапа 12 в Крепости открываются «Земли испытаний», а в них — «Испытание босса». Каждый раз, когда вы побеждаете босса главы в основном сюжете, здесь открывается новый бой; при первой победе этот герой сразу присоединяется к вам — без жетонов и пропусков.\n\n• Сложность фиксированная и не растёт вместе с вашей силой; не получается — сначала прокачайтесь и возвращайтесь посильнее;\n• За поражение вы ничего не теряете и перезарядки нет — можно сразу переиграть;\n• За победу дают только героя, ресурсов нет;\n• Испытания боссов не входят в Автопродвижение — заходить и запускать их нужно самому;\n• Кроме боссов глав, в демо есть ещё несколько промежуточных боссов — пройдите соответствующий этап, и их можно будет вызвать на бой.\n\n〔配图请见 Steam 原文〕\n\nВот и все пути, откуда берутся герои: добыча в боях, пропуска за поручения в Таверне, ежечасные списки и испытания боссов. Хотите кого-то — сначала гляньте в Кодексе, откуда он, и сразу станет ясно, куда идти.\n\nЕсли хотите, чтобы я рассказал о чём-то ещё, или что-то непонятно — спрашивайте в комментариях. Заходите и в наш Discord（https://discord.gg/uEwdWz2h62）.\n\nЕсли игра вам понравилась, пожалуйста, добавьте её в список желаемого. Спасибо всем — для игры это правда очень важно.\n\nИграть в бесплатную демоверсию（https://store.steampowered.com/app/5257220/） | Добавить полную версию в список желаемого（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=russian"
+        }
+      },
+      "files": [
+        {
+          "name": "简体中文 · 已发布原文",
+          "url": "assets/steam-704411368981267139-schinese.txt",
+          "type": "text"
+        },
+        {
+          "name": "简体中文 · 正文图2",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/ac9584a5b1d02e6b0596bcb9651d28d18dc28b75.png",
+          "type": "image"
+        },
+        {
+          "name": "简体中文 · 正文图5",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/067f2fef3535402678a40b1d1eeb5f9e1863b862.png",
+          "type": "image"
+        },
+        {
+          "name": "简体中文 · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/7c639975282a7eb8870f9cf6ec3525f9de6e1490.png",
+          "type": "image"
+        },
+        {
+          "name": "简体中文 · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/bb51cca4d6308c8a877fada96ee3e993bbac04ec.png",
+          "type": "image"
+        },
+        {
+          "name": "简体中文 · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/613ce77a6a0835eee35f06926e1b9491f0d165e4.png",
+          "type": "image"
+        },
+        {
+          "name": "繁體中文 · 已发布原文",
+          "url": "assets/steam-704411368981267139-tchinese.txt",
+          "type": "text"
+        },
+        {
+          "name": "繁體中文 · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/3c7ebc12ba839ad307f98107c78bb772541a0cc5.png",
+          "type": "image"
+        },
+        {
+          "name": "繁體中文 · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/b4f05aadf7856b62c0e59888175a693d9a25229e.png",
+          "type": "image"
+        },
+        {
+          "name": "繁體中文 · 正文图2",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/a503cb8b4990b1d3252669af727ba34f3c93d72c.png",
+          "type": "image"
+        },
+        {
+          "name": "繁體中文 · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/7ebc9d405d137f85542745587f95357cb737b7a1.png",
+          "type": "image"
+        },
+        {
+          "name": "繁體中文 · 正文图5",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/e943dad91f0ac131299d0d73e2b68ea836847f84.png",
+          "type": "image"
+        },
+        {
+          "name": "English · 已发布原文",
+          "url": "assets/steam-704411368981267139-english.txt",
+          "type": "text"
+        },
+        {
+          "name": "English · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/810389cf8ee4c1e54de3e1dde72c8542e6518bdf.png",
+          "type": "image"
+        },
+        {
+          "name": "English · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/36bd831504d748a3979a62c5dbc1ee2d71405df8.png",
+          "type": "image"
+        },
+        {
+          "name": "English · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/e5a9dcf24318870daf43570200e6c341bc0797ac.png",
+          "type": "image"
+        },
+        {
+          "name": "English · 正文图5",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/049ba29481953155a8703c53946f36ed385a78e9.png",
+          "type": "image"
+        },
+        {
+          "name": "English · 正文图2",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/ee245bd388ce5405bb40a190f019463a8c09499d.png",
+          "type": "image"
+        },
+        {
+          "name": "日本語 · 已发布原文",
+          "url": "assets/steam-704411368981267139-japanese.txt",
+          "type": "text"
+        },
+        {
+          "name": "日本語 · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/869d6244dec0b864881c26e2aa75d7ebd3fbe932.png",
+          "type": "image"
+        },
+        {
+          "name": "日本語 · 正文图2",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/35a84154c2f11d96de8a780a7831782c3ed0d275.png",
+          "type": "image"
+        },
+        {
+          "name": "日本語 · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/48186b1e014166e039159b3a44d5828d64566956.png",
+          "type": "image"
+        },
+        {
+          "name": "日本語 · 正文图5",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/dd507a664c4deac5a0c77729a740bd7b6a8c33dc.png",
+          "type": "image"
+        },
+        {
+          "name": "日本語 · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/d03a13f5ce1a12afcb313ce2552680f661780cae.png",
+          "type": "image"
+        },
+        {
+          "name": "한국어 · 已发布原文",
+          "url": "assets/steam-704411368981267139-korean.txt",
+          "type": "text"
+        },
+        {
+          "name": "한국어 · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/70723b6c3d7b714ee3312baacd1b3b75dcf5ac73.png",
+          "type": "image"
+        },
+        {
+          "name": "한국어 · 正文图2",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/2da1058a7b40ff6e3960c9f0f8f1aa976929a480.png",
+          "type": "image"
+        },
+        {
+          "name": "한국어 · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/41c1d54af6288fa2cacf677324aa925d2e992903.png",
+          "type": "image"
+        },
+        {
+          "name": "한국어 · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/5f6ed3a054b768c5d01670b44a6b450b880089aa.png",
+          "type": "image"
+        },
+        {
+          "name": "한국어 · 正文图5",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/c839fcca927c506673640e0b21ae7cbb3c8e3255.png",
+          "type": "image"
+        },
+        {
+          "name": "Deutsch · 已发布原文",
+          "url": "assets/steam-704411368981267139-german.txt",
+          "type": "text"
+        },
+        {
+          "name": "Deutsch · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/f3535a351ee654a8b35d1b7ccfb3cb873ddd6a5a.png",
+          "type": "image"
+        },
+        {
+          "name": "Deutsch · 正文图2",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/8fc02858ca9058e2c8a91b2ec1cddca15d8f3fdc.png",
+          "type": "image"
+        },
+        {
+          "name": "Deutsch · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/4bc1c8360ecbce4df355f4bac50daab3b322a96c.png",
+          "type": "image"
+        },
+        {
+          "name": "Deutsch · 正文图5",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/c956f99cbe6972237ae8cf27a0495e5e898e140c.png",
+          "type": "image"
+        },
+        {
+          "name": "Deutsch · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/16fd1d9862009469deb6f0d96660dfaeee0a64fb.png",
+          "type": "image"
+        },
+        {
+          "name": "Français · 已发布原文",
+          "url": "assets/steam-704411368981267139-french.txt",
+          "type": "text"
+        },
+        {
+          "name": "Français · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/e4b8daa0635fb66e52aec1cc9f94c4a1537bc69f.png",
+          "type": "image"
+        },
+        {
+          "name": "Français · 正文图2",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/24eb992fc0da476d001b6c58145537f93d610ee4.png",
+          "type": "image"
+        },
+        {
+          "name": "Français · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/892943bdb03e7f86f0bb1483bdfdfe0d8bcc3f18.png",
+          "type": "image"
+        },
+        {
+          "name": "Français · 正文图5",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/c5962bf5d17fa9bd4c107284f283e845f3aafd12.png",
+          "type": "image"
+        },
+        {
+          "name": "Français · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/cd2c7f511db0315f20e9d30acad206a29ad8bea7.png",
+          "type": "image"
+        },
+        {
+          "name": "Español · 已发布原文",
+          "url": "assets/steam-704411368981267139-spanish.txt",
+          "type": "text"
+        },
+        {
+          "name": "Español · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/24ca8625fd7e8c725e5bd54c9afaf1094e75f733.png",
+          "type": "image"
+        },
+        {
+          "name": "Español · 正文图2",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/81a67ab89d3476b6cf3c01fc093be6d5023bf9a6.png",
+          "type": "image"
+        },
+        {
+          "name": "Español · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/7a266ff8c3617a08a8ba5eb147e8a31e6ec54bf4.png",
+          "type": "image"
+        },
+        {
+          "name": "Español · 正文图5",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/3c51d2526bcbb82b5d48690935f1dbe4a0fc88ca.png",
+          "type": "image"
+        },
+        {
+          "name": "Español · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/cd4aa9d1bddf1067692d1e78d1a459889af4b90c.png",
+          "type": "image"
+        },
+        {
+          "name": "Português(Brasil) · 已发布原文",
+          "url": "assets/steam-704411368981267139-brazilian.txt",
+          "type": "text"
+        },
+        {
+          "name": "Português(Brasil) · 正文图2",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/8e9cef2f5323fbd2192ee0fdbee61f3dde358c01.png",
+          "type": "image"
+        },
+        {
+          "name": "Português(Brasil) · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/75626f4a7c17d9b02a0672fac800c3b338bd0469.png",
+          "type": "image"
+        },
+        {
+          "name": "Português(Brasil) · 正文图5",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/a1a2878073bee39a2cb3ca0c78c686370611530b.png",
+          "type": "image"
+        },
+        {
+          "name": "Português(Brasil) · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/0699e24e60731f07c5e6a065dc5ba88b13a9c171.png",
+          "type": "image"
+        },
+        {
+          "name": "Português(Brasil) · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/316d7214366d3300cadcb944ed5034e6536c2927.png",
+          "type": "image"
+        },
+        {
+          "name": "Русский · 已发布原文",
+          "url": "assets/steam-704411368981267139-russian.txt",
+          "type": "text"
+        },
+        {
+          "name": "Русский · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/14760b8f5cab4d04fb318615d17fe0398d950e83.png",
+          "type": "image"
+        },
+        {
+          "name": "Русский · 正文图2",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/9a73d8ae3ce2b83d83c3e1a83ab8370b39ff7c25.png",
+          "type": "image"
+        },
+        {
+          "name": "Русский · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/7a42930cd389f082c9cdb92ad0f083fec3982248.png",
+          "type": "image"
+        },
+        {
+          "name": "Русский · 正文图5",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/d3426fd4d56f35a7932c6edfb1c97d235b381c5f.png",
+          "type": "image"
+        },
+        {
+          "name": "Русский · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/e89eba40dc4d5a5f9242b1d87703e5082e1a7a4d.png",
+          "type": "image"
+        },
+        {
+          "name": "简体中文 · 公告封面",
+          "url": "assets/steam-704411368981267139-cover-schinese.png",
+          "type": "image"
+        },
+        {
+          "name": "English · 公告封面",
+          "url": "assets/steam-704411368981267139-cover-english.png",
+          "type": "image"
+        }
+      ],
+      "source": "output/steam-announcement-monitor/readiness-20261122-1800/public-images52.json",
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=schinese",
+          "date": "2026-11-22",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁體中文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=tchinese",
+          "date": "2026-11-22",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · English",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=english",
+          "date": "2026-11-22",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日本語",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=japanese",
+          "date": "2026-11-22",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 한국어",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=koreana",
+          "date": "2026-11-22",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · Deutsch",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=german",
+          "date": "2026-11-22",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · Français",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=french",
+          "date": "2026-11-22",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · Español",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=spanish",
+          "date": "2026-11-22",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · Português(Brasil)",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=brazilian",
+          "date": "2026-11-22",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · Русский",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=russian",
+          "date": "2026-11-22",
+          "status": "已发布"
+        }
+      ],
+      "steamArtwork": {
+        "schinese": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/711ec6eca56da59773de8757a8aa87c3017406f4.png",
+          "cover_variant": "schinese"
+        },
+        "tchinese": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/d79ab82272f3f5b867b73e7ea0b2b37d9c761c50.png",
+          "cover_variant": "schinese"
+        },
+        "english": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/7ad1ae307a5d3efc8f21a07b66613a00def0dcdd.png",
+          "cover_variant": "english"
+        },
+        "japanese": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/d68181214f13e43cbd0467229b63c4ea6ab33a51.png",
+          "cover_variant": "english"
+        },
+        "korean": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/3d4cd4c50f3e6c6f5cdf20a867e41b9fc5246bcb.png",
+          "cover_variant": "english"
+        },
+        "german": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/ff4b7633337abc5ced1babda9d828e77f2094061.png",
+          "cover_variant": "english"
+        },
+        "french": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/8ee837d2c71fd47169b0972cfc362181bb6d116a.png",
+          "cover_variant": "english"
+        },
+        "spanish": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/a02928496141659fe823f2d7aef5efeeee380bbb.png",
+          "cover_variant": "english"
+        },
+        "brazilian": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/21bb84dbe1354cf29ed4262183a466e30da4d95b.png",
+          "cover_variant": "english"
+        },
+        "russian": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/86386afe1fc03ebde28cd26e9b1a79ce8ab63850.png",
           "cover_variant": "english"
         }
       },

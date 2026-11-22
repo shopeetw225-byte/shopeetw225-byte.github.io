@@ -1,0 +1,58 @@
+Guía del accionista: consigue a tus héroes con encargos, listas y jefes
+
+Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo!
+
+¡Hola a todos! Soy Juanmao.
+
+¡El juego completo sale el 3 de diciembre! ¡Quedan 11 días! Con el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes alguna idea sobre el Mercado, déjala en los comentarios.
+
+En la guía de héroes de hace unos días vimos cómo entrenar a los héroes una vez reclutados; hoy toca ver de dónde salen. Antes que nada: este juego no tiene gacha, y cómo conseguir a cada héroe está escrito a la vista.
+
+¿Quieres a alguien? Mira primero el Códice
+Abre a un héroe en el Códice y verás de dónde sale: si se une al ganar cierta etapa, si se recluta en la Taberna o si hay que ganarle un desafío de jefe. Los héroes que aún no tienes salen como una silueta, pero su origen aparece igual. El Códice de la demo solo muestra los héroes que se pueden conseguir en la demo, así que todo lo que ves se puede conseguir.
+〔配图请见 Steam 原文〕
+
+Manda héroes de encargo y junta cupones de reclutamiento legendario
+En la página «Encargos» de la Taberna puedes mandar héroes a hacer misiones. Al terminar el plazo se liquidan solas y los cupones de reclutamiento legendario te llegan directamente, sin tener que ir a recogerlos.
+
+• También puedes mandar a los de tu Escuadra: aunque estén de encargo, siguen luchando y farmeando como siempre, así que no frenan tu avance;
+• Cada tarjeta de misión indica «Cupones est.: +N», así que elige las que den más; algunas piden cierta fuerza o una clase concreta, y eso también viene en la tarjeta;
+• Si te da pereza elegir, pulsa «Despacho rápido»: primero escoge a los que tengan la clase adecuada y luego va de mayor a menor fuerza. Cuando esté listo, pulsa «Confirmar»;
+• Si pulsas «Cancelar» a medias, los héroes vuelven al instante, pero ese encargo no da cupones.
+
+Al principio tendrás pocos héroes y los encargos aún no estarán disponibles; la pantalla te dirá cuántos te faltan. Recluta a unos cuantos más y se abren.
+〔配图请见 Steam 原文〕
+
+Desde la etapa 101: listas de pocas estrellas que cambian cada hora
+A partir de la etapa 101, en la Taberna aparece una lista de héroes de pocas estrellas que cambia cada hora en punto; se reclutan con boletos de reclutamiento de era. Esos boletos caen al ganar combates y mientras farmeas.
+
+• La lista va por turnos: en cada ronda aparecen todos. En el panel de garantías de la lista, una línea indica cuántos quedan en esta ronda y que, a más tardar, aparecerán «en N h»;
+• Refrescar a mano solo pasa a la siguiente página y no altera el orden de rotación; la primera vez de cada hora es gratis;
+• Las listas que pasen mientras estás desconectado no se recuperan: al volver verás la página de la hora actual.
+
+〔配图请见 Steam 原文〕
+
+Puedes elegir a qué héroe legendario va la garantía
+Para reclutar a un héroe legendario primero necesitas su ficha de reclutamiento exclusiva y después cupones de reclutamiento legendario, en la Taberna. Las fichas caen al ganar combates y mientras farmeas, y varios legendarios comparten una misma garantía.
+Ve a la página «Reclutar» de la Taberna, abre al que quieras y pulsa «Fijar objetivo de garantía»: cuando se cumpla la garantía, la ficha será para él. Eso sí, solo se pueden fijar héroes legendarios de tu era actual, y la ficha solo será para él si ya llegaste a su etapa de origen y estás jugando una etapa de esa misma era; si no fijas objetivo, la ficha sale al azar entre los candidatos. El progreso de la garantía se ve en el panel de garantías de la Taberna.
+(Cómo conseguir a la Diva triunfal, al Rey lobo de la llanura helada y compañía ya lo conté en el post del 15 de noviembre, así que no lo repito aquí.)
+〔配图请见 Steam 原文〕
+
+Desafío de jefe: perder no cuesta nada, reintenta al momento
+Al superar la etapa 12 se abren las «Tierras de pruebas» en la Fortaleza, y dentro está la sección «Desafío de jefe». Cada vez que derrotas al jefe de un capítulo de la historia principal, aquí se abre un desafío; la primera vez que lo ganas, ese héroe se une directamente, sin fichas ni cupones.
+
+• La dificultad es fija y no sube con tu fuerza; si no puedes, ve a entrenar y vuelve cuando seas más fuerte;
+• Perder no tiene ningún coste ni tiempo de espera: puedes reintentarlo al momento;
+• Ganar solo da el héroe, no recursos;
+• Los desafíos de jefe no entran en el Autoavance: tienes que entrar y lanzarlos tú;
+• Además de los jefes de capítulo, la demo tiene algunos jefes intermedios; supera la etapa correspondiente y podrás desafiarlos.
+
+〔配图请见 Steam 原文〕
+
+Así que los héroes salen por estos caminos: lo que cae en combate, los cupones de los encargos de la Taberna, las listas de cada hora y los desafíos de jefe. Si quieres a alguien, mira primero su origen en el Códice y sabrás por dónde ir.
+
+Si hay algo más que quieras que te explique o algo que no se entienda, pregúntame en los comentarios. También puedes unirte a nuestro Discord（https://discord.gg/uEwdWz2h62）.
+
+Si te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+Juega la demo gratis（https://store.steampowered.com/app/5257220/） | Añade el juego completo a tu lista de deseados（https://store.steampowered.com/app/4855890/）
