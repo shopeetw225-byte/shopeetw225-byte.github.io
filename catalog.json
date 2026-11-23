@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "hero": "assets/07851087f62e.jpg",
   "items": [
     {
@@ -16262,7 +16262,7 @@
       "dateBasis": "Steam修订82–84分批发布及十语公开映射、逐片片段实播核对；修订85缩略图修复公开核对",
       "status": "已发布 · 八语成片",
       "summary": "八种语言各一支实机预告片；巴葡、俄语商店页暂用英文片。",
-      "body": "本批v36临时版使用8f5来源，简中、繁中、英文、日文、韩文、德文、法文、西班牙文分别使用对应语言成片；巴西葡萄牙文与俄文尚未交付本语新版，公开页继续引用英文。各语言公开页均按主片在前、精简片在后的顺序显示，已核对逐片片段实播。旧版预览与历史记录保留。 日文精简片和韩文主片的缩略图已在修订85补齐，并核对公开图片。",
+      "body": "本批v36临时版使用8f5来源，简中、繁中、英文、日文、韩文、德文、法文、西班牙文分别使用对应语言成片；巴西葡萄牙文与俄文尚未交付本语新版，公开页继续引用英文。各语言公开页均按主片在前、精简片在后的顺序显示，已核对逐片片段实播。旧版预览与历史记录保留。 日文精简片和韩文主片的缩略图已在修订85补齐，并核对公开图片。 11-23 修订87起巴西葡萄牙文页换上本语两支片，见「Steam 预告片 · v36 巴西葡萄牙文（修订87）」；俄文仍用英文。",
       "cover": "assets/v36-r84-main-cover-9a873954f60b.jpg",
       "files": [
         {
@@ -16428,7 +16428,7 @@
       "dateBasis": "Steam修订82–84分批发布及十语公开映射、逐片片段实播核对；修订85缩略图修复公开核对",
       "status": "已发布 · 八语成片",
       "summary": "八种语言各一支实机预告片；巴葡、俄语商店页暂用英文片。",
-      "body": "本批v36临时版使用8f5来源，简中、繁中、英文、日文、韩文、德文、法文、西班牙文分别使用对应语言成片；巴西葡萄牙文与俄文尚未交付本语新版，公开页继续引用英文。各语言公开页均按主片在前、精简片在后的顺序显示，已核对逐片片段实播。旧版预览与历史记录保留。 日文精简片和韩文主片的缩略图已在修订85补齐，并核对公开图片。",
+      "body": "本批v36临时版使用8f5来源，简中、繁中、英文、日文、韩文、德文、法文、西班牙文分别使用对应语言成片；巴西葡萄牙文与俄文尚未交付本语新版，公开页继续引用英文。各语言公开页均按主片在前、精简片在后的顺序显示，已核对逐片片段实播。旧版预览与历史记录保留。 日文精简片和韩文主片的缩略图已在修订85补齐，并核对公开图片。 11-23 修订87起巴西葡萄牙文页换上本语两支片，见「Steam 预告片 · v36 巴西葡萄牙文（修订87）」；俄文仍用英文。",
       "cover": "assets/v36-r84-short-cover-19f078423bb1.jpg",
       "files": [
         {
@@ -16594,7 +16594,7 @@
       "dateBasis": "Steam修订84公开截图顺序、来源与实际画面核对",
       "status": "已发布 · 简中三张",
       "summary": "同步简中商店前3张截图：战斗大招、事务所经营和阵容搭配。",
-      "body": "本次仅更新简中第01、02、03张公开截图。其余77项已验收截图仍待更新，不计为已公开；其他语言与历史截图保留。",
+      "body": "本次仅更新简中第01、02、03张公开截图。其余77项已验收截图仍待更新，不计为已公开；其他语言与历史截图保留。 11-23 修订86已公开十语全部90张新截图，见「Steam 商店截图 · 十语九张（修订86）」。",
       "cover": "assets/r84-schinese-shot-01-69602691b4f9.jpg",
       "files": [
         {
@@ -17729,6 +17729,939 @@
         }
       },
       "detailNote": "归档已公开的十语原文、各语实机配图及两版封面；图片可逐张查看，原始公开页面见上方链接。"
+    },
+    {
+      "id": "steam-store-screenshots-20261123-r86",
+      "title": "Steam 商店截图 · 十语九张（修订86）",
+      "category": "封面与视觉",
+      "group": "宣传图",
+      "date": "2026-11-23",
+      "dateBasis": "Steam修订86发布回执（11-23 17:31）及11-23晚匿名十语公开接口截图顺序核对",
+      "status": "已发布 · 十语90张",
+      "summary": "十种语言各9张本语实机截图同时上线：战斗大招、事务所经营、阵容搭配、英雄技能、守护灵、战报、派遣宝箱、首领挑战和试炼之塔。",
+      "body": "商店修订86发布十语第04张新截图（凯歌天后技能页），并一起公开11-20已保存的其余80张本语截图绑定；此前公开页只有简中01–03为新图。11-23晚匿名读取十语商店接口，每种语言9张、顺序一致，截图标识与上传清单逐一对上；十语九宫格逐张看过，界面语言均与所在语言页一致。网页为1600宽压缩预览，原图见对应Steam商店页。11-20简中01–03条目保留作历史记录。",
+      "cover": "assets/r86-schinese-shot-01-1f6fb537ec09.jpg",
+      "files": [
+        {
+          "name": "简体中文 · 截图01 · 战斗大招",
+          "url": "assets/r86-schinese-shot-01-1f6fb537ec09.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/2c22c8714212633f1f9943943517cc5c0c62da47/ss_2c22c8714212633f1f9943943517cc5c0c62da47.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "2c22c8714212633f1f9943943517cc5c0c62da47",
+          "sha256": "1f6fb537ec094743bc4066e95b2fb0b8483b0c7b94a6054b87514aa3b97932d7",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "简体中文 · 截图02 · 事务所经营",
+          "url": "assets/r86-schinese-shot-02-2ac87a1fc504.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/d190802863397b99384c94931366cffb17954feb/ss_d190802863397b99384c94931366cffb17954feb.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "d190802863397b99384c94931366cffb17954feb",
+          "sha256": "2ac87a1fc504dcaf2ba2da39c8d10549c13ded2f98534fb3ac7d18ba2307e5fb",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "简体中文 · 截图03 · 阵容搭配",
+          "url": "assets/r86-schinese-shot-03-8e3946f360db.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9aca38ef840fd3a67873a245cc85bf284ec2b38a/ss_9aca38ef840fd3a67873a245cc85bf284ec2b38a.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "9aca38ef840fd3a67873a245cc85bf284ec2b38a",
+          "sha256": "8e3946f360db5af2b6564a1addc795016c5d057a1c6aec7459b934b183503508",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "简体中文 · 截图04 · 英雄技能",
+          "url": "assets/r86-schinese-shot-04-2322806c1d2b.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/e6db7cec21c48985a5b5b2108d530df088354bd4/ss_e6db7cec21c48985a5b5b2108d530df088354bd4.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "e6db7cec21c48985a5b5b2108d530df088354bd4",
+          "sha256": "2322806c1d2b6cba993ca178954d294c5318d995565ecd1dd2bb46364fc7ec08",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "简体中文 · 截图05 · 守护灵",
+          "url": "assets/r86-schinese-shot-05-9914be5d9eda.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/bd09a7604e7c44b040f3ecb31d84db39c883c7a6/ss_bd09a7604e7c44b040f3ecb31d84db39c883c7a6.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "bd09a7604e7c44b040f3ecb31d84db39c883c7a6",
+          "sha256": "9914be5d9edabb278984ed9cf986c7bd552395c0884b7e2dae6c3d32d78e072a",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "简体中文 · 截图06 · 战报",
+          "url": "assets/r86-schinese-shot-06-2533bf1b14d1.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/929a1bbfa74876a804c7dfcc29ca1fd651d9abb2/ss_929a1bbfa74876a804c7dfcc29ca1fd651d9abb2.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "929a1bbfa74876a804c7dfcc29ca1fd651d9abb2",
+          "sha256": "2533bf1b14d1fc0eeb0b8abca9bb05de3ace0fe68b398ac4704a4e92c4c33dad",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "简体中文 · 截图07 · 派遣宝箱开箱",
+          "url": "assets/r86-schinese-shot-07-e3fde3e5f840.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/be9f4e7f03900f1edc11e6982e3ce04bbc92ba18/ss_be9f4e7f03900f1edc11e6982e3ce04bbc92ba18.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "be9f4e7f03900f1edc11e6982e3ce04bbc92ba18",
+          "sha256": "e3fde3e5f840e56fc47798ca19f584794d6aded7870ada5e77fedc19880876b0",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "简体中文 · 截图08 · 首领挑战",
+          "url": "assets/r86-schinese-shot-08-e95e61cedd3e.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/5a11a1a6dfd50efa9d7ea9c0e0bb2a67f6ad3aef/ss_5a11a1a6dfd50efa9d7ea9c0e0bb2a67f6ad3aef.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "5a11a1a6dfd50efa9d7ea9c0e0bb2a67f6ad3aef",
+          "sha256": "e95e61cedd3efc60d5d8bb304cf51485ae2fd4be92f12a378dce05b85068a394",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "简体中文 · 截图09 · 试炼之塔",
+          "url": "assets/r86-schinese-shot-09-e9b3b0fd2ea4.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/73c4528ecfba1e7ba58418634f9199052b9be658/ss_73c4528ecfba1e7ba58418634f9199052b9be658.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "73c4528ecfba1e7ba58418634f9199052b9be658",
+          "sha256": "e9b3b0fd2ea4a06114d16cfd7270676fd663a4cec6d3c0e2ba83099262231478",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "繁体中文 · 截图01 · 战斗大招",
+          "url": "assets/r86-tchinese-shot-01-83f3714ca101.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/73f707bd48cba9c62e684766f65012c589f9f46e/ss_73f707bd48cba9c62e684766f65012c589f9f46e.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "73f707bd48cba9c62e684766f65012c589f9f46e",
+          "sha256": "83f3714ca1014f098456f8d3420a28f62982fde232a63739d8dd1ddc568370e1",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "繁体中文 · 截图02 · 事务所经营",
+          "url": "assets/r86-tchinese-shot-02-547d65ebc04e.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/1ac4769135ec3440a830c800ba82db8c18dbbc64/ss_1ac4769135ec3440a830c800ba82db8c18dbbc64.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "1ac4769135ec3440a830c800ba82db8c18dbbc64",
+          "sha256": "547d65ebc04e9d344953bbdae2606ec5f240f968450b76060dd72853991a9407",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "繁体中文 · 截图03 · 阵容搭配",
+          "url": "assets/r86-tchinese-shot-03-bdec03a048ed.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/24cd279a7f9d894100b95ecd86d2ef883ce8d709/ss_24cd279a7f9d894100b95ecd86d2ef883ce8d709.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "24cd279a7f9d894100b95ecd86d2ef883ce8d709",
+          "sha256": "bdec03a048edd0152531c0f117b502e5618a14a465d7047b0f1098941f4d71f8",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "繁体中文 · 截图04 · 英雄技能",
+          "url": "assets/r86-tchinese-shot-04-53030fe793a1.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/39c4be1c185570bfdbe9629a3e78b95ec9612af5/ss_39c4be1c185570bfdbe9629a3e78b95ec9612af5.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "39c4be1c185570bfdbe9629a3e78b95ec9612af5",
+          "sha256": "53030fe793a1e81b4de370b0fba9378f9517acd0f63d74c23215a9653a0020f2",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "繁体中文 · 截图05 · 守护灵",
+          "url": "assets/r86-tchinese-shot-05-018bfa005737.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/c95469a6c9cd16214767a4e74707fd53e1dafb0c/ss_c95469a6c9cd16214767a4e74707fd53e1dafb0c.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "c95469a6c9cd16214767a4e74707fd53e1dafb0c",
+          "sha256": "018bfa00573778e4bb536388fe0369c193d2bd55a84489ab2599a80c05232dc4",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "繁体中文 · 截图06 · 战报",
+          "url": "assets/r86-tchinese-shot-06-c44550f9c0df.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/e3d5cc4bca2b5c11274a3113f0384325259b4192/ss_e3d5cc4bca2b5c11274a3113f0384325259b4192.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "e3d5cc4bca2b5c11274a3113f0384325259b4192",
+          "sha256": "c44550f9c0df5d092bb8d8a7da5c5bafc39a7b2a7a6a2ccd56abe7103501ddb3",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "繁体中文 · 截图07 · 派遣宝箱开箱",
+          "url": "assets/r86-tchinese-shot-07-9f909f8e5937.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/da9bea7d8cf059bea0678727f85c1c6cc9b6c7e0/ss_da9bea7d8cf059bea0678727f85c1c6cc9b6c7e0.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "da9bea7d8cf059bea0678727f85c1c6cc9b6c7e0",
+          "sha256": "9f909f8e5937d946addc1c51e8a36f7eb9708f9d2a0cd0b7179c54000a13e7b4",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "繁体中文 · 截图08 · 首领挑战",
+          "url": "assets/r86-tchinese-shot-08-9b291294d0b1.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f64e85b6b2f14fd74919d5726bf9dca1f802e017/ss_f64e85b6b2f14fd74919d5726bf9dca1f802e017.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "f64e85b6b2f14fd74919d5726bf9dca1f802e017",
+          "sha256": "9b291294d0b12a30628e1f2689571389102e7f9c9261928cbb2f6dec1549e314",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "繁体中文 · 截图09 · 试炼之塔",
+          "url": "assets/r86-tchinese-shot-09-af5bc04df941.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/a7255fa991411e960b6ace9f2bf97b239a1c4179/ss_a7255fa991411e960b6ace9f2bf97b239a1c4179.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "a7255fa991411e960b6ace9f2bf97b239a1c4179",
+          "sha256": "af5bc04df9412c2a636a9d96b108ba05a5d33b32c3753a1cb6d2c16282a77ce9",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "英文 · 截图01 · 战斗大招",
+          "url": "assets/r86-english-shot-01-287a06fa2eb2.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/38903548fe62edb0cc3cad54ac0cbfa2247c21c6/ss_38903548fe62edb0cc3cad54ac0cbfa2247c21c6.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "38903548fe62edb0cc3cad54ac0cbfa2247c21c6",
+          "sha256": "287a06fa2eb21d64ce6cc47424003a546dc0697a414ebeadf4b42aa9095724ae",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "英文 · 截图02 · 事务所经营",
+          "url": "assets/r86-english-shot-02-8c4937afbf0e.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/42082dd479901094c784877447856a90cdc69944/ss_42082dd479901094c784877447856a90cdc69944.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "42082dd479901094c784877447856a90cdc69944",
+          "sha256": "8c4937afbf0e21db4e9a18b181a94b81bb425bc4dd5ff105da21741ea7c1ded9",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "英文 · 截图03 · 阵容搭配",
+          "url": "assets/r86-english-shot-03-50ee2a976346.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/676ecbbc4ee248e5b18b06aa04b9680dcb00cacf/ss_676ecbbc4ee248e5b18b06aa04b9680dcb00cacf.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "676ecbbc4ee248e5b18b06aa04b9680dcb00cacf",
+          "sha256": "50ee2a976346f945fda0be994cf3244862bc8ed7b883edb47b4c6997991f6b07",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "英文 · 截图04 · 英雄技能",
+          "url": "assets/r86-english-shot-04-ff2f4b131ebc.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/2f0c07f754b0b39b239c4087a49255796b2f0560/ss_2f0c07f754b0b39b239c4087a49255796b2f0560.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "2f0c07f754b0b39b239c4087a49255796b2f0560",
+          "sha256": "ff2f4b131ebca74b7a3aedcc121c0dc05d844fb29407387688d0a42905e9311c",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "英文 · 截图05 · 守护灵",
+          "url": "assets/r86-english-shot-05-5af0a9bca0c3.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/44cdb8ffb1dcd1c71f00aa5e6e2398b38f6cfe66/ss_44cdb8ffb1dcd1c71f00aa5e6e2398b38f6cfe66.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "44cdb8ffb1dcd1c71f00aa5e6e2398b38f6cfe66",
+          "sha256": "5af0a9bca0c3c84ba248aa82e9307b5d78661c1e347456691f32d59123928642",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "英文 · 截图06 · 战报",
+          "url": "assets/r86-english-shot-06-95c178cfd4fb.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/fd07966bd6b8c24b322d7be5c72523a0aaa4d24d/ss_fd07966bd6b8c24b322d7be5c72523a0aaa4d24d.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "fd07966bd6b8c24b322d7be5c72523a0aaa4d24d",
+          "sha256": "95c178cfd4fbdd34bc5b5c1cbd3da4562e36c87cadb02adb755ad544aba92a25",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "英文 · 截图07 · 派遣宝箱开箱",
+          "url": "assets/r86-english-shot-07-749f0cfd128d.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/187c82b7e95febaf53b52a212c2977af6947cce4/ss_187c82b7e95febaf53b52a212c2977af6947cce4.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "187c82b7e95febaf53b52a212c2977af6947cce4",
+          "sha256": "749f0cfd128da3becbe61a78c033589bc9dd7d44c5cbcc24a4f0c00921d7976c",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "英文 · 截图08 · 首领挑战",
+          "url": "assets/r86-english-shot-08-8e9ddd440dac.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/47598943f03deabdd28fe33dc3e7207e7c66dc35/ss_47598943f03deabdd28fe33dc3e7207e7c66dc35.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "47598943f03deabdd28fe33dc3e7207e7c66dc35",
+          "sha256": "8e9ddd440dac388c7ca1f66953cdbc4060d51c43cc2995afe541505b5780d2eb",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "英文 · 截图09 · 试炼之塔",
+          "url": "assets/r86-english-shot-09-80f279ca0ee2.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4e4c09edacb723d6952536a28089aa6b0121333a/ss_4e4c09edacb723d6952536a28089aa6b0121333a.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "4e4c09edacb723d6952536a28089aa6b0121333a",
+          "sha256": "80f279ca0ee294b68b80a226bf15c70d70a3f1579f36f847f26c6a9f21941e38",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "日文 · 截图01 · 战斗大招",
+          "url": "assets/r86-japanese-shot-01-372626060a3b.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/a1d2e849bb6a85ffad239267b944ca072ba99d7f/ss_a1d2e849bb6a85ffad239267b944ca072ba99d7f.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "a1d2e849bb6a85ffad239267b944ca072ba99d7f",
+          "sha256": "372626060a3bf9c51c012bf455cd803d177711fe7de2efe9e49073057f006db3",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "日文 · 截图02 · 事务所经营",
+          "url": "assets/r86-japanese-shot-02-42a2c7acb84e.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/0f0a9f8d4c11e2e4a01fbe12371483427694c7ae/ss_0f0a9f8d4c11e2e4a01fbe12371483427694c7ae.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "0f0a9f8d4c11e2e4a01fbe12371483427694c7ae",
+          "sha256": "42a2c7acb84ee3cb21e86a001b21aea59072f34796e765981a1b8dbb073d5007",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "日文 · 截图03 · 阵容搭配",
+          "url": "assets/r86-japanese-shot-03-7c82c92aed61.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/0d17b73349c860f101ce61a22ca0016679b555bf/ss_0d17b73349c860f101ce61a22ca0016679b555bf.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "0d17b73349c860f101ce61a22ca0016679b555bf",
+          "sha256": "7c82c92aed610e371d7e419319c699893ca48e14743ab8b4077adc7314e4792f",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "日文 · 截图04 · 英雄技能",
+          "url": "assets/r86-japanese-shot-04-56346faecefa.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4f7dfc7b64a7237182186fd9046f3ed44ad80407/ss_4f7dfc7b64a7237182186fd9046f3ed44ad80407.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "4f7dfc7b64a7237182186fd9046f3ed44ad80407",
+          "sha256": "56346faecefa03bd45fe78ae62bf663c25768559c441a9c81306fc0fb24cf589",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "日文 · 截图05 · 守护灵",
+          "url": "assets/r86-japanese-shot-05-5d075afeeecd.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/fa5fd095a27cc0a9d2bbfd4032fee1baea5b73b3/ss_fa5fd095a27cc0a9d2bbfd4032fee1baea5b73b3.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "fa5fd095a27cc0a9d2bbfd4032fee1baea5b73b3",
+          "sha256": "5d075afeeecd21cf933a6e0c7ba8bf475411d9b05fccd7e6b9d6b3f51b46806b",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "日文 · 截图06 · 战报",
+          "url": "assets/r86-japanese-shot-06-9d207148018c.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/1532a5b976bc43a60048f3569c5bae8f0d9aebb8/ss_1532a5b976bc43a60048f3569c5bae8f0d9aebb8.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "1532a5b976bc43a60048f3569c5bae8f0d9aebb8",
+          "sha256": "9d207148018c7f4b843805a3059d50324b8b75225af1dcb5699bb4fe2122a66f",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "日文 · 截图07 · 派遣宝箱开箱",
+          "url": "assets/r86-japanese-shot-07-6455a5cff5f0.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/49b092f1df31a26f4d257f8cd740410bd372c416/ss_49b092f1df31a26f4d257f8cd740410bd372c416.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "49b092f1df31a26f4d257f8cd740410bd372c416",
+          "sha256": "6455a5cff5f0e3e6e01077fd35b1bdd99a92f1fbc85a969fda5776d157928e4f",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "日文 · 截图08 · 首领挑战",
+          "url": "assets/r86-japanese-shot-08-d892221a40e1.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/57f6cc2c0607613b0af4190034006c632b1ccabf/ss_57f6cc2c0607613b0af4190034006c632b1ccabf.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "57f6cc2c0607613b0af4190034006c632b1ccabf",
+          "sha256": "d892221a40e1ce42e5ed42f7c69abbf1370e13e82ea838d198feb20c434c214f",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "日文 · 截图09 · 试炼之塔",
+          "url": "assets/r86-japanese-shot-09-4bc38f4ab68b.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/a4f46766bfed0ad33b12725e60d6c6b48a48d1ad/ss_a4f46766bfed0ad33b12725e60d6c6b48a48d1ad.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "a4f46766bfed0ad33b12725e60d6c6b48a48d1ad",
+          "sha256": "4bc38f4ab68bb1cfb4520382d557999c7b23eeea28b27217b98438b95e44a464",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "韩文 · 截图01 · 战斗大招",
+          "url": "assets/r86-koreana-shot-01-609a2cf02572.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4b3e7a99570704ad5bc2bd0972aa5e666bd6b041/ss_4b3e7a99570704ad5bc2bd0972aa5e666bd6b041.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "4b3e7a99570704ad5bc2bd0972aa5e666bd6b041",
+          "sha256": "609a2cf02572b1f54b4fb0800a7de3cd86389d047ad700b89c8d247986833bf7",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "韩文 · 截图02 · 事务所经营",
+          "url": "assets/r86-koreana-shot-02-772e16479ddd.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9aa8818b597ee9b6b234e05676127780392bd566/ss_9aa8818b597ee9b6b234e05676127780392bd566.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "9aa8818b597ee9b6b234e05676127780392bd566",
+          "sha256": "772e16479dddee22c4111e0f30ab6933d2c097bc33d46e34cb4b0c2a97fee4a7",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "韩文 · 截图03 · 阵容搭配",
+          "url": "assets/r86-koreana-shot-03-2f8eed711490.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/beb1aa1b6bf7be6c4a6284ee47f815dc51f6ab39/ss_beb1aa1b6bf7be6c4a6284ee47f815dc51f6ab39.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "beb1aa1b6bf7be6c4a6284ee47f815dc51f6ab39",
+          "sha256": "2f8eed7114906cb7bf102de89f8073e64c4ed1537054bd99c6b2c211b7f916e8",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "韩文 · 截图04 · 英雄技能",
+          "url": "assets/r86-koreana-shot-04-8830f9fe0655.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/6af6ff7d0e8e52b195dadee59d548153e97a9678/ss_6af6ff7d0e8e52b195dadee59d548153e97a9678.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "6af6ff7d0e8e52b195dadee59d548153e97a9678",
+          "sha256": "8830f9fe0655725fc588d573490d6ee771b6fb11aaaa1d1abbf6e967d1f180ff",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "韩文 · 截图05 · 守护灵",
+          "url": "assets/r86-koreana-shot-05-d46303a66821.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/c4e2aa095888a3f64a618b321bef1a87fd2cb523/ss_c4e2aa095888a3f64a618b321bef1a87fd2cb523.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "c4e2aa095888a3f64a618b321bef1a87fd2cb523",
+          "sha256": "d46303a668210b371748add6e7e847a3eaf8aa0e87676e3712c78eea24f7c804",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "韩文 · 截图06 · 战报",
+          "url": "assets/r86-koreana-shot-06-cd9b9b825415.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/1f44ad4610db63f21a30941d078fbda05adc7e91/ss_1f44ad4610db63f21a30941d078fbda05adc7e91.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "1f44ad4610db63f21a30941d078fbda05adc7e91",
+          "sha256": "cd9b9b82541501dc8c6f45dad662eea89ddd67b495a2a8ce2c6af72b7b3de04b",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "韩文 · 截图07 · 派遣宝箱开箱",
+          "url": "assets/r86-koreana-shot-07-5e4a11ca3b40.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/b5e8bcd8b79e6eddc4603f2d36945d06b4e89295/ss_b5e8bcd8b79e6eddc4603f2d36945d06b4e89295.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "b5e8bcd8b79e6eddc4603f2d36945d06b4e89295",
+          "sha256": "5e4a11ca3b409392147db4760e62ab33d851947a58e5d269483d025e84c5100d",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "韩文 · 截图08 · 首领挑战",
+          "url": "assets/r86-koreana-shot-08-bff5c8d7ed72.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/ba646395d19713d22ce3bdd991f492bf6a3e5034/ss_ba646395d19713d22ce3bdd991f492bf6a3e5034.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "ba646395d19713d22ce3bdd991f492bf6a3e5034",
+          "sha256": "bff5c8d7ed7280c1a928a5a74a73e13c8554f2aca55e9081b04cf767ddcff5b6",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "韩文 · 截图09 · 试炼之塔",
+          "url": "assets/r86-koreana-shot-09-4dcb2dc5985f.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/b87f21d5442fee21b76137e284cffe14d65db6ad/ss_b87f21d5442fee21b76137e284cffe14d65db6ad.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "b87f21d5442fee21b76137e284cffe14d65db6ad",
+          "sha256": "4dcb2dc5985f76b7196df6f8f58a09779f68e7c11b47e5753910f8fb98e69977",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "德文 · 截图01 · 战斗大招",
+          "url": "assets/r86-german-shot-01-aece989ad0c5.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/6ca5692a622c6fdc2dafb0044ea2e122743ae6be/ss_6ca5692a622c6fdc2dafb0044ea2e122743ae6be.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "6ca5692a622c6fdc2dafb0044ea2e122743ae6be",
+          "sha256": "aece989ad0c5bc7a8ebec6088f1797d71640618dada73cdf1a3be345d43d508b",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "德文 · 截图02 · 事务所经营",
+          "url": "assets/r86-german-shot-02-30f723b9221d.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f35fdaab357294db28b0d128c01b66d9bae93f10/ss_f35fdaab357294db28b0d128c01b66d9bae93f10.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "f35fdaab357294db28b0d128c01b66d9bae93f10",
+          "sha256": "30f723b9221d43c79798fbf8b73139f7487391329d5c36b27120bbf23704a883",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "德文 · 截图03 · 阵容搭配",
+          "url": "assets/r86-german-shot-03-6a9e6df3b654.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/0150cae1a04039f1ba2da92f11d60b38ed4e9517/ss_0150cae1a04039f1ba2da92f11d60b38ed4e9517.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "0150cae1a04039f1ba2da92f11d60b38ed4e9517",
+          "sha256": "6a9e6df3b654073671b67e717c232ed7e818dbb75abe08a7dbf2b9d86565a218",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "德文 · 截图04 · 英雄技能",
+          "url": "assets/r86-german-shot-04-d6be5a02ee78.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/834ae0514b8719d9ae581d16bedb008cb3f7c256/ss_834ae0514b8719d9ae581d16bedb008cb3f7c256.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "834ae0514b8719d9ae581d16bedb008cb3f7c256",
+          "sha256": "d6be5a02ee7806d4db08e5dd77f910d60199a4c360f073b58072157a66911345",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "德文 · 截图05 · 守护灵",
+          "url": "assets/r86-german-shot-05-918ef643bfcd.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/22cedba901ede1ea5fbcbf9a8be6a249c42a7843/ss_22cedba901ede1ea5fbcbf9a8be6a249c42a7843.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "22cedba901ede1ea5fbcbf9a8be6a249c42a7843",
+          "sha256": "918ef643bfcd526d37cfbfa525c7ac06110ca0e7fecb14746481076a9bc47569",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "德文 · 截图06 · 战报",
+          "url": "assets/r86-german-shot-06-8e63064e6dd9.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/910cd1dc9b3059bddd779f441267459720f86e97/ss_910cd1dc9b3059bddd779f441267459720f86e97.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "910cd1dc9b3059bddd779f441267459720f86e97",
+          "sha256": "8e63064e6dd99c0d1e8cc29a288c0b1cbeaefba6022b1271d08fd875117a9403",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "德文 · 截图07 · 派遣宝箱开箱",
+          "url": "assets/r86-german-shot-07-4d03f2328d06.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/58796b667038d0bbcc69c4c35a5a4c6b36fd66ad/ss_58796b667038d0bbcc69c4c35a5a4c6b36fd66ad.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "58796b667038d0bbcc69c4c35a5a4c6b36fd66ad",
+          "sha256": "4d03f2328d06e589705c32feacc1ac244801d56561c0c90f92d11e885da009a3",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "德文 · 截图08 · 首领挑战",
+          "url": "assets/r86-german-shot-08-6028161686ad.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/11adcf76554bf90dfd025a3964224b9f77a29406/ss_11adcf76554bf90dfd025a3964224b9f77a29406.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "11adcf76554bf90dfd025a3964224b9f77a29406",
+          "sha256": "6028161686ad9cb21cdf11310d842eb83f805047dc5e1d4c12d353a572dc65f5",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "德文 · 截图09 · 试炼之塔",
+          "url": "assets/r86-german-shot-09-b0b98404bbf3.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/e61a94532a484676369e0b459886439112dd1083/ss_e61a94532a484676369e0b459886439112dd1083.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "e61a94532a484676369e0b459886439112dd1083",
+          "sha256": "b0b98404bbf34a768b1835116c995ce04fed3c89305b191c966f687acdc593bc",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "法文 · 截图01 · 战斗大招",
+          "url": "assets/r86-french-shot-01-c39bb71ae851.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/a5df57c3d047a728aac30158e7476d01d1c5be58/ss_a5df57c3d047a728aac30158e7476d01d1c5be58.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "a5df57c3d047a728aac30158e7476d01d1c5be58",
+          "sha256": "c39bb71ae85156160596059f8667bf9728e8733bda338e7ac1c2f52f79489838",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "法文 · 截图02 · 事务所经营",
+          "url": "assets/r86-french-shot-02-0d05f6324686.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/cc72bfe1809a31dfc64f6300f9eba24d0276053b/ss_cc72bfe1809a31dfc64f6300f9eba24d0276053b.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "cc72bfe1809a31dfc64f6300f9eba24d0276053b",
+          "sha256": "0d05f6324686d950ff8bd99eee9a486a2df61a298217e5a7fef0d93aee9d44de",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "法文 · 截图03 · 阵容搭配",
+          "url": "assets/r86-french-shot-03-7320bcb14f39.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/1097a164fded5209f63bc0f51af9481344b32a9b/ss_1097a164fded5209f63bc0f51af9481344b32a9b.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "1097a164fded5209f63bc0f51af9481344b32a9b",
+          "sha256": "7320bcb14f39ac6cea6ac9259814024a0605e6254572d0a22f9407c925b02485",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "法文 · 截图04 · 英雄技能",
+          "url": "assets/r86-french-shot-04-8c8dcde16b39.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/70654fbdae29d80c104a2cd77fc04408317571c0/ss_70654fbdae29d80c104a2cd77fc04408317571c0.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "70654fbdae29d80c104a2cd77fc04408317571c0",
+          "sha256": "8c8dcde16b39b260189593fdb0a9f4271feb47310d6b7ce5d666dcecccb6089b",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "法文 · 截图05 · 守护灵",
+          "url": "assets/r86-french-shot-05-d624fc6a3cd0.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/5b303bc663710eb3b19119a6960e2c94c63cac5e/ss_5b303bc663710eb3b19119a6960e2c94c63cac5e.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "5b303bc663710eb3b19119a6960e2c94c63cac5e",
+          "sha256": "d624fc6a3cd0ca02f7a0c4555186f2cad28c36d98496a96a628aba2a16e86323",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "法文 · 截图06 · 战报",
+          "url": "assets/r86-french-shot-06-8c131e731dde.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/15f44c978edb3ca1909d6eeba6c085a0ffef6137/ss_15f44c978edb3ca1909d6eeba6c085a0ffef6137.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "15f44c978edb3ca1909d6eeba6c085a0ffef6137",
+          "sha256": "8c131e731ddeb4b4d7e6d0f977f64fecef53f57e7a05386acde8c2fb27162157",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "法文 · 截图07 · 派遣宝箱开箱",
+          "url": "assets/r86-french-shot-07-bca033aae0dd.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/c3d9548bcefa771c8d987ef3ba3e2f8ad8d481b5/ss_c3d9548bcefa771c8d987ef3ba3e2f8ad8d481b5.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "c3d9548bcefa771c8d987ef3ba3e2f8ad8d481b5",
+          "sha256": "bca033aae0ddec59dc666aee9157298d9cc3e5e7f680de8684009146cdbefa53",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "法文 · 截图08 · 首领挑战",
+          "url": "assets/r86-french-shot-08-a0990636d023.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/fec3b16ab0c162302ad9944417174b5c04175320/ss_fec3b16ab0c162302ad9944417174b5c04175320.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "fec3b16ab0c162302ad9944417174b5c04175320",
+          "sha256": "a0990636d0238dec6a5692f42e9a848f1021837cb43d43f01b8c24e430f6ec46",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "法文 · 截图09 · 试炼之塔",
+          "url": "assets/r86-french-shot-09-c0257026e102.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/e67eab5b364c997582d14e724d3c0590381f7db4/ss_e67eab5b364c997582d14e724d3c0590381f7db4.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "e67eab5b364c997582d14e724d3c0590381f7db4",
+          "sha256": "c0257026e102a6407d24e3b4d82ad2e5b4b9e5ae5eeb525106fb4fa53d60bb65",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "西班牙文 · 截图01 · 战斗大招",
+          "url": "assets/r86-spanish-shot-01-21bf9d1f9661.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f84d8cda2bdca22a74972fd49784e99d802d5d6d/ss_f84d8cda2bdca22a74972fd49784e99d802d5d6d.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "f84d8cda2bdca22a74972fd49784e99d802d5d6d",
+          "sha256": "21bf9d1f966173b68d7c91bf1bc50e48f5958e6cab28f651ea41f85d42fb7db4",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "西班牙文 · 截图02 · 事务所经营",
+          "url": "assets/r86-spanish-shot-02-8f98fd3db5f5.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/57c536f8dd8db4026b1eb59347e99ca45cf9e827/ss_57c536f8dd8db4026b1eb59347e99ca45cf9e827.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "57c536f8dd8db4026b1eb59347e99ca45cf9e827",
+          "sha256": "8f98fd3db5f5d4cdf104bea0cf8936fe3c70f541b42d4ed98b9e9d4813bd32f7",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "西班牙文 · 截图03 · 阵容搭配",
+          "url": "assets/r86-spanish-shot-03-fe718b2fdb96.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/b0aa9df074ca17cfe6a330c65458858d31c78f37/ss_b0aa9df074ca17cfe6a330c65458858d31c78f37.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "b0aa9df074ca17cfe6a330c65458858d31c78f37",
+          "sha256": "fe718b2fdb96f0aa99c522eacfecaa7d31aad00412ac38023b8b8634c7fea7fa",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "西班牙文 · 截图04 · 英雄技能",
+          "url": "assets/r86-spanish-shot-04-328a8c6c096c.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/6791afbac734545be99120b1c195773e7d4c48f1/ss_6791afbac734545be99120b1c195773e7d4c48f1.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "6791afbac734545be99120b1c195773e7d4c48f1",
+          "sha256": "328a8c6c096cc2bcfc112384fa7a029f9d5992bcdc6cfa1d9619222f35e5887f",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "西班牙文 · 截图05 · 守护灵",
+          "url": "assets/r86-spanish-shot-05-ea843d40ecbf.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/bc3f469bee88b4333e330b39e0e5d4419c1df525/ss_bc3f469bee88b4333e330b39e0e5d4419c1df525.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "bc3f469bee88b4333e330b39e0e5d4419c1df525",
+          "sha256": "ea843d40ecbffbdeaffb947f994bfa53e8771b2277fc167810f21ae31899fc91",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "西班牙文 · 截图06 · 战报",
+          "url": "assets/r86-spanish-shot-06-b77a69ee8247.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/7fd06b9be83155acaa2c3da1f3b0c07cd0b87a36/ss_7fd06b9be83155acaa2c3da1f3b0c07cd0b87a36.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "7fd06b9be83155acaa2c3da1f3b0c07cd0b87a36",
+          "sha256": "b77a69ee8247ed11b5dd20be37303982ed7b50f07ba6ed554b2288ec010d7d7a",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "西班牙文 · 截图07 · 派遣宝箱开箱",
+          "url": "assets/r86-spanish-shot-07-698c5cf9847b.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/d70c142bf3ab0826ba4b62c0ea4627332656976a/ss_d70c142bf3ab0826ba4b62c0ea4627332656976a.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "d70c142bf3ab0826ba4b62c0ea4627332656976a",
+          "sha256": "698c5cf9847b2392d2bc7453633fa20db9343f223fb69603aef52cf3a83727b9",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "西班牙文 · 截图08 · 首领挑战",
+          "url": "assets/r86-spanish-shot-08-73c27df40383.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4b87ed22db1bad31fcc710e2d7dc72eef7ac9b9c/ss_4b87ed22db1bad31fcc710e2d7dc72eef7ac9b9c.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "4b87ed22db1bad31fcc710e2d7dc72eef7ac9b9c",
+          "sha256": "73c27df4038362ad440eccd0623125bddbdac6752310b3397b88920fe9b9a470",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "西班牙文 · 截图09 · 试炼之塔",
+          "url": "assets/r86-spanish-shot-09-0718370e77dc.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/c86fa801b9f2d34537d9b6e1d535b9185d4f8fef/ss_c86fa801b9f2d34537d9b6e1d535b9185d4f8fef.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "c86fa801b9f2d34537d9b6e1d535b9185d4f8fef",
+          "sha256": "0718370e77dc0a1ab4e5aae7eb34ba7e101235fe6f6b77d89d025ec18b47c84f",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图01 · 战斗大招",
+          "url": "assets/r86-brazilian-shot-01-c5ccf4c2efdb.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/7f351f75e4a4455155a3645c082ac8e1b0144789/ss_7f351f75e4a4455155a3645c082ac8e1b0144789.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "7f351f75e4a4455155a3645c082ac8e1b0144789",
+          "sha256": "c5ccf4c2efdbd5b4cf52825ccc5f7fc6832ed5486091a63f92be1b851a8e340b",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图02 · 事务所经营",
+          "url": "assets/r86-brazilian-shot-02-417e566bd51a.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/81542867411b924b055c7e2befc72f6f19e286bb/ss_81542867411b924b055c7e2befc72f6f19e286bb.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "81542867411b924b055c7e2befc72f6f19e286bb",
+          "sha256": "417e566bd51a5abff7a8bf3534230ee02f6739fbd5171f46155d42ed25ab70ea",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图03 · 阵容搭配",
+          "url": "assets/r86-brazilian-shot-03-1cf6b3426865.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/07751847e2ce9e1266b41d86d469d9a917cc6a49/ss_07751847e2ce9e1266b41d86d469d9a917cc6a49.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "07751847e2ce9e1266b41d86d469d9a917cc6a49",
+          "sha256": "1cf6b34268653918e0ea53bfd3b3170bd5f42cb4694198976ddce2c895ad6df4",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图04 · 英雄技能",
+          "url": "assets/r86-brazilian-shot-04-beef4c11f8aa.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/7f455abef5ff1f7b351a25fe89b180fb66f1859d/ss_7f455abef5ff1f7b351a25fe89b180fb66f1859d.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "7f455abef5ff1f7b351a25fe89b180fb66f1859d",
+          "sha256": "beef4c11f8aa7bc0e7db12b37a539380358102bea993e8b6e32e377404c424e8",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图05 · 守护灵",
+          "url": "assets/r86-brazilian-shot-05-2abf2204d14b.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9d178199d41d3bdbcdf2fd44090cdfe4c1aefc9c/ss_9d178199d41d3bdbcdf2fd44090cdfe4c1aefc9c.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "9d178199d41d3bdbcdf2fd44090cdfe4c1aefc9c",
+          "sha256": "2abf2204d14b81391b1e69de941819cfaa512f01a660d2f573607dd8a51bdbb1",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图06 · 战报",
+          "url": "assets/r86-brazilian-shot-06-2f657f6f17b3.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/5939e6fb80fd9a496d49012369ca04a28521e1a8/ss_5939e6fb80fd9a496d49012369ca04a28521e1a8.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "5939e6fb80fd9a496d49012369ca04a28521e1a8",
+          "sha256": "2f657f6f17b38c4e914d39b7d3402ac28fd7f247384606b05b2efe4b35e30484",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图07 · 派遣宝箱开箱",
+          "url": "assets/r86-brazilian-shot-07-fbb8abc1ca17.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/c5ed2e357fd6d090dc8712cc1621d437e26ae586/ss_c5ed2e357fd6d090dc8712cc1621d437e26ae586.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "c5ed2e357fd6d090dc8712cc1621d437e26ae586",
+          "sha256": "fbb8abc1ca1749822bb13df0cd25b36832edfdb3a3315a8c8e51b60400536b74",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图08 · 首领挑战",
+          "url": "assets/r86-brazilian-shot-08-c26e33ab67d6.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/29a74b0cd9e02864a4b8f270510c71434a696298/ss_29a74b0cd9e02864a4b8f270510c71434a696298.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "29a74b0cd9e02864a4b8f270510c71434a696298",
+          "sha256": "c26e33ab67d638655a41788da337cfd52ebd1725c329a9b3f887d7f25a9a3f98",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图09 · 试炼之塔",
+          "url": "assets/r86-brazilian-shot-09-2b236d1a0b0d.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f11fbaf11c77603f7539a1db5878558d49e6a329/ss_f11fbaf11c77603f7539a1db5878558d49e6a329.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "f11fbaf11c77603f7539a1db5878558d49e6a329",
+          "sha256": "2b236d1a0b0dda9dae27a0ca2bd3a77b55554dd75233d004138cab4dd47d5406",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "俄文 · 截图01 · 战斗大招",
+          "url": "assets/r86-russian-shot-01-48f914b86f55.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/6eca42e36fe5878d2ebcaefc92040eb07b074a15/ss_6eca42e36fe5878d2ebcaefc92040eb07b074a15.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "6eca42e36fe5878d2ebcaefc92040eb07b074a15",
+          "sha256": "48f914b86f55f3d8165327c66aca7982c4fb293c8dd46d0b37d137751b52395e",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "俄文 · 截图02 · 事务所经营",
+          "url": "assets/r86-russian-shot-02-3237af35a48e.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/16a935779e39af17209bfbc190250833f6f68306/ss_16a935779e39af17209bfbc190250833f6f68306.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "16a935779e39af17209bfbc190250833f6f68306",
+          "sha256": "3237af35a48ec697b62ea2a240be89803ef78c700d423da4e1c22c58c71211c5",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "俄文 · 截图03 · 阵容搭配",
+          "url": "assets/r86-russian-shot-03-7bb923763555.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/060638d7e7de98778c71acac9a2f5c8cd943d091/ss_060638d7e7de98778c71acac9a2f5c8cd943d091.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "060638d7e7de98778c71acac9a2f5c8cd943d091",
+          "sha256": "7bb923763555054b0a0a1e1c8bf5f43b1cc249cb8124a872f8aa4574a5a3ebbb",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "俄文 · 截图04 · 英雄技能",
+          "url": "assets/r86-russian-shot-04-dd4f76508ee2.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/a70459ebb8c1789a070b254ec2e8812dbb81d142/ss_a70459ebb8c1789a070b254ec2e8812dbb81d142.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "a70459ebb8c1789a070b254ec2e8812dbb81d142",
+          "sha256": "dd4f76508ee29048f31d6aac7a2ebe713df4d30964de0ebfab749244d54500f7",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "俄文 · 截图05 · 守护灵",
+          "url": "assets/r86-russian-shot-05-b40c68fbcc82.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/50dce29e9e609fb0c874d239cb4a275958109750/ss_50dce29e9e609fb0c874d239cb4a275958109750.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "50dce29e9e609fb0c874d239cb4a275958109750",
+          "sha256": "b40c68fbcc82474797379c45f6d99414226a85da79b5301ddea0fd3b4a5872ad",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "俄文 · 截图06 · 战报",
+          "url": "assets/r86-russian-shot-06-c31b75563ce8.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/3a56a8da439bf247e45c1b04ea902fabbe38dd0f/ss_3a56a8da439bf247e45c1b04ea902fabbe38dd0f.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "3a56a8da439bf247e45c1b04ea902fabbe38dd0f",
+          "sha256": "c31b75563ce8529b6c89c4e5b7d87e49998fdbf278d6f5d91a835c94a97d53ea",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "俄文 · 截图07 · 派遣宝箱开箱",
+          "url": "assets/r86-russian-shot-07-54d162292c67.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4be1f3e38a5c388d3fb1749413f96120e4284084/ss_4be1f3e38a5c388d3fb1749413f96120e4284084.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "4be1f3e38a5c388d3fb1749413f96120e4284084",
+          "sha256": "54d162292c6742b12104b0547a1edcb41f7b17805bb979752e124721a8e85184",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "俄文 · 截图08 · 首领挑战",
+          "url": "assets/r86-russian-shot-08-119ac533e4d1.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/d5d85fd458048eedc4f2e02495984a21ae6f3bd5/ss_d5d85fd458048eedc4f2e02495984a21ae6f3bd5.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "d5d85fd458048eedc4f2e02495984a21ae6f3bd5",
+          "sha256": "119ac533e4d1ec76de115efd1c15fe73f8c276e135049f519a01234c58c9c14d",
+          "updated": "2026-11-23"
+        },
+        {
+          "name": "俄文 · 截图09 · 试炼之塔",
+          "url": "assets/r86-russian-shot-09-503e27771043.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9c2f7c66bbfbdfdd0956573517f8d520f3dba634/ss_9c2f7c66bbfbdfdd0956573517f8d520f3dba634.1920x1080.jpg?t=1795434483",
+          "steamScreenshotSha1": "9c2f7c66bbfbdfdd0956573517f8d520f3dba634",
+          "sha256": "503e27771043eb9182089b809ca2ed7a1c972235a836100dc3e7ca6f4b15a3c8",
+          "updated": "2026-11-23"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-23",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-23",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-23",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-23",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-23",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-23",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-23",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-23",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-23",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-23",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261123/steam接手_R86/steam_R86发布回执_1123.md",
+      "detailNote": "网页为压缩预览，完整截图见对应Steam商店页。"
+    },
+    {
+      "id": "steam-trailers-v36-brazilian-20261123-r87",
+      "title": "Steam 预告片 · v36 巴西葡萄牙文（修订87）",
+      "category": "宣传视频",
+      "group": "Steam 视频",
+      "date": "2026-11-23",
+      "dateBasis": "Steam修订87发布回执（11-23 19:47）及11-23晚匿名巴葡公开接口核对",
+      "status": "已发布 · 巴葡两支",
+      "summary": "巴西葡萄牙文商店页换上本语主预告片和精简宣传片，不再用英文片。",
+      "body": "v36临时版巴西葡萄牙文主片（63秒）和精简片（33秒）使用8f5来源，商店修订87公开，巴葡页主片在前、精简片在后。至此九种语言各有两支本语片，俄文商店页仍用英文片。公开抽帧为葡语界面；两支片未从头到尾逐帧看完。旧版预览与11-20八语条目保留。",
+      "cover": "assets/v36-r87-brazilian-cover-5c44c35feae0.jpg",
+      "files": [
+        {
+          "name": "巴西葡萄牙文 · 主预告片",
+          "url": "assets/v36-r87-main-brazilian-33c378fb55f3.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/待确认/巴西葡萄牙文版v36_8f5.mp4",
+          "sha256": "76bc42162ecf2a192af77d21f0aaa598558accaa597af4cf98aa2aa624c450a0",
+          "previewSha256": "33c378fb55f36217d24f5c0a8637cf602291476eb77374812790373559a47fc2",
+          "updated": "2026-11-23",
+          "steamMovieId": 257518991
+        },
+        {
+          "name": "巴西葡萄牙文 · 精简宣传片",
+          "url": "assets/v36-r87-short-brazilian-41b8789c62f6.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/待确认/巴西葡萄牙文横屏版_Steam精简宣传片_v36_8f5.mp4",
+          "sha256": "ed445ae6a06c65a5f6c65a891eff1ceb151577855b5877a3192b45a4867e76c9",
+          "previewSha256": "41b8789c62f6669fb72d31561fc52255f97758cca262b2edb281f263121f9918",
+          "updated": "2026-11-23",
+          "steamMovieId": 257518993
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 巴西葡萄牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-23",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261123/steam接手_ptBR预告片/steam_巴葡预告片上传发布回执_1123.md",
+      "detailNote": "网页为压缩预览，完整版本见对应Steam商店页。",
+      "sourceCommit": "8f587f671"
     }
   ]
 }
