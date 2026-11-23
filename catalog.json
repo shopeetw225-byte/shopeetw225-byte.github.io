@@ -18662,6 +18662,62 @@
       "source": "output/steam-store-auto-sync/daily-20261123/steam接手_ptBR预告片/steam_巴葡预告片上传发布回执_1123.md",
       "detailNote": "网页为压缩预览，完整版本见对应Steam商店页。",
       "sourceCommit": "8f587f671"
+    },
+    {
+      "id": "heybox-boss-challenge-197633201",
+      "title": "打赢一次就入队，输了不扣东西：《放置事务所》首领挑战攻略",
+      "date": "2026-11-23",
+      "dateBasis": "倦猫本人11月23日发布（对话管理转告）；11月23日晚读取公开页核对标题、正文和三张配图",
+      "category": "文案",
+      "group": "平台文案",
+      "status": "已公开 · 小黑盒",
+      "summary": "正式版首领挑战攻略：入口、怎么打、自动推关不代打和打不过怎么办，配三张开发版演示存档实机图。",
+      "body": "《放置事务所》正式版12月3日上线，正式版会开启 Steam 社区市场。demo不继承！！！！！！\n\n这篇是正式版的首领挑战攻略，下面都是当前开发版的实机画面，数值还在调，以正式版为准。\n\n一、在哪、什么时候开\n上一篇讲了试炼之塔，这篇讲另一扇门。打过第 12 关就能建“试炼之地”，进去以后“试炼”页有两扇门：“首领挑战”和“试炼之塔”。\n\n“试炼”入口页：两扇门“首领挑战”和“试炼之塔”（演示存档）\n\n首领挑战里列着主线的首领：每一章的章节首领，还有章节中间的首领，按关卡先后排。主线打过哪位首领的那一关，这位的挑战就开了。没打到的那一格写着“需要通关第 N 关”。每位单独开，不用按顺序打。\n\n二、怎么打\n选一位首领，选一支编队，按“开战”，打一场就结束。\n敌人就是主线那一关的首领阵，首领战力也一样；多数首领还会多带一条特殊战斗规则。难度是固定的，不会跟着你的战力变。页面上写着“首领战力”，对着看自己的队伍够不够。\n赢了，这位首领本人就加入你的队伍，格子上会变成“已战胜”。\n输了什么都不扣，没有冷却，可以马上再打。\n\n首领挑战页：已战胜、可挑战、需要通关第 N 关三种状态，右边是首领战力和开战（演示存档）\n\n三、自动推关不会帮你打\n首领挑战不进自动推关，得自己点进去打。主线推过去以后，记得回来看看哪几位“可挑战”了。\n\n四、打不过怎么办\n差得多就先回主线推一推、去试炼之塔刷刷塔匣，练强了再来；差一点可以换换站位、换支编队再试，反正输了不亏。\n\n打赢以后，首领本人直接加入事务所（演示存档）\n\n正式版上线以后，你最想先收哪位首领？评论区说说。\n\n点击这里加入放置事务所玩家交流群\n",
+      "links": [
+        {
+          "platform": "小黑盒",
+          "url": "https://www.xiaoheihe.cn/app/bbs/link/197633201",
+          "date": "2026-11-23",
+          "status": "已公开"
+        }
+      ],
+      "source": "output/对话管理/作品网页同步_20261123_首领挑战.md",
+      "cover": "https://imgheybox1.max-c.com/web/bbs/2026/11/23/796857a3800b9913e19c8b0807ab1015/thumb.png?imageMogr2/auto-orient/ignore-error/1/format/jpg/thumbnail/1125x600%3E",
+      "files": [
+        {
+          "name": "图1 · “试炼”入口页：两扇门“首领挑战”和“试炼之塔”（演示存档）",
+          "type": "image",
+          "url": "assets/heybox-boss-challenge-197633201-1-72580e4ecc4a.jpg",
+          "source": "output/heybox-boss-challenge-20261123/原图/配图组_xhh_boss_1.jpg",
+          "sourceSha256": "72580e4ecc4a65d568dff578c707d5c390ece077791370b94f556296664292b8",
+          "sha256": "72580e4ecc4a65d568dff578c707d5c390ece077791370b94f556296664292b8",
+          "publishedImageUrl": "https://imgheybox.max-c.com/web/bbs/2026/11/23/7c2cee6fc286eef6fd0b688de677a089/thumb.jpeg?imageMogr2/format/webp/quality/75/ignore-error/1/auto-orient"
+        },
+        {
+          "name": "图2 · 首领挑战页：已战胜、可挑战、需要通关第 N 关三种状态，右边是首领战力和开战（演示存档）",
+          "type": "image",
+          "url": "assets/heybox-boss-challenge-197633201-2-5863d2610fe9.jpg",
+          "source": "output/heybox-boss-challenge-20261123/原图/配图组_xhh_boss_2.jpg",
+          "sourceSha256": "5863d2610fe9f7593e2ec5977e52c0f9eb83accb786b71634581b1f1ac85313d",
+          "sha256": "5863d2610fe9f7593e2ec5977e52c0f9eb83accb786b71634581b1f1ac85313d",
+          "publishedImageUrl": "https://imgheybox.max-c.com/web/bbs/2026/11/23/998eba46125afb9f4c2547df5c1df230/thumb.jpeg?imageMogr2/format/webp/quality/75/ignore-error/1/auto-orient"
+        },
+        {
+          "name": "图3 · 打赢以后，首领本人直接加入事务所（演示存档）",
+          "type": "image",
+          "url": "assets/heybox-boss-challenge-197633201-3-25f0ba3b9e1e.jpg",
+          "source": "output/heybox-boss-challenge-20261123/原图/配图组_xhh_boss_3.jpg",
+          "sourceSha256": "25f0ba3b9e1ec624aa293159581f8b4032bc03a2ee9fbcd52a8ecd4580a8d3e3",
+          "sha256": "25f0ba3b9e1ec624aa293159581f8b4032bc03a2ee9fbcd52a8ecd4580a8d3e3",
+          "publishedImageUrl": "https://imgheybox.max-c.com/web/bbs/2026/11/23/37dc500206fda0571547df6823386c8a/thumb.jpeg?imageMogr2/format/webp/quality/75/ignore-error/1/auto-orient"
+        },
+        {
+          "name": "公开正文",
+          "url": "assets/heybox-boss-challenge-197633201-public.txt",
+          "type": "text",
+          "sha256": "22f93270e8216b1906f85cd78f14e2c87ba54a522e021df66cd67fb8a9bd570c"
+        }
+      ]
     }
   ]
 }
