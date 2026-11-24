@@ -19616,6 +19616,33 @@
         }
       ],
       "last_checked": "2026-11-24"
+    },
+    {
+      "id": "overseas-platform-steamradar-game-page",
+      "title": "SteamRadar · 游戏数据页（自动收录）",
+      "category": "海外宣发平台",
+      "group": "媒体自动资料页",
+      "date": "2026-11-19",
+      "dateBasis": "11月19日 SteamRadar 收录通知邮件；11月24日公开页核对",
+      "summary": "SteamRadar 自动收录了 Idle Agency 的 Steam 数据页，不是编辑报道。",
+      "status": "自动资料页 · 不是报道",
+      "files": [],
+      "cover": "",
+      "source": "2026-11-19 收录通知邮件及 2026-11-24 公开页核对",
+      "body": "2026-11-19：收到 SteamRadar 通知邮件，说明 Idle Agency 已被加入 SteamRadar.net。\n\n2026-11-24 核对：公开页可正常打开，页面为 Idle Agency（App 4855890）的 Steam 数据页，列出即将推出、12月3日计划上线、开发者名、商店简介、社区标签、免费 Demo 及支持语言，并有网站自己的销量、玩家和收入估算栏目。这是网站从 Steam 商店自动收录的游戏资料，不是编辑撰写的报道或评测，本作也没有向 SteamRadar 投稿。不计作媒体报道；页面上的估算数字不是官方数据。",
+      "highlights": [
+        "从 Steam 商店自动收录的数据页",
+        "不是编辑报道或评测",
+        "估算数字不是官方数据"
+      ],
+      "links": [
+        {
+          "platform": "SteamRadar 游戏数据页",
+          "url": "https://steamradar.net/web/games/4855890/idle-agency",
+          "status": "自动资料页，不是报道"
+        }
+      ],
+      "last_checked": "2026-11-24"
     }
   ]
 }
