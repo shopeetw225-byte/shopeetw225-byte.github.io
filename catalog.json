@@ -17739,7 +17739,7 @@
       "dateBasis": "Steam修订86发布回执（11-23 17:31）及11-23晚匿名十语公开接口截图顺序核对",
       "status": "已发布 · 十语90张",
       "summary": "十种语言各9张本语实机截图同时上线：战斗大招、事务所经营、阵容搭配、英雄技能、守护灵、战报、派遣宝箱、首领挑战和试炼之塔。",
-      "body": "商店修订86发布十语第04张新截图（凯歌天后技能页），并一起公开11-20已保存的其余80张本语截图绑定；此前公开页只有简中01–03为新图。11-23晚匿名读取十语商店接口，每种语言9张、顺序一致，截图标识与上传清单逐一对上；十语九宫格逐张看过，界面语言均与所在语言页一致。网页为1600宽压缩预览，原图见对应Steam商店页。11-20简中01–03条目保留作历史记录。",
+      "body": "商店修订86发布十语第04张新截图（凯歌天后技能页），并一起公开11-20已保存的其余80张本语截图绑定；此前公开页只有简中01–03为新图。11-23晚匿名读取十语商店接口，每种语言9张、顺序一致，截图标识与上传清单逐一对上；十语九宫格逐张看过，界面语言均与所在语言页一致。网页为1600宽压缩预览，原图见对应Steam商店页。11-20简中01–03条目保留作历史记录。11-24修订93已把十语第9张换成新版试炼之塔，见「Steam 商店截图 · 十语第九张试炼之塔（修订93）」。",
       "cover": "assets/r86-schinese-shot-01-1f6fb537ec09.jpg",
       "files": [
         {
@@ -19365,6 +19365,174 @@
         }
       ],
       "source": "output/steam-store-auto-sync/daily-20261124/steam_详情页GIF_c86/steam_详情页GIF_c86_上传发布回执_1124.md"
+    },
+    {
+      "id": "steam-store-screenshots-20261124-r93",
+      "title": "Steam 商店截图 · 十语第九张试炼之塔（修订93）",
+      "category": "封面与视觉",
+      "group": "宣传图",
+      "date": "2026-11-24",
+      "dateBasis": "Steam修订93发布回执（11-24 14:26）及11-24匿名十语商店接口截图顺序核对",
+      "status": "已发布 · 十语10张",
+      "summary": "试炼之塔整页改版后，十种语言的第9张商店截图换成新版塔章板，均为本语实机界面。",
+      "body": "商店修订93把十种语言的第9张截图（试炼之塔）换成新版塔章板：塔章6、第180层，驻层、折印、推层和底部三面旗都在画面里；基线为开发版main b1920c58，十语各自本语实录，1920×1080。旧的第9张已撤下，其余8张未变。11-24匿名读取十语商店接口：每种语言仍是9张，新图都在第9位，旧图不在，也没有串到别的语言；十张逐张看过，界面语言与所在语言页一致。网页为1600宽压缩预览，原图见对应Steam商店页。",
+      "cover": "assets/r93-schinese-shot-09-a278529d212f.jpg",
+      "files": [
+        {
+          "name": "简体中文 · 截图09 · 试炼之塔",
+          "url": "assets/r93-schinese-shot-09-a278529d212f.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9fae751da7fe532dadfda512bf5e12f1ad5e906d/ss_9fae751da7fe532dadfda512bf5e12f1ad5e906d.1920x1080.jpg?t=1795501666",
+          "steamScreenshotSha1": "9fae751da7fe532dadfda512bf5e12f1ad5e906d",
+          "sha256": "a278529d212f52becffdd8ed526f3a9019d69c73cb08b1cd3a6664973105bda6",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "繁体中文 · 截图09 · 试炼之塔",
+          "url": "assets/r93-tchinese-shot-09-062cb793b406.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/14d57cb3d57c88f5a5f4688fc0cb33ea71304f1f/ss_14d57cb3d57c88f5a5f4688fc0cb33ea71304f1f.1920x1080.jpg?t=1795501666",
+          "steamScreenshotSha1": "14d57cb3d57c88f5a5f4688fc0cb33ea71304f1f",
+          "sha256": "062cb793b406749bd84c65f829ee3a590d7bfe8bdd873491bad6d6241c96379d",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "英文 · 截图09 · 试炼之塔",
+          "url": "assets/r93-english-shot-09-81b220a974f4.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4f08504af2ec2c32ce656e41ade16b7c9767633d/ss_4f08504af2ec2c32ce656e41ade16b7c9767633d.1920x1080.jpg?t=1795501666",
+          "steamScreenshotSha1": "4f08504af2ec2c32ce656e41ade16b7c9767633d",
+          "sha256": "81b220a974f4d8f76ab78f4657d33dba6aa4b4b00907f598a4b180301aae5274",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "日文 · 截图09 · 试炼之塔",
+          "url": "assets/r93-japanese-shot-09-8bae3d3b0bc7.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/fa2bf4e10d3f6f0cd47146f8035e7c978ad23367/ss_fa2bf4e10d3f6f0cd47146f8035e7c978ad23367.1920x1080.jpg?t=1795501666",
+          "steamScreenshotSha1": "fa2bf4e10d3f6f0cd47146f8035e7c978ad23367",
+          "sha256": "8bae3d3b0bc7e9d63d5159b95856fd412176f8b884abfd481d39ed5e923bb1d7",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "韩文 · 截图09 · 试炼之塔",
+          "url": "assets/r93-koreana-shot-09-fc901ce1e136.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/1f0f7fd00bc5ff64b9cff14091aae3b7f6119539/ss_1f0f7fd00bc5ff64b9cff14091aae3b7f6119539.1920x1080.jpg?t=1795501666",
+          "steamScreenshotSha1": "1f0f7fd00bc5ff64b9cff14091aae3b7f6119539",
+          "sha256": "fc901ce1e136d6a167cbea14c63c15731397bfa88c58bf2f8cef9176e4a624f3",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "德文 · 截图09 · 试炼之塔",
+          "url": "assets/r93-german-shot-09-e2a05bfcf08f.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9da549b4f156def5a3c59af1514cb83f3fa6fc76/ss_9da549b4f156def5a3c59af1514cb83f3fa6fc76.1920x1080.jpg?t=1795501666",
+          "steamScreenshotSha1": "9da549b4f156def5a3c59af1514cb83f3fa6fc76",
+          "sha256": "e2a05bfcf08fd8e846c9393965deb87266d468a34323ce1dcf48926085854d4a",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "法文 · 截图09 · 试炼之塔",
+          "url": "assets/r93-french-shot-09-55dfe65fe9d2.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/3d01714cf57d6ac9ab914de041d4fcedd1c3b193/ss_3d01714cf57d6ac9ab914de041d4fcedd1c3b193.1920x1080.jpg?t=1795501666",
+          "steamScreenshotSha1": "3d01714cf57d6ac9ab914de041d4fcedd1c3b193",
+          "sha256": "55dfe65fe9d2693718f4172a21be2bfcb19568cbf6c858902306bfd0c45e1f43",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "西班牙文 · 截图09 · 试炼之塔",
+          "url": "assets/r93-spanish-shot-09-13c20c6fd195.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/30db3e1ce79c3a00d59167eb2681e93b679657e8/ss_30db3e1ce79c3a00d59167eb2681e93b679657e8.1920x1080.jpg?t=1795501666",
+          "steamScreenshotSha1": "30db3e1ce79c3a00d59167eb2681e93b679657e8",
+          "sha256": "13c20c6fd1955e7130f681a5dbeeef22a384c6450a759a475d3b76364ef6860f",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图09 · 试炼之塔",
+          "url": "assets/r93-brazilian-shot-09-77c21b810568.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/1f30a79b324a019ffbce725b7a8ac62a6f38e64b/ss_1f30a79b324a019ffbce725b7a8ac62a6f38e64b.1920x1080.jpg?t=1795501666",
+          "steamScreenshotSha1": "1f30a79b324a019ffbce725b7a8ac62a6f38e64b",
+          "sha256": "77c21b81056878c290f4e7f4deee6935d3fdb64bbf150221447c4c8aafc00e25",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "俄文 · 截图09 · 试炼之塔",
+          "url": "assets/r93-russian-shot-09-923860818fe6.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/1445814935e09c1dbed057f714f89319ecd9b674/ss_1445814935e09c1dbed057f714f89319ecd9b674.1920x1080.jpg?t=1795501666",
+          "steamScreenshotSha1": "1445814935e09c1dbed057f714f89319ecd9b674",
+          "sha256": "923860818fe616ebfd7375dc3325f06918bc0c6ceb943e532868290b3ac2a0b6",
+          "updated": "2026-11-24"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-24",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261124/steam_截图09/steam_截图09_十语上传发布回执_r93_1124.md",
+      "detailNote": "网页为压缩预览，完整截图见对应Steam商店页。"
     }
   ]
 }
