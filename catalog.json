@@ -17441,7 +17441,7 @@
       "dateBasis": "Steam修订86发布回执（11-23 17:31）及11-23晚匿名十语公开接口截图顺序核对",
       "status": "已发布 · 十语90张",
       "summary": "十种语言各9张本语实机截图同时上线：战斗大招、事务所经营、阵容搭配、英雄技能、守护灵、战报、派遣宝箱、首领挑战和试炼之塔。",
-      "body": "商店修订86发布十语第04张新截图（凯歌天后技能页），并一起公开11-20已保存的其余80张本语截图绑定；此前公开页只有简中01–03为新图。11-23晚匿名读取十语商店接口，每种语言9张、顺序一致，截图标识与上传清单逐一对上；十语九宫格逐张看过，界面语言均与所在语言页一致。网页为1600宽压缩预览，原图见对应Steam商店页。11-20简中01–03条目保留作历史记录。11-24修订93已把十语第9张换成新版试炼之塔，见「Steam 商店截图 · 十语第九张试炼之塔（修订93）」。",
+      "body": "商店修订86发布十语第04张新截图（凯歌天后技能页），并一起公开11-20已保存的其余80张本语截图绑定；此前公开页只有简中01–03为新图。11-23晚匿名读取十语商店接口，每种语言9张、顺序一致，截图标识与上传清单逐一对上；十语九宫格逐张看过，界面语言均与所在语言页一致。网页为1600宽压缩预览，原图见对应Steam商店页。11-20简中01–03条目保留作历史记录。11-24修订93已把十语第9张换成新版试炼之塔，见「Steam 商店截图 · 十语第九张试炼之塔（修订93）」。11-24修订96又换了简繁第3、4、5、8张和英德韩俄第4张，见「Steam 商店截图 · 第一批12张（修订96）」。",
       "cover": "assets/r86-schinese-shot-01-1f6fb537ec09.jpg",
       "files": [
         {
@@ -19811,6 +19811,192 @@
         }
       ],
       "source": "output/steam-store-auto-sync/daily-20261124/steam_详情页GIF_c86/steam_详情页A块v4_第03至09节GIF_发布回执_r94_1124.md"
+    },
+    {
+      "id": "steam-store-screenshots-20261124-r96",
+      "title": "Steam 商店截图 · 第一批12张（修订96）",
+      "category": "封面与视觉",
+      "group": "宣传图",
+      "date": "2026-11-24",
+      "dateBasis": "Steam修订96发布回执（11-24 约17:41）及11-24匿名十语商店接口截图顺序核对",
+      "status": "已发布 · 12张",
+      "summary": "商店修订96换了第一批12张本语截图：简繁第3张布阵、第4张英雄技能、第5张守护灵、第8张首领挑战，英德韩俄第4张英雄技能。",
+      "body": "商店修订96（11-24 约17:41）换了第一批12张商店截图，均为本语实机界面，1920×1080：简中、繁中的第3张布阵、第4张英雄技能（凯歌天后技能页）、第5张守护灵（晨曦不死鸟升级页）、第8张首领挑战（迅星刃姬，首领战力288K）；英文、德文、韩文、俄文的第4张英雄技能。日文、法文、西班牙文、巴西葡萄牙文的第4张新版文字溢出，会切掉手续费那一行，所以这四语继续用原来的第4张。11-24匿名读取十语商店接口：每种语言仍是9张，上述12个位置是新图，其余78张与修订93后一致；12张逐张看过，界面语言与所在语言页一致。网页为1600宽压缩预览，原图见对应Steam商店页。",
+      "cover": "assets/r96-schinese-shot-03-5bf7f3106ca7.jpg",
+      "files": [
+        {
+          "name": "简体中文 · 截图03 · 布阵",
+          "url": "assets/r96-schinese-shot-03-5bf7f3106ca7.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/5e18bb2453e7e8b656aece16e082938e4cd75c33/ss_5e18bb2453e7e8b656aece16e082938e4cd75c33.1920x1080.jpg?t=1795513420",
+          "steamScreenshotSha1": "5e18bb2453e7e8b656aece16e082938e4cd75c33",
+          "sha256": "5bf7f3106ca795dec05bfa1d2dce31a754fe5f27ddedac444be4409a77d67f5f",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "繁体中文 · 截图03 · 布阵",
+          "url": "assets/r96-tchinese-shot-03-9291b1cdacff.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/0d2a63a61c0873eebfdfb98ec277f29a6845053b/ss_0d2a63a61c0873eebfdfb98ec277f29a6845053b.1920x1080.jpg?t=1795513420",
+          "steamScreenshotSha1": "0d2a63a61c0873eebfdfb98ec277f29a6845053b",
+          "sha256": "9291b1cdacff01ae2cf9987dd35696dc29dc44e4fe13521414a59a4e6bed4d06",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "简体中文 · 截图04 · 英雄技能",
+          "url": "assets/r96-schinese-shot-04-699945db9e60.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/50725cc29447f7349af090f0deab5c750c460bd5/ss_50725cc29447f7349af090f0deab5c750c460bd5.1920x1080.jpg?t=1795513420",
+          "steamScreenshotSha1": "50725cc29447f7349af090f0deab5c750c460bd5",
+          "sha256": "699945db9e6011bb24cc2abe710c32adc380f625d112e0b71be1c3c6d0c2fe5c",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "繁体中文 · 截图04 · 英雄技能",
+          "url": "assets/r96-tchinese-shot-04-2d6191e81a6f.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/170d9856d40a351924ae1aa951e07bd062b6b06c/ss_170d9856d40a351924ae1aa951e07bd062b6b06c.1920x1080.jpg?t=1795513420",
+          "steamScreenshotSha1": "170d9856d40a351924ae1aa951e07bd062b6b06c",
+          "sha256": "2d6191e81a6f19970f946affd61ffb777ee386887d3c113575c3b836c5d4e1b3",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "英文 · 截图04 · 英雄技能",
+          "url": "assets/r96-english-shot-04-f7e1aa5a93da.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/fecdf8087a13b5af42e987c23589054d3a1921a5/ss_fecdf8087a13b5af42e987c23589054d3a1921a5.1920x1080.jpg?t=1795513420",
+          "steamScreenshotSha1": "fecdf8087a13b5af42e987c23589054d3a1921a5",
+          "sha256": "f7e1aa5a93dae200084d051cc4a3d3e4a9acd1361f0afcac778ed02dc9d49ecf",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "韩文 · 截图04 · 英雄技能",
+          "url": "assets/r96-koreana-shot-04-c993598153c5.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/cf6256ab97a23aee7353eaff6844deb881d9309f/ss_cf6256ab97a23aee7353eaff6844deb881d9309f.1920x1080.jpg?t=1795513420",
+          "steamScreenshotSha1": "cf6256ab97a23aee7353eaff6844deb881d9309f",
+          "sha256": "c993598153c555d6c6bf681f4269469c4ce3606d2938fb8c99afaccf403bf913",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "德文 · 截图04 · 英雄技能",
+          "url": "assets/r96-german-shot-04-911dae0babab.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/3205bc12831fa8764acbe9286f91668cf94b7e68/ss_3205bc12831fa8764acbe9286f91668cf94b7e68.1920x1080.jpg?t=1795513420",
+          "steamScreenshotSha1": "3205bc12831fa8764acbe9286f91668cf94b7e68",
+          "sha256": "911dae0bababed7c6756cfefe88a80ca568554b80898098318b67b4c033ffdf5",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "俄文 · 截图04 · 英雄技能",
+          "url": "assets/r96-russian-shot-04-60d1e838439e.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9e3a4059fa6b86731b996af958d506dbacb0312f/ss_9e3a4059fa6b86731b996af958d506dbacb0312f.1920x1080.jpg?t=1795513420",
+          "steamScreenshotSha1": "9e3a4059fa6b86731b996af958d506dbacb0312f",
+          "sha256": "60d1e838439ea9a24193aae56e668c8a69f0fe63cf4206dd18f404a420966b82",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "简体中文 · 截图05 · 守护灵",
+          "url": "assets/r96-schinese-shot-05-61a097de20a5.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4da6c53e949a2c30e24a422ed44f78701d05d714/ss_4da6c53e949a2c30e24a422ed44f78701d05d714.1920x1080.jpg?t=1795513420",
+          "steamScreenshotSha1": "4da6c53e949a2c30e24a422ed44f78701d05d714",
+          "sha256": "61a097de20a53f348695b19bd8c6f646df26aa5f023d128ade1afb540a424585",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "繁体中文 · 截图05 · 守护灵",
+          "url": "assets/r96-tchinese-shot-05-fbab37c007a2.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/ac95ca0fcc9e23c518f269c1f2c76268cbd2b7a3/ss_ac95ca0fcc9e23c518f269c1f2c76268cbd2b7a3.1920x1080.jpg?t=1795513420",
+          "steamScreenshotSha1": "ac95ca0fcc9e23c518f269c1f2c76268cbd2b7a3",
+          "sha256": "fbab37c007a25e31a160de55d6e49b0c5186c02b34e1797869de66a432a24863",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "简体中文 · 截图08 · 首领挑战",
+          "url": "assets/r96-schinese-shot-08-c0f81b81597c.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/76a5775798b1ae03761af47b97152391fdb843b1/ss_76a5775798b1ae03761af47b97152391fdb843b1.1920x1080.jpg?t=1795513420",
+          "steamScreenshotSha1": "76a5775798b1ae03761af47b97152391fdb843b1",
+          "sha256": "c0f81b81597ce55af28815dea342f12d3614fdfccb7ef6df57540e08bd33e815",
+          "updated": "2026-11-24"
+        },
+        {
+          "name": "繁体中文 · 截图08 · 首领挑战",
+          "url": "assets/r96-tchinese-shot-08-5dd49a4e163e.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/03160541a8a3777794c46fcff54cf5d9b5a38d6a/ss_03160541a8a3777794c46fcff54cf5d9b5a38d6a.1920x1080.jpg?t=1795513420",
+          "steamScreenshotSha1": "03160541a8a3777794c46fcff54cf5d9b5a38d6a",
+          "sha256": "5dd49a4e163e99c388cba89a0ddf0ffe38d435bb14aee7d038d6a5baeeb9ca50",
+          "updated": "2026-11-24"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-24",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261124/steam_商店截图_批1/steam_商店截图批1_12张_发布回执_r96_1124.md",
+      "detailNote": "网页为压缩预览，完整截图见对应Steam商店页。"
     }
   ]
 }
