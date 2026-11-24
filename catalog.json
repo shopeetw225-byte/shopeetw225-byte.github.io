@@ -19533,6 +19533,62 @@
       ],
       "source": "output/steam-store-auto-sync/daily-20261124/steam_截图09/steam_截图09_十语上传发布回执_r93_1124.md",
       "detailNote": "网页为压缩预览，完整截图见对应Steam商店页。"
+    },
+    {
+      "id": "heybox-stuck-guide-197692872",
+      "title": "战力够了还是过不去？《放置事务所》卡关攻略：先看考题再换人",
+      "date": "2026-11-24",
+      "dateBasis": "倦猫本人11月24日发布（对话管理转告）；11月24日读取公开页核对标题、正文和三张配图",
+      "category": "文案",
+      "group": "平台文案",
+      "status": "已公开 · 小黑盒",
+      "summary": "正式版卡关攻略：先看战前侦察的考题、换对口职业解题、输了看结算卡和战报，配三张开发版演示存档实机图。",
+      "body": "《放置事务所》正式版12月3日上线，正式版会开启 Steam 社区市场。demo不继承！！！！！！\n\n这篇是正式版的卡关攻略，下面都是当前开发版的实机画面，数值还在调，以正式版为准。\n\n战力明明够了，就是过不去？很多时候不是练度不够，而是这一关有“考题”。上一篇说首领多半会多带一条特殊战斗规则，这篇就讲这类关怎么过。\n\n一、开打前，先看战前侦察\n主线开战前会弹出“战前侦察”，在编队页点敌方那一列的头像圆章也能打开。同一章里看过一样的敌阵就不再弹，嫌烦也可以勾“本章不再提示”。\n\n有考题的关，侦察上会写出这一关考什么、敌人这招有多狠。比如下图这关考“护盾再生”，就写着敌人开场带多少护盾、每回合回多少盾。开打以后就看不到了，所以开战前看一眼。\n\n战力那一行写着“我方战力 / 推荐战力”，没到推荐，整行会被红圈圈起来。\n\n战前侦察：写着这关考什么（演示存档）\n\n二、考题怎么解：换对口的职业\n正式版里解考题，主要靠职业特性：队里有对口职业的英雄在场，这道题就会被削弱。对口的人越多削得越多，人倒下了就不算。\n\n斩杀线 → 圣骑士（护身边的队友）\n护盾再生 → 战士（他破甲的敌人，全队打都算）\n反伤 → 牧师（被他治疗过的队友）\n群轰 → 牧师、德鲁伊（德鲁伊护前排）\n回血 → 法师、盗贼（盗贼只管自己）\n扣士气 → 吟游诗人、旗官\n抢节奏 → 旗官\n沉默 → 仙术师\n召唤援兵 → 仙术师、术士\n\n另外，英雄页有“能解考题”一行，写着这位英雄的招式能直接对付带考题的敌人。（职业不对口，就换个能先把它打掉的人）\n\n三、输了，看结算卡\n主线打输以后，结算卡会用一句话点出败因：开局有人被一击打倒、后排被一招清掉、大招被沉默或削士气掐掉，或者在决战被拖垮。输给考题也会直接点出来。\n\n同一关输两次，会弹出“这一关是考题”，把这关每道题的敌方数值再列一遍。\n\n游戏还会替你试算“只改一步”能不能赢：挪一个人、两个人对调，或者用板凳上的人顶替一位。试算能赢，标题就变成“只差一步”，点“换上”直接套用，开打还是你自己按。（游戏比我还急）\n\n同一关连输三场以上，这一场又是输给考题，要是板凳上有对口的人，还会直接点名：这关考什么、板凳上谁对口、换下谁。\n\n输了，结算卡会说差在哪、怎么改（演示存档）\n\n四、战报：谁打了多少\n战斗里打开战报小窗，能看输出、治疗、承伤、护盾、士气、控制几个排行，看的时候战斗不停。鼠标移到某一行，会写他主要打谁、增益让他多打了多少、最多来自谁。\n\n点进去是完整战报，能看回合走势、拖选只看某几回合，点上面的头像就能换人看。输了以后，结算卡上的“查看数据”也能打开。\n\n战报小窗，悬停看他主要打谁（演示存档）\n\n五、输了不亏\n没有体力，输了不扣资源，改完编队马上能再打。\n\n开着自动推关打输了，“败后刷关”会让队伍退回上一关接着刷，不会空转。但它不会自己回头重试卡住的那一关，变强以后记得手动来挑战。\n\n卡得比较死，就先去别处变强：英雄升级、升阶、学院研究、铁匠铺打装备，或者去试炼里打打首领挑战和试炼之塔。\n\n你现在卡在第几关？被哪道考题拦住了？评论区报一下。\n\n点击这里加入放置事务所玩家交流群\n",
+      "links": [
+        {
+          "platform": "小黑盒",
+          "url": "https://www.xiaoheihe.cn/app/bbs/link/197692872",
+          "date": "2026-11-24",
+          "status": "已公开"
+        }
+      ],
+      "source": "output/对话管理/作品网页同步_20261124_小黑盒卡关攻略.md",
+      "cover": "https://imgheybox1.max-c.com/web/bbs/2026/11/24/991b0626a888811305b02895ef9024df/thumb.png?imageMogr2/auto-orient/ignore-error/1/format/jpg/thumbnail/1125x600%3E",
+      "files": [
+        {
+          "name": "图1 · 战前侦察：写着这关考什么（演示存档）",
+          "type": "image",
+          "url": "assets/heybox-stuck-guide-197692872-1-3d7ade585308.jpg",
+          "source": "output/heybox-stuck-guide-20261124/原图/配图组_xhh_stuck_1.jpg",
+          "sourceSha256": "3d7ade585308ae5dded55a18270e6ca963e2d86075c5f2b419d2b9cd07fc5b27",
+          "sha256": "3d7ade585308ae5dded55a18270e6ca963e2d86075c5f2b419d2b9cd07fc5b27",
+          "publishedImageUrl": "https://imgheybox.max-c.com/web/bbs/2026/11/24/8a816f58791a07e4530b26ee30b7b270/thumb.jpeg?imageMogr2/format/webp/quality/75/ignore-error/1/auto-orient"
+        },
+        {
+          "name": "图2 · 输了，结算卡会说差在哪、怎么改（演示存档）",
+          "type": "image",
+          "url": "assets/heybox-stuck-guide-197692872-2-46d2bd870f66.jpg",
+          "source": "output/heybox-stuck-guide-20261124/原图/配图组_xhh_stuck_2.jpg",
+          "sourceSha256": "46d2bd870f66b1576788e096d6e98293dee72a1fb2774b1cab5bfdfbb421e2e4",
+          "sha256": "46d2bd870f66b1576788e096d6e98293dee72a1fb2774b1cab5bfdfbb421e2e4",
+          "publishedImageUrl": "https://imgheybox.max-c.com/web/bbs/2026/11/24/2c49fb7e31c204eb4652ed08214a1877/thumb.jpeg?imageMogr2/format/webp/quality/75/ignore-error/1/auto-orient"
+        },
+        {
+          "name": "图3 · 战报小窗，悬停看他主要打谁（演示存档）",
+          "type": "image",
+          "url": "assets/heybox-stuck-guide-197692872-3-0137808cc717.jpg",
+          "source": "output/heybox-stuck-guide-20261124/原图/配图组_xhh_stuck_3.jpg",
+          "sourceSha256": "0137808cc7178e588cf8514beb5f12d5b153797759d9a8c85b57f07a3870d96c",
+          "sha256": "0137808cc7178e588cf8514beb5f12d5b153797759d9a8c85b57f07a3870d96c",
+          "publishedImageUrl": "https://imgheybox.max-c.com/web/bbs/2026/11/24/1eff33ef42aad261811df9d4eb8aff09/thumb.jpeg?imageMogr2/format/webp/quality/75/ignore-error/1/auto-orient"
+        },
+        {
+          "name": "公开正文",
+          "url": "assets/heybox-stuck-guide-197692872-public.txt",
+          "type": "text",
+          "sha256": "df77f515023f324cf4a2e93bde7a162dc5341d63de6cafc1fa2096ad7b97aa14"
+        }
+      ]
     }
   ]
 }
