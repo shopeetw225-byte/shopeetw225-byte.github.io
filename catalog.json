@@ -19211,6 +19211,132 @@
       "source": "output/steam-store-auto-sync/daily-20261123/steam接手_俄语预告片/steam_俄语预告片上传发布回执_1124.md",
       "detailNote": "网页为压缩预览，完整版本见对应Steam商店页。",
       "sourceCommit": "8f587f671"
+    },
+    {
+      "id": "steam-store-gif-updates-20261124-r90",
+      "title": "Steam 详情页动图 · 修订90",
+      "category": "封面与视觉",
+      "group": "详情页图片",
+      "date": "2026-11-24",
+      "dateBasis": "Steam修订90发布回执（11-24 10:41）及11-24匿名十语商店页引用核对",
+      "status": "已发布 · 十语",
+      "summary": "更新十语详情页共14处动图引用、7张新素材：开箱、阵容搭配和试炼之塔，均为c86开发版实机录制。",
+      "body": "商店修订90把简中、繁中的03开箱、06阵容搭配、09试炼之塔三节换成本语新动图；其他八种语言的06阵容搭配换成新的英文动图，03、09两节这次没有新英文版，保持原来的英文图。共14处引用、7张新素材，详情页文字未改，旧素材未删。11-24匿名读取十语商店页：简中新图在第3、6、9张，繁中在第2、5、8张，其他八语的阵容图在第5张；逐张抽帧看过，界面语言正确。动图以Steam公开地址引用，网页不另存副本。03、09两节的英文新版另行更新。",
+      "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/1aa6a93a8faa38bdc9402c16cf55709a.poster.avif?t=1795488158",
+      "files": [
+        {
+          "name": "简体中文 · 开箱（03节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/1aa6a93a8faa38bdc9402c16cf55709a.mp4?t=1795488158",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/1aa6a93a8faa38bdc9402c16cf55709a.poster.avif?t=1795488158",
+          "sourceGifSha256": "d18b936ebab9f9b22ade45fddc22109178ddc7656684988905720ce0367e02b3"
+        },
+        {
+          "name": "繁体中文 · 开箱（03节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/67dd07f64aa81e8b16f139456f8de480.mp4?t=1795488158",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/67dd07f64aa81e8b16f139456f8de480.poster.avif?t=1795488158",
+          "sourceGifSha256": "2129fa8674401544e19ae1c72372ab2088e6daa1d1b0d6e46c15a95c973e3bc0"
+        },
+        {
+          "name": "简体中文 · 阵容搭配（06节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/419ab0b9b2b14eb0db99aa42fe3ec929.mp4?t=1795488158",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/419ab0b9b2b14eb0db99aa42fe3ec929.poster.avif?t=1795488158",
+          "sourceGifSha256": "51a66616388639e5a211161880ae8276d89dacbaf8d3061333a16f8d5a1c813a"
+        },
+        {
+          "name": "繁体中文 · 阵容搭配（06节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/8eb381ccbe9a4ce5d7d7ab29d0b79ff5.mp4?t=1795488158",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/8eb381ccbe9a4ce5d7d7ab29d0b79ff5.poster.avif?t=1795488158",
+          "sourceGifSha256": "7b77e7e1afd0e07a31b99878f381f266c37e52337a1a42f53dda6c5994cc844a"
+        },
+        {
+          "name": "英文 · 阵容搭配（06节，其他七语共用）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/464367ab5c937176dc59393dbb4a8afb.mp4?t=1795488158",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/464367ab5c937176dc59393dbb4a8afb.poster.avif?t=1795488158",
+          "sourceGifSha256": "d6af6e8021ef8db4be5c830b98ba9164b6fca8b62fe698c15e5e9720c18ff1fb"
+        },
+        {
+          "name": "简体中文 · 试炼之塔（09节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/c1a8b3e0ed622c702d8c09dbba92cf5c.mp4?t=1795488158",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/c1a8b3e0ed622c702d8c09dbba92cf5c.poster.avif?t=1795488158",
+          "sourceGifSha256": "98689d22f7f87c6a2690017ad75d9a68d13020e6473ef6e70469396a9f0a833f"
+        },
+        {
+          "name": "繁体中文 · 试炼之塔（09节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/3ce8488650b18efd6d916c8b8f65a696.mp4?t=1795488158",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/3ce8488650b18efd6d916c8b8f65a696.poster.avif?t=1795488158",
+          "sourceGifSha256": "4c01ba4a95bd41bcaa54e7a9410e8757afea3c7906ca7cc05c1aee9092259fda"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-24",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261124/steam_详情页GIF_c86/steam_详情页GIF_c86_上传发布回执_1124.md"
     }
   ]
 }
