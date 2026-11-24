@@ -19643,6 +19643,174 @@
         }
       ],
       "last_checked": "2026-11-24"
+    },
+    {
+      "id": "steam-store-gif-updates-20261124-r94",
+      "title": "Steam 详情页动图 · 修订94",
+      "category": "封面与视觉",
+      "group": "详情页图片",
+      "date": "2026-11-24",
+      "dateBasis": "Steam修订94发布回执（11-24 约16:35）、Codex专用十语公开页独立复核及11-24匿名十语商店页引用核对",
+      "status": "已发布 · 十语",
+      "summary": "十语详情页文案更新到v4，并换上开箱、仓库装备、英雄技能、守护灵、首领挑战五节新动图，共13张新素材。",
+      "body": "商店修订94（11-24 约16:35）同时发布十语详情页文案v4和五节新动图。文案按原有段落顺序修改：替换第3、5、7、10段，在第4、8段末尾追加，并在第9段后新增一段；不改动原有顺序。动图：简中、繁中的03开箱、04仓库装备、05英雄技能、07守护灵、09首领挑战五节都换成本语新图；其他八种语言的03、04、09三节换成新的英文动图，05、07两节原本就用英文版，这次没动。03、04为c61开发版实机录制，05、07、09为b19开发版实机录制。共13张新素材，每种语言仍是20个媒体位。11-24匿名读取十语商店页：新图在简繁第6、8、10、14、18个媒体位、其他八语第6、8、18个媒体位，引用与发布回执一致；抽帧看过，界面语言与所在语言页一致，09节标题分别为首领挑战、首領挑戰、BOSS CHALLENGE。动图以Steam公开地址引用，网页不另存副本。07节的4×4棋盘版仍在补拍，不在本次发布内。",
+      "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/b2fc901efba7d33dd48f90f76371bec5.poster.avif?t=1795509393",
+      "files": [
+        {
+          "name": "简体中文 · 开箱（03节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/b2fc901efba7d33dd48f90f76371bec5.mp4?t=1795509393",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/b2fc901efba7d33dd48f90f76371bec5.poster.avif?t=1795509393",
+          "sourceGifSha256": "9923d6df5d069ee1685c221a9e617085908cf121226c37f342222674276f6614"
+        },
+        {
+          "name": "繁体中文 · 开箱（03节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/72c6da6aabbe071972a02626ad312f55.mp4?t=1795509393",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/72c6da6aabbe071972a02626ad312f55.poster.avif?t=1795509393",
+          "sourceGifSha256": "f4e09ddd4b67c50bf8056daea81f9639945a9ac87babe9af215c394122fef9ba"
+        },
+        {
+          "name": "英文 · 开箱（03节，其他七语共用）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/48257f73bb60c67ce9ca4a2838774892.mp4?t=1795509393",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/48257f73bb60c67ce9ca4a2838774892.poster.avif?t=1795509393",
+          "sourceGifSha256": "0e853bb92544700a6f8e496b161c3a3ef2ba801376929456fb0aa994ffd74852"
+        },
+        {
+          "name": "简体中文 · 仓库装备（04节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/f984a25a8e0e084fea4fb9cfcd767746.mp4?t=1795509393",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/f984a25a8e0e084fea4fb9cfcd767746.poster.avif?t=1795509393",
+          "sourceGifSha256": "fefa878a733e7e341a03c317aec68802773c4742c66894c12b96fcd505363710"
+        },
+        {
+          "name": "繁体中文 · 仓库装备（04节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/eb6171e44cd2fc38add564dabf4a08c7.mp4?t=1795509393",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/eb6171e44cd2fc38add564dabf4a08c7.poster.avif?t=1795509393",
+          "sourceGifSha256": "394208fdbaa9d37f1d7b3885293d369c2a83613437838152f48d3a5ce933ba59"
+        },
+        {
+          "name": "英文 · 仓库装备（04节，其他七语共用）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/5afe68f29b89f02525fbf8f52f36d43c.mp4?t=1795509393",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/5afe68f29b89f02525fbf8f52f36d43c.poster.avif?t=1795509393",
+          "sourceGifSha256": "ea5d98771e4c409b59498ad02784feaf911404725b8905c07a9a207010de551a"
+        },
+        {
+          "name": "简体中文 · 英雄技能（05节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/060c80d345540a9fc4694d30b530eecb.mp4?t=1795509393",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/060c80d345540a9fc4694d30b530eecb.poster.avif?t=1795509393",
+          "sourceGifSha256": "f97f068dac76d5a7226f01ac97f7f458c98789b8ea534cb5d44d9d55dcdde95a"
+        },
+        {
+          "name": "繁体中文 · 英雄技能（05节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/080170c309e93934209de720502976bf.mp4?t=1795509393",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/080170c309e93934209de720502976bf.poster.avif?t=1795509393",
+          "sourceGifSha256": "76a2868e10430f45a8b818a52d4de55d356a9f4990303744f8a0eedeeb023703"
+        },
+        {
+          "name": "简体中文 · 守护灵（07节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/77d50d77db7d431edab163dc99dafec8.mp4?t=1795509393",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/77d50d77db7d431edab163dc99dafec8.poster.avif?t=1795509393",
+          "sourceGifSha256": "e9715ca908bac32aa737d3aae85aa6fd072acfe1ffa151f9fca1f97c54b56755"
+        },
+        {
+          "name": "繁体中文 · 守护灵（07节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/4b054c3c3428be5904b2b004090f0635.mp4?t=1795509393",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/4b054c3c3428be5904b2b004090f0635.poster.avif?t=1795509393",
+          "sourceGifSha256": "4b2b77cb257a8666036a0d97c2160bc33029cb2665429efc3e1891d7abe4099a"
+        },
+        {
+          "name": "简体中文 · 首领挑战（09节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/274e6d47437070979ea2ca97fc7a776a.mp4?t=1795509393",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/274e6d47437070979ea2ca97fc7a776a.poster.avif?t=1795509393",
+          "sourceGifSha256": "0a8fd728e93585801489a902db435392596e93bfe9a3d5d023221005ca4a6657"
+        },
+        {
+          "name": "繁体中文 · 首领挑战（09节）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/bd8673a3bc79dd49d405e7a79339fa44.mp4?t=1795509393",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/bd8673a3bc79dd49d405e7a79339fa44.poster.avif?t=1795509393",
+          "sourceGifSha256": "41238cb54352128ddc2fe29882005b3329aaea786288af1a86f86c7c053997ed"
+        },
+        {
+          "name": "英文 · 首领挑战（09节，其他七语共用）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/1780692da9aa2d726da75c7264e34dad.mp4?t=1795509393",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/1780692da9aa2d726da75c7264e34dad.poster.avif?t=1795509393",
+          "sourceGifSha256": "cdff8711e568659965e65ebc87841daad066a933c3bdf1cf2975229bca6177cd"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-24",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261124/steam_详情页GIF_c86/steam_详情页A块v4_第03至09节GIF_发布回执_r94_1124.md"
     }
   ]
 }
