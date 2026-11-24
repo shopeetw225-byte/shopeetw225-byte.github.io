@@ -1,0 +1,45 @@
+Shareholder onboarding: running the Agency – Academy picks, Rush Dispatch
+
+Important enough to say three times: Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game!
+
+Hi everyone, Juanmao here.
+
+The full game launches on December 3! Just 9 days to go! The Steam Community Market will open with the full game~ If you have any thoughts about the Market, feel free to leave them in the comments.
+
+Besides pushing stages, the Fortress and the Academy are worth a quick look too. This one covers a few things that take seconds and save you hassle. First, three names that sound alike: "Commissions" are the Tavern jobs you send heroes on to earn Legend Recruit Coupons (covered a few days ago); auto-dispatch income is what your Campaign keeps earning while you idle (not the Auto-Dispatch research, which re-sends Tavern heroes); and "Rush Dispatch" is a button on the Campaign page that grabs a chunk of auto-dispatch income at once.
+
+Not enough Cost? Upgrade the Agency Hall
+The total cost of your fielded heroes can't exceed the cost cap, and the cap mostly goes up by upgrading the Agency Hall. Hover over "Cost" in the Fortress top bar and it tells you which Hall level raises the cost cap, and from what to what.
+Other buildings can't go above the Hall's level either. When one is stuck, you'll see "Requires Agency Hall level N". To level up the Hall itself, you need to push through stages.
+〔配图请见 Steam 原文〕
+
+Academy opens at Stage 18 – get "Herald" first
+The Academy opens at Stage 18. Every research in the Automation branch needs "Herald" first. On its own, it lights up a red dot early when a building's storage is nearly full.
+At Academy level 3 you unlock "Queue Next":
+
+• While you're still studying one, you can line up the next. You pay when you queue it, and you get it back if you hit "Cancel Queue".
+• When the current one finishes, the queued one starts right away. Same when you're offline: it picks up from the moment the previous one finished.
+• The higher the Academy level, the longer the queue. From level 5 you can even study two at once.
+
+So fill the queue before you log off, and you'll come back with several more done.
+〔配图请见 Steam 原文〕
+
+Rush Dispatch: click it once an hour
+There's a "Rush Dispatch" button on the Campaign page. Click it and you instantly get a chunk of auto-dispatch income. It recovers 1 charge per hour and holds up to 1, so once it's full it stops building up. Coming back once an hour to click it is the best deal. The button shows "Ready 1/1", or how long until it's ready again.
+〔配图请见 Steam 原文〕
+
+Too lazy to click? Learn "Auto-Rush"
+In the Academy's Automation branch, "Herald" leads to "Enhanced Sweep", and after that comes "Auto-Rush", which you can learn at Stage 60. Once you have it, if a full Rush Dispatch is left sitting there while you idle or are offline, it gets claimed for you automatically after a while.
+
+• The auto-claimed share is a bit smaller. If you click it yourself within a short while after it fills up, you still get the full amount.
+• After that come "Auto-Rush II" and "Auto-Rush III", each one auto-claiming more than the last. At III it's the same as clicking yourself.
+
+〔配图请见 Steam 原文〕
+
+To sum up: short on Cost, check the Hall; get Herald first in the Academy; fill the research queue before logging off; click Rush Dispatch once an hour; and if you can't be bothered, learn Auto-Rush.
+
+If there's anything else you'd like me to cover, or anything that isn't clear, feel free to ask me in the comments. You're also welcome to join us on Discord（https://discord.gg/uEwdWz2h62）.
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+Play the free Demo（https://store.steampowered.com/app/5257220/） | Wishlist the full game（https://store.steampowered.com/app/4855890/）

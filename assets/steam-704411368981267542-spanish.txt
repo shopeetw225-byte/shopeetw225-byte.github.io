@@ -1,0 +1,45 @@
+Guía del accionista: la agencia, la Academia y el Despacho urgente
+
+Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo!
+
+¡Hola a todos! Soy Juanmao.
+
+¡El juego completo sale el 3 de diciembre! ¡Quedan 9 días! Con el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes alguna idea sobre el Mercado, déjala en los comentarios.
+
+Además de avanzar etapas, la Fortaleza y la Academia también merecen un vistazo de vez en cuando. Hoy van unas cuantas cosas que llevan pocos segundos y te ahorran trabajo. Antes, tres nombres que no hay que confundir: los «Encargos» son las misiones de la Taberna con las que juntas cupones de reclutamiento legendario (lo conté en el post de hace unos días); el «despacho automático» son los ingresos que la Campaña va generando mientras farmeas (no la investigación «Despacho automático», que reenvía héroes de la Taberna); y el «Despacho urgente» es un botón de la página de Campaña que te da de golpe un tramo de ingresos del despacho automático.
+
+¿No te alcanza el Costo? Sube el Salón de la agencia
+El Costo de los héroes en combate, sumado, no puede superar el costo máx., y el costo máx. sube sobre todo al mejorar el Salón de la agencia. Pasa el ratón por «Costo» en la barra superior de la Fortaleza y verás a qué nivel sube el Salón y de cuánto a cuánto pasa el costo máx.
+Los demás edificios tampoco pueden superar el nivel del Salón; cuando no puedas mejorarlos, saldrá el aviso «Requiere Salón de la agencia de nivel N». Y para mejorar el propio Salón hay que avanzar etapas.
+〔配图请见 Steam 原文〕
+
+La Academia abre en la etapa 18: empieza por «Heraldo»
+La Academia se abre en la etapa 18. Todas las investigaciones de la rama de Automatización piden aprender antes «Heraldo»; por sí solo, enciende un punto rojo de aviso cuando el almacén de un edificio está casi lleno.
+Con la Academia a nivel 3 ya puedes «Poner en cola»:
+
+• Si aún no terminaste la investigación actual, puedes poner la siguiente en cola; se paga al ponerla en cola y, si pulsas «Cancelar cola», te lo devuelven;
+• En cuanto termina la anterior, la de la cola empieza sola, también estando desconectado: cuenta desde el momento exacto en que terminó la anterior;
+• Cuanto más nivel tenga la Academia, más larga es la cola, y desde el nivel 5 puedes estudiar dos a la vez.
+
+Así que llena la cola antes de desconectarte y, al volver, habrás aprendido unas cuantas más.
+〔配图请见 Steam 原文〕
+
+Despacho urgente: púlsalo una vez cada hora
+En la página de Campaña hay un botón «Despacho urgente»: púlsalo y recibes al instante un tramo de ingresos del despacho automático. Recupera 1 carga por hora y solo puede guardar 1; con la carga llena ya no acumula más, así que lo que más rinde es volver cada hora y pulsarlo. El botón muestra «Cargas: 1/1» o cuánto falta para la recarga.
+〔配图请见 Steam 原文〕
+
+¿Te da pereza pulsar? Aprende «Prisa automática»
+En la Automatización de la Academia, después de «Heraldo» viene «Barrido mejorado» y luego «Prisa automática», que se puede aprender en la etapa 60. Una vez aprendida, cuando estés farmeando o desconectado y el Despacho urgente se quede lleno sin usar, al rato se cobra solo.
+
+• Lo que se cobra solo rinde un poco menos; si lo pulsas tú durante un ratito después de que se llene, te sigues llevando la cantidad completa;
+• Después vienen «Prisa automática II» y «Prisa automática III»: cada nivel cobra más en automático, y con la III ya da lo mismo que pulsarlo a mano.
+
+〔配图请见 Steam 原文〕
+
+En resumen: si no te alcanza el Costo, mira el Salón; en la Academia, primero «Heraldo»; llena la cola de investigación antes de desconectarte; pulsa el Despacho urgente cada hora; y si te da pereza, aprende «Prisa automática».
+
+Si hay algo más que quieras que te explique o algo que no se entienda, pregúntame en los comentarios. También puedes unirte a nuestro Discord（https://discord.gg/uEwdWz2h62）.
+
+Si te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+Juega la demo gratis（https://store.steampowered.com/app/5257220/） | Añade el juego completo a tu lista de deseados（https://store.steampowered.com/app/4855890/）

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "hero": "assets/07851087f62e.jpg",
   "items": [
     {
@@ -18627,7 +18627,7 @@
       "dateBasis": "Steam修订87发布回执（11-23 19:47）及11-23晚匿名巴葡公开接口核对",
       "status": "已发布 · 巴葡两支",
       "summary": "巴西葡萄牙文商店页换上本语主预告片和精简宣传片，不再用英文片。",
-      "body": "v36临时版巴西葡萄牙文主片（63秒）和精简片（33秒）使用8f5来源，商店修订87公开，巴葡页主片在前、精简片在后。至此九种语言各有两支本语片，俄文商店页仍用英文片。公开抽帧为葡语界面；两支片未从头到尾逐帧看完。旧版预览与11-20八语条目保留。",
+      "body": "v36临时版巴西葡萄牙文主片（63秒）和精简片（33秒）使用8f5来源，商店修订87公开，巴葡页主片在前、精简片在后。至此九种语言各有两支本语片，俄文商店页仍用英文片。公开抽帧为葡语界面；两支片未从头到尾逐帧看完。旧版预览与11-20八语条目保留。 11-23 修订88起俄文页换上本语精简片，见「Steam 精简宣传片 · v36 俄文（修订88）」；俄文主片暂仍用英文。",
       "cover": "assets/v36-r87-brazilian-cover-5c44c35feae0.jpg",
       "files": [
         {
@@ -18718,6 +18718,489 @@
           "sha256": "22f93270e8216b1906f85cd78f14e2c87ba54a522e021df66cd67fb8a9bd570c"
         }
       ]
+    },
+    {
+      "id": "steam-704411368981267542",
+      "title": "股东上岗指南：事务所怎么经营，学院先点什么、加急委托别放过",
+      "category": "Steam 公告",
+      "group": "已发布公告",
+      "announcementNumber": 23,
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24 10:09:59",
+      "dateBasis": "Steam公开posttime及十语已公开状态（北京时间）",
+      "status": "已发布 · 十语原文",
+      "summary": "Demo 的进度不会继承到正式版！正式版 12 月 3 日上线，还有 9 天，会开启 Steam 社区市场。这篇讲要塞和学院怎么照顾：费用上限看大厅，学院先点传令兵，下线前排满研究队，加急委托隔一小时点一下，懒得点就学自动加急。",
+      "highlights": [
+        "介绍要塞与学院经营：费用上限看事务所大厅、学院先点传令兵并排队研究、加急委托和自动加急。",
+        "正式版12月3日上线，Demo进度不继承；十语各配四张本语实机图（含一张动图）。"
+      ],
+      "cover": "assets/steam-704411368981267542-cover-schinese.png",
+      "body": "重要的事情说三遍：Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！\n\n各位股东大人，我是倦猫。\n\n游戏正式版将在 12 月 3 日上线，还有 9 天！正式版会开启 Steam 社区市场～对市场有什么想法，欢迎在评论区留言。\n\n推图之外，要塞和学院也值得顺手照顾一下。这篇讲几件花不了几秒、做了就省事的事。先分清三个名字：「派遣」是酒馆里的委托任务，攒传说招募券（前几天那篇讲过）；「自动委托」是征途挂机一直在跑的收益；「加急委托」是征途页上的按钮，一次领一段自动委托收益。\n\n上阵费用不够，就升事务所大厅\n上场英雄的费用加起来不能超过费用上限，而费用上限主要靠升事务所大厅来提高。把鼠标停在要塞顶栏的「费用」上，会写出大厅升到哪一级、费用上限会从多少变成多少。\n其他建筑的等级也不能超过大厅，升不动的时候会提示「需要事务所大厅 N 级」。大厅自己升级要靠推关。\n〔配图请见 Steam 原文〕\n\n第 18 关开学院，先点「传令兵」\n学院在第 18 关开放。自动化那一支的研究，都要先学「传令兵」；它本身的作用是建筑快满仓时提前亮红点。\n学院升到 3 级就能「排队研究」：\n\n• 手上这门还没学完，可以先把下一门排上，排的时候就扣钱，取消排队会退回来；\n• 前一门学完，排着的那门马上接上，离线时也一样，从前一门学完的那一刻接着算；\n• 学院等级越高，能排的队越长，5 级起还能同时学两门。\n\n所以下线前把队排满，回来就多学了好几门。\n〔配图请见 Steam 原文〕\n\n加急委托：隔一小时点一下\n征途页上有个「加急委托」按钮，点一下，立刻领一段自动委托收益。它每小时恢复 1 次，最多只能存 1 次，存满了就不会再涨，所以隔一小时回来点一下最划算。按钮上会写「可用 1/1」，或者还要多久恢复。\n〔配图请见 Steam 原文〕\n\n懒得点，就学「自动加急」\n学院自动化里，「传令兵」后面接「强化扫荡」，再往后就是「自动加急」，第 60 关能学。学了以后，挂机或者下线的时候，加急委托攒满放着不管，过一会儿就会自动帮你领。\n\n• 自动领的那份会打个折；攒满以后的一小段时间里自己点，照样拿全额；\n• 后面还有「自动加急 II」「自动加急 III」，一级比一级自动领得多，学到 III 就和手动一样了。\n\n〔配图请见 Steam 原文〕\n\n总结一下：费用不够看大厅，学院先点传令兵，下线前排满研究队，加急委托隔一小时点一下，懒得点就学自动加急。\n\n还有哪些想听我讲、哪里看不明白，欢迎在评论区问我。欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+      "translations": {
+        "schinese": {
+          "title": "股东上岗指南：事务所怎么经营，学院先点什么、加急委托别放过",
+          "summary": "Demo 的进度不会继承到正式版！正式版 12 月 3 日上线，还有 9 天，会开启 Steam 社区市场。这篇讲要塞和学院怎么照顾：费用上限看大厅，学院先点传令兵，下线前排满研究队，加急委托隔一小时点一下，懒得点就学自动加急。",
+          "body": "重要的事情说三遍：Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！\n\n各位股东大人，我是倦猫。\n\n游戏正式版将在 12 月 3 日上线，还有 9 天！正式版会开启 Steam 社区市场～对市场有什么想法，欢迎在评论区留言。\n\n推图之外，要塞和学院也值得顺手照顾一下。这篇讲几件花不了几秒、做了就省事的事。先分清三个名字：「派遣」是酒馆里的委托任务，攒传说招募券（前几天那篇讲过）；「自动委托」是征途挂机一直在跑的收益；「加急委托」是征途页上的按钮，一次领一段自动委托收益。\n\n上阵费用不够，就升事务所大厅\n上场英雄的费用加起来不能超过费用上限，而费用上限主要靠升事务所大厅来提高。把鼠标停在要塞顶栏的「费用」上，会写出大厅升到哪一级、费用上限会从多少变成多少。\n其他建筑的等级也不能超过大厅，升不动的时候会提示「需要事务所大厅 N 级」。大厅自己升级要靠推关。\n〔配图请见 Steam 原文〕\n\n第 18 关开学院，先点「传令兵」\n学院在第 18 关开放。自动化那一支的研究，都要先学「传令兵」；它本身的作用是建筑快满仓时提前亮红点。\n学院升到 3 级就能「排队研究」：\n\n• 手上这门还没学完，可以先把下一门排上，排的时候就扣钱，取消排队会退回来；\n• 前一门学完，排着的那门马上接上，离线时也一样，从前一门学完的那一刻接着算；\n• 学院等级越高，能排的队越长，5 级起还能同时学两门。\n\n所以下线前把队排满，回来就多学了好几门。\n〔配图请见 Steam 原文〕\n\n加急委托：隔一小时点一下\n征途页上有个「加急委托」按钮，点一下，立刻领一段自动委托收益。它每小时恢复 1 次，最多只能存 1 次，存满了就不会再涨，所以隔一小时回来点一下最划算。按钮上会写「可用 1/1」，或者还要多久恢复。\n〔配图请见 Steam 原文〕\n\n懒得点，就学「自动加急」\n学院自动化里，「传令兵」后面接「强化扫荡」，再往后就是「自动加急」，第 60 关能学。学了以后，挂机或者下线的时候，加急委托攒满放着不管，过一会儿就会自动帮你领。\n\n• 自动领的那份会打个折；攒满以后的一小段时间里自己点，照样拿全额；\n• 后面还有「自动加急 II」「自动加急 III」，一级比一级自动领得多，学到 III 就和手动一样了。\n\n〔配图请见 Steam 原文〕\n\n总结一下：费用不够看大厅，学院先点传令兵，下线前排满研究队，加急委托隔一小时点一下，懒得点就学自动加急。\n\n还有哪些想听我讲、哪里看不明白，欢迎在评论区问我。欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=schinese"
+        },
+        "tchinese": {
+          "title": "股東上工指南：事務所怎麼經營，學院先點什麼、加急委託別放過",
+          "summary": "Demo 的進度不會繼承到正式版！正式版 12 月 3 日上線，還有 9 天，會開啟 Steam 社群市場。這篇講要塞和學院怎麼照顧：費用上限看大廳，學院先點傳令兵，下線前把研究排滿，加急委託隔一小時點一下，懶得點就學自動加急。",
+          "body": "重要的事情說三遍：Demo 的進度不會繼承到正式版！Demo 的進度不會繼承到正式版！Demo 的進度不會繼承到正式版！\n\n各位股東大人，我是倦貓。\n\n遊戲正式版將在 12 月 3 日上線，還有 9 天！正式版會開啟 Steam 社群市場～對市場有什麼想法，歡迎在留言區留言。\n\n推關之外，要塞和學院也值得順手照顧一下。這篇講幾件花不了幾秒、做了就省事的事。先分清三個名字：「派遣」是酒館裡的委託任務，存傳說招募券（前幾天那篇講過）；「自動委託」是征途掛機時一直在跑的收益；「加急委託」是征途頁上的按鈕，一次領一段自動委託收益。\n\n上場費用不夠，就升事務所大廳\n上場英雄的費用加起來不能超過費用上限，而費用上限主要靠升事務所大廳來提高。把滑鼠停在要塞頂欄的「費用」上，會寫出大廳升到哪一級、費用上限會從多少變成多少。\n其他建築的等級也不能超過大廳，升不上去的時候會提示「需要事務所大廳 N 級」。大廳自己升級要靠推關。\n〔配图请见 Steam 原文〕\n\n第 18 關開學院，先點「傳令兵」\n學院在第 18 關開放。自動化那一支的研究，都要先學「傳令兵」；它本身的作用是建築快滿倉時提前亮紅點。\n學院升到 3 級就能「排隊研究」：\n\n• 手上這門還沒學完，可以先把下一門排上，排的時候就扣錢，取消排隊會退回來；\n• 前一門學完，排著的那門馬上接上，離線時也一樣，從前一門學完的那一刻接著算；\n• 學院等級越高，能排的隊越長，5 級起還能同時學兩門。\n\n所以下線前把隊排滿，回來就多學了好幾門。\n〔配图请见 Steam 原文〕\n\n加急委託：隔一小時點一下\n征途頁上有個「加急委託」按鈕，點一下，立刻領一段自動委託收益。它每小時恢復 1 次，最多只能存 1 次，存滿了就不會再漲，所以隔一小時回來點一下最划算。按鈕上會寫「可用 1/1」，或者還要多久恢復。\n〔配图请见 Steam 原文〕\n\n懶得點，就學「自動加急」\n學院的自動化裡，「傳令兵」後面接「強化掃蕩」，再往後就是「自動加急」，第 60 關能學。學了以後，掛機或下線的時候，加急委託存滿了放著不管，過一會兒就會自動幫你領。\n\n• 自動領的那份會打個折；存滿以後的一小段時間裡自己點，照樣拿全額；\n• 後面還有「自動加急 II」「自動加急 III」，一級比一級自動領得多，學到 III 就和手動一樣了。\n\n〔配图请见 Steam 原文〕\n\n總結一下：費用不夠看大廳，學院先點傳令兵，下線前把研究排滿，加急委託隔一小時點一下，懶得點就學自動加急。\n\n還有哪些想聽我講、哪裡看不懂，歡迎在留言區問我。歡迎加入遊戲交流群：1079312948。\n\n如果覺得還不錯，也拜託幫忙加個願望清單。謝謝大家，這對一個遊戲真的很重要。\n\n免費試玩 Demo（https://store.steampowered.com/app/5257220/）｜將正式版加入願望清單（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=tchinese"
+        },
+        "english": {
+          "title": "Shareholder onboarding: running the Agency – Academy picks, Rush Dispatch",
+          "summary": "Demo progress won't carry over! Full game out Dec 3, 9 days to go, opening the Steam Community Market. This one: Cost cap, Academy research and Rush Dispatch.",
+          "body": "Important enough to say three times: Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game!\n\nHi everyone, Juanmao here.\n\nThe full game launches on December 3! Just 9 days to go! The Steam Community Market will open with the full game~ If you have any thoughts about the Market, feel free to leave them in the comments.\n\nBesides pushing stages, the Fortress and the Academy are worth a quick look too. This one covers a few things that take seconds and save you hassle. First, three names that sound alike: \"Commissions\" are the Tavern jobs you send heroes on to earn Legend Recruit Coupons (covered a few days ago); auto-dispatch income is what your Campaign keeps earning while you idle (not the Auto-Dispatch research, which re-sends Tavern heroes); and \"Rush Dispatch\" is a button on the Campaign page that grabs a chunk of auto-dispatch income at once.\n\nNot enough Cost? Upgrade the Agency Hall\nThe total cost of your fielded heroes can't exceed the cost cap, and the cap mostly goes up by upgrading the Agency Hall. Hover over \"Cost\" in the Fortress top bar and it tells you which Hall level raises the cost cap, and from what to what.\nOther buildings can't go above the Hall's level either. When one is stuck, you'll see \"Requires Agency Hall level N\". To level up the Hall itself, you need to push through stages.\n〔配图请见 Steam 原文〕\n\nAcademy opens at Stage 18 – get \"Herald\" first\nThe Academy opens at Stage 18. Every research in the Automation branch needs \"Herald\" first. On its own, it lights up a red dot early when a building's storage is nearly full.\nAt Academy level 3 you unlock \"Queue Next\":\n\n• While you're still studying one, you can line up the next. You pay when you queue it, and you get it back if you hit \"Cancel Queue\".\n• When the current one finishes, the queued one starts right away. Same when you're offline: it picks up from the moment the previous one finished.\n• The higher the Academy level, the longer the queue. From level 5 you can even study two at once.\n\nSo fill the queue before you log off, and you'll come back with several more done.\n〔配图请见 Steam 原文〕\n\nRush Dispatch: click it once an hour\nThere's a \"Rush Dispatch\" button on the Campaign page. Click it and you instantly get a chunk of auto-dispatch income. It recovers 1 charge per hour and holds up to 1, so once it's full it stops building up. Coming back once an hour to click it is the best deal. The button shows \"Ready 1/1\", or how long until it's ready again.\n〔配图请见 Steam 原文〕\n\nToo lazy to click? Learn \"Auto-Rush\"\nIn the Academy's Automation branch, \"Herald\" leads to \"Enhanced Sweep\", and after that comes \"Auto-Rush\", which you can learn at Stage 60. Once you have it, if a full Rush Dispatch is left sitting there while you idle or are offline, it gets claimed for you automatically after a while.\n\n• The auto-claimed share is a bit smaller. If you click it yourself within a short while after it fills up, you still get the full amount.\n• After that come \"Auto-Rush II\" and \"Auto-Rush III\", each one auto-claiming more than the last. At III it's the same as clicking yourself.\n\n〔配图请见 Steam 原文〕\n\nTo sum up: short on Cost, check the Hall; get Herald first in the Academy; fill the research queue before logging off; click Rush Dispatch once an hour; and if you can't be bothered, learn Auto-Rush.\n\nIf there's anything else you'd like me to cover, or anything that isn't clear, feel free to ask me in the comments. You're also welcome to join us on Discord（https://discord.gg/uEwdWz2h62）.\n\nIf you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.\n\nPlay the free Demo（https://store.steampowered.com/app/5257220/） | Wishlist the full game（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=english"
+        },
+        "japanese": {
+          "title": "株主の着任ガイド：事務所の運営、学院はまず何を学ぶか、急ぎ依頼はお見逃しなく",
+          "summary": "Demoの進行状況は製品版に引き継がれません！製品版は12月3日リリース、あと9日。Steam コミュニティマーケットが開放されます。今回は要塞と学院の面倒の見方：コスト上限はホール次第、学院はまず伝令兵、ログアウト前に研究を予約で埋める、急ぎ依頼は1時間おきに、面倒なら自動急ぎを。",
+          "body": "大事なことなので3回言います：Demoの進行状況は製品版に引き継がれません！Demoの進行状況は製品版に引き継がれません！Demoの進行状況は製品版に引き継がれません！\n\nみなさん、こんにちは。倦猫（Juanmao）です。\n\n製品版は12月3日にリリース。あと9日です！製品版では Steam コミュニティマーケットが開放されます～マーケットについて思うことがあれば、ぜひコメントで教えてください。\n\nステージ攻略のついでに、要塞と学院も少し面倒を見てあげましょう。今回は、数秒で済むのにやっておくと楽になることをいくつか紹介します。まず名前を3つ整理しておきます。「派遣」は酒場の依頼任務で、レジェンド募集券を貯めるもの（数日前の記事で紹介しました）。「自動依頼」は遠征で放置している間ずっと入ってくる収益。「急ぎ依頼」は遠征ページにあるボタンで、自動依頼の収益をひとまとまり受け取れます。\n\n出撃コストが足りないなら、事務所ホールを上げよう\n出撃する英雄のコスト合計は、コスト上限を超えられません。コスト上限は主に事務所ホールのレベルを上げると増えます。要塞の上部バーの「コスト」にマウスを乗せると、ホールを何レベルに上げればコスト上限がいくつからいくつになるかが表示されます。\nほかの建物のレベルもホールを超えられず、上げられないときは「事務所ホールLv.Nが必要」と表示されます。ホール自体のレベルは、ステージを進めると上げられます。\n〔配图请见 Steam 原文〕\n\nステージ18で学院が開放、まずは「伝令兵」\n学院はステージ18で開放されます。自動化系統の研究は、どれもまず「伝令兵」を学ぶ必要があります。伝令兵そのものの効果は、建物が満杯に近づくと早めに赤い点で知らせてくれることです。\n学院をLv.3に上げると「研究を予約」が使えます。\n\n• 今の研究が終わっていなくても、次の研究を予約できます。予約した時点で費用が引かれ、「予約取消」すれば返ってきます。\n• 前の研究が終わると、予約した研究がすぐに始まります。オフライン中も同じで、前の研究が終わった瞬間から続けて計算されます。\n• 学院のレベルが高いほど予約できる枠が増え、Lv.5からは同時に2つ研究できます。\n\nなので、ログアウト前に予約を埋めておけば、戻ってきたころにはいくつも研究が終わっています。\n〔配图请见 Steam 原文〕\n\n急ぎ依頼：1時間おきに押そう\n遠征ページに「急ぎ依頼」ボタンがあります。押すと、自動依頼の収益をその場でひとまとまり受け取れます。1時間ごとに1回回復し、ストックは最大1回まで。いっぱいになるとそれ以上は貯まらないので、1時間おきに戻ってきて押すのがいちばんお得です。ボタンには「使用可能 1/1」か、回復までの残り時間が表示されます。\n〔配图请见 Steam 原文〕\n\n押すのが面倒なら「自動急ぎ」を学ぼう\n学院の自動化では、「伝令兵」の次が「強化掃討」、その先が「自動急ぎ」で、ステージ60から学べます。学んだあとは、放置中やオフライン中に急ぎ依頼がいっぱいのまま放っておくと、しばらくして自動で受け取ってくれます。\n\n• 自動で受け取る分は少し目減りします。いっぱいになってから少しの間に自分で押せば、満額もらえます。\n• その先には「自動急ぎ II」「自動急ぎ III」もあり、段階が上がるほど自動で受け取れる量が増えます。IIIまで学べば手動と同じになります。\n\n〔配图请见 Steam 原文〕\n\nまとめると：コストが足りなければホール、学院はまず伝令兵、ログアウト前に研究の予約を埋める、急ぎ依頼は1時間おきに押す、面倒なら自動急ぎを学ぶ。\n\nほかにも聞きたいことや分かりにくいところがあれば、ぜひコメントで聞いてください。Discord（https://discord.gg/uEwdWz2h62）にもぜひ遊びに来てください。\n\nもし悪くないなと思ってもらえたら、ウィッシュリストに追加していただけるとうれしいです。みなさん、ありがとうございます。ゲームにとって、本当に大事なことなんです。\n\n無料体験版をプレイ（https://store.steampowered.com/app/5257220/） | 製品版をウィッシュリストに追加（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=japanese"
+        },
+        "korean": {
+          "title": "주주님 근무 가이드: 사무소 운영, 학원은 뭐부터, 가속 의뢰는 꼭 챙기기",
+          "summary": "데모 진행 상황은 정식판으로 이어지지 않아요! 정식판은 12월 3일 출시, 9일 남았고 Steam 커뮤니티 장터가 열려요. 이번엔 요새와 학원 챙기기: 코스트 상한은 사무소 홀, 학원은 전령병부터, 접속 종료 전 연구 예약 채우기, 가속 의뢰는 1시간마다, 귀찮으면 자동 가속.",
+          "body": "중요해서 세 번 말할게요: 데모 진행 상황은 정식판으로 이어지지 않아요! 데모 진행 상황은 정식판으로 이어지지 않아요! 데모 진행 상황은 정식판으로 이어지지 않아요!\n\n안녕하세요, Juanmao입니다.\n\n정식판이 12월 3일에 출시돼요. 9일 남았어요! 정식판에서는 Steam 커뮤니티 장터가 열려요~ 장터에 대해 하고 싶은 말이 있으면 댓글로 남겨 주세요.\n\n스테이지 진행 말고도 요새와 학원을 틈틈이 챙겨 주면 좋아요. 이번엔 몇 초면 끝나는데 해 두면 편해지는 것들을 이야기해 볼게요. 먼저 이름 세 개부터 정리할게요. \"파견\"은 주점의 의뢰 임무로, 전설 모집권을 모으는 거예요(며칠 전 글에서 다뤘어요). \"자동 의뢰\"는 원정에서 방치하는 동안 계속 들어오는 수익이에요. \"가속 의뢰\"는 원정 페이지에 있는 버튼으로, 자동 의뢰 수익을 한 번에 한 묶음 받아요.\n\n출전 코스트가 모자라면 사무소 홀 올리기\n출전 영웅의 코스트 합계는 코스트 상한을 넘을 수 없고, 코스트 상한은 주로 사무소 홀 레벨을 올려서 늘려요. 요새 상단 바의 \"코스트\"에 마우스를 올리면, 홀을 몇 레벨로 올리면 코스트 상한이 얼마에서 얼마로 바뀌는지 나와요.\n다른 건물 레벨도 홀을 넘을 수 없어서, 못 올릴 때는 \"사무소 홀 레벨 N 필요\"라고 떠요. 홀 자체는 스테이지를 진행해야 올릴 수 있어요.\n〔配图请见 Steam 原文〕\n\n스테이지 18에서 학원 오픈, \"전령병\"부터\n학원은 스테이지 18에서 열려요. 자동화 계열 연구는 전부 \"전령병\"을 먼저 배워야 해요. 전령병 자체는 건물 저장량이 거의 가득 차면 미리 빨간 점으로 알려 줘요.\n학원을 3레벨로 올리면 \"연구 예약\"을 쓸 수 있어요.\n\n• 지금 연구가 아직 안 끝났어도 다음 연구를 미리 예약할 수 있어요. 예약할 때 비용이 빠지고, \"대기 취소\"하면 돌려받아요.\n• 앞 연구가 끝나면 예약한 연구가 바로 이어서 시작돼요. 오프라인일 때도 마찬가지로, 앞 연구가 끝난 순간부터 이어서 계산돼요.\n• 학원 레벨이 높을수록 예약할 수 있는 줄이 길어지고, 5레벨부터는 두 개를 동시에 연구할 수 있어요.\n\n그러니까 접속 종료 전에 예약을 꽉 채워 두면, 돌아왔을 때 여러 개를 더 배워 둔 상태예요.\n〔配图请见 Steam 原文〕\n\n가속 의뢰: 1시간마다 한 번씩 누르기\n원정 페이지에 \"가속 의뢰\" 버튼이 있어요. 누르면 자동 의뢰 수익을 바로 한 묶음 받아요. 1시간마다 1회 회복되고 최대 1회까지만 보관돼서, 꽉 차면 더 쌓이지 않아요. 그래서 1시간마다 돌아와서 한 번씩 누르는 게 제일 이득이에요. 버튼에는 \"사용 가능 1/1\"이나 회복까지 남은 시간이 나와요.\n〔配图请见 Steam 原文〕\n\n누르기 귀찮으면 \"자동 가속\" 배우기\n학원 자동화에서 \"전령병\" 다음이 \"강화 소탕\", 그다음이 \"자동 가속\"이고, 스테이지 60에서 배울 수 있어요. 배우고 나면 방치 중이거나 접속을 종료했을 때 가속 의뢰가 꽉 찬 채로 두면, 잠시 뒤 자동으로 받아 줘요.\n\n• 자동으로 받는 몫은 조금 깎여요. 꽉 찬 뒤 잠깐 동안은 직접 누르면 그대로 전액을 받아요.\n• 그 뒤로 \"자동 가속 II\", \"자동 가속 III\"도 있어서 단계가 오를수록 자동으로 받는 양이 늘어나고, III까지 배우면 직접 누르는 것과 같아져요.\n\n〔配图请见 Steam 原文〕\n\n정리하면: 코스트가 모자라면 홀, 학원은 전령병부터, 접속 종료 전에 연구 예약 꽉 채우기, 가속 의뢰는 1시간마다 누르기, 귀찮으면 자동 가속 배우기.\n\n또 듣고 싶은 이야기나 이해가 안 되는 부분이 있으면 댓글로 물어봐 주세요. Discord（https://discord.gg/uEwdWz2h62）에도 놀러 오세요.\n\n괜찮다고 느끼셨다면 찜 목록에도 추가해 주세요. 모두 감사합니다. 게임 하나에는 정말 중요한 일이에요.\n\n무료 데모 플레이（https://store.steampowered.com/app/5257220/） | 정식판 찜 목록에 추가（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=koreana"
+        },
+        "german": {
+          "title": "Leitfaden für Aktionäre: Agentur führen – Akademie zuerst, Eilauftrag nutzen",
+          "summary": "Demo-Fortschritt wird nicht übernommen! Vollversion am 3. Dezember, noch 9 Tage, dann öffnet der Steam-Community-Markt. Diesmal: Kostenlimit, Akademie, Eilauftrag.",
+          "body": "So wichtig, dass ich es dreimal sage: Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen!\n\nHallo zusammen, hier ist Juanmao.\n\nDie Vollversion erscheint am 3. Dezember! Noch 9 Tage! Mit der Vollversion öffnet der Steam-Community-Markt~ Wenn ihr Gedanken zum Markt habt, schreibt sie gern in die Kommentare.\n\nNeben dem Vorrücken lohnt sich auch ein kurzer Blick in Festung und Akademie. Hier ein paar Dinge, die nur Sekunden kosten und euch Arbeit sparen. Vorweg drei Namen, die man leicht verwechselt: „Aufträge“ sind die Jobs in der Taverne, auf die ihr Helden schickt, um Legenden-Rekrutierungsgutscheine zu sammeln (darum ging es vor ein paar Tagen); die Auto-Entsendung bringt den Ertrag, der im Feldzug beim Farmen die ganze Zeit läuft (nicht die Forschung „Auto-Entsendung“, die Tavernenhelden neu losschickt); und der „Eilauftrag“ ist ein Knopf auf der Feldzug-Seite, der euch auf einen Schlag einen Teil vom Ertrag der Auto-Entsendung gibt.\n\nKosten reichen nicht? Agenturhalle ausbauen\nDie Kosten der Helden im Einsatz dürfen zusammen das Kostenlimit nicht überschreiten, und das Kostenlimit steigt vor allem, wenn ihr die Agenturhalle ausbaut. Fahrt in der oberen Leiste der Festung mit der Maus über „Kosten“, dann steht da, ab welcher Hallenstufe das Kostenlimit steigt und von wie viel auf wie viel.\nAndere Gebäude dürfen auch nicht höher als die Halle sein. Geht es nicht weiter, steht da „Erfordert Agenturhallenstufe N“. Für die Halle selbst müsst ihr in den Etappen vorankommen.\n〔配图请见 Steam 原文〕\n\nAkademie ab Etappe 18: zuerst „Herold“\nDie Akademie öffnet ab Etappe 18. Für alle Forschungen im Zweig „Automatik“ braucht ihr zuerst den „Herold“. Er selbst lässt vorab einen roten Punkt aufleuchten, wenn das Lager eines Gebäudes fast voll ist.\nAb Akademiestufe 3 gibt es „Einreihen“:\n\n• Läuft eine Forschung noch, könnt ihr die nächste schon einreihen. Bezahlt wird beim Einreihen, mit „Reihe abbrechen“ bekommt ihr es zurück.\n• Ist die vorige fertig, startet die eingereihte sofort. Auch offline, und zwar ab dem Moment, in dem die vorige fertig wurde.\n• Je höher die Akademiestufe, desto länger die Reihe. Ab Stufe 5 könnt ihr sogar zwei gleichzeitig lernen.\n\nFüllt also vor dem Ausloggen die Reihe, dann sind beim Zurückkommen gleich mehrere fertig.\n〔配图请见 Steam 原文〕\n\nEilauftrag: einmal pro Stunde drücken\nAuf der Feldzug-Seite gibt es den Knopf „Eilauftrag“. Ein Klick, und ihr bekommt sofort einen Teil vom Ertrag der Auto-Entsendung. Er lädt 1 Ladung pro Stunde auf und speichert höchstens 1 – ist er voll, kommt nichts mehr dazu. Am meisten holt ihr raus, wenn ihr einmal pro Stunde vorbeischaut und drückt. Auf dem Knopf steht „Bereit 1/1“ oder wie lange es noch dauert.\n〔配图请见 Steam 原文〕\n\nKeine Lust zu klicken? „Auto-Eile“ lernen\nIn der Automatik der Akademie folgt auf „Herold“ zuerst „Verbesserter Durchlauf“ und danach „Auto-Eile“, die ihr ab Etappe 60 lernen könnt. Habt ihr sie, wird ein voller Eilauftrag, der beim Farmen oder offline einfach liegen bleibt, nach einer Weile automatisch für euch abgeholt.\n\n• Automatisch abgeholt gibt es etwas weniger. Drückt ihr kurz nach dem Volllaufen selbst, bekommt ihr weiterhin den vollen Betrag.\n• Danach kommen noch „Auto-Eile II“ und „Auto-Eile III“, jede Stufe holt automatisch mehr ab. Mit III ist es genauso viel wie per Hand.\n\n〔配图请见 Steam 原文〕\n\nKurz zusammengefasst: Kosten reichen nicht – Halle ausbauen; in der Akademie zuerst Herold; vor dem Ausloggen die Forschungsreihe füllen; den Eilauftrag einmal pro Stunde drücken; und wer keine Lust hat, lernt Auto-Eile.\n\nWorüber soll ich noch schreiben, und was ist euch unklar? Fragt mich gern in den Kommentaren. Kommt auch gern auf unseren Discord（https://discord.gg/uEwdWz2h62）.\n\nWenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.\n\nKostenlose Demo spielen（https://store.steampowered.com/app/5257220/） | Vollversion auf die Wunschliste setzen（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=german"
+        },
+        "french": {
+          "title": "Guide de l'actionnaire : gérer l'agence – Académie et Envoi accéléré",
+          "summary": "La progression de la démo n'est pas reprise ! Jeu complet le 3 décembre, J-9, le Marché de la communauté Steam ouvre. Au menu : coût max, Académie et Envoi accéléré.",
+          "body": "C'est important, alors je le dis trois fois : la progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet !\n\nBonjour à tous, ici Juanmao.\n\nLe jeu complet sort le 3 décembre ! Plus que 9 jours ! Le Marché de la communauté Steam ouvrira avec le jeu complet~ Si vous avez des idées sur le Marché, laissez-les en commentaire.\n\nEn plus de faire avancer les étapes, la Forteresse et l'Académie méritent un petit coup d'œil. Voici quelques gestes qui prennent quelques secondes et vous simplifient la vie. D'abord, trois noms à ne pas confondre : les « Envois », ce sont les missions de la Taverne où vous envoyez des héros pour gagner des Bons de recrutement légendaire (j'en ai parlé il y a quelques jours) ; les revenus d'envoi auto, c'est ce que la Campagne rapporte en continu pendant que vous farmez (pas la recherche « Envoi auto », qui renvoie les héros de la Taverne) ; et l'« Envoi accéléré », c'est un bouton de la page Campagne qui vous donne d'un coup une part de ces revenus d'envoi auto.\n\nPas assez de Coût ? Améliorez le Grand hall de l'agence\nLe coût total des héros engagés ne peut pas dépasser le coût max, et le coût max augmente surtout en améliorant le Grand hall de l'agence. Passez la souris sur « Coût » dans la barre du haut de la Forteresse : vous verrez à quel niveau passe le Grand hall et comment évolue le coût max.\nLes autres bâtiments ne peuvent pas non plus dépasser le niveau du Grand hall. Quand ça bloque, vous verrez « Requis : Grand hall de l'agence niv. N ». Pour améliorer le Grand hall lui-même, il faut avancer dans les étapes.\n〔配图请见 Steam 原文〕\n\nL'Académie ouvre à l'étape 18 : prenez d'abord « Héraut »\nL'Académie ouvre à l'étape 18. Toutes les recherches de la branche « Automatisme » demandent d'abord « Héraut ». À lui seul, il allume un point rouge en avance quand l'entrepôt d'un bâtiment est presque plein.\nAu niveau 3, l'Académie débloque « Planifier » :\n\n• Tant que la recherche en cours n'est pas finie, vous pouvez déjà planifier la suivante. Le coût est payé dès la planification, et « Annuler la file » vous le rend.\n• Dès que la précédente est terminée, celle en file démarre aussitôt. Même hors ligne : le compte reprend à l'instant où la précédente s'est terminée.\n• Plus l'Académie monte en niveau, plus la file est longue. Dès le niveau 5, vous pouvez même étudier deux recherches à la fois.\n\nDonc remplissez la file avant de vous déconnecter, et à votre retour, plusieurs recherches de plus seront terminées.\n〔配图请见 Steam 原文〕\n\nEnvoi accéléré : un clic toutes les heures\nSur la page Campagne, il y a un bouton « Envoi accéléré ». Un clic, et vous obtenez tout de suite une part de revenus d'envoi auto. Il récupère 1 charge par heure, jusqu'à 1 au maximum : une fois plein, il ne monte plus. Le plus rentable, c'est donc de revenir cliquer toutes les heures. Le bouton affiche « Dispo 1/1 », ou le temps restant avant la prochaine charge.\n〔配图请见 Steam 原文〕\n\nLa flemme de cliquer ? Apprenez « Accélération auto »\nDans l'Automatisme de l'Académie, « Héraut » mène à « Ratissage amélioré », puis à « Accélération auto », disponible à l'étape 60. Une fois apprise, si l'Envoi accéléré reste plein sans être utilisé pendant que vous farmez ou êtes hors ligne, il est récupéré automatiquement pour vous au bout d'un moment.\n\n• La part récupérée automatiquement est un peu réduite. Si vous cliquez vous-même peu après qu'il est plein, vous touchez toujours le montant complet.\n• Ensuite viennent « Accélération auto II » et « Accélération auto III », chacune récupère plus que la précédente. Avec la III, c'est autant qu'à la main.\n\n〔配图请见 Steam 原文〕\n\nEn résumé : pas assez de Coût, regardez le Grand hall ; à l'Académie, prenez d'abord Héraut ; remplissez la file de recherche avant de vous déconnecter ; cliquez sur Envoi accéléré toutes les heures ; et si vous avez la flemme, apprenez Accélération auto.\n\nQu'aimeriez-vous que je vous présente d'autre, et qu'est-ce qui n'est pas clair ? Posez-moi vos questions en commentaire. Vous pouvez aussi nous rejoindre sur Discord（https://discord.gg/uEwdWz2h62）.\n\nSi le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.\n\nJouer à la démo gratuite（https://store.steampowered.com/app/5257220/） | Ajouter le jeu complet à votre liste de souhaits（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=french"
+        },
+        "spanish": {
+          "title": "Guía del accionista: la agencia, la Academia y el Despacho urgente",
+          "summary": "¡El progreso de la demo no se conserva! Juego completo el 3 de diciembre (9 días) y abre el Mercado de la Comunidad de Steam. Hoy: Salón, Academia y Despacho urgente.",
+          "body": "Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo!\n\n¡Hola a todos! Soy Juanmao.\n\n¡El juego completo sale el 3 de diciembre! ¡Quedan 9 días! Con el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes alguna idea sobre el Mercado, déjala en los comentarios.\n\nAdemás de avanzar etapas, la Fortaleza y la Academia también merecen un vistazo de vez en cuando. Hoy van unas cuantas cosas que llevan pocos segundos y te ahorran trabajo. Antes, tres nombres que no hay que confundir: los «Encargos» son las misiones de la Taberna con las que juntas cupones de reclutamiento legendario (lo conté en el post de hace unos días); el «despacho automático» son los ingresos que la Campaña va generando mientras farmeas (no la investigación «Despacho automático», que reenvía héroes de la Taberna); y el «Despacho urgente» es un botón de la página de Campaña que te da de golpe un tramo de ingresos del despacho automático.\n\n¿No te alcanza el Costo? Sube el Salón de la agencia\nEl Costo de los héroes en combate, sumado, no puede superar el costo máx., y el costo máx. sube sobre todo al mejorar el Salón de la agencia. Pasa el ratón por «Costo» en la barra superior de la Fortaleza y verás a qué nivel sube el Salón y de cuánto a cuánto pasa el costo máx.\nLos demás edificios tampoco pueden superar el nivel del Salón; cuando no puedas mejorarlos, saldrá el aviso «Requiere Salón de la agencia de nivel N». Y para mejorar el propio Salón hay que avanzar etapas.\n〔配图请见 Steam 原文〕\n\nLa Academia abre en la etapa 18: empieza por «Heraldo»\nLa Academia se abre en la etapa 18. Todas las investigaciones de la rama de Automatización piden aprender antes «Heraldo»; por sí solo, enciende un punto rojo de aviso cuando el almacén de un edificio está casi lleno.\nCon la Academia a nivel 3 ya puedes «Poner en cola»:\n\n• Si aún no terminaste la investigación actual, puedes poner la siguiente en cola; se paga al ponerla en cola y, si pulsas «Cancelar cola», te lo devuelven;\n• En cuanto termina la anterior, la de la cola empieza sola, también estando desconectado: cuenta desde el momento exacto en que terminó la anterior;\n• Cuanto más nivel tenga la Academia, más larga es la cola, y desde el nivel 5 puedes estudiar dos a la vez.\n\nAsí que llena la cola antes de desconectarte y, al volver, habrás aprendido unas cuantas más.\n〔配图请见 Steam 原文〕\n\nDespacho urgente: púlsalo una vez cada hora\nEn la página de Campaña hay un botón «Despacho urgente»: púlsalo y recibes al instante un tramo de ingresos del despacho automático. Recupera 1 carga por hora y solo puede guardar 1; con la carga llena ya no acumula más, así que lo que más rinde es volver cada hora y pulsarlo. El botón muestra «Cargas: 1/1» o cuánto falta para la recarga.\n〔配图请见 Steam 原文〕\n\n¿Te da pereza pulsar? Aprende «Prisa automática»\nEn la Automatización de la Academia, después de «Heraldo» viene «Barrido mejorado» y luego «Prisa automática», que se puede aprender en la etapa 60. Una vez aprendida, cuando estés farmeando o desconectado y el Despacho urgente se quede lleno sin usar, al rato se cobra solo.\n\n• Lo que se cobra solo rinde un poco menos; si lo pulsas tú durante un ratito después de que se llene, te sigues llevando la cantidad completa;\n• Después vienen «Prisa automática II» y «Prisa automática III»: cada nivel cobra más en automático, y con la III ya da lo mismo que pulsarlo a mano.\n\n〔配图请见 Steam 原文〕\n\nEn resumen: si no te alcanza el Costo, mira el Salón; en la Academia, primero «Heraldo»; llena la cola de investigación antes de desconectarte; pulsa el Despacho urgente cada hora; y si te da pereza, aprende «Prisa automática».\n\nSi hay algo más que quieras que te explique o algo que no se entienda, pregúntame en los comentarios. También puedes unirte a nuestro Discord（https://discord.gg/uEwdWz2h62）.\n\nSi te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.\n\nJuega la demo gratis（https://store.steampowered.com/app/5257220/） | Añade el juego completo a tu lista de deseados（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=spanish"
+        },
+        "brazilian": {
+          "title": "Guia do acionista: a Agência, a Academia e a Missão Urgente",
+          "summary": "O progresso da demo não é mantido! O jogo completo chega em 3 de dezembro, faltam 9 dias, e abre o Mercado da Comunidade Steam. Hoje: Salão, Academia e Missão Urgente.",
+          "body": "É importante, então vou falar três vezes: o progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo!\n\nOlá, pessoal! Aqui é o Juanmao.\n\nO jogo completo chega em 3 de dezembro! Faltam 9 dias! Com o jogo completo, o Mercado da Comunidade Steam vai abrir~ Se tiver alguma ideia sobre o Mercado, deixa nos comentários.\n\nAlém de avançar fases, vale dar uma olhada na Fortaleza e na Academia de vez em quando. Hoje são umas coisinhas que levam poucos segundos e poupam trabalho. Antes, três nomes para não confundir: os \"Contratos\" são as missões da Taverna que rendem Cupons de Recrutamento Lendário (falei deles no post de uns dias atrás); o despacho automático é a renda que a Campanha vai gerando enquanto você farma (não a pesquisa \"Despacho Automático\", que reenvia heróis da Taverna); e a \"Missão Urgente\" é um botão na página da Campanha que entrega de uma vez uma parte da renda do despacho automático.\n\nCusto não dá? Suba o Salão da Agência\nO Custo somado dos heróis em campo não pode passar do teto de custo, e o teto de custo sobe principalmente evoluindo o Salão da Agência. Pare o mouse em \"Custo\" na barra superior da Fortaleza e aparece até que nível o Salão vai e de quanto para quanto muda o teto de custo.\nOs outros edifícios também não podem passar do nível do Salão; quando não der para evoluir, aparece o aviso \"Requer Salão da Agência nível N\". E o próprio Salão sobe avançando fases.\n〔配图请见 Steam 原文〕\n\nA Academia abre na fase 18: comece pelo \"Arauto\"\nA Academia abre na fase 18. Todas as pesquisas do ramo de Automação pedem o \"Arauto\" antes; sozinho, ele acende um pontinho vermelho de aviso quando o armazém de um edifício estiver quase cheio.\nCom a Academia no nível 3, libera o \"Pôr na fila\":\n\n• Se a pesquisa atual ainda não terminou, dá para colocar a próxima na fila; o pagamento sai na hora de pôr na fila, e se apertar \"Cancelar fila\" o valor volta;\n• Assim que a anterior termina, a da fila começa na hora, até offline: a contagem parte do exato momento em que a anterior terminou;\n• Quanto maior o nível da Academia, maior a fila, e a partir do nível 5 dá para estudar duas ao mesmo tempo.\n\nEntão encha a fila antes de sair do jogo e, na volta, você já terá aprendido várias.\n〔配图请见 Steam 原文〕\n\nMissão Urgente: aperte uma vez a cada hora\nNa página da Campanha tem um botão \"Missão Urgente\": aperte e receba na hora uma parte da renda do despacho automático. Ele recupera 1 carga por hora e guarda no máximo 1; com a carga cheia, não acumula mais, então o que mais rende é voltar a cada hora e apertar. O botão mostra \"Prontas 1/1\" ou quanto falta para recarregar.\n〔配图请见 Steam 原文〕\n\nPreguiça de apertar? Aprenda a \"Pressa Automática\"\nNa Automação da Academia, depois do \"Arauto\" vem a \"Varredura Aprimorada\" e, em seguida, a \"Pressa Automática\", que dá para aprender na fase 60. Depois de aprender, quando você estiver farmando ou offline e a Missão Urgente ficar cheia parada, pouco depois ela é coletada sozinha.\n\n• O que é coletado sozinho rende um pouco menos; se você mesmo apertar durante um tempinho depois que encher, ainda leva o valor cheio;\n• Depois vêm a \"Pressa Automática II\" e a \"Pressa Automática III\": cada nível coleta mais no automático, e na III já fica igual a apertar na mão.\n\n〔配图请见 Steam 原文〕\n\nResumindo: Custo não dá, olhe o Salão; na Academia, comece pelo Arauto; encha a fila de pesquisa antes de sair; aperte a Missão Urgente a cada hora; e, se der preguiça, aprenda a Pressa Automática.\n\nSe tem mais alguma coisa que você quer que eu explique ou algo que não ficou claro, pode perguntar nos comentários. Também dá para entrar no nosso Discord（https://discord.gg/uEwdWz2h62）.\n\nSe você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.\n\nJogue a demo gratuita（https://store.steampowered.com/app/5257220/） | Adicione o jogo completo à sua lista de desejos（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=brazilian"
+        },
+        "russian": {
+          "title": "Памятка новому акционеру: зал агентства, Академия и срочная отправка",
+          "summary": "Прогресс из демо не перенесётся! Полная версия 3 декабря, осталось 9 дней, откроется Торговая площадка Steam. Сегодня — зал агентства, Академия, очередь и срочная отправка.",
+          "body": "Это важно, поэтому повторю трижды: прогресс из демо не перенесётся в полную версию! Прогресс из демо не перенесётся в полную версию! Прогресс из демо не перенесётся в полную версию!\n\nВсем привет, это Juanmao.\n\nПолная версия выходит 3 декабря! Осталось 9 дней! В полной версии откроется Торговая площадка Steam~ Если есть мысли насчёт рынка — пишите в комментариях.\n\nКроме прохождения этапов, в Крепость и Академию тоже стоит иногда заглядывать. Сегодня — несколько вещей, которые занимают считаные секунды, а потом сильно экономят силы. Сначала разберёмся с тремя названиями: «Поручения» — это задания в Таверне, за которые копятся легендарные пропуска найма (о них был пост на днях); «автоотправка» — доход, который Поход приносит, пока вы фармите (не исследование «Автоотправка», которое заново отправляет героев из Таверны); а «Срочная отправка» — кнопка на странице Похода, которая сразу выдаёт порцию дохода автоотправки.\n\nНе хватает предела цены — улучшайте зал агентства\nОбщая цена героев в отряде не может превышать предел цены, а предел цены растёт в основном с улучшением зала агентства. Наведите курсор на «Цена» в верхней панели Крепости — там написано, до какого уровня поднимется зал и с какого значения на какое вырастет предел цены.\nУровень других зданий тоже не может быть выше уровня зала; когда улучшить не получается, появляется подсказка «Требуется зал агентства: ур. N». А сам зал улучшается за счёт прохождения этапов.\n〔配图请见 Steam 原文〕\n\nАкадемия открывается на этапе 18: начните с исследования «Глашатай»\nАкадемия открывается на этапе 18. Для всех исследований ветки «Автоматизация» сначала нужно изучить «Глашатай»; сам он заранее зажигает красную точку, когда склад здания почти заполнен.\nНа 3-м уровне Академии появляется кнопка «В очередь»:\n\n• Если текущее исследование ещё не закончено, следующее можно поставить в очередь; оплата списывается сразу при постановке, а если нажать «Отменить очередь», её вернут;\n• Как только предыдущее закончится, исследование из очереди сразу начнётся, даже офлайн — отсчёт идёт с того самого момента, когда закончилось предыдущее;\n• Чем выше уровень Академии, тем длиннее очередь, а с 5-го уровня можно изучать два исследования одновременно.\n\nТак что перед выходом забейте очередь до отказа — вернётесь, а изучено уже несколько штук.\n〔配图请见 Steam 原文〕\n\nСрочная отправка: нажимайте раз в час\nНа странице Похода есть кнопка «Срочная отправка»: нажмите — и сразу получите порцию дохода автоотправки. Она восстанавливает 1 заряд в час и хранит максимум 1; когда заряд полный, больше не копится, поэтому выгоднее всего заглядывать раз в час и нажимать. На кнопке написано «Готово 1/1» или сколько осталось до восстановления.\n〔配图请见 Steam 原文〕\n\nЛень нажимать — изучите «Автоускорение»\nВ ветке «Автоматизация» Академии после исследования «Глашатай» идёт «Улучшенная зачистка», а за ней — «Автоускорение», его можно изучить на этапе 60. После этого, пока вы фармите или офлайн, накопленная срочная отправка, если её не трогать, через некоторое время заберётся сама.\n\n• Автоматически забирается чуть меньше; если нажать самому в течение недолгого времени после накопления, получите полную сумму;\n• Дальше есть «Автоускорение II» и «Автоускорение III» — с каждым уровнем автоматически забирается больше, а с III уже столько же, сколько вручную.\n\n〔配图请见 Steam 原文〕\n\nИтого: не хватает предела цены — смотрите на зал, в Академии начинайте с исследования «Глашатай», перед выходом забивайте очередь исследований, срочную отправку нажимайте раз в час, а если лень — изучите «Автоускорение».\n\nЕсли хотите, чтобы я рассказал о чём-то ещё, или что-то непонятно — спрашивайте в комментариях. Заходите и в наш Discord（https://discord.gg/uEwdWz2h62）.\n\nЕсли игра вам понравилась, пожалуйста, добавьте её в список желаемого. Спасибо всем — для игры это правда очень важно.\n\nИграть в бесплатную демоверсию（https://store.steampowered.com/app/5257220/） | Добавить полную версию в список желаемого（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=russian"
+        }
+      },
+      "files": [
+        {
+          "name": "简体中文 · 已发布原文",
+          "url": "assets/steam-704411368981267542-schinese.txt",
+          "type": "text"
+        },
+        {
+          "name": "简体中文 · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/c6b1a1f331df513160e1a0be93f112d51b44d45e.png",
+          "type": "image"
+        },
+        {
+          "name": "简体中文 · 正文图2 · 动图",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/5685e90efbcd9ae1803964e74e7f6dff39e67567.gif",
+          "type": "image"
+        },
+        {
+          "name": "简体中文 · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/ff6cb834a69e76bbccb305eb869389aa5eea7066.png",
+          "type": "image"
+        },
+        {
+          "name": "简体中文 · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/19125e2379582c96f5a91f711203e781a658fcb1.png",
+          "type": "image"
+        },
+        {
+          "name": "繁體中文 · 已发布原文",
+          "url": "assets/steam-704411368981267542-tchinese.txt",
+          "type": "text"
+        },
+        {
+          "name": "繁體中文 · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/1a1c4a62360efa730c7dafc212236b9f34d979d4.png",
+          "type": "image"
+        },
+        {
+          "name": "繁體中文 · 正文图2 · 动图",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/f266f61868166296ee99184051fb0ddc9014e18e.gif",
+          "type": "image"
+        },
+        {
+          "name": "繁體中文 · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/d5cf3d142f2f0cb245f24338e6c51636269f9a7b.png",
+          "type": "image"
+        },
+        {
+          "name": "繁體中文 · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/351565b3dac02a7b718238a3e4421f1777b0918c.png",
+          "type": "image"
+        },
+        {
+          "name": "English · 已发布原文",
+          "url": "assets/steam-704411368981267542-english.txt",
+          "type": "text"
+        },
+        {
+          "name": "English · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/cf749ebd7a6e76867c9e9193f5a5126e5e28eb00.png",
+          "type": "image"
+        },
+        {
+          "name": "English · 正文图2 · 动图",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/53b3208c80660202624aba0621291992880eff20.gif",
+          "type": "image"
+        },
+        {
+          "name": "English · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/c93b5419d78155ffc60f49ad240c830fca192a49.png",
+          "type": "image"
+        },
+        {
+          "name": "English · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/caecec91458b8be5a7ff33fa781403d6063d8b0c.png",
+          "type": "image"
+        },
+        {
+          "name": "日本語 · 已发布原文",
+          "url": "assets/steam-704411368981267542-japanese.txt",
+          "type": "text"
+        },
+        {
+          "name": "日本語 · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/b712d1ebf11cbc08e2447d4e111ca98644ae9395.png",
+          "type": "image"
+        },
+        {
+          "name": "日本語 · 正文图2 · 动图",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/d734e946e7241258eb1c2aed7863d59eba22d1ce.gif",
+          "type": "image"
+        },
+        {
+          "name": "日本語 · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/0f392e6c8adb29aafc23425c7c0f09be8b12daa9.png",
+          "type": "image"
+        },
+        {
+          "name": "日本語 · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/d875dd356a6f45b06f3a2f28a3f4dfdbf18875c1.png",
+          "type": "image"
+        },
+        {
+          "name": "한국어 · 已发布原文",
+          "url": "assets/steam-704411368981267542-korean.txt",
+          "type": "text"
+        },
+        {
+          "name": "한국어 · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/e37f2024a33b1fab856ade57499a012737e0c3fc.png",
+          "type": "image"
+        },
+        {
+          "name": "한국어 · 正文图2 · 动图",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/a99f16a7143814214096bedfeb6d4fc9a5bbb82d.gif",
+          "type": "image"
+        },
+        {
+          "name": "한국어 · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/45ae6efa0d226bda4bd7b44b29159b6d55e756f3.png",
+          "type": "image"
+        },
+        {
+          "name": "한국어 · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/c3450b2062337ff95aa5bf03c9d9f5dbb9c4c023.png",
+          "type": "image"
+        },
+        {
+          "name": "Deutsch · 已发布原文",
+          "url": "assets/steam-704411368981267542-german.txt",
+          "type": "text"
+        },
+        {
+          "name": "Deutsch · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/37bba3207ddb7c80be6745a4ab0045e1ca651ee9.png",
+          "type": "image"
+        },
+        {
+          "name": "Deutsch · 正文图2 · 动图",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/e79230bd54a71f0f8f33619feff5aab418b0255d.gif",
+          "type": "image"
+        },
+        {
+          "name": "Deutsch · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/802c3c10f21c212c209cf227aa31e1a0b895cd4e.png",
+          "type": "image"
+        },
+        {
+          "name": "Deutsch · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/e99a77c3feec24f3488700eb40cb193214e297b2.png",
+          "type": "image"
+        },
+        {
+          "name": "Français · 已发布原文",
+          "url": "assets/steam-704411368981267542-french.txt",
+          "type": "text"
+        },
+        {
+          "name": "Français · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/ada6b93073859896397bab04471f33d8a5dff158.png",
+          "type": "image"
+        },
+        {
+          "name": "Français · 正文图2 · 动图",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/234f868370bb74093e4838a0d6714a4f8a0e33d5.gif",
+          "type": "image"
+        },
+        {
+          "name": "Français · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/244438b5ec0a5def4efddcc404836e188a552ed7.png",
+          "type": "image"
+        },
+        {
+          "name": "Français · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/6b43bdfdbb2c0cc17130b3a6a3197a5cb8451ae2.png",
+          "type": "image"
+        },
+        {
+          "name": "Español · 已发布原文",
+          "url": "assets/steam-704411368981267542-spanish.txt",
+          "type": "text"
+        },
+        {
+          "name": "Español · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/e28413543d2d52f1cf53ca759e74fac4923c9fdd.png",
+          "type": "image"
+        },
+        {
+          "name": "Español · 正文图2 · 动图",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/e681ab5ceda0a3ae48fa4d37906cde548ca06e65.gif",
+          "type": "image"
+        },
+        {
+          "name": "Español · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/7644b73d34dd7451c8562db7868c1443855a4997.png",
+          "type": "image"
+        },
+        {
+          "name": "Español · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/eddb6e3dd5a61e5e05bb06faf31f36b0b9361d0c.png",
+          "type": "image"
+        },
+        {
+          "name": "Português(Brasil) · 已发布原文",
+          "url": "assets/steam-704411368981267542-brazilian.txt",
+          "type": "text"
+        },
+        {
+          "name": "Português(Brasil) · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/185a05c04619b810b28f644c04b8c14ead53f008.png",
+          "type": "image"
+        },
+        {
+          "name": "Português(Brasil) · 正文图2 · 动图",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/737f71d4e38930bc6cdf670711275e140172e99d.gif",
+          "type": "image"
+        },
+        {
+          "name": "Português(Brasil) · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/8dfeadd902df11cb4b73fc38878c907902426c59.png",
+          "type": "image"
+        },
+        {
+          "name": "Português(Brasil) · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/c4b76738d5f08f962b8d5543b1ca2fac481349d4.png",
+          "type": "image"
+        },
+        {
+          "name": "Русский · 已发布原文",
+          "url": "assets/steam-704411368981267542-russian.txt",
+          "type": "text"
+        },
+        {
+          "name": "Русский · 正文图1",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/f61733c4d2d88e3d38d24ff554e6fe9afb787aac.png",
+          "type": "image"
+        },
+        {
+          "name": "Русский · 正文图2 · 动图",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/0a981a29a7c7fb332ff16dad96eb69236fa8d412.gif",
+          "type": "image"
+        },
+        {
+          "name": "Русский · 正文图3",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/e6605820fe19763e947df4465f363d603edcc8af.png",
+          "type": "image"
+        },
+        {
+          "name": "Русский · 正文图4",
+          "url": "https://clan.fastly.steamstatic.com/images/46216320/1c4620958c07657b5ecd17070013db4b0fcb86fc.png",
+          "type": "image"
+        },
+        {
+          "name": "简体中文 · 公告封面",
+          "url": "assets/steam-704411368981267542-cover-schinese.png",
+          "type": "image"
+        },
+        {
+          "name": "English · 公告封面",
+          "url": "assets/steam-704411368981267542-cover-english.png",
+          "type": "image"
+        }
+      ],
+      "source": "output/对话管理/作品网页同步_20261124_公告542与俄语精简片.md",
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=schinese",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁體中文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=tchinese",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · English",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=english",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日本語",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=japanese",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 한국어",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=koreana",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · Deutsch",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=german",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · Français",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=french",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · Español",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=spanish",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · Português(Brasil)",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=brazilian",
+          "date": "2026-11-24",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · Русский",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=russian",
+          "date": "2026-11-24",
+          "status": "已发布"
+        }
+      ],
+      "steamArtwork": {
+        "schinese": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/711ec6eca56da59773de8757a8aa87c3017406f4.png",
+          "cover_variant": "schinese"
+        },
+        "tchinese": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/d79ab82272f3f5b867b73e7ea0b2b37d9c761c50.png",
+          "cover_variant": "schinese"
+        },
+        "english": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/7ad1ae307a5d3efc8f21a07b66613a00def0dcdd.png",
+          "cover_variant": "english"
+        },
+        "japanese": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/d68181214f13e43cbd0467229b63c4ea6ab33a51.png",
+          "cover_variant": "english"
+        },
+        "korean": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/3d4cd4c50f3e6c6f5cdf20a867e41b9fc5246bcb.png",
+          "cover_variant": "english"
+        },
+        "german": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/ff4b7633337abc5ced1babda9d828e77f2094061.png",
+          "cover_variant": "english"
+        },
+        "french": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/8ee837d2c71fd47169b0972cfc362181bb6d116a.png",
+          "cover_variant": "english"
+        },
+        "spanish": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/a02928496141659fe823f2d7aef5efeeee380bbb.png",
+          "cover_variant": "english"
+        },
+        "brazilian": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/21bb84dbe1354cf29ed4262183a466e30da4d95b.png",
+          "cover_variant": "english"
+        },
+        "russian": {
+          "background": "https://clan.akamai.steamstatic.com/images/46216320/86386afe1fc03ebde28cd26e9b1a79ce8ab63850.png",
+          "cover_variant": "english"
+        }
+      },
+      "detailNote": "归档已公开的十语原文、各语实机配图及两版封面；图片可逐张查看，原始公开页面见上方链接。"
+    },
+    {
+      "id": "steam-short-trailer-v36-russian-20261123-r88",
+      "title": "Steam 精简宣传片 · v36 俄文（修订88）",
+      "category": "宣传视频",
+      "group": "Steam 视频",
+      "date": "2026-11-23",
+      "dateBasis": "Steam修订88上架记录（11-23 21:18，steam 会话报备）及11-24匿名俄文商店接口核对",
+      "status": "已发布 · 俄文精简片",
+      "summary": "俄文商店页换上本语精简宣传片；俄文主预告片暂仍用英文片。",
+      "body": "v36临时版俄文精简宣传片（33秒）使用8f5来源，Codex专用验收后于商店修订88公开。11-24匿名读取俄文商店接口：主片位置仍是英文主片257514346，精简片为本语257519230。俄文主片已验收、尚未上架，上架后再补。公开抽帧为俄语界面；成片未从头到尾逐帧看完。",
+      "cover": "assets/v36-r88-russian-cover-ff24a3688881.jpg",
+      "files": [
+        {
+          "name": "俄文 · 精简宣传片",
+          "url": "assets/v36-r88-short-russian-2047cc7dd1a1.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam精简宣传片/成片/待确认/俄文横屏版_Steam精简宣传片_v36_8f5.mp4",
+          "sha256": "c9f4a878e81430d566f50d9610b428795116f867e7db7e44e6cb563680c1f098",
+          "previewSha256": "2047cc7dd1a1acb205a3a5399f2229307c9e2be252d965f0a9e78f85f3d1b3f7",
+          "updated": "2026-11-23",
+          "steamMovieId": 257519230
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 俄文",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-23",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/对话管理/cc侧流水.md（11-23 21:24 steam → 对话管理：俄语精简片第 88 版上商店）",
+      "detailNote": "网页为压缩预览，完整版本见对应Steam商店页。",
+      "sourceCommit": "8f587f671"
     }
   ]
 }

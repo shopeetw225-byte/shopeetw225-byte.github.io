@@ -1,0 +1,45 @@
+Guide de l'actionnaire : gérer l'agence – Académie et Envoi accéléré
+
+C'est important, alors je le dis trois fois : la progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet !
+
+Bonjour à tous, ici Juanmao.
+
+Le jeu complet sort le 3 décembre ! Plus que 9 jours ! Le Marché de la communauté Steam ouvrira avec le jeu complet~ Si vous avez des idées sur le Marché, laissez-les en commentaire.
+
+En plus de faire avancer les étapes, la Forteresse et l'Académie méritent un petit coup d'œil. Voici quelques gestes qui prennent quelques secondes et vous simplifient la vie. D'abord, trois noms à ne pas confondre : les « Envois », ce sont les missions de la Taverne où vous envoyez des héros pour gagner des Bons de recrutement légendaire (j'en ai parlé il y a quelques jours) ; les revenus d'envoi auto, c'est ce que la Campagne rapporte en continu pendant que vous farmez (pas la recherche « Envoi auto », qui renvoie les héros de la Taverne) ; et l'« Envoi accéléré », c'est un bouton de la page Campagne qui vous donne d'un coup une part de ces revenus d'envoi auto.
+
+Pas assez de Coût ? Améliorez le Grand hall de l'agence
+Le coût total des héros engagés ne peut pas dépasser le coût max, et le coût max augmente surtout en améliorant le Grand hall de l'agence. Passez la souris sur « Coût » dans la barre du haut de la Forteresse : vous verrez à quel niveau passe le Grand hall et comment évolue le coût max.
+Les autres bâtiments ne peuvent pas non plus dépasser le niveau du Grand hall. Quand ça bloque, vous verrez « Requis : Grand hall de l'agence niv. N ». Pour améliorer le Grand hall lui-même, il faut avancer dans les étapes.
+〔配图请见 Steam 原文〕
+
+L'Académie ouvre à l'étape 18 : prenez d'abord « Héraut »
+L'Académie ouvre à l'étape 18. Toutes les recherches de la branche « Automatisme » demandent d'abord « Héraut ». À lui seul, il allume un point rouge en avance quand l'entrepôt d'un bâtiment est presque plein.
+Au niveau 3, l'Académie débloque « Planifier » :
+
+• Tant que la recherche en cours n'est pas finie, vous pouvez déjà planifier la suivante. Le coût est payé dès la planification, et « Annuler la file » vous le rend.
+• Dès que la précédente est terminée, celle en file démarre aussitôt. Même hors ligne : le compte reprend à l'instant où la précédente s'est terminée.
+• Plus l'Académie monte en niveau, plus la file est longue. Dès le niveau 5, vous pouvez même étudier deux recherches à la fois.
+
+Donc remplissez la file avant de vous déconnecter, et à votre retour, plusieurs recherches de plus seront terminées.
+〔配图请见 Steam 原文〕
+
+Envoi accéléré : un clic toutes les heures
+Sur la page Campagne, il y a un bouton « Envoi accéléré ». Un clic, et vous obtenez tout de suite une part de revenus d'envoi auto. Il récupère 1 charge par heure, jusqu'à 1 au maximum : une fois plein, il ne monte plus. Le plus rentable, c'est donc de revenir cliquer toutes les heures. Le bouton affiche « Dispo 1/1 », ou le temps restant avant la prochaine charge.
+〔配图请见 Steam 原文〕
+
+La flemme de cliquer ? Apprenez « Accélération auto »
+Dans l'Automatisme de l'Académie, « Héraut » mène à « Ratissage amélioré », puis à « Accélération auto », disponible à l'étape 60. Une fois apprise, si l'Envoi accéléré reste plein sans être utilisé pendant que vous farmez ou êtes hors ligne, il est récupéré automatiquement pour vous au bout d'un moment.
+
+• La part récupérée automatiquement est un peu réduite. Si vous cliquez vous-même peu après qu'il est plein, vous touchez toujours le montant complet.
+• Ensuite viennent « Accélération auto II » et « Accélération auto III », chacune récupère plus que la précédente. Avec la III, c'est autant qu'à la main.
+
+〔配图请见 Steam 原文〕
+
+En résumé : pas assez de Coût, regardez le Grand hall ; à l'Académie, prenez d'abord Héraut ; remplissez la file de recherche avant de vous déconnecter ; cliquez sur Envoi accéléré toutes les heures ; et si vous avez la flemme, apprenez Accélération auto.
+
+Qu'aimeriez-vous que je vous présente d'autre, et qu'est-ce qui n'est pas clair ? Posez-moi vos questions en commentaire. Vous pouvez aussi nous rejoindre sur Discord（https://discord.gg/uEwdWz2h62）.
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+Jouer à la démo gratuite（https://store.steampowered.com/app/5257220/） | Ajouter le jeu complet à votre liste de souhaits（https://store.steampowered.com/app/4855890/）
