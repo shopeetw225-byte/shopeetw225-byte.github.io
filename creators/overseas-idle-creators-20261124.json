@@ -2,16 +2,16 @@
   "research_date": "2026-11-24",
   "requested_by": "倦猫 2026-11-24 17:3x",
   "target_count": 100,
-  "count": 335,
+  "count": 333,
   "criteria": "真人创作者；至少2条放置/增量/点击/AFK/自走棋/刷宝/搬砖类视频；近90天有更新；已对照旧调研与已联系名单去重；联系方式只收频道简介或视频说明明文写出的邮箱/表单。",
   "priority_counts": {
-    "第一推荐": 40,
-    "第二推荐": 99,
-    "第三推荐": 196
+    "第一推荐": 25,
+    "第二推荐": 111,
+    "第三推荐": 197
   },
   "language_group_counts": {
     "英语": 145,
-    "日语": 34,
+    "日语": 32,
     "俄语": 31,
     "韩语": 25,
     "其他语种": 20,
@@ -23,15 +23,15 @@
     "华语(港澳及其他)": 4
   },
   "public_email_count": 111,
-  "public_form_count": 3,
+  "public_form_count": 0,
   "taiwan_count": 13,
   "already_known_count": 58,
   "already_contacted_count": 28,
-  "rejected_count": 387,
-  "send_plan": "发信清单已备好，计划 2026-11-25 12:00 由 Codex 发邀请；本页收录时 335 位均为新增（未联系）。",
+  "rejected_count": 389,
+  "send_plan": "发信清单已备好，计划 2026-11-25 12:00 由 Codex 发邀请；本页收录时名单内均为新增（未联系）。",
   "source": {
     "data": "docs/research/data/2026-11-24-overseas-idle-creators-100.json",
-    "data_sha256": "f6f062c531680cb706eaaeaf2421ab7ea1e78fd33eb12bbc2e25b804a49f5c87",
+    "data_sha256": "c0a179e7fc92b704addde799624fa43a829a6a64110d961ed96c9b5603248315",
     "report": "docs/research/2026-11-24-overseas-idle-creators-100.md",
     "sendlist": "docs/outreach/2026-11-25-overseas-idle-sendlist.csv"
   },
@@ -52,10 +52,10 @@
       "fit": "高",
       "reason": "大体量「100% 通关」频道，近两周连做 Shake It Co、Potato Please、Can 'Em All 等增量/放置游戏",
       "limitations": "以轻量增量小游戏为主，RPG 向较少",
-      "contact": "waligug@gmail.com",
+      "contact": "waligug@intheblackmedia.com",
       "contactType": "邮箱",
-      "contactSource": "https://www.youtube.com/@Waligug/about",
-      "sendChannel": "邮箱：waligug@gmail.com",
+      "contactSource": "https://www.youtube.com/@Waligug/about（简介「Business Inquiries」；gmail 标注为 personal contact，不用）",
+      "sendChannel": "邮箱：waligug@intheblackmedia.com",
       "outreachStatus": "新增（未联系）",
       "latestActivity": {
         "title": "I Played 100% of Shake It Co!",
@@ -64,6 +64,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "sendNote": "经纪方邮箱，可能回报价",
       "taiwan": false,
       "samples": [
         {
@@ -117,6 +118,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "sendNote": "经纪方邮箱，可能回报价",
       "taiwan": false,
       "samples": [
         {
@@ -171,6 +173,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "sendNote": "做过「合作诈骗」主题视频：邀请信不带附件、不用短链",
       "samples": [
         {
           "game": "卡包英雄",
@@ -313,7 +316,7 @@
       "subscribersCheckedAt": "2026-11-24",
       "niche": "idle/incremental",
       "fit": "高",
-      "reason": "Kaif 的副频道，近期几乎全是增量游戏，还做过「5 款增量找宝藏」合集，适合推新增量作",
+      "reason": "Kaif 的副频道，最近 15 条里有 4 条增量游戏，还做过「5 款增量找宝藏」合集，适合推新增量作",
       "limitations": "主频道 Kaif 与副频道共用联络邮箱；副频道 19.6 万订阅",
       "contact": "Kaif@saltraiders.com",
       "contactType": "邮箱",
@@ -409,59 +412,6 @@
       "rank": 8,
       "priority": "第一推荐",
       "priorityTier": 1,
-      "name": "MKxJUMP",
-      "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@MKxJUMP",
-      "language": "英语",
-      "languageGroup": "英语",
-      "region": "英国",
-      "subscribers": "102K",
-      "subscribersCheckedAt": "2026-11-24",
-      "niche": "AFK RPG/手游放置",
-      "fit": "高",
-      "reason": "英语圈头部 Idle Heroes 创作者（102K），每周活动评测+F2P 账号系列，粉丝就是放置卡牌 RPG 老玩家。",
-      "limitations": "频道长期只做 Idle Heroes，需看是否接受新游合作。",
-      "contact": "admin@mkxjump.com",
-      "contactType": "邮箱",
-      "contactSource": "https://www.youtube.com/@MKxJUMP/about",
-      "sendChannel": "邮箱：admin@mkxjump.com",
-      "outreachStatus": "新增（未联系）",
-      "latestActivity": {
-        "title": "Thanksgiving 2026 gives AMAZING FREE REWARDS this week in IDLE HEROES",
-        "url": "https://www.youtube.com/watch?v=uQ1gaRZ6I2k",
-        "date": "2026-11-20",
-        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
-      },
-      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "taiwan": false,
-      "samples": [
-        {
-          "game": "Idle Heroes",
-          "title": "Thanksgiving 2026 gives AMAZING FREE REWARDS this week in IDLE HEROES",
-          "url": "https://www.youtube.com/watch?v=uQ1gaRZ6I2k",
-          "date": "2026-11-20",
-          "views": 16200
-        },
-        {
-          "game": "Idle Heroes",
-          "title": "Let's clear Chapter 8 of Void Campaign! - Episode 99 - The IDLE HEROES CSG Series",
-          "url": "https://www.youtube.com/watch?v=CQuKmIyaTms",
-          "date": "2026-11-19",
-          "views": 7524
-        },
-        {
-          "game": "Idle Heroes",
-          "title": "Incredible Free-to-Player IDLE HEROES account reaches NIRVANA in less than a year",
-          "url": "https://www.youtube.com/watch?v=Sraf6QiDXew",
-          "date": "2026-11-16",
-          "views": 19717
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "priority": "第一推荐",
-      "priorityTier": 1,
       "name": "NQH",
       "platform": "YouTube",
       "profileUrl": "https://www.youtube.com/@NQH-X",
@@ -519,7 +469,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "Only Incrementals",
@@ -532,11 +482,11 @@
       "subscribersCheckedAt": "2026-11-24",
       "niche": "idle/incremental",
       "fit": "高",
-      "reason": "西语增量游戏专门频道，每 3 天一条 Steam 增量新作（Potato Please、Orc Incremental、Idle Slayer 等），单条 1–2.4 万播放，有公开邮箱。",
+      "reason": "西语增量游戏专门频道，每 3 天一条 Steam 增量新作（Potato Please、Orc Incremental等），单条 1–2.4 万播放，有公开邮箱。",
       "limitations": "作者 Gerier 的另一频道 Only Roguelikes 已被 out/en_autobattler_grind.json 收录（同一邮箱），联系时按同一人去重；不在三份去重名单内。；订阅数来源：vidIQ 2026-11-23",
       "contact": "gerierwarwick@gmail.com",
       "contactType": "邮箱",
-      "contactSource": "https://vidiq.com/youtube-stats/channel/@onlyindies/about/ （频道简介转录）；同见 https://www.youtube.com/feeds/videos.xml?channel_id=UC-Tpv-7YaR5H42cKDzwSCHw 视频说明",
+      "contactSource": "https://www.youtube.com/@OnlyIndies/about",
       "sendChannel": "邮箱：gerierwarwick@gmail.com",
       "outreachStatus": "新增（未联系）",
       "latestActivity": {
@@ -572,7 +522,7 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 10,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "MOREQUIS",
@@ -585,7 +535,7 @@
       "subscribersCheckedAt": "2026-11-24",
       "niche": "idle/incremental",
       "fit": "高",
-      "reason": "口号「We make numbers go up」，近期连做 Coal LLC、Round and Round Inc、Can 'Em All 等增量游戏",
+      "reason": "口号「We make numbers go up」，近期连做 Coal LLC、Can 'Em All 等增量游戏",
       "limitations": "无明显局限",
       "contact": "collaborations@morequis.com",
       "contactType": "邮箱",
@@ -625,7 +575,7 @@
       ]
     },
     {
-      "rank": 12,
+      "rank": 11,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "たまチャンネル",
@@ -638,7 +588,7 @@
       "subscribersCheckedAt": "2026-11-24",
       "niche": "刷宝/grind",
       "fit": "高",
-      "reason": "游戏开发者出身，日更ハクスラ/放置系 Diablo-like 解析（Lootun、放置系 Diablo、Dragon's Tear），擅长讲装备与自动化设计。",
+      "reason": "游戏开发者出身，日更ハクスラ/放置系 Diablo-like 解析（近期如 Dragon's Tear），擅长讲装备与自动化设计。",
       "limitations": "公开邮箱写明是「中国のお仕事のご相談」专用（youdao 代理），日本本地合作走向待核。",
       "contact": "tamachannel@youdaoads.com",
       "contactType": "邮箱",
@@ -652,6 +602,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "sendNote": "经纪方邮箱，可能回报价",
       "taiwan": false,
       "samples": [
         {
@@ -678,7 +629,7 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 12,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "kakakyjla",
@@ -731,7 +682,7 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 13,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "김더미",
@@ -784,60 +735,7 @@
       ]
     },
     {
-      "rank": 15,
-      "priority": "第一推荐",
-      "priorityTier": 1,
-      "name": "Ggyu tube",
-      "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@Ggyutube",
-      "language": "韩语",
-      "languageGroup": "韩语",
-      "region": "韩国",
-      "subscribers": "49.3K",
-      "subscribersCheckedAt": "2026-11-24",
-      "niche": "AFK RPG/手游放置",
-      "fit": "高",
-      "reason": "4.93 万订阅，做“메이플 키우기”“소드 x 스태프”等放置 RPG 育成系列，单条约 1 万播放。",
-      "limitations": "邮箱为 MCN（metaplug）营销邮箱。",
-      "contact": "mkt@metaplug.co.kr",
-      "contactType": "邮箱",
-      "contactSource": "https://www.youtube.com/@Ggyutube/about",
-      "sendChannel": "邮箱：mkt@metaplug.co.kr",
-      "outreachStatus": "新增（未联系）",
-      "latestActivity": {
-        "title": "【소드 x 스태프】 재료비경 터트리고 900K 돌파! 추가 존버 필요할까? (+수욜 신규 이벤트) [현자 육성기#9]",
-        "url": "https://www.youtube.com/watch?v=w25lolHHn1A",
-        "date": "2026-11-23",
-        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
-      },
-      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "taiwan": false,
-      "samples": [
-        {
-          "game": "메이플 키우기 / 소드 x 스태프",
-          "title": "【소드 x 스태프】 재료비경 터트리고 900K 돌파! 추가 존버 필요할까? (+수욜 신규 이벤트) [현자 육성기#9]",
-          "url": "https://www.youtube.com/watch?v=w25lolHHn1A",
-          "date": "2026-11-23",
-          "views": 6012
-        },
-        {
-          "game": "메이플 키우기 / 소드 x 스태프",
-          "title": "【메이플 키우기】 본격 현질 시작! 패키지+스타포스로 투력 3000만 돌파 [캡틴 육성기 2편]",
-          "url": "https://www.youtube.com/watch?v=XCQdF9Q-Fe8",
-          "date": "2026-11-23",
-          "views": 10177
-        },
-        {
-          "game": "메이플 키우기 / 소드 x 스태프",
-          "title": "【메이플 키우기】 오랜만의 복귀, '캡틴'으로 새 출발합니다! [캡틴 육성기 1편]",
-          "url": "https://www.youtube.com/watch?v=rZ192G5TUeo",
-          "date": "2026-11-22",
-          "views": 14103
-        }
-      ]
-    },
-    {
-      "rank": 16,
+      "rank": 14,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "Tama【ゲーム紹介ch】",
@@ -852,10 +750,10 @@
       "fit": "高",
       "reason": "ボイロ实况连续做インクリメンタル与放置ハクスラ（Dungeonbound 10 万播放、Bowl Big、Legends of Dragaea），简介写明个人接案。",
       "limitations": "简介说明个人处理委托、不保证全部回复。",
-      "contact": "sosbrigade276@gmail.com（简介原文写作 sosbrigade276☆gmail.com）",
+      "contact": "sosbrigade276@gmail.com",
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@tama1370/about",
-      "sendChannel": "邮箱：sosbrigade276@gmail.com（简介原文写作 sosbrigade276☆gmail.com）",
+      "sendChannel": "邮箱：sosbrigade276@gmail.com",
       "outreachStatus": "新增（未联系）",
       "latestActivity": {
         "title": "【Dungeonbound】装備を集めて強化しまくるダンジョン探索！インクリメンタル要素付きダンジョンクロウルなローグライク【VOICEROID実況】",
@@ -864,6 +762,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "sendNote": "简介原文写作 sosbrigade276☆gmail.com，发送时用 @",
       "taiwan": false,
       "samples": [
         {
@@ -890,7 +789,7 @@
       ]
     },
     {
-      "rank": 17,
+      "rank": 15,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "RundPhunkRoyal",
@@ -917,6 +816,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "sendNote": "经纪方邮箱，可能回报价",
       "taiwan": false,
       "samples": [
         {
@@ -943,166 +843,7 @@
       ]
     },
     {
-      "rank": 18,
-      "priority": "第一推荐",
-      "priorityTier": 1,
-      "name": "くろろじちゃんねる",
-      "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@KUROROJI",
-      "language": "日语",
-      "languageGroup": "日语",
-      "region": "日本（待核）",
-      "subscribers": "42.1K",
-      "subscribersCheckedAt": "2026-11-24",
-      "niche": "Steam新游试玩",
-      "fit": "高",
-      "reason": "专做新作序盘实况，常推放置系ハクスラ（放置イモータル、デスクロール：放置ARPG、Dungeonbound），有正式案件页和中国合作邮箱。",
-      "limitations": "简介注明不接受仅提供 Key 的免费委托，可能需付费。",
-      "contact": "https://kuroroji.site/promotion/（案件表单）；中国合作邮箱 kuroroji.ch@youdaoads.com",
-      "contactType": "表单",
-      "contactSource": "https://www.youtube.com/@KUROROJI/about",
-      "sendChannel": "表单：https://kuroroji.site/promotion/（案件表单）；中国合作邮箱 kuroroji.ch@youdaoads.com",
-      "outreachStatus": "新增（未联系）",
-      "latestActivity": {
-        "title": "【本日発売】スキル強化が楽しすぎ！ヴァンサバライクARPG『アーケインバウンド / ArcaneBound』が面白すぎたｗ 【Steam】",
-        "url": "https://www.youtube.com/watch?v=yJ2z-ygqEG8",
-        "date": "2026-11-23",
-        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
-      },
-      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "taiwan": false,
-      "samples": [
-        {
-          "game": "最新作",
-          "title": "【最新作】完全にハマりました。ダンジョン探索RPG『ダンジョンバウンド / Dungeonbound』が面白すぎたｗ その2 【Steam】",
-          "url": "https://www.youtube.com/watch?v=LxmOqXAz7W8",
-          "date": "2026-11-19",
-          "views": 18378
-        },
-        {
-          "game": "本日配信",
-          "title": "【本日配信】こういうのでいいんだよ。放置系ダンジョン探索RPG『Dragon's Tear』体験版が面白すぎたｗ 【Steam】",
-          "url": "https://www.youtube.com/watch?v=qBzAKa0IBYA",
-          "date": "2026-11-16",
-          "views": 16872
-        },
-        {
-          "game": "本日開始",
-          "title": "【本日開始】ついに仕事しながらディアブロができるｗ 放置系ハクスラARPG『デスクロール：放置ARPG』のプレイテスト面白すぎたｗ【Steam】",
-          "url": "https://www.youtube.com/watch?v=WWGo-IEw8Xo",
-          "date": "2026-08-19",
-          "views": 6801
-        }
-      ]
-    },
-    {
-      "rank": 19,
-      "priority": "第一推荐",
-      "priorityTier": 1,
-      "name": "Puzzle - AFK Journey!",
-      "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@PuzzleAFKJ",
-      "language": "英语",
-      "languageGroup": "英语",
-      "region": "美国",
-      "subscribers": "38.8K",
-      "subscribersCheckedAt": "2026-11-24",
-      "niche": "AFK RPG/手游放置",
-      "fit": "高",
-      "reason": "几乎每天更新 AFK Journey 阵容/梦境/公会战配队视频，观众正是看“自动战斗+站位配队”的放置 RPG 玩家，与本作 4×4 站位自动战斗高度对口。",
-      "limitations": "频道只做 AFK Journey 单一游戏，接 PC 单机新作需看对方意愿。",
-      "contact": "shreddedpuzzle@gmail.com",
-      "contactType": "邮箱",
-      "contactSource": "https://www.youtube.com/@PuzzleAFKJ/about",
-      "sendChannel": "邮箱：shreddedpuzzle@gmail.com",
-      "outreachStatus": "新增（未联系）",
-      "latestActivity": {
-        "title": "My BEST Supreme League Teams! 👑 | AFK Journey",
-        "url": "https://www.youtube.com/watch?v=YPRUbx1CU8Y",
-        "date": "2026-11-23",
-        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
-      },
-      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "taiwan": false,
-      "samples": [
-        {
-          "game": "AFK Journey",
-          "title": "My BEST Supreme League Teams! 👑 | AFK Journey",
-          "url": "https://www.youtube.com/watch?v=YPRUbx1CU8Y",
-          "date": "2026-11-23",
-          "views": 5273
-        },
-        {
-          "game": "AFK Journey",
-          "title": "The BEST Heroic Gauntlet Teams! ✅ CLEAR All 3 Stages! AFK Journey",
-          "url": "https://www.youtube.com/watch?v=KaNu7X6YjlY",
-          "date": "2026-11-23",
-          "views": 4403
-        },
-        {
-          "game": "AFK Journey",
-          "title": "BADEN is TRAMPLING Talking Root! 💀 | AFK Journey",
-          "url": "https://www.youtube.com/watch?v=IqSGuGFN4FY",
-          "date": "2026-11-23",
-          "views": 4829
-        }
-      ]
-    },
-    {
-      "rank": 20,
-      "priority": "第一推荐",
-      "priorityTier": 1,
-      "name": "껨디",
-      "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@GGDsandevistan",
-      "language": "韩语",
-      "languageGroup": "韩语",
-      "region": "韩国",
-      "subscribers": "32.6K",
-      "subscribersCheckedAt": "2026-11-24",
-      "niche": "AFK RPG/手游放置",
-      "fit": "高",
-      "reason": "韩语 AFK Journey 专门频道（3.26 万），日更梦境/配队/新英雄测评，懂阵容站位。",
-      "limitations": "近期单条播放数百至 1.7K。",
-      "contact": "ggemdi@daum.net",
-      "contactType": "邮箱",
-      "contactSource": "https://www.youtube.com/@GGDsandevistan/about",
-      "sendChannel": "邮箱：ggemdi@daum.net",
-      "outreachStatus": "新增（未联系）",
-      "latestActivity": {
-        "title": "[AFK 새로운여정] 신규 반신악마『 아 네 바 』사용 후기 🏹",
-        "url": "https://www.youtube.com/watch?v=ux9Bgx8hB0U",
-        "date": "2026-11-24",
-        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
-      },
-      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "taiwan": false,
-      "samples": [
-        {
-          "game": "AFK Journey（AFK 새로운여정）",
-          "title": "[AFK 새로운여정] 신규 반신악마『 아 네 바 』사용 후기 🏹",
-          "url": "https://www.youtube.com/watch?v=ux9Bgx8hB0U",
-          "date": "2026-11-24",
-          "views": 680
-        },
-        {
-          "game": "AFK Journey（AFK 새로운여정）",
-          "title": "[AFK 새로운여정] 꿈의세계 변형된예티✔️없어? 손해 좀 보자",
-          "url": "https://www.youtube.com/watch?v=W8oAsXIzUwE",
-          "date": "2026-11-24",
-          "views": 634
-        },
-        {
-          "game": "AFK Journey（AFK 새로운여정）",
-          "title": "[AFK 새로운여정] ( 11 . 23 - 11 . 29 ) 꿈의추격 ⚔️ 기본조합과 대체 캐릭터",
-          "url": "https://www.youtube.com/watch?v=c7OsWKgjZt4",
-          "date": "2026-11-23",
-          "views": 1403
-        }
-      ]
-    },
-    {
-      "rank": 21,
+      "rank": 16,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "FonFon",
@@ -1129,6 +870,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "sendNote": "经纪方邮箱，可能回报价",
       "taiwan": false,
       "samples": [
         {
@@ -1155,7 +897,7 @@
       ]
     },
     {
-      "rank": 22,
+      "rank": 17,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "샤커레또",
@@ -1208,60 +950,7 @@
       ]
     },
     {
-      "rank": 23,
-      "priority": "第一推荐",
-      "priorityTier": 1,
-      "name": "이고올",
-      "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@LeeGoAll",
-      "language": "韩语",
-      "languageGroup": "韩语",
-      "region": "韩国",
-      "subscribers": "19.4K",
-      "subscribersCheckedAt": "2026-11-24",
-      "niche": "AFK RPG/手游放置",
-      "fit": "高",
-      "reason": "1.94 万订阅，“메이플 키우기 N 天新手日记”长期连载，单条 1–2 万播放。",
-      "limitations": "邮箱写在视频说明而非关于页。",
-      "contact": "wicd123@naver.com",
-      "contactType": "邮箱",
-      "contactSource": "https://www.youtube.com/watch?v=9cENciMLT1I",
-      "sendChannel": "邮箱：wicd123@naver.com",
-      "outreachStatus": "新增（未联系）",
-      "latestActivity": {
-        "title": "[세븐나이츠 리버스] 🔥[12편]신규 계정 45일차! 결투장덱 완성....(feat.AI고올)",
-        "url": "https://www.youtube.com/watch?v=9cENciMLT1I",
-        "date": "2026-11-19",
-        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
-      },
-      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "taiwan": false,
-      "samples": [
-        {
-          "game": "메이플 키우기 / 세븐나이츠 리버스",
-          "title": "[세븐나이츠 리버스] 🔥[12편]신규 계정 45일차! 결투장덱 완성....(feat.AI고올)",
-          "url": "https://www.youtube.com/watch?v=9cENciMLT1I",
-          "date": "2026-11-19",
-          "views": 10473
-        },
-        {
-          "game": "메이플 키우기 / 세븐나이츠 리버스",
-          "title": "[메이플 키우기] 🍄375일차 메린이! 도도...너무 강하다..... 벽느낌 ㅋㅋㅋㅋㅋ",
-          "url": "https://www.youtube.com/watch?v=oyel-wn_R1E",
-          "date": "2026-11-17",
-          "views": 16714
-        },
-        {
-          "game": "메이플 키우기 / 세븐나이츠 리버스",
-          "title": "[세븐나이츠 리버스] 내가... 이브가 될게 (🔥쿠폰 이벤트)",
-          "url": "https://www.youtube.com/watch?v=n3J5dE6a-To",
-          "date": "2026-11-15",
-          "views": 17257
-        }
-      ]
-    },
-    {
-      "rank": 24,
+      "rank": 18,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "Dabble",
@@ -1314,7 +1003,7 @@
       ]
     },
     {
-      "rank": 25,
+      "rank": 19,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "UykuKapsülü（Cenk / GameCapsule）",
@@ -1329,10 +1018,10 @@
       "fit": "高",
       "reason": "土耳其“挂着当背景”的 cozy 长视频频道，定位与挂机游戏高度契合；近一个月做 Find The Needle、Potato Please（单集 6.5 万）、Moon Sweepers 等增量小品。",
       "limitations": "频道 2025-11 才建；无明文邮箱，只有推荐游戏表单；风格偏治愈慢节奏，战斗 RPG 是否接需问。",
-      "contact": "https://forms.gle/gUEsGGjWghnGfX3RA",
-      "contactType": "表单",
-      "contactSource": "https://gamecapsuletv.com/（“Oyun Öner/推荐游戏”Google 表单；站内邮箱被 Cloudflare 混淆未能读出；YouTube about 页邮箱需登录）",
-      "sendChannel": "表单：https://forms.gle/gUEsGGjWghnGfX3RA",
+      "contact": "gamecapsule@hotmail.com",
+      "contactType": "邮箱",
+      "contactSource": "https://bibio.com.tr/gamecapsule 及 https://gamecapsuletv.com/ 页脚（原记录的 Google 表单是观众推荐游戏用，不是联络渠道）",
+      "sendChannel": "邮箱：gamecapsule@hotmail.com",
       "outreachStatus": "新增（未联系）",
       "latestActivity": {
         "title": "Samanlıkta İğne Arıyorum | Find The Needle",
@@ -1374,113 +1063,7 @@
       ]
     },
     {
-      "rank": 26,
-      "priority": "第一推荐",
-      "priorityTier": 1,
-      "name": "しろこりGames / インディーゲーム専門Vtuber",
-      "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@ShirocoryGames",
-      "language": "日语",
-      "languageGroup": "日语",
-      "region": "日本（待核）",
-      "subscribers": "12.6K",
-      "subscribersCheckedAt": "2026-11-24",
-      "niche": "Steam新游试玩",
-      "fit": "高",
-      "reason": "インディー专门 Vtuber，近两周连做インクリメンタル与オートバトラー新作（ヒア・カムズ・ザ・ホード、Dungeonbound、ブースターパックヒーロー），有正式案件表单。",
-      "limitations": "明确不接受邮件，只走官网表单。",
-      "contact": "https://shirocory.games/promotion/（案件受付フォーム）",
-      "contactType": "表单",
-      "contactSource": "https://www.youtube.com/@ShirocoryGames/about",
-      "sendChannel": "表单：https://shirocory.games/promotion/（案件受付フォーム）",
-      "outreachStatus": "新增（未联系）",
-      "latestActivity": {
-        "title": "【捕食性の魚を釣ろう】終末世界の釣りサバイバル『DREADMOOR（ドレッドムア）』【Steam】",
-        "url": "https://www.youtube.com/watch?v=XbVfAAFnV2M",
-        "date": "2026-11-24",
-        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
-      },
-      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "taiwan": false,
-      "samples": [
-        {
-          "game": "Steam",
-          "title": "じゃがいもの皮を剥くゲームが非常に好評！？作業自動化インクリメンタル『Potato Please』【Steam】",
-          "url": "https://www.youtube.com/watch?v=6k60QO4USGQ",
-          "date": "2026-11-23",
-          "views": 2265
-        },
-        {
-          "game": "戦術と戦略",
-          "title": "【戦術と戦略】どんどん育つインクリメンタル×ストラテジー『Total Incremental Battle』【Steam】#PR",
-          "url": "https://www.youtube.com/watch?v=de-TOU9U2X4",
-          "date": "2026-11-21",
-          "views": 1279
-        },
-        {
-          "game": "Steam",
-          "title": "『Clicky Islands』クリッカー要素×都市建設×リソース管理をするインクリメンタル【Steam】",
-          "url": "https://www.youtube.com/watch?v=t7JjxQ9bOm0",
-          "date": "2026-11-21",
-          "views": 1272
-        }
-      ]
-    },
-    {
-      "rank": 27,
-      "priority": "第一推荐",
-      "priorityTier": 1,
-      "name": "훈TV",
-      "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@%ED%9B%88TV%ED%9B%88",
-      "language": "韩语",
-      "languageGroup": "韩语",
-      "region": "韩国",
-      "subscribers": "12.4K",
-      "subscribersCheckedAt": "2026-11-24",
-      "niche": "AFK RPG/手游放置",
-      "fit": "高",
-      "reason": "日更“메이플 키우기”攻略（离线收益、更新预告、Boss 活动），单条 1–3 万播放，观众是韩服放置 RPG 核心玩家。",
-      "limitations": "单一游戏频道；邮箱写在视频说明而非关于页。",
-      "contact": "lmh4186@naver.com",
-      "contactType": "邮箱",
-      "contactSource": "https://www.youtube.com/watch?v=9IZjkyyxhSM",
-      "sendChannel": "邮箱：lmh4186@naver.com",
-      "outreachStatus": "新增（未联系）",
-      "latestActivity": {
-        "title": "메이플 키우기 - 방치 재화 온라인은 확률! 오프라인은 고정?",
-        "url": "https://www.youtube.com/watch?v=9IZjkyyxhSM",
-        "date": "2026-11-23",
-        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
-      },
-      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "taiwan": false,
-      "samples": [
-        {
-          "game": "메이플 키우기 (MapleStory Idle RPG)",
-          "title": "메이플 키우기 - 방치 재화 온라인은 확률! 오프라인은 고정?",
-          "url": "https://www.youtube.com/watch?v=9IZjkyyxhSM",
-          "date": "2026-11-23",
-          "views": 9886
-        },
-        {
-          "game": "메이플 키우기 (MapleStory Idle RPG)",
-          "title": "메이플 키우기 - 보스 레이드 버닝 이벤트 예고! 업데이트 전 입장권 써도 될까?",
-          "url": "https://www.youtube.com/watch?v=udCKNBeynAg",
-          "date": "2026-11-22",
-          "views": 12282
-        },
-        {
-          "game": "메이플 키우기 (MapleStory Idle RPG)",
-          "title": "메이플 키우기 - 업데이트 전 하면 안 되는 행동 3가지!",
-          "url": "https://www.youtube.com/watch?v=SJp256Goi1k",
-          "date": "2026-11-20",
-          "views": 34645
-        }
-      ]
-    },
-    {
-      "rank": 28,
+      "rank": 20,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "Starker MMOs",
@@ -1493,7 +1076,7 @@
       "subscribersCheckedAt": "2026-11-24",
       "niche": "Steam市场挂机搬砖",
       "fit": "高",
-      "reason": "几乎全频道都是挂机 MMO：Task Bar Hero 构筑攻略、Leveling Idle、Lootborne、各类带 RMT/Steam 市场的 Idle 新游首发，题材与本作（挂机＋Steam 市场）高度对口。",
+      "reason": "几乎全频道都是挂机 MMO：Task Bar Hero 构筑攻略、Leveling Idle、各类带 RMT/Steam 市场的 Idle 新游首发，题材与本作（挂机＋Steam 市场）高度对口。",
       "limitations": "偏重带 RMT（现实货币交易）的挂机 MMO/私服类；有一条标题写「Fiz MEU jogo IDLE de Solo Leveling」，可能与 Leveling Idle 有合作或自研关系，待核；近 10 天无新片。；订阅数来源：Playboard 2026-11-24",
       "contact": "starkerlendario1@gmail.com",
       "contactType": "邮箱",
@@ -1533,60 +1116,7 @@
       ]
     },
     {
-      "rank": 29,
-      "priority": "第一推荐",
-      "priorityTier": 1,
-      "name": "PlayZodi",
-      "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@Zodi",
-      "language": "俄语",
-      "languageGroup": "俄语",
-      "region": "待核",
-      "subscribers": "11.5K",
-      "subscribersCheckedAt": "2026-11-24",
-      "niche": "idle/incremental",
-      "fit": "高",
-      "reason": "日更 Steam 新游「首看/评测」，近一个月连续做了十多款增量/放置和自走棋（Paydirt、One Million Gallons、The Endless Harvest、Idle Camp Tale 等），还有 Steam 鉴赏家页，对口本作 Demo/正式版首看。",
-      "limitations": "单条播放偏低（多为几十到几百）；地区未写明。",
-      "contact": "playwithzodi@gmail.com",
-      "contactType": "邮箱",
-      "contactSource": "https://www.youtube.com/@Zodi/about",
-      "sendChannel": "邮箱：playwithzodi@gmail.com",
-      "outreachStatus": "新增（未联系）",
-      "latestActivity": {
-        "title": "💥 STEAM КЛЮЧ ВНУТРИ! 🔑 Survivor Rat vs Zombies (Ключ 4) 🔑 БЕСПЛАТНО ДАРЮ КЛЮЧ К ИГРЕ ;) #giveaway",
-        "url": "https://www.youtube.com/watch?v=cjOb_gQZrhk",
-        "date": "2026-11-23",
-        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
-      },
-      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "taiwan": false,
-      "samples": [
-        {
-          "game": "Paydirt",
-          "title": "ИНКРЕМЕНТАЛЬНАЯ КИРКА - Paydirt [Обзор / Первый взгляд]",
-          "url": "https://www.youtube.com/watch?v=dAjtndwUp34",
-          "date": "2026-11-23",
-          "views": 55
-        },
-        {
-          "game": "One Million Gallons",
-          "title": "ИНКРЕМЕНТАЛЬНЫЕ ВЁДРА - One Million Gallons [Обзор / Первый взгляд]",
-          "url": "https://www.youtube.com/watch?v=qOMtqHMLowM",
-          "date": "2026-11-23",
-          "views": 64
-        },
-        {
-          "game": "The Endless Harvest",
-          "title": "ИНКРЕМЕНТАЛЬНАЯ ДЕРЕВНЯ - The Endless Harvest [Обзор / Первый взгляд]",
-          "url": "https://www.youtube.com/watch?v=kbKrUAYd88w",
-          "date": "2026-11-22",
-          "views": 205
-        }
-      ]
-    },
-    {
-      "rank": 30,
+      "rank": 21,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "Ukernan Gaming",
@@ -1639,166 +1169,7 @@
       ]
     },
     {
-      "rank": 31,
-      "priority": "第一推荐",
-      "priorityTier": 1,
-      "name": "게임픽 GAMEPICK",
-      "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@%EA%B2%8C%EC%9E%84%ED%94%BD-GAMEPICK",
-      "language": "韩语",
-      "languageGroup": "韩语",
-      "region": "韩国",
-      "subscribers": "10.2K",
-      "subscribersCheckedAt": "2026-11-24",
-      "niche": "AFK RPG/手游放置",
-      "fit": "高",
-      "reason": "频道持续做“放置型游戏推荐”“下班后 10 分钟的放置 RPG”，目标观众就是挂机放置玩家，简介有商务邮箱。",
-      "limitations": "以手游为主，PC Steam 作品需对方意愿。",
-      "contact": "gamepickbiz@gmail.com",
-      "contactType": "邮箱",
-      "contactSource": "https://www.youtube.com/@%EA%B2%8C%EC%9E%84%ED%94%BD-GAMEPICK/about",
-      "sendChannel": "邮箱：gamepickbiz@gmail.com",
-      "outreachStatus": "新增（未联系）",
-      "latestActivity": {
-        "title": "모바일 파밍RPG 추천 TOP5, 퀘스트 없이 바로 닥사하는 게임이라고?",
-        "url": "https://www.youtube.com/watch?v=c_8QPnfvcrA",
-        "date": "2026-11-20",
-        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
-      },
-      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "taiwan": false,
-      "samples": [
-        {
-          "game": "放置型手游合集",
-          "title": "도파민 팡팡 터지는 방치형게임 추천! 성장하는 맛이 살아있는데?",
-          "url": "https://www.youtube.com/watch?v=a2_M9sIR73w",
-          "date": "2026-11-13",
-          "views": 6068
-        },
-        {
-          "game": "放置型手游合集",
-          "title": "모바일게임 추천 무협 방치형RPG, 퇴근하고 10분이면 끝",
-          "url": "https://www.youtube.com/watch?v=EE2Ta1Z2swY",
-          "date": "2026-11-06",
-          "views": 3374
-        },
-        {
-          "game": "放置型手游合集",
-          "title": "모바일게임 추천 무협 방치형RPG 무제, 직장인이 무과금으로 해도 될까?",
-          "url": "https://www.youtube.com/watch?v=y1QqDn0H0vU",
-          "date": "2026-11-06",
-          "views": 1818
-        }
-      ]
-    },
-    {
-      "rank": 32,
-      "priority": "第一推荐",
-      "priorityTier": 1,
-      "name": "CVMG Gaming",
-      "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@CVMG",
-      "language": "英语",
-      "languageGroup": "英语",
-      "region": "美国",
-      "subscribers": "9.9K",
-      "subscribersCheckedAt": "2026-11-24",
-      "niche": "AFK RPG/手游放置",
-      "fit": "高",
-      "reason": "频道自述“专玩 idle RPG 和 gacha、测构筑找最强队伍”，Clash of Critters 攻略单条播放 1–3 万。",
-      "limitations": "以手游为主，PC 单机作品需对方意愿。",
-      "contact": "cvmg107@gmail.com",
-      "contactType": "邮箱",
-      "contactSource": "https://www.youtube.com/@CVMG/about",
-      "sendChannel": "邮箱：cvmg107@gmail.com",
-      "outreachStatus": "新增（未联系）",
-      "latestActivity": {
-        "title": "YOURE LOSING 1,000's OF PINBALLS Because of this!!",
-        "url": "https://www.youtube.com/watch?v=WS3Ptdm9yLU",
-        "date": "2026-11-23",
-        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
-      },
-      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "taiwan": false,
-      "samples": [
-        {
-          "game": "Clash of Critters / Lumi Master",
-          "title": "YOURE LOSING 1,000's OF PINBALLS Because of this!!",
-          "url": "https://www.youtube.com/watch?v=WS3Ptdm9yLU",
-          "date": "2026-11-23",
-          "views": 4006
-        },
-        {
-          "game": "Clash of Critters / Lumi Master",
-          "title": "MY SECRET WEAPON TO FARM HORDE INVASIONS",
-          "url": "https://www.youtube.com/watch?v=U5v4lrMlLW8",
-          "date": "2026-11-22",
-          "views": 9327
-        },
-        {
-          "game": "Clash of Critters / Lumi Master",
-          "title": "DON'T MAKE WISHBOXES YOUR BIGGEST REGRET!!",
-          "url": "https://www.youtube.com/watch?v=MMpBTumjZg8",
-          "date": "2026-11-21",
-          "views": 19250
-        }
-      ]
-    },
-    {
-      "rank": 33,
-      "priority": "第一推荐",
-      "priorityTier": 1,
-      "name": "スケット団@Games",
-      "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@Games-wn6xx",
-      "language": "日语",
-      "languageGroup": "日语",
-      "region": "日本（待核）",
-      "subscribers": "9.23K",
-      "subscribersCheckedAt": "2026-11-24",
-      "niche": "AFK RPG/手游放置",
-      "fit": "高",
-      "reason": "双人对谈式专做キノコ伝説（放置 RPG），讲 build 与抽卡，与本作英雄搭配/装备玩法高度相近。",
-      "limitations": "目前只做キノコ伝説一款手游，Steam 作品未见。",
-      "contact": "suketto20200404@gmail.com",
-      "contactType": "邮箱",
-      "contactSource": "https://www.youtube.com/@Games-wn6xx/about",
-      "sendChannel": "邮箱：suketto20200404@gmail.com",
-      "outreachStatus": "新增（未联系）",
-      "latestActivity": {
-        "title": "【キノコ伝説】怒りの39,800円課金！これぞ極限バトロア？！",
-        "url": "https://www.youtube.com/watch?v=vNg_sYJ1_hM",
-        "date": "2026-11-16",
-        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
-      },
-      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "taiwan": false,
-      "samples": [
-        {
-          "game": "キノコ伝説",
-          "title": "【キノコ伝説】怒りの39,800円課金！これぞ極限バトロア？！",
-          "url": "https://www.youtube.com/watch?v=vNg_sYJ1_hM",
-          "date": "2026-11-16",
-          "views": 5012
-        },
-        {
-          "game": "キノコ伝説",
-          "title": "【キノコ伝説】ガチャ養分勢のマジックシアタービルド紹介！",
-          "url": "https://www.youtube.com/watch?v=cdZG9Eokq1E",
-          "date": "2026-11-04",
-          "views": 6879
-        },
-        {
-          "game": "キノコ伝説",
-          "title": "【キノコ伝説】心域漂流記！激渋ガチャ動画！",
-          "url": "https://www.youtube.com/watch?v=YWlv9c_ndP8",
-          "date": "2026-10-19",
-          "views": 5408
-        }
-      ]
-    },
-    {
-      "rank": 34,
+      "rank": 22,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "Fox Clicks Again",
@@ -1825,6 +1196,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "sendNote": "经纪方邮箱，可能回报价",
       "taiwan": false,
       "samples": [
         {
@@ -1851,7 +1223,7 @@
       ]
     },
     {
-      "rank": 35,
+      "rank": 23,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "なぎせいな / 凪世薙",
@@ -1904,53 +1276,7 @@
       ]
     },
     {
-      "rank": 36,
-      "priority": "第一推荐",
-      "priorityTier": 1,
-      "name": "CheeseCakeCactus",
-      "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@CheeseCakeCactus",
-      "language": "英语",
-      "languageGroup": "英语",
-      "region": "待核",
-      "subscribers": "6.55K",
-      "subscribersCheckedAt": "2026-11-24",
-      "niche": "Steam新游试玩",
-      "fit": "高",
-      "reason": "日更独立新游初体验，近两周连做 Of Dice and Minions、Gridlords 两款自走棋，对小体量独立游戏友好",
-      "limitations": "单条播放很低（百级），曝光有限",
-      "contact": "cheesecakecactus123@gmail.com",
-      "contactType": "邮箱",
-      "contactSource": "https://www.youtube.com/@CheeseCakeCactus/about",
-      "sendChannel": "邮箱：cheesecakecactus123@gmail.com",
-      "outreachStatus": "新增（未联系）",
-      "latestActivity": {
-        "title": "A Roguelite Auto Battler Where Your Dice Rolls Build Your Army?! | Of Dice and Minions",
-        "url": "https://www.youtube.com/watch?v=MS-kLG7a2tM",
-        "date": "2026-11-23",
-        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
-      },
-      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "taiwan": false,
-      "samples": [
-        {
-          "game": "Of Dice and Minions",
-          "title": "A Roguelite Auto Battler Where Your Dice Rolls Build Your Army?! | Of Dice and Minions",
-          "url": "https://www.youtube.com/watch?v=MS-kLG7a2tM",
-          "date": "2026-11-23",
-          "views": 8
-        },
-        {
-          "game": "Gridlords",
-          "title": "A PvP Auto Battler Where You Build Your Own Castle?! | Gridlords",
-          "url": "https://www.youtube.com/watch?v=DiRs5l95Dy8",
-          "date": "2026-11-13",
-          "views": 139
-        }
-      ]
-    },
-    {
-      "rank": 37,
+      "rank": 24,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "Idle Gamer",
@@ -2003,7 +1329,7 @@
       ]
     },
     {
-      "rank": 38,
+      "rank": 25,
       "priority": "第一推荐",
       "priorityTier": 1,
       "name": "Malterus Gaming",
@@ -2056,113 +1382,7 @@
       ]
     },
     {
-      "rank": 39,
-      "priority": "第一推荐",
-      "priorityTier": 1,
-      "name": "IdleGamerBR",
-      "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@idlegamerYT1",
-      "language": "英语",
-      "languageGroup": "英语",
-      "region": "巴西",
-      "subscribers": "5.62K",
-      "subscribersCheckedAt": "2026-11-24",
-      "niche": "AFK RPG/手游放置",
-      "fit": "高",
-      "reason": "频道定位“The House of Idle RPG Games”，持续为各种新放置 RPG 做梯队榜+实机，最贴合“新放置 RPG 测评”。",
-      "limitations": "频道名 IdleGamerBR、地区巴西，标题英文但口播语言待核；单条播放多在数百。",
-      "contact": "IDLEGAMERYT@tutamail.com",
-      "contactType": "邮箱",
-      "contactSource": "https://www.youtube.com/@idlegamerYT1/about",
-      "sendChannel": "邮箱：IDLEGAMERYT@tutamail.com",
-      "outreachStatus": "新增（未联系）",
-      "latestActivity": {
-        "title": "Culling Game: Sendai Colony - UPDATED TIER LIST",
-        "url": "https://www.youtube.com/watch?v=n27PuxEvjAw",
-        "date": "2026-11-24",
-        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
-      },
-      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "taiwan": false,
-      "samples": [
-        {
-          "game": "多款新放置 RPG 手游（Shovel Squad、OMG Goddess: Idle Legends 等）",
-          "title": "Z Universe: Energy Burst - Updated Tier List (UTR Broly)",
-          "url": "https://www.youtube.com/watch?v=ud3hTTcWphw",
-          "date": "2026-11-21",
-          "views": 1156
-        },
-        {
-          "game": "多款新放置 RPG 手游（Shovel Squad、OMG Goddess: Idle Legends 等）",
-          "title": "Eternal Pantheon: Myth Fantasy - Tier List & Gameplay (all codes)",
-          "url": "https://www.youtube.com/watch?v=hwZTn0EWBEc",
-          "date": "2026-11-20",
-          "views": 219
-        },
-        {
-          "game": "多款新放置 RPG 手游（Shovel Squad、OMG Goddess: Idle Legends 等）",
-          "title": "OMG Goddess: Idle Legends - Updated Tier List (NEW GODDESS)",
-          "url": "https://www.youtube.com/watch?v=2v9vKI0dl9E",
-          "date": "2026-11-17",
-          "views": 448
-        }
-      ]
-    },
-    {
-      "rank": 40,
-      "priority": "第一推荐",
-      "priorityTier": 1,
-      "name": "咖啡樂's",
-      "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@coffee0530",
-      "language": "繁体中文(台湾)",
-      "languageGroup": "繁体中文(台湾)",
-      "region": "台湾",
-      "taiwan": true,
-      "subscribers": "5.6K",
-      "subscribersCheckedAt": "2026-11-24",
-      "niche": "Steam 多款新游测试直播 / 桌面放置",
-      "fit": "高",
-      "reason": "「Steam 多款遊戲測試」系列每天测多款新游，近一周就有钓鱼放置、放置策略、复古点击、放置像素女仆、桌面养宠；《桌面破壞神》首发视频 2.1 万播放。",
-      "limitations": "简介写商业合作档期「排到 12 月中旬」（Booked until mid-Dec），12-03 首发前可能排不上。",
-      "contact": "q23041940q@gmail.com",
-      "contactType": "邮箱",
-      "contactSource": "https://www.youtube.com/@coffee0530/about",
-      "sendChannel": "邮箱：q23041940q@gmail.com",
-      "outreachStatus": "新增（未联系）",
-      "latestActivity": {
-        "title": "【伊莫 Aniimo】虹彩麗芙羊可以抓囉，這次會是什麼顏色🌈有時間軸！ #36",
-        "url": "https://www.youtube.com/watch?v=I1gLsci6ItY",
-        "date": "2026-11-23",
-        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
-      },
-      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "samples": [
-        {
-          "game": "多款游戏合集",
-          "title": "【Steam 多款遊戲測試 Part.23】釣魚放置、商業帝國、迷宮塔防！後面會接伊莫～",
-          "url": "https://www.youtube.com/watch?v=oO7LSAeQ4Ug",
-          "date": "2026-11-22",
-          "views": 505
-        },
-        {
-          "game": "多款游戏合集",
-          "title": "【Steam 多款遊戲測試 Part.22】每款30分鐘，6款一次看！農場尋物／彈幕射擊／海盜戰棋／放置策略／童話割草／復古點擊",
-          "url": "https://www.youtube.com/watch?v=NR8Y9hsiJak",
-          "date": "2026-11-22",
-          "views": 379
-        },
-        {
-          "game": "放置像素女僕",
-          "title": "【Steam 多款遊戲測試 Part.20】女僕 AI 聊天放置遊戲＋公會經營 RPG！《放置像素女僕》《公會創世紀》雙款實況！",
-          "url": "https://www.youtube.com/watch?v=64dBWdIkz2w",
-          "date": "2026-11-20",
-          "views": 672
-        }
-      ]
-    },
-    {
-      "rank": 41,
+      "rank": 26,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "GrayStillPlays",
@@ -2215,7 +1435,7 @@
       ]
     },
     {
-      "rank": 42,
+      "rank": 27,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Obsidian Time",
@@ -2268,7 +1488,7 @@
       ]
     },
     {
-      "rank": 43,
+      "rank": 28,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "풍월량",
@@ -2314,7 +1534,7 @@
       ]
     },
     {
-      "rank": 44,
+      "rank": 29,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "ニグチャンネル",
@@ -2367,7 +1587,7 @@
       ]
     },
     {
-      "rank": 45,
+      "rank": 30,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "InterndotGif",
@@ -2420,7 +1640,7 @@
       ]
     },
     {
-      "rank": 46,
+      "rank": 31,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "GameEdged",
@@ -2473,7 +1693,7 @@
       ]
     },
     {
-      "rank": 47,
+      "rank": 32,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "ShadesOfNate",
@@ -2519,7 +1739,7 @@
       ]
     },
     {
-      "rank": 48,
+      "rank": 33,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Рекви",
@@ -2572,7 +1792,7 @@
       ]
     },
     {
-      "rank": 49,
+      "rank": 34,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Floydsonson",
@@ -2625,7 +1845,7 @@
       ]
     },
     {
-      "rank": 50,
+      "rank": 35,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "TrueDad",
@@ -2678,7 +1898,7 @@
       ]
     },
     {
-      "rank": 51,
+      "rank": 36,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "The SKY Alliance",
@@ -2731,7 +1951,61 @@
       ]
     },
     {
-      "rank": 52,
+      "rank": 37,
+      "priority": "第二推荐",
+      "priorityTier": 2,
+      "name": "MKxJUMP",
+      "platform": "YouTube",
+      "profileUrl": "https://www.youtube.com/@MKxJUMP",
+      "language": "英语",
+      "languageGroup": "英语",
+      "region": "英国",
+      "subscribers": "102K",
+      "subscribersCheckedAt": "2026-11-24",
+      "niche": "AFK RPG/手游放置",
+      "fit": "高",
+      "reason": "英语圈头部 Idle Heroes 创作者（102K），每周活动评测+F2P 账号系列，粉丝就是放置卡牌 RPG 老玩家。",
+      "limitations": "频道长期只做 Idle Heroes，需看是否接受新游合作。",
+      "contact": "admin@mkxjump.com",
+      "contactType": "邮箱",
+      "contactSource": "https://www.youtube.com/@MKxJUMP/about",
+      "sendChannel": "邮箱：admin@mkxjump.com",
+      "outreachStatus": "新增（未联系）",
+      "latestActivity": {
+        "title": "Thanksgiving 2026 gives AMAZING FREE REWARDS this week in IDLE HEROES",
+        "url": "https://www.youtube.com/watch?v=uQ1gaRZ6I2k",
+        "date": "2026-11-20",
+        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
+      },
+      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
+      "taiwan": false,
+      "samples": [
+        {
+          "game": "Idle Heroes",
+          "title": "Thanksgiving 2026 gives AMAZING FREE REWARDS this week in IDLE HEROES",
+          "url": "https://www.youtube.com/watch?v=uQ1gaRZ6I2k",
+          "date": "2026-11-20",
+          "views": 16200
+        },
+        {
+          "game": "Idle Heroes",
+          "title": "Let's clear Chapter 8 of Void Campaign! - Episode 99 - The IDLE HEROES CSG Series",
+          "url": "https://www.youtube.com/watch?v=CQuKmIyaTms",
+          "date": "2026-11-19",
+          "views": 7524
+        },
+        {
+          "game": "Idle Heroes",
+          "title": "Incredible Free-to-Player IDLE HEROES account reaches NIRVANA in less than a year",
+          "url": "https://www.youtube.com/watch?v=Sraf6QiDXew",
+          "date": "2026-11-16",
+          "views": 19717
+        }
+      ]
+    },
+    {
+      "rank": 38,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Ryfek",
@@ -2777,7 +2051,7 @@
       ]
     },
     {
-      "rank": 53,
+      "rank": 39,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Játszótér（MakaM）",
@@ -2837,7 +2111,7 @@
       ]
     },
     {
-      "rank": 54,
+      "rank": 40,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "PonPonLin蹦蹦林",
@@ -2890,7 +2164,7 @@
       ]
     },
     {
-      "rank": 55,
+      "rank": 41,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Scion Storm",
@@ -2943,7 +2217,61 @@
       ]
     },
     {
-      "rank": 56,
+      "rank": 42,
+      "priority": "第二推荐",
+      "priorityTier": 2,
+      "name": "Ggyu tube",
+      "platform": "YouTube",
+      "profileUrl": "https://www.youtube.com/@Ggyutube",
+      "language": "韩语",
+      "languageGroup": "韩语",
+      "region": "韩国",
+      "subscribers": "49.3K",
+      "subscribersCheckedAt": "2026-11-24",
+      "niche": "AFK RPG/手游放置",
+      "fit": "高",
+      "reason": "4.93 万订阅，做“메이플 키우기”“소드 x 스태프”等放置 RPG 育成系列，单条约 1 万播放。",
+      "limitations": "邮箱为 MCN（metaplug）营销邮箱。",
+      "contact": "mkt@metaplug.co.kr",
+      "contactType": "邮箱",
+      "contactSource": "https://www.youtube.com/@Ggyutube/about",
+      "sendChannel": "邮箱：mkt@metaplug.co.kr",
+      "outreachStatus": "新增（未联系）",
+      "latestActivity": {
+        "title": "【소드 x 스태프】 재료비경 터트리고 900K 돌파! 추가 존버 필요할까? (+수욜 신규 이벤트) [현자 육성기#9]",
+        "url": "https://www.youtube.com/watch?v=w25lolHHn1A",
+        "date": "2026-11-23",
+        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
+      },
+      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
+      "taiwan": false,
+      "samples": [
+        {
+          "game": "메이플 키우기 / 소드 x 스태프",
+          "title": "【소드 x 스태프】 재료비경 터트리고 900K 돌파! 추가 존버 필요할까? (+수욜 신규 이벤트) [현자 육성기#9]",
+          "url": "https://www.youtube.com/watch?v=w25lolHHn1A",
+          "date": "2026-11-23",
+          "views": 6012
+        },
+        {
+          "game": "메이플 키우기 / 소드 x 스태프",
+          "title": "【메이플 키우기】 본격 현질 시작! 패키지+스타포스로 투력 3000만 돌파 [캡틴 육성기 2편]",
+          "url": "https://www.youtube.com/watch?v=XCQdF9Q-Fe8",
+          "date": "2026-11-23",
+          "views": 10177
+        },
+        {
+          "game": "메이플 키우기 / 소드 x 스태프",
+          "title": "【메이플 키우기】 오랜만의 복귀, '캡틴'으로 새 출발합니다! [캡틴 육성기 1편]",
+          "url": "https://www.youtube.com/watch?v=rZ192G5TUeo",
+          "date": "2026-11-22",
+          "views": 14103
+        }
+      ]
+    },
+    {
+      "rank": 43,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Only Roguelikes",
@@ -2996,7 +2324,115 @@
       ]
     },
     {
-      "rank": 57,
+      "rank": 44,
+      "priority": "第二推荐",
+      "priorityTier": 2,
+      "name": "Puzzle - AFK Journey!",
+      "platform": "YouTube",
+      "profileUrl": "https://www.youtube.com/@PuzzleAFKJ",
+      "language": "英语",
+      "languageGroup": "英语",
+      "region": "美国",
+      "subscribers": "38.8K",
+      "subscribersCheckedAt": "2026-11-24",
+      "niche": "AFK RPG/手游放置",
+      "fit": "高",
+      "reason": "几乎每天更新 AFK Journey 阵容/梦境/公会战配队视频，观众正是看“自动战斗+站位配队”的放置 RPG 玩家，与本作 4×4 站位自动战斗高度对口。",
+      "limitations": "频道只做 AFK Journey 单一游戏，接 PC 单机新作需看对方意愿。",
+      "contact": "shreddedpuzzle@gmail.com",
+      "contactType": "邮箱",
+      "contactSource": "https://www.youtube.com/@PuzzleAFKJ/about",
+      "sendChannel": "邮箱：shreddedpuzzle@gmail.com",
+      "outreachStatus": "新增（未联系）",
+      "latestActivity": {
+        "title": "My BEST Supreme League Teams! 👑 | AFK Journey",
+        "url": "https://www.youtube.com/watch?v=YPRUbx1CU8Y",
+        "date": "2026-11-23",
+        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
+      },
+      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
+      "taiwan": false,
+      "samples": [
+        {
+          "game": "AFK Journey",
+          "title": "My BEST Supreme League Teams! 👑 | AFK Journey",
+          "url": "https://www.youtube.com/watch?v=YPRUbx1CU8Y",
+          "date": "2026-11-23",
+          "views": 5273
+        },
+        {
+          "game": "AFK Journey",
+          "title": "The BEST Heroic Gauntlet Teams! ✅ CLEAR All 3 Stages! AFK Journey",
+          "url": "https://www.youtube.com/watch?v=KaNu7X6YjlY",
+          "date": "2026-11-23",
+          "views": 4403
+        },
+        {
+          "game": "AFK Journey",
+          "title": "BADEN is TRAMPLING Talking Root! 💀 | AFK Journey",
+          "url": "https://www.youtube.com/watch?v=IqSGuGFN4FY",
+          "date": "2026-11-23",
+          "views": 4829
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "priority": "第二推荐",
+      "priorityTier": 2,
+      "name": "껨디",
+      "platform": "YouTube",
+      "profileUrl": "https://www.youtube.com/@GGDsandevistan",
+      "language": "韩语",
+      "languageGroup": "韩语",
+      "region": "韩国",
+      "subscribers": "32.6K",
+      "subscribersCheckedAt": "2026-11-24",
+      "niche": "AFK RPG/手游放置",
+      "fit": "高",
+      "reason": "韩语 AFK Journey 专门频道（3.26 万），日更梦境/配队/新英雄测评，懂阵容站位。",
+      "limitations": "近期单条播放数百至 1.7K。",
+      "contact": "ggemdi@daum.net",
+      "contactType": "邮箱",
+      "contactSource": "https://www.youtube.com/@GGDsandevistan/about",
+      "sendChannel": "邮箱：ggemdi@daum.net",
+      "outreachStatus": "新增（未联系）",
+      "latestActivity": {
+        "title": "[AFK 새로운여정] 신규 반신악마『 아 네 바 』사용 후기 🏹",
+        "url": "https://www.youtube.com/watch?v=ux9Bgx8hB0U",
+        "date": "2026-11-24",
+        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
+      },
+      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
+      "taiwan": false,
+      "samples": [
+        {
+          "game": "AFK Journey（AFK 새로운여정）",
+          "title": "[AFK 새로운여정] 신규 반신악마『 아 네 바 』사용 후기 🏹",
+          "url": "https://www.youtube.com/watch?v=ux9Bgx8hB0U",
+          "date": "2026-11-24",
+          "views": 680
+        },
+        {
+          "game": "AFK Journey（AFK 새로운여정）",
+          "title": "[AFK 새로운여정] 꿈의세계 변형된예티✔️없어? 손해 좀 보자",
+          "url": "https://www.youtube.com/watch?v=W8oAsXIzUwE",
+          "date": "2026-11-24",
+          "views": 634
+        },
+        {
+          "game": "AFK Journey（AFK 새로운여정）",
+          "title": "[AFK 새로운여정] ( 11 . 23 - 11 . 29 ) 꿈의추격 ⚔️ 기본조합과 대체 캐릭터",
+          "url": "https://www.youtube.com/watch?v=c7OsWKgjZt4",
+          "date": "2026-11-23",
+          "views": 1403
+        }
+      ]
+    },
+    {
+      "rank": 46,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "ぎあ",
@@ -3049,7 +2485,7 @@
       ]
     },
     {
-      "rank": 58,
+      "rank": 47,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Torugão",
@@ -3101,7 +2537,7 @@
       ]
     },
     {
-      "rank": 59,
+      "rank": 48,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Indeday",
@@ -3152,7 +2588,7 @@
       ]
     },
     {
-      "rank": 60,
+      "rank": 49,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "OHRye",
@@ -3210,7 +2646,7 @@
       ]
     },
     {
-      "rank": 61,
+      "rank": 50,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "이구역의 듀공",
@@ -3256,7 +2692,7 @@
       ]
     },
     {
-      "rank": 62,
+      "rank": 51,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "MacicTV",
@@ -3307,7 +2743,7 @@
       ]
     },
     {
-      "rank": 63,
+      "rank": 52,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "RoyaloYT",
@@ -3367,7 +2803,7 @@
       ]
     },
     {
-      "rank": 64,
+      "rank": 53,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Satan Claus PLAY!",
@@ -3420,7 +2856,61 @@
       ]
     },
     {
-      "rank": 65,
+      "rank": 54,
+      "priority": "第二推荐",
+      "priorityTier": 2,
+      "name": "이고올",
+      "platform": "YouTube",
+      "profileUrl": "https://www.youtube.com/@LeeGoAll",
+      "language": "韩语",
+      "languageGroup": "韩语",
+      "region": "韩国",
+      "subscribers": "19.4K",
+      "subscribersCheckedAt": "2026-11-24",
+      "niche": "AFK RPG/手游放置",
+      "fit": "高",
+      "reason": "1.94 万订阅，“메이플 키우기 N 天新手日记”长期连载，单条 1–2 万播放。",
+      "limitations": "邮箱写在视频说明而非关于页。",
+      "contact": "wicd123@naver.com",
+      "contactType": "邮箱",
+      "contactSource": "https://www.youtube.com/watch?v=9cENciMLT1I",
+      "sendChannel": "邮箱：wicd123@naver.com",
+      "outreachStatus": "新增（未联系）",
+      "latestActivity": {
+        "title": "[세븐나이츠 리버스] 🔥[12편]신규 계정 45일차! 결투장덱 완성....(feat.AI고올)",
+        "url": "https://www.youtube.com/watch?v=9cENciMLT1I",
+        "date": "2026-11-19",
+        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
+      },
+      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
+      "taiwan": false,
+      "samples": [
+        {
+          "game": "메이플 키우기 / 세븐나이츠 리버스",
+          "title": "[세븐나이츠 리버스] 🔥[12편]신규 계정 45일차! 결투장덱 완성....(feat.AI고올)",
+          "url": "https://www.youtube.com/watch?v=9cENciMLT1I",
+          "date": "2026-11-19",
+          "views": 10473
+        },
+        {
+          "game": "메이플 키우기 / 세븐나이츠 리버스",
+          "title": "[메이플 키우기] 🍄375일차 메린이! 도도...너무 강하다..... 벽느낌 ㅋㅋㅋㅋㅋ",
+          "url": "https://www.youtube.com/watch?v=oyel-wn_R1E",
+          "date": "2026-11-17",
+          "views": 16714
+        },
+        {
+          "game": "메이플 키우기 / 세븐나이츠 리버스",
+          "title": "[세븐나이츠 리버스] 내가... 이브가 될게 (🔥쿠폰 이벤트)",
+          "url": "https://www.youtube.com/watch?v=n3J5dE6a-To",
+          "date": "2026-11-15",
+          "views": 17257
+        }
+      ]
+    },
+    {
+      "rank": 55,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "JTM",
@@ -3466,7 +2956,7 @@
       ]
     },
     {
-      "rank": 66,
+      "rank": 56,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Gaming With Jeff",
@@ -3512,7 +3002,7 @@
       ]
     },
     {
-      "rank": 67,
+      "rank": 57,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Game Launch Central",
@@ -3558,7 +3048,7 @@
       ]
     },
     {
-      "rank": 68,
+      "rank": 58,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Тупой Горностай（同一主播另有 Шляпа Горностая）",
@@ -3611,7 +3101,7 @@
       ]
     },
     {
-      "rank": 69,
+      "rank": 59,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Grinnn",
@@ -3664,7 +3154,7 @@
       ]
     },
     {
-      "rank": 70,
+      "rank": 60,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "게임달고나",
@@ -3717,7 +3207,61 @@
       ]
     },
     {
-      "rank": 71,
+      "rank": 61,
+      "priority": "第二推荐",
+      "priorityTier": 2,
+      "name": "훈TV",
+      "platform": "YouTube",
+      "profileUrl": "https://www.youtube.com/@%ED%9B%88TV%ED%9B%88",
+      "language": "韩语",
+      "languageGroup": "韩语",
+      "region": "韩国",
+      "subscribers": "12.4K",
+      "subscribersCheckedAt": "2026-11-24",
+      "niche": "AFK RPG/手游放置",
+      "fit": "高",
+      "reason": "日更“메이플 키우기”攻略（离线收益、更新预告、Boss 活动），单条 1–3 万播放，观众是韩服放置 RPG 核心玩家。",
+      "limitations": "单一游戏频道；邮箱写在视频说明而非关于页。",
+      "contact": "lmh4186@naver.com",
+      "contactType": "邮箱",
+      "contactSource": "https://www.youtube.com/watch?v=9IZjkyyxhSM",
+      "sendChannel": "邮箱：lmh4186@naver.com",
+      "outreachStatus": "新增（未联系）",
+      "latestActivity": {
+        "title": "메이플 키우기 - 방치 재화 온라인은 확률! 오프라인은 고정?",
+        "url": "https://www.youtube.com/watch?v=9IZjkyyxhSM",
+        "date": "2026-11-23",
+        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
+      },
+      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
+      "taiwan": false,
+      "samples": [
+        {
+          "game": "메이플 키우기 (MapleStory Idle RPG)",
+          "title": "메이플 키우기 - 방치 재화 온라인은 확률! 오프라인은 고정?",
+          "url": "https://www.youtube.com/watch?v=9IZjkyyxhSM",
+          "date": "2026-11-23",
+          "views": 9886
+        },
+        {
+          "game": "메이플 키우기 (MapleStory Idle RPG)",
+          "title": "메이플 키우기 - 보스 레이드 버닝 이벤트 예고! 업데이트 전 입장권 써도 될까?",
+          "url": "https://www.youtube.com/watch?v=udCKNBeynAg",
+          "date": "2026-11-22",
+          "views": 12282
+        },
+        {
+          "game": "메이플 키우기 (MapleStory Idle RPG)",
+          "title": "메이플 키우기 - 업데이트 전 하면 안 되는 행동 3가지!",
+          "url": "https://www.youtube.com/watch?v=SJp256Goi1k",
+          "date": "2026-11-20",
+          "views": 34645
+        }
+      ]
+    },
+    {
+      "rank": 62,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "초록괴물",
@@ -3763,7 +3307,7 @@
       ]
     },
     {
-      "rank": 72,
+      "rank": 63,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "ExGold",
@@ -3816,60 +3360,223 @@
       ]
     },
     {
-      "rank": 73,
+      "rank": 64,
       "priority": "第二推荐",
       "priorityTier": 2,
-      "name": "Elaps",
+      "name": "PlayZodi",
       "platform": "YouTube",
-      "profileUrl": "https://www.youtube.com/@Elapsss",
-      "language": "法语",
-      "languageGroup": "法语",
-      "region": "法国",
-      "subscribers": "9.67K",
+      "profileUrl": "https://www.youtube.com/@Zodi",
+      "language": "俄语",
+      "languageGroup": "俄语",
+      "region": "待核",
+      "subscribers": "11.5K",
       "subscribersCheckedAt": "2026-11-24",
       "niche": "idle/incremental",
-      "fit": "中",
-      "reason": "法语白金/百分百通关频道，常把 Incremental 打到全成就（“3 Incrementaux en une vidéo”、捡 100 万金币等），单条播放 1.6–9 万。",
-      "limitations": "简介邮箱标注为“Mail pro Montage”（剪辑合作），是否收游戏邀请待核；偏成就向；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在",
-      "contact": "elps.edit.pro@gmail.com",
+      "fit": "高",
+      "reason": "日更 Steam 新游「首看/评测」，近一个月连续做了十多款增量/放置和自走棋（Paydirt、One Million Gallons、The Endless Harvest等），还有 Steam 鉴赏家页，对口本作 Demo/正式版首看。",
+      "limitations": "单条播放偏低（多为几十到几百）；地区未写明。",
+      "contact": "playwithzodi@gmail.com",
       "contactType": "邮箱",
-      "contactSource": "https://www.youtube.com/@Elapsss/about",
-      "sendChannel": "邮箱：elps.edit.pro@gmail.com",
+      "contactSource": "https://www.youtube.com/@Zodi/about",
+      "sendChannel": "邮箱：playwithzodi@gmail.com",
       "outreachStatus": "新增（未联系）",
       "latestActivity": {
-        "title": "J’ai ramassé 1 MILLION de pièces pour ce 100%",
-        "url": "https://www.youtube.com/watch?v=BgHqymVvCkU",
-        "date": "2026-11-22",
+        "title": "💥 STEAM КЛЮЧ ВНУТРИ! 🔑 Survivor Rat vs Zombies (Ключ 4) 🔑 БЕСПЛАТНО ДАРЮ КЛЮЧ К ИГРЕ ;) #giveaway",
+        "url": "https://www.youtube.com/watch?v=cjOb_gQZrhk",
+        "date": "2026-11-23",
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "manualTierNote": "Codex专用 核实建议降级：近期每条只有几十到几百播放",
       "taiwan": false,
       "samples": [
         {
-          "game": "待核（标题未写游戏名，捡 100 万金币）",
-          "title": "J’ai ramassé 1 MILLION de pièces pour ce 100%",
-          "url": "https://www.youtube.com/watch?v=BgHqymVvCkU",
+          "game": "Paydirt",
+          "title": "ИНКРЕМЕНТАЛЬНАЯ КИРКА - Paydirt [Обзор / Первый взгляд]",
+          "url": "https://www.youtube.com/watch?v=dAjtndwUp34",
+          "date": "2026-11-23",
+          "views": 55
+        },
+        {
+          "game": "One Million Gallons",
+          "title": "ИНКРЕМЕНТАЛЬНЫЕ ВЁДРА - One Million Gallons [Обзор / Первый взгляд]",
+          "url": "https://www.youtube.com/watch?v=qOMtqHMLowM",
+          "date": "2026-11-23",
+          "views": 64
+        },
+        {
+          "game": "The Endless Harvest",
+          "title": "ИНКРЕМЕНТАЛЬНАЯ ДЕРЕВНЯ - The Endless Harvest [Обзор / Первый взгляд]",
+          "url": "https://www.youtube.com/watch?v=kbKrUAYd88w",
           "date": "2026-11-22",
-          "views": 16477
-        },
-        {
-          "game": "待核（标题未写游戏名，扫落叶）",
-          "title": "J'ai ramassé PLUS DE 500 000 FEUILLES pour ce PLATINE",
-          "url": "https://www.youtube.com/watch?v=hqqR9AIgYzU",
-          "date": "2026-11-12",
-          "views": 55231
-        },
-        {
-          "game": "待核（三款增量合集）",
-          "title": "J'ai PLATINE 3 Incrementaux en UNE SEULE vidéo",
-          "url": "https://www.youtube.com/watch?v=fIzaM7B7gjI",
-          "date": "2026-07-19",
-          "views": 44287
+          "views": 205
         }
       ]
     },
     {
-      "rank": 74,
+      "rank": 65,
+      "priority": "第二推荐",
+      "priorityTier": 2,
+      "name": "게임픽 GAMEPICK",
+      "platform": "YouTube",
+      "profileUrl": "https://www.youtube.com/@%EA%B2%8C%EC%9E%84%ED%94%BD-GAMEPICK",
+      "language": "韩语",
+      "languageGroup": "韩语",
+      "region": "韩国",
+      "subscribers": "10.2K",
+      "subscribersCheckedAt": "2026-11-24",
+      "niche": "AFK RPG/手游放置",
+      "fit": "高",
+      "reason": "频道持续做“放置型游戏推荐”“下班后 10 分钟的放置 RPG”，目标观众就是挂机放置玩家，简介有商务邮箱。",
+      "limitations": "以手游为主，PC Steam 作品需对方意愿。",
+      "contact": "gamepickbiz@gmail.com",
+      "contactType": "邮箱",
+      "contactSource": "https://www.youtube.com/@%EA%B2%8C%EC%9E%84%ED%94%BD-GAMEPICK/about",
+      "sendChannel": "邮箱：gamepickbiz@gmail.com",
+      "outreachStatus": "新增（未联系）",
+      "latestActivity": {
+        "title": "모바일 파밍RPG 추천 TOP5, 퀘스트 없이 바로 닥사하는 게임이라고?",
+        "url": "https://www.youtube.com/watch?v=c_8QPnfvcrA",
+        "date": "2026-11-20",
+        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
+      },
+      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
+      "taiwan": false,
+      "samples": [
+        {
+          "game": "放置型手游合集",
+          "title": "도파민 팡팡 터지는 방치형게임 추천! 성장하는 맛이 살아있는데?",
+          "url": "https://www.youtube.com/watch?v=a2_M9sIR73w",
+          "date": "2026-11-13",
+          "views": 6068
+        },
+        {
+          "game": "放置型手游合集",
+          "title": "모바일게임 추천 무협 방치형RPG, 퇴근하고 10분이면 끝",
+          "url": "https://www.youtube.com/watch?v=EE2Ta1Z2swY",
+          "date": "2026-11-06",
+          "views": 3374
+        },
+        {
+          "game": "放置型手游合集",
+          "title": "모바일게임 추천 무협 방치형RPG 무제, 직장인이 무과금으로 해도 될까?",
+          "url": "https://www.youtube.com/watch?v=y1QqDn0H0vU",
+          "date": "2026-11-06",
+          "views": 1818
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "priority": "第二推荐",
+      "priorityTier": 2,
+      "name": "CVMG Gaming",
+      "platform": "YouTube",
+      "profileUrl": "https://www.youtube.com/@CVMG",
+      "language": "英语",
+      "languageGroup": "英语",
+      "region": "美国",
+      "subscribers": "9.9K",
+      "subscribersCheckedAt": "2026-11-24",
+      "niche": "AFK RPG/手游放置",
+      "fit": "高",
+      "reason": "频道自述“专玩 idle RPG 和 gacha、测构筑找最强队伍”，Clash of Critters 攻略单条播放 1–3 万。",
+      "limitations": "以手游为主，PC 单机作品需对方意愿。",
+      "contact": "cvmg107@gmail.com",
+      "contactType": "邮箱",
+      "contactSource": "https://www.youtube.com/@CVMG/about",
+      "sendChannel": "邮箱：cvmg107@gmail.com",
+      "outreachStatus": "新增（未联系）",
+      "latestActivity": {
+        "title": "YOURE LOSING 1,000's OF PINBALLS Because of this!!",
+        "url": "https://www.youtube.com/watch?v=WS3Ptdm9yLU",
+        "date": "2026-11-23",
+        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
+      },
+      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
+      "taiwan": false,
+      "samples": [
+        {
+          "game": "Clash of Critters / Lumi Master",
+          "title": "YOURE LOSING 1,000's OF PINBALLS Because of this!!",
+          "url": "https://www.youtube.com/watch?v=WS3Ptdm9yLU",
+          "date": "2026-11-23",
+          "views": 4006
+        },
+        {
+          "game": "Clash of Critters / Lumi Master",
+          "title": "MY SECRET WEAPON TO FARM HORDE INVASIONS",
+          "url": "https://www.youtube.com/watch?v=U5v4lrMlLW8",
+          "date": "2026-11-22",
+          "views": 9327
+        },
+        {
+          "game": "Clash of Critters / Lumi Master",
+          "title": "DON'T MAKE WISHBOXES YOUR BIGGEST REGRET!!",
+          "url": "https://www.youtube.com/watch?v=MMpBTumjZg8",
+          "date": "2026-11-21",
+          "views": 19250
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "priority": "第二推荐",
+      "priorityTier": 2,
+      "name": "スケット団@Games",
+      "platform": "YouTube",
+      "profileUrl": "https://www.youtube.com/@Games-wn6xx",
+      "language": "日语",
+      "languageGroup": "日语",
+      "region": "日本（待核）",
+      "subscribers": "9.23K",
+      "subscribersCheckedAt": "2026-11-24",
+      "niche": "AFK RPG/手游放置",
+      "fit": "高",
+      "reason": "双人对谈式专做キノコ伝説（放置 RPG），讲 build 与抽卡，与本作英雄搭配/装备玩法高度相近。",
+      "limitations": "目前只做キノコ伝説一款手游，Steam 作品未见。",
+      "contact": "suketto20200404@gmail.com",
+      "contactType": "邮箱",
+      "contactSource": "https://www.youtube.com/@Games-wn6xx/about",
+      "sendChannel": "邮箱：suketto20200404@gmail.com",
+      "outreachStatus": "新增（未联系）",
+      "latestActivity": {
+        "title": "【キノコ伝説】怒りの39,800円課金！これぞ極限バトロア？！",
+        "url": "https://www.youtube.com/watch?v=vNg_sYJ1_hM",
+        "date": "2026-11-16",
+        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
+      },
+      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
+      "taiwan": false,
+      "samples": [
+        {
+          "game": "キノコ伝説",
+          "title": "【キノコ伝説】怒りの39,800円課金！これぞ極限バトロア？！",
+          "url": "https://www.youtube.com/watch?v=vNg_sYJ1_hM",
+          "date": "2026-11-16",
+          "views": 5012
+        },
+        {
+          "game": "キノコ伝説",
+          "title": "【キノコ伝説】ガチャ養分勢のマジックシアタービルド紹介！",
+          "url": "https://www.youtube.com/watch?v=cdZG9Eokq1E",
+          "date": "2026-11-04",
+          "views": 6879
+        },
+        {
+          "game": "キノコ伝説",
+          "title": "【キノコ伝説】心域漂流記！激渋ガチャ動画！",
+          "url": "https://www.youtube.com/watch?v=YWlv9c_ndP8",
+          "date": "2026-10-19",
+          "views": 5408
+        }
+      ]
+    },
+    {
+      "rank": 68,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Soulrise Gaming",
@@ -3922,7 +3629,7 @@
       ]
     },
     {
-      "rank": 75,
+      "rank": 69,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Trusty",
@@ -3974,7 +3681,7 @@
       ]
     },
     {
-      "rank": 76,
+      "rank": 70,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "SYROX GAMING",
@@ -4027,7 +3734,54 @@
       ]
     },
     {
-      "rank": 77,
+      "rank": 71,
+      "priority": "第二推荐",
+      "priorityTier": 2,
+      "name": "CheeseCakeCactus",
+      "platform": "YouTube",
+      "profileUrl": "https://www.youtube.com/@CheeseCakeCactus",
+      "language": "英语",
+      "languageGroup": "英语",
+      "region": "待核",
+      "subscribers": "6.55K",
+      "subscribersCheckedAt": "2026-11-24",
+      "niche": "Steam新游试玩",
+      "fit": "高",
+      "reason": "日更独立新游初体验，近两周连做 Of Dice and Minions、Gridlords 两款自走棋，对小体量独立游戏友好",
+      "limitations": "单条播放很低（百级），曝光有限",
+      "contact": "cheesecakecactus123@gmail.com",
+      "contactType": "邮箱",
+      "contactSource": "https://www.youtube.com/@CheeseCakeCactus/about",
+      "sendChannel": "邮箱：cheesecakecactus123@gmail.com",
+      "outreachStatus": "新增（未联系）",
+      "latestActivity": {
+        "title": "A Roguelite Auto Battler Where Your Dice Rolls Build Your Army?! | Of Dice and Minions",
+        "url": "https://www.youtube.com/watch?v=MS-kLG7a2tM",
+        "date": "2026-11-23",
+        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
+      },
+      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "manualTierNote": "Codex专用 核实建议降级：近期每条只有几十到几百播放",
+      "taiwan": false,
+      "samples": [
+        {
+          "game": "Of Dice and Minions",
+          "title": "A Roguelite Auto Battler Where Your Dice Rolls Build Your Army?! | Of Dice and Minions",
+          "url": "https://www.youtube.com/watch?v=MS-kLG7a2tM",
+          "date": "2026-11-23",
+          "views": 8
+        },
+        {
+          "game": "Gridlords",
+          "title": "A PvP Auto Battler Where You Build Your Own Castle?! | Gridlords",
+          "url": "https://www.youtube.com/watch?v=DiRs5l95Dy8",
+          "date": "2026-11-13",
+          "views": 139
+        }
+      ]
+    },
+    {
+      "rank": 72,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "겜플리",
@@ -4080,7 +3834,117 @@
       ]
     },
     {
-      "rank": 78,
+      "rank": 73,
+      "priority": "第二推荐",
+      "priorityTier": 2,
+      "name": "IdleGamerYT",
+      "platform": "YouTube",
+      "profileUrl": "https://www.youtube.com/@idlegamerYT1",
+      "language": "英语",
+      "languageGroup": "英语",
+      "region": "巴西",
+      "subscribers": "5.62K",
+      "subscribersCheckedAt": "2026-11-24",
+      "niche": "AFK RPG/手游放置",
+      "fit": "高",
+      "reason": "频道定位“The House of Idle RPG Games”，持续为各种新放置 RPG 做梯队榜+实机，最贴合“新放置 RPG 测评”。",
+      "limitations": "频道名 IdleGamerBR、地区巴西，标题英文但口播语言待核；单条播放多在数百。",
+      "contact": "IDLEGAMERYT@tutamail.com",
+      "contactType": "邮箱",
+      "contactSource": "https://www.youtube.com/@idlegamerYT1/about",
+      "sendChannel": "邮箱：IDLEGAMERYT@tutamail.com",
+      "outreachStatus": "新增（未联系）",
+      "latestActivity": {
+        "title": "Culling Game: Sendai Colony - UPDATED TIER LIST",
+        "url": "https://www.youtube.com/watch?v=n27PuxEvjAw",
+        "date": "2026-11-24",
+        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
+      },
+      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
+      "nameNote": "原记作 IdleGamerBR；RSS 与 handle @idlegamerYT1 显示名为 IdleGamerYT",
+      "taiwan": false,
+      "samples": [
+        {
+          "game": "多款新放置 RPG 手游（Shovel Squad、OMG Goddess: Idle Legends 等）",
+          "title": "Z Universe: Energy Burst - Updated Tier List (UTR Broly)",
+          "url": "https://www.youtube.com/watch?v=ud3hTTcWphw",
+          "date": "2026-11-21",
+          "views": 1156
+        },
+        {
+          "game": "多款新放置 RPG 手游（Shovel Squad、OMG Goddess: Idle Legends 等）",
+          "title": "Eternal Pantheon: Myth Fantasy - Tier List & Gameplay (all codes)",
+          "url": "https://www.youtube.com/watch?v=hwZTn0EWBEc",
+          "date": "2026-11-20",
+          "views": 219
+        },
+        {
+          "game": "多款新放置 RPG 手游（Shovel Squad、OMG Goddess: Idle Legends 等）",
+          "title": "OMG Goddess: Idle Legends - Updated Tier List (NEW GODDESS)",
+          "url": "https://www.youtube.com/watch?v=2v9vKI0dl9E",
+          "date": "2026-11-17",
+          "views": 448
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "priority": "第二推荐",
+      "priorityTier": 2,
+      "name": "咖啡樂's",
+      "platform": "YouTube",
+      "profileUrl": "https://www.youtube.com/@coffee0530",
+      "language": "繁体中文(台湾)",
+      "languageGroup": "繁体中文(台湾)",
+      "region": "台湾",
+      "taiwan": true,
+      "subscribers": "5.6K",
+      "subscribersCheckedAt": "2026-11-24",
+      "niche": "Steam 多款新游测试直播 / 桌面放置",
+      "fit": "高",
+      "reason": "「Steam 多款遊戲測試」系列每天测多款新游，近一周就有钓鱼放置、放置策略、复古点击、放置像素女仆、桌面养宠；《桌面破壞神》首发视频 2.1 万播放。",
+      "limitations": "简介写商业合作档期「排到 12 月中旬」（Booked until mid-Dec），12-03 首发前可能排不上。",
+      "contact": "q23041940q@gmail.com",
+      "contactType": "邮箱",
+      "contactSource": "https://www.youtube.com/@coffee0530/about",
+      "sendChannel": "邮箱：q23041940q@gmail.com",
+      "outreachStatus": "新增（未联系）",
+      "latestActivity": {
+        "title": "【伊莫 Aniimo】虹彩麗芙羊可以抓囉，這次會是什麼顏色🌈有時間軸！ #36",
+        "url": "https://www.youtube.com/watch?v=I1gLsci6ItY",
+        "date": "2026-11-23",
+        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
+      },
+      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "sendNote": "简介写明「Booked until mid-Dec / 目前行程至 12 月中旬」：建议 12 月中旬再发（已定稿的邀请稿含首发档期，不另改稿）",
+      "sendHold": "建议推迟到 12 月中旬",
+      "samples": [
+        {
+          "game": "多款游戏合集",
+          "title": "【Steam 多款遊戲測試 Part.23】釣魚放置、商業帝國、迷宮塔防！後面會接伊莫～",
+          "url": "https://www.youtube.com/watch?v=oO7LSAeQ4Ug",
+          "date": "2026-11-22",
+          "views": 505
+        },
+        {
+          "game": "多款游戏合集",
+          "title": "【Steam 多款遊戲測試 Part.22】每款30分鐘，6款一次看！農場尋物／彈幕射擊／海盜戰棋／放置策略／童話割草／復古點擊",
+          "url": "https://www.youtube.com/watch?v=NR8Y9hsiJak",
+          "date": "2026-11-22",
+          "views": 379
+        },
+        {
+          "game": "放置像素女僕",
+          "title": "【Steam 多款遊戲測試 Part.20】女僕 AI 聊天放置遊戲＋公會經營 RPG！《放置像素女僕》《公會創世紀》雙款實況！",
+          "url": "https://www.youtube.com/watch?v=64dBWdIkz2w",
+          "date": "2026-11-20",
+          "views": 672
+        }
+      ]
+    },
+    {
+      "rank": 75,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "是努努鴨",
@@ -4133,7 +3997,7 @@
       ]
     },
     {
-      "rank": 79,
+      "rank": 76,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "A게임TV",
@@ -4186,7 +4050,7 @@
       ]
     },
     {
-      "rank": 80,
+      "rank": 77,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Introvert Party",
@@ -4239,7 +4103,7 @@
       ]
     },
     {
-      "rank": 81,
+      "rank": 78,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Ash Swoon",
@@ -4292,7 +4156,7 @@
       ]
     },
     {
-      "rank": 82,
+      "rank": 79,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "глазами геймдизайнера",
@@ -4345,7 +4209,7 @@
       ]
     },
     {
-      "rank": 83,
+      "rank": 80,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Ruddaii",
@@ -4398,7 +4262,7 @@
       ]
     },
     {
-      "rank": 84,
+      "rank": 81,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "VhGaming",
@@ -4451,7 +4315,7 @@
       ]
     },
     {
-      "rank": 85,
+      "rank": 82,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "IndieRadar by RangerArea",
@@ -4504,7 +4368,7 @@
       ]
     },
     {
-      "rank": 86,
+      "rank": 83,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Старый Маразматик",
@@ -4557,7 +4421,7 @@
       ]
     },
     {
-      "rank": 87,
+      "rank": 84,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Elfe",
@@ -4610,7 +4474,7 @@
       ]
     },
     {
-      "rank": 88,
+      "rank": 85,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "電話莎的電波塔",
@@ -4663,7 +4527,7 @@
       ]
     },
     {
-      "rank": 89,
+      "rank": 86,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "PumpkinIdle",
@@ -4716,7 +4580,7 @@
       ]
     },
     {
-      "rank": 90,
+      "rank": 87,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Juste une run",
@@ -4769,7 +4633,7 @@
       ]
     },
     {
-      "rank": 91,
+      "rank": 88,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "뭐라고요",
@@ -4822,7 +4686,7 @@
       ]
     },
     {
-      "rank": 92,
+      "rank": 89,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Расслабься, бро",
@@ -4875,7 +4739,7 @@
       ]
     },
     {
-      "rank": 93,
+      "rank": 90,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Kayork",
@@ -4928,7 +4792,7 @@
       ]
     },
     {
-      "rank": 94,
+      "rank": 91,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "돈냥",
@@ -4981,7 +4845,7 @@
       ]
     },
     {
-      "rank": 95,
+      "rank": 92,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Vicio ONE MORE TIME!!!!",
@@ -5034,7 +4898,7 @@
       ]
     },
     {
-      "rank": 96,
+      "rank": 93,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "HandOfUncut",
@@ -5086,7 +4950,7 @@
       ]
     },
     {
-      "rank": 97,
+      "rank": 94,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "ImCade",
@@ -5139,7 +5003,7 @@
       ]
     },
     {
-      "rank": 98,
+      "rank": 95,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Dr_Horse",
@@ -5191,7 +5055,7 @@
       ]
     },
     {
-      "rank": 99,
+      "rank": 96,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Z1 Gaming",
@@ -5244,7 +5108,7 @@
       ]
     },
     {
-      "rank": 100,
+      "rank": 97,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "阿路的精神時光屋",
@@ -5297,7 +5161,7 @@
       ]
     },
     {
-      "rank": 101,
+      "rank": 98,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "しんじさん",
@@ -5350,7 +5214,7 @@
       ]
     },
     {
-      "rank": 102,
+      "rank": 99,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Tian Kami",
@@ -5403,7 +5267,7 @@
       ]
     },
     {
-      "rank": 103,
+      "rank": 100,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Grillmastah",
@@ -5456,7 +5320,7 @@
       ]
     },
     {
-      "rank": 104,
+      "rank": 101,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Samed Güngör Live",
@@ -5509,7 +5373,7 @@
       ]
     },
     {
-      "rank": 105,
+      "rank": 102,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Azrilich",
@@ -5562,7 +5426,7 @@
       ]
     },
     {
-      "rank": 106,
+      "rank": 103,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Sonoket Gaming",
@@ -5614,7 +5478,7 @@
       ]
     },
     {
-      "rank": 107,
+      "rank": 104,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "iPICKmyBUTT",
@@ -5667,7 +5531,7 @@
       ]
     },
     {
-      "rank": 108,
+      "rank": 105,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "TheHolomovement",
@@ -5720,7 +5584,7 @@
       ]
     },
     {
-      "rank": 109,
+      "rank": 106,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Hultutigamer（フルツチ）",
@@ -5773,7 +5637,7 @@
       ]
     },
     {
-      "rank": 110,
+      "rank": 107,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "GriffyBit",
@@ -5826,7 +5690,7 @@
       ]
     },
     {
-      "rank": 111,
+      "rank": 108,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "mcveety",
@@ -5879,7 +5743,7 @@
       ]
     },
     {
-      "rank": 112,
+      "rank": 109,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Furry Hippo Gaming",
@@ -5932,7 +5796,7 @@
       ]
     },
     {
-      "rank": 113,
+      "rank": 110,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "OberkommissarT",
@@ -5985,7 +5849,7 @@
       ]
     },
     {
-      "rank": 114,
+      "rank": 111,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Stanz but Gaming",
@@ -6038,7 +5902,7 @@
       ]
     },
     {
-      "rank": 115,
+      "rank": 112,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "SuperAutoGaming",
@@ -6091,7 +5955,7 @@
       ]
     },
     {
-      "rank": 116,
+      "rank": 113,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Bonjwa Gaming",
@@ -6144,7 +6008,7 @@
       ]
     },
     {
-      "rank": 117,
+      "rank": 114,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "よよよ",
@@ -6197,7 +6061,7 @@
       ]
     },
     {
-      "rank": 118,
+      "rank": 115,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Geek Fight Games",
@@ -6250,7 +6114,7 @@
       ]
     },
     {
-      "rank": 119,
+      "rank": 116,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Rusty Champaign",
@@ -6303,7 +6167,7 @@
       ]
     },
     {
-      "rank": 120,
+      "rank": 117,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Zueljin Plays",
@@ -6356,7 +6220,7 @@
       ]
     },
     {
-      "rank": 121,
+      "rank": 118,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "はるお",
@@ -6409,7 +6273,7 @@
       ]
     },
     {
-      "rank": 122,
+      "rank": 119,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Nerfed Reflexes",
@@ -6462,7 +6326,7 @@
       ]
     },
     {
-      "rank": 123,
+      "rank": 120,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Assami Muzaki",
@@ -6522,7 +6386,7 @@
       ]
     },
     {
-      "rank": 124,
+      "rank": 121,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "AhkTaar Prime",
@@ -6575,7 +6439,7 @@
       ]
     },
     {
-      "rank": 125,
+      "rank": 122,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "AboboKnows",
@@ -6628,7 +6492,7 @@
       ]
     },
     {
-      "rank": 126,
+      "rank": 123,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "PolyMAOffline（Poly）",
@@ -6688,7 +6552,7 @@
       ]
     },
     {
-      "rank": 127,
+      "rank": 124,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Manfro",
@@ -6748,7 +6612,7 @@
       ]
     },
     {
-      "rank": 128,
+      "rank": 125,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "FungalBrainRot",
@@ -6801,7 +6665,7 @@
       ]
     },
     {
-      "rank": 129,
+      "rank": 126,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Flotidus",
@@ -6854,7 +6718,7 @@
       ]
     },
     {
-      "rank": 130,
+      "rank": 127,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Wraec - Gacha",
@@ -6907,7 +6771,7 @@
       ]
     },
     {
-      "rank": 131,
+      "rank": 128,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "shirlierox",
@@ -6960,7 +6824,7 @@
       ]
     },
     {
-      "rank": 132,
+      "rank": 129,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Кай стример",
@@ -7013,7 +6877,7 @@
       ]
     },
     {
-      "rank": 133,
+      "rank": 130,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Gaarawarr",
@@ -7057,7 +6921,7 @@
       ]
     },
     {
-      "rank": 134,
+      "rank": 131,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "RandomFlowerName",
@@ -7110,7 +6974,7 @@
       ]
     },
     {
-      "rank": 135,
+      "rank": 132,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "CG Grows",
@@ -7163,7 +7027,7 @@
       ]
     },
     {
-      "rank": 136,
+      "rank": 133,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "つばさま(ゲーム実況)",
@@ -7216,7 +7080,7 @@
       ]
     },
     {
-      "rank": 137,
+      "rank": 134,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "小月歡樂星",
@@ -7269,7 +7133,7 @@
       ]
     },
     {
-      "rank": 138,
+      "rank": 135,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Tyredack",
@@ -7322,7 +7186,7 @@
       ]
     },
     {
-      "rank": 139,
+      "rank": 136,
       "priority": "第二推荐",
       "priorityTier": 2,
       "name": "Skagokalipsis",
@@ -7375,7 +7239,7 @@
       ]
     },
     {
-      "rank": 140,
+      "rank": 137,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Fiouze",
@@ -7426,7 +7290,7 @@
       ]
     },
     {
-      "rank": 141,
+      "rank": 138,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "ナカイドのゲーム情報チャンネル",
@@ -7472,7 +7336,7 @@
       ]
     },
     {
-      "rank": 142,
+      "rank": 139,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "ふつうのくま",
@@ -7518,7 +7382,7 @@
       ]
     },
     {
-      "rank": 143,
+      "rank": 140,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "JGigs",
@@ -7562,7 +7426,7 @@
       ]
     },
     {
-      "rank": 144,
+      "rank": 141,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Murtork",
@@ -7615,7 +7479,7 @@
       ]
     },
     {
-      "rank": 145,
+      "rank": 142,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Games Puff",
@@ -7659,7 +7523,7 @@
       ]
     },
     {
-      "rank": 146,
+      "rank": 143,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "MTS Oyun Kanalı",
@@ -7712,7 +7576,7 @@
       ]
     },
     {
-      "rank": 147,
+      "rank": 144,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Indie Choi",
@@ -7756,7 +7620,7 @@
       ]
     },
     {
-      "rank": 148,
+      "rank": 145,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Jyku Plays",
@@ -7802,7 +7666,7 @@
       ]
     },
     {
-      "rank": 149,
+      "rank": 146,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "まよちき!",
@@ -7855,7 +7719,7 @@
       ]
     },
     {
-      "rank": 150,
+      "rank": 147,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "The Indie Brew",
@@ -7905,7 +7769,7 @@
       ]
     },
     {
-      "rank": 151,
+      "rank": 148,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "BonzosTower",
@@ -7958,7 +7822,7 @@
       ]
     },
     {
-      "rank": 152,
+      "rank": 149,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Taggz",
@@ -8011,7 +7875,7 @@
       ]
     },
     {
-      "rank": 153,
+      "rank": 150,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Shokow",
@@ -8062,7 +7926,7 @@
       ]
     },
     {
-      "rank": 154,
+      "rank": 151,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "GobGG - VOD Multigaming",
@@ -8108,7 +7972,7 @@
       ]
     },
     {
-      "rank": 155,
+      "rank": 152,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Dreamer",
@@ -8161,7 +8025,7 @@
       ]
     },
     {
-      "rank": 156,
+      "rank": 153,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Во что поиграть?",
@@ -8214,7 +8078,7 @@
       ]
     },
     {
-      "rank": 157,
+      "rank": 154,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Yaoye夭夜",
@@ -8267,7 +8131,7 @@
       ]
     },
     {
-      "rank": 158,
+      "rank": 155,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Maybe Sarisa",
@@ -8317,7 +8181,7 @@
       ]
     },
     {
-      "rank": 159,
+      "rank": 156,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "BonneT LessKrau (VOD)",
@@ -8369,7 +8233,7 @@
       ]
     },
     {
-      "rank": 160,
+      "rank": 157,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Blitz",
@@ -8422,7 +8286,7 @@
       ]
     },
     {
-      "rank": 161,
+      "rank": 158,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "BaronVonGames",
@@ -8468,7 +8332,7 @@
       ]
     },
     {
-      "rank": 162,
+      "rank": 159,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Menos Trece",
@@ -8520,7 +8384,7 @@
       ]
     },
     {
-      "rank": 163,
+      "rank": 160,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "LolloLacustre",
@@ -8566,7 +8430,7 @@
       ]
     },
     {
-      "rank": 164,
+      "rank": 161,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "MoistCr1TiKaL Gaming",
@@ -8612,7 +8476,7 @@
       ]
     },
     {
-      "rank": 165,
+      "rank": 162,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Dragoon",
@@ -8665,7 +8529,7 @@
       ]
     },
     {
-      "rank": 166,
+      "rank": 163,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "EJStory",
@@ -8711,7 +8575,7 @@
       ]
     },
     {
-      "rank": 167,
+      "rank": 164,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Kripparrian",
@@ -8764,7 +8628,7 @@
       ]
     },
     {
-      "rank": 168,
+      "rank": 165,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Bastian",
@@ -8808,7 +8672,7 @@
       ]
     },
     {
-      "rank": 169,
+      "rank": 166,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "RossBoomsocks",
@@ -8861,7 +8725,7 @@
       ]
     },
     {
-      "rank": 170,
+      "rank": 167,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Dead Squirrel",
@@ -8914,7 +8778,7 @@
       ]
     },
     {
-      "rank": 171,
+      "rank": 168,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "썩쏘TV",
@@ -8960,7 +8824,7 @@
       ]
     },
     {
-      "rank": 172,
+      "rank": 169,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Stark Panzer",
@@ -9006,7 +8870,7 @@
       ]
     },
     {
-      "rank": 173,
+      "rank": 170,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "GamePlaysCassi",
@@ -9051,7 +8915,7 @@
       ]
     },
     {
-      "rank": 174,
+      "rank": 171,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Dobrodziej",
@@ -9104,7 +8968,7 @@
       ]
     },
     {
-      "rank": 175,
+      "rank": 172,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "フルコンチャンネル",
@@ -9157,7 +9021,7 @@
       ]
     },
     {
-      "rank": 176,
+      "rank": 173,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Best Indie Games",
@@ -9208,7 +9072,7 @@
       ]
     },
     {
-      "rank": 177,
+      "rank": 174,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Deathweaver",
@@ -9254,7 +9118,7 @@
       ]
     },
     {
-      "rank": 178,
+      "rank": 175,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Richard_Hammer",
@@ -9304,7 +9168,7 @@
       ]
     },
     {
-      "rank": 179,
+      "rank": 176,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "けそポテト",
@@ -9357,7 +9221,7 @@
       ]
     },
     {
-      "rank": 180,
+      "rank": 177,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Silithur V",
@@ -9409,7 +9273,7 @@
       ]
     },
     {
-      "rank": 181,
+      "rank": 178,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Walkrman",
@@ -9462,7 +9326,7 @@
       ]
     },
     {
-      "rank": 182,
+      "rank": 179,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Millbeeful",
@@ -9513,7 +9377,7 @@
       ]
     },
     {
-      "rank": 183,
+      "rank": 180,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Clem NFT",
@@ -9564,7 +9428,7 @@
       ]
     },
     {
-      "rank": 184,
+      "rank": 181,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Hadomancer",
@@ -9615,7 +9479,7 @@
       ]
     },
     {
-      "rank": 185,
+      "rank": 182,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "いぬけん",
@@ -9668,7 +9532,7 @@
       ]
     },
     {
-      "rank": 186,
+      "rank": 183,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Final Boss Project",
@@ -9713,7 +9577,7 @@
       ]
     },
     {
-      "rank": 187,
+      "rank": 184,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Krayn",
@@ -9757,7 +9621,7 @@
       ]
     },
     {
-      "rank": 188,
+      "rank": 185,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "GeneracionActual",
@@ -9807,7 +9671,7 @@
       ]
     },
     {
-      "rank": 189,
+      "rank": 186,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Mynthos",
@@ -9858,7 +9722,7 @@
       ]
     },
     {
-      "rank": 190,
+      "rank": 187,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Rumathandrial the 3rd",
@@ -9911,7 +9775,7 @@
       ]
     },
     {
-      "rank": 191,
+      "rank": 188,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Malakye G",
@@ -9964,7 +9828,7 @@
       ]
     },
     {
-      "rank": 192,
+      "rank": 189,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Shisheyu",
@@ -10015,7 +9879,7 @@
       ]
     },
     {
-      "rank": 193,
+      "rank": 190,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Longplay Express",
@@ -10061,7 +9925,7 @@
       ]
     },
     {
-      "rank": 194,
+      "rank": 191,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Orhun Kayaalp Let's Play",
@@ -10107,7 +9971,7 @@
       ]
     },
     {
-      "rank": 195,
+      "rank": 192,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "The Geek Cupboard",
@@ -10153,7 +10017,7 @@
       ]
     },
     {
-      "rank": 196,
+      "rank": 193,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Diegola",
@@ -10206,7 +10070,7 @@
       ]
     },
     {
-      "rank": 197,
+      "rank": 194,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "CosasdeNoobs",
@@ -10259,7 +10123,7 @@
       ]
     },
     {
-      "rank": 198,
+      "rank": 195,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "花現新大鹿DoeDaDa",
@@ -10312,7 +10176,7 @@
       ]
     },
     {
-      "rank": 199,
+      "rank": 196,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Let's Get Miserable",
@@ -10365,7 +10229,7 @@
       ]
     },
     {
-      "rank": 200,
+      "rank": 197,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "The Scarlet Seeker",
@@ -10411,7 +10275,7 @@
       ]
     },
     {
-      "rank": 201,
+      "rank": 198,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "てけてけ遊びちゃんねる",
@@ -10464,7 +10328,7 @@
       ]
     },
     {
-      "rank": 202,
+      "rank": 199,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Codz",
@@ -10510,7 +10374,7 @@
       ]
     },
     {
-      "rank": 203,
+      "rank": 200,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Artiar",
@@ -10563,7 +10427,7 @@
       ]
     },
     {
-      "rank": 204,
+      "rank": 201,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Marmotte Gaming",
@@ -10608,7 +10472,7 @@
       ]
     },
     {
-      "rank": 205,
+      "rank": 202,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "WarlockTD",
@@ -10661,7 +10525,7 @@
       ]
     },
     {
-      "rank": 206,
+      "rank": 203,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Republic Game",
@@ -10714,7 +10578,7 @@
       ]
     },
     {
-      "rank": 207,
+      "rank": 204,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "にぇん",
@@ -10767,7 +10631,7 @@
       ]
     },
     {
-      "rank": 208,
+      "rank": 205,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Trynet123",
@@ -10817,7 +10681,7 @@
       ]
     },
     {
-      "rank": 209,
+      "rank": 206,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "TUMA",
@@ -10870,7 +10734,7 @@
       ]
     },
     {
-      "rank": 210,
+      "rank": 207,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "The Dutch Actuary",
@@ -10916,7 +10780,7 @@
       ]
     },
     {
-      "rank": 211,
+      "rank": 208,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "zubu",
@@ -10955,7 +10819,7 @@
       ]
     },
     {
-      "rank": 212,
+      "rank": 209,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Keenoe Plays",
@@ -11008,7 +10872,7 @@
       ]
     },
     {
-      "rank": 213,
+      "rank": 210,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Rizzoli",
@@ -11061,7 +10925,7 @@
       ]
     },
     {
-      "rank": 214,
+      "rank": 211,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "AlemaoNFT",
@@ -11114,7 +10978,7 @@
       ]
     },
     {
-      "rank": 215,
+      "rank": 212,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Thet",
@@ -11160,7 +11024,7 @@
       ]
     },
     {
-      "rank": 216,
+      "rank": 213,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Voyix",
@@ -11206,7 +11070,7 @@
       ]
     },
     {
-      "rank": 217,
+      "rank": 214,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "遊戲雜談館",
@@ -11259,7 +11123,7 @@
       ]
     },
     {
-      "rank": 218,
+      "rank": 215,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "最終の哈姆",
@@ -11312,7 +11176,7 @@
       ]
     },
     {
-      "rank": 219,
+      "rank": 216,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "EuSouOGiba",
@@ -11365,7 +11229,7 @@
       ]
     },
     {
-      "rank": 220,
+      "rank": 217,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "PunNoFun",
@@ -11411,7 +11275,7 @@
       ]
     },
     {
-      "rank": 221,
+      "rank": 218,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "STEAMATE",
@@ -11464,7 +11328,7 @@
       ]
     },
     {
-      "rank": 222,
+      "rank": 219,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Sleepy Cat",
@@ -11517,7 +11381,7 @@
       ]
     },
     {
-      "rank": 223,
+      "rank": 220,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Task Bar Hero Dicas",
@@ -11570,7 +11434,7 @@
       ]
     },
     {
-      "rank": 224,
+      "rank": 221,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Spartan",
@@ -11623,7 +11487,7 @@
       ]
     },
     {
-      "rank": 225,
+      "rank": 222,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Foxmaiden",
@@ -11668,7 +11532,7 @@
       ]
     },
     {
-      "rank": 226,
+      "rank": 223,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Neofox",
@@ -11718,7 +11582,7 @@
       ]
     },
     {
-      "rank": 227,
+      "rank": 224,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Doofus Mcdooface",
@@ -11764,7 +11628,7 @@
       ]
     },
     {
-      "rank": 228,
+      "rank": 225,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "리키리킹",
@@ -11817,7 +11681,7 @@
       ]
     },
     {
-      "rank": 229,
+      "rank": 226,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "KultZ",
@@ -11863,7 +11727,7 @@
       ]
     },
     {
-      "rank": 230,
+      "rank": 227,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "よぷを",
@@ -11916,7 +11780,7 @@
       ]
     },
     {
-      "rank": 231,
+      "rank": 228,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "きーうぃk( i w i )",
@@ -11969,7 +11833,7 @@
       ]
     },
     {
-      "rank": 232,
+      "rank": 229,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "RoosterPB",
@@ -12015,7 +11879,61 @@
       ]
     },
     {
-      "rank": 233,
+      "rank": 230,
+      "priority": "第三推荐",
+      "priorityTier": 3,
+      "name": "Elaps",
+      "platform": "YouTube",
+      "profileUrl": "https://www.youtube.com/@Elapsss",
+      "language": "法语",
+      "languageGroup": "法语",
+      "region": "法国",
+      "subscribers": "9.67K",
+      "subscribersCheckedAt": "2026-11-24",
+      "niche": "idle/incremental",
+      "fit": "中",
+      "reason": "法语白金/百分百通关频道，常把 Incremental 打到全成就（“3 Incrementaux en une vidéo”、捡 100 万金币等），单条播放 1.6–9 万。",
+      "limitations": "简介邮箱标注为“Mail pro Montage”（剪辑合作），是否收游戏邀请待核；偏成就向；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在",
+      "contact": "待核",
+      "contactType": "待核",
+      "contactSource": "待核",
+      "sendChannel": "暂无可用公开渠道（原记 elps.edit.pro@gmail.com：简介原文「Mail pro Montage」，只接剪辑工作，不能用于游戏邀请）",
+      "outreachStatus": "新增（未联系）",
+      "latestActivity": {
+        "title": "J’ai ramassé 1 MILLION de pièces pour ce 100%",
+        "url": "https://www.youtube.com/watch?v=BgHqymVvCkU",
+        "date": "2026-11-22",
+        "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
+      },
+      "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "contactNote": "原记 elps.edit.pro@gmail.com：简介原文「Mail pro Montage」，只接剪辑工作，不能用于游戏邀请",
+      "taiwan": false,
+      "samples": [
+        {
+          "game": "待核（标题未写游戏名，捡 100 万金币）",
+          "title": "J’ai ramassé 1 MILLION de pièces pour ce 100%",
+          "url": "https://www.youtube.com/watch?v=BgHqymVvCkU",
+          "date": "2026-11-22",
+          "views": 16477
+        },
+        {
+          "game": "待核（标题未写游戏名，扫落叶）",
+          "title": "J'ai ramassé PLUS DE 500 000 FEUILLES pour ce PLATINE",
+          "url": "https://www.youtube.com/watch?v=hqqR9AIgYzU",
+          "date": "2026-11-12",
+          "views": 55231
+        },
+        {
+          "game": "待核（三款增量合集）",
+          "title": "J'ai PLATINE 3 Incrementaux en UNE SEULE vidéo",
+          "url": "https://www.youtube.com/watch?v=fIzaM7B7gjI",
+          "date": "2026-07-19",
+          "views": 44287
+        }
+      ]
+    },
+    {
+      "rank": 231,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Carbrickscity",
@@ -12061,7 +11979,7 @@
       ]
     },
     {
-      "rank": 234,
+      "rank": 232,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "게임찍먹 전문 겜노인",
@@ -12107,7 +12025,7 @@
       ]
     },
     {
-      "rank": 235,
+      "rank": 233,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "BreagoKeK",
@@ -12160,7 +12078,7 @@
       ]
     },
     {
-      "rank": 236,
+      "rank": 234,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Cobrak Strategy",
@@ -12213,7 +12131,7 @@
       ]
     },
     {
-      "rank": 237,
+      "rank": 235,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Exvarghra GameLog",
@@ -12259,7 +12177,7 @@
       ]
     },
     {
-      "rank": 238,
+      "rank": 236,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "MinhArte",
@@ -12312,7 +12230,7 @@
       ]
     },
     {
-      "rank": 239,
+      "rank": 237,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Steam Money | Все о заработке в стим",
@@ -12365,7 +12283,7 @@
       ]
     },
     {
-      "rank": 240,
+      "rank": 238,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Gamer쿠그너즈",
@@ -12411,7 +12329,7 @@
       ]
     },
     {
-      "rank": 241,
+      "rank": 239,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "ああああ",
@@ -12464,7 +12382,7 @@
       ]
     },
     {
-      "rank": 242,
+      "rank": 240,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "GPH Streams",
@@ -12517,7 +12435,7 @@
       ]
     },
     {
-      "rank": 243,
+      "rank": 241,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "TwoBiers",
@@ -12568,7 +12486,7 @@
       ]
     },
     {
-      "rank": 244,
+      "rank": 242,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "昭柴猫的猫老师",
@@ -12621,7 +12539,7 @@
       ]
     },
     {
-      "rank": 245,
+      "rank": 243,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Zenaton",
@@ -12671,7 +12589,7 @@
       ]
     },
     {
-      "rank": 246,
+      "rank": 244,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "老頭Z | 遊戲實測站",
@@ -12724,7 +12642,7 @@
       ]
     },
     {
-      "rank": 247,
+      "rank": 245,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Pantsuman",
@@ -12774,7 +12692,7 @@
       ]
     },
     {
-      "rank": 248,
+      "rank": 246,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Skirmish",
@@ -12827,7 +12745,7 @@
       ]
     },
     {
-      "rank": 249,
+      "rank": 247,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Bruel Games",
@@ -12880,7 +12798,7 @@
       ]
     },
     {
-      "rank": 250,
+      "rank": 248,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Rahresh",
@@ -12930,7 +12848,7 @@
       ]
     },
     {
-      "rank": 251,
+      "rank": 249,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Midway",
@@ -12983,7 +12901,7 @@
       ]
     },
     {
-      "rank": 252,
+      "rank": 250,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Greeny",
@@ -13036,7 +12954,7 @@
       ]
     },
     {
-      "rank": 253,
+      "rank": 251,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Grounded SAP",
@@ -13089,7 +13007,7 @@
       ]
     },
     {
-      "rank": 254,
+      "rank": 252,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "숲속의늑대",
@@ -13135,7 +13053,7 @@
       ]
     },
     {
-      "rank": 255,
+      "rank": 253,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "TheGamesBrew（Roy Lovat）",
@@ -13188,7 +13106,7 @@
       ]
     },
     {
-      "rank": 256,
+      "rank": 254,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "knisce",
@@ -13241,7 +13159,7 @@
       ]
     },
     {
-      "rank": 257,
+      "rank": 255,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Force Indie",
@@ -13285,7 +13203,7 @@
       ]
     },
     {
-      "rank": 258,
+      "rank": 256,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Sir Drae",
@@ -13337,7 +13255,7 @@
       ]
     },
     {
-      "rank": 259,
+      "rank": 257,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "미스터 M",
@@ -13390,7 +13308,7 @@
       ]
     },
     {
-      "rank": 260,
+      "rank": 258,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Jugando Indies",
@@ -13440,7 +13358,7 @@
       ]
     },
     {
-      "rank": 261,
+      "rank": 259,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Vladik Hex",
@@ -13493,7 +13411,7 @@
       ]
     },
     {
-      "rank": 262,
+      "rank": 260,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Ken Cikas",
@@ -13546,7 +13464,7 @@
       ]
     },
     {
-      "rank": 263,
+      "rank": 261,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "ネストのゆっくりローグライク実況ch",
@@ -13599,7 +13517,7 @@
       ]
     },
     {
-      "rank": 264,
+      "rank": 262,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Haikrazon",
@@ -13652,7 +13570,7 @@
       ]
     },
     {
-      "rank": 265,
+      "rank": 263,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "JustPatrick-Idle",
@@ -13705,7 +13623,7 @@
       ]
     },
     {
-      "rank": 266,
+      "rank": 264,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "mikevalentine",
@@ -13755,7 +13673,7 @@
       ]
     },
     {
-      "rank": 267,
+      "rank": 265,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Free to Play Games",
@@ -13808,7 +13726,7 @@
       ]
     },
     {
-      "rank": 268,
+      "rank": 266,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Pulse, Super Idle",
@@ -13861,7 +13779,7 @@
       ]
     },
     {
-      "rank": 269,
+      "rank": 267,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Chewieee",
@@ -13914,7 +13832,7 @@
       ]
     },
     {
-      "rank": 270,
+      "rank": 268,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "CozyAriGames",
@@ -13965,7 +13883,7 @@
       ]
     },
     {
-      "rank": 271,
+      "rank": 269,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "WhiteFalcon Plays",
@@ -14018,7 +13936,7 @@
       ]
     },
     {
-      "rank": 272,
+      "rank": 270,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "かぐやそら",
@@ -14071,7 +13989,7 @@
       ]
     },
     {
-      "rank": 273,
+      "rank": 271,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Ikarus_",
@@ -14121,7 +14039,7 @@
       ]
     },
     {
-      "rank": 274,
+      "rank": 272,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "胖叔打游戏",
@@ -14174,7 +14092,7 @@
       ]
     },
     {
-      "rank": 275,
+      "rank": 273,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "LuckOuts",
@@ -14227,7 +14145,7 @@
       ]
     },
     {
-      "rank": 276,
+      "rank": 274,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Lembyie (Лемби)",
@@ -14280,7 +14198,7 @@
       ]
     },
     {
-      "rank": 277,
+      "rank": 275,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Apooche",
@@ -14330,7 +14248,7 @@
       ]
     },
     {
-      "rank": 278,
+      "rank": 276,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "smojo.",
@@ -14383,7 +14301,7 @@
       ]
     },
     {
-      "rank": 279,
+      "rank": 277,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "푸딩2",
@@ -14429,7 +14347,7 @@
       ]
     },
     {
-      "rank": 280,
+      "rank": 278,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "717 clicks",
@@ -14482,7 +14400,7 @@
       ]
     },
     {
-      "rank": 281,
+      "rank": 279,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "afkwoot",
@@ -14532,7 +14450,7 @@
       ]
     },
     {
-      "rank": 282,
+      "rank": 280,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Tap B For Bacon",
@@ -14585,7 +14503,7 @@
       ]
     },
     {
-      "rank": 283,
+      "rank": 281,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Once94",
@@ -14629,7 +14547,7 @@
       ]
     },
     {
-      "rank": 284,
+      "rank": 282,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Zefa",
@@ -14682,7 +14600,7 @@
       ]
     },
     {
-      "rank": 285,
+      "rank": 283,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Sayori Idle",
@@ -14735,7 +14653,7 @@
       ]
     },
     {
-      "rank": 286,
+      "rank": 284,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "マイナーゲームナビ !「おすすめインディーゲーム紹介ch」",
@@ -14788,7 +14706,7 @@
       ]
     },
     {
-      "rank": 287,
+      "rank": 285,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "SuperSpruce",
@@ -14841,7 +14759,7 @@
       ]
     },
     {
-      "rank": 288,
+      "rank": 286,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "ピカ様",
@@ -14894,7 +14812,7 @@
       ]
     },
     {
-      "rank": 289,
+      "rank": 287,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Skuub",
@@ -14940,7 +14858,7 @@
       ]
     },
     {
-      "rank": 290,
+      "rank": 288,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Chrisp44s",
@@ -14986,7 +14904,7 @@
       ]
     },
     {
-      "rank": 291,
+      "rank": 289,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "C4lmont",
@@ -15038,7 +14956,7 @@
       ]
     },
     {
-      "rank": 292,
+      "rank": 290,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "MiniMatt",
@@ -15082,7 +15000,7 @@
       ]
     },
     {
-      "rank": 293,
+      "rank": 291,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Santiago Play",
@@ -15135,7 +15053,7 @@
       ]
     },
     {
-      "rank": 294,
+      "rank": 292,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "whisperzz_live",
@@ -15185,7 +15103,7 @@
       ]
     },
     {
-      "rank": 295,
+      "rank": 293,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "will309productions",
@@ -15238,7 +15156,7 @@
       ]
     },
     {
-      "rank": 296,
+      "rank": 294,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "JAMMA GAMING",
@@ -15291,7 +15209,7 @@
       ]
     },
     {
-      "rank": 297,
+      "rank": 295,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Fuyn XP",
@@ -15336,7 +15254,7 @@
       ]
     },
     {
-      "rank": 298,
+      "rank": 296,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "孖寶遊戲頻道",
@@ -15389,7 +15307,7 @@
       ]
     },
     {
-      "rank": 299,
+      "rank": 297,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Idle Farrell",
@@ -15442,7 +15360,7 @@
       ]
     },
     {
-      "rank": 300,
+      "rank": 298,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Slow Mo",
@@ -15495,7 +15413,7 @@
       ]
     },
     {
-      "rank": 301,
+      "rank": 299,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "veetoqc",
@@ -15545,7 +15463,7 @@
       ]
     },
     {
-      "rank": 302,
+      "rank": 300,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Phima",
@@ -15595,7 +15513,7 @@
       ]
     },
     {
-      "rank": 303,
+      "rank": 301,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Mast",
@@ -15648,7 +15566,7 @@
       ]
     },
     {
-      "rank": 304,
+      "rank": 302,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "thecapnkBR",
@@ -15701,7 +15619,7 @@
       ]
     },
     {
-      "rank": 305,
+      "rank": 303,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "KelbyMG",
@@ -15751,7 +15669,7 @@
       ]
     },
     {
-      "rank": 306,
+      "rank": 304,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Squid RPG",
@@ -15797,7 +15715,7 @@
       ]
     },
     {
-      "rank": 307,
+      "rank": 305,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "GRINDING CURRENCY",
@@ -15843,7 +15761,7 @@
       ]
     },
     {
-      "rank": 308,
+      "rank": 306,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Moskotomo",
@@ -15895,7 +15813,7 @@
       ]
     },
     {
-      "rank": 309,
+      "rank": 307,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "LeoDriango",
@@ -15945,7 +15863,7 @@
       ]
     },
     {
-      "rank": 310,
+      "rank": 308,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "서토리의 게임카페!",
@@ -15998,7 +15916,7 @@
       ]
     },
     {
-      "rank": 311,
+      "rank": 309,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Idle Zeroes",
@@ -16051,7 +15969,7 @@
       ]
     },
     {
-      "rank": 312,
+      "rank": 310,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "AskaAndTheWolf",
@@ -16101,7 +16019,7 @@
       ]
     },
     {
-      "rank": 313,
+      "rank": 311,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "DemonAce227",
@@ -16146,7 +16064,7 @@
       ]
     },
     {
-      "rank": 314,
+      "rank": 312,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "AxionEvolved",
@@ -16199,7 +16117,7 @@
       ]
     },
     {
-      "rank": 315,
+      "rank": 313,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "せかまつ【終末世界系ゲームch】",
@@ -16252,7 +16170,7 @@
       ]
     },
     {
-      "rank": 316,
+      "rank": 314,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "ZweiMarcFuffzig",
@@ -16304,7 +16222,7 @@
       ]
     },
     {
-      "rank": 317,
+      "rank": 315,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "XP Kolik",
@@ -16357,7 +16275,7 @@
       ]
     },
     {
-      "rank": 318,
+      "rank": 316,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Steelsane",
@@ -16407,7 +16325,7 @@
       ]
     },
     {
-      "rank": 319,
+      "rank": 317,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "霊夢のひまつぶし。",
@@ -16453,7 +16371,7 @@
       ]
     },
     {
-      "rank": 320,
+      "rank": 318,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "XCalibur",
@@ -16506,7 +16424,7 @@
       ]
     },
     {
-      "rank": 321,
+      "rank": 319,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "老獅",
@@ -16559,7 +16477,7 @@
       ]
     },
     {
-      "rank": 322,
+      "rank": 320,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Arteo Pixel",
@@ -16612,7 +16530,7 @@
       ]
     },
     {
-      "rank": 323,
+      "rank": 321,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "/うい",
@@ -16665,7 +16583,7 @@
       ]
     },
     {
-      "rank": 324,
+      "rank": 322,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "EthanDX",
@@ -16718,7 +16636,7 @@
       ]
     },
     {
-      "rank": 325,
+      "rank": 323,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Normalhs",
@@ -16771,7 +16689,7 @@
       ]
     },
     {
-      "rank": 326,
+      "rank": 324,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "IdleAlex",
@@ -16824,7 +16742,7 @@
       ]
     },
     {
-      "rank": 327,
+      "rank": 325,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Pooplove Plays",
@@ -16877,7 +16795,7 @@
       ]
     },
     {
-      "rank": 328,
+      "rank": 326,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "DeeN",
@@ -16930,7 +16848,7 @@
       ]
     },
     {
-      "rank": 329,
+      "rank": 327,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "먼로의 메이플키우기",
@@ -16983,7 +16901,7 @@
       ]
     },
     {
-      "rank": 330,
+      "rank": 328,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Batza",
@@ -17036,7 +16954,7 @@
       ]
     },
     {
-      "rank": 331,
+      "rank": 329,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "The Incremental Engineer",
@@ -17089,7 +17007,7 @@
       ]
     },
     {
-      "rank": 332,
+      "rank": 330,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "The Roach Zone",
@@ -17142,7 +17060,7 @@
       ]
     },
     {
-      "rank": 333,
+      "rank": 331,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Jürgens Pott",
@@ -17195,7 +17113,7 @@
       ]
     },
     {
-      "rank": 334,
+      "rank": 332,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "Meruwem",
@@ -17248,7 +17166,7 @@
       ]
     },
     {
-      "rank": 335,
+      "rank": 333,
       "priority": "第三推荐",
       "priorityTier": 3,
       "name": "팰까 종합게임",

@@ -4,18 +4,18 @@
 
 ## 结论
 
-- 去重后新增 **335 位**（目标保底 100）。公开邮箱 **111** 位、公开表单 **3** 位。
-- 各语言（归类）：英语 145（邮箱 41）、日语 34（邮箱 9）、俄语 31（邮箱 13）、韩语 25（邮箱 15）、其他语种 20（邮箱 6）、法语 18（邮箱 10）、葡萄牙语(巴西) 16（邮箱 2）、西班牙语 15（邮箱 4）、德语 14（邮箱 4）、繁体中文(台湾) 13（邮箱 7）、华语(港澳及其他) 4（邮箱 0）
-- 语言原始标注：英语 145、日语 34、俄语 31、韩语 25、法语 18、葡萄牙语(巴西) 16、西班牙语 15、德语 14、繁体中文(台湾) 13、其他：土耳其语 6、其他：意大利语 6、其他：波兰语 2、其他：匈牙利语 2、其他：印尼语 2、其他：越南语 1、繁体中文(香港) 1、中文（简繁混用，待核） 1、中文（繁体为主，简繁混用，待核） 1、其他：土耳其语简介/英文标题（待核） 1、繁体中文（粤语用字，待核） 1
-- 各平台：YouTube 316、Twitch 19
-- 优先级：第一推荐 40、第二推荐 99、第三推荐 196
+- 去重后新增 **333 位**（目标保底 100）。公开邮箱 **111** 位、公开表单 **0** 位。
+- 各语言（归类）：英语 145（邮箱 41）、日语 32（邮箱 9）、俄语 31（邮箱 13）、韩语 25（邮箱 15）、其他语种 20（邮箱 7）、法语 18（邮箱 9）、葡萄牙语(巴西) 16（邮箱 2）、西班牙语 15（邮箱 4）、德语 14（邮箱 4）、繁体中文(台湾) 13（邮箱 7）、华语(港澳及其他) 4（邮箱 0）
+- 语言原始标注：英语 145、日语 32、俄语 31、韩语 25、法语 18、葡萄牙语(巴西) 16、西班牙语 15、德语 14、繁体中文(台湾) 13、其他：土耳其语 6、其他：意大利语 6、其他：波兰语 2、其他：匈牙利语 2、其他：印尼语 2、其他：越南语 1、繁体中文(香港) 1、中文（简繁混用，待核） 1、中文（繁体为主，简繁混用，待核） 1、其他：土耳其语简介/英文标题（待核） 1、繁体中文（粤语用字，待核） 1
+- 各平台：YouTube 314、Twitch 19
+- 优先级：第一推荐 25、第二推荐 111、第三推荐 197
 - 台湾创作者：13 位（单独标「台湾」，用繁中邀请稿）。
 - 对照旧名单拦下 58 位（其中已联系 28 位），不计入新增，见文末。
 - 复核：312 个 YouTube 频道用公开 RSS 复核，747 条样例视频确认属于该频道并取得准确日期/播放；140 条不在 RSS 最近 15 条内，保留子对话实测值或「待核」。
-- 订阅数与频道 ID：312 个 YouTube 频道按 /about 页本频道数据低速重核，改正 45 个订阅数（早期抓取工具会误取推荐频道的数字），4 个页面读取失败的保留原值并在局限里注明。Twitch 19 位的粉丝数取自公开页或统计站，来源见各条。
-- 抽查：随机 6 个公开邮箱逐一回到来源页核对，6/6 在频道简介或视频说明中原文可见。
 
 **口径：** 订阅/粉丝数为 2026-11-24 公开页原文；样例为最近的放置/搬砖类视频；联系方式只收频道简介或视频说明里明文写出的商务邮箱/表单。YouTube 关于页「查看电子邮件地址」按钮需要登录和人机验证，没有点，这类写「待核」；「隐藏邮箱按钮」是未登录状态下的检测，全部为否不代表频道没有商务邮箱。拿不到的一律写「待核」，没有估算。调研中途本机被 YouTube 限流（429），后半段改用 RSS/oEmbed/WebSearch。
+
+**Codex专用 核实（11-24）：** 第一推荐 40 位及 Elaps 已逐个回公开页核过（记录 `docs/outreach/CC_海外名单20261125核实_1124.md`）：改了 5 处联系方式/来源/档期、剔除 2 位只接付费的（くろろじちゃんねる、しろこりGames）、Elaps 的剪辑专用邮箱不用、12 位按建议降级、5 位理由改字；第二、第三推荐的 71 个邮箱尚未逐个核。
 
 **优先级：** 第一推荐 = 近 30 天有放置/搬砖类视频 + 有公开邮箱/表单 + 订阅 ≥5K + 题材高度对口；第二推荐 = 差一项；第三推荐 = 其余入选者。
 
@@ -23,343 +23,341 @@
 
 邀请稿：英语及其他语言用 `docs/outreach/templates/overseas-idle-invitation-20261125-v3-en.txt`，日语 `ja.txt`，韩语 `ko.txt`，台湾/繁中 `zh-TW.txt`（v3 已经 Codex专用 核实，**倦猫逐字确认前不得发送**）。CSV 版：`docs/outreach/2026-11-25-overseas-idle-sendlist.csv`。
 
-|#|优先级|创作者|平台|语言/地区|订阅|联系渠道|邀请稿|
-|---:|---|---|---|---|---|---|---|
-|1|第一推荐|[Waligug](https://www.youtube.com/@Waligug)|YouTube|英语/待核|879K|邮箱：waligug@gmail.com|en|
-|2|第一推荐|[Skoottie](https://www.youtube.com/@Skoottie)|YouTube|英语/待核|440K|邮箱：skoottie@clovertalent.gg|en|
-|3|第一推荐|[Lice萊斯](https://www.youtube.com/@LiceMoo)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|340K|邮箱：lice.moo@hotmail.com|zh-TW|
-|4|第一推荐|[Maxims Zweitkanal](https://www.youtube.com/@maximszweitkanal)|YouTube|德语/德国|272K|邮箱：maxim@instinct3.de|en|
-|5|第一推荐|[Gohjoe](https://www.youtube.com/@Gohjoe)|YouTube|英语/待核|201K|邮箱：gohjoebusiness@gmail.com|en|
-|6|第一推荐|[Kaiffu](https://www.youtube.com/@Kaiffu)|YouTube|英语/待核|196K|邮箱：Kaif@saltraiders.com|en|
-|7|第一推荐|[PFY玩給你看](https://www.youtube.com/@pfytw)|YouTube|繁体中文(台湾)/台湾（台湾）|151K|邮箱：playforyoutw@gmail.com|zh-TW|
-|8|第一推荐|[MKxJUMP](https://www.youtube.com/@MKxJUMP)|YouTube|英语/英国|102K|邮箱：admin@mkxjump.com|en|
-|9|第一推荐|[NQH](https://www.youtube.com/@NQH-X)|YouTube|其他语种/越南（about 页 Country: Vietnam）|82.3K|邮箱：nguyenquochuy1094@gmail.com|en|
-|10|第一推荐|[Only Incrementals](https://www.youtube.com/@OnlyIndies)|YouTube|西班牙语/西班牙|81K|邮箱：gerierwarwick@gmail.com|en|
-|11|第一推荐|[MOREQUIS](https://www.youtube.com/@Morequis)|YouTube|英语/待核|67K|邮箱：collaborations@morequis.com|en|
-|12|第一推荐|[たまチャンネル](https://www.youtube.com/@たまチャンネル)|YouTube|日语/日本（待核）|58.4K|邮箱：tamachannel@youdaoads.com|ja|
-|13|第一推荐|[kakakyjla](https://www.youtube.com/@kakakyjla)|YouTube|俄语/待核|53.4K|邮箱：kakakyjla@gmail.com|en|
-|14|第一推荐|[김더미](https://www.youtube.com/@DummyKim)|YouTube|韩语/韩国|50.4K|邮箱：omen6101@gmail.com|ko|
-|15|第一推荐|[Ggyu tube](https://www.youtube.com/@Ggyutube)|YouTube|韩语/韩国|49.3K|邮箱：mkt@metaplug.co.kr|ko|
-|16|第一推荐|[Tama【ゲーム紹介ch】](https://www.youtube.com/@tama1370)|YouTube|日语/日本（待核）|49.1K|邮箱：sosbrigade276@gmail.com（简介原文写作 sosbrigade276☆gmail.com）|ja|
-|17|第一推荐|[RundPhunkRoyal](https://www.youtube.com/@RundPhunkRoyal)|YouTube|德语/德国|43.3K|邮箱：phunkroyal@1up.management|en|
-|18|第一推荐|[くろろじちゃんねる](https://www.youtube.com/@KUROROJI)|YouTube|日语/日本（待核）|42.1K|表单：https://kuroroji.site/promotion/（案件表单）；中国合作邮箱 kuroroji.ch@youdaoads.com|ja|
-|19|第一推荐|[Puzzle - AFK Journey!](https://www.youtube.com/@PuzzleAFKJ)|YouTube|英语/美国|38.8K|邮箱：shreddedpuzzle@gmail.com|en|
-|20|第一推荐|[껨디](https://www.youtube.com/@GGDsandevistan)|YouTube|韩语/韩国|32.6K|邮箱：ggemdi@daum.net|ko|
-|21|第一推荐|[FonFon](https://www.youtube.com/@FonFonIdle)|YouTube|英语/待核|29.2K|邮箱：fonfon@intheblackmedia.com|en|
-|22|第一推荐|[샤커레또](https://www.youtube.com/@shakerratto)|YouTube|韩语/韩国|24.9K|邮箱：shakerratto9@naver.com|ko|
-|23|第一推荐|[이고올](https://www.youtube.com/@LeeGoAll)|YouTube|韩语/韩国|19.4K|邮箱：wicd123@naver.com|ko|
-|24|第一推荐|[Dabble](https://www.youtube.com/@DabbleYT)|YouTube|英语/待核|17.5K|邮箱：dabblegamingyt@gmail.com|en|
-|25|第一推荐|[UykuKapsülü（Cenk / GameCapsule）](https://www.youtube.com/@UykuKapsulu)|YouTube|其他语种/土耳其（about 页 Country: Türkiye）|13.6K|表单：https://forms.gle/gUEsGGjWghnGfX3RA|en|
-|26|第一推荐|[しろこりGames / インディーゲーム専門Vtuber](https://www.youtube.com/@ShirocoryGames)|YouTube|日语/日本（待核）|12.6K|表单：https://shirocory.games/promotion/（案件受付フォーム）|ja|
-|27|第一推荐|[훈TV](https://www.youtube.com/@%ED%9B%88TV%ED%9B%88)|YouTube|韩语/韩国|12.4K|邮箱：lmh4186@naver.com|ko|
-|28|第一推荐|[Starker MMOs](https://www.youtube.com/@StarkerMMOs)|YouTube|葡萄牙语(巴西)/巴西|11.6K|邮箱：starkerlendario1@gmail.com|en|
-|29|第一推荐|[PlayZodi](https://www.youtube.com/@Zodi)|YouTube|俄语/待核|11.5K|邮箱：playwithzodi@gmail.com|en|
-|30|第一推荐|[Ukernan Gaming](https://www.youtube.com/@UkernanGaming)|YouTube|西班牙语/阿根廷|11.2K|邮箱：ukernangaming@gmail.com|en|
-|31|第一推荐|[게임픽 GAMEPICK](https://www.youtube.com/@%EA%B2%8C%EC%9E%84%ED%94%BD-GAMEPICK)|YouTube|韩语/韩国|10.2K|邮箱：gamepickbiz@gmail.com|ko|
-|32|第一推荐|[CVMG Gaming](https://www.youtube.com/@CVMG)|YouTube|英语/美国|9.9K|邮箱：cvmg107@gmail.com|en|
-|33|第一推荐|[スケット団@Games](https://www.youtube.com/@Games-wn6xx)|YouTube|日语/日本（待核）|9.23K|邮箱：suketto20200404@gmail.com|ja|
-|34|第一推荐|[Fox Clicks Again](https://www.youtube.com/@FoxClicksAgain)|YouTube|英语/待核|9K|邮箱：soulfox@noetictalentagency.com|en|
-|35|第一推荐|[なぎせいな / 凪世薙](https://www.youtube.com/@nagi_517)|YouTube|日语/日本（待核）|7.51K|邮箱：nagiseina12345@gmail.com|ja|
-|36|第一推荐|[CheeseCakeCactus](https://www.youtube.com/@CheeseCakeCactus)|YouTube|英语/待核|6.55K|邮箱：cheesecakecactus123@gmail.com|en|
-|37|第一推荐|[Idle Gamer](https://www.youtube.com/@IdleClicker)|YouTube|英语/待核|5.88K|邮箱：idlegamerhq@gmail.com|en|
-|38|第一推荐|[Malterus Gaming](https://www.youtube.com/@Malterus_Gaming)|YouTube|德语/德国|5.85K|邮箱：malteruszockt@web.de|en|
-|39|第一推荐|[IdleGamerBR](https://www.youtube.com/@idlegamerYT1)|YouTube|英语/巴西|5.62K|邮箱：IDLEGAMERYT@tutamail.com|en|
-|40|第一推荐|[咖啡樂's](https://www.youtube.com/@coffee0530)|YouTube|繁体中文(台湾)/台湾（台湾）|5.6K|邮箱：q23041940q@gmail.com|zh-TW|
-|41|第二推荐|[GrayStillPlays](https://www.youtube.com/@GrayStillPlays)|YouTube|英语/待核|8.63M|邮箱：graystillplays@gmail.com|en|
-|42|第二推荐|[Obsidian Time](https://www.youtube.com/@ObsidianTime)|YouTube|俄语/待核|1.5M|邮箱：obsidianconnection@gmail.com|en|
-|43|第二推荐|[풍월량](https://www.youtube.com/@hanryang1125)|YouTube|韩语/韩国|530K|邮箱：poongtube1125@sandbox.co.kr, windmoon1125@naver.com|ko|
-|44|第二推荐|[ニグチャンネル](https://www.youtube.com/@shiroinu1128)|YouTube|日语/日本（待核）|460K|邮箱：niguchannel@gmail.com|ja|
-|45|第二推荐|[InterndotGif](https://www.youtube.com/@InternDotGif)|YouTube|英语/待核|447K|邮箱：interndotgif@screenwavemedia.com|en|
-|46|第二推荐|[GameEdged](https://www.youtube.com/@gameedged)|YouTube|英语/待核|361K|邮箱：gameedged@gmail.com|en|
-|47|第二推荐|[ShadesOfNate](https://www.youtube.com/@ShadesOfNate)|YouTube|英语/待核|280K|邮箱：shadesofnate@thenode.gg|en|
-|48|第二推荐|[Рекви](https://www.youtube.com/@rekvizit8bit)|YouTube|俄语/待核|276K|邮箱：dedakimdak@gmail.com|en|
-|49|第二推荐|[Floydsonson](https://www.youtube.com/@Floydsonson)|YouTube|英语/待核|225K|邮箱：floydson@intheblackmedia.com|en|
-|50|第二推荐|[TrueDad](https://www.youtube.com/@TrueDad)|YouTube|俄语/待核|156K|邮箱：truedadinvestment@gmail.com|en|
-|51|第二推荐|[The SKY Alliance](https://www.youtube.com/@theskyalliance)|YouTube|英语/加拿大|134K|邮箱：partnerships@theskyalliance.com|en|
-|52|第二推荐|[Ryfek](https://www.youtube.com/@Ryfek)|YouTube|其他语种/波兰（about 页 Country: Poland）|101K|邮箱：kontaktryfek@gmail.com|en|
-|53|第二推荐|[Játszótér（MakaM）](https://www.youtube.com/@jatszoter)|YouTube|其他语种/匈牙利（about 页 Country: Hungary）|88.4K|邮箱：makamhun@gmail.com|en|
-|54|第二推荐|[PonPonLin蹦蹦林](https://www.youtube.com/@ponponlin)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|79.4K|邮箱：ponponlinlife@gmail.com|zh-TW|
-|55|第二推荐|[Scion Storm](https://www.youtube.com/@ScionStorm)|YouTube|英语/美国|59.8K|邮箱：silentstorminc@gmail.com|en|
-|56|第二推荐|[Only Roguelikes](https://www.youtube.com/@OnlyRoguelikes)|YouTube|西班牙语/待核|42.7K|邮箱：gerierwarwick@gmail.com|en|
-|57|第二推荐|[ぎあ](https://www.youtube.com/@Rustgear2nd)|YouTube|日语/日本（待核）|29.4K|邮箱：geqrs3025@gmail.com|ja|
-|58|第二推荐|[Torugão](https://www.youtube.com/@torugaoo)|YouTube|葡萄牙语(巴西)/巴西|27.4K|邮箱：contato.torugo@gmail.com|en|
-|59|第二推荐|[Indeday](https://www.youtube.com/@Indeday)|YouTube|法语/法国|27.1K|邮箱：syzix14@gmail.com|en|
-|60|第二推荐|[OHRye](https://www.youtube.com/@OHRyePlays)|YouTube|英语/待核|26.1K|邮箱：OHRyePlays@gmail.com|en|
-|61|第二推荐|[이구역의 듀공](https://www.youtube.com/@grownbb)|YouTube|韩语/韩国|23.5K|邮箱：grownbb@naver.com|ko|
-|62|第二推荐|[MacicTV](https://www.youtube.com/@MacicTV)|YouTube|法语/法国|23.2K|邮箱：macictv.1@gmail.com|en|
-|63|第二推荐|[RoyaloYT](https://www.youtube.com/@royaloYT)|YouTube|其他语种/意大利（about 页 Country: Italy）|21.8K|邮箱：royaloytbusiness@gmail.com|en|
-|64|第二推荐|[Satan Claus PLAY!](https://www.youtube.com/@satanclausplay)|YouTube|俄语/待核|20K|邮箱：satanclausplay@mail.ru|en|
-|65|第二推荐|[JTM](https://www.youtube.com/@JTMPLays)|YouTube|英语/待核|18.6K|邮箱：info@jtmplays.com|en|
-|66|第二推荐|[Gaming With Jeff](https://www.youtube.com/@gamingwithjeff)|YouTube|英语/待核|18.3K|邮箱：gamingwithjeff4business@gmail.com|en|
-|67|第二推荐|[Game Launch Central](https://www.youtube.com/@GameLaunchCentral)|YouTube|英语/待核|17.4K|邮箱：gamesaiolia@gmail.com|en|
-|68|第二推荐|[Тупой Горностай（同一主播另有 Шляпа Горностая）](https://www.youtube.com/@TupoyGornostay)|YouTube|俄语/待核|16.9K|邮箱：blindermine.ad@gmail.com|en|
-|69|第二推荐|[Grinnn](https://www.youtube.com/@Grinnn)|YouTube|英语/印度|15.5K|邮箱：Konsugg.business@gmail.com|en|
-|70|第二推荐|[게임달고나](https://www.youtube.com/@%EB%AA%A8%EB%B0%94%EC%9D%BC%EA%B2%8C%EC%9E%84)|YouTube|韩语/韩国|14.5K|邮箱：mkt@metaplug.co.kr|ko|
-|71|第二推荐|[초록괴물](https://www.youtube.com/@%EC%B4%88%EB%A1%9D%EA%B4%B4%EB%AC%BC)|YouTube|韩语/韩国|12.1K|邮箱：itarcadegame@gmail.com|ko|
-|72|第二推荐|[ExGold](https://www.youtube.com/@ExGold)|YouTube|其他语种/意大利（about 页 Country: Italy）|11.9K|邮箱：exgold97@gmail.com|en|
-|73|第二推荐|[Elaps](https://www.youtube.com/@Elapsss)|YouTube|法语/法国|9.67K|邮箱：elps.edit.pro@gmail.com|en|
-|74|第二推荐|[Soulrise Gaming](https://www.youtube.com/@soulrisegaming)|YouTube|英语/英国|9.12K|邮箱：soulrise919@yahoo.com|en|
-|75|第二推荐|[Trusty](https://www.youtube.com/@yartaholic)|YouTube|英语/待核|8.1K|邮箱：Trustysinq@gmail.com|en|
-|76|第二推荐|[SYROX GAMING](https://www.youtube.com/@SYROX_GAMING)|YouTube|俄语/待核|7.48K|邮箱：thesyrox.tv@gmail.com|en|
-|77|第二推荐|[겜플리](https://www.youtube.com/@%EA%B2%9C%ED%94%8C%EB%A6%AC)|YouTube|韩语/韩国|5.69K|邮箱：ad@lolq.co.kr, lbc8748@naver.com|ko|
-|78|第二推荐|[是努努鴨](https://www.youtube.com/@是努努鴨)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|5.54K|邮箱：ian510823@gmail.com|zh-TW|
-|79|第二推荐|[A게임TV](https://www.youtube.com/@AGAMETVKOR)|YouTube|韩语/韩国|5.48K|邮箱：wjdgkfk@gmail.com|ko|
-|80|第二推荐|[Introvert Party](https://www.youtube.com/@martianpotplays)|YouTube|英语/加拿大（简介写 Canadian）|3.85K|邮箱：introvertpartymartian@gmail.com|en|
-|81|第二推荐|[Ash Swoon](https://www.youtube.com/@ashswoon)|YouTube|英语/待核|3.73K|邮箱：AshSwoonYT@gmail.com|en|
-|82|第二推荐|[глазами геймдизайнера](https://www.youtube.com/@gamedesigneyes)|YouTube|俄语/待核|3.66K|邮箱：kaf.channel.work@gmail.com|en|
-|83|第二推荐|[Ruddaii](https://www.youtube.com/@Ruddaii)|YouTube|法语/法国|3.65K|邮箱：ruddaii.contactpro@gmail.com|en|
-|84|第二推荐|[VhGaming](https://www.youtube.com/@VhGamingIH)|YouTube|英语/待核|3.33K|邮箱：vhgaming2025@gmail.com|en|
-|85|第二推荐|[IndieRadar by RangerArea](https://www.youtube.com/@IndieRadarRanger)|YouTube|德语/德国|3.13K|邮箱：Ranger@2ndwave.rocks|en|
-|86|第二推荐|[Старый Маразматик](https://www.youtube.com/@izvinis777)|YouTube|俄语/待核|2.85K|邮箱：pozilaaanakonda@gmail.com|en|
-|87|第二推荐|[Elfe](https://www.youtube.com/@ElfeYT)|YouTube|英语/芬兰|2.68K|邮箱：elfeytb@gmail.com|en|
-|88|第二推荐|[電話莎的電波塔](https://www.youtube.com/@telephone_sa)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|2.34K|邮箱：teltelsasasa@gmail.com|zh-TW|
-|89|第二推荐|[PumpkinIdle](https://www.youtube.com/@PumpkinIdle)|YouTube|英语/加拿大|2.24K|邮箱：PumpkinIdle@yahoo.com|en|
-|90|第二推荐|[Juste une run](https://www.youtube.com/@Justeunerun)|YouTube|法语/法国|1.65K|邮箱：contact.justeunerun@gmail.com|en|
-|91|第二推荐|[뭐라고요](https://www.youtube.com/@%EB%AD%90%EB%9D%BC%EA%B3%A0%EC%9A%94)|YouTube|韩语/韩国|1.56K|邮箱：dexlove@naver.com|ko|
-|92|第二推荐|[Расслабься, бро](https://www.youtube.com/@konturofchill)|YouTube|俄语/待核|1.39K|邮箱：konturoffstream@gmail.com|en|
-|93|第二推荐|[Kayork](https://www.youtube.com/@KayorkGaming)|YouTube|法语/待核|1.22K|邮箱：kayork.gaming@gmail.com|en|
-|94|第二推荐|[돈냥](https://www.youtube.com/@%EB%B0%95%EB%8F%88%EB%83%A5)|YouTube|韩语/韩国|1.09K|邮箱：ehssid1990@naver.com|ko|
-|95|第二推荐|[Vicio ONE MORE TIME!!!!](https://www.youtube.com/@VicioONEMORETIME)|YouTube|西班牙语/西班牙|1.81M|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|96|第二推荐|[HandOfUncut](https://www.youtube.com/@HandOfUncut)|YouTube|德语/德国|1.47M|无公开邮箱；备选简介外链：https://twitter.com/HandOfBlood、https://www.instagram.com/handiofiblood/、https://www.twitch.tv/handofblood（私信需按当次授权）|en|
-|97|第二推荐|[ImCade](https://www.youtube.com/@ImCade)|YouTube|英语/待核|1.2M|无公开邮箱；备选简介外链：https://www.instagram.com/imcadeyt/、https://www.tiktok.com/@imcadeyt、https://x.com/ImCadeYT（私信需按当次授权）|en|
-|98|第二推荐|[Dr_Horse](https://www.youtube.com/@Dr_Horse)|YouTube|法语/法国|847K|无公开邮箱；备选简介外链：https://discord.gg/cyb0rg、https://twitter.com/Dr_HorseYT、https://www.tiktok.com/@dr_horse_yt（私信需按当次授权）|en|
-|99|第二推荐|[Z1 Gaming](https://www.youtube.com/@Z1Gaming)|YouTube|英语/待核|658K|无公开邮箱；备选简介外链：https://discord.gg/Q2s9eDr、https://www.instagram.com/Z1GamingTV、https://www.twitch.tv/Z1Gaming（私信需按当次授权）|en|
-|100|第二推荐|[阿路的精神時光屋](https://www.youtube.com/@rusiru87time)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|181K|无公开邮箱；备选简介外链：https://www.instagram.com/rusiruuuuuuuu/（私信需按当次授权）|zh-TW|
-|101|第二推荐|[しんじさん](https://www.youtube.com/@しんじさん)|YouTube|日语/日本（待核）|167K|无公开邮箱；备选简介外链：https://twitter.com/Shinjisan_XD（私信需按当次授权）|ja|
-|102|第二推荐|[Tian Kami](https://www.youtube.com/@TianKami)|YouTube|俄语/待核|136K|无公开邮箱；备选简介外链：https://www.twitch.tv/tiankami（私信需按当次授权）|en|
-|103|第二推荐|[Grillmastah](https://www.youtube.com/@Grillmastah)|YouTube|英语/待核|126K|无公开邮箱；备选简介外链：https://twitter.com/grillmastah?lang=en、https://www.twitch.tv/grillmastah、https://discord.gg/8XZ39Df（私信需按当次授权）|en|
-|104|第二推荐|[Samed Güngör Live](https://www.youtube.com/@samedgungorlive)|YouTube|其他语种/土耳其（vidIQ 国家字段 Türkiye；全土耳其语内容）|115K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|105|第二推荐|[Azrilich](https://www.youtube.com/@AzrilichIdle)|YouTube|英语/待核|91.9K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|106|第二推荐|[Sonoket Gaming](https://www.youtube.com/@Sonoket)|YouTube|英语/待核|91.3K|无公开邮箱；备选简介外链：https://twitter.com/sonoket、https://www.instagram.com/sonoketgaming/、Twitch.tv/sonoket（私信需按当次授权）|en|
-|107|第二推荐|[iPICKmyBUTT](https://www.youtube.com/@iPICKmyBUTT)|YouTube|英语/美国|51.6K|无公开邮箱；备选简介外链：Twitch: twitch.tv/ipickmybut（私信需按当次授权）|en|
-|108|第二推荐|[TheHolomovement](https://www.youtube.com/@TheHolomovement)|YouTube|法语/法国|51.2K|无公开邮箱；备选简介外链：http://instagram.com/theholomovement、http://twitter.com/theholomovement、http://www.twitch.tv/theholomovement（私信需按当次授权）|en|
-|109|第二推荐|[Hultutigamer（フルツチ）](https://www.youtube.com/@hultutigaming)|YouTube|日语/日本（待核）|50.1K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja|
-|110|第二推荐|[GriffyBit](https://www.youtube.com/@GriffyBitMain)|YouTube|英语/加拿大|43.6K|无公开邮箱；备选简介外链：Twitch: twitch.tv/griffybit、Twitter: twitter.com/BitGriffy、Discord: discord.gg/yVzQSrVR5U（私信需按当次授权）|en|
-|111|第二推荐|[mcveety](https://www.youtube.com/@reallymcveety)|YouTube|英语/待核|42.2K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|112|第二推荐|[Furry Hippo Gaming](https://www.youtube.com/@furryhippogaming)|YouTube|英语/美国|41.8K|无公开邮箱；备选简介外链：Discord: discord.gg/yCJpXv5、Twitter: twitter.com/Furry_Hippo（私信需按当次授权）|en|
-|113|第二推荐|[OberkommissarT](https://www.youtube.com/@oberkommissart)|YouTube|德语/德国|39.7K|无公开邮箱；备选简介外链：https://discord.gg/JkwRACwbeW、https://www.instagram.com/mofunari_art/、https://www.twitch.tv/oberkommissart（私信需按当次授权）|en|
-|114|第二推荐|[Stanz but Gaming](https://www.youtube.com/@StanzbutGaming)|YouTube|英语/待核|37.8K|无公开邮箱；备选简介外链：https://www.twitch.tv/stanz、https://www.twitch.tv/stanz/（私信需按当次授权）|en|
-|115|第二推荐|[SuperAutoGaming](https://www.youtube.com/@SuperAutoGaming)|YouTube|英语/待核|32.9K|无公开邮箱；备选简介外链：https://www.twitch.tv/superautogaming（私信需按当次授权）|en|
-|116|第二推荐|[Bonjwa Gaming](https://www.youtube.com/@BonjwaDEGaming)|YouTube|德语/德国|32.4K|无公开邮箱；备选简介外链：https://twitter.com/bonjwaDE、https://www.bonjwa.de/discord（私信需按当次授权）|en|
-|117|第二推荐|[よよよ](https://www.youtube.com/@check_yoyoyo)|YouTube|日语/日本（待核）|30.7K|无公开邮箱；备选简介外链：https://twitter.com/UdhCaudyyDjozR9（私信需按当次授权）|ja|
-|118|第二推荐|[Geek Fight Games](https://www.youtube.com/@geekfightgames)|YouTube|俄语/俄罗斯（简介称已在俄罗斯 Roskomnadzor 登记）|27.7K|无公开邮箱；备选简介外链：https://www.twitch.tv/geekmastaa（私信需按当次授权）|en|
-|119|第二推荐|[Rusty Champaign](https://www.youtube.com/@RustyChampaign)|YouTube|英语/待核|25.5K|无公开邮箱；备选简介外链：https://discord.gg/xxKZFsveDn、https://www.instagram.com/rustychampaign/、twitch.tv/rustychampaign（私信需按当次授权）|en|
-|120|第二推荐|[Zueljin Plays](https://www.youtube.com/@zueljinplays)|YouTube|英语/待核|17.3K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|121|第二推荐|[はるお](https://www.youtube.com/@haruogames)|YouTube|日语/日本（待核）|17.1K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja|
-|122|第二推荐|[Nerfed Reflexes](https://www.youtube.com/@NerfedReflexes)|YouTube|英语/待核|14.7K|无公开邮箱；备选简介外链：https://discord.gg/cSYyxJKDr7、https://www.twitch.tv/nerfedreflexes、https://discord.gg/cSYyxJKDr7（私信需按当次授权）|en|
-|123|第二推荐|[Assami Muzaki](https://www.youtube.com/@AssamiMuzaki)|YouTube|其他语种/印度尼西亚（about 页 Country: Indonesia）|14.1K|无公开邮箱；备选简介外链：https://discord.gg/GFeBGM5uqH（私信需按当次授权）|en|
-|124|第二推荐|[AhkTaar Prime](https://www.youtube.com/@ahktaarprime)|YouTube|英语/法国|12.9K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|125|第二推荐|[AboboKnows](https://www.youtube.com/@AboboKnows)|YouTube|英语/待核|12.5K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|126|第二推荐|[PolyMAOffline（Poly）](https://www.youtube.com/@PolyMaOffline)|YouTube|其他语种/意大利（about 页 Country: Italy）|11.8K|无公开邮箱；备选简介外链：https://twitch.tv/poly、https://linktr.ee/polylocco、https://instagram.com/poly.quizshow（私信需按当次授权）|en|
-|127|第二推荐|[Manfro](https://www.youtube.com/@manfroyt)|YouTube|其他语种/意大利（about 页 Country: Italy）|11.1K|无公开邮箱；备选简介外链：https://twitch.tv/marcuskron、https://discord.gg/marcuskron、https://instagram.com/marcuskron_yt（私信需按当次授权）|en|
-|128|第二推荐|[FungalBrainRot](https://www.youtube.com/@FungalBrainRot)|YouTube|英语/待核|10.5K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|129|第二推荐|[Flotidus](https://www.youtube.com/@Flotidus)|YouTube|德语/德国|9.71K|无公开邮箱；备选简介外链：https://discord.com/invite/p7XT4DdMkm、https://discord.gg/p7XT4DdMkm、https://www.twitch.tv/flotidus（私信需按当次授权）|en|
-|130|第二推荐|[Wraec - Gacha](https://www.youtube.com/@WraecGacha)|YouTube|英语/德国|9.26K|无公开邮箱；备选简介外链：Discord: discord.gg/AK63WQdTw2（私信需按当次授权）|en|
-|131|第二推荐|[shirlierox](https://www.youtube.com/@shirlierox)|YouTube|英语/英国|9.25K|无公开邮箱；备选简介外链：https://twitter.com/shirlierox、https://twitter.com/shirlierox（私信需按当次授权）|en|
-|132|第二推荐|[Кай стример](https://www.youtube.com/@KAISTREAMER)|YouTube|俄语/待核|8.41K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|133|第二推荐|[Gaarawarr](https://www.twitch.tv/gaarawarr)|Twitch|英语/待核|7,734 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|134|第二推荐|[RandomFlowerName](https://www.youtube.com/@RandomFlowerName)|YouTube|英语/瑞典|7.65K|无公开邮箱；备选简介外链：https://www.twitch.tv/randomflowername（私信需按当次授权）|en|
-|135|第二推荐|[CG Grows](https://www.youtube.com/@CGGrows)|YouTube|英语/待核|6.51K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|136|第二推荐|[つばさま(ゲーム実況)](https://www.youtube.com/@FAINL_TUBASA)|YouTube|日语/日本（待核）|5.59K|无公开邮箱；备选简介外链：https://twitter.com/FAINL_TUBASA（私信需按当次授权）|ja|
-|137|第二推荐|[小月歡樂星](https://www.youtube.com/@Licin小月)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|5.57K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|zh-TW|
-|138|第二推荐|[Tyredack](https://www.youtube.com/@tyredack)|YouTube|英语/待核|5.29K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|139|第二推荐|[Skagokalipsis](https://www.youtube.com/@Skagokalipsis)|YouTube|俄语/待核|5.13K|无公开邮箱；备选简介外链：https://www.twitch.tv/skagokalipsis（私信需按当次授权）|en|
-|140|第三推荐|[Fiouze](https://www.youtube.com/@FuzePlays)|YouTube|法语/法国|797K|邮箱：fiouze@blockmedia.fr|en|
-|141|第三推荐|[ナカイドのゲーム情報チャンネル](https://www.youtube.com/@nakaido)|YouTube|日语/日本（待核）|411K|邮箱：nakaido@socialdiva.jp；中国合作 nakaido_youdao@163.com|ja|
-|142|第三推荐|[ふつうのくま](https://www.youtube.com/@metokuma314)|YouTube|日语/日本（待核）|121K|邮箱：meto.work631214@gmail.com|ja|
-|143|第三推荐|[JGigs](https://www.youtube.com/@JGigs)|YouTube|英语/美国|88.1K|邮箱：jh@jonathanhagewood.com|en|
-|144|第三推荐|[Murtork](https://www.youtube.com/@Murtork)|YouTube|俄语/俄罗斯（简介称已列入俄罗斯 Roskomnadzor 个人页面名录）|46.6K|邮箱：murtorkcom@gmail.com|en|
-|145|第三推荐|[Games Puff](https://www.youtube.com/@GamesPuff)|YouTube|英语/巴基斯坦|17.6K|邮箱：gamespuffyt@gmail.com|en|
-|146|第三推荐|[MTS Oyun Kanalı](https://www.youtube.com/@MTS_OK)|YouTube|其他语种/土耳其（about 页 Country: Türkiye）|4.81K|邮箱：mtsoyunkanali@gmail.com|en|
-|147|第三推荐|[Indie Choi](https://www.youtube.com/@indiechoi)|YouTube|西班牙语/西班牙|4.53K|邮箱：imchoi.contact@gmail.com|en|
-|148|第三推荐|[Jyku Plays](https://www.youtube.com/@JykuPlays)|YouTube|英语/待核|4.31K|邮箱：Jyku.Business@gmail.com|en|
-|149|第三推荐|[まよちき!](https://www.youtube.com/@mayomayobird3)|YouTube|日语/日本（待核）|4.22K|邮箱：kani3921@gmail.com|ja|
-|150|第三推荐|[The Indie Brew](https://www.youtube.com/@theindiebrew)|YouTube|英语/澳大利亚|3.99K|邮箱：hello@theindiebrew.com.au|en|
-|151|第三推荐|[BonzosTower](https://www.youtube.com/@BonzosTower)|YouTube|英语/美国|2.66K|邮箱：bonzostower@gmail.com|en|
-|152|第三推荐|[Taggz](https://www.youtube.com/@taggzJGU)|YouTube|英语/美国|2.39K|邮箱：tacoking1588@gmail.com|en|
-|153|第三推荐|[Shokow](https://www.youtube.com/@shokow2306)|YouTube|法语/法国|2.34K|邮箱：shokow.contact@gmail.com|en|
-|154|第三推荐|[GobGG - VOD Multigaming](https://www.youtube.com/@GoBreplay)|YouTube|法语/法国|2.14K|邮箱：gobgg@thenode.gg|en|
-|155|第三推荐|[Dreamer](https://www.youtube.com/@DreamerAFKJ)|YouTube|英语/待核|2.11K|邮箱：dreamertube101@gmail.com|en|
-|156|第三推荐|[Во что поиграть?](https://www.youtube.com/@vochtopoigratG)|YouTube|俄语/待核|1.93K|邮箱：aawork33@gmail.com|en|
-|157|第三推荐|[Yaoye夭夜](https://www.youtube.com/@OODrYaoye)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|1.71K|邮箱：st9750317@gmail.com|zh-TW|
-|158|第三推荐|[Maybe Sarisa](https://www.youtube.com/@MaybeSarisa)|YouTube|英语/美国|1.63K|邮箱：contact@maybesarisa.com|en|
-|159|第三推荐|[BonneT LessKrau (VOD)](https://www.youtube.com/@vodbonnet)|YouTube|法语/待核|1.21K|邮箱：bonnetlesskraupro@gmail.com|en|
-|160|第三推荐|[Blitz](https://www.youtube.com/@Blitz)|YouTube|英语/待核|4.35M|无公开邮箱；备选简介外链：http://discord.gg/YTBlitz、https://www.tiktok.com/@blitzonyt（私信需按当次授权）|en|
-|161|第三推荐|[BaronVonGames](https://www.youtube.com/@Baron)|YouTube|英语/待核|2.71M|无公开邮箱；备选简介外链：https://discord.gg/hnc3PzH6nz、https://www.tiktok.com/@baronvongames、https://www.instagram.com/baronvongames/（私信需按当次授权）|en|
-|162|第三推荐|[Menos Trece](https://www.youtube.com/@MenosTrece)|YouTube|西班牙语/西班牙|2.67M|无公开邮箱；备选简介外链：https://www.twitch.tv/menostrece、https://twitter.com/menos_trece、https://www.tiktok.com/@menos.trece（私信需按当次授权）|en|
-|163|第三推荐|[LolloLacustre](https://www.youtube.com/@lollolacustre)|YouTube|其他语种/意大利（频道国家设为瑞士，见 vidIQ；内容为意大利语）|2.14M|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|164|第三推荐|[MoistCr1TiKaL Gaming](https://www.youtube.com/@MoistCr1TiKaLGamingOfficial)|YouTube|英语/待核|1.15M|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|165|第三推荐|[Dragoon](https://www.youtube.com/@Dragoon45)|YouTube|英语/待核|1.05M|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|166|第三推荐|[EJStory](https://www.youtube.com/@erwinjingga)|YouTube|其他语种/印度尼西亚（据频道标题“Indonesia”系列与印尼语内容判定；about 页未列国家）|1.02M|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|167|第三推荐|[Kripparrian](https://www.youtube.com/@Kripparrian)|YouTube|英语/待核|901K|无公开邮箱；备选简介外链：http://www.instagram.com/casualkripp、http://www.twitch.tv/nl_kripp/、http://www.twitter.com/Kripparrian/（私信需按当次授权）|en|
-|168|第三推荐|[Bastian](https://www.youtube.com/@bastian)|YouTube|德语/德国|885K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|169|第三推荐|[RossBoomsocks](https://www.youtube.com/@RossBoomsocks)|YouTube|英语/待核|791K|无公开邮箱；备选简介外链：https://www.instagram.com/rossboomsocks/、http://www.twitter.com/RossBoomsocks、http://www.twitch.tv/RossBoomsocks（私信需按当次授权）|en|
-|170|第三推荐|[Dead Squirrel](https://www.youtube.com/@DeadSquirrel)|YouTube|英语/待核|587K|无公开邮箱；备选简介外链：https://www.instagram.com/deadsquirrelyt/、https://discord.gg/QaaWn7D、https://www.twitch.tv/deadsquirrel（私信需按当次授权）|en|
-|171|第三推荐|[썩쏘TV](https://www.youtube.com/@SsuckSso)|YouTube|韩语/韩国|522K|无公开邮箱；备选简介外链：인스타 일상공개: instagram.com/ssuck_sso（私信需按当次授权）|ko|
-|172|第三推荐|[Stark Panzer](https://www.youtube.com/@StarkPanzer)|YouTube|其他语种/匈牙利（about 页 Country: Hungary）|347K|无公开邮箱；备选简介外链：https://discord.gg/MPeSqsMSTd、https://instagram.com/starkpanzer、https://twitch.tv/starkpanzer（私信需按当次授权）|en|
-|173|第三推荐|[GamePlaysCassi](https://www.youtube.com/@GamePlaysCassi)|YouTube|葡萄牙语(巴西)/巴西|263K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|174|第三推荐|[Dobrodziej](https://www.youtube.com/@DobrodziejDobrodziejski)|YouTube|其他语种/波兰（about 页 Country: Poland）|244K|无公开邮箱；备选简介外链：https://twitch.tv/dobrodziejdobrodziejski、https://twitter.com/Dobrodziejski（私信需按当次授权）|en|
-|175|第三推荐|[フルコンチャンネル](https://www.youtube.com/@Fullcon2525)|YouTube|日语/日本（待核）|241K|无公开邮箱；备选简介外链：https://twitter.com/fullconshark、https://www.instagram.com/fullcon17/（私信需按当次授权）|ja|
-|176|第三推荐|[Best Indie Games](https://www.youtube.com/@ClemmyGames)|YouTube|英语/新加坡|195K|无公开邮箱；备选简介外链：https://discord.gg/aU9qp9Y、http://www.twitter.com/ClemmyGames（私信需按当次授权）|en|
-|177|第三推荐|[Deathweaver](https://www.youtube.com/@Deathweaver)|YouTube|葡萄牙语(巴西)/巴西|174K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|178|第三推荐|[Richard_Hammer](https://www.twitch.tv/richard_hammer)|Twitch|英语/待核|167,385 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|179|第三推荐|[けそポテト](https://www.youtube.com/@kesopotato)|YouTube|日语/日本（待核）|139K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja|
-|180|第三推荐|[Silithur V](https://www.youtube.com/@SilithurV)|YouTube|西班牙语/西班牙|138K|无公开邮箱；备选简介外链：https://www.twitch.tv/silithur、https://twitter.com/Silithur、https://discord.gg/silithur（私信需按当次授权）|en|
-|181|第三推荐|[Walkrman](https://www.youtube.com/@Walkrman)|YouTube|英语/待核|127K|无公开邮箱；备选简介外链：https://www.tiktok.com/@walkrman_?lang=en、https://www.twitch.tv/walkrman、https://twitter.com/Walkrman_（私信需按当次授权）|en|
-|182|第三推荐|[Millbeeful](https://www.youtube.com/@Millbee)|YouTube|英语/待核|108K|无公开邮箱；备选简介外链：http://www.twitch.tv/millbee（私信需按当次授权）|en|
-|183|第三推荐|[Clem NFT](https://www.youtube.com/@Clem_NFT)|YouTube|葡萄牙语(巴西)/巴西|104K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|184|第三推荐|[Hadomancer](https://www.youtube.com/@Hadomancer)|YouTube|葡萄牙语(巴西)/巴西|100K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|185|第三推荐|[いぬけん](https://www.youtube.com/@1nuken)|YouTube|日语/日本（待核）|99.8K|无公开邮箱；备选简介外链：https://twitter.com/1nuken（私信需按当次授权）|ja|
-|186|第三推荐|[Final Boss Project](https://www.youtube.com/@FinalBossProject)|YouTube|西班牙语/西班牙|96.4K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|187|第三推荐|[Krayn](https://www.youtube.com/@Krayn)|YouTube|法语/待核|95K|无公开邮箱；备选简介外链：http://www.twitch.tv/krayn_chill、http://www.twitch.tv/krayn_live、https://discord.gg/bvWFWq8（私信需按当次授权）|en|
-|188|第三推荐|[GeneracionActual](https://www.youtube.com/@GeneracionActual)|YouTube|西班牙语/西班牙|94.1K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|189|第三推荐|[Mynthos](https://www.youtube.com/@Mynthostv)|YouTube|法语/法国|86.4K|无公开邮箱；备选简介外链：https://linktr.ee/MynthosTv、https://www.instagram.com/mynthos_tv/、https://www.twitch.tv/mynthos（私信需按当次授权）|en|
-|190|第三推荐|[Rumathandrial the 3rd](https://www.youtube.com/@RumathandrialIII)|YouTube|德语/德国|85.8K|无公开邮箱；备选简介外链：https://twitter.com/TigerClown、https://www.instagram.com/rumathra_/、https://www.twitch.tv/rumathra（私信需按当次授权）|en|
-|191|第三推荐|[Malakye G](https://www.youtube.com/@malakyemong)|YouTube|英语/待核|74.4K|无公开邮箱；备选简介外链：https://www.twitch.tv/malakyeg、https://www.twitch.tv/malakyeg（私信需按当次授权）|en|
-|192|第三推荐|[Shisheyu](https://www.youtube.com/@Shisheyu)|YouTube|法语/法国|74.1K|无公开邮箱；备选简介外链：https://twitter.com/Shisheyu、https://www.instagram.com/shisheyu_/、https://www.tiktok.com/@shisheyu（私信需按当次授权）|en|
-|193|第三推荐|[Longplay Express](https://www.youtube.com/@LongplayExpress)|YouTube|英语/待核|71.4K|无公开邮箱；备选简介外链：https://discord.gg/wGukM3ZaBq、https://discord.gg/wGukM3ZaBq（私信需按当次授权）|en|
-|194|第三推荐|[Orhun Kayaalp Let's Play](https://www.youtube.com/@OrhunKayaalpLetsPlay)|YouTube|其他语种/土耳其（about 页 Country: Türkiye）|68.1K|无公开邮箱；备选简介外链：https://twitch.tv/orhunthehun、https://twitter.com/OrhunKayaalp、https://discord.gg/orhunkayaalp（私信需按当次授权）|en|
-|195|第三推荐|[The Geek Cupboard](https://www.youtube.com/@TheGeekCupboard)|YouTube|英语/待核|63.2K|无公开邮箱；备选简介外链：https://discord.gg/BccyEWv、https://www.twitch.tv/thegeekcupboard（私信需按当次授权）|en|
-|196|第三推荐|[Diegola](https://www.youtube.com/@diegola021)|YouTube|葡萄牙语(巴西)/待核|63K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|197|第三推荐|[CosasdeNoobs](https://www.youtube.com/@CosasdeNoobs)|YouTube|西班牙语/西班牙|61.4K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|198|第三推荐|[花現新大鹿DoeDaDa](https://www.youtube.com/@doedada1314)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|50.1K|无公开邮箱；备选简介外链：https://www.instagram.com/tongcat1314/（私信需按当次授权）|zh-TW|
-|199|第三推荐|[Let's Get Miserable](https://www.youtube.com/@LetsGetMiserable)|YouTube|英语/待核|48K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|200|第三推荐|[The Scarlet Seeker](https://www.youtube.com/@TheScarletSeeker)|YouTube|英语/待核|47.3K|无公开邮箱；备选简介外链：https://discord.gg/PZUNaxWUw9、https://twitter.com/ScarletSeeker、https://www.twitch.tv/thescarletseeker（私信需按当次授权）|en|
-|201|第三推荐|[てけてけ遊びちゃんねる](https://www.youtube.com/@teketeke_vtuber)|YouTube|日语/日本（待核）|41.7K|无公开邮箱；备选简介外链：https://discord.gg/3enB5E28Tv、https://twitter.com/paitayu（私信需按当次授权）|ja|
-|202|第三推荐|[Codz](https://www.youtube.com/@ItsCodz)|YouTube|英语/待核|40.2K|无公开邮箱；备选简介外链：https://discord.gg/sUHRsVBZtp、https://discord.gg/sUHRsVBZtp（私信需按当次授权）|en|
-|203|第三推荐|[Artiar](https://www.youtube.com/@artiar-dislyte4093)|YouTube|英语/马来西亚|35.5K|无公开邮箱；备选简介外链：Discord: discord.gg/BhF9QvnWe、Twitter: twitter.com/ArtiarDislyte（私信需按当次授权）|en|
-|204|第三推荐|[Marmotte Gaming](https://www.youtube.com/@BestmarmotteGaming)|YouTube|法语/法国|33.6K|无公开邮箱；备选简介外链：https://discord.gg/bestmarmotte、https://twitch.tv/bestmarmotte、https://twitter.com/Bestmarmotte（私信需按当次授权）|en|
-|205|第三推荐|[WarlockTD](https://www.youtube.com/@WarlockTDgaming)|YouTube|俄语/待核|31.9K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|206|第三推荐|[Republic Game](https://www.youtube.com/@republicgame)|YouTube|俄语/待核|31.5K|无公开邮箱；备选简介外链：https://www.tiktok.com/@republicgame（私信需按当次授权）|en|
-|207|第三推荐|[にぇん](https://www.youtube.com/@にぇん-n1z)|YouTube|日语/日本（待核）|30.1K|无公开邮箱；备选简介外链：https://x.com/nyen_yukkuri（私信需按当次授权）|ja|
-|208|第三推荐|[Trynet123](https://www.twitch.tv/trynet123)|Twitch|英语/待核|29,270 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|209|第三推荐|[TUMA](https://www.youtube.com/@I-LOVE-TUMA)|YouTube|日语/日本（待核）|28.4K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja|
-|210|第三推荐|[The Dutch Actuary](https://www.youtube.com/@TheDutchActuary)|YouTube|英语/待核|25.5K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|211|第三推荐|[zubu](https://www.youtube.com/@zubu)|YouTube|日语/日本（待核）|25K|无公开邮箱；备选简介外链：https://www.twitter.com/zubububu（私信需按当次授权）|ja|
-|212|第三推荐|[Keenoe Plays](https://www.youtube.com/@KeenoePlays)|YouTube|英语/待核|24.9K|无公开邮箱；备选简介外链：https://discord.gg/bVmkzsJEqT、https://www.tiktok.com/@keenoe、https://www.twitch.tv/keenoe（私信需按当次授权）|en|
-|213|第三推荐|[Rizzoli](https://www.youtube.com/@RizzoliVOD)|YouTube|英语/待核|24.3K|无公开邮箱；备选简介外链：https://discord.gg/9CCU53NtgW（私信需按当次授权）|en|
-|214|第三推荐|[AlemaoNFT](https://www.youtube.com/@alemaonftreal)|YouTube|葡萄牙语(巴西)/巴西|21.5K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|215|第三推荐|[Thet](https://www.youtube.com/@Thet)|YouTube|英语/待核|20.8K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|216|第三推荐|[Voyix](https://www.youtube.com/@Voyix)|YouTube|英语/待核|20.4K|无公开邮箱；备选简介外链：https://discord.gg/DSj5ERbUTF、https://www.twitch.tv/voyix64（私信需按当次授权）|en|
-|217|第三推荐|[遊戲雜談館](https://www.youtube.com/@HKGamingHall)|YouTube|华语(港澳及其他)/香港|19.4K|无公开邮箱；备选简介外链：https://x.com/kurosakiyuu_030、https://www.twitch.tv/kurosakiyuu、https://discord.gg/vuPbMcu（私信需按当次授权）|zh-TW|
-|218|第三推荐|[最終の哈姆](https://www.youtube.com/@finalhamu)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|19.3K|无公开邮箱；备选简介外链：https://discord.gg/4txYqfh（私信需按当次授权）|zh-TW|
-|219|第三推荐|[EuSouOGiba](https://www.youtube.com/@EuSouOGiba)|YouTube|葡萄牙语(巴西)/巴西|18.5K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|220|第三推荐|[PunNoFun](https://www.youtube.com/@PunNoFun)|YouTube|英语/待核|16.8K|无公开邮箱；备选简介外链：https://discord.gg/4GcyqCc9yp（私信需按当次授权）|en|
-|221|第三推荐|[STEAMATE](https://www.youtube.com/@steamate)|YouTube|俄语/待核|15.9K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|222|第三推荐|[Sleepy Cat](https://www.youtube.com/@MisterSleepyCat)|YouTube|英语/待核|14.9K|无公开邮箱；备选简介外链：https://www.twitch.tv/mistersleepycat、https://x.com/MisterSleepyCat（私信需按当次授权）|en|
-|223|第三推荐|[Task Bar Hero Dicas](https://www.youtube.com/@tbhdicas)|YouTube|葡萄牙语(巴西)/巴西|13.4K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|224|第三推荐|[Spartan](https://www.youtube.com/@SpartanTheTower)|YouTube|英语/美国|13.2K|无公开邮箱；备选简介外链：Community Discord: discord.com/invite/spartanthetower（私信需按当次授权）|en|
-|225|第三推荐|[Foxmaiden](https://www.youtube.com/@FoxmaidenOxB)|YouTube|葡萄牙语(巴西)/巴西|13K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|226|第三推荐|[Neofox](https://www.twitch.tv/neofox)|Twitch|英语/待核|12,975 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|227|第三推荐|[Doofus Mcdooface](https://www.youtube.com/@DoofusMcdoofaceStreaming)|YouTube|英语/待核|12.3K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|228|第三推荐|[리키리킹](https://www.youtube.com/@ksyliki)|YouTube|韩语/韩国|12.2K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko|
-|229|第三推荐|[KultZ](https://www.youtube.com/@KultZz)|YouTube|英语/待核|11.8K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|230|第三推荐|[よぷを](https://www.youtube.com/@YopmanGames)|YouTube|日语/日本（待核）|11.3K|无公开邮箱；备选简介外链：https://x.com/Yopuwo5Gmobile（私信需按当次授权）|ja|
-|231|第三推荐|[きーうぃk( i w i )](https://www.youtube.com/@きーうぃkiwi)|YouTube|日语/日本（待核）|10.3K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja|
-|232|第三推荐|[RoosterPB](https://www.youtube.com/@RoosterYoutube)|YouTube|英语/待核|10.2K|无公开邮箱；备选简介外链：https://discord.gg/VR3zYXyxGu、https://www.twitch.tv/roosterpb、www.twitch.tv/roosterpb（私信需按当次授权）|en|
-|233|第三推荐|[Carbrickscity](https://www.youtube.com/@carbrickscity)|YouTube|英语/待核|9.59K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|234|第三推荐|[게임찍먹 전문 겜노인](https://www.youtube.com/@gamnoin)|YouTube|韩语/韩国|9.52K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko|
-|235|第三推荐|[BreagoKeK](https://www.youtube.com/@BreagoKeK)|YouTube|俄语/待核|9.52K|无公开邮箱；备选简介外链：https://discord.gg/CwQzYHbCA（私信需按当次授权）|en|
-|236|第三推荐|[Cobrak Strategy](https://www.youtube.com/@CobStrategy)|YouTube|英语/待核|9.35K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|237|第三推荐|[Exvarghra GameLog](https://www.youtube.com/@Exvarghra)|YouTube|英语/待核|9.05K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|238|第三推荐|[MinhArte](https://www.youtube.com/@minharte)|YouTube|葡萄牙语(巴西)/巴西|9.01K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|239|第三推荐|[Steam Money ／ Все о заработке в стим](https://www.youtube.com/@steam_money)|YouTube|俄语/待核|8.63K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|240|第三推荐|[Gamer쿠그너즈](https://www.youtube.com/@koognuj)|YouTube|韩语/韩国|8.54K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko|
-|241|第三推荐|[ああああ](https://www.youtube.com/@aaaamh)|YouTube|日语/日本（待核）|8.08K|无公开邮箱；备选简介外链：https://www.twitch.tv/aaaa316、https://twitter.com/aaaa_mhw（私信需按当次授权）|ja|
-|242|第三推荐|[GPH Streams](https://www.youtube.com/@gphstreams)|YouTube|英语/菲律宾|7.96K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|243|第三推荐|[TwoBiers](https://www.youtube.com/@TwoBiers)|YouTube|德语/德国|7.81K|无公开邮箱；备选简介外链：https://www.twitch.tv/twobiers、https://www.twitter.com/twobiers（私信需按当次授权）|en|
-|244|第三推荐|[昭柴猫的猫老师](https://www.youtube.com/@FortunCatNya)|YouTube|华语(港澳及其他)/待核|7.66K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|245|第三推荐|[Zenaton](https://www.twitch.tv/zenaton)|Twitch|英语/待核|7,430 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|246|第三推荐|[老頭Z ／ 遊戲實測站](https://www.youtube.com/@LaotouZ_Gaming)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|7.35K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|zh-TW|
-|247|第三推荐|[Pantsuman](https://www.twitch.tv/pantsuman)|Twitch|英语/待核|7,037 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|248|第三推荐|[Skirmish](https://www.youtube.com/@IamSkirmish)|YouTube|英语/待核|6.86K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|249|第三推荐|[Bruel Games](https://www.youtube.com/@bruelgames)|YouTube|俄语/待核|6.8K|无公开邮箱；备选简介外链：https://discord.gg/eKHKtYsAxf、https://www.twitch.tv/bruelgames（私信需按当次授权）|en|
-|250|第三推荐|[Rahresh](https://www.twitch.tv/rahresh)|Twitch|英语/罗马尼亚（简介自称 professional Romanian）|6,541 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|251|第三推荐|[Midway](https://www.youtube.com/@MidwayPaladin)|YouTube|英语/西班牙|6.28K|无公开邮箱；备选简介外链：Twitch Channel: twitch.tv/midwayeu、Twitter: twitter.com/MidwayPaladin、Discord: discord.gg/EZzq6V9pkJ（私信需按当次授权）|en|
-|252|第三推荐|[Greeny](https://www.youtube.com/@GreenyTower)|YouTube|英语/美国|6.26K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|253|第三推荐|[Grounded SAP](https://www.youtube.com/@GroundedSAP)|YouTube|英语/英国（据简介外链 groundedsap.co.uk，待核）|6.07K|无公开邮箱；备选简介外链：https://www.twitch.tv/eldritch_catz（私信需按当次授权）|en|
-|254|第三推荐|[숲속의늑대](https://www.youtube.com/@%EC%88%B2%EC%86%8D%EC%9D%98%EB%8A%91%EB%8C%80)|YouTube|韩语/韩国|5.97K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko|
-|255|第三推荐|[TheGamesBrew（Roy Lovat）](https://www.youtube.com/@TheGamesBrew)|YouTube|其他语种/意大利（about 页 Country: Italy）|5.92K|无公开邮箱；备选简介外链：https://twitter.com/thegamesbrew、https://discord.gg/FxsFFEDSAY（私信需按当次授权）|en|
-|256|第三推荐|[knisce](https://www.youtube.com/@knisce)|YouTube|其他语种/土耳其（about 页 Country: Türkiye）|5.79K|无公开邮箱；备选简介外链：https://twitch.tv/sseckinnn、https://discord.gg/nh6AW3HD3（私信需按当次授权）|en|
-|257|第三推荐|[Force Indie](https://www.youtube.com/@ForceIndie)|YouTube|葡萄牙语(巴西)/待核|5.75K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|258|第三推荐|[Sir Drae](https://www.youtube.com/@SirDraee7)|YouTube|西班牙语/西班牙|5.57K|无公开邮箱；备选简介外链：https://www.twitch.tv/sirdrae、https://twitter.com/DraeDelfos、https://discord.gg/V8FB5sw（私信需按当次授权）|en|
-|259|第三推荐|[미스터 M](https://www.youtube.com/@MisterdotM)|YouTube|韩语/待核|5.53K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko|
-|260|第三推荐|[Jugando Indies](https://www.youtube.com/@JugandoIndies)|YouTube|西班牙语/阿根廷|5.04K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|261|第三推荐|[Vladik Hex](https://www.youtube.com/@VladikHex)|YouTube|俄语/待核|4.79K|无公开邮箱；备选简介外链：https://discord.gg/ZE8SMnG（私信需按当次授权）|en|
-|262|第三推荐|[Ken Cikas](https://www.youtube.com/@Ken_Cikas)|YouTube|英语/待核|4.73K|无公开邮箱；备选简介外链：https://twitter.com/LordXarsNexus、https://twitter.com/LordXarsNexus（私信需按当次授权）|en|
-|263|第三推荐|[ネストのゆっくりローグライク実況ch](https://www.youtube.com/@ネストのゆっくりローグライク実況ch)|YouTube|日语/日本（待核）|4.67K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja|
-|264|第三推荐|[Haikrazon](https://www.youtube.com/@Haikrazon)|YouTube|英语/待核|4.54K|无公开邮箱；备选简介外链：https://www.twitch.tv/haikrazon、https://www.instagram.com/haikrazon/、https://discord.gg/XaezqKcKgk（私信需按当次授权）|en|
-|265|第三推荐|[JustPatrick-Idle](https://www.youtube.com/@JustPatrick-Idle)|YouTube|英语/待核|4.44K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|266|第三推荐|[mikevalentine](https://www.twitch.tv/mikevalentine)|Twitch|俄语/待核|4,383 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|267|第三推荐|[Free to Play Games](https://www.youtube.com/@free2playgames)|YouTube|俄语/待核|4.34K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|268|第三推荐|[Pulse, Super Idle](https://www.youtube.com/@PulseIdle)|YouTube|英语/英国|4.34K|无公开邮箱；备选简介外链：My Links!: linktr.ee/PulseIRL（私信需按当次授权）|en|
-|269|第三推荐|[Chewieee](https://www.youtube.com/@Chewie-)|YouTube|英语/待核|4.31K|无公开邮箱；备选简介外链：Discord!: discord.com/invite/Bt3cfHMJ8k（私信需按当次授权）|en|
-|270|第三推荐|[CozyAriGames](https://www.youtube.com/@CozyAriGames)|YouTube|英语/加拿大|4.03K|无公开邮箱；备选简介外链：https://linktr.ee/cozyarigames（私信需按当次授权）|en|
-|271|第三推荐|[WhiteFalcon Plays](https://www.youtube.com/@WhiteFalconPlays)|YouTube|英语/待核|3.98K|无公开邮箱；备选简介外链：https://discord.com/invite/huukQ9eWVK、https://discord.gg/huukQ9eWVK、https://twitter.com/WhiteFalconPlay（私信需按当次授权）|en|
-|272|第三推荐|[かぐやそら](https://www.youtube.com/@KaguyaSora0625)|YouTube|日语/日本（待核）|3.96K|无公开邮箱；备选简介外链：https://x.com/Sola_Kaguya（私信需按当次授权）|ja|
-|273|第三推荐|[Ikarus_](https://www.twitch.tv/ikarus_)|Twitch|英语/德国（简介写 I am a German streamer）|3,949 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|274|第三推荐|[胖叔打游戏](https://www.youtube.com/@UncleFatGame)|YouTube|华语(港澳及其他)/待核|3.92K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|zh-TW|
-|275|第三推荐|[LuckOuts](https://www.youtube.com/@LuckOuts)|YouTube|英语/待核|3.9K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|276|第三推荐|[Lembyie (Лемби)](https://www.youtube.com/@Lembyie)|YouTube|俄语/待核|3.78K|无公开邮箱；备选简介外链：https://discord.gg/gT7cejCbW7（私信需按当次授权）|en|
-|277|第三推荐|[Apooche](https://www.twitch.tv/apooche)|Twitch|英语/待核|3,587 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|278|第三推荐|[smojo.](https://www.youtube.com/@SmojoWasTaken)|YouTube|英语/待核|3.58K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|279|第三推荐|[푸딩2](https://www.youtube.com/@%ED%91%B8%EB%94%A92)|YouTube|韩语/待核|3.47K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko|
-|280|第三推荐|[717 clicks](https://www.youtube.com/@717clicks)|YouTube|俄语/待核|3.39K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|281|第三推荐|[afkwoot](https://www.twitch.tv/afkwoot)|Twitch|英语/待核|3,286 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|282|第三推荐|[Tap B For Bacon](https://www.youtube.com/@TapBForBaconn)|YouTube|英语/美国|3.26K|无公开邮箱；备选简介外链：Twitch: twitch.tv/tapb4bacon（私信需按当次授权）|en|
-|283|第三推荐|[Once94](https://www.youtube.com/@once-94)|YouTube|西班牙语/西班牙|3.25K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|284|第三推荐|[Zefa](https://www.youtube.com/@ZefaGames)|YouTube|英语/待核|3.22K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|285|第三推荐|[Sayori Idle](https://www.youtube.com/@Sayoridle)|YouTube|其他语种/土耳其（简介推断，待核）|3.08K|无公开邮箱；备选简介外链：https://www.tiktok.com/@sayoridle、https://discord.com/users/sayoridle、https://www.tiktok.com/@sayoridle（私信需按当次授权）|en|
-|286|第三推荐|[マイナーゲームナビ !「おすすめインディーゲーム紹介ch」](https://www.youtube.com/@makoma7864)|YouTube|日语/日本（待核）|3.06K|无公开邮箱；备选简介外链：https://twitter.com/Makomak（私信需按当次授权）|ja|
-|287|第三推荐|[SuperSpruce](https://www.youtube.com/@SuperSpruce)|YouTube|英语/待核|3.02K|无公开邮箱；备选简介外链：https://discord.gg/jeRajFK、https://discord.gg/jeRajFK（私信需按当次授权）|en|
-|288|第三推荐|[ピカ様](https://www.youtube.com/@ピカTube)|YouTube|日语/日本（待核）|2.96K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja|
-|289|第三推荐|[Skuub](https://www.youtube.com/@SkuubTag)|YouTube|英语/待核|2.92K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|290|第三推荐|[Chrisp44s](https://www.youtube.com/@TheChrisp44s)|YouTube|英语/待核|2.85K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|291|第三推荐|[C4lmont](https://www.youtube.com/@C4lmont)|YouTube|葡萄牙语(巴西)/巴西|2.82K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|292|第三推荐|[MiniMatt](https://www.twitch.tv/minimatt)|Twitch|英语/美国（简介写 Colorado based）|2,731 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|293|第三推荐|[Santiago Play](https://www.youtube.com/@SantiagoPlay1)|YouTube|俄语/待核|2.67K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|294|第三推荐|[whisperzz_live](https://www.twitch.tv/whisperzz_live)|Twitch|英语/待核|2,586 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|295|第三推荐|[will309productions](https://www.youtube.com/@will309productions)|YouTube|英语/美国|2.57K|无公开邮箱；备选简介外链：Twitch: twitch.tv/will309productions、Discord: discord.gg/YasnMcAYTG（私信需按当次授权）|en|
-|296|第三推荐|[JAMMA GAMING](https://www.youtube.com/@jamma-gaming)|YouTube|法语/法国|2.56K|无公开邮箱；备选简介外链：https://discord.gg/REEvZxV、https://twitter.com/JAMMAGameur、https://www.instagram.com/jammagaming/?hl=fr（私信需按当次授权）|en|
-|297|第三推荐|[Fuyn XP](https://www.youtube.com/@FuynXP)|YouTube|西班牙语/西班牙|2.53K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|298|第三推荐|[孖寶遊戲頻道](https://www.youtube.com/@TwinsGaming96)|YouTube|华语(港澳及其他)/香港（待核）|2.5K|无公开邮箱；备选简介外链：https://twitter.com/TwinsGaming96（私信需按当次授权）|zh-TW|
-|299|第三推荐|[Idle Farrell](https://www.youtube.com/@idlefarrell)|YouTube|西班牙语/哥斯达黎加|2.34K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|300|第三推荐|[Slow Mo](https://www.youtube.com/@SlowMoInc)|YouTube|英语/待核|2.22K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|301|第三推荐|[veetoqc](https://www.twitch.tv/veetoqc)|Twitch|英语/加拿大（简介自称 French Canadian）|2,108 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|302|第三推荐|[Phima](https://www.twitch.tv/phima)|Twitch|俄语/待核|2,089 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|303|第三推荐|[Mast](https://www.youtube.com/@Mastゆっくりsub)|YouTube|日语/日本（待核）|2.07K|无公开邮箱；备选简介外链：https://x.com/Mast21yk（私信需按当次授权）|ja|
-|304|第三推荐|[thecapnkBR](https://www.youtube.com/@thecapnkBR)|YouTube|葡萄牙语(巴西)/巴西|2.06K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|305|第三推荐|[KelbyMG](https://www.twitch.tv/kelbymg)|Twitch|英语/待核|1,856 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|306|第三推荐|[Squid RPG](https://www.youtube.com/@SquidRPG)|YouTube|英语/待核|1.79K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|307|第三推荐|[GRINDING CURRENCY](https://www.youtube.com/@grindingcurrency)|YouTube|英语/待核|1.76K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|308|第三推荐|[Moskotomo](https://www.youtube.com/@moskotomo)|YouTube|葡萄牙语(巴西)/巴西|1.71K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|309|第三推荐|[LeoDriango](https://www.twitch.tv/leodriango)|Twitch|英语/待核|1,607 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|310|第三推荐|[서토리의 게임카페!](https://www.youtube.com/@seotorie_vtube)|YouTube|韩语/待核|1.59K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko|
-|311|第三推荐|[Idle Zeroes](https://www.youtube.com/@IdleZeroes)|YouTube|英语/待核|1.49K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|312|第三推荐|[AskaAndTheWolf](https://www.twitch.tv/askaandthewolf)|Twitch|英语/待核|1,462 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|313|第三推荐|[DemonAce227](https://www.youtube.com/@DemonAce227)|YouTube|英语/待核|1.46K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|314|第三推荐|[AxionEvolved](https://www.youtube.com/@AxionEvolved)|YouTube|英语/待核|1.42K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|315|第三推荐|[せかまつ【終末世界系ゲームch】](https://www.youtube.com/@sekamatsugame)|YouTube|日语/日本（待核）|1.38K|无公开邮箱；备选简介外链：https://x.com/sekamatsu_game（私信需按当次授权）|ja|
-|316|第三推荐|[ZweiMarcFuffzig](https://www.youtube.com/@zweiMarcfuffzig)|YouTube|德语/德国|1.37K|无公开邮箱；备选简介外链：https://discord.gg/ZyFCgt48tj、https://www.twitch.tv/zweimarcfuffzig（私信需按当次授权）|en|
-|317|第三推荐|[XP Kolik](https://www.youtube.com/@XpKolik)|YouTube|其他语种/土耳其（about 页 Country: Türkiye）|1.31K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|318|第三推荐|[Steelsane](https://www.twitch.tv/steelsane)|Twitch|俄语/待核|1,263 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en|
-|319|第三推荐|[霊夢のひまつぶし。](https://www.youtube.com/@霊夢のひまつぶし)|YouTube|日语/日本（待核）|1.24K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja|
-|320|第三推荐|[XCalibur](https://www.youtube.com/@XCaliburGamingOfficial)|YouTube|英语/美国|1.19K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|321|第三推荐|[老獅](https://www.youtube.com/@老獅玩遊戲)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|1.13K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|zh-TW|
-|322|第三推荐|[Arteo Pixel](https://www.youtube.com/@ArteoPixel)|YouTube|法语/待核|1.1K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|323|第三推荐|[/うい](https://www.youtube.com/@ch-bg4xu)|YouTube|日语/日本（待核）|1.09K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja|
-|324|第三推荐|[EthanDX](https://www.youtube.com/@EthanDX)|YouTube|英语/美国|1.03K|无公开邮箱；备选简介外链：Discord: discord.gg/CcDrzPJT3n（私信需按当次授权）|en|
-|325|第三推荐|[Normalhs](https://www.youtube.com/@notmalhs)|YouTube|英语/待核|970|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|326|第三推荐|[IdleAlex](https://www.youtube.com/@realIdleAlex)|YouTube|英语/待核|942|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|327|第三推荐|[Pooplove Plays](https://www.youtube.com/@PooplovePlays)|YouTube|英语/美国|800|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|328|第三推荐|[DeeN](https://www.youtube.com/@DeeNorMani)|YouTube|英语/待核|693|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|329|第三推荐|[먼로의 메이플키우기](https://www.youtube.com/@monroelee516)|YouTube|韩语/待核|692|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko|
-|330|第三推荐|[Batza](https://www.youtube.com/@batza80)|YouTube|英语/待核|657|无公开邮箱；备选简介外链：https://www.twitch.tv/batza80、https://www.twitch.tv/batza80（私信需按当次授权）|en|
-|331|第三推荐|[The Incremental Engineer](https://www.youtube.com/@TheIncrementalEngineer)|YouTube|德语/德国|622|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|332|第三推荐|[The Roach Zone](https://www.youtube.com/@TheRoachZone-gg)|YouTube|英语/待核|578|无公开邮箱；备选简介外链：https://x.com/TheRoachZone、https://www.instagram.com/theroachzone.gg/、https://www.instagram.com/theroachzone.gg/（私信需按当次授权）|en|
-|333|第三推荐|[Jürgens Pott](https://www.youtube.com/@jurgenspott)|YouTube|德语/德国|347|无公开邮箱；备选简介外链：https://discord.gg/B2Y3keYmhe、https://www.twitch.tv/juergenspott（私信需按当次授权）|en|
-|334|第三推荐|[Meruwem](https://www.youtube.com/@meruwem0)|YouTube|英语/待核|295|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en|
-|335|第三推荐|[팰까 종합게임](https://www.youtube.com/@PELKA_GAME)|YouTube|韩语/韩国|105|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko|
+|#|优先级|创作者|平台|语言/地区|订阅|联系渠道|邀请稿|发信注意|
+|---:|---|---|---|---|---|---|---|---|
+|1|第一推荐|[Waligug](https://www.youtube.com/@Waligug)|YouTube|英语/待核|879K|邮箱：waligug@intheblackmedia.com|en|经纪方邮箱，可能回报价|
+|2|第一推荐|[Skoottie](https://www.youtube.com/@Skoottie)|YouTube|英语/待核|440K|邮箱：skoottie@clovertalent.gg|en|经纪方邮箱，可能回报价|
+|3|第一推荐|[Lice萊斯](https://www.youtube.com/@LiceMoo)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|340K|邮箱：lice.moo@hotmail.com|zh-TW|做过「合作诈骗」主题视频：邀请信不带附件、不用短链|
+|4|第一推荐|[Maxims Zweitkanal](https://www.youtube.com/@maximszweitkanal)|YouTube|德语/德国|272K|邮箱：maxim@instinct3.de|en||
+|5|第一推荐|[Gohjoe](https://www.youtube.com/@Gohjoe)|YouTube|英语/待核|201K|邮箱：gohjoebusiness@gmail.com|en||
+|6|第一推荐|[Kaiffu](https://www.youtube.com/@Kaiffu)|YouTube|英语/待核|196K|邮箱：Kaif@saltraiders.com|en||
+|7|第一推荐|[PFY玩給你看](https://www.youtube.com/@pfytw)|YouTube|繁体中文(台湾)/台湾（台湾）|151K|邮箱：playforyoutw@gmail.com|zh-TW||
+|8|第一推荐|[NQH](https://www.youtube.com/@NQH-X)|YouTube|其他语种/越南（about 页 Country: Vietnam）|82.3K|邮箱：nguyenquochuy1094@gmail.com|en||
+|9|第一推荐|[Only Incrementals](https://www.youtube.com/@OnlyIndies)|YouTube|西班牙语/西班牙|81K|邮箱：gerierwarwick@gmail.com|en||
+|10|第一推荐|[MOREQUIS](https://www.youtube.com/@Morequis)|YouTube|英语/待核|67K|邮箱：collaborations@morequis.com|en||
+|11|第一推荐|[たまチャンネル](https://www.youtube.com/@たまチャンネル)|YouTube|日语/日本（待核）|58.4K|邮箱：tamachannel@youdaoads.com|ja|经纪方邮箱，可能回报价|
+|12|第一推荐|[kakakyjla](https://www.youtube.com/@kakakyjla)|YouTube|俄语/待核|53.4K|邮箱：kakakyjla@gmail.com|en||
+|13|第一推荐|[김더미](https://www.youtube.com/@DummyKim)|YouTube|韩语/韩国|50.4K|邮箱：omen6101@gmail.com|ko||
+|14|第一推荐|[Tama【ゲーム紹介ch】](https://www.youtube.com/@tama1370)|YouTube|日语/日本（待核）|49.1K|邮箱：sosbrigade276@gmail.com|ja|简介原文写作 sosbrigade276☆gmail.com，发送时用 @|
+|15|第一推荐|[RundPhunkRoyal](https://www.youtube.com/@RundPhunkRoyal)|YouTube|德语/德国|43.3K|邮箱：phunkroyal@1up.management|en|经纪方邮箱，可能回报价|
+|16|第一推荐|[FonFon](https://www.youtube.com/@FonFonIdle)|YouTube|英语/待核|29.2K|邮箱：fonfon@intheblackmedia.com|en|经纪方邮箱，可能回报价|
+|17|第一推荐|[샤커레또](https://www.youtube.com/@shakerratto)|YouTube|韩语/韩国|24.9K|邮箱：shakerratto9@naver.com|ko||
+|18|第一推荐|[Dabble](https://www.youtube.com/@DabbleYT)|YouTube|英语/待核|17.5K|邮箱：dabblegamingyt@gmail.com|en||
+|19|第一推荐|[UykuKapsülü（Cenk / GameCapsule）](https://www.youtube.com/@UykuKapsulu)|YouTube|其他语种/土耳其（about 页 Country: Türkiye）|13.6K|邮箱：gamecapsule@hotmail.com|en||
+|20|第一推荐|[Starker MMOs](https://www.youtube.com/@StarkerMMOs)|YouTube|葡萄牙语(巴西)/巴西|11.6K|邮箱：starkerlendario1@gmail.com|en||
+|21|第一推荐|[Ukernan Gaming](https://www.youtube.com/@UkernanGaming)|YouTube|西班牙语/阿根廷|11.2K|邮箱：ukernangaming@gmail.com|en||
+|22|第一推荐|[Fox Clicks Again](https://www.youtube.com/@FoxClicksAgain)|YouTube|英语/待核|9K|邮箱：soulfox@noetictalentagency.com|en|经纪方邮箱，可能回报价|
+|23|第一推荐|[なぎせいな / 凪世薙](https://www.youtube.com/@nagi_517)|YouTube|日语/日本（待核）|7.51K|邮箱：nagiseina12345@gmail.com|ja||
+|24|第一推荐|[Idle Gamer](https://www.youtube.com/@IdleClicker)|YouTube|英语/待核|5.88K|邮箱：idlegamerhq@gmail.com|en||
+|25|第一推荐|[Malterus Gaming](https://www.youtube.com/@Malterus_Gaming)|YouTube|德语/德国|5.85K|邮箱：malteruszockt@web.de|en||
+|26|第二推荐|[GrayStillPlays](https://www.youtube.com/@GrayStillPlays)|YouTube|英语/待核|8.63M|邮箱：graystillplays@gmail.com|en||
+|27|第二推荐|[Obsidian Time](https://www.youtube.com/@ObsidianTime)|YouTube|俄语/待核|1.5M|邮箱：obsidianconnection@gmail.com|en||
+|28|第二推荐|[풍월량](https://www.youtube.com/@hanryang1125)|YouTube|韩语/韩国|530K|邮箱：poongtube1125@sandbox.co.kr, windmoon1125@naver.com|ko||
+|29|第二推荐|[ニグチャンネル](https://www.youtube.com/@shiroinu1128)|YouTube|日语/日本（待核）|460K|邮箱：niguchannel@gmail.com|ja||
+|30|第二推荐|[InterndotGif](https://www.youtube.com/@InternDotGif)|YouTube|英语/待核|447K|邮箱：interndotgif@screenwavemedia.com|en||
+|31|第二推荐|[GameEdged](https://www.youtube.com/@gameedged)|YouTube|英语/待核|361K|邮箱：gameedged@gmail.com|en||
+|32|第二推荐|[ShadesOfNate](https://www.youtube.com/@ShadesOfNate)|YouTube|英语/待核|280K|邮箱：shadesofnate@thenode.gg|en||
+|33|第二推荐|[Рекви](https://www.youtube.com/@rekvizit8bit)|YouTube|俄语/待核|276K|邮箱：dedakimdak@gmail.com|en||
+|34|第二推荐|[Floydsonson](https://www.youtube.com/@Floydsonson)|YouTube|英语/待核|225K|邮箱：floydson@intheblackmedia.com|en||
+|35|第二推荐|[TrueDad](https://www.youtube.com/@TrueDad)|YouTube|俄语/待核|156K|邮箱：truedadinvestment@gmail.com|en||
+|36|第二推荐|[The SKY Alliance](https://www.youtube.com/@theskyalliance)|YouTube|英语/加拿大|134K|邮箱：partnerships@theskyalliance.com|en||
+|37|第二推荐|[MKxJUMP](https://www.youtube.com/@MKxJUMP)|YouTube|英语/英国|102K|邮箱：admin@mkxjump.com|en||
+|38|第二推荐|[Ryfek](https://www.youtube.com/@Ryfek)|YouTube|其他语种/波兰（about 页 Country: Poland）|101K|邮箱：kontaktryfek@gmail.com|en||
+|39|第二推荐|[Játszótér（MakaM）](https://www.youtube.com/@jatszoter)|YouTube|其他语种/匈牙利（about 页 Country: Hungary）|88.4K|邮箱：makamhun@gmail.com|en||
+|40|第二推荐|[PonPonLin蹦蹦林](https://www.youtube.com/@ponponlin)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|79.4K|邮箱：ponponlinlife@gmail.com|zh-TW||
+|41|第二推荐|[Scion Storm](https://www.youtube.com/@ScionStorm)|YouTube|英语/美国|59.8K|邮箱：silentstorminc@gmail.com|en||
+|42|第二推荐|[Ggyu tube](https://www.youtube.com/@Ggyutube)|YouTube|韩语/韩国|49.3K|邮箱：mkt@metaplug.co.kr|ko||
+|43|第二推荐|[Only Roguelikes](https://www.youtube.com/@OnlyRoguelikes)|YouTube|西班牙语/待核|42.7K|邮箱：gerierwarwick@gmail.com|en||
+|44|第二推荐|[Puzzle - AFK Journey!](https://www.youtube.com/@PuzzleAFKJ)|YouTube|英语/美国|38.8K|邮箱：shreddedpuzzle@gmail.com|en||
+|45|第二推荐|[껨디](https://www.youtube.com/@GGDsandevistan)|YouTube|韩语/韩国|32.6K|邮箱：ggemdi@daum.net|ko||
+|46|第二推荐|[ぎあ](https://www.youtube.com/@Rustgear2nd)|YouTube|日语/日本（待核）|29.4K|邮箱：geqrs3025@gmail.com|ja||
+|47|第二推荐|[Torugão](https://www.youtube.com/@torugaoo)|YouTube|葡萄牙语(巴西)/巴西|27.4K|邮箱：contato.torugo@gmail.com|en||
+|48|第二推荐|[Indeday](https://www.youtube.com/@Indeday)|YouTube|法语/法国|27.1K|邮箱：syzix14@gmail.com|en||
+|49|第二推荐|[OHRye](https://www.youtube.com/@OHRyePlays)|YouTube|英语/待核|26.1K|邮箱：OHRyePlays@gmail.com|en||
+|50|第二推荐|[이구역의 듀공](https://www.youtube.com/@grownbb)|YouTube|韩语/韩国|23.5K|邮箱：grownbb@naver.com|ko||
+|51|第二推荐|[MacicTV](https://www.youtube.com/@MacicTV)|YouTube|法语/法国|23.2K|邮箱：macictv.1@gmail.com|en||
+|52|第二推荐|[RoyaloYT](https://www.youtube.com/@royaloYT)|YouTube|其他语种/意大利（about 页 Country: Italy）|21.8K|邮箱：royaloytbusiness@gmail.com|en||
+|53|第二推荐|[Satan Claus PLAY!](https://www.youtube.com/@satanclausplay)|YouTube|俄语/待核|20K|邮箱：satanclausplay@mail.ru|en||
+|54|第二推荐|[이고올](https://www.youtube.com/@LeeGoAll)|YouTube|韩语/韩国|19.4K|邮箱：wicd123@naver.com|ko||
+|55|第二推荐|[JTM](https://www.youtube.com/@JTMPLays)|YouTube|英语/待核|18.6K|邮箱：info@jtmplays.com|en||
+|56|第二推荐|[Gaming With Jeff](https://www.youtube.com/@gamingwithjeff)|YouTube|英语/待核|18.3K|邮箱：gamingwithjeff4business@gmail.com|en||
+|57|第二推荐|[Game Launch Central](https://www.youtube.com/@GameLaunchCentral)|YouTube|英语/待核|17.4K|邮箱：gamesaiolia@gmail.com|en||
+|58|第二推荐|[Тупой Горностай（同一主播另有 Шляпа Горностая）](https://www.youtube.com/@TupoyGornostay)|YouTube|俄语/待核|16.9K|邮箱：blindermine.ad@gmail.com|en||
+|59|第二推荐|[Grinnn](https://www.youtube.com/@Grinnn)|YouTube|英语/印度|15.5K|邮箱：Konsugg.business@gmail.com|en||
+|60|第二推荐|[게임달고나](https://www.youtube.com/@%EB%AA%A8%EB%B0%94%EC%9D%BC%EA%B2%8C%EC%9E%84)|YouTube|韩语/韩国|14.5K|邮箱：mkt@metaplug.co.kr|ko||
+|61|第二推荐|[훈TV](https://www.youtube.com/@%ED%9B%88TV%ED%9B%88)|YouTube|韩语/韩国|12.4K|邮箱：lmh4186@naver.com|ko||
+|62|第二推荐|[초록괴물](https://www.youtube.com/@%EC%B4%88%EB%A1%9D%EA%B4%B4%EB%AC%BC)|YouTube|韩语/韩国|12.1K|邮箱：itarcadegame@gmail.com|ko||
+|63|第二推荐|[ExGold](https://www.youtube.com/@ExGold)|YouTube|其他语种/意大利（about 页 Country: Italy）|11.9K|邮箱：exgold97@gmail.com|en||
+|64|第二推荐|[PlayZodi](https://www.youtube.com/@Zodi)|YouTube|俄语/待核|11.5K|邮箱：playwithzodi@gmail.com|en||
+|65|第二推荐|[게임픽 GAMEPICK](https://www.youtube.com/@%EA%B2%8C%EC%9E%84%ED%94%BD-GAMEPICK)|YouTube|韩语/韩国|10.2K|邮箱：gamepickbiz@gmail.com|ko||
+|66|第二推荐|[CVMG Gaming](https://www.youtube.com/@CVMG)|YouTube|英语/美国|9.9K|邮箱：cvmg107@gmail.com|en||
+|67|第二推荐|[スケット団@Games](https://www.youtube.com/@Games-wn6xx)|YouTube|日语/日本（待核）|9.23K|邮箱：suketto20200404@gmail.com|ja||
+|68|第二推荐|[Soulrise Gaming](https://www.youtube.com/@soulrisegaming)|YouTube|英语/英国|9.12K|邮箱：soulrise919@yahoo.com|en||
+|69|第二推荐|[Trusty](https://www.youtube.com/@yartaholic)|YouTube|英语/待核|8.1K|邮箱：Trustysinq@gmail.com|en||
+|70|第二推荐|[SYROX GAMING](https://www.youtube.com/@SYROX_GAMING)|YouTube|俄语/待核|7.48K|邮箱：thesyrox.tv@gmail.com|en||
+|71|第二推荐|[CheeseCakeCactus](https://www.youtube.com/@CheeseCakeCactus)|YouTube|英语/待核|6.55K|邮箱：cheesecakecactus123@gmail.com|en||
+|72|第二推荐|[겜플리](https://www.youtube.com/@%EA%B2%9C%ED%94%8C%EB%A6%AC)|YouTube|韩语/韩国|5.69K|邮箱：ad@lolq.co.kr, lbc8748@naver.com|ko||
+|73|第二推荐|[IdleGamerYT](https://www.youtube.com/@idlegamerYT1)|YouTube|英语/巴西|5.62K|邮箱：IDLEGAMERYT@tutamail.com|en||
+|74|第二推荐|[咖啡樂's](https://www.youtube.com/@coffee0530)|YouTube|繁体中文(台湾)/台湾（台湾）|5.6K|邮箱：q23041940q@gmail.com|zh-TW|建议推迟到 12 月中旬；简介写明「Booked until mid-Dec / 目前行程至 12 月中旬」：建议 12 月中旬再发（已定稿的邀请稿含首发档期，不另改稿）|
+|75|第二推荐|[是努努鴨](https://www.youtube.com/@是努努鴨)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|5.54K|邮箱：ian510823@gmail.com|zh-TW||
+|76|第二推荐|[A게임TV](https://www.youtube.com/@AGAMETVKOR)|YouTube|韩语/韩国|5.48K|邮箱：wjdgkfk@gmail.com|ko||
+|77|第二推荐|[Introvert Party](https://www.youtube.com/@martianpotplays)|YouTube|英语/加拿大（简介写 Canadian）|3.85K|邮箱：introvertpartymartian@gmail.com|en||
+|78|第二推荐|[Ash Swoon](https://www.youtube.com/@ashswoon)|YouTube|英语/待核|3.73K|邮箱：AshSwoonYT@gmail.com|en||
+|79|第二推荐|[глазами геймдизайнера](https://www.youtube.com/@gamedesigneyes)|YouTube|俄语/待核|3.66K|邮箱：kaf.channel.work@gmail.com|en||
+|80|第二推荐|[Ruddaii](https://www.youtube.com/@Ruddaii)|YouTube|法语/法国|3.65K|邮箱：ruddaii.contactpro@gmail.com|en||
+|81|第二推荐|[VhGaming](https://www.youtube.com/@VhGamingIH)|YouTube|英语/待核|3.33K|邮箱：vhgaming2025@gmail.com|en||
+|82|第二推荐|[IndieRadar by RangerArea](https://www.youtube.com/@IndieRadarRanger)|YouTube|德语/德国|3.13K|邮箱：Ranger@2ndwave.rocks|en||
+|83|第二推荐|[Старый Маразматик](https://www.youtube.com/@izvinis777)|YouTube|俄语/待核|2.85K|邮箱：pozilaaanakonda@gmail.com|en||
+|84|第二推荐|[Elfe](https://www.youtube.com/@ElfeYT)|YouTube|英语/芬兰|2.68K|邮箱：elfeytb@gmail.com|en||
+|85|第二推荐|[電話莎的電波塔](https://www.youtube.com/@telephone_sa)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|2.34K|邮箱：teltelsasasa@gmail.com|zh-TW||
+|86|第二推荐|[PumpkinIdle](https://www.youtube.com/@PumpkinIdle)|YouTube|英语/加拿大|2.24K|邮箱：PumpkinIdle@yahoo.com|en||
+|87|第二推荐|[Juste une run](https://www.youtube.com/@Justeunerun)|YouTube|法语/法国|1.65K|邮箱：contact.justeunerun@gmail.com|en||
+|88|第二推荐|[뭐라고요](https://www.youtube.com/@%EB%AD%90%EB%9D%BC%EA%B3%A0%EC%9A%94)|YouTube|韩语/韩国|1.56K|邮箱：dexlove@naver.com|ko||
+|89|第二推荐|[Расслабься, бро](https://www.youtube.com/@konturofchill)|YouTube|俄语/待核|1.39K|邮箱：konturoffstream@gmail.com|en||
+|90|第二推荐|[Kayork](https://www.youtube.com/@KayorkGaming)|YouTube|法语/待核|1.22K|邮箱：kayork.gaming@gmail.com|en||
+|91|第二推荐|[돈냥](https://www.youtube.com/@%EB%B0%95%EB%8F%88%EB%83%A5)|YouTube|韩语/韩国|1.09K|邮箱：ehssid1990@naver.com|ko||
+|92|第二推荐|[Vicio ONE MORE TIME!!!!](https://www.youtube.com/@VicioONEMORETIME)|YouTube|西班牙语/西班牙|1.81M|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|93|第二推荐|[HandOfUncut](https://www.youtube.com/@HandOfUncut)|YouTube|德语/德国|1.47M|无公开邮箱；备选简介外链：https://twitter.com/HandOfBlood、https://www.instagram.com/handiofiblood/、https://www.twitch.tv/handofblood（私信需按当次授权）|en||
+|94|第二推荐|[ImCade](https://www.youtube.com/@ImCade)|YouTube|英语/待核|1.2M|无公开邮箱；备选简介外链：https://www.instagram.com/imcadeyt/、https://www.tiktok.com/@imcadeyt、https://x.com/ImCadeYT（私信需按当次授权）|en||
+|95|第二推荐|[Dr_Horse](https://www.youtube.com/@Dr_Horse)|YouTube|法语/法国|847K|无公开邮箱；备选简介外链：https://discord.gg/cyb0rg、https://twitter.com/Dr_HorseYT、https://www.tiktok.com/@dr_horse_yt（私信需按当次授权）|en||
+|96|第二推荐|[Z1 Gaming](https://www.youtube.com/@Z1Gaming)|YouTube|英语/待核|658K|无公开邮箱；备选简介外链：https://discord.gg/Q2s9eDr、https://www.instagram.com/Z1GamingTV、https://www.twitch.tv/Z1Gaming（私信需按当次授权）|en||
+|97|第二推荐|[阿路的精神時光屋](https://www.youtube.com/@rusiru87time)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|181K|无公开邮箱；备选简介外链：https://www.instagram.com/rusiruuuuuuuu/（私信需按当次授权）|zh-TW||
+|98|第二推荐|[しんじさん](https://www.youtube.com/@しんじさん)|YouTube|日语/日本（待核）|167K|无公开邮箱；备选简介外链：https://twitter.com/Shinjisan_XD（私信需按当次授权）|ja||
+|99|第二推荐|[Tian Kami](https://www.youtube.com/@TianKami)|YouTube|俄语/待核|136K|无公开邮箱；备选简介外链：https://www.twitch.tv/tiankami（私信需按当次授权）|en||
+|100|第二推荐|[Grillmastah](https://www.youtube.com/@Grillmastah)|YouTube|英语/待核|126K|无公开邮箱；备选简介外链：https://twitter.com/grillmastah?lang=en、https://www.twitch.tv/grillmastah、https://discord.gg/8XZ39Df（私信需按当次授权）|en||
+|101|第二推荐|[Samed Güngör Live](https://www.youtube.com/@samedgungorlive)|YouTube|其他语种/土耳其（vidIQ 国家字段 Türkiye；全土耳其语内容）|115K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|102|第二推荐|[Azrilich](https://www.youtube.com/@AzrilichIdle)|YouTube|英语/待核|91.9K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|103|第二推荐|[Sonoket Gaming](https://www.youtube.com/@Sonoket)|YouTube|英语/待核|91.3K|无公开邮箱；备选简介外链：https://twitter.com/sonoket、https://www.instagram.com/sonoketgaming/、Twitch.tv/sonoket（私信需按当次授权）|en||
+|104|第二推荐|[iPICKmyBUTT](https://www.youtube.com/@iPICKmyBUTT)|YouTube|英语/美国|51.6K|无公开邮箱；备选简介外链：Twitch: twitch.tv/ipickmybut（私信需按当次授权）|en||
+|105|第二推荐|[TheHolomovement](https://www.youtube.com/@TheHolomovement)|YouTube|法语/法国|51.2K|无公开邮箱；备选简介外链：http://instagram.com/theholomovement、http://twitter.com/theholomovement、http://www.twitch.tv/theholomovement（私信需按当次授权）|en||
+|106|第二推荐|[Hultutigamer（フルツチ）](https://www.youtube.com/@hultutigaming)|YouTube|日语/日本（待核）|50.1K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja||
+|107|第二推荐|[GriffyBit](https://www.youtube.com/@GriffyBitMain)|YouTube|英语/加拿大|43.6K|无公开邮箱；备选简介外链：Twitch: twitch.tv/griffybit、Twitter: twitter.com/BitGriffy、Discord: discord.gg/yVzQSrVR5U（私信需按当次授权）|en||
+|108|第二推荐|[mcveety](https://www.youtube.com/@reallymcveety)|YouTube|英语/待核|42.2K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|109|第二推荐|[Furry Hippo Gaming](https://www.youtube.com/@furryhippogaming)|YouTube|英语/美国|41.8K|无公开邮箱；备选简介外链：Discord: discord.gg/yCJpXv5、Twitter: twitter.com/Furry_Hippo（私信需按当次授权）|en||
+|110|第二推荐|[OberkommissarT](https://www.youtube.com/@oberkommissart)|YouTube|德语/德国|39.7K|无公开邮箱；备选简介外链：https://discord.gg/JkwRACwbeW、https://www.instagram.com/mofunari_art/、https://www.twitch.tv/oberkommissart（私信需按当次授权）|en||
+|111|第二推荐|[Stanz but Gaming](https://www.youtube.com/@StanzbutGaming)|YouTube|英语/待核|37.8K|无公开邮箱；备选简介外链：https://www.twitch.tv/stanz、https://www.twitch.tv/stanz/（私信需按当次授权）|en||
+|112|第二推荐|[SuperAutoGaming](https://www.youtube.com/@SuperAutoGaming)|YouTube|英语/待核|32.9K|无公开邮箱；备选简介外链：https://www.twitch.tv/superautogaming（私信需按当次授权）|en||
+|113|第二推荐|[Bonjwa Gaming](https://www.youtube.com/@BonjwaDEGaming)|YouTube|德语/德国|32.4K|无公开邮箱；备选简介外链：https://twitter.com/bonjwaDE、https://www.bonjwa.de/discord（私信需按当次授权）|en||
+|114|第二推荐|[よよよ](https://www.youtube.com/@check_yoyoyo)|YouTube|日语/日本（待核）|30.7K|无公开邮箱；备选简介外链：https://twitter.com/UdhCaudyyDjozR9（私信需按当次授权）|ja||
+|115|第二推荐|[Geek Fight Games](https://www.youtube.com/@geekfightgames)|YouTube|俄语/俄罗斯（简介称已在俄罗斯 Roskomnadzor 登记）|27.7K|无公开邮箱；备选简介外链：https://www.twitch.tv/geekmastaa（私信需按当次授权）|en||
+|116|第二推荐|[Rusty Champaign](https://www.youtube.com/@RustyChampaign)|YouTube|英语/待核|25.5K|无公开邮箱；备选简介外链：https://discord.gg/xxKZFsveDn、https://www.instagram.com/rustychampaign/、twitch.tv/rustychampaign（私信需按当次授权）|en||
+|117|第二推荐|[Zueljin Plays](https://www.youtube.com/@zueljinplays)|YouTube|英语/待核|17.3K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|118|第二推荐|[はるお](https://www.youtube.com/@haruogames)|YouTube|日语/日本（待核）|17.1K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja||
+|119|第二推荐|[Nerfed Reflexes](https://www.youtube.com/@NerfedReflexes)|YouTube|英语/待核|14.7K|无公开邮箱；备选简介外链：https://discord.gg/cSYyxJKDr7、https://www.twitch.tv/nerfedreflexes、https://discord.gg/cSYyxJKDr7（私信需按当次授权）|en||
+|120|第二推荐|[Assami Muzaki](https://www.youtube.com/@AssamiMuzaki)|YouTube|其他语种/印度尼西亚（about 页 Country: Indonesia）|14.1K|无公开邮箱；备选简介外链：https://discord.gg/GFeBGM5uqH（私信需按当次授权）|en||
+|121|第二推荐|[AhkTaar Prime](https://www.youtube.com/@ahktaarprime)|YouTube|英语/法国|12.9K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|122|第二推荐|[AboboKnows](https://www.youtube.com/@AboboKnows)|YouTube|英语/待核|12.5K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|123|第二推荐|[PolyMAOffline（Poly）](https://www.youtube.com/@PolyMaOffline)|YouTube|其他语种/意大利（about 页 Country: Italy）|11.8K|无公开邮箱；备选简介外链：https://twitch.tv/poly、https://linktr.ee/polylocco、https://instagram.com/poly.quizshow（私信需按当次授权）|en||
+|124|第二推荐|[Manfro](https://www.youtube.com/@manfroyt)|YouTube|其他语种/意大利（about 页 Country: Italy）|11.1K|无公开邮箱；备选简介外链：https://twitch.tv/marcuskron、https://discord.gg/marcuskron、https://instagram.com/marcuskron_yt（私信需按当次授权）|en||
+|125|第二推荐|[FungalBrainRot](https://www.youtube.com/@FungalBrainRot)|YouTube|英语/待核|10.5K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|126|第二推荐|[Flotidus](https://www.youtube.com/@Flotidus)|YouTube|德语/德国|9.71K|无公开邮箱；备选简介外链：https://discord.com/invite/p7XT4DdMkm、https://discord.gg/p7XT4DdMkm、https://www.twitch.tv/flotidus（私信需按当次授权）|en||
+|127|第二推荐|[Wraec - Gacha](https://www.youtube.com/@WraecGacha)|YouTube|英语/德国|9.26K|无公开邮箱；备选简介外链：Discord: discord.gg/AK63WQdTw2（私信需按当次授权）|en||
+|128|第二推荐|[shirlierox](https://www.youtube.com/@shirlierox)|YouTube|英语/英国|9.25K|无公开邮箱；备选简介外链：https://twitter.com/shirlierox、https://twitter.com/shirlierox（私信需按当次授权）|en||
+|129|第二推荐|[Кай стример](https://www.youtube.com/@KAISTREAMER)|YouTube|俄语/待核|8.41K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|130|第二推荐|[Gaarawarr](https://www.twitch.tv/gaarawarr)|Twitch|英语/待核|7,734 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|131|第二推荐|[RandomFlowerName](https://www.youtube.com/@RandomFlowerName)|YouTube|英语/瑞典|7.65K|无公开邮箱；备选简介外链：https://www.twitch.tv/randomflowername（私信需按当次授权）|en||
+|132|第二推荐|[CG Grows](https://www.youtube.com/@CGGrows)|YouTube|英语/待核|6.51K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|133|第二推荐|[つばさま(ゲーム実況)](https://www.youtube.com/@FAINL_TUBASA)|YouTube|日语/日本（待核）|5.59K|无公开邮箱；备选简介外链：https://twitter.com/FAINL_TUBASA（私信需按当次授权）|ja||
+|134|第二推荐|[小月歡樂星](https://www.youtube.com/@Licin小月)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|5.57K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|zh-TW||
+|135|第二推荐|[Tyredack](https://www.youtube.com/@tyredack)|YouTube|英语/待核|5.29K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|136|第二推荐|[Skagokalipsis](https://www.youtube.com/@Skagokalipsis)|YouTube|俄语/待核|5.13K|无公开邮箱；备选简介外链：https://www.twitch.tv/skagokalipsis（私信需按当次授权）|en||
+|137|第三推荐|[Fiouze](https://www.youtube.com/@FuzePlays)|YouTube|法语/法国|797K|邮箱：fiouze@blockmedia.fr|en||
+|138|第三推荐|[ナカイドのゲーム情報チャンネル](https://www.youtube.com/@nakaido)|YouTube|日语/日本（待核）|411K|邮箱：nakaido@socialdiva.jp；中国合作 nakaido_youdao@163.com|ja||
+|139|第三推荐|[ふつうのくま](https://www.youtube.com/@metokuma314)|YouTube|日语/日本（待核）|121K|邮箱：meto.work631214@gmail.com|ja||
+|140|第三推荐|[JGigs](https://www.youtube.com/@JGigs)|YouTube|英语/美国|88.1K|邮箱：jh@jonathanhagewood.com|en||
+|141|第三推荐|[Murtork](https://www.youtube.com/@Murtork)|YouTube|俄语/俄罗斯（简介称已列入俄罗斯 Roskomnadzor 个人页面名录）|46.6K|邮箱：murtorkcom@gmail.com|en||
+|142|第三推荐|[Games Puff](https://www.youtube.com/@GamesPuff)|YouTube|英语/巴基斯坦|17.6K|邮箱：gamespuffyt@gmail.com|en||
+|143|第三推荐|[MTS Oyun Kanalı](https://www.youtube.com/@MTS_OK)|YouTube|其他语种/土耳其（about 页 Country: Türkiye）|4.81K|邮箱：mtsoyunkanali@gmail.com|en||
+|144|第三推荐|[Indie Choi](https://www.youtube.com/@indiechoi)|YouTube|西班牙语/西班牙|4.53K|邮箱：imchoi.contact@gmail.com|en||
+|145|第三推荐|[Jyku Plays](https://www.youtube.com/@JykuPlays)|YouTube|英语/待核|4.31K|邮箱：Jyku.Business@gmail.com|en||
+|146|第三推荐|[まよちき!](https://www.youtube.com/@mayomayobird3)|YouTube|日语/日本（待核）|4.22K|邮箱：kani3921@gmail.com|ja||
+|147|第三推荐|[The Indie Brew](https://www.youtube.com/@theindiebrew)|YouTube|英语/澳大利亚|3.99K|邮箱：hello@theindiebrew.com.au|en||
+|148|第三推荐|[BonzosTower](https://www.youtube.com/@BonzosTower)|YouTube|英语/美国|2.66K|邮箱：bonzostower@gmail.com|en||
+|149|第三推荐|[Taggz](https://www.youtube.com/@taggzJGU)|YouTube|英语/美国|2.39K|邮箱：tacoking1588@gmail.com|en||
+|150|第三推荐|[Shokow](https://www.youtube.com/@shokow2306)|YouTube|法语/法国|2.34K|邮箱：shokow.contact@gmail.com|en||
+|151|第三推荐|[GobGG - VOD Multigaming](https://www.youtube.com/@GoBreplay)|YouTube|法语/法国|2.14K|邮箱：gobgg@thenode.gg|en||
+|152|第三推荐|[Dreamer](https://www.youtube.com/@DreamerAFKJ)|YouTube|英语/待核|2.11K|邮箱：dreamertube101@gmail.com|en||
+|153|第三推荐|[Во что поиграть?](https://www.youtube.com/@vochtopoigratG)|YouTube|俄语/待核|1.93K|邮箱：aawork33@gmail.com|en||
+|154|第三推荐|[Yaoye夭夜](https://www.youtube.com/@OODrYaoye)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|1.71K|邮箱：st9750317@gmail.com|zh-TW||
+|155|第三推荐|[Maybe Sarisa](https://www.youtube.com/@MaybeSarisa)|YouTube|英语/美国|1.63K|邮箱：contact@maybesarisa.com|en||
+|156|第三推荐|[BonneT LessKrau (VOD)](https://www.youtube.com/@vodbonnet)|YouTube|法语/待核|1.21K|邮箱：bonnetlesskraupro@gmail.com|en||
+|157|第三推荐|[Blitz](https://www.youtube.com/@Blitz)|YouTube|英语/待核|4.35M|无公开邮箱；备选简介外链：http://discord.gg/YTBlitz、https://www.tiktok.com/@blitzonyt（私信需按当次授权）|en||
+|158|第三推荐|[BaronVonGames](https://www.youtube.com/@Baron)|YouTube|英语/待核|2.71M|无公开邮箱；备选简介外链：https://discord.gg/hnc3PzH6nz、https://www.tiktok.com/@baronvongames、https://www.instagram.com/baronvongames/（私信需按当次授权）|en||
+|159|第三推荐|[Menos Trece](https://www.youtube.com/@MenosTrece)|YouTube|西班牙语/西班牙|2.67M|无公开邮箱；备选简介外链：https://www.twitch.tv/menostrece、https://twitter.com/menos_trece、https://www.tiktok.com/@menos.trece（私信需按当次授权）|en||
+|160|第三推荐|[LolloLacustre](https://www.youtube.com/@lollolacustre)|YouTube|其他语种/意大利（频道国家设为瑞士，见 vidIQ；内容为意大利语）|2.14M|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|161|第三推荐|[MoistCr1TiKaL Gaming](https://www.youtube.com/@MoistCr1TiKaLGamingOfficial)|YouTube|英语/待核|1.15M|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|162|第三推荐|[Dragoon](https://www.youtube.com/@Dragoon45)|YouTube|英语/待核|1.05M|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|163|第三推荐|[EJStory](https://www.youtube.com/@erwinjingga)|YouTube|其他语种/印度尼西亚（据频道标题“Indonesia”系列与印尼语内容判定；about 页未列国家）|1.02M|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|164|第三推荐|[Kripparrian](https://www.youtube.com/@Kripparrian)|YouTube|英语/待核|901K|无公开邮箱；备选简介外链：http://www.instagram.com/casualkripp、http://www.twitch.tv/nl_kripp/、http://www.twitter.com/Kripparrian/（私信需按当次授权）|en||
+|165|第三推荐|[Bastian](https://www.youtube.com/@bastian)|YouTube|德语/德国|885K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|166|第三推荐|[RossBoomsocks](https://www.youtube.com/@RossBoomsocks)|YouTube|英语/待核|791K|无公开邮箱；备选简介外链：https://www.instagram.com/rossboomsocks/、http://www.twitter.com/RossBoomsocks、http://www.twitch.tv/RossBoomsocks（私信需按当次授权）|en||
+|167|第三推荐|[Dead Squirrel](https://www.youtube.com/@DeadSquirrel)|YouTube|英语/待核|587K|无公开邮箱；备选简介外链：https://www.instagram.com/deadsquirrelyt/、https://discord.gg/QaaWn7D、https://www.twitch.tv/deadsquirrel（私信需按当次授权）|en||
+|168|第三推荐|[썩쏘TV](https://www.youtube.com/@SsuckSso)|YouTube|韩语/韩国|522K|无公开邮箱；备选简介外链：인스타 일상공개: instagram.com/ssuck_sso（私信需按当次授权）|ko||
+|169|第三推荐|[Stark Panzer](https://www.youtube.com/@StarkPanzer)|YouTube|其他语种/匈牙利（about 页 Country: Hungary）|347K|无公开邮箱；备选简介外链：https://discord.gg/MPeSqsMSTd、https://instagram.com/starkpanzer、https://twitch.tv/starkpanzer（私信需按当次授权）|en||
+|170|第三推荐|[GamePlaysCassi](https://www.youtube.com/@GamePlaysCassi)|YouTube|葡萄牙语(巴西)/巴西|263K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|171|第三推荐|[Dobrodziej](https://www.youtube.com/@DobrodziejDobrodziejski)|YouTube|其他语种/波兰（about 页 Country: Poland）|244K|无公开邮箱；备选简介外链：https://twitch.tv/dobrodziejdobrodziejski、https://twitter.com/Dobrodziejski（私信需按当次授权）|en||
+|172|第三推荐|[フルコンチャンネル](https://www.youtube.com/@Fullcon2525)|YouTube|日语/日本（待核）|241K|无公开邮箱；备选简介外链：https://twitter.com/fullconshark、https://www.instagram.com/fullcon17/（私信需按当次授权）|ja||
+|173|第三推荐|[Best Indie Games](https://www.youtube.com/@ClemmyGames)|YouTube|英语/新加坡|195K|无公开邮箱；备选简介外链：https://discord.gg/aU9qp9Y、http://www.twitter.com/ClemmyGames（私信需按当次授权）|en||
+|174|第三推荐|[Deathweaver](https://www.youtube.com/@Deathweaver)|YouTube|葡萄牙语(巴西)/巴西|174K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|175|第三推荐|[Richard_Hammer](https://www.twitch.tv/richard_hammer)|Twitch|英语/待核|167,385 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|176|第三推荐|[けそポテト](https://www.youtube.com/@kesopotato)|YouTube|日语/日本（待核）|139K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja||
+|177|第三推荐|[Silithur V](https://www.youtube.com/@SilithurV)|YouTube|西班牙语/西班牙|138K|无公开邮箱；备选简介外链：https://www.twitch.tv/silithur、https://twitter.com/Silithur、https://discord.gg/silithur（私信需按当次授权）|en||
+|178|第三推荐|[Walkrman](https://www.youtube.com/@Walkrman)|YouTube|英语/待核|127K|无公开邮箱；备选简介外链：https://www.tiktok.com/@walkrman_?lang=en、https://www.twitch.tv/walkrman、https://twitter.com/Walkrman_（私信需按当次授权）|en||
+|179|第三推荐|[Millbeeful](https://www.youtube.com/@Millbee)|YouTube|英语/待核|108K|无公开邮箱；备选简介外链：http://www.twitch.tv/millbee（私信需按当次授权）|en||
+|180|第三推荐|[Clem NFT](https://www.youtube.com/@Clem_NFT)|YouTube|葡萄牙语(巴西)/巴西|104K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|181|第三推荐|[Hadomancer](https://www.youtube.com/@Hadomancer)|YouTube|葡萄牙语(巴西)/巴西|100K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|182|第三推荐|[いぬけん](https://www.youtube.com/@1nuken)|YouTube|日语/日本（待核）|99.8K|无公开邮箱；备选简介外链：https://twitter.com/1nuken（私信需按当次授权）|ja||
+|183|第三推荐|[Final Boss Project](https://www.youtube.com/@FinalBossProject)|YouTube|西班牙语/西班牙|96.4K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|184|第三推荐|[Krayn](https://www.youtube.com/@Krayn)|YouTube|法语/待核|95K|无公开邮箱；备选简介外链：http://www.twitch.tv/krayn_chill、http://www.twitch.tv/krayn_live、https://discord.gg/bvWFWq8（私信需按当次授权）|en||
+|185|第三推荐|[GeneracionActual](https://www.youtube.com/@GeneracionActual)|YouTube|西班牙语/西班牙|94.1K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|186|第三推荐|[Mynthos](https://www.youtube.com/@Mynthostv)|YouTube|法语/法国|86.4K|无公开邮箱；备选简介外链：https://linktr.ee/MynthosTv、https://www.instagram.com/mynthos_tv/、https://www.twitch.tv/mynthos（私信需按当次授权）|en||
+|187|第三推荐|[Rumathandrial the 3rd](https://www.youtube.com/@RumathandrialIII)|YouTube|德语/德国|85.8K|无公开邮箱；备选简介外链：https://twitter.com/TigerClown、https://www.instagram.com/rumathra_/、https://www.twitch.tv/rumathra（私信需按当次授权）|en||
+|188|第三推荐|[Malakye G](https://www.youtube.com/@malakyemong)|YouTube|英语/待核|74.4K|无公开邮箱；备选简介外链：https://www.twitch.tv/malakyeg、https://www.twitch.tv/malakyeg（私信需按当次授权）|en||
+|189|第三推荐|[Shisheyu](https://www.youtube.com/@Shisheyu)|YouTube|法语/法国|74.1K|无公开邮箱；备选简介外链：https://twitter.com/Shisheyu、https://www.instagram.com/shisheyu_/、https://www.tiktok.com/@shisheyu（私信需按当次授权）|en||
+|190|第三推荐|[Longplay Express](https://www.youtube.com/@LongplayExpress)|YouTube|英语/待核|71.4K|无公开邮箱；备选简介外链：https://discord.gg/wGukM3ZaBq、https://discord.gg/wGukM3ZaBq（私信需按当次授权）|en||
+|191|第三推荐|[Orhun Kayaalp Let's Play](https://www.youtube.com/@OrhunKayaalpLetsPlay)|YouTube|其他语种/土耳其（about 页 Country: Türkiye）|68.1K|无公开邮箱；备选简介外链：https://twitch.tv/orhunthehun、https://twitter.com/OrhunKayaalp、https://discord.gg/orhunkayaalp（私信需按当次授权）|en||
+|192|第三推荐|[The Geek Cupboard](https://www.youtube.com/@TheGeekCupboard)|YouTube|英语/待核|63.2K|无公开邮箱；备选简介外链：https://discord.gg/BccyEWv、https://www.twitch.tv/thegeekcupboard（私信需按当次授权）|en||
+|193|第三推荐|[Diegola](https://www.youtube.com/@diegola021)|YouTube|葡萄牙语(巴西)/待核|63K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|194|第三推荐|[CosasdeNoobs](https://www.youtube.com/@CosasdeNoobs)|YouTube|西班牙语/西班牙|61.4K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|195|第三推荐|[花現新大鹿DoeDaDa](https://www.youtube.com/@doedada1314)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|50.1K|无公开邮箱；备选简介外链：https://www.instagram.com/tongcat1314/（私信需按当次授权）|zh-TW||
+|196|第三推荐|[Let's Get Miserable](https://www.youtube.com/@LetsGetMiserable)|YouTube|英语/待核|48K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|197|第三推荐|[The Scarlet Seeker](https://www.youtube.com/@TheScarletSeeker)|YouTube|英语/待核|47.3K|无公开邮箱；备选简介外链：https://discord.gg/PZUNaxWUw9、https://twitter.com/ScarletSeeker、https://www.twitch.tv/thescarletseeker（私信需按当次授权）|en||
+|198|第三推荐|[てけてけ遊びちゃんねる](https://www.youtube.com/@teketeke_vtuber)|YouTube|日语/日本（待核）|41.7K|无公开邮箱；备选简介外链：https://discord.gg/3enB5E28Tv、https://twitter.com/paitayu（私信需按当次授权）|ja||
+|199|第三推荐|[Codz](https://www.youtube.com/@ItsCodz)|YouTube|英语/待核|40.2K|无公开邮箱；备选简介外链：https://discord.gg/sUHRsVBZtp、https://discord.gg/sUHRsVBZtp（私信需按当次授权）|en||
+|200|第三推荐|[Artiar](https://www.youtube.com/@artiar-dislyte4093)|YouTube|英语/马来西亚|35.5K|无公开邮箱；备选简介外链：Discord: discord.gg/BhF9QvnWe、Twitter: twitter.com/ArtiarDislyte（私信需按当次授权）|en||
+|201|第三推荐|[Marmotte Gaming](https://www.youtube.com/@BestmarmotteGaming)|YouTube|法语/法国|33.6K|无公开邮箱；备选简介外链：https://discord.gg/bestmarmotte、https://twitch.tv/bestmarmotte、https://twitter.com/Bestmarmotte（私信需按当次授权）|en||
+|202|第三推荐|[WarlockTD](https://www.youtube.com/@WarlockTDgaming)|YouTube|俄语/待核|31.9K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|203|第三推荐|[Republic Game](https://www.youtube.com/@republicgame)|YouTube|俄语/待核|31.5K|无公开邮箱；备选简介外链：https://www.tiktok.com/@republicgame（私信需按当次授权）|en||
+|204|第三推荐|[にぇん](https://www.youtube.com/@にぇん-n1z)|YouTube|日语/日本（待核）|30.1K|无公开邮箱；备选简介外链：https://x.com/nyen_yukkuri（私信需按当次授权）|ja||
+|205|第三推荐|[Trynet123](https://www.twitch.tv/trynet123)|Twitch|英语/待核|29,270 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|206|第三推荐|[TUMA](https://www.youtube.com/@I-LOVE-TUMA)|YouTube|日语/日本（待核）|28.4K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja||
+|207|第三推荐|[The Dutch Actuary](https://www.youtube.com/@TheDutchActuary)|YouTube|英语/待核|25.5K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|208|第三推荐|[zubu](https://www.youtube.com/@zubu)|YouTube|日语/日本（待核）|25K|无公开邮箱；备选简介外链：https://www.twitter.com/zubububu（私信需按当次授权）|ja||
+|209|第三推荐|[Keenoe Plays](https://www.youtube.com/@KeenoePlays)|YouTube|英语/待核|24.9K|无公开邮箱；备选简介外链：https://discord.gg/bVmkzsJEqT、https://www.tiktok.com/@keenoe、https://www.twitch.tv/keenoe（私信需按当次授权）|en||
+|210|第三推荐|[Rizzoli](https://www.youtube.com/@RizzoliVOD)|YouTube|英语/待核|24.3K|无公开邮箱；备选简介外链：https://discord.gg/9CCU53NtgW（私信需按当次授权）|en||
+|211|第三推荐|[AlemaoNFT](https://www.youtube.com/@alemaonftreal)|YouTube|葡萄牙语(巴西)/巴西|21.5K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|212|第三推荐|[Thet](https://www.youtube.com/@Thet)|YouTube|英语/待核|20.8K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|213|第三推荐|[Voyix](https://www.youtube.com/@Voyix)|YouTube|英语/待核|20.4K|无公开邮箱；备选简介外链：https://discord.gg/DSj5ERbUTF、https://www.twitch.tv/voyix64（私信需按当次授权）|en||
+|214|第三推荐|[遊戲雜談館](https://www.youtube.com/@HKGamingHall)|YouTube|华语(港澳及其他)/香港|19.4K|无公开邮箱；备选简介外链：https://x.com/kurosakiyuu_030、https://www.twitch.tv/kurosakiyuu、https://discord.gg/vuPbMcu（私信需按当次授权）|zh-TW||
+|215|第三推荐|[最終の哈姆](https://www.youtube.com/@finalhamu)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|19.3K|无公开邮箱；备选简介外链：https://discord.gg/4txYqfh（私信需按当次授权）|zh-TW||
+|216|第三推荐|[EuSouOGiba](https://www.youtube.com/@EuSouOGiba)|YouTube|葡萄牙语(巴西)/巴西|18.5K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|217|第三推荐|[PunNoFun](https://www.youtube.com/@PunNoFun)|YouTube|英语/待核|16.8K|无公开邮箱；备选简介外链：https://discord.gg/4GcyqCc9yp（私信需按当次授权）|en||
+|218|第三推荐|[STEAMATE](https://www.youtube.com/@steamate)|YouTube|俄语/待核|15.9K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|219|第三推荐|[Sleepy Cat](https://www.youtube.com/@MisterSleepyCat)|YouTube|英语/待核|14.9K|无公开邮箱；备选简介外链：https://www.twitch.tv/mistersleepycat、https://x.com/MisterSleepyCat（私信需按当次授权）|en||
+|220|第三推荐|[Task Bar Hero Dicas](https://www.youtube.com/@tbhdicas)|YouTube|葡萄牙语(巴西)/巴西|13.4K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|221|第三推荐|[Spartan](https://www.youtube.com/@SpartanTheTower)|YouTube|英语/美国|13.2K|无公开邮箱；备选简介外链：Community Discord: discord.com/invite/spartanthetower（私信需按当次授权）|en||
+|222|第三推荐|[Foxmaiden](https://www.youtube.com/@FoxmaidenOxB)|YouTube|葡萄牙语(巴西)/巴西|13K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|223|第三推荐|[Neofox](https://www.twitch.tv/neofox)|Twitch|英语/待核|12,975 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|224|第三推荐|[Doofus Mcdooface](https://www.youtube.com/@DoofusMcdoofaceStreaming)|YouTube|英语/待核|12.3K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|225|第三推荐|[리키리킹](https://www.youtube.com/@ksyliki)|YouTube|韩语/韩国|12.2K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko||
+|226|第三推荐|[KultZ](https://www.youtube.com/@KultZz)|YouTube|英语/待核|11.8K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|227|第三推荐|[よぷを](https://www.youtube.com/@YopmanGames)|YouTube|日语/日本（待核）|11.3K|无公开邮箱；备选简介外链：https://x.com/Yopuwo5Gmobile（私信需按当次授权）|ja||
+|228|第三推荐|[きーうぃk( i w i )](https://www.youtube.com/@きーうぃkiwi)|YouTube|日语/日本（待核）|10.3K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja||
+|229|第三推荐|[RoosterPB](https://www.youtube.com/@RoosterYoutube)|YouTube|英语/待核|10.2K|无公开邮箱；备选简介外链：https://discord.gg/VR3zYXyxGu、https://www.twitch.tv/roosterpb、www.twitch.tv/roosterpb（私信需按当次授权）|en||
+|230|第三推荐|[Elaps](https://www.youtube.com/@Elapsss)|YouTube|法语/法国|9.67K|暂无可用公开渠道（原记 elps.edit.pro@gmail.com：简介原文「Mail pro Montage」，只接剪辑工作，不能用于游戏邀请）|en||
+|231|第三推荐|[Carbrickscity](https://www.youtube.com/@carbrickscity)|YouTube|英语/待核|9.59K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|232|第三推荐|[게임찍먹 전문 겜노인](https://www.youtube.com/@gamnoin)|YouTube|韩语/韩国|9.52K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko||
+|233|第三推荐|[BreagoKeK](https://www.youtube.com/@BreagoKeK)|YouTube|俄语/待核|9.52K|无公开邮箱；备选简介外链：https://discord.gg/CwQzYHbCA（私信需按当次授权）|en||
+|234|第三推荐|[Cobrak Strategy](https://www.youtube.com/@CobStrategy)|YouTube|英语/待核|9.35K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|235|第三推荐|[Exvarghra GameLog](https://www.youtube.com/@Exvarghra)|YouTube|英语/待核|9.05K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|236|第三推荐|[MinhArte](https://www.youtube.com/@minharte)|YouTube|葡萄牙语(巴西)/巴西|9.01K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|237|第三推荐|[Steam Money ／ Все о заработке в стим](https://www.youtube.com/@steam_money)|YouTube|俄语/待核|8.63K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|238|第三推荐|[Gamer쿠그너즈](https://www.youtube.com/@koognuj)|YouTube|韩语/韩国|8.54K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko||
+|239|第三推荐|[ああああ](https://www.youtube.com/@aaaamh)|YouTube|日语/日本（待核）|8.08K|无公开邮箱；备选简介外链：https://www.twitch.tv/aaaa316、https://twitter.com/aaaa_mhw（私信需按当次授权）|ja||
+|240|第三推荐|[GPH Streams](https://www.youtube.com/@gphstreams)|YouTube|英语/菲律宾|7.96K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|241|第三推荐|[TwoBiers](https://www.youtube.com/@TwoBiers)|YouTube|德语/德国|7.81K|无公开邮箱；备选简介外链：https://www.twitch.tv/twobiers、https://www.twitter.com/twobiers（私信需按当次授权）|en||
+|242|第三推荐|[昭柴猫的猫老师](https://www.youtube.com/@FortunCatNya)|YouTube|华语(港澳及其他)/待核|7.66K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|zh-TW||
+|243|第三推荐|[Zenaton](https://www.twitch.tv/zenaton)|Twitch|英语/待核|7,430 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|244|第三推荐|[老頭Z ／ 遊戲實測站](https://www.youtube.com/@LaotouZ_Gaming)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|7.35K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|zh-TW||
+|245|第三推荐|[Pantsuman](https://www.twitch.tv/pantsuman)|Twitch|英语/待核|7,037 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|246|第三推荐|[Skirmish](https://www.youtube.com/@IamSkirmish)|YouTube|英语/待核|6.86K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|247|第三推荐|[Bruel Games](https://www.youtube.com/@bruelgames)|YouTube|俄语/待核|6.8K|无公开邮箱；备选简介外链：https://discord.gg/eKHKtYsAxf、https://www.twitch.tv/bruelgames（私信需按当次授权）|en||
+|248|第三推荐|[Rahresh](https://www.twitch.tv/rahresh)|Twitch|英语/罗马尼亚（简介自称 professional Romanian）|6,541 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|249|第三推荐|[Midway](https://www.youtube.com/@MidwayPaladin)|YouTube|英语/西班牙|6.28K|无公开邮箱；备选简介外链：Twitch Channel: twitch.tv/midwayeu、Twitter: twitter.com/MidwayPaladin、Discord: discord.gg/EZzq6V9pkJ（私信需按当次授权）|en||
+|250|第三推荐|[Greeny](https://www.youtube.com/@GreenyTower)|YouTube|英语/美国|6.26K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|251|第三推荐|[Grounded SAP](https://www.youtube.com/@GroundedSAP)|YouTube|英语/英国（据简介外链 groundedsap.co.uk，待核）|6.07K|无公开邮箱；备选简介外链：https://www.twitch.tv/eldritch_catz（私信需按当次授权）|en||
+|252|第三推荐|[숲속의늑대](https://www.youtube.com/@%EC%88%B2%EC%86%8D%EC%9D%98%EB%8A%91%EB%8C%80)|YouTube|韩语/韩国|5.97K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko||
+|253|第三推荐|[TheGamesBrew（Roy Lovat）](https://www.youtube.com/@TheGamesBrew)|YouTube|其他语种/意大利（about 页 Country: Italy）|5.92K|无公开邮箱；备选简介外链：https://twitter.com/thegamesbrew、https://discord.gg/FxsFFEDSAY（私信需按当次授权）|en||
+|254|第三推荐|[knisce](https://www.youtube.com/@knisce)|YouTube|其他语种/土耳其（about 页 Country: Türkiye）|5.79K|无公开邮箱；备选简介外链：https://twitch.tv/sseckinnn、https://discord.gg/nh6AW3HD3（私信需按当次授权）|en||
+|255|第三推荐|[Force Indie](https://www.youtube.com/@ForceIndie)|YouTube|葡萄牙语(巴西)/待核|5.75K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|256|第三推荐|[Sir Drae](https://www.youtube.com/@SirDraee7)|YouTube|西班牙语/西班牙|5.57K|无公开邮箱；备选简介外链：https://www.twitch.tv/sirdrae、https://twitter.com/DraeDelfos、https://discord.gg/V8FB5sw（私信需按当次授权）|en||
+|257|第三推荐|[미스터 M](https://www.youtube.com/@MisterdotM)|YouTube|韩语/待核|5.53K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko||
+|258|第三推荐|[Jugando Indies](https://www.youtube.com/@JugandoIndies)|YouTube|西班牙语/阿根廷|5.04K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|259|第三推荐|[Vladik Hex](https://www.youtube.com/@VladikHex)|YouTube|俄语/待核|4.79K|无公开邮箱；备选简介外链：https://discord.gg/ZE8SMnG（私信需按当次授权）|en||
+|260|第三推荐|[Ken Cikas](https://www.youtube.com/@Ken_Cikas)|YouTube|英语/待核|4.73K|无公开邮箱；备选简介外链：https://twitter.com/LordXarsNexus、https://twitter.com/LordXarsNexus（私信需按当次授权）|en||
+|261|第三推荐|[ネストのゆっくりローグライク実況ch](https://www.youtube.com/@ネストのゆっくりローグライク実況ch)|YouTube|日语/日本（待核）|4.67K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja||
+|262|第三推荐|[Haikrazon](https://www.youtube.com/@Haikrazon)|YouTube|英语/待核|4.54K|无公开邮箱；备选简介外链：https://www.twitch.tv/haikrazon、https://www.instagram.com/haikrazon/、https://discord.gg/XaezqKcKgk（私信需按当次授权）|en||
+|263|第三推荐|[JustPatrick-Idle](https://www.youtube.com/@JustPatrick-Idle)|YouTube|英语/待核|4.44K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|264|第三推荐|[mikevalentine](https://www.twitch.tv/mikevalentine)|Twitch|俄语/待核|4,383 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|265|第三推荐|[Free to Play Games](https://www.youtube.com/@free2playgames)|YouTube|俄语/待核|4.34K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|266|第三推荐|[Pulse, Super Idle](https://www.youtube.com/@PulseIdle)|YouTube|英语/英国|4.34K|无公开邮箱；备选简介外链：My Links!: linktr.ee/PulseIRL（私信需按当次授权）|en||
+|267|第三推荐|[Chewieee](https://www.youtube.com/@Chewie-)|YouTube|英语/待核|4.31K|无公开邮箱；备选简介外链：Discord!: discord.com/invite/Bt3cfHMJ8k（私信需按当次授权）|en||
+|268|第三推荐|[CozyAriGames](https://www.youtube.com/@CozyAriGames)|YouTube|英语/加拿大|4.03K|无公开邮箱；备选简介外链：https://linktr.ee/cozyarigames（私信需按当次授权）|en||
+|269|第三推荐|[WhiteFalcon Plays](https://www.youtube.com/@WhiteFalconPlays)|YouTube|英语/待核|3.98K|无公开邮箱；备选简介外链：https://discord.com/invite/huukQ9eWVK、https://discord.gg/huukQ9eWVK、https://twitter.com/WhiteFalconPlay（私信需按当次授权）|en||
+|270|第三推荐|[かぐやそら](https://www.youtube.com/@KaguyaSora0625)|YouTube|日语/日本（待核）|3.96K|无公开邮箱；备选简介外链：https://x.com/Sola_Kaguya（私信需按当次授权）|ja||
+|271|第三推荐|[Ikarus_](https://www.twitch.tv/ikarus_)|Twitch|英语/德国（简介写 I am a German streamer）|3,949 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|272|第三推荐|[胖叔打游戏](https://www.youtube.com/@UncleFatGame)|YouTube|华语(港澳及其他)/待核|3.92K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|zh-TW||
+|273|第三推荐|[LuckOuts](https://www.youtube.com/@LuckOuts)|YouTube|英语/待核|3.9K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|274|第三推荐|[Lembyie (Лемби)](https://www.youtube.com/@Lembyie)|YouTube|俄语/待核|3.78K|无公开邮箱；备选简介外链：https://discord.gg/gT7cejCbW7（私信需按当次授权）|en||
+|275|第三推荐|[Apooche](https://www.twitch.tv/apooche)|Twitch|英语/待核|3,587 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|276|第三推荐|[smojo.](https://www.youtube.com/@SmojoWasTaken)|YouTube|英语/待核|3.58K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|277|第三推荐|[푸딩2](https://www.youtube.com/@%ED%91%B8%EB%94%A92)|YouTube|韩语/待核|3.47K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko||
+|278|第三推荐|[717 clicks](https://www.youtube.com/@717clicks)|YouTube|俄语/待核|3.39K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|279|第三推荐|[afkwoot](https://www.twitch.tv/afkwoot)|Twitch|英语/待核|3,286 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|280|第三推荐|[Tap B For Bacon](https://www.youtube.com/@TapBForBaconn)|YouTube|英语/美国|3.26K|无公开邮箱；备选简介外链：Twitch: twitch.tv/tapb4bacon（私信需按当次授权）|en||
+|281|第三推荐|[Once94](https://www.youtube.com/@once-94)|YouTube|西班牙语/西班牙|3.25K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|282|第三推荐|[Zefa](https://www.youtube.com/@ZefaGames)|YouTube|英语/待核|3.22K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|283|第三推荐|[Sayori Idle](https://www.youtube.com/@Sayoridle)|YouTube|其他语种/土耳其（简介推断，待核）|3.08K|无公开邮箱；备选简介外链：https://www.tiktok.com/@sayoridle、https://discord.com/users/sayoridle、https://www.tiktok.com/@sayoridle（私信需按当次授权）|en||
+|284|第三推荐|[マイナーゲームナビ !「おすすめインディーゲーム紹介ch」](https://www.youtube.com/@makoma7864)|YouTube|日语/日本（待核）|3.06K|无公开邮箱；备选简介外链：https://twitter.com/Makomak（私信需按当次授权）|ja||
+|285|第三推荐|[SuperSpruce](https://www.youtube.com/@SuperSpruce)|YouTube|英语/待核|3.02K|无公开邮箱；备选简介外链：https://discord.gg/jeRajFK、https://discord.gg/jeRajFK（私信需按当次授权）|en||
+|286|第三推荐|[ピカ様](https://www.youtube.com/@ピカTube)|YouTube|日语/日本（待核）|2.96K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja||
+|287|第三推荐|[Skuub](https://www.youtube.com/@SkuubTag)|YouTube|英语/待核|2.92K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|288|第三推荐|[Chrisp44s](https://www.youtube.com/@TheChrisp44s)|YouTube|英语/待核|2.85K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|289|第三推荐|[C4lmont](https://www.youtube.com/@C4lmont)|YouTube|葡萄牙语(巴西)/巴西|2.82K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|290|第三推荐|[MiniMatt](https://www.twitch.tv/minimatt)|Twitch|英语/美国（简介写 Colorado based）|2,731 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|291|第三推荐|[Santiago Play](https://www.youtube.com/@SantiagoPlay1)|YouTube|俄语/待核|2.67K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|292|第三推荐|[whisperzz_live](https://www.twitch.tv/whisperzz_live)|Twitch|英语/待核|2,586 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|293|第三推荐|[will309productions](https://www.youtube.com/@will309productions)|YouTube|英语/美国|2.57K|无公开邮箱；备选简介外链：Twitch: twitch.tv/will309productions、Discord: discord.gg/YasnMcAYTG（私信需按当次授权）|en||
+|294|第三推荐|[JAMMA GAMING](https://www.youtube.com/@jamma-gaming)|YouTube|法语/法国|2.56K|无公开邮箱；备选简介外链：https://discord.gg/REEvZxV、https://twitter.com/JAMMAGameur、https://www.instagram.com/jammagaming/?hl=fr（私信需按当次授权）|en||
+|295|第三推荐|[Fuyn XP](https://www.youtube.com/@FuynXP)|YouTube|西班牙语/西班牙|2.53K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|296|第三推荐|[孖寶遊戲頻道](https://www.youtube.com/@TwinsGaming96)|YouTube|华语(港澳及其他)/香港（待核）|2.5K|无公开邮箱；备选简介外链：https://twitter.com/TwinsGaming96（私信需按当次授权）|zh-TW||
+|297|第三推荐|[Idle Farrell](https://www.youtube.com/@idlefarrell)|YouTube|西班牙语/哥斯达黎加|2.34K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|298|第三推荐|[Slow Mo](https://www.youtube.com/@SlowMoInc)|YouTube|英语/待核|2.22K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|299|第三推荐|[veetoqc](https://www.twitch.tv/veetoqc)|Twitch|英语/加拿大（简介自称 French Canadian）|2,108 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|300|第三推荐|[Phima](https://www.twitch.tv/phima)|Twitch|俄语/待核|2,089 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|301|第三推荐|[Mast](https://www.youtube.com/@Mastゆっくりsub)|YouTube|日语/日本（待核）|2.07K|无公开邮箱；备选简介外链：https://x.com/Mast21yk（私信需按当次授权）|ja||
+|302|第三推荐|[thecapnkBR](https://www.youtube.com/@thecapnkBR)|YouTube|葡萄牙语(巴西)/巴西|2.06K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|303|第三推荐|[KelbyMG](https://www.twitch.tv/kelbymg)|Twitch|英语/待核|1,856 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|304|第三推荐|[Squid RPG](https://www.youtube.com/@SquidRPG)|YouTube|英语/待核|1.79K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|305|第三推荐|[GRINDING CURRENCY](https://www.youtube.com/@grindingcurrency)|YouTube|英语/待核|1.76K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|306|第三推荐|[Moskotomo](https://www.youtube.com/@moskotomo)|YouTube|葡萄牙语(巴西)/巴西|1.71K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|307|第三推荐|[LeoDriango](https://www.twitch.tv/leodriango)|Twitch|英语/待核|1,607 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|308|第三推荐|[서토리의 게임카페!](https://www.youtube.com/@seotorie_vtube)|YouTube|韩语/待核|1.59K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko||
+|309|第三推荐|[Idle Zeroes](https://www.youtube.com/@IdleZeroes)|YouTube|英语/待核|1.49K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|310|第三推荐|[AskaAndTheWolf](https://www.twitch.tv/askaandthewolf)|Twitch|英语/待核|1,462 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|311|第三推荐|[DemonAce227](https://www.youtube.com/@DemonAce227)|YouTube|英语/待核|1.46K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|312|第三推荐|[AxionEvolved](https://www.youtube.com/@AxionEvolved)|YouTube|英语/待核|1.42K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|313|第三推荐|[せかまつ【終末世界系ゲームch】](https://www.youtube.com/@sekamatsugame)|YouTube|日语/日本（待核）|1.38K|无公开邮箱；备选简介外链：https://x.com/sekamatsu_game（私信需按当次授权）|ja||
+|314|第三推荐|[ZweiMarcFuffzig](https://www.youtube.com/@zweiMarcfuffzig)|YouTube|德语/德国|1.37K|无公开邮箱；备选简介外链：https://discord.gg/ZyFCgt48tj、https://www.twitch.tv/zweimarcfuffzig（私信需按当次授权）|en||
+|315|第三推荐|[XP Kolik](https://www.youtube.com/@XpKolik)|YouTube|其他语种/土耳其（about 页 Country: Türkiye）|1.31K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|316|第三推荐|[Steelsane](https://www.twitch.tv/steelsane)|Twitch|俄语/待核|1,263 followers|Twitch 公开私信/简介渠道（需按当次授权；未见公开邮箱）|en||
+|317|第三推荐|[霊夢のひまつぶし。](https://www.youtube.com/@霊夢のひまつぶし)|YouTube|日语/日本（待核）|1.24K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja||
+|318|第三推荐|[XCalibur](https://www.youtube.com/@XCaliburGamingOfficial)|YouTube|英语/美国|1.19K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|319|第三推荐|[老獅](https://www.youtube.com/@老獅玩遊戲)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|1.13K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|zh-TW||
+|320|第三推荐|[Arteo Pixel](https://www.youtube.com/@ArteoPixel)|YouTube|法语/待核|1.1K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|321|第三推荐|[/うい](https://www.youtube.com/@ch-bg4xu)|YouTube|日语/日本（待核）|1.09K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ja||
+|322|第三推荐|[EthanDX](https://www.youtube.com/@EthanDX)|YouTube|英语/美国|1.03K|无公开邮箱；备选简介外链：Discord: discord.gg/CcDrzPJT3n（私信需按当次授权）|en||
+|323|第三推荐|[Normalhs](https://www.youtube.com/@notmalhs)|YouTube|英语/待核|970|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|324|第三推荐|[IdleAlex](https://www.youtube.com/@realIdleAlex)|YouTube|英语/待核|942|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|325|第三推荐|[Pooplove Plays](https://www.youtube.com/@PooplovePlays)|YouTube|英语/美国|800|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|326|第三推荐|[DeeN](https://www.youtube.com/@DeeNorMani)|YouTube|英语/待核|693|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|327|第三推荐|[먼로의 메이플키우기](https://www.youtube.com/@monroelee516)|YouTube|韩语/待核|692|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko||
+|328|第三推荐|[Batza](https://www.youtube.com/@batza80)|YouTube|英语/待核|657|无公开邮箱；备选简介外链：https://www.twitch.tv/batza80、https://www.twitch.tv/batza80（私信需按当次授权）|en||
+|329|第三推荐|[The Incremental Engineer](https://www.youtube.com/@TheIncrementalEngineer)|YouTube|德语/德国|622|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|330|第三推荐|[The Roach Zone](https://www.youtube.com/@TheRoachZone-gg)|YouTube|英语/待核|578|无公开邮箱；备选简介外链：https://x.com/TheRoachZone、https://www.instagram.com/theroachzone.gg/、https://www.instagram.com/theroachzone.gg/（私信需按当次授权）|en||
+|331|第三推荐|[Jürgens Pott](https://www.youtube.com/@jurgenspott)|YouTube|德语/德国|347|无公开邮箱；备选简介外链：https://discord.gg/B2Y3keYmhe、https://www.twitch.tv/juergenspott（私信需按当次授权）|en||
+|332|第三推荐|[Meruwem](https://www.youtube.com/@meruwem0)|YouTube|英语/待核|295|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
+|333|第三推荐|[팰까 종합게임](https://www.youtube.com/@PELKA_GAME)|YouTube|韩语/韩国|105|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|ko||
 
 ## 逐人记录
 
@@ -371,8 +369,9 @@
 - 样例：[I Played 100% of Shake It Co!](https://www.youtube.com/watch?v=jO0qo4-ui5k)｜2026-11-17｜播放 138729｜Shake It Co!
 - 样例：[I Played 100% of Potatoes Please](https://www.youtube.com/watch?v=bu_8ZpFAG4I)｜2026-11-14｜播放 322021｜Potato Please
 - 样例：[I murdered cute animals to 100% Can Em All](https://www.youtube.com/watch?v=o-YD6HBnIgE)｜2026-11-10｜播放 347435｜Can 'Em All
-- 公开联系：waligug@gmail.com（来源 https://www.youtube.com/@Waligug/about）
+- 公开联系：waligug@intheblackmedia.com（来源 https://www.youtube.com/@Waligug/about（简介「Business Inquiries」；gmail 标注为 personal contact，不用））
 - 适配理由：大体量「100% 通关」频道，近两周连做 Shake It Co、Potato Please、Can 'Em All 等增量/放置游戏
+- 发信注意：经纪方邮箱，可能回报价
 - 局限：以轻量增量小游戏为主，RPG 向较少
 
 ### 2. Skoottie — 第一推荐
@@ -385,6 +384,7 @@
 - 样例：[Moon Sweepers 100%](https://www.youtube.com/watch?v=ld6JW-Zb7Fo)｜2026-11-16｜播放 243740｜Moon Sweepers
 - 公开联系：skoottie@clovertalent.gg（来源 https://www.youtube.com/@Skoottie/about）
 - 适配理由：专做增量游戏 100% 通关，近期 Booster Pack Heroes、Leaf it Alone、Moon Sweepers 播放都在 7 万以上
+- 发信注意：经纪方邮箱，可能回报价
 - 局限：无明显局限
 
 ### 3. Lice萊斯 — 第一推荐
@@ -397,6 +397,7 @@
 - 样例：[《德拉嘉傳說-放置地牢》兩百有找，上班就是想開點甚麼東西來掛著](https://www.youtube.com/watch?v=MzZEFUDeQYU)｜2025-11-07｜播放 42708｜德拉嘉傳說-放置地牢
 - 公开联系：lice.moo@hotmail.com（来源 https://www.youtube.com/@LiceMoo/about）
 - 适配理由：34 万订阅大号，做过 TBH（9.1 万播放，提到 Steam 免费挂机）、德拉嘉傳說-放置地牢、卡包英雄（昨天发，3.9 万播放），简介明写接商案合作，另有 Twitch 实况。
+- 发信注意：做过「合作诈骗」主题视频：邀请信不带附件、不用短链
 - 局限：以综合游戏评论为主，放置并非主线；地区未明写。
 
 ### 4. Maxims Zweitkanal — 第一推荐
@@ -432,7 +433,7 @@
 - 样例：[I Played Incremental Demos To Find A Hidden Gem Among Them](https://www.youtube.com/watch?v=Y_vHJBkqCqY)｜2026-11-18｜播放 47670｜5 款增量合集
 - 样例：[Can This Incremental Crack Us Up ／ Cracked](https://www.youtube.com/watch?v=mMpNMzfXZkE)｜2026-11-17｜播放 54848｜Cracked
 - 公开联系：Kaif@saltraiders.com（来源 https://www.youtube.com/@Kaiffu/about）
-- 适配理由：Kaif 的副频道，近期几乎全是增量游戏，还做过「5 款增量找宝藏」合集，适合推新增量作
+- 适配理由：Kaif 的副频道，最近 15 条里有 4 条增量游戏，还做过「5 款增量找宝藏」合集，适合推新增量作
 - 局限：主频道 Kaif 与副频道共用联络邮箱；副频道 19.6 万订阅
 
 ### 7. PFY玩給你看 — 第一推荐
@@ -447,19 +448,7 @@
 - 适配理由：长期做增量/放置系列（TBH 上架卖钱、財富磨坊、增量補師、Bowl Big、死靈防線、仙境傳說倖存者掛機），单条 1–5 万播放，简介自称「非常容易被遊戲廣告置入」。
 - 局限：最近 RSS 15 条中放置题材标题不多，样本部分来自搜索结果。
 
-### 8. MKxJUMP — 第一推荐
-
-- 频道：https://www.youtube.com/@MKxJUMP｜YouTube｜英语｜地区 英国
-- 订阅/粉丝：102K（核查 2026-11-24）｜类型：AFK RPG/手游放置
-- 最近更新：2026-11-20 [Thanksgiving 2026 gives AMAZING FREE REWARDS this week in IDLE HEROES](https://www.youtube.com/watch?v=uQ1gaRZ6I2k)
-- 样例：[Thanksgiving 2026 gives AMAZING FREE REWARDS this week in IDLE HEROES](https://www.youtube.com/watch?v=uQ1gaRZ6I2k)｜2026-11-20｜播放 16200｜Idle Heroes
-- 样例：[Let's clear Chapter 8 of Void Campaign! - Episode 99 - The IDLE HEROES CSG Series](https://www.youtube.com/watch?v=CQuKmIyaTms)｜2026-11-19｜播放 7524｜Idle Heroes
-- 样例：[Incredible Free-to-Player IDLE HEROES account reaches NIRVANA in less than a year](https://www.youtube.com/watch?v=Sraf6QiDXew)｜2026-11-16｜播放 19717｜Idle Heroes
-- 公开联系：admin@mkxjump.com（来源 https://www.youtube.com/@MKxJUMP/about）
-- 适配理由：英语圈头部 Idle Heroes 创作者（102K），每周活动评测+F2P 账号系列，粉丝就是放置卡牌 RPG 老玩家。
-- 局限：频道长期只做 Idle Heroes，需看是否接受新游合作。
-
-### 9. NQH — 第一推荐
+### 8. NQH — 第一推荐
 
 - 频道：https://www.youtube.com/@NQH-X｜YouTube｜其他：越南语｜地区 越南（about 页 Country: Vietnam）
 - 订阅/粉丝：82.3K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -471,7 +460,7 @@
 - 适配理由：越南“100 天挑战”格式频道，专挑 Steam 爆款增量/模拟小品：Booster Pack Heroes、Potato Please（23 万播放）、Find The Needle（32 万）、Chop Chop INC，单条常见 5–30 万播放。
 - 局限：内容为“100 天”剪辑格式，需游戏能撑起长周期成长；部分视频说明带 XMOD 修改器推广，合作前留意。
 
-### 10. Only Incrementals — 第一推荐
+### 9. Only Incrementals — 第一推荐
 
 - 频道：https://www.youtube.com/@OnlyIndies｜YouTube｜西班牙语｜地区 西班牙
 - 订阅/粉丝：81K（核查 2026-11-24）｜类型：idle/incremental
@@ -479,11 +468,11 @@
 - 样例：[Otro de los Incrementales TIER S de este año!](https://www.youtube.com/watch?v=1Rbo_6Ktix4)｜2026-11-17｜播放 21274｜待核（增量）
 - 样例：[He PELADO 60.000 PATATAS para la GLORIOSA NACIÓN SOVIÉTICA](https://www.youtube.com/watch?v=2zkolDUpKM4)｜2026-11-14｜播放 9408｜Potato Please
 - 样例：[He llegado a la OLEADA 300 en Orc Incremental](https://www.youtube.com/watch?v=jhV9C_svzi8)｜2026-10-07｜播放 16785｜Orc Incremental
-- 公开联系：gerierwarwick@gmail.com（来源 https://vidiq.com/youtube-stats/channel/@onlyindies/about/ （频道简介转录）；同见 https://www.youtube.com/feeds/videos.xml?channel_id=UC-Tpv-7YaR5H42cKDzwSCHw 视频说明）
-- 适配理由：西语增量游戏专门频道，每 3 天一条 Steam 增量新作（Potato Please、Orc Incremental、Idle Slayer 等），单条 1–2.4 万播放，有公开邮箱。
+- 公开联系：gerierwarwick@gmail.com（来源 https://www.youtube.com/@OnlyIndies/about）
+- 适配理由：西语增量游戏专门频道，每 3 天一条 Steam 增量新作（Potato Please、Orc Incremental等），单条 1–2.4 万播放，有公开邮箱。
 - 局限：作者 Gerier 的另一频道 Only Roguelikes 已被 out/en_autobattler_grind.json 收录（同一邮箱），联系时按同一人去重；不在三份去重名单内。；订阅数来源：vidIQ 2026-11-23
 
-### 11. MOREQUIS — 第一推荐
+### 10. MOREQUIS — 第一推荐
 
 - 频道：https://www.youtube.com/@Morequis｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：67K（核查 2026-11-24）｜类型：idle/incremental
@@ -492,10 +481,10 @@
 - 样例：[I forced 8.3 BILLION people to go through this door](https://www.youtube.com/watch?v=Oy2aJvNButE)｜2026-11-21｜播放 83209｜Round and Round Inc
 - 样例：[I Played 100% of Can Em All, by killing the cutest creatures ever...](https://www.youtube.com/watch?v=fIUJXKhKnGs)｜2026-11-04｜播放 100920｜Can 'Em All
 - 公开联系：collaborations@morequis.com（来源 https://www.youtube.com/@Morequis/about）
-- 适配理由：口号「We make numbers go up」，近期连做 Coal LLC、Round and Round Inc、Can 'Em All 等增量游戏
+- 适配理由：口号「We make numbers go up」，近期连做 Coal LLC、Can 'Em All 等增量游戏
 - 局限：无明显局限
 
-### 12. たまチャンネル — 第一推荐
+### 11. たまチャンネル — 第一推荐
 
 - 频道：https://www.youtube.com/@たまチャンネル｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：58.4K（核查 2026-11-24）｜类型：刷宝/grind
@@ -504,10 +493,11 @@
 - 样例：[【Lootun】敵と戦うより戦利品と戦うハクスラ：荷物パンパンに対処するべく全体の流れを設計する、Diablo系からアクション面を抜き取った、休む隙無し自動化放置RPG](https://www.youtube.com/watch?v=SXtt6Y67LCc)｜2026-04-24｜播放 6791｜Lootun
 - 样例：[【ハクスラ】放置系Diablo：デスクトップの片隅で遊べ、D2のチャームやルーンワードまでもある自動型RPG：その魅力を徹底解説！【Legacy of Baal】](https://www.youtube.com/watch?v=4zsL5HREQCY)｜2025-02-12｜播放 9027｜ハクスラ
 - 公开联系：tamachannel@youdaoads.com（来源 https://www.youtube.com/@たまチャンネル/about）
-- 适配理由：游戏开发者出身，日更ハクスラ/放置系 Diablo-like 解析（Lootun、放置系 Diablo、Dragon's Tear），擅长讲装备与自动化设计。
+- 适配理由：游戏开发者出身，日更ハクスラ/放置系 Diablo-like 解析（近期如 Dragon's Tear），擅长讲装备与自动化设计。
+- 发信注意：经纪方邮箱，可能回报价
 - 局限：公开邮箱写明是「中国のお仕事のご相談」专用（youdao 代理），日本本地合作走向待核。
 
-### 13. kakakyjla — 第一推荐
+### 12. kakakyjla — 第一推荐
 
 - 频道：https://www.youtube.com/@kakakyjla｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：53.4K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -519,7 +509,7 @@
 - 适配理由：53.4K 订阅，日更 Steam 独立肉鸽/塔防/自动战斗新游，近期做了 Booster Pack Heroes（自走棋增量）、点击类 SORE CRATEBREAKER，曾称 Karma Keepers 是「玩过最好的 IDLE 增量」。
 - 局限：主线是肉鸽和幸存者类，放置只是其一；地区未写明。
 
-### 14. 김더미 — 第一推荐
+### 13. 김더미 — 第一推荐
 
 - 频道：https://www.youtube.com/@DummyKim｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：50.4K（核查 2026-11-24）｜类型：auto battler
@@ -531,19 +521,7 @@
 - 适配理由：5 万订阅的 Steam 新游实况，专挑“딸깍”（点一下就自动打）的塔防/自动战斗新作，单条 3–10 万播放，和本作挂机自动战斗气质一致。
 - 局限：题材偏塔防；邮箱写在视频说明而非关于页。
 
-### 15. Ggyu tube — 第一推荐
-
-- 频道：https://www.youtube.com/@Ggyutube｜YouTube｜韩语｜地区 韩国
-- 订阅/粉丝：49.3K（核查 2026-11-24）｜类型：AFK RPG/手游放置
-- 最近更新：2026-11-23 [【소드 x 스태프】 재료비경 터트리고 900K 돌파! 추가 존버 필요할까? (+수욜 신규 이벤트) [현자 육성기#9]](https://www.youtube.com/watch?v=w25lolHHn1A)
-- 样例：[【소드 x 스태프】 재료비경 터트리고 900K 돌파! 추가 존버 필요할까? (+수욜 신규 이벤트) [현자 육성기#9]](https://www.youtube.com/watch?v=w25lolHHn1A)｜2026-11-23｜播放 6012｜메이플 키우기 / 소드 x 스태프
-- 样例：[【메이플 키우기】 본격 현질 시작! 패키지+스타포스로 투력 3000만 돌파 [캡틴 육성기 2편]](https://www.youtube.com/watch?v=XCQdF9Q-Fe8)｜2026-11-23｜播放 10177｜메이플 키우기 / 소드 x 스태프
-- 样例：[【메이플 키우기】 오랜만의 복귀, '캡틴'으로 새 출발합니다! [캡틴 육성기 1편]](https://www.youtube.com/watch?v=rZ192G5TUeo)｜2026-11-22｜播放 14103｜메이플 키우기 / 소드 x 스태프
-- 公开联系：mkt@metaplug.co.kr（来源 https://www.youtube.com/@Ggyutube/about）
-- 适配理由：4.93 万订阅，做“메이플 키우기”“소드 x 스태프”等放置 RPG 育成系列，单条约 1 万播放。
-- 局限：邮箱为 MCN（metaplug）营销邮箱。
-
-### 16. Tama【ゲーム紹介ch】 — 第一推荐
+### 14. Tama【ゲーム紹介ch】 — 第一推荐
 
 - 频道：https://www.youtube.com/@tama1370｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：49.1K（核查 2026-11-24）｜类型：idle/incremental
@@ -551,11 +529,12 @@
 - 样例：[【Dungeonbound】装備を集めて強化しまくるダンジョン探索！インクリメンタル要素付きダンジョンクロウルなローグライク【VOICEROID実況】](https://www.youtube.com/watch?v=J-l1D98rGL4)｜2026-11-22｜播放 108809｜Dungeonbound
 - 样例：[【Bowl Big】投げる度にめちゃくちゃ強くなるインフレボウリングでスコア300京点を取るインクリメンタルゲー【VOICEROID実況】](https://www.youtube.com/watch?v=rDlVnEDyMj8)｜2026-10-26｜播放 58423｜Bowl Big
 - 样例：[【Garbage Growth】うんちや赤ちゃんを拾ってリサイクルすれば無限に儲かる倫理観0のインクリメンタルゴミ拾い【VOICEROID実況】](https://www.youtube.com/watch?v=BfnvyDj8Xvs)｜2026-10-09｜播放 22414｜Garbage Growth
-- 公开联系：sosbrigade276@gmail.com（简介原文写作 sosbrigade276☆gmail.com）（来源 https://www.youtube.com/@tama1370/about）
+- 公开联系：sosbrigade276@gmail.com（来源 https://www.youtube.com/@tama1370/about）
 - 适配理由：ボイロ实况连续做インクリメンタル与放置ハクスラ（Dungeonbound 10 万播放、Bowl Big、Legends of Dragaea），简介写明个人接案。
+- 发信注意：简介原文写作 sosbrigade276☆gmail.com，发送时用 @
 - 局限：简介说明个人处理委托、不保证全部回复。
 
-### 17. RundPhunkRoyal — 第一推荐
+### 15. RundPhunkRoyal — 第一推荐
 
 - 频道：https://www.youtube.com/@RundPhunkRoyal｜YouTube｜德语｜地区 德国
 - 订阅/粉丝：43.3K（核查 2026-11-24）｜类型：idle/incremental
@@ -565,45 +544,10 @@
 - 样例：[CLICKEN bis meine Finger brennen!](https://www.youtube.com/watch?v=WBxZqnRu-u8)｜2026-11-02｜播放 26510｜待核（点击游戏，标题未写游戏名）
 - 公开联系：phunkroyal@1up.management（来源 https://www.youtube.com/watch?v=KnYjjoWtP98）
 - 适配理由：德语 Let's Play 主播，11 月连做 Idle 题材（“MEHR IDLE Games”、DPS IDLE 2、点击游戏），也做过 Idle Slayer、Ballionaire。
+- 发信注意：经纪方邮箱，可能回报价
 - 局限：邮箱为经纪公司 1up.management，取自视频说明；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 18. くろろじちゃんねる — 第一推荐
-
-- 频道：https://www.youtube.com/@KUROROJI｜YouTube｜日语｜地区 日本（待核）
-- 订阅/粉丝：42.1K（核查 2026-11-24）｜类型：Steam新游试玩
-- 最近更新：2026-11-23 [【本日発売】スキル強化が楽しすぎ！ヴァンサバライクARPG『アーケインバウンド / ArcaneBound』が面白すぎたｗ 【Steam】](https://www.youtube.com/watch?v=yJ2z-ygqEG8)
-- 样例：[【最新作】完全にハマりました。ダンジョン探索RPG『ダンジョンバウンド / Dungeonbound』が面白すぎたｗ その2 【Steam】](https://www.youtube.com/watch?v=LxmOqXAz7W8)｜2026-11-19｜播放 18378｜最新作
-- 样例：[【本日配信】こういうのでいいんだよ。放置系ダンジョン探索RPG『Dragon's Tear』体験版が面白すぎたｗ 【Steam】](https://www.youtube.com/watch?v=qBzAKa0IBYA)｜2026-11-16｜播放 16872｜本日配信
-- 样例：[【本日開始】ついに仕事しながらディアブロができるｗ 放置系ハクスラARPG『デスクロール：放置ARPG』のプレイテスト面白すぎたｗ【Steam】](https://www.youtube.com/watch?v=WWGo-IEw8Xo)｜2026-08-19｜播放 6801｜本日開始
-- 公开联系：https://kuroroji.site/promotion/（案件表单）；中国合作邮箱 kuroroji.ch@youdaoads.com（来源 https://www.youtube.com/@KUROROJI/about）
-- 适配理由：专做新作序盘实况，常推放置系ハクスラ（放置イモータル、デスクロール：放置ARPG、Dungeonbound），有正式案件页和中国合作邮箱。
-- 局限：简介注明不接受仅提供 Key 的免费委托，可能需付费。
-
-### 19. Puzzle - AFK Journey! — 第一推荐
-
-- 频道：https://www.youtube.com/@PuzzleAFKJ｜YouTube｜英语｜地区 美国
-- 订阅/粉丝：38.8K（核查 2026-11-24）｜类型：AFK RPG/手游放置
-- 最近更新：2026-11-23 [My BEST Supreme League Teams! 👑 ／ AFK Journey](https://www.youtube.com/watch?v=YPRUbx1CU8Y)
-- 样例：[My BEST Supreme League Teams! 👑 ／ AFK Journey](https://www.youtube.com/watch?v=YPRUbx1CU8Y)｜2026-11-23｜播放 5273｜AFK Journey
-- 样例：[The BEST Heroic Gauntlet Teams! ✅ CLEAR All 3 Stages! AFK Journey](https://www.youtube.com/watch?v=KaNu7X6YjlY)｜2026-11-23｜播放 4403｜AFK Journey
-- 样例：[BADEN is TRAMPLING Talking Root! 💀 ／ AFK Journey](https://www.youtube.com/watch?v=IqSGuGFN4FY)｜2026-11-23｜播放 4829｜AFK Journey
-- 公开联系：shreddedpuzzle@gmail.com（来源 https://www.youtube.com/@PuzzleAFKJ/about）
-- 适配理由：几乎每天更新 AFK Journey 阵容/梦境/公会战配队视频，观众正是看“自动战斗+站位配队”的放置 RPG 玩家，与本作 4×4 站位自动战斗高度对口。
-- 局限：频道只做 AFK Journey 单一游戏，接 PC 单机新作需看对方意愿。
-
-### 20. 껨디 — 第一推荐
-
-- 频道：https://www.youtube.com/@GGDsandevistan｜YouTube｜韩语｜地区 韩国
-- 订阅/粉丝：32.6K（核查 2026-11-24）｜类型：AFK RPG/手游放置
-- 最近更新：2026-11-24 [[AFK 새로운여정] 신규 반신악마『 아 네 바 』사용 후기 🏹](https://www.youtube.com/watch?v=ux9Bgx8hB0U)
-- 样例：[[AFK 새로운여정] 신규 반신악마『 아 네 바 』사용 후기 🏹](https://www.youtube.com/watch?v=ux9Bgx8hB0U)｜2026-11-24｜播放 680｜AFK Journey（AFK 새로운여정）
-- 样例：[[AFK 새로운여정] 꿈의세계 변형된예티✔️없어? 손해 좀 보자](https://www.youtube.com/watch?v=W8oAsXIzUwE)｜2026-11-24｜播放 634｜AFK Journey（AFK 새로운여정）
-- 样例：[[AFK 새로운여정] ( 11 . 23 - 11 . 29 ) 꿈의추격 ⚔️ 기본조합과 대체 캐릭터](https://www.youtube.com/watch?v=c7OsWKgjZt4)｜2026-11-23｜播放 1403｜AFK Journey（AFK 새로운여정）
-- 公开联系：ggemdi@daum.net（来源 https://www.youtube.com/@GGDsandevistan/about）
-- 适配理由：韩语 AFK Journey 专门频道（3.26 万），日更梦境/配队/新英雄测评，懂阵容站位。
-- 局限：近期单条播放数百至 1.7K。
-
-### 21. FonFon — 第一推荐
+### 16. FonFon — 第一推荐
 
 - 频道：https://www.youtube.com/@FonFonIdle｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：29.2K（核查 2026-11-24）｜类型：idle/incremental
@@ -613,9 +557,10 @@
 - 样例：[I Played 100% of a Game About Smashing Pinatas](https://www.youtube.com/watch?v=yGN_qsiWDHk)｜2026-11-17｜播放 36282｜Pinata Smash
 - 公开联系：fonfon@intheblackmedia.com（来源 https://www.youtube.com/@FonFonIdle/about）
 - 适配理由：定位「副屏挂着看」的增量游戏 100% 通关频道，Potato Please 30 万播放，契合本作挂机属性
+- 发信注意：经纪方邮箱，可能回报价
 - 局限：单条播放常达 5–30 万
 
-### 22. 샤커레또 — 第一推荐
+### 17. 샤커레또 — 第一推荐
 
 - 频道：https://www.youtube.com/@shakerratto｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：24.9K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -627,19 +572,7 @@
 - 适配理由：2.49 万订阅，持续试玩 Steam 新出的“养成/키우기+防御”类独立游戏，单条 1.6–3.9 万播放，简介有邮箱。
 - 局限：偏生存塔防，纯 RPG 放置不多。
 
-### 23. 이고올 — 第一推荐
-
-- 频道：https://www.youtube.com/@LeeGoAll｜YouTube｜韩语｜地区 韩国
-- 订阅/粉丝：19.4K（核查 2026-11-24）｜类型：AFK RPG/手游放置
-- 最近更新：2026-11-19 [[세븐나이츠 리버스] 🔥[12편]신규 계정 45일차! 결투장덱 완성....(feat.AI고올)](https://www.youtube.com/watch?v=9cENciMLT1I)
-- 样例：[[세븐나이츠 리버스] 🔥[12편]신규 계정 45일차! 결투장덱 완성....(feat.AI고올)](https://www.youtube.com/watch?v=9cENciMLT1I)｜2026-11-19｜播放 10473｜메이플 키우기 / 세븐나이츠 리버스
-- 样例：[[메이플 키우기] 🍄375일차 메린이! 도도...너무 강하다..... 벽느낌 ㅋㅋㅋㅋㅋ](https://www.youtube.com/watch?v=oyel-wn_R1E)｜2026-11-17｜播放 16714｜메이플 키우기 / 세븐나이츠 리버스
-- 样例：[[세븐나이츠 리버스] 내가... 이브가 될게 (🔥쿠폰 이벤트)](https://www.youtube.com/watch?v=n3J5dE6a-To)｜2026-11-15｜播放 17257｜메이플 키우기 / 세븐나이츠 리버스
-- 公开联系：wicd123@naver.com（来源 https://www.youtube.com/watch?v=9cENciMLT1I）
-- 适配理由：1.94 万订阅，“메이플 키우기 N 天新手日记”长期连载，单条 1–2 万播放。
-- 局限：邮箱写在视频说明而非关于页。
-
-### 24. Dabble — 第一推荐
+### 18. Dabble — 第一推荐
 
 - 频道：https://www.youtube.com/@DabbleYT｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：17.5K（核查 2026-11-24）｜类型：auto battler
@@ -651,7 +584,7 @@
 - 适配理由：近一周连更 Slotbound 自走军团和 Dominus Gladiatus 角斗士经营，播放 2–6 万，题材与 4×4 站位自动战斗高度贴合
 - 局限：频道以 Steam 新游试玩为主，题材轮换快
 
-### 25. UykuKapsülü（Cenk / GameCapsule） — 第一推荐
+### 19. UykuKapsülü（Cenk / GameCapsule） — 第一推荐
 
 - 频道：https://www.youtube.com/@UykuKapsulu｜YouTube｜其他：土耳其语｜地区 土耳其（about 页 Country: Türkiye）
 - 订阅/粉丝：13.6K（核查 2026-11-24）｜类型：混合
@@ -659,35 +592,11 @@
 - 样例：[Samanlıkta İğne Arıyorum ／ Find The Needle](https://www.youtube.com/watch?v=vCdk2LEAKQo)｜2026-11-18｜播放 9411｜Find The Needle（incremental）
 - 样例：[Savaş Sırasında Patates Soyuyorum ／ Potato Please](https://www.youtube.com/watch?v=mZQComwDfgs)｜2026-11-04｜播放 65689｜Potato Please
 - 样例：[Patates Soyma Vardiyası Devam Ediyor ／ Potato Please](https://www.youtube.com/watch?v=YQGAG92QGWY)｜2026-11-14｜播放 9486｜Potato Please
-- 公开联系：https://forms.gle/gUEsGGjWghnGfX3RA（来源 https://gamecapsuletv.com/（“Oyun Öner/推荐游戏”Google 表单；站内邮箱被 Cloudflare 混淆未能读出；YouTube about 页邮箱需登录））
+- 公开联系：gamecapsule@hotmail.com（来源 https://bibio.com.tr/gamecapsule 及 https://gamecapsuletv.com/ 页脚（原记录的 Google 表单是观众推荐游戏用，不是联络渠道））
 - 适配理由：土耳其“挂着当背景”的 cozy 长视频频道，定位与挂机游戏高度契合；近一个月做 Find The Needle、Potato Please（单集 6.5 万）、Moon Sweepers 等增量小品。
 - 局限：频道 2025-11 才建；无明文邮箱，只有推荐游戏表单；风格偏治愈慢节奏，战斗 RPG 是否接需问。
 
-### 26. しろこりGames / インディーゲーム専門Vtuber — 第一推荐
-
-- 频道：https://www.youtube.com/@ShirocoryGames｜YouTube｜日语｜地区 日本（待核）
-- 订阅/粉丝：12.6K（核查 2026-11-24）｜类型：Steam新游试玩
-- 最近更新：2026-11-24 [【捕食性の魚を釣ろう】終末世界の釣りサバイバル『DREADMOOR（ドレッドムア）』【Steam】](https://www.youtube.com/watch?v=XbVfAAFnV2M)
-- 样例：[じゃがいもの皮を剥くゲームが非常に好評！？作業自動化インクリメンタル『Potato Please』【Steam】](https://www.youtube.com/watch?v=6k60QO4USGQ)｜2026-11-23｜播放 2265｜Steam
-- 样例：[【戦術と戦略】どんどん育つインクリメンタル×ストラテジー『Total Incremental Battle』【Steam】#PR](https://www.youtube.com/watch?v=de-TOU9U2X4)｜2026-11-21｜播放 1279｜戦術と戦略
-- 样例：[『Clicky Islands』クリッカー要素×都市建設×リソース管理をするインクリメンタル【Steam】](https://www.youtube.com/watch?v=t7JjxQ9bOm0)｜2026-11-21｜播放 1272｜Steam
-- 公开联系：https://shirocory.games/promotion/（案件受付フォーム）（来源 https://www.youtube.com/@ShirocoryGames/about）
-- 适配理由：インディー专门 Vtuber，近两周连做インクリメンタル与オートバトラー新作（ヒア・カムズ・ザ・ホード、Dungeonbound、ブースターパックヒーロー），有正式案件表单。
-- 局限：明确不接受邮件，只走官网表单。
-
-### 27. 훈TV — 第一推荐
-
-- 频道：https://www.youtube.com/@%ED%9B%88TV%ED%9B%88｜YouTube｜韩语｜地区 韩国
-- 订阅/粉丝：12.4K（核查 2026-11-24）｜类型：AFK RPG/手游放置
-- 最近更新：2026-11-23 [메이플 키우기 - 방치 재화 온라인은 확률! 오프라인은 고정?](https://www.youtube.com/watch?v=9IZjkyyxhSM)
-- 样例：[메이플 키우기 - 방치 재화 온라인은 확률! 오프라인은 고정?](https://www.youtube.com/watch?v=9IZjkyyxhSM)｜2026-11-23｜播放 9886｜메이플 키우기 (MapleStory Idle RPG)
-- 样例：[메이플 키우기 - 보스 레이드 버닝 이벤트 예고! 업데이트 전 입장권 써도 될까?](https://www.youtube.com/watch?v=udCKNBeynAg)｜2026-11-22｜播放 12282｜메이플 키우기 (MapleStory Idle RPG)
-- 样例：[메이플 키우기 - 업데이트 전 하면 안 되는 행동 3가지!](https://www.youtube.com/watch?v=SJp256Goi1k)｜2026-11-20｜播放 34645｜메이플 키우기 (MapleStory Idle RPG)
-- 公开联系：lmh4186@naver.com（来源 https://www.youtube.com/watch?v=9IZjkyyxhSM）
-- 适配理由：日更“메이플 키우기”攻略（离线收益、更新预告、Boss 活动），单条 1–3 万播放，观众是韩服放置 RPG 核心玩家。
-- 局限：单一游戏频道；邮箱写在视频说明而非关于页。
-
-### 28. Starker MMOs — 第一推荐
+### 20. Starker MMOs — 第一推荐
 
 - 频道：https://www.youtube.com/@StarkerMMOs｜YouTube｜葡萄牙语(巴西)｜地区 巴西
 - 订阅/粉丝：11.6K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -696,22 +605,10 @@
 - 样例：[Troquei o TBH por esse novo JOGO IDLE insano! Confira o Leveling Idle - Task Bar Hero / Dicas / Guia](https://www.youtube.com/watch?v=Tm6B1gAzu-M)｜2026-10-26｜播放 2010｜Leveling Idle / Task Bar Hero
 - 样例：[BUILD COMPLETA para PLAGUELANDS TBH: Task Bar Hero - Dicas / Tutorial / Guia](https://www.youtube.com/watch?v=7C3BJQGFbXc)｜2026-09-14｜播放 24769｜TBH: Task Bar Hero
 - 公开联系：starkerlendario1@gmail.com（来源 https://playboard.co/en/channel/UCVqdB64l4NuxdUqRCRFctJQ（转录自 YouTube 频道简介「Contato, parcerias e afins」））
-- 适配理由：几乎全频道都是挂机 MMO：Task Bar Hero 构筑攻略、Leveling Idle、Lootborne、各类带 RMT/Steam 市场的 Idle 新游首发，题材与本作（挂机＋Steam 市场）高度对口。
+- 适配理由：几乎全频道都是挂机 MMO：Task Bar Hero 构筑攻略、Leveling Idle、各类带 RMT/Steam 市场的 Idle 新游首发，题材与本作（挂机＋Steam 市场）高度对口。
 - 局限：偏重带 RMT（现实货币交易）的挂机 MMO/私服类；有一条标题写「Fiz MEU jogo IDLE de Solo Leveling」，可能与 Leveling Idle 有合作或自研关系，待核；近 10 天无新片。；订阅数来源：Playboard 2026-11-24
 
-### 29. PlayZodi — 第一推荐
-
-- 频道：https://www.youtube.com/@Zodi｜YouTube｜俄语｜地区 待核
-- 订阅/粉丝：11.5K（核查 2026-11-24）｜类型：idle/incremental
-- 最近更新：2026-11-23 [💥 STEAM КЛЮЧ ВНУТРИ! 🔑 Survivor Rat vs Zombies (Ключ 4) 🔑 БЕСПЛАТНО ДАРЮ КЛЮЧ К ИГРЕ ;) #giveaway](https://www.youtube.com/watch?v=cjOb_gQZrhk)
-- 样例：[ИНКРЕМЕНТАЛЬНАЯ КИРКА - Paydirt [Обзор / Первый взгляд]](https://www.youtube.com/watch?v=dAjtndwUp34)｜2026-11-23｜播放 55｜Paydirt
-- 样例：[ИНКРЕМЕНТАЛЬНЫЕ ВЁДРА - One Million Gallons [Обзор / Первый взгляд]](https://www.youtube.com/watch?v=qOMtqHMLowM)｜2026-11-23｜播放 64｜One Million Gallons
-- 样例：[ИНКРЕМЕНТАЛЬНАЯ ДЕРЕВНЯ - The Endless Harvest [Обзор / Первый взгляд]](https://www.youtube.com/watch?v=kbKrUAYd88w)｜2026-11-22｜播放 205｜The Endless Harvest
-- 公开联系：playwithzodi@gmail.com（来源 https://www.youtube.com/@Zodi/about）
-- 适配理由：日更 Steam 新游「首看/评测」，近一个月连续做了十多款增量/放置和自走棋（Paydirt、One Million Gallons、The Endless Harvest、Idle Camp Tale 等），还有 Steam 鉴赏家页，对口本作 Demo/正式版首看。
-- 局限：单条播放偏低（多为几十到几百）；地区未写明。
-
-### 30. Ukernan Gaming — 第一推荐
+### 21. Ukernan Gaming — 第一推荐
 
 - 频道：https://www.youtube.com/@UkernanGaming｜YouTube｜西班牙语｜地区 阿根廷
 - 订阅/粉丝：11.2K（核查 2026-11-24）｜类型：混合
@@ -723,43 +620,7 @@
 - 适配理由：几乎日更 Steam 独立新游，近月同时做增量（Booster Pack Heroes、Ant Mill Inc、Resettle）和自走棋/roguelike autobattler（9 Kings、Slotbound、All Army Attack），还有 Steam 鉴赏家页，与本作高度对口。
 - 局限：订阅 1.1 万、单条 2–9 千播放，体量中等；副频道 Ukernan Plus 已停更。；订阅数来源：vidIQ 2026-11-23
 
-### 31. 게임픽 GAMEPICK — 第一推荐
-
-- 频道：https://www.youtube.com/@%EA%B2%8C%EC%9E%84%ED%94%BD-GAMEPICK｜YouTube｜韩语｜地区 韩国
-- 订阅/粉丝：10.2K（核查 2026-11-24）｜类型：AFK RPG/手游放置
-- 最近更新：2026-11-20 [모바일 파밍RPG 추천 TOP5, 퀘스트 없이 바로 닥사하는 게임이라고?](https://www.youtube.com/watch?v=c_8QPnfvcrA)
-- 样例：[도파민 팡팡 터지는 방치형게임 추천! 성장하는 맛이 살아있는데?](https://www.youtube.com/watch?v=a2_M9sIR73w)｜2026-11-13｜播放 6068｜放置型手游合集
-- 样例：[모바일게임 추천 무협 방치형RPG, 퇴근하고 10분이면 끝](https://www.youtube.com/watch?v=EE2Ta1Z2swY)｜2026-11-06｜播放 3374｜放置型手游合集
-- 样例：[모바일게임 추천 무협 방치형RPG 무제, 직장인이 무과금으로 해도 될까?](https://www.youtube.com/watch?v=y1QqDn0H0vU)｜2026-11-06｜播放 1818｜放置型手游合集
-- 公开联系：gamepickbiz@gmail.com（来源 https://www.youtube.com/@%EA%B2%8C%EC%9E%84%ED%94%BD-GAMEPICK/about）
-- 适配理由：频道持续做“放置型游戏推荐”“下班后 10 分钟的放置 RPG”，目标观众就是挂机放置玩家，简介有商务邮箱。
-- 局限：以手游为主，PC Steam 作品需对方意愿。
-
-### 32. CVMG Gaming — 第一推荐
-
-- 频道：https://www.youtube.com/@CVMG｜YouTube｜英语｜地区 美国
-- 订阅/粉丝：9.9K（核查 2026-11-24）｜类型：AFK RPG/手游放置
-- 最近更新：2026-11-23 [YOURE LOSING 1,000's OF PINBALLS Because of this!!](https://www.youtube.com/watch?v=WS3Ptdm9yLU)
-- 样例：[YOURE LOSING 1,000's OF PINBALLS Because of this!!](https://www.youtube.com/watch?v=WS3Ptdm9yLU)｜2026-11-23｜播放 4006｜Clash of Critters / Lumi Master
-- 样例：[MY SECRET WEAPON TO FARM HORDE INVASIONS](https://www.youtube.com/watch?v=U5v4lrMlLW8)｜2026-11-22｜播放 9327｜Clash of Critters / Lumi Master
-- 样例：[DON'T MAKE WISHBOXES YOUR BIGGEST REGRET!!](https://www.youtube.com/watch?v=MMpBTumjZg8)｜2026-11-21｜播放 19250｜Clash of Critters / Lumi Master
-- 公开联系：cvmg107@gmail.com（来源 https://www.youtube.com/@CVMG/about）
-- 适配理由：频道自述“专玩 idle RPG 和 gacha、测构筑找最强队伍”，Clash of Critters 攻略单条播放 1–3 万。
-- 局限：以手游为主，PC 单机作品需对方意愿。
-
-### 33. スケット団@Games — 第一推荐
-
-- 频道：https://www.youtube.com/@Games-wn6xx｜YouTube｜日语｜地区 日本（待核）
-- 订阅/粉丝：9.23K（核查 2026-11-24）｜类型：AFK RPG/手游放置
-- 最近更新：2026-11-16 [【キノコ伝説】怒りの39,800円課金！これぞ極限バトロア？！](https://www.youtube.com/watch?v=vNg_sYJ1_hM)
-- 样例：[【キノコ伝説】怒りの39,800円課金！これぞ極限バトロア？！](https://www.youtube.com/watch?v=vNg_sYJ1_hM)｜2026-11-16｜播放 5012｜キノコ伝説
-- 样例：[【キノコ伝説】ガチャ養分勢のマジックシアタービルド紹介！](https://www.youtube.com/watch?v=cdZG9Eokq1E)｜2026-11-04｜播放 6879｜キノコ伝説
-- 样例：[【キノコ伝説】心域漂流記！激渋ガチャ動画！](https://www.youtube.com/watch?v=YWlv9c_ndP8)｜2026-10-19｜播放 5408｜キノコ伝説
-- 公开联系：suketto20200404@gmail.com（来源 https://www.youtube.com/@Games-wn6xx/about）
-- 适配理由：双人对谈式专做キノコ伝説（放置 RPG），讲 build 与抽卡，与本作英雄搭配/装备玩法高度相近。
-- 局限：目前只做キノコ伝説一款手游，Steam 作品未见。
-
-### 34. Fox Clicks Again — 第一推荐
+### 22. Fox Clicks Again — 第一推荐
 
 - 频道：https://www.youtube.com/@FoxClicksAgain｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：9K（核查 2026-11-24）｜类型：idle/incremental
@@ -769,9 +630,10 @@
 - 样例：[I Played 100% of Potato Please](https://www.youtube.com/watch?v=owuvMO59G-A)｜2026-11-04｜播放 23531｜Potato Please
 - 公开联系：soulfox@noetictalentagency.com（来源 https://www.youtube.com/@FoxClicksAgain/about）
 - 适配理由：「I Played 100%」增量游戏系列，近期 Shred A Billion、Punch The Walls、Potato Please
+- 发信注意：经纪方邮箱，可能回报价
 - 局限：无明显局限
 
-### 35. なぎせいな / 凪世薙 — 第一推荐
+### 23. なぎせいな / 凪世薙 — 第一推荐
 
 - 频道：https://www.youtube.com/@nagi_517｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：7.51K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -783,18 +645,7 @@
 - 适配理由：专做「本日発売」新作首发实况，含インクリメンタル（Clicky Islands、Nullnest）和放置×ハクスラ×パーティ（卓上冒険物語），可配合 12-03 首发。
 - 局限：单条播放多在 1–5 千。
 
-### 36. CheeseCakeCactus — 第一推荐
-
-- 频道：https://www.youtube.com/@CheeseCakeCactus｜YouTube｜英语｜地区 待核
-- 订阅/粉丝：6.55K（核查 2026-11-24）｜类型：Steam新游试玩
-- 最近更新：2026-11-23 [A Roguelite Auto Battler Where Your Dice Rolls Build Your Army?! ／ Of Dice and Minions](https://www.youtube.com/watch?v=MS-kLG7a2tM)
-- 样例：[A Roguelite Auto Battler Where Your Dice Rolls Build Your Army?! ／ Of Dice and Minions](https://www.youtube.com/watch?v=MS-kLG7a2tM)｜2026-11-23｜播放 8｜Of Dice and Minions
-- 样例：[A PvP Auto Battler Where You Build Your Own Castle?! ／ Gridlords](https://www.youtube.com/watch?v=DiRs5l95Dy8)｜2026-11-13｜播放 139｜Gridlords
-- 公开联系：cheesecakecactus123@gmail.com（来源 https://www.youtube.com/@CheeseCakeCactus/about）
-- 适配理由：日更独立新游初体验，近两周连做 Of Dice and Minions、Gridlords 两款自走棋，对小体量独立游戏友好
-- 局限：单条播放很低（百级），曝光有限
-
-### 37. Idle Gamer — 第一推荐
+### 24. Idle Gamer — 第一推荐
 
 - 频道：https://www.youtube.com/@IdleClicker｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：5.88K（核查 2026-11-24）｜类型：idle/incremental
@@ -806,7 +657,7 @@
 - 适配理由：频道简介写明专做 Idle/Incremental/Clicker，几乎每天更新增量新游，和本作挂机放置定位直接对口
 - 局限：无明显局限
 
-### 38. Malterus Gaming — 第一推荐
+### 25. Malterus Gaming — 第一推荐
 
 - 频道：https://www.youtube.com/@Malterus_Gaming｜YouTube｜德语｜地区 德国
 - 订阅/粉丝：5.85K（核查 2026-11-24）｜类型：auto battler
@@ -818,31 +669,7 @@
 - 适配理由：简介写明主做 Roguelike、自走棋和策略独立游戏，近一月有自走棋 Of Dice and Minions、Apawca 和增量 Resettle 首测。
 - 局限：订阅 5.85K 刚过门槛；常与 Salzwerker 联动；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 39. IdleGamerBR — 第一推荐
-
-- 频道：https://www.youtube.com/@idlegamerYT1｜YouTube｜英语｜地区 巴西
-- 订阅/粉丝：5.62K（核查 2026-11-24）｜类型：AFK RPG/手游放置
-- 最近更新：2026-11-24 [Culling Game: Sendai Colony - UPDATED TIER LIST](https://www.youtube.com/watch?v=n27PuxEvjAw)
-- 样例：[Z Universe: Energy Burst - Updated Tier List (UTR Broly)](https://www.youtube.com/watch?v=ud3hTTcWphw)｜2026-11-21｜播放 1156｜多款新放置 RPG 手游（Shovel Squad、OMG Goddess: Idle Legends 等）
-- 样例：[Eternal Pantheon: Myth Fantasy - Tier List & Gameplay (all codes)](https://www.youtube.com/watch?v=hwZTn0EWBEc)｜2026-11-20｜播放 219｜多款新放置 RPG 手游（Shovel Squad、OMG Goddess: Idle Legends 等）
-- 样例：[OMG Goddess: Idle Legends - Updated Tier List (NEW GODDESS)](https://www.youtube.com/watch?v=2v9vKI0dl9E)｜2026-11-17｜播放 448｜多款新放置 RPG 手游（Shovel Squad、OMG Goddess: Idle Legends 等）
-- 公开联系：IDLEGAMERYT@tutamail.com（来源 https://www.youtube.com/@idlegamerYT1/about）
-- 适配理由：频道定位“The House of Idle RPG Games”，持续为各种新放置 RPG 做梯队榜+实机，最贴合“新放置 RPG 测评”。
-- 局限：频道名 IdleGamerBR、地区巴西，标题英文但口播语言待核；单条播放多在数百。
-
-### 40. 咖啡樂's — 第一推荐
-
-- 频道：https://www.youtube.com/@coffee0530｜YouTube｜繁体中文(台湾)｜地区 台湾
-- 订阅/粉丝：5.6K（核查 2026-11-24）｜类型：Steam 多款新游测试直播 / 桌面放置
-- 最近更新：2026-11-23 [【伊莫 Aniimo】虹彩麗芙羊可以抓囉，這次會是什麼顏色🌈有時間軸！ #36](https://www.youtube.com/watch?v=I1gLsci6ItY)
-- 样例：[【Steam 多款遊戲測試 Part.23】釣魚放置、商業帝國、迷宮塔防！後面會接伊莫～](https://www.youtube.com/watch?v=oO7LSAeQ4Ug)｜2026-11-22｜播放 505｜多款游戏合集
-- 样例：[【Steam 多款遊戲測試 Part.22】每款30分鐘，6款一次看！農場尋物／彈幕射擊／海盜戰棋／放置策略／童話割草／復古點擊](https://www.youtube.com/watch?v=NR8Y9hsiJak)｜2026-11-22｜播放 379｜多款游戏合集
-- 样例：[【Steam 多款遊戲測試 Part.20】女僕 AI 聊天放置遊戲＋公會經營 RPG！《放置像素女僕》《公會創世紀》雙款實況！](https://www.youtube.com/watch?v=64dBWdIkz2w)｜2026-11-20｜播放 672｜放置像素女僕
-- 公开联系：q23041940q@gmail.com（来源 https://www.youtube.com/@coffee0530/about）
-- 适配理由：「Steam 多款遊戲測試」系列每天测多款新游，近一周就有钓鱼放置、放置策略、复古点击、放置像素女仆、桌面养宠；《桌面破壞神》首发视频 2.1 万播放。
-- 局限：简介写商业合作档期「排到 12 月中旬」（Booked until mid-Dec），12-03 首发前可能排不上。
-
-### 41. GrayStillPlays — 第二推荐
+### 26. GrayStillPlays — 第二推荐
 
 - 频道：https://www.youtube.com/@GrayStillPlays｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：8.63M（核查 2026-11-24）｜类型：混合
@@ -854,7 +681,7 @@
 - 适配理由：863 万订阅的整活向频道，近一周连做旋转门、碎钞等增量游戏，曝光量大
 - 局限：体量极大、合作门槛高；以搞笑整活为主，非纯放置向
 
-### 42. Obsidian Time — 第二推荐
+### 27. Obsidian Time — 第二推荐
 
 - 频道：https://www.youtube.com/@ObsidianTime｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：1.5M（核查 2026-11-24）｜类型：Steam新游试玩
@@ -866,7 +693,7 @@
 - 适配理由：150 万订阅的俄语独立游戏头部频道，做过 Cookie Clicker（百万播放）和 shapez 系列自动化，近期仍持续做 Steam 独立新游。
 - 局限：近 30 天无放置题材；体量大、合作门槛高；放置相关仅零星几期。
 
-### 43. 풍월량 — 第二推荐
+### 28. 풍월량 — 第二推荐
 
 - 频道：https://www.youtube.com/@hanryang1125｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：530K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -877,7 +704,7 @@
 - 适配理由：53 万订阅的韩国头部游戏主播，偶尔做 Steam 小型成长/防御游戏，单条 13–24 万播放。
 - 局限：放置类只是偶发题材；邮箱为 MCN（sandbox）。
 
-### 44. ニグチャンネル — 第二推荐
+### 29. ニグチャンネル — 第二推荐
 
 - 频道：https://www.youtube.com/@shiroinu1128｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：460K（核查 2026-11-24）｜类型：idle/incremental
@@ -889,7 +716,7 @@
 - 适配理由：长期做クリッカー/数字集め类ゆっくり实况（Revolution Idle、Cookie Clicker、自制クリッカー），单条常有 20–30 万播放。
 - 局限：放置题材更新偏慢（另有会员限定 Revolution Idle 视频），近期以マイクラ为主。
 
-### 45. InterndotGif — 第二推荐
+### 30. InterndotGif — 第二推荐
 
 - 频道：https://www.youtube.com/@InternDotGif｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：447K（核查 2026-11-24）｜类型：混合
@@ -901,7 +728,7 @@
 - 适配理由：44.7 万订阅，近期大量升级/增量向新游（敲蛋、钻机、推箱）
 - 局限：综合模拟频道，不只做放置
 
-### 46. GameEdged — 第二推荐
+### 31. GameEdged — 第二推荐
 
 - 频道：https://www.youtube.com/@gameedged｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：361K（核查 2026-11-24）｜类型：idle/incremental
@@ -913,7 +740,7 @@
 - 适配理由：近期密集做清理/割草/挖矿类增量模拟，单条 1–4 万播放
 - 局限：偏清理模拟向，RPG 少
 
-### 47. ShadesOfNate — 第二推荐
+### 32. ShadesOfNate — 第二推荐
 
 - 频道：https://www.youtube.com/@ShadesOfNate｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：280K（核查 2026-11-24）｜类型：混合
@@ -924,7 +751,7 @@
 - 适配理由：搞笑向，近期两条增量游戏
 - 局限：放置非主线
 
-### 48. Рекви — 第二推荐
+### 33. Рекви — 第二推荐
 
 - 频道：https://www.youtube.com/@rekvizit8bit｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：276K（核查 2026-11-24）｜类型：混合
@@ -936,7 +763,7 @@
 - 适配理由：276K 订阅的俄语主播，常试 Steam 独立自走棋：近期 Slotbound（自走棋肉鸽，2 万播放）、观众组队的角斗士经营 Dominus Gladiatus，也做过 Backpack Battles、Epic Auto Towers；简介写明商务邮箱。
 - 局限：题材很杂（恐怖、生存居多），自走棋只占少数。
 
-### 49. Floydsonson — 第二推荐
+### 34. Floydsonson — 第二推荐
 
 - 频道：https://www.youtube.com/@Floydsonson｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：225K（核查 2026-11-24）｜类型：混合
@@ -948,7 +775,7 @@
 - 适配理由：22.5 万订阅「I Played 100%」系列，近期多条增量游戏（Moon Sweepers、CRACK）百万级播放
 - 局限：频道偏综艺向模拟/增量，并非纯放置 RPG
 
-### 50. TrueDad — 第二推荐
+### 35. TrueDad — 第二推荐
 
 - 频道：https://www.youtube.com/@TrueDad｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：156K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -960,7 +787,7 @@
 - 适配理由：156K 订阅的 Steam 交易/投资频道（办有 Steam 交易学校），近期持续更新市场分析，适合在本作首发开放社区市场时介绍交易玩法。
 - 局限：内容集中在 CS2 皮肤投资，不做独立游戏评测，需要定制角度。
 
-### 51. The SKY Alliance — 第二推荐
+### 36. The SKY Alliance — 第二推荐
 
 - 频道：https://www.youtube.com/@theskyalliance｜YouTube｜英语｜地区 加拿大
 - 订阅/粉丝：134K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -972,7 +799,20 @@
 - 适配理由：134K 的攻略社区频道，覆盖 Legend of Mushroom、Legend of Elements、Duck Survival 等放置手游。
 - 局限：偏团队/联盟运营号，部分新视频播放很低；主力题材还有 The Ants 等 SLG。
 
-### 52. Ryfek — 第二推荐
+### 37. MKxJUMP — 第二推荐
+
+- 频道：https://www.youtube.com/@MKxJUMP｜YouTube｜英语｜地区 英国
+- 订阅/粉丝：102K（核查 2026-11-24）｜类型：AFK RPG/手游放置
+- 最近更新：2026-11-20 [Thanksgiving 2026 gives AMAZING FREE REWARDS this week in IDLE HEROES](https://www.youtube.com/watch?v=uQ1gaRZ6I2k)
+- 样例：[Thanksgiving 2026 gives AMAZING FREE REWARDS this week in IDLE HEROES](https://www.youtube.com/watch?v=uQ1gaRZ6I2k)｜2026-11-20｜播放 16200｜Idle Heroes
+- 样例：[Let's clear Chapter 8 of Void Campaign! - Episode 99 - The IDLE HEROES CSG Series](https://www.youtube.com/watch?v=CQuKmIyaTms)｜2026-11-19｜播放 7524｜Idle Heroes
+- 样例：[Incredible Free-to-Player IDLE HEROES account reaches NIRVANA in less than a year](https://www.youtube.com/watch?v=Sraf6QiDXew)｜2026-11-16｜播放 19717｜Idle Heroes
+- 公开联系：admin@mkxjump.com（来源 https://www.youtube.com/@MKxJUMP/about）
+- 适配理由：英语圈头部 Idle Heroes 创作者（102K），每周活动评测+F2P 账号系列，粉丝就是放置卡牌 RPG 老玩家。
+- 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
+- 局限：频道长期只做 Idle Heroes，需看是否接受新游合作。
+
+### 38. Ryfek — 第二推荐
 
 - 频道：https://www.youtube.com/@Ryfek｜YouTube｜其他：波兰语｜地区 波兰（about 页 Country: Poland）
 - 订阅/粉丝：101K（核查 2026-11-24）｜类型：混合
@@ -983,7 +823,7 @@
 - 适配理由：波兰老牌 roguelike 系列主播，做过 Backpack Battles 系列《Pełen Plecak》，近期“随机周二”栏目试玩 Booster Pack Heroes 增量塔防，长期做 Brotato。
 - 局限：放置/自走棋只是穿插；Backpack Battles 系列日期未核到；主线是 Isaac、Rimworld、Brotato。
 
-### 53. Játszótér（MakaM） — 第二推荐
+### 39. Játszótér（MakaM） — 第二推荐
 
 - 频道：https://www.youtube.com/@jatszoter｜YouTube｜其他：匈牙利语｜地区 匈牙利（about 页 Country: Hungary）
 - 订阅/粉丝：88.4K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -995,7 +835,7 @@
 - 适配理由：匈牙利模拟/新游直播频道，每周固定新游测评，近一个月做了 Pinata Smash: Incremental Circus、Moon Sweepers、Find The Needle、Potato Please 等增量爆款。
 - 局限：主线是 Farming Simulator、BeamNG 等模拟；视频多为直播回放；放置 RPG 是否契合需看其新游测评栏目。；订阅数终版重核未取得（页面读取失败），保留子对话实测值
 
-### 54. PonPonLin蹦蹦林 — 第二推荐
+### 40. PonPonLin蹦蹦林 — 第二推荐
 
 - 频道：https://www.youtube.com/@ponponlin｜YouTube｜繁体中文(台湾)｜地区 台湾（待核）
 - 订阅/粉丝：79.4K（核查 2026-11-24）｜类型：薑餅人王國/薑餅人放置大戰爭 攻略
@@ -1007,7 +847,7 @@
 - 适配理由：近期密集更新《薑餅人放置大戰爭》改版/配置攻略（每条 5–8 千播放），也做过 AFK Journey，放置手游受众稳定。
 - 局限：以单一 IP 手游攻略为主，Steam PC 放置是否接需确认。
 
-### 55. Scion Storm — 第二推荐
+### 41. Scion Storm — 第二推荐
 
 - 频道：https://www.youtube.com/@ScionStorm｜YouTube｜英语｜地区 美国
 - 订阅/粉丝：59.8K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -1019,7 +859,20 @@
 - 适配理由：59.8K，专做新游“Hype Impressions”首发试玩，近期覆盖 Soul Legion: Idle RPG、Invokers: Titan Legacy 等放置 RPG，适合首发试玩。
 - 局限：题材很杂（MMO/动作/SLG 都有），放置只是其中一部分。；订阅数终版重核未取得（页面读取失败），保留子对话实测值
 
-### 56. Only Roguelikes — 第二推荐
+### 42. Ggyu tube — 第二推荐
+
+- 频道：https://www.youtube.com/@Ggyutube｜YouTube｜韩语｜地区 韩国
+- 订阅/粉丝：49.3K（核查 2026-11-24）｜类型：AFK RPG/手游放置
+- 最近更新：2026-11-23 [【소드 x 스태프】 재료비경 터트리고 900K 돌파! 추가 존버 필요할까? (+수욜 신규 이벤트) [현자 육성기#9]](https://www.youtube.com/watch?v=w25lolHHn1A)
+- 样例：[【소드 x 스태프】 재료비경 터트리고 900K 돌파! 추가 존버 필요할까? (+수욜 신규 이벤트) [현자 육성기#9]](https://www.youtube.com/watch?v=w25lolHHn1A)｜2026-11-23｜播放 6012｜메이플 키우기 / 소드 x 스태프
+- 样例：[【메이플 키우기】 본격 현질 시작! 패키지+스타포스로 투력 3000만 돌파 [캡틴 육성기 2편]](https://www.youtube.com/watch?v=XCQdF9Q-Fe8)｜2026-11-23｜播放 10177｜메이플 키우기 / 소드 x 스태프
+- 样例：[【메이플 키우기】 오랜만의 복귀, '캡틴'으로 새 출발합니다! [캡틴 육성기 1편]](https://www.youtube.com/watch?v=rZ192G5TUeo)｜2026-11-22｜播放 14103｜메이플 키우기 / 소드 x 스태프
+- 公开联系：mkt@metaplug.co.kr（来源 https://www.youtube.com/@Ggyutube/about）
+- 适配理由：4.93 万订阅，做“메이플 키우기”“소드 x 스태프”等放置 RPG 育成系列，单条约 1 万播放。
+- 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
+- 局限：邮箱为 MCN（metaplug）营销邮箱。
+
+### 43. Only Roguelikes — 第二推荐
 
 - 频道：https://www.youtube.com/@OnlyRoguelikes｜YouTube｜西班牙语｜地区 待核
 - 订阅/粉丝：42.7K（核查 2026-11-24）｜类型：auto battler
@@ -1031,7 +884,33 @@
 - 适配理由：4.3 万订阅，专做 roguelike，近期多条自走棋（Devolver 新作、Slotbound 5.3 万播放）
 - 局限：实为西班牙语频道（RSS 原标题为西语，英文为自动翻译），建议交西语组；邮箱出自视频说明
 
-### 57. ぎあ — 第二推荐
+### 44. Puzzle - AFK Journey! — 第二推荐
+
+- 频道：https://www.youtube.com/@PuzzleAFKJ｜YouTube｜英语｜地区 美国
+- 订阅/粉丝：38.8K（核查 2026-11-24）｜类型：AFK RPG/手游放置
+- 最近更新：2026-11-23 [My BEST Supreme League Teams! 👑 ／ AFK Journey](https://www.youtube.com/watch?v=YPRUbx1CU8Y)
+- 样例：[My BEST Supreme League Teams! 👑 ／ AFK Journey](https://www.youtube.com/watch?v=YPRUbx1CU8Y)｜2026-11-23｜播放 5273｜AFK Journey
+- 样例：[The BEST Heroic Gauntlet Teams! ✅ CLEAR All 3 Stages! AFK Journey](https://www.youtube.com/watch?v=KaNu7X6YjlY)｜2026-11-23｜播放 4403｜AFK Journey
+- 样例：[BADEN is TRAMPLING Talking Root! 💀 ／ AFK Journey](https://www.youtube.com/watch?v=IqSGuGFN4FY)｜2026-11-23｜播放 4829｜AFK Journey
+- 公开联系：shreddedpuzzle@gmail.com（来源 https://www.youtube.com/@PuzzleAFKJ/about）
+- 适配理由：几乎每天更新 AFK Journey 阵容/梦境/公会战配队视频，观众正是看“自动战斗+站位配队”的放置 RPG 玩家，与本作 4×4 站位自动战斗高度对口。
+- 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
+- 局限：频道只做 AFK Journey 单一游戏，接 PC 单机新作需看对方意愿。
+
+### 45. 껨디 — 第二推荐
+
+- 频道：https://www.youtube.com/@GGDsandevistan｜YouTube｜韩语｜地区 韩国
+- 订阅/粉丝：32.6K（核查 2026-11-24）｜类型：AFK RPG/手游放置
+- 最近更新：2026-11-24 [[AFK 새로운여정] 신규 반신악마『 아 네 바 』사용 후기 🏹](https://www.youtube.com/watch?v=ux9Bgx8hB0U)
+- 样例：[[AFK 새로운여정] 신규 반신악마『 아 네 바 』사용 후기 🏹](https://www.youtube.com/watch?v=ux9Bgx8hB0U)｜2026-11-24｜播放 680｜AFK Journey（AFK 새로운여정）
+- 样例：[[AFK 새로운여정] 꿈의세계 변형된예티✔️없어? 손해 좀 보자](https://www.youtube.com/watch?v=W8oAsXIzUwE)｜2026-11-24｜播放 634｜AFK Journey（AFK 새로운여정）
+- 样例：[[AFK 새로운여정] ( 11 . 23 - 11 . 29 ) 꿈의추격 ⚔️ 기본조합과 대체 캐릭터](https://www.youtube.com/watch?v=c7OsWKgjZt4)｜2026-11-23｜播放 1403｜AFK Journey（AFK 새로운여정）
+- 公开联系：ggemdi@daum.net（来源 https://www.youtube.com/@GGDsandevistan/about）
+- 适配理由：韩语 AFK Journey 专门频道（3.26 万），日更梦境/配队/新英雄测评，懂阵容站位。
+- 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
+- 局限：近期单条播放数百至 1.7K。
+
+### 46. ぎあ — 第二推荐
 
 - 频道：https://www.youtube.com/@Rustgear2nd｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：29.4K（核查 2026-11-24）｜类型：idle/incremental
@@ -1043,7 +922,7 @@
 - 适配理由：ゆっくり实况インクリメンタル（Escape the Walls、Playrooms、Find The Needle），简介写明联系邮箱。
 - 局限：偏「清扫/数大数字」类インクリ，放置 RPG 不多；超不定期投稿。
 
-### 58. Torugão — 第二推荐
+### 47. Torugão — 第二推荐
 
 - 频道：https://www.youtube.com/@torugaoo｜YouTube｜葡萄牙语(巴西)｜地区 巴西
 - 订阅/粉丝：27.4K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -1055,7 +934,7 @@
 - 适配理由：做过「靠 Steam 市场赚钱的挂机游戏」专题，也常推 RMT/挂机赚钱类游戏。
 - 局限：主线是加密货币 Play-to-Earn（Solana 链游），近 15 条无 Steam 放置游戏；受众偏「赚钱」，品牌风险需评估；未命中去重名单，但英语组 out/en_steam_market_newgames.json 已把他列入 rejected 并转交葡语组。；订阅数来源：socialcounts.org 接口 2026-11-24 读取
 
-### 59. Indeday — 第二推荐
+### 48. Indeday — 第二推荐
 
 - 频道：https://www.youtube.com/@Indeday｜YouTube｜法语｜地区 法国
 - 订阅/粉丝：27.1K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -1067,7 +946,7 @@
 - 适配理由：法语独立游戏试玩频道（2.7 万），做过 Incremental CAN EM ALL、Idle 游戏 Slice To Meet You、Ballionaire。
 - 局限：邮箱取自视频说明、未标注用途；题材以策略/模拟为主；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 60. OHRye — 第二推荐
+### 49. OHRye — 第二推荐
 
 - 频道：https://www.youtube.com/@OHRyePlays｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：26.1K（核查 2026-11-24）｜类型：混合
@@ -1079,7 +958,7 @@
 - 适配理由：2.6 万订阅，有公开邮箱，日更自动攻击类幸存者游戏，也做 Bannerlings 军团自走棋和 How Many Dudes
 - 局限：主力是幸存者类，自走棋两条样本日期待核
 
-### 61. 이구역의 듀공 — 第二推荐
+### 50. 이구역의 듀공 — 第二推荐
 
 - 频道：https://www.youtube.com/@grownbb｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：23.5K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1090,7 +969,7 @@
 - 适配理由：手游推荐合集频道（2.35万订阅），近期“热门手游 20 选”里专门有放置型(방치형)分类，单条播放 1.7 万。
 - 局限：推荐合集里放置只是分类之一，不是专门放置频道。
 
-### 62. MacicTV — 第二推荐
+### 51. MacicTV — 第二推荐
 
 - 频道：https://www.youtube.com/@MacicTV｜YouTube｜法语｜地区 法国
 - 订阅/粉丝：23.2K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -1102,7 +981,7 @@
 - 适配理由：法语模拟/经营新游试玩频道（2.3 万），做过增量 One Million Coins、Leaf Blower Co.，简介有明文邮箱。
 - 局限：近期主做 Rob Run 系列；One Million Coins 样本不在 RSS，日期待核；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 63. RoyaloYT — 第二推荐
+### 52. RoyaloYT — 第二推荐
 
 - 频道：https://www.youtube.com/@royaloYT｜YouTube｜其他：意大利语｜地区 意大利（about 页 Country: Italy）
 - 订阅/粉丝：21.8K（核查 2026-11-24）｜类型：idle/incremental
@@ -1114,7 +993,7 @@
 - 适配理由：意大利综艺频道，近两周大量做增量小品的“100% 通关/助眠”长视频：Can 'Em All、Find The Needle、Dice Hoarder、Shred a Billion、Punch The Wall、Booster Pack Heroes，此前还做过 Potato Please 100%。
 - 局限：订阅 21.8K 但近期增量长视频播放仅个位到几十，短视频才上千，实际触达存疑；邮箱出自视频说明。
 
-### 64. Satan Claus PLAY! — 第二推荐
+### 53. Satan Claus PLAY! — 第二推荐
 
 - 频道：https://www.youtube.com/@satanclausplay｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：20K（核查 2026-11-24）｜类型：混合
@@ -1126,7 +1005,20 @@
 - 适配理由：20K 订阅、日更 Steam 独立肉鸽与增量：近期做了增量挖矿 No Asteroids 系列，年初做过 idle 游戏 Mining Wizards、塔防增量 Outhold，单条常有 5 千到 2 万播放。
 - 局限：主线是动作肉鸽（Deep Rock Galactic: Survivor 等），放置只占一部分；邮箱写在关于页外链区。
 
-### 65. JTM — 第二推荐
+### 54. 이고올 — 第二推荐
+
+- 频道：https://www.youtube.com/@LeeGoAll｜YouTube｜韩语｜地区 韩国
+- 订阅/粉丝：19.4K（核查 2026-11-24）｜类型：AFK RPG/手游放置
+- 最近更新：2026-11-19 [[세븐나이츠 리버스] 🔥[12편]신규 계정 45일차! 결투장덱 완성....(feat.AI고올)](https://www.youtube.com/watch?v=9cENciMLT1I)
+- 样例：[[세븐나이츠 리버스] 🔥[12편]신규 계정 45일차! 결투장덱 완성....(feat.AI고올)](https://www.youtube.com/watch?v=9cENciMLT1I)｜2026-11-19｜播放 10473｜메이플 키우기 / 세븐나이츠 리버스
+- 样例：[[메이플 키우기] 🍄375일차 메린이! 도도...너무 강하다..... 벽느낌 ㅋㅋㅋㅋㅋ](https://www.youtube.com/watch?v=oyel-wn_R1E)｜2026-11-17｜播放 16714｜메이플 키우기 / 세븐나이츠 리버스
+- 样例：[[세븐나이츠 리버스] 내가... 이브가 될게 (🔥쿠폰 이벤트)](https://www.youtube.com/watch?v=n3J5dE6a-To)｜2026-11-15｜播放 17257｜메이플 키우기 / 세븐나이츠 리버스
+- 公开联系：wicd123@naver.com（来源 https://www.youtube.com/watch?v=9cENciMLT1I）
+- 适配理由：1.94 万订阅，“메이플 키우기 N 天新手日记”长期连载，单条 1–2 万播放。
+- 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
+- 局限：邮箱写在视频说明而非关于页。
+
+### 55. JTM — 第二推荐
 
 - 频道：https://www.youtube.com/@JTMPLays｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：18.6K（核查 2026-11-24）｜类型：混合
@@ -1137,7 +1029,7 @@
 - 适配理由：1.9 万订阅，做过“Steam 当前最佳自走棋 20 款”合集和增量战斗游戏，有公开商务邮箱
 - 局限：主业是工厂/城市建造，放置题材只是偶尔
 
-### 66. Gaming With Jeff — 第二推荐
+### 56. Gaming With Jeff — 第二推荐
 
 - 频道：https://www.youtube.com/@gamingwithjeff｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：18.3K（核查 2026-11-24）｜类型：auto battler
@@ -1148,7 +1040,7 @@
 - 适配理由：1.8 万订阅，日更，近期做“重刷宝自走棋” Gear Up Einstein!，也长期做 Death Must Die 刷宝
 - 局限：以幸存者类为主，自动战斗只是一部分
 
-### 67. Game Launch Central — 第二推荐
+### 57. Game Launch Central — 第二推荐
 
 - 频道：https://www.youtube.com/@GameLaunchCentral｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：17.4K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -1159,7 +1051,7 @@
 - 适配理由：做 Steam 新游攻略/评测，近期多条 Melvor Idle 2 攻略
 - 局限：非纯放置频道，播放量一般
 
-### 68. Тупой Горностай（同一主播另有 Шляпа Горностая） — 第二推荐
+### 58. Тупой Горностай（同一主播另有 Шляпа Горностая） — 第二推荐
 
 - 频道：https://www.youtube.com/@TupoyGornostay｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：16.9K（核查 2026-11-24）｜类型：auto battler
@@ -1171,7 +1063,7 @@
 - 适配理由：Twitch 主播 blindermine（Слепой Горностай）的两个切片频道：16.9K 的 Тупой Горностай 与 2.15K 的 Шляпа Горностая，长期做自走棋 The Bazaar（11 月仍在更新构筑视频），同时是刷宝类 Path of Exile 玩家，受众接受自动战斗和刷装备。
 - 局限：放置相关只有 The Bazaar；主频道最近上传在 2026-09-29，近期更新在副频道 Шляпа Горностая（latestActivity 取副频道）；两频道同属一人，只记一次。
 
-### 69. Grinnn — 第二推荐
+### 59. Grinnn — 第二推荐
 
 - 频道：https://www.youtube.com/@Grinnn｜YouTube｜英语｜地区 印度
 - 订阅/粉丝：15.5K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1183,7 +1075,7 @@
 - 适配理由：高频更新 Summoner's Greed（放置塔防）和 Archero 2 攻略，擅长手游养成/刷取类内容。
 - 局限：Archero 2 偏动作肉鸽，严格意义的放置 RPG 只有 Summoner's Greed；大量 shorts 播放偏低。
 
-### 70. 게임달고나 — 第二推荐
+### 60. 게임달고나 — 第二推荐
 
 - 频道：https://www.youtube.com/@%EB%AA%A8%EB%B0%94%EC%9D%BC%EA%B2%8C%EC%9E%84｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：14.5K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1195,7 +1087,20 @@
 - 适配理由：几乎日更新作手游实机，近期多款国产放置型 키우기 RPG、放置大亨首发试玩。
 - 局限：单条播放多为数百至 1K；邮箱为 MCN（metaplug）营销邮箱。
 
-### 71. 초록괴물 — 第二推荐
+### 61. 훈TV — 第二推荐
+
+- 频道：https://www.youtube.com/@%ED%9B%88TV%ED%9B%88｜YouTube｜韩语｜地区 韩国
+- 订阅/粉丝：12.4K（核查 2026-11-24）｜类型：AFK RPG/手游放置
+- 最近更新：2026-11-23 [메이플 키우기 - 방치 재화 온라인은 확률! 오프라인은 고정?](https://www.youtube.com/watch?v=9IZjkyyxhSM)
+- 样例：[메이플 키우기 - 방치 재화 온라인은 확률! 오프라인은 고정?](https://www.youtube.com/watch?v=9IZjkyyxhSM)｜2026-11-23｜播放 9886｜메이플 키우기 (MapleStory Idle RPG)
+- 样例：[메이플 키우기 - 보스 레이드 버닝 이벤트 예고! 업데이트 전 입장권 써도 될까?](https://www.youtube.com/watch?v=udCKNBeynAg)｜2026-11-22｜播放 12282｜메이플 키우기 (MapleStory Idle RPG)
+- 样例：[메이플 키우기 - 업데이트 전 하면 안 되는 행동 3가지!](https://www.youtube.com/watch?v=SJp256Goi1k)｜2026-11-20｜播放 34645｜메이플 키우기 (MapleStory Idle RPG)
+- 公开联系：lmh4186@naver.com（来源 https://www.youtube.com/watch?v=9IZjkyyxhSM）
+- 适配理由：日更“메이플 키우기”攻略（离线收益、更新预告、Boss 活动），单条 1–3 万播放，观众是韩服放置 RPG 核心玩家。
+- 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
+- 局限：单一游戏频道；邮箱写在视频说明而非关于页。
+
+### 62. 초록괴물 — 第二推荐
 
 - 频道：https://www.youtube.com/@%EC%B4%88%EB%A1%9D%EA%B4%B4%EB%AC%BC｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：12.1K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1206,7 +1111,7 @@
 - 适配理由：做“多巴胺爆棚的放置型游戏推荐 TOP7”（3.2 万播放）和塔防推荐榜。
 - 局限：最近一条放置类为 10-26 的塔防榜；更新约每周 1 条。
 
-### 72. ExGold — 第二推荐
+### 63. ExGold — 第二推荐
 
 - 频道：https://www.youtube.com/@ExGold｜YouTube｜其他：意大利语｜地区 意大利（about 页 Country: Italy）
 - 订阅/粉丝：11.9K（核查 2026-11-24）｜类型：混合
@@ -1218,19 +1123,59 @@
 - 适配理由：主做 Project Zomboid 等生存游戏，近一个月穿插 KESSLER: Orbital Incremental、Moon Sweepers、Incremental Traffic、Chop Chains 等增量新游试玩。
 - 局限：放置类不是主线，放置视频播放 2K–5K 偏低；邮箱出自视频说明而非频道简介。
 
-### 73. Elaps — 第二推荐
+### 64. PlayZodi — 第二推荐
 
-- 频道：https://www.youtube.com/@Elapsss｜YouTube｜法语｜地区 法国
-- 订阅/粉丝：9.67K（核查 2026-11-24）｜类型：idle/incremental
-- 最近更新：2026-11-22 [J’ai ramassé 1 MILLION de pièces pour ce 100%](https://www.youtube.com/watch?v=BgHqymVvCkU)
-- 样例：[J’ai ramassé 1 MILLION de pièces pour ce 100%](https://www.youtube.com/watch?v=BgHqymVvCkU)｜2026-11-22｜播放 16477｜待核（标题未写游戏名，捡 100 万金币）
-- 样例：[J'ai ramassé PLUS DE 500 000 FEUILLES pour ce PLATINE](https://www.youtube.com/watch?v=hqqR9AIgYzU)｜2026-11-12｜播放 55231｜待核（标题未写游戏名，扫落叶）
-- 样例：[J'ai PLATINE 3 Incrementaux en UNE SEULE vidéo](https://www.youtube.com/watch?v=fIzaM7B7gjI)｜2026-07-19｜播放 44287｜待核（三款增量合集）
-- 公开联系：elps.edit.pro@gmail.com（来源 https://www.youtube.com/@Elapsss/about）
-- 适配理由：法语白金/百分百通关频道，常把 Incremental 打到全成就（“3 Incrementaux en une vidéo”、捡 100 万金币等），单条播放 1.6–9 万。
-- 局限：简介邮箱标注为“Mail pro Montage”（剪辑合作），是否收游戏邀请待核；偏成就向；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
+- 频道：https://www.youtube.com/@Zodi｜YouTube｜俄语｜地区 待核
+- 订阅/粉丝：11.5K（核查 2026-11-24）｜类型：idle/incremental
+- 最近更新：2026-11-23 [💥 STEAM КЛЮЧ ВНУТРИ! 🔑 Survivor Rat vs Zombies (Ключ 4) 🔑 БЕСПЛАТНО ДАРЮ КЛЮЧ К ИГРЕ ;) #giveaway](https://www.youtube.com/watch?v=cjOb_gQZrhk)
+- 样例：[ИНКРЕМЕНТАЛЬНАЯ КИРКА - Paydirt [Обзор / Первый взгляд]](https://www.youtube.com/watch?v=dAjtndwUp34)｜2026-11-23｜播放 55｜Paydirt
+- 样例：[ИНКРЕМЕНТАЛЬНЫЕ ВЁДРА - One Million Gallons [Обзор / Первый взгляд]](https://www.youtube.com/watch?v=qOMtqHMLowM)｜2026-11-23｜播放 64｜One Million Gallons
+- 样例：[ИНКРЕМЕНТАЛЬНАЯ ДЕРЕВНЯ - The Endless Harvest [Обзор / Первый взгляд]](https://www.youtube.com/watch?v=kbKrUAYd88w)｜2026-11-22｜播放 205｜The Endless Harvest
+- 公开联系：playwithzodi@gmail.com（来源 https://www.youtube.com/@Zodi/about）
+- 适配理由：日更 Steam 新游「首看/评测」，近一个月连续做了十多款增量/放置和自走棋（Paydirt、One Million Gallons、The Endless Harvest等），还有 Steam 鉴赏家页，对口本作 Demo/正式版首看。
+- 优先级说明：Codex专用 核实建议降级：近期每条只有几十到几百播放；公开联系有；订阅≥5K；适配高；近30天放置类样例有
+- 局限：单条播放偏低（多为几十到几百）；地区未写明。
 
-### 74. Soulrise Gaming — 第二推荐
+### 65. 게임픽 GAMEPICK — 第二推荐
+
+- 频道：https://www.youtube.com/@%EA%B2%8C%EC%9E%84%ED%94%BD-GAMEPICK｜YouTube｜韩语｜地区 韩国
+- 订阅/粉丝：10.2K（核查 2026-11-24）｜类型：AFK RPG/手游放置
+- 最近更新：2026-11-20 [모바일 파밍RPG 추천 TOP5, 퀘스트 없이 바로 닥사하는 게임이라고?](https://www.youtube.com/watch?v=c_8QPnfvcrA)
+- 样例：[도파민 팡팡 터지는 방치형게임 추천! 성장하는 맛이 살아있는데?](https://www.youtube.com/watch?v=a2_M9sIR73w)｜2026-11-13｜播放 6068｜放置型手游合集
+- 样例：[모바일게임 추천 무협 방치형RPG, 퇴근하고 10분이면 끝](https://www.youtube.com/watch?v=EE2Ta1Z2swY)｜2026-11-06｜播放 3374｜放置型手游合集
+- 样例：[모바일게임 추천 무협 방치형RPG 무제, 직장인이 무과금으로 해도 될까?](https://www.youtube.com/watch?v=y1QqDn0H0vU)｜2026-11-06｜播放 1818｜放置型手游合集
+- 公开联系：gamepickbiz@gmail.com（来源 https://www.youtube.com/@%EA%B2%8C%EC%9E%84%ED%94%BD-GAMEPICK/about）
+- 适配理由：频道持续做“放置型游戏推荐”“下班后 10 分钟的放置 RPG”，目标观众就是挂机放置玩家，简介有商务邮箱。
+- 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
+- 局限：以手游为主，PC Steam 作品需对方意愿。
+
+### 66. CVMG Gaming — 第二推荐
+
+- 频道：https://www.youtube.com/@CVMG｜YouTube｜英语｜地区 美国
+- 订阅/粉丝：9.9K（核查 2026-11-24）｜类型：AFK RPG/手游放置
+- 最近更新：2026-11-23 [YOURE LOSING 1,000's OF PINBALLS Because of this!!](https://www.youtube.com/watch?v=WS3Ptdm9yLU)
+- 样例：[YOURE LOSING 1,000's OF PINBALLS Because of this!!](https://www.youtube.com/watch?v=WS3Ptdm9yLU)｜2026-11-23｜播放 4006｜Clash of Critters / Lumi Master
+- 样例：[MY SECRET WEAPON TO FARM HORDE INVASIONS](https://www.youtube.com/watch?v=U5v4lrMlLW8)｜2026-11-22｜播放 9327｜Clash of Critters / Lumi Master
+- 样例：[DON'T MAKE WISHBOXES YOUR BIGGEST REGRET!!](https://www.youtube.com/watch?v=MMpBTumjZg8)｜2026-11-21｜播放 19250｜Clash of Critters / Lumi Master
+- 公开联系：cvmg107@gmail.com（来源 https://www.youtube.com/@CVMG/about）
+- 适配理由：频道自述“专玩 idle RPG 和 gacha、测构筑找最强队伍”，Clash of Critters 攻略单条播放 1–3 万。
+- 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
+- 局限：以手游为主，PC 单机作品需对方意愿。
+
+### 67. スケット団@Games — 第二推荐
+
+- 频道：https://www.youtube.com/@Games-wn6xx｜YouTube｜日语｜地区 日本（待核）
+- 订阅/粉丝：9.23K（核查 2026-11-24）｜类型：AFK RPG/手游放置
+- 最近更新：2026-11-16 [【キノコ伝説】怒りの39,800円課金！これぞ極限バトロア？！](https://www.youtube.com/watch?v=vNg_sYJ1_hM)
+- 样例：[【キノコ伝説】怒りの39,800円課金！これぞ極限バトロア？！](https://www.youtube.com/watch?v=vNg_sYJ1_hM)｜2026-11-16｜播放 5012｜キノコ伝説
+- 样例：[【キノコ伝説】ガチャ養分勢のマジックシアタービルド紹介！](https://www.youtube.com/watch?v=cdZG9Eokq1E)｜2026-11-04｜播放 6879｜キノコ伝説
+- 样例：[【キノコ伝説】心域漂流記！激渋ガチャ動画！](https://www.youtube.com/watch?v=YWlv9c_ndP8)｜2026-10-19｜播放 5408｜キノコ伝説
+- 公开联系：suketto20200404@gmail.com（来源 https://www.youtube.com/@Games-wn6xx/about）
+- 适配理由：双人对谈式专做キノコ伝説（放置 RPG），讲 build 与抽卡，与本作英雄搭配/装备玩法高度相近。
+- 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
+- 局限：目前只做キノコ伝説一款手游，Steam 作品未见。
+
+### 68. Soulrise Gaming — 第二推荐
 
 - 频道：https://www.youtube.com/@soulrisegaming｜YouTube｜英语｜地区 英国
 - 订阅/粉丝：9.12K（核查 2026-11-24）｜类型：idle/incremental
@@ -1242,7 +1187,7 @@
 - 适配理由：2018 年起做 Tap Titans 2 攻略与版本解析，点击放置老牌受众。
 - 局限：近期视频播放仅约 100–500；邮箱写在视频说明而非关于页。
 
-### 75. Trusty — 第二推荐
+### 69. Trusty — 第二推荐
 
 - 频道：https://www.youtube.com/@yartaholic｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：8.1K（核查 2026-11-24）｜类型：idle/incremental
@@ -1254,7 +1199,7 @@
 - 适配理由：以 Coal LLC 世界纪录/攻略著称，近期仍有挖矿增量新游，偏硬核刷数值玩家
 - 局限：题材集中在 Coal LLC，泛用性一般
 
-### 76. SYROX GAMING — 第二推荐
+### 70. SYROX GAMING — 第二推荐
 
 - 频道：https://www.youtube.com/@SYROX_GAMING｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：7.48K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1266,7 +1211,19 @@
 - 适配理由：专做英雄收集 RPG（Godforge、Void Hunters、Dragonheir），做过 Idle RPG CASTILE、Eternal Evolution 首看，受众关心英雄阵容搭配。
 - 局限：近期是英雄收集类而非放置；放置 RPG 视频在一年以前；简介外链指向 godforge.gg，可能与该游戏有合作。
 
-### 77. 겜플리 — 第二推荐
+### 71. CheeseCakeCactus — 第二推荐
+
+- 频道：https://www.youtube.com/@CheeseCakeCactus｜YouTube｜英语｜地区 待核
+- 订阅/粉丝：6.55K（核查 2026-11-24）｜类型：Steam新游试玩
+- 最近更新：2026-11-23 [A Roguelite Auto Battler Where Your Dice Rolls Build Your Army?! ／ Of Dice and Minions](https://www.youtube.com/watch?v=MS-kLG7a2tM)
+- 样例：[A Roguelite Auto Battler Where Your Dice Rolls Build Your Army?! ／ Of Dice and Minions](https://www.youtube.com/watch?v=MS-kLG7a2tM)｜2026-11-23｜播放 8｜Of Dice and Minions
+- 样例：[A PvP Auto Battler Where You Build Your Own Castle?! ／ Gridlords](https://www.youtube.com/watch?v=DiRs5l95Dy8)｜2026-11-13｜播放 139｜Gridlords
+- 公开联系：cheesecakecactus123@gmail.com（来源 https://www.youtube.com/@CheeseCakeCactus/about）
+- 适配理由：日更独立新游初体验，近两周连做 Of Dice and Minions、Gridlords 两款自走棋，对小体量独立游戏友好
+- 优先级说明：Codex专用 核实建议降级：近期每条只有几十到几百播放；公开联系有；订阅≥5K；适配高；近30天放置类样例有
+- 局限：单条播放很低（百级），曝光有限
+
+### 72. 겜플리 — 第二推荐
 
 - 频道：https://www.youtube.com/@%EA%B2%9C%ED%94%8C%EB%A6%AC｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：5.69K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1278,7 +1235,33 @@
 - 适配理由：做“下班路上适合玩的放置 RPG 手游”和手游推荐合集，近期多条放置 RPG 实机。
 - 局限：邮箱之一为 MCN 广告邮箱 ad@lolq.co.kr；部分视频疑为商单。
 
-### 78. 是努努鴨 — 第二推荐
+### 73. IdleGamerYT — 第二推荐
+
+- 频道：https://www.youtube.com/@idlegamerYT1｜YouTube｜英语｜地区 巴西
+- 订阅/粉丝：5.62K（核查 2026-11-24）｜类型：AFK RPG/手游放置
+- 最近更新：2026-11-24 [Culling Game: Sendai Colony - UPDATED TIER LIST](https://www.youtube.com/watch?v=n27PuxEvjAw)
+- 样例：[Z Universe: Energy Burst - Updated Tier List (UTR Broly)](https://www.youtube.com/watch?v=ud3hTTcWphw)｜2026-11-21｜播放 1156｜多款新放置 RPG 手游（Shovel Squad、OMG Goddess: Idle Legends 等）
+- 样例：[Eternal Pantheon: Myth Fantasy - Tier List & Gameplay (all codes)](https://www.youtube.com/watch?v=hwZTn0EWBEc)｜2026-11-20｜播放 219｜多款新放置 RPG 手游（Shovel Squad、OMG Goddess: Idle Legends 等）
+- 样例：[OMG Goddess: Idle Legends - Updated Tier List (NEW GODDESS)](https://www.youtube.com/watch?v=2v9vKI0dl9E)｜2026-11-17｜播放 448｜多款新放置 RPG 手游（Shovel Squad、OMG Goddess: Idle Legends 等）
+- 公开联系：IDLEGAMERYT@tutamail.com（来源 https://www.youtube.com/@idlegamerYT1/about）
+- 适配理由：频道定位“The House of Idle RPG Games”，持续为各种新放置 RPG 做梯队榜+实机，最贴合“新放置 RPG 测评”。
+- 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
+- 局限：频道名 IdleGamerBR、地区巴西，标题英文但口播语言待核；单条播放多在数百。
+
+### 74. 咖啡樂's — 第二推荐
+
+- 频道：https://www.youtube.com/@coffee0530｜YouTube｜繁体中文(台湾)｜地区 台湾
+- 订阅/粉丝：5.6K（核查 2026-11-24）｜类型：Steam 多款新游测试直播 / 桌面放置
+- 最近更新：2026-11-23 [【伊莫 Aniimo】虹彩麗芙羊可以抓囉，這次會是什麼顏色🌈有時間軸！ #36](https://www.youtube.com/watch?v=I1gLsci6ItY)
+- 样例：[【Steam 多款遊戲測試 Part.23】釣魚放置、商業帝國、迷宮塔防！後面會接伊莫～](https://www.youtube.com/watch?v=oO7LSAeQ4Ug)｜2026-11-22｜播放 505｜多款游戏合集
+- 样例：[【Steam 多款遊戲測試 Part.22】每款30分鐘，6款一次看！農場尋物／彈幕射擊／海盜戰棋／放置策略／童話割草／復古點擊](https://www.youtube.com/watch?v=NR8Y9hsiJak)｜2026-11-22｜播放 379｜多款游戏合集
+- 样例：[【Steam 多款遊戲測試 Part.20】女僕 AI 聊天放置遊戲＋公會經營 RPG！《放置像素女僕》《公會創世紀》雙款實況！](https://www.youtube.com/watch?v=64dBWdIkz2w)｜2026-11-20｜播放 672｜放置像素女僕
+- 公开联系：q23041940q@gmail.com（来源 https://www.youtube.com/@coffee0530/about）
+- 适配理由：「Steam 多款遊戲測試」系列每天测多款新游，近一周就有钓鱼放置、放置策略、复古点击、放置像素女仆、桌面养宠；《桌面破壞神》首发视频 2.1 万播放。
+- 发信注意：建议推迟到 12 月中旬；简介写明「Booked until mid-Dec / 目前行程至 12 月中旬」：建议 12 月中旬再发（已定稿的邀请稿含首发档期，不另改稿）
+- 局限：简介写商业合作档期「排到 12 月中旬」（Booked until mid-Dec），12-03 首发前可能排不上。
+
+### 75. 是努努鴨 — 第二推荐
 
 - 频道：https://www.youtube.com/@是努努鴨｜YouTube｜繁体中文(台湾)｜地区 台湾（待核）
 - 订阅/粉丝：5.54K（核查 2026-11-24）｜类型：类TBH 桌面放置RPG / Steam 市集
@@ -1290,7 +1273,7 @@
 - 适配理由：专做 TBH 与类TBH 桌面放置RPG（My Party Is Grinding、War of Genesis: Idle Loot、Lootborne），多次分析「市場開放」「上 Steam 市集自由交易」，正好对上社区市场卖点。
 - 局限：放置样本集中在 2026-09（近 30 天放置样本未见）；地区未明写。
 
-### 79. A게임TV — 第二推荐
+### 76. A게임TV — 第二推荐
 
 - 频道：https://www.youtube.com/@AGAMETVKOR｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：5.48K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1302,7 +1285,7 @@
 - 适配理由：5.48 千订阅，持续直播/实况国产放置 RPG（무림소녀 키우기、화신키우기：방치형 성장 RPG）。
 - 局限：单条播放约 100–300。
 
-### 80. Introvert Party — 第二推荐
+### 77. Introvert Party — 第二推荐
 
 - 频道：https://www.youtube.com/@martianpotplays｜YouTube｜英语｜地区 加拿大（简介写 Canadian）
 - 订阅/粉丝：3.85K（核查 2026-11-24）｜类型：auto battler
@@ -1314,7 +1297,7 @@
 - 适配理由：近期主做 Slotbound 自走军团与 Dominus Gladiatus 角斗士队伍，Slotbound 单条 4.5 万播放
 - 局限：订阅 3.9K 偏小
 
-### 81. Ash Swoon — 第二推荐
+### 78. Ash Swoon — 第二推荐
 
 - 频道：https://www.youtube.com/@ashswoon｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：3.73K（核查 2026-11-24）｜类型：idle/incremental
@@ -1326,7 +1309,7 @@
 - 适配理由：频道口号“通关增量游戏”，日更多条，含队伍放置 RPG（Your Party Died Again）和自动战斗增量
 - 局限：订阅 3.7K 偏小
 
-### 82. глазами геймдизайнера — 第二推荐
+### 79. глазами геймдизайнера — 第二推荐
 
 - 频道：https://www.youtube.com/@gamedesigneyes｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：3.66K（核查 2026-11-24）｜类型：idle/incremental
@@ -1338,7 +1321,7 @@
 - 适配理由：「替你玩独立 Demo」频道，常做增量/点击类：11-09「开英雄卡包的顶级增量（强烈推荐）」4 万播放、11-15「点击器里加了城建」，与本作招募英雄+放置成长契合。
 - 局限：订阅 3.66K；部分标题不写游戏名需点开确认；地区未写明。
 
-### 83. Ruddaii — 第二推荐
+### 80. Ruddaii — 第二推荐
 
 - 频道：https://www.youtube.com/@Ruddaii｜YouTube｜法语｜地区 法国
 - 订阅/粉丝：3.65K（核查 2026-11-24）｜类型：idle/incremental
@@ -1350,7 +1333,7 @@
 - 适配理由：法语独立游戏频道，几乎每天发 Incremental（PAYDIRT、Hammer These Nails、Uncover Space 等），有明文商务邮箱。
 - 局限：订阅 3.65K，未达 5K；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 84. VhGaming — 第二推荐
+### 81. VhGaming — 第二推荐
 
 - 频道：https://www.youtube.com/@VhGamingIH｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：3.33K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1362,7 +1345,7 @@
 - 适配理由：新晋 Idle Heroes 创作者，几乎日更，也做“比 Idle Heroes 更好？”类新游对比，接新放置游戏意愿较强。
 - 局限：订阅 3.33K 未到 5K。
 
-### 85. IndieRadar by RangerArea — 第二推荐
+### 82. IndieRadar by RangerArea — 第二推荐
 
 - 频道：https://www.youtube.com/@IndieRadarRanger｜YouTube｜德语｜地区 德国
 - 订阅/粉丝：3.13K（核查 2026-11-24）｜类型：idle/incremental
@@ -1374,7 +1357,7 @@
 - 适配理由：RangerArea 的独立游戏发现频道，日更 Incremental/自走棋百分百通关，近一月有 Punch These Walls、物流增量、老虎机自走棋。
 - 局限：订阅 3.13K，未达 5K；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 86. Старый Маразматик — 第二推荐
+### 83. Старый Маразматик — 第二推荐
 
 - 频道：https://www.youtube.com/@izvinis777｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：2.85K（核查 2026-11-24）｜类型：idle/incremental
@@ -1386,7 +1369,7 @@
 - 适配理由：几乎每天发 Steam 增量/放置 Demo 与新游：Incremental RTS 全流程、Marchling Idle、开英雄卡包的增量、组队打兽人的 idle 游戏，题材与本作高度一致。
 - 局限：订阅 2.85K，多数视频播放只有一两百；邮箱写在关于页外链区。
 
-### 87. Elfe — 第二推荐
+### 84. Elfe — 第二推荐
 
 - 频道：https://www.youtube.com/@ElfeYT｜YouTube｜英语｜地区 芬兰
 - 订阅/粉丝：2.68K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1398,7 +1381,7 @@
 - 适配理由：专做 AFK Journey PvP 英雄首测与配队，懂阵容/站位克制。
 - 局限：约每月 1–2 条；订阅 2.68K。
 
-### 88. 電話莎的電波塔 — 第二推荐
+### 85. 電話莎的電波塔 — 第二推荐
 
 - 频道：https://www.youtube.com/@telephone_sa｜YouTube｜繁体中文(台湾)｜地区 台湾（待核）
 - 订阅/粉丝：2.34K（核查 2026-11-24）｜类型：非3A小游戏介绍 / 类TBH Steam市集 / 增量
@@ -1410,7 +1393,7 @@
 - 适配理由：Vtuber，固定周一周四介绍非3A小游戏，做过 TBH Steam 市集、类TBH 交易市集、卡包英雄、增量游戏专题，会专门讨论「能否在 Steam 市集赚零用钱」。
 - 局限：订阅 2.34K，体量小；地区未明写（链接带 zhtw）。
 
-### 89. PumpkinIdle — 第二推荐
+### 86. PumpkinIdle — 第二推荐
 
 - 频道：https://www.youtube.com/@PumpkinIdle｜YouTube｜英语｜地区 加拿大
 - 订阅/粉丝：2.24K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1422,7 +1405,7 @@
 - 适配理由：主做 MapleStory Idle RPG 职业梯队、氪金/账号展示，频道名就带 Idle，观众是放置 RPG 核心玩家。
 - 局限：订阅 2.24K 未到 5K；目前集中于单一游戏。
 
-### 90. Juste une run — 第二推荐
+### 87. Juste une run — 第二推荐
 
 - 频道：https://www.youtube.com/@Justeunerun｜YouTube｜法语｜地区 法国
 - 订阅/粉丝：1.65K（核查 2026-11-24）｜类型：idle/incremental
@@ -1434,7 +1417,7 @@
 - 适配理由：法语日更频道，简介写明主做 Incremental 独立游戏，近两周有 Counter Targets Clicker、Traveloot、InCowMental 等。
 - 局限：订阅 1.65K，未达 5K；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 91. 뭐라고요 — 第二推荐
+### 88. 뭐라고요 — 第二推荐
 
 - 频道：https://www.youtube.com/@%EB%AD%90%EB%9D%BC%EA%B3%A0%EC%9A%94｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：1.56K（核查 2026-11-24）｜类型：idle/incremental
@@ -1446,7 +1429,7 @@
 - 适配理由：专做 Steam 新放置/增量/桌面挂机游戏首玩，题材与本作高度一致，简介有邮箱。
 - 局限：订阅 1.56K，播放数十到数百。
 
-### 92. Расслабься, бро — 第二推荐
+### 89. Расслабься, бро — 第二推荐
 
 - 频道：https://www.youtube.com/@konturofchill｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：1.39K（核查 2026-11-24）｜类型：idle/incremental
@@ -1458,7 +1441,7 @@
 - 适配理由：新频道（仅 11 条），全是增量/放置游戏 100% 通关长视频（Booster Pack Heroes、Round and Round Inc.、Stick a Fork、Babel Legacy），每条 1 到 6 万播放，远超订阅。
 - 局限：订阅仅 1.39K、频道很新；邮箱写在关于页外链区。
 
-### 93. Kayork — 第二推荐
+### 90. Kayork — 第二推荐
 
 - 频道：https://www.youtube.com/@KayorkGaming｜YouTube｜法语｜地区 待核
 - 订阅/粉丝：1.22K（核查 2026-11-24）｜类型：idle/incremental
@@ -1470,7 +1453,7 @@
 - 适配理由：法语独立游戏试玩频道，近两周连做增量 Mine It All!、Can 'Em All、Punch The Walls、Graveyard Orbit，常与 Ruddaii、Juste une run 联动。
 - 局限：订阅 1.22K，未达 5K；部分视频另有英文版标题；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 94. 돈냥 — 第二推荐
+### 91. 돈냥 — 第二推荐
 
 - 频道：https://www.youtube.com/@%EB%B0%95%EB%8F%88%EB%83%A5｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：1.09K（核查 2026-11-24）｜类型：idle/incremental
@@ -1482,7 +1465,7 @@
 - 适配理由：几乎日更 Steam 增量(인크리멘탈)/放置小游戏实况，题材最对口。
 - 局限：订阅 1.09K，播放多在数百。
 
-### 95. Vicio ONE MORE TIME!!!! — 第二推荐
+### 92. Vicio ONE MORE TIME!!!! — 第二推荐
 
 - 频道：https://www.youtube.com/@VicioONEMORETIME｜YouTube｜西班牙语｜地区 西班牙
 - 订阅/粉丝：1.81M（核查 2026-11-24）｜类型：idle/incremental
@@ -1494,7 +1477,7 @@
 - 适配理由：西语头部频道，日更增量/放置与塔防新游（割草、抽湖、剥土豆、Idle Slayer 等），单条播放 5 万–14 万。
 - 局限：体量大、合作门槛高；vidIQ 关于页与 RSS 视频说明未见公开邮箱（待核）。；订阅数来源：vidIQ 2026-11-24
 
-### 96. HandOfUncut — 第二推荐
+### 93. HandOfUncut — 第二推荐
 
 - 频道：https://www.youtube.com/@HandOfUncut｜YouTube｜德语｜地区 德国
 - 订阅/粉丝：1.47M（核查 2026-11-24）｜类型：混合
@@ -1506,7 +1489,7 @@
 - 适配理由：德国头部主播 HandOfBlood 的副频道（147 万订阅），长期做自走棋（Mechabellum、Backpack Battles、The Bazaar）和增量游戏，11 月刚做 Booster Pack Heroes。
 - 局限：体量大、合作门槛高；简介无邮箱，经纪为 INSTINCT3（仅见法律声明链接）；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 97. ImCade — 第二推荐
+### 94. ImCade — 第二推荐
 
 - 频道：https://www.youtube.com/@ImCade｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：1.2M（核查 2026-11-24）｜类型：idle/incremental
@@ -1518,7 +1501,7 @@
 - 适配理由：120 万订阅，日更「silly little games」多为增量，单条 10–40 万播放
 - 局限：简介无公开邮箱
 
-### 98. Dr_Horse — 第二推荐
+### 95. Dr_Horse — 第二推荐
 
 - 频道：https://www.youtube.com/@Dr_Horse｜YouTube｜法语｜地区 法国
 - 订阅/粉丝：847K（核查 2026-11-24）｜类型：idle/incremental
@@ -1530,7 +1513,7 @@
 - 适配理由：法语日更独立游戏大频道（84.7 万订阅），大量做 Incremental 与 Idle RPG（Fortune Mill、Nullnest、Incremental Traffic、Between Adventures IDLE）。
 - 局限：简介与视频说明未写邮箱（只有 Discord/X/TikTok）；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 99. Z1 Gaming — 第二推荐
+### 96. Z1 Gaming — 第二推荐
 
 - 频道：https://www.youtube.com/@Z1Gaming｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：658K（核查 2026-11-24）｜类型：idle/incremental
@@ -1542,7 +1525,7 @@
 - 适配理由：65.8 万订阅，近期日更增量/清理游戏，单条 5–23 万播放
 - 局限：简介无公开邮箱，需另找联系方式
 
-### 100. 阿路的精神時光屋 — 第二推荐
+### 97. 阿路的精神時光屋 — 第二推荐
 
 - 频道：https://www.youtube.com/@rusiru87time｜YouTube｜繁体中文(台湾)｜地区 台湾（待核）
 - 订阅/粉丝：181K（核查 2026-11-24）｜类型：Steam 独立新游推荐 / 放置打宝 / 增量
@@ -1554,7 +1537,7 @@
 - 适配理由：几乎日更「Steam遊戲推薦」，近两个月连发多条放置打宝、增量防御、自走棋（含可上 Steam 市集卖装备的放置打宝），单条 2–20 万播放，正对放置 RPG + 社区市场卖点。
 - 局限：简介与关于页无公开邮箱，只有 Instagram；台湾身份未在简介明写。
 
-### 101. しんじさん — 第二推荐
+### 98. しんじさん — 第二推荐
 
 - 频道：https://www.youtube.com/@しんじさん｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：167K（核查 2026-11-24）｜类型：idle/incremental
@@ -1566,7 +1549,7 @@
 - 适配理由：大体量主播，近一个月连发インクリ新作（One More Floor、What the Buck、Dungeonbound 10 万播放），带货力强。
 - 局限：无公开邮箱；内容杂（WWE、スプラ等），放置只是其中一部分。
 
-### 102. Tian Kami — 第二推荐
+### 99. Tian Kami — 第二推荐
 
 - 频道：https://www.youtube.com/@TianKami｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：136K（核查 2026-11-24）｜类型：auto battler
@@ -1578,7 +1561,7 @@
 - 适配理由：136K 订阅的俄语 Twitch 主播切片频道，大量做自走棋/背包自走棋（Backpack Battles 180+ 期、Slotbound、Gridlords、Roselle Hunt），自动战斗+站位与本作 4×4 布阵很搭。
 - 局限：关于页和近期说明无公开邮箱，商务需走 Twitch/Telegram；地区未写明；偏卡牌/背包类自走棋，非纯挂机。（hiddenBusinessEmailButton 为未登录检测，可能漏检隐藏的商务邮箱按钮）
 
-### 103. Grillmastah — 第二推荐
+### 100. Grillmastah — 第二推荐
 
 - 频道：https://www.youtube.com/@Grillmastah｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：126K（核查 2026-11-24）｜类型：idle/incremental
@@ -1590,7 +1573,7 @@
 - 适配理由：12.6 万订阅，几乎每天多条放置/增量清理游戏连载
 - 局限：简介无公开邮箱，需另找联系方式
 
-### 104. Samed Güngör Live — 第二推荐
+### 101. Samed Güngör Live — 第二推荐
 
 - 频道：https://www.youtube.com/@samedgungorlive｜YouTube｜其他：土耳其语｜地区 土耳其（vidIQ 国家字段 Türkiye；全土耳其语内容）
 - 订阅/粉丝：115K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -1602,7 +1585,7 @@
 - 适配理由：几乎日更 Steam 小品试玩，做过 Orc Incremental、Agrivore Incremental Farming、IGTAP、Factory Town Idle、Backpack Battles、Hunt The Ducks、Punch the Walls 等增量/放置/自走棋游戏。
 - 局限：频道邮箱需登录才可见；另有主频道 SpastikGamers 订阅数未核；Orc Incremental 等早期样本只核到标题与作者（oEmbed），日期未核，所列样本游戏名取自 RSS 视频说明。
 
-### 105. Azrilich — 第二推荐
+### 102. Azrilich — 第二推荐
 
 - 频道：https://www.youtube.com/@AzrilichIdle｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：91.9K（核查 2026-11-24）｜类型：idle/incremental
@@ -1614,7 +1597,7 @@
 - 适配理由：9.19 万订阅，每天一条增量/放置小游戏，单条 4–16 万播放
 - 局限：简介无公开邮箱
 
-### 106. Sonoket Gaming — 第二推荐
+### 103. Sonoket Gaming — 第二推荐
 
 - 频道：https://www.youtube.com/@Sonoket｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：91.3K（核查 2026-11-24）｜类型：idle/incremental
@@ -1626,7 +1609,7 @@
 - 适配理由：简介写明大量做 incremental 游戏，近期 No Asteroids、That Damn Grass 播放 13–28 万
 - 局限：邮箱需登录点按钮查看
 
-### 107. iPICKmyBUTT — 第二推荐
+### 104. iPICKmyBUTT — 第二推荐
 
 - 频道：https://www.youtube.com/@iPICKmyBUTT｜YouTube｜英语｜地区 美国
 - 订阅/粉丝：51.6K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1638,7 +1621,7 @@
 - 适配理由：51.6K，日更 Clash of Critters 梯队/阵容，过往做 Capybara Go、Archero 等放置肉鸽手游。
 - 局限：无公开邮箱；内容偏手游。
 
-### 108. TheHolomovement — 第二推荐
+### 105. TheHolomovement — 第二推荐
 
 - 频道：https://www.youtube.com/@TheHolomovement｜YouTube｜法语｜地区 法国
 - 订阅/粉丝：51.2K（核查 2026-11-24）｜类型：混合
@@ -1650,7 +1633,7 @@
 - 适配理由：法语多游戏主播（5.1 万），近一月连做增量 Booster Pack Heroes、自走棋 Oaken Tower、Void Pachinko、Ballionaire 系列。
 - 局限：简介无邮箱，仅 Discord/Twitch/X；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 109. Hultutigamer（フルツチ） — 第二推荐
+### 106. Hultutigamer（フルツチ） — 第二推荐
 
 - 频道：https://www.youtube.com/@hultutigaming｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：50.1K（核查 2026-11-24）｜类型：idle/incremental
@@ -1662,7 +1645,7 @@
 - 适配理由：几乎每天发 Steam 新作インクリメンタル/放置/オートバトル实况（Dungeonbound、Round and Round Inc.、Potato Please），日更量大，正对放置 RPG。
 - 局限：简介与关于页无明文商务邮箱，只有博客链接，需从博客或 X 另找联系方式。
 
-### 110. GriffyBit — 第二推荐
+### 107. GriffyBit — 第二推荐
 
 - 频道：https://www.youtube.com/@GriffyBitMain｜YouTube｜英语｜地区 加拿大
 - 订阅/粉丝：43.6K（核查 2026-11-24）｜类型：idle/incremental
@@ -1674,7 +1657,7 @@
 - 适配理由：IdleOn F2P 攻略系列播放 1.8–3 万，近期也直播 Melvor Idle，是放置类专门频道（43.6K）。
 - 局限：无公开邮箱，需登录后看商务邮箱。
 
-### 111. mcveety — 第二推荐
+### 108. mcveety — 第二推荐
 
 - 频道：https://www.youtube.com/@reallymcveety｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：42.2K（核查 2026-11-24）｜类型：idle/incremental
@@ -1686,7 +1669,7 @@
 - 适配理由：4.2 万订阅，近期每天一条增量小游戏，FPS 增量 14 万播放
 - 局限：简介无公开邮箱
 
-### 112. Furry Hippo Gaming — 第二推荐
+### 109. Furry Hippo Gaming — 第二推荐
 
 - 频道：https://www.youtube.com/@furryhippogaming｜YouTube｜英语｜地区 美国
 - 订阅/粉丝：41.8K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1698,7 +1681,7 @@
 - 适配理由：长期做 AFK Arena 英雄测评、抽卡与活动攻略，近期也试玩新放置手游 Clash of Critters，愿意尝试同类新游。
 - 局限：简介无明文邮箱，商务邮箱需登录后点“查看邮箱”。
 
-### 113. OberkommissarT — 第二推荐
+### 110. OberkommissarT — 第二推荐
 
 - 频道：https://www.youtube.com/@oberkommissart｜YouTube｜德语｜地区 德国
 - 订阅/粉丝：39.7K（核查 2026-11-24）｜类型：混合
@@ -1710,7 +1693,7 @@
 - 适配理由：德语日更独立游戏频道，近一个月连续做采矿增量 Drill Deep、自走棋 Dungeonbound、开卡包刷英雄等，题材与挂机自动战斗高度重合。
 - 局限：简介与 RSS 视频说明未写明邮箱，仅有 Discord/Twitch；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 114. Stanz but Gaming — 第二推荐
+### 111. Stanz but Gaming — 第二推荐
 
 - 频道：https://www.youtube.com/@StanzbutGaming｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：37.8K（核查 2026-11-24）｜类型：idle/incremental
@@ -1722,7 +1705,7 @@
 - 适配理由：3.8 万订阅，近期主做增量自走棋 Booster Pack Heroes（3.2 万播放）和增量游戏，与 Northernlion 圈子同框
 - 局限：关于页未公开邮箱；也做 GTA6/足球经理等泛题材
 
-### 115. SuperAutoGaming — 第二推荐
+### 112. SuperAutoGaming — 第二推荐
 
 - 频道：https://www.youtube.com/@SuperAutoGaming｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：32.9K（核查 2026-11-24）｜类型：auto battler
@@ -1734,7 +1717,7 @@
 - 适配理由：3.3 万订阅，SAP/Batomon 自走棋 + 增量游戏（Orc Incremental 全成就）双题材，正对本作
 - 局限：关于页未公开邮箱
 
-### 116. Bonjwa Gaming — 第二推荐
+### 113. Bonjwa Gaming — 第二推荐
 
 - 频道：https://www.youtube.com/@BonjwaDEGaming｜YouTube｜德语｜地区 德国
 - 订阅/粉丝：32.4K（核查 2026-11-24）｜类型：idle/incremental
@@ -1746,7 +1729,7 @@
 - 适配理由：Bonjwa 主播团的 YouTube 剪辑频道，11 月已发 4 条以上 Incremental 实况（Punch The Walls、开卡包增量等），常做 Steam 小体量新游。
 - 局限：团体频道（多位主播轮播）；简介无邮箱，商务需走 bonjwa.de 官网；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 117. よよよ — 第二推荐
+### 114. よよよ — 第二推荐
 
 - 频道：https://www.youtube.com/@check_yoyoyo｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：30.7K（核查 2026-11-24）｜类型：idle/incremental
@@ -1758,7 +1741,7 @@
 - 适配理由：标题直接打【インクリメンタル】栏目（ブースターパックヒーロー、Mycelarium、KESSLER），放置新作覆盖面广。
 - 局限：无公开邮箱，需从博客 yoyoyomemo.com 或 X 联系。
 
-### 118. Geek Fight Games — 第二推荐
+### 115. Geek Fight Games — 第二推荐
 
 - 频道：https://www.youtube.com/@geekfightgames｜YouTube｜俄语｜地区 俄罗斯（简介称已在俄罗斯 Roskomnadzor 登记）
 - 订阅/粉丝：27.7K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1770,7 +1753,7 @@
 - 适配理由：专做 Idle RPG：Idle Heroes 从零开荒系列、Mobile Legends: Adventure 日常、新 Idle RPG 评测（Alchemy Guardians、Girls Echo 等），受众正是放置 RPG 玩家。
 - 局限：以手游为主，PC/Steam 题材少；关于页无公开邮箱（有 Telegram）。（hiddenBusinessEmailButton 为未登录检测，可能漏检隐藏的商务邮箱按钮）
 
-### 119. Rusty Champaign — 第二推荐
+### 116. Rusty Champaign — 第二推荐
 
 - 频道：https://www.youtube.com/@RustyChampaign｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：25.5K（核查 2026-11-24）｜类型：idle/incremental
@@ -1782,7 +1765,7 @@
 - 适配理由：近期连载 Beellionaire、Pinata Smash、Potato Please、Oreloop 等增量游戏
 - 局限：简介无公开邮箱，需另找联系方式
 
-### 120. Zueljin Plays — 第二推荐
+### 117. Zueljin Plays — 第二推荐
 
 - 频道：https://www.youtube.com/@zueljinplays｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：17.3K（核查 2026-11-24）｜类型：auto battler
@@ -1794,7 +1777,7 @@
 - 适配理由：1.7 万订阅，专做 autobattler roguelite 首发体验，一周内三条不同自走棋，播放 0.7–1.7 万
 - 局限：关于页未公开邮箱；未登录无法确认隐藏商务邮箱按钮
 
-### 121. はるお — 第二推荐
+### 118. はるお — 第二推荐
 
 - 频道：https://www.youtube.com/@haruogames｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：17.1K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1806,7 +1789,7 @@
 - 适配理由：キノコ伝説服务器战力第一的检证系主播，上过官方生放送，放置 RPG 受众精准。
 - 局限：无公开邮箱；上传频率下降，近期以长时间直播为主。
 
-### 122. Nerfed Reflexes — 第二推荐
+### 119. Nerfed Reflexes — 第二推荐
 
 - 频道：https://www.youtube.com/@NerfedReflexes｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：14.7K（核查 2026-11-24）｜类型：idle/incremental
@@ -1818,7 +1801,7 @@
 - 适配理由：几乎只做增量新游（含 RPG 类「Your party died again」），更新频繁
 - 局限：简介无公开邮箱，需另找联系方式
 
-### 123. Assami Muzaki — 第二推荐
+### 120. Assami Muzaki — 第二推荐
 
 - 频道：https://www.youtube.com/@AssamiMuzaki｜YouTube｜其他：印尼语｜地区 印度尼西亚（about 页 Country: Indonesia）
 - 订阅/粉丝：14.1K（核查 2026-11-24）｜类型：idle/incremental
@@ -1830,7 +1813,7 @@
 - 适配理由：印尼少见的增量/放置专门频道，近一个月连做 Booster Pack Heroes（全通关系列）、Incrempire、Pongcremental、Orc Incremental 及多款 Demo 首玩，单条 7K–2.5 万播放。
 - 局限：公开页无邮箱，只有 Discord；作者本人也在做小游戏（Gnome, Line, and Sinkers），合作时注意身份。游戏名取自 RSS 视频说明。
 
-### 124. AhkTaar Prime — 第二推荐
+### 121. AhkTaar Prime — 第二推荐
 
 - 频道：https://www.youtube.com/@ahktaarprime｜YouTube｜英语｜地区 法国
 - 订阅/粉丝：12.9K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1842,7 +1825,7 @@
 - 适配理由：持续做 Legend of Mushroom 神器/守护者抽取与 Duck Survival 养成，正是放置挂机 RPG 受众。
 - 局限：法国创作者、英文标题，口播语言待核；简介无明文邮箱。
 
-### 125. AboboKnows — 第二推荐
+### 122. AboboKnows — 第二推荐
 
 - 频道：https://www.youtube.com/@AboboKnows｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：12.5K（核查 2026-11-24）｜类型：auto battler
@@ -1854,7 +1837,7 @@
 - 适配理由：标题几乎全是“新 Autobattler 推荐”，Warpack、Fool King、Brofish 连发，受众正是自走棋爱好者
 - 局限：关于页未公开邮箱
 
-### 126. PolyMAOffline（Poly） — 第二推荐
+### 123. PolyMAOffline（Poly） — 第二推荐
 
 - 频道：https://www.youtube.com/@PolyMaOffline｜YouTube｜其他：意大利语｜地区 意大利（about 页 Country: Italy）
 - 订阅/粉丝：11.8K（核查 2026-11-24）｜类型：混合
@@ -1866,7 +1849,7 @@
 - 适配理由：意大利主播 Poly 的剪辑频道，近一个月连做 Peg Champ、Booster Pack Heroes、Leaf It Alone、Can 'Em All、IGTAP 等增量游戏，也做 roguelike/幸存者类。
 - 局限：公开页无明文邮箱；频道 2026-04 才建，是 Twitch 主播 Poly 的二级频道。
 
-### 127. Manfro — 第二推荐
+### 124. Manfro — 第二推荐
 
 - 频道：https://www.youtube.com/@manfroyt｜YouTube｜其他：意大利语｜地区 意大利（about 页 Country: Italy）
 - 订阅/粉丝：11.1K（核查 2026-11-24）｜类型：idle/incremental
@@ -1878,7 +1861,7 @@
 - 适配理由：频道简介即“增量游戏、Demo 和独立游戏”，近月几乎只做增量：Potato Please、Roulette Incremental、Moon Sweepers、Can 'Em All、Click the Button、MAR: Millions Are Rising。
 - 局限：公开页无明文邮箱；是主播 MarcusKron 的副频道。
 
-### 128. FungalBrainRot — 第二推荐
+### 125. FungalBrainRot — 第二推荐
 
 - 频道：https://www.youtube.com/@FungalBrainRot｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：10.5K（核查 2026-11-24）｜类型：idle/incremental
@@ -1890,7 +1873,7 @@
 - 适配理由：简介写明主做 incremental 和 cozy 游戏 100% 通关
 - 局限：简介无公开邮箱，需另找联系方式
 
-### 129. Flotidus — 第二推荐
+### 126. Flotidus — 第二推荐
 
 - 频道：https://www.youtube.com/@Flotidus｜YouTube｜德语｜地区 德国
 - 订阅/粉丝：9.71K（核查 2026-11-24）｜类型：idle/incremental
@@ -1902,7 +1885,7 @@
 - 适配理由：德语独立游戏频道，几乎每天发 Incremental/Idle 百分百通关（Drill Rover、Resettle、Drink the Ocean、Booster Pack Heroes、Legend of Idle 等）。
 - 局限：订阅不足 1 万；简介无邮箱，仅 Discord/Twitch；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 130. Wraec - Gacha — 第二推荐
+### 127. Wraec - Gacha — 第二推荐
 
 - 频道：https://www.youtube.com/@WraecGacha｜YouTube｜英语｜地区 德国
 - 订阅/粉丝：9.26K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -1914,7 +1897,7 @@
 - 适配理由：德国创作者、英文内容，持续做 Idle Heroes 活动分析与开箱，也试玩新放置游戏 Void Hunters。
 - 局限：无公开邮箱。
 
-### 131. shirlierox — 第二推荐
+### 128. shirlierox — 第二推荐
 
 - 频道：https://www.youtube.com/@shirlierox｜YouTube｜英语｜地区 英国
 - 订阅/粉丝：9.25K（核查 2026-11-24）｜类型：idle/incremental
@@ -1926,7 +1909,7 @@
 - 适配理由：英国创作者，简介写明主做 incremental/idle 游戏，近期 Nullnest、Swarmslam 等
 - 局限：单条播放偏低（数百）
 
-### 132. Кай стример — 第二推荐
+### 129. Кай стример — 第二推荐
 
 - 频道：https://www.youtube.com/@KAISTREAMER｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：8.41K（核查 2026-11-24）｜类型：idle/incremental
@@ -1938,7 +1921,7 @@
 - 适配理由：几乎每周都做 Steam 新出的инкременталка（增量/放置）整期实况，近一周做了 Booster Pack Heroes、Your party died again，还做过 Revolution Idle、Loot Loop 等，题材与本作高度对口。
 - 局限：简介和近期视频说明无公开商务邮箱（仅打赏链接），需另找联系方式；地区未写明。（hiddenBusinessEmailButton 为未登录检测，可能漏检隐藏的商务邮箱按钮）
 
-### 133. Gaarawarr — 第二推荐
+### 130. Gaarawarr — 第二推荐
 
 - 频道：https://www.twitch.tv/gaarawarr｜Twitch｜英语｜地区 待核
 - 订阅/粉丝：7,734 followers（核查 2026-11-24）｜类型：idle/incremental
@@ -1949,7 +1932,7 @@
 - 适配理由：简介写「Idle Champions Partner, tutorial streamer, & guide maker」，长期直播 Idle Champions 新号系列（Day 26/27），是该游戏 Twitch 近 30 天平均观众第 1 的个人主播
 - 局限：无公开邮箱；其 YouTube 频道订阅不足 1K（另一组已记为 rejected），本条按 Twitch 收录
 
-### 134. RandomFlowerName — 第二推荐
+### 131. RandomFlowerName — 第二推荐
 
 - 频道：https://www.youtube.com/@RandomFlowerName｜YouTube｜英语｜地区 瑞典
 - 订阅/粉丝：7.65K（核查 2026-11-24）｜类型：idle/incremental
@@ -1961,7 +1944,7 @@
 - 适配理由：自称“IdleOn 专门频道”，长期做 IdleOn 补丁解读和同类放置 RPG（Evitania），受众就是放置 RPG 玩家
 - 局限：单条播放仅数百到一千多；关于页无邮箱
 
-### 135. CG Grows — 第二推荐
+### 132. CG Grows — 第二推荐
 
 - 频道：https://www.youtube.com/@CGGrows｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：6.51K（核查 2026-11-24）｜类型：idle/incremental
@@ -1973,7 +1956,7 @@
 - 适配理由：简介「The home for incremental games」，每天更新增量游戏实况
 - 局限：邮箱需登录点按钮查看
 
-### 136. つばさま(ゲーム実況) — 第二推荐
+### 133. つばさま(ゲーム実況) — 第二推荐
 
 - 频道：https://www.youtube.com/@FAINL_TUBASA｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：5.59K（核查 2026-11-24）｜类型：idle/incremental
@@ -1985,7 +1968,7 @@
 - 适配理由：简介自称喜欢インクリメンタル/放置ゲーム，持续做新作クリッカー&放置（终焉の魔巣、デスクロール：放置ARPG、無限の鉱脈）。
 - 局限：无公开邮箱，只有 X；单条播放多在几千。
 
-### 137. 小月歡樂星 — 第二推荐
+### 134. 小月歡樂星 — 第二推荐
 
 - 频道：https://www.youtube.com/@Licin小月｜YouTube｜繁体中文(台湾)｜地区 台湾（待核）
 - 订阅/粉丝：5.57K（核查 2026-11-24）｜类型：桌面放置 Steam 直播 / 放置RPG
@@ -1997,7 +1980,7 @@
 - 适配理由：标题固定带「桌面放置STEAM遊戲」，近一个月直播 QuestAway、Mini Legends Idle、桌面-DPS、桌面破壞神、Undealt 等桌面挂机游戏，受众高度对口。
 - 局限：简介无任何联系方式；地区未明写。
 
-### 138. Tyredack — 第二推荐
+### 135. Tyredack — 第二推荐
 
 - 频道：https://www.youtube.com/@tyredack｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：5.29K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -2009,7 +1992,7 @@
 - 适配理由：专做 Idle Champions 英雄梯队排名与改版解析，单条播放稳定 5–8K，阵容/站位分析与本作玩法契合。
 - 局限：约每月更新一条；无公开邮箱。
 
-### 139. Skagokalipsis — 第二推荐
+### 136. Skagokalipsis — 第二推荐
 
 - 频道：https://www.youtube.com/@Skagokalipsis｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：5.13K（核查 2026-11-24）｜类型：idle/incremental
@@ -2021,7 +2004,7 @@
 - 适配理由：高频做 Steam 新增量/放置游戏：近一周有 Minecraft 式增量、派冒险队刷任务的放置游戏，一个月前一款「小队毁灭世界换资源」的奇幻增量近 2 万播放，与本作派英雄挂机打怪对口。
 - 局限：无公开邮箱；部分视频标题未写游戏名需点开确认；地区未写明。（hiddenBusinessEmailButton 为未登录检测，可能漏检隐藏的商务邮箱按钮）
 
-### 140. Fiouze — 第三推荐
+### 137. Fiouze — 第三推荐
 
 - 频道：https://www.youtube.com/@FuzePlays｜YouTube｜法语｜地区 法国
 - 订阅/粉丝：797K（核查 2026-11-24）｜类型：混合
@@ -2033,7 +2016,7 @@
 - 适配理由：法语大频道（79.7 万），Cookie Clicker 挑战与捡金币类增量视频播放百万级。
 - 局限：主做 Minecraft；最近放置类 10-19，超过 30 天；邮箱属 Blockmedia 经纪；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 141. ナカイドのゲーム情報チャンネル — 第三推荐
+### 138. ナカイドのゲーム情報チャンネル — 第三推荐
 
 - 频道：https://www.youtube.com/@nakaido｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：411K（核查 2026-11-24）｜类型：混合
@@ -2044,7 +2027,7 @@
 - 适配理由：游戏业界评论大号，做过放置ゲー专题分析（杖と剣の伝説 13 万、月ウサギのそだてかた 50 小时评测）。
 - 局限：以业界新闻评论为主，放置题材只是偶尔；近 30 天无放置视频。
 
-### 142. ふつうのくま — 第三推荐
+### 139. ふつうのくま — 第三推荐
 
 - 频道：https://www.youtube.com/@metokuma314｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：121K（核查 2026-11-24）｜类型：idle/incremental
@@ -2055,7 +2038,7 @@
 - 适配理由：做过高播放长时间放置实况（Cookie Clicker 700 小时 86 万、Gnorp Apologue 22 万），有明文商务邮箱。
 - 局限：近 90 天无放置题材，近期以マイクラ/ホラー为主。
 
-### 143. JGigs — 第三推荐
+### 140. JGigs — 第三推荐
 
 - 频道：https://www.youtube.com/@JGigs｜YouTube｜英语｜地区 美国
 - 订阅/粉丝：88.1K（核查 2026-11-24）｜类型：混合
@@ -2066,7 +2049,7 @@
 - 适配理由：“20 款××各玩 2 小时排名”系列，两期放置游戏分别 82 万、32 万播放，很可能再做放置篇
 - 局限：近 90 天无放置题材；邮箱写在关于页链接区
 
-### 144. Murtork — 第三推荐
+### 141. Murtork — 第三推荐
 
 - 频道：https://www.youtube.com/@Murtork｜YouTube｜俄语｜地区 俄罗斯（简介称已列入俄罗斯 Roskomnadzor 个人页面名录）
 - 订阅/粉丝：46.6K（核查 2026-11-24）｜类型：idle/incremental
@@ -2078,7 +2061,7 @@
 - 适配理由：46.6K 订阅，做过「我通关了 10 款短篇 idle/增量游戏」系列和 Cookie Clicker 全程，9 月做了 Swords and Souls 精神续作 100% 通关，简介写明合作邮箱。
 - 局限：近 30 天无放置题材（近期是 Stardew、Graveyard Keeper）；放置合集多在半年到一年前。
 
-### 145. Games Puff — 第三推荐
+### 142. Games Puff — 第三推荐
 
 - 频道：https://www.youtube.com/@GamesPuff｜YouTube｜英语｜地区 巴基斯坦
 - 订阅/粉丝：17.6K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2089,7 +2072,7 @@
 - 适配理由：日更“十大××游戏”榜单，做过“2026 十大放置游戏”，可争取进放置/新游榜单
 - 局限：榜单号、单条播放仅数百；近 90 天无放置题材
 
-### 146. MTS Oyun Kanalı — 第三推荐
+### 143. MTS Oyun Kanalı — 第三推荐
 
 - 频道：https://www.youtube.com/@MTS_OK｜YouTube｜其他：土耳其语｜地区 土耳其（about 页 Country: Türkiye）
 - 订阅/粉丝：4.81K（核查 2026-11-24）｜类型：auto battler
@@ -2101,7 +2084,7 @@
 - 适配理由：土耳其背包自走棋专精频道，持续更新 Backpack Battles、Oaken Tower、Gear Up Einstein!、Slots & Skulls 等自动战斗/构筑类。
 - 局限：订阅 4.81K 略低于 5K；偏 PvP 背包构筑，非纯放置受众；单条播放约 1–2K。
 
-### 147. Indie Choi — 第三推荐
+### 144. Indie Choi — 第三推荐
 
 - 频道：https://www.youtube.com/@indiechoi｜YouTube｜西班牙语｜地区 西班牙
 - 订阅/粉丝：4.53K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2112,7 +2095,7 @@
 - 适配理由：做过两期 Steam 放置/挂机游戏推荐合集，平时做 cozy 独立新游短评，有公开商务邮箱。
 - 局限：近期以 Heartopia 等 cozy 游戏为主，两条放置合集日期待核；订阅约 4.5K。；订阅数来源：vidIQ 2026-11-22
 
-### 148. Jyku Plays — 第三推荐
+### 145. Jyku Plays — 第三推荐
 
 - 频道：https://www.youtube.com/@JykuPlays｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：4.31K（核查 2026-11-24）｜类型：混合
@@ -2123,7 +2106,7 @@
 - 适配理由：4.31K 订阅，近两周转做增量 100%（Drink the Ocean 15 万播放）
 - 局限：此前长期停更/做 Fortnite
 
-### 149. まよちき! — 第三推荐
+### 146. まよちき! — 第三推荐
 
 - 频道：https://www.youtube.com/@mayomayobird3｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：4.22K（核查 2026-11-24）｜类型：idle/incremental
@@ -2135,7 +2118,7 @@
 - 适配理由：ぜつまよちきん的副频道，专做大数量インクリ（Potato Please 20 万播放、Quadrillion Carrots）。
 - 局限：频道 /videos 只有 3 条，属副频道；题材偏清扫类。
 
-### 150. The Indie Brew — 第三推荐
+### 147. The Indie Brew — 第三推荐
 
 - 频道：https://www.youtube.com/@theindiebrew｜YouTube｜英语｜地区 澳大利亚
 - 订阅/粉丝：3.99K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2147,7 +2130,7 @@
 - 适配理由：独立游戏媒体，简介写明“想要报道请发邮件”，做过“上班挂机游戏推荐”和 Rusty's Retirement 评测
 - 局限：近期视频播放仅约 100、最近一条 10-28；放置类视频较旧
 
-### 151. BonzosTower — 第三推荐
+### 148. BonzosTower — 第三推荐
 
 - 频道：https://www.youtube.com/@BonzosTower｜YouTube｜英语｜地区 美国
 - 订阅/粉丝：2.66K（核查 2026-11-24）｜类型：idle/incremental
@@ -2159,7 +2142,7 @@
 - 适配理由：几乎日更 The Tower 实验室/农场构筑攻略。
 - 局限：订阅 2.66K；邮箱写在视频说明。
 
-### 152. Taggz — 第三推荐
+### 149. Taggz — 第三推荐
 
 - 频道：https://www.youtube.com/@taggzJGU｜YouTube｜英语｜地区 美国
 - 订阅/粉丝：2.39K（核查 2026-11-24）｜类型：idle/incremental
@@ -2171,7 +2154,7 @@
 - 适配理由：日更 The Tower（放置塔防）构筑与农场分析，观众是放置数值养成玩家。
 - 局限：订阅 2.39K；只做单一塔防放置游戏，与 RPG 阵容玩法有差距。
 
-### 153. Shokow — 第三推荐
+### 150. Shokow — 第三推荐
 
 - 频道：https://www.youtube.com/@shokow2306｜YouTube｜法语｜地区 法国
 - 订阅/粉丝：2.34K（核查 2026-11-24）｜类型：混合
@@ -2183,7 +2166,7 @@
 - 适配理由：法语卡牌构筑/Roguelike 频道，做过自走棋 Of Dice and Minions、增量 Pongzi Scheme、Idle RPG The Ash Remembers。
 - 局限：订阅 2.34K；近期以 Slay the Spire 2 为主；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 154. GobGG - VOD Multigaming — 第三推荐
+### 151. GobGG - VOD Multigaming — 第三推荐
 
 - 频道：https://www.youtube.com/@GoBreplay｜YouTube｜法语｜地区 法国
 - 订阅/粉丝：2.14K（核查 2026-11-24）｜类型：auto battler
@@ -2194,7 +2177,7 @@
 - 适配理由：法语主播 GobGG 的录播副频道，近一月做自走棋 Dungeonbound、Northgard Battlegrounds 首测。
 - 局限：主做英雄联盟；订阅 2.14K；邮箱为经纪 thenode.gg，取自视频说明；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 155. Dreamer — 第三推荐
+### 152. Dreamer — 第三推荐
 
 - 频道：https://www.youtube.com/@DreamerAFKJ｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：2.11K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -2206,7 +2189,7 @@
 - 适配理由：AFK Journey 关卡/AFK Stage 深度攻略与英雄评测，播放 1.5–8.5K。
 - 局限：最近一条为 10-24，更新不规律；订阅 2.11K。
 
-### 156. Во что поиграть? — 第三推荐
+### 153. Во что поиграть? — 第三推荐
 
 - 频道：https://www.youtube.com/@vochtopoigratG｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：1.93K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2218,7 +2201,7 @@
 - 适配理由：「玩什么？」推荐频道，有固定的「IDLE（增量）」分类栏目，每周轮换推荐增量/自动化/塔防新游，另有网站 vochtopoigrat.ru。
 - 局限：订阅仅 1.93K，以短视频合集为主，单款曝光时长短。
 
-### 157. Yaoye夭夜 — 第三推荐
+### 154. Yaoye夭夜 — 第三推荐
 
 - 频道：https://www.youtube.com/@OODrYaoye｜YouTube｜繁体中文(台湾)｜地区 台湾（待核）
 - 订阅/粉丝：1.71K（核查 2026-11-24）｜类型：TBH 攻略 / 直播
@@ -2230,7 +2213,7 @@
 - 适配理由：做过 TBH 新手懒人包、Steam 市场交易教学（8 千播放）、黑画面修复等多条 TBH 内容，并长期直播挂 TBH。
 - 局限：订阅 1.71K；最近一条视频 2026-09-03，放置内容停在约 5 个月前。
 
-### 158. Maybe Sarisa — 第三推荐
+### 155. Maybe Sarisa — 第三推荐
 
 - 频道：https://www.youtube.com/@MaybeSarisa｜YouTube｜英语｜地区 美国
 - 订阅/粉丝：1.63K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2242,7 +2225,7 @@
 - 适配理由：多次做“任务栏/屏幕底部挂机游戏”合集和 Next Fest 小游戏清单，正好覆盖本作小窗挂机卖点
 - 局限：近 30 天在做 Moomin 攻略、无放置题材；订阅 1.6K
 
-### 159. BonneT LessKrau (VOD) — 第三推荐
+### 156. BonneT LessKrau (VOD) — 第三推荐
 
 - 频道：https://www.youtube.com/@vodbonnet｜YouTube｜法语｜地区 待核
 - 订阅/粉丝：1.21K（核查 2026-11-24）｜类型：混合
@@ -2254,7 +2237,7 @@
 - 适配理由：法语 Twitch 主播的录播频道，近一月做增量自走背包 Dungeonbound、Little Incrementisle、合成军团 Bannerlings 等。
 - 局限：订阅 1.21K、单条播放数百；邮箱取自视频说明；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 160. Blitz — 第三推荐
+### 157. Blitz — 第三推荐
 
 - 频道：https://www.youtube.com/@Blitz｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：4.35M（核查 2026-11-24）｜类型：混合
@@ -2266,7 +2249,7 @@
 - 适配理由：435 万订阅，近期连续做扫地/割草/挖小行星等增量游戏，单条 5–13 万播放
 - 局限：综合频道
 
-### 161. BaronVonGames — 第三推荐
+### 158. BaronVonGames — 第三推荐
 
 - 频道：https://www.youtube.com/@Baron｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：2.71M（核查 2026-11-24）｜类型：混合
@@ -2277,7 +2260,7 @@
 - 适配理由：271 万订阅，近两周两条增量策略视频（Trench Defense 增量 80 万播放）
 - 局限：综合策略频道
 
-### 162. Menos Trece — 第三推荐
+### 159. Menos Trece — 第三推荐
 
 - 频道：https://www.youtube.com/@MenosTrece｜YouTube｜西班牙语｜地区 西班牙
 - 订阅/粉丝：2.67M（核查 2026-11-24）｜类型：混合
@@ -2289,7 +2272,7 @@
 - 适配理由：西语头部游戏频道，11 月做了两期增量游戏 CRACK（21 万/38 万播放），10 月做过 MineMergeMatic；常做 Steam 新游首测。
 - 局限：体量极大、以恐怖/生存/多人为主，放置只是偶尔；RSS 视频说明未见公开邮箱。；订阅数来源：vidIQ 2026-11-24
 
-### 163. LolloLacustre — 第三推荐
+### 160. LolloLacustre — 第三推荐
 
 - 频道：https://www.youtube.com/@lollolacustre｜YouTube｜其他：意大利语｜地区 意大利（频道国家设为瑞士，见 vidIQ；内容为意大利语）
 - 订阅/粉丝：2.14M（核查 2026-11-24）｜类型：混合
@@ -2300,7 +2283,7 @@
 - 适配理由：意大利头部主播（约 212 万订阅），做过 Potato Please 系列与 Leaf It Alone 全流程，说明会接爆款增量小品。
 - 局限：主线是 GTA 6 等大作，放置只是偶尔；两条样本日期播放未核；体量大、合作门槛高；联系方式待核。
 
-### 164. MoistCr1TiKaL Gaming — 第三推荐
+### 161. MoistCr1TiKaL Gaming — 第三推荐
 
 - 频道：https://www.youtube.com/@MoistCr1TiKaLGamingOfficial｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：1.15M（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2311,7 +2294,7 @@
 - 适配理由：115 万订阅的综艺大号，近两天连播 Dungeonbound 自走棋，6 万播放
 - 局限：超大号，合作门槛高；无公开邮箱
 
-### 165. Dragoon — 第三推荐
+### 162. Dragoon — 第三推荐
 
 - 频道：https://www.youtube.com/@Dragoon45｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：1.05M（核查 2026-11-24）｜类型：混合
@@ -2323,7 +2306,7 @@
 - 适配理由：百万订阅，「The X Clicker Experience」系列点击/增量游戏常破 60 万播放
 - 局限：体量大、简介无邮箱，非专做放置
 
-### 166. EJStory — 第三推荐
+### 163. EJStory — 第三推荐
 
 - 频道：https://www.youtube.com/@erwinjingga｜YouTube｜其他：印尼语｜地区 印度尼西亚（据频道标题“Indonesia”系列与印尼语内容判定；about 页未列国家）
 - 订阅/粉丝：1.02M（核查 2026-11-24）｜类型：混合
@@ -2334,7 +2317,7 @@
 - 适配理由：印尼百万订阅剧情/模拟实况主播，做了 Potato Please 两集（14 万、7 万播放），也做 Probably Stolen、Dreadmoor 等升级经营类。
 - 局限：核到的放置类只有 Potato Please 一款（两集）；主线是剧情大作与经营模拟；无公开邮箱。
 
-### 167. Kripparrian — 第三推荐
+### 164. Kripparrian — 第三推荐
 
 - 频道：https://www.youtube.com/@Kripparrian｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：901K（核查 2026-11-24）｜类型：auto battler
@@ -2346,7 +2329,7 @@
 - 适配理由：90 万订阅，每日更新 The Bazaar 自动战斗构筑，也会试玩新 roguelite（Sephiria、Void Hunters）
 - 局限：顶级大号，单机放置题材契合度一般，邮箱未公开
 
-### 168. Bastian — 第三推荐
+### 165. Bastian — 第三推荐
 
 - 频道：https://www.youtube.com/@bastian｜YouTube｜德语｜地区 德国
 - 订阅/粉丝：885K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2357,7 +2340,7 @@
 - 适配理由：BastiGHG（88.5 万订阅）偶尔做爆款增量游戏（Click The Button 72 万播放、Nodebuster）。
 - 局限：近 RSS 15 条都是 Minecraft 等，无放置题材；样本日期待核；无邮箱；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 169. RossBoomsocks — 第三推荐
+### 166. RossBoomsocks — 第三推荐
 
 - 频道：https://www.youtube.com/@RossBoomsocks｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：791K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2369,7 +2352,7 @@
 - 适配理由：79.1 万订阅，主打发掘新独立游戏，近期多条增量新游
 - 局限：综合新游频道
 
-### 170. Dead Squirrel — 第三推荐
+### 167. Dead Squirrel — 第三推荐
 
 - 频道：https://www.youtube.com/@DeadSquirrel｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：587K（核查 2026-11-24）｜类型：混合
@@ -2381,7 +2364,7 @@
 - 适配理由：58.7 万订阅，近期日更多为增量小游戏
 - 局限：整活向，非纯放置
 
-### 171. 썩쏘TV — 第三推荐
+### 168. 썩쏘TV — 第三推荐
 
 - 频道：https://www.youtube.com/@SsuckSso｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：522K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -2392,7 +2375,7 @@
 - 适配理由：52 万订阅大号，做过“메이플 키우기”（冒险岛放置 RPG）氪金系列，单条 30 万播放。
 - 局限：放置类视频是 2026-01 的旧系列，近 90 天无放置题材；无公开邮箱。
 
-### 172. Stark Panzer — 第三推荐
+### 169. Stark Panzer — 第三推荐
 
 - 频道：https://www.youtube.com/@StarkPanzer｜YouTube｜其他：匈牙利语｜地区 匈牙利（about 页 Country: Hungary）
 - 订阅/粉丝：347K（核查 2026-11-24）｜类型：混合
@@ -2403,7 +2386,7 @@
 - 适配理由：匈牙利头部游戏主播（34.7 万），近期做了 Moon Sweepers 系列与 Potato Please，增量小品单集约 3 万播放。
 - 局限：主线是 GTA/RP 和载具模拟；无公开邮箱；Potato Please 日期来自搜索摘要。
 
-### 173. GamePlaysCassi — 第三推荐
+### 170. GamePlaysCassi — 第三推荐
 
 - 频道：https://www.youtube.com/@GamePlaysCassi｜YouTube｜葡萄牙语(巴西)｜地区 巴西
 - 订阅/粉丝：263K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2414,7 +2397,7 @@
 - 适配理由：巴西大号 Steam 资讯/折扣/免费游戏频道，做过 Task Bar Hero 爆火专题，近期也有「什么都不做就能赢」的 Steam 挂机类话题。
 - 局限：主线是折扣、免费游戏和 GTA 6 资讯，放置类只是热点话题；第二条视频游戏名待核；邮箱待核。；订阅数来源：socialcounts.org 接口 2026-11-24 读取
 
-### 174. Dobrodziej — 第三推荐
+### 171. Dobrodziej — 第三推荐
 
 - 频道：https://www.youtube.com/@DobrodziejDobrodziejski｜YouTube｜其他：波兰语｜地区 波兰（about 页 Country: Poland）
 - 订阅/粉丝：244K（核查 2026-11-24）｜类型：混合
@@ -2426,7 +2409,7 @@
 - 适配理由：波兰 244K 合作综艺主播，与 Bladii、Diabeuu 连做 Moon Sweepers 系列（至少 5 集）并做过 Potato Please，增量小品单集 3 万播放。
 - 局限：主线是 GTA 6、多人搞笑合作，单机放置 RPG 契合度一般；公开页无邮箱；两条样本日期未核。
 
-### 175. フルコンチャンネル — 第三推荐
+### 172. フルコンチャンネル — 第三推荐
 
 - 频道：https://www.youtube.com/@Fullcon2525｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：241K（核查 2026-11-24）｜类型：auto battler
@@ -2438,7 +2421,7 @@
 - 适配理由：大号实况者，长期连载 Backpack Battles（#489 集，单条约 3 万播放），自走/背包构筑受众。
 - 局限：简介只有邮寄地址，无商务邮箱；非放置挂机向。
 
-### 176. Best Indie Games — 第三推荐
+### 173. Best Indie Games — 第三推荐
 
 - 频道：https://www.youtube.com/@ClemmyGames｜YouTube｜英语｜地区 新加坡
 - 订阅/粉丝：195K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2450,7 +2433,7 @@
 - 适配理由：每周“本周新独立游戏”和 Next Fest 百款 Demo 盘点，做过放置 RPG Duelist: Idle Expedition 与“最上头增量/放置”合集，适合首发周新游曝光
 - 局限：合集里每款只占几十秒；关于页无邮箱；放置类不是主线
 
-### 177. Deathweaver — 第三推荐
+### 174. Deathweaver — 第三推荐
 
 - 频道：https://www.youtube.com/@Deathweaver｜YouTube｜葡萄牙语(巴西)｜地区 巴西
 - 订阅/粉丝：174K（核查 2026-11-24）｜类型：混合
@@ -2461,7 +2444,7 @@
 - 适配理由：巴西大号 MMORPG 新游评测频道，近两周连做 Leveling Idle、PokeTrue 两款挂机 MMO，也常评测 Steam 上的新 MMO（Loftia、Springtail 等）。
 - 局限：主线是 MMORPG，放置类只占少数；邮箱待核。；订阅数来源：socialcounts.org 接口 2026-11-24 读取
 
-### 178. Richard_Hammer — 第三推荐
+### 175. Richard_Hammer — 第三推荐
 
 - 频道：https://www.twitch.tv/richard_hammer｜Twitch｜英语｜地区 待核
 - 订阅/粉丝：167,385 followers（核查 2026-11-24）｜类型：auto battler
@@ -2473,7 +2456,7 @@
 - 适配理由：16.7 万粉丝的策略主播，近三场都播 Mechabellum（自动战斗类）
 - 局限：无公开邮箱；最近一次在线 11-04，近 20 天未见开播；偏 RTS 策略受众
 
-### 179. けそポテト — 第三推荐
+### 176. けそポテト — 第三推荐
 
 - 频道：https://www.youtube.com/@kesopotato｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：139K（核查 2026-11-24）｜类型：混合
@@ -2485,7 +2468,7 @@
 - 适配理由：ローグライク为主的大号，连载インクリ Potato Please（单条约 3 万播放）与 Gnorp Apologue。
 - 局限：简介无任何联系方式；放置题材占比不高。
 
-### 180. Silithur V — 第三推荐
+### 177. Silithur V — 第三推荐
 
 - 频道：https://www.youtube.com/@SilithurV｜YouTube｜西班牙语｜地区 西班牙
 - 订阅/粉丝：138K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2497,7 +2480,7 @@
 - 适配理由：西语独立新游/Steam 新作试玩频道，近月做了 Potato Please、Can 'Em All、Zombillionaire Demo 等增量游戏。
 - 局限：主力内容是 Minecraft 系列 Elitecraft 和模拟经营，放置只占一部分；RSS 视频说明未见公开邮箱。；订阅数来源：vidIQ 2026-11-23
 
-### 181. Walkrman — 第三推荐
+### 178. Walkrman — 第三推荐
 
 - 频道：https://www.youtube.com/@Walkrman｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：127K（核查 2026-11-24）｜类型：混合
@@ -2509,7 +2492,7 @@
 - 适配理由：直播主，近期多条增量游戏（No Asteroids 5 万播放）
 - 局限：以综艺直播剪辑为主
 
-### 182. Millbeeful — 第三推荐
+### 179. Millbeeful — 第三推荐
 
 - 频道：https://www.youtube.com/@Millbee｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：108K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2521,7 +2504,7 @@
 - 适配理由：10.8 万订阅的老牌综艺试玩主播，常做 Auto Battler 首发体验（Mythmon、Silky Rails、Bones and Coins）
 - 局限：单条播放仅数百，曝光一般；邮箱未公开；两条样本日期待核
 
-### 183. Clem NFT — 第三推荐
+### 180. Clem NFT — 第三推荐
 
 - 频道：https://www.youtube.com/@Clem_NFT｜YouTube｜葡萄牙语(巴西)｜地区 巴西
 - 订阅/粉丝：104K（核查 2026-11-24）｜类型：混合
@@ -2533,7 +2516,7 @@
 - 适配理由：大号 MMORPG/手游频道，做过 War of Genesis: Idle Loot（Steam 市场挂机）攻略两条，近期还专门评论「挂机游戏泛滥」现象。
 - 局限：主线是 Vampir 等 MMORPG 与带货视频，频道名带 NFT；放置类只是偶尔，近期播放约 1–7K；邮箱待核。；订阅数来源：socialcounts.org 接口 2026-11-24 读取
 
-### 184. Hadomancer — 第三推荐
+### 181. Hadomancer — 第三推荐
 
 - 频道：https://www.youtube.com/@Hadomancer｜YouTube｜葡萄牙语(巴西)｜地区 巴西
 - 订阅/粉丝：100K（核查 2026-11-24）｜类型：混合
@@ -2545,7 +2528,7 @@
 - 适配理由：大号综合游戏资讯/直播频道，做过 Task Bar Hero 现象解读两条及 War of Genesis（Steam 市场挂机）评测，并直播 Foliary 等 Steam 新游。
 - 局限：主线是 GTA 6、ARC Raiders 等大作资讯，放置类只是偶尔话题；邮箱待核。；订阅数来源：socialcounts.org 接口 2026-11-24 读取
 
-### 185. いぬけん — 第三推荐
+### 182. いぬけん — 第三推荐
 
 - 频道：https://www.youtube.com/@1nuken｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：99.8K（核查 2026-11-24）｜类型：混合
@@ -2557,7 +2540,7 @@
 - 适配理由：バカゲー ゆっくり实况大号，近期连做インクリ系（Potato Please 37 万、Moon Sweepers 59 万）。
 - 局限：无公开邮箱；主打バカゲー，放置 RPG 契合度一般。
 
-### 186. Final Boss Project — 第三推荐
+### 183. Final Boss Project — 第三推荐
 
 - 频道：https://www.youtube.com/@FinalBossProject｜YouTube｜西班牙语｜地区 西班牙
 - 订阅/粉丝：96.4K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2568,7 +2551,7 @@
 - 适配理由：西语独立游戏全流程/Boss 战频道，大量 Steam 新游试玩，做过 Karma Keepers（放置）和增量塔防。
 - 局限：新上传视频起步播放很低（几十到几百），放置只占少数；Instagram/TikTok/Twitter 仅有 @ 账号，未见公开邮箱。；订阅数来源：vidIQ 2026-11-23
 
-### 187. Krayn — 第三推荐
+### 184. Krayn — 第三推荐
 
 - 频道：https://www.youtube.com/@Krayn｜YouTube｜法语｜地区 待核
 - 订阅/粉丝：95K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2579,7 +2562,7 @@
 - 适配理由：法语“DÉCOUVERTE”新游试玩频道（9.5 万），做过 Idle ARPG Deskrawl 与自走棋 Lunchbreak Tactics。
 - 局限：放置类样本在 5–8 个月前，日期待核；无邮箱；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 188. GeneracionActual — 第三推荐
+### 185. GeneracionActual — 第三推荐
 
 - 频道：https://www.youtube.com/@GeneracionActual｜YouTube｜西班牙语｜地区 西班牙
 - 订阅/粉丝：94.1K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2591,7 +2574,7 @@
 - 适配理由：西语综合新游试玩频道，做过 Scritchy Scratchy、Fortune Mill、Loot Loop 等 Steam 增量游戏，也常做 Steam Next Fest 与独立游戏。
 - 局限：近 15 条（10-30 至 11-20）无放置题材，以大作和综合独立游戏为主；未见公开邮箱。；订阅数来源：vidIQ 2026-11-23
 
-### 189. Mynthos — 第三推荐
+### 186. Mynthos — 第三推荐
 
 - 频道：https://www.youtube.com/@Mynthostv｜YouTube｜法语｜地区 法国
 - 订阅/粉丝：86.4K（核查 2026-11-24）｜类型：idle/incremental
@@ -2603,7 +2586,7 @@
 - 适配理由：法语主播（8.6 万），有“INCRÉMENTAL”系列（骑士增量、拆快递增量、Balatro 式增量）。
 - 局限：近期样本游戏名待核；题材偏恐怖/搞笑；无邮箱；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 190. Rumathandrial the 3rd — 第三推荐
+### 187. Rumathandrial the 3rd — 第三推荐
 
 - 频道：https://www.youtube.com/@RumathandrialIII｜YouTube｜德语｜地区 德国
 - 订阅/粉丝：85.8K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2615,7 +2598,7 @@
 - 适配理由：德国主播 Rumathra 的 Uncut 频道（8.6 万），近期做增量 Drink the Ocean（12.5 万播放）和自动化清扫 Moon Sweepers 系列。
 - 局限：综艺联动向（常与 Trymacs、Papaplatte 合作）；无公开邮箱；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 191. Malakye G — 第三推荐
+### 188. Malakye G — 第三推荐
 
 - 频道：https://www.youtube.com/@malakyemong｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：74.4K（核查 2026-11-24）｜类型：混合
@@ -2627,7 +2610,7 @@
 - 适配理由：7.4 万订阅，近期多条增量小游戏
 - 局限：综合频道，播放波动大
 
-### 192. Shisheyu — 第三推荐
+### 189. Shisheyu — 第三推荐
 
 - 频道：https://www.youtube.com/@Shisheyu｜YouTube｜法语｜地区 法国
 - 订阅/粉丝：74.1K（核查 2026-11-24）｜类型：混合
@@ -2639,7 +2622,7 @@
 - 适配理由：法国 Twitch 合作主播的 YouTube 频道（7.4 万），做过 Melvor Idle 2、Astro Prospector、Ballionaire 等增量游戏。
 - 局限：近期以 Queen's Domain、Isaac 为主；简介无邮箱；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 193. Longplay Express — 第三推荐
+### 190. Longplay Express — 第三推荐
 
 - 频道：https://www.youtube.com/@LongplayExpress｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：71.4K（核查 2026-11-24）｜类型：混合
@@ -2650,7 +2633,7 @@
 - 适配理由：7.1 万订阅，近期开始做增量游戏并发了「全部增量游戏排名」
 - 局限：主体是手游 longplay
 
-### 194. Orhun Kayaalp Let's Play — 第三推荐
+### 191. Orhun Kayaalp Let's Play — 第三推荐
 
 - 频道：https://www.youtube.com/@OrhunKayaalpLetsPlay｜YouTube｜其他：土耳其语｜地区 土耳其（about 页 Country: Türkiye）
 - 订阅/粉丝：68.1K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2661,7 +2644,7 @@
 - 适配理由：土耳其主播 Orhun Kayaalp 的“Nasıl Oyun?（这游戏怎么样）”测评频道，做过 Incremental Traffic（5.9 万播放）、Bones and Coins 放置游戏，也长期做 Diablo 2、Minecraft Dungeons 2 等刷宝 ARPG。
 - 局限：更新频率约每周 1–2 条；放置只是其中一类；Bones and Coins 日期未核；无公开邮箱。
 
-### 195. The Geek Cupboard — 第三推荐
+### 192. The Geek Cupboard — 第三推荐
 
 - 频道：https://www.youtube.com/@TheGeekCupboard｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：63.2K（核查 2026-11-24）｜类型：混合
@@ -2672,7 +2655,7 @@
 - 适配理由：6.32 万订阅，cozy 与增量模拟并重
 - 局限：放置只占一部分
 
-### 196. Diegola — 第三推荐
+### 193. Diegola — 第三推荐
 
 - 频道：https://www.youtube.com/@diegola021｜YouTube｜葡萄牙语(巴西)｜地区 待核
 - 订阅/粉丝：63K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -2684,7 +2667,7 @@
 - 适配理由：近一个月大量挂机+交易游戏首发介绍：Poke Stage、Grand Line Idle、Sigma Project、Leveling Idle，单条最高 2 万播放，受众正是「挂机刷宝卖钱」玩家。
 - 局限：同时大量做 NFT/加密「paga no Pix」游戏，调性偏赚钱；无 Steam 平台放置样本；邮箱待核。；订阅数来源：socialcounts.org 接口 2026-11-24 读取
 
-### 197. CosasdeNoobs — 第三推荐
+### 194. CosasdeNoobs — 第三推荐
 
 - 频道：https://www.youtube.com/@CosasdeNoobs｜YouTube｜西班牙语｜地区 西班牙
 - 订阅/粉丝：61.4K（核查 2026-11-24）｜类型：idle/incremental
@@ -2696,7 +2679,7 @@
 - 适配理由：8 月连续做 Rock Bottom、Bills Must Be Paid、Mining Away!、Infinity Bounce 等增量游戏系列。
 - 局限：订阅 6.1 万但近期单条播放仅几十到一百多；最后更新 2026-09-02，近 80 天停更；未见公开邮箱。；订阅数来源：vidIQ 2026-11-23
 
-### 198. 花現新大鹿DoeDaDa — 第三推荐
+### 195. 花現新大鹿DoeDaDa — 第三推荐
 
 - 频道：https://www.youtube.com/@doedada1314｜YouTube｜繁体中文(台湾)｜地区 台湾（待核）
 - 订阅/粉丝：50.1K（核查 2026-11-24）｜类型：手游推荐（放置挂机手游精选系列）
@@ -2708,7 +2691,7 @@
 - 适配理由：固定做「輕鬆放置掛機類的手遊精選」系列（2026 年已到第 3 期，各 2–3 万播放），放置挂机受众明确。
 - 局限：以 Android/iOS 手游为主，不做 Steam；简介无邮箱，只有 FB/IG；近 15 条 RSS 无放置标题，最近放置专题约 2 个月前。
 
-### 199. Let's Get Miserable — 第三推荐
+### 196. Let's Get Miserable — 第三推荐
 
 - 频道：https://www.youtube.com/@LetsGetMiserable｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：48K（核查 2026-11-24）｜类型：混合
@@ -2720,7 +2703,7 @@
 - 适配理由：4.8 万订阅 100% 系列，增量游戏 18–31 万播放
 - 局限：综合 100% 频道，简介无邮箱
 
-### 200. The Scarlet Seeker — 第三推荐
+### 197. The Scarlet Seeker — 第三推荐
 
 - 频道：https://www.youtube.com/@TheScarletSeeker｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：47.3K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2731,7 +2714,7 @@
 - 适配理由：4.7 万订阅，日更“值不值得买”新游评测，覆盖 Dungeonbound 自走棋、Incremental Traffic 增量游戏
 - 局限：评测号题材泛，邮箱未公开
 
-### 201. てけてけ遊びちゃんねる — 第三推荐
+### 198. てけてけ遊びちゃんねる — 第三推荐
 
 - 频道：https://www.youtube.com/@teketeke_vtuber｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：41.7K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -2743,7 +2726,7 @@
 - 适配理由：ナマケモノ型 Vtuber，日更放置少女分析，单条 1–1.5 万播放，观众是放置手游核心玩家。
 - 局限：只做放置少女一款，未见 Steam 游戏；无公开邮箱。
 
-### 202. Codz — 第三推荐
+### 199. Codz — 第三推荐
 
 - 频道：https://www.youtube.com/@ItsCodz｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：40.2K（核查 2026-11-24）｜类型：idle/incremental
@@ -2754,7 +2737,7 @@
 - 适配理由：简介「I have a slight addiction to clicker games」，Cookie Clicker 爆款 150 万播放
 - 局限：更新不频繁
 
-### 203. Artiar — 第三推荐
+### 200. Artiar — 第三推荐
 
 - 频道：https://www.youtube.com/@artiar-dislyte4093｜YouTube｜英语｜地区 马来西亚
 - 订阅/粉丝：35.5K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -2766,7 +2749,7 @@
 - 适配理由：35.5K，Clash of Critters 阵容展示与梯队榜播放 1–4 万，擅长阵型/站位拆解。
 - 局限：自称 Clash of Critters 官方合作创作者，可能有独家约束；无公开邮箱。
 
-### 204. Marmotte Gaming — 第三推荐
+### 201. Marmotte Gaming — 第三推荐
 
 - 频道：https://www.youtube.com/@BestmarmotteGaming｜YouTube｜法语｜地区 法国
 - 订阅/粉丝：33.6K（核查 2026-11-24）｜类型：auto battler
@@ -2777,7 +2760,7 @@
 - 适配理由：法国老牌主播（3.4 万），做自走棋 Northgard Battlegrounds、Backpack Battles 首测。
 - 局限：放置题材很少，近期以恐怖剧情游戏为主；无邮箱；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 205. WarlockTD — 第三推荐
+### 202. WarlockTD — 第三推荐
 
 - 频道：https://www.youtube.com/@WarlockTDgaming｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：31.9K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -2789,7 +2772,7 @@
 - 适配理由：31.9K 订阅、日更 Steam 独立肉鸽，做过自走棋肉鸽 Holder of Place、Despot's Game 和自动塔防 Epic Auto Towers，近期有推币数值成长类。
 - 局限：关于页读取失败，邮箱与外链待核；近 30 天无明确放置/自走棋题材。（hiddenBusinessEmailButton 为未登录检测，可能漏检隐藏的商务邮箱按钮）
 
-### 206. Republic Game — 第三推荐
+### 203. Republic Game — 第三推荐
 
 - 频道：https://www.youtube.com/@republicgame｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：31.5K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -2801,7 +2784,7 @@
 - 适配理由：专讲 Steam 市场/库存赚钱：开 500 包卡牌、廉价库存物品怎么卖（31 万播放）、宝石和卡牌挂卡教程，受众正是关心 Steam 社区市场交易的玩家，适合宣传本作首发开市场。
 - 局限：不做游戏评测，偏 Steam 平台教程与 CS2；无公开邮箱。（hiddenBusinessEmailButton 为未登录检测，可能漏检隐藏的商务邮箱按钮）
 
-### 207. にぇん — 第三推荐
+### 204. にぇん — 第三推荐
 
 - 频道：https://www.youtube.com/@にぇん-n1z｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：30.1K（核查 2026-11-24）｜类型：idle/incremental
@@ -2813,7 +2796,7 @@
 - 适配理由：ゆっくり实况インクリメンタル（Quadrillion Carrots 24 万播放、castle idle、Round and Round Inc.）。
 - 局限：无公开邮箱；偏「数大数字」清扫类，RPG 元素少。
 
-### 208. Trynet123 — 第三推荐
+### 205. Trynet123 — 第三推荐
 
 - 频道：https://www.twitch.tv/trynet123｜Twitch｜英语｜地区 待核
 - 订阅/粉丝：29,270 followers（核查 2026-11-24）｜类型：auto battler
@@ -2825,7 +2808,7 @@
 - 适配理由：每天约 5 小时全程直播 The Bazaar，是该游戏 Twitch 近 30 天平均观众第 4 名
 - 局限：简介写有 Business Contact 邮箱但在 TwitchMetrics 被遮挡，需人工在 twitch.tv/trynet123/about 查看；单一游戏主播
 
-### 209. TUMA — 第三推荐
+### 206. TUMA — 第三推荐
 
 - 频道：https://www.youtube.com/@I-LOVE-TUMA｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：28.4K（核查 2026-11-24）｜类型：混合
@@ -2837,7 +2820,7 @@
 - 适配理由：弦巻マキ实况，接连做インクリ新作与オートバトラー（Booster Pack Heroes 6.8 万、BALL PICKER、Backpack Battles）。
 - 局限：简介没有任何联系方式。
 
-### 210. The Dutch Actuary — 第三推荐
+### 207. The Dutch Actuary — 第三推荐
 
 - 频道：https://www.youtube.com/@TheDutchActuary｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：25.5K（核查 2026-11-24）｜类型：混合
@@ -2848,7 +2831,7 @@
 - 适配理由：爱钻研优化的策略玩家，做过「The BEST INCREMENTAL of 2026?」
 - 局限：放置只是部分内容
 
-### 211. zubu — 第三推荐
+### 208. zubu — 第三推荐
 
 - 频道：https://www.youtube.com/@zubu｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：25K（核查 2026-11-24）｜类型：idle/incremental
@@ -2858,7 +2841,7 @@
 - 适配理由：简介写明常玩冷门放置ゲー，做过「数値がデカい放置ゲームたち」与 Your Chronicle 10000 小时总集。
 - 局限：近 90 天在做解谜游戏，无放置新视频；无公开邮箱。 已实测样本不足 2 条（部分 watch 页被 YouTube 人机验证限流）。
 
-### 212. Keenoe Plays — 第三推荐
+### 209. Keenoe Plays — 第三推荐
 
 - 频道：https://www.youtube.com/@KeenoePlays｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：24.9K（核查 2026-11-24）｜类型：auto battler
@@ -2870,7 +2853,7 @@
 - 适配理由：2.5 万订阅的 Super Auto Pets 专精频道，几乎日更，自走棋核心受众
 - 局限：长期只做 SAP 一款，接新游意愿待核；简介外链有 keenoe.com 未核实联系方式
 
-### 213. Rizzoli — 第三推荐
+### 210. Rizzoli — 第三推荐
 
 - 频道：https://www.youtube.com/@RizzoliVOD｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：24.3K（核查 2026-11-24）｜类型：混合
@@ -2882,7 +2865,7 @@
 - 适配理由：「I play 100% of games」，近期 Can 'Em All 39 万播放
 - 局限：综合 100% 频道
 
-### 214. AlemaoNFT — 第三推荐
+### 211. AlemaoNFT — 第三推荐
 
 - 频道：https://www.youtube.com/@alemaonftreal｜YouTube｜葡萄牙语(巴西)｜地区 巴西
 - 订阅/粉丝：21.5K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -2894,7 +2877,7 @@
 - 适配理由：常做「挂机刷装备再卖」类新游：War of Genesis: Idle Loot（Steam 市场）、GrandLine Idle Verse、Pokémon Idle、Tibia Idle，也做 MMORPG 首发评测。
 - 局限：频道名和部分标签偏 NFT/Play-to-Earn（#jogosplaytoearn），受众关注「赚钱」多于玩法；邮箱待核。；订阅数来源：socialcounts.org 接口 2026-11-24 读取
 
-### 215. Thet — 第三推荐
+### 212. Thet — 第三推荐
 
 - 频道：https://www.youtube.com/@Thet｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：20.8K（核查 2026-11-24）｜类型：auto battler
@@ -2905,7 +2888,7 @@
 - 适配理由：2 万订阅，正在连载 9 Kings 1.0 自动战斗王国构筑系列
 - 局限：以长系列实况为主，偏策略；邮箱未公开
 
-### 216. Voyix — 第三推荐
+### 213. Voyix — 第三推荐
 
 - 频道：https://www.youtube.com/@Voyix｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：20.4K（核查 2026-11-24）｜类型：auto battler
@@ -2916,7 +2899,7 @@
 - 适配理由：2 万订阅，日更 Slice & Dice 队伍构筑 roguelike，今天刚开播 Dungeonbound 异步自走棋
 - 局限：偏卡牌/骰子构筑，邮箱未公开
 
-### 217. 遊戲雜談館 — 第三推荐
+### 214. 遊戲雜談館 — 第三推荐
 
 - 频道：https://www.youtube.com/@HKGamingHall｜YouTube｜繁体中文(香港)｜地区 香港
 - 订阅/粉丝：19.4K（核查 2026-11-24）｜类型：香港 Vtuber 游戏资讯 / 放置赚钱类专题
@@ -2928,7 +2911,7 @@
 - 适配理由：香港 Vtuber 黑咲游，做过 TBH ×2（「差点把 Steam 市集干崩的放置游戏」）、War of Genesis: Idle Loot（免费赚 steam 余额）、Bongo Cat 赚钱专题，简介写曾与多家厂商合作。
 - 局限：邮箱可能藏在「查看电子邮件地址」按钮后（需登录，按规定未点）；以资讯为主。
 
-### 218. 最終の哈姆 — 第三推荐
+### 215. 最終の哈姆 — 第三推荐
 
 - 频道：https://www.youtube.com/@finalhamu｜YouTube｜繁体中文(台湾)｜地区 台湾（待核）
 - 订阅/粉丝：19.3K（核查 2026-11-24）｜类型：放置RPG 手游试玩
@@ -2940,7 +2923,7 @@
 - 适配理由：几乎每天上传放置 RPG 手游试玩（黑暗殺手2、靈魂軍團、Ashen Seal、魔界公團 放置塔防等），放置题材密度很高。
 - 局限：多为厂商宣传式试玩，单条播放仅数百；以手游为主；简介无邮箱。
 
-### 219. EuSouOGiba — 第三推荐
+### 216. EuSouOGiba — 第三推荐
 
 - 频道：https://www.youtube.com/@EuSouOGiba｜YouTube｜葡萄牙语(巴西)｜地区 巴西
 - 订阅/粉丝：18.5K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -2952,7 +2935,7 @@
 - 适配理由：做 TibIdle、War of Genesis（Steam 市场交易）等挂机 MMO，并记录自己开发挂机 RPG BombIdle 的过程，受众是挂机+交易玩家。
 - 局限：本人在开发同类挂机游戏 BombIdle（潜在竞品）；最近一条 2026-10-01（54 天前）；邮箱待核。；订阅数来源：socialcounts.org 接口 2026-11-24 读取
 
-### 220. PunNoFun — 第三推荐
+### 217. PunNoFun — 第三推荐
 
 - 频道：https://www.youtube.com/@PunNoFun｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：16.8K（核查 2026-11-24）｜类型：auto battler
@@ -2963,7 +2946,7 @@
 - 适配理由：1.7 万订阅，长期做 The Bazaar 自动战斗构筑并穿插独立塔防新游
 - 局限：主打 The Bazaar 与文字塔防，单机放置 RPG 契合度中等；邮箱未公开
 
-### 221. STEAMATE — 第三推荐
+### 218. STEAMATE — 第三推荐
 
 - 频道：https://www.youtube.com/@steamate｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：15.9K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -2975,7 +2958,7 @@
 - 适配理由：「Steam 周边」信息频道，做过 Banana「天才骗局还是轻松赚钱」、Steam 被动收入和赚钱指南（33 万播放），受众关心 Steam 市场收益。
 - 局限：最近一次上传 2026-09-03，近 30 天无更新；无公开邮箱，简介带皮肤站推广链接。（hiddenBusinessEmailButton 为未登录检测，可能漏检隐藏的商务邮箱按钮）
 
-### 222. Sleepy Cat — 第三推荐
+### 219. Sleepy Cat — 第三推荐
 
 - 频道：https://www.youtube.com/@MisterSleepyCat｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：14.9K（核查 2026-11-24）｜类型：刷宝/grind
@@ -2987,7 +2970,7 @@
 - 适配理由：1.5 万订阅，ARPG 刷宝/搬砖收益攻略（PoE 刷 700 Div、Hero Siege 赛季），观众熟悉“刷装备赚通货”
 - 局限：核心是 ARPG，非放置；邮箱未公开
 
-### 223. Task Bar Hero Dicas — 第三推荐
+### 220. Task Bar Hero Dicas — 第三推荐
 
 - 频道：https://www.youtube.com/@tbhdicas｜YouTube｜葡萄牙语(巴西)｜地区 巴西
 - 订阅/粉丝：13.4K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -2999,7 +2982,7 @@
 - 适配理由：专做 Steam 挂机刷宝新游的构筑攻略：Task Bar Hero、War of Genesis: Idle Loot、Lootborne、Deskrawl、Tibidle，并主打「挂机产出换 Steam 余额」，与本作首发开市场极对口。
 - 局限：最近一条是 2026-10-24（已 31 天未更新）；频道名绑定 TBH，邮箱待核。；订阅数来源：socialcounts.org 接口 2026-11-24 读取
 
-### 224. Spartan — 第三推荐
+### 221. Spartan — 第三推荐
 
 - 频道：https://www.youtube.com/@SpartanTheTower｜YouTube｜英语｜地区 美国
 - 订阅/粉丝：13.2K（核查 2026-11-24）｜类型：idle/incremental
@@ -3011,7 +2994,7 @@
 - 适配理由：13.2K，专做 The Tower 放置塔防活动解读、锦标赛与优化指南。
 - 局限：单一放置塔防游戏，与 RPG 题材有差距；无公开邮箱。
 
-### 225. Foxmaiden — 第三推荐
+### 222. Foxmaiden — 第三推荐
 
 - 频道：https://www.youtube.com/@FoxmaidenOxB｜YouTube｜葡萄牙语(巴西)｜地区 巴西
 - 订阅/粉丝：13K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -3022,7 +3005,7 @@
 - 适配理由：每天上传 Steam 独立新游/EA 首发系列（塔防、肉鸽、生存），也做 Revolution Idle、Crack a Pack 等增量放置游戏，是典型「Steam 独立新游试玩」号。
 - 局限：单条播放偏低（几十到两百），放置类占比不高；邮箱待核。；订阅数来源：Playboard 2026-11-24；订阅数终版重核未取得（页面读取失败），保留子对话实测值
 
-### 226. Neofox — 第三推荐
+### 223. Neofox — 第三推荐
 
 - 频道：https://www.twitch.tv/neofox｜Twitch｜英语｜地区 待核
 - 订阅/粉丝：12,975 followers（核查 2026-11-24）｜类型：混合
@@ -3034,7 +3017,7 @@
 - 适配理由：全职 Twitch 主播，近期长时间挂播 Rusty's Retirement（屏幕角落放置农场），是该游戏 Twitch 观看榜唯一上榜频道；常与其他游戏并开，适合挂机类小窗玩法
 - 局限：主业是模拟类（美卡、星际公民）；无公开邮箱（TwitchMetrics 付费可见）
 
-### 227. Doofus Mcdooface — 第三推荐
+### 224. Doofus Mcdooface — 第三推荐
 
 - 频道：https://www.youtube.com/@DoofusMcdoofaceStreaming｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：12.3K（核查 2026-11-24）｜类型：auto battler
@@ -3045,7 +3028,7 @@
 - 适配理由：1.2 万订阅，日更 Legion TD 2（自动战斗塔防）排位与赛事
 - 局限：只做 Legion TD 2，接其他游戏意愿待核；邮箱未公开
 
-### 228. 리키리킹 — 第三推荐
+### 225. 리키리킹 — 第三推荐
 
 - 频道：https://www.youtube.com/@ksyliki｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：12.2K（核查 2026-11-24）｜类型：auto battler
@@ -3057,7 +3040,7 @@
 - 适配理由：1.22 万订阅，做 Steam 塔防/成长类新游（Booster Pack Heroes、No Rest Below），也做过“塔防 idler”。
 - 局限：偏塔防；无公开邮箱。
 
-### 229. KultZ — 第三推荐
+### 226. KultZ — 第三推荐
 
 - 频道：https://www.youtube.com/@KultZz｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：11.8K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -3068,7 +3051,7 @@
 - 适配理由：「值不值得买」评测频道，近期两条 Melvor Idle 2 攻略/评测播放 0.6–1 万
 - 局限：主题偏 GTA 6 等大作，放置只是部分
 
-### 230. よぷを — 第三推荐
+### 227. よぷを — 第三推荐
 
 - 频道：https://www.youtube.com/@YopmanGames｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：11.3K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -3080,7 +3063,7 @@
 - 适配理由：几乎日更 AFK：ジャーニー 角色解析与编成，受众是放置 RPG 玩家。
 - 局限：只做 AFK Journey 单一手游，简介写委托走 X 私信（无邮箱/表单）。
 
-### 231. きーうぃk( i w i ) — 第三推荐
+### 228. きーうぃk( i w i ) — 第三推荐
 
 - 频道：https://www.youtube.com/@きーうぃkiwi｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：10.3K（核查 2026-11-24）｜类型：idle/incremental
@@ -3092,7 +3075,7 @@
 - 适配理由：2026-08 开播的ゆっくり实况，专做数量型作业游戏（Potato Please、Unharvest、Find The Needle 67 万播放）。
 - 局限：无联系方式；偏作业清扫类，不是 RPG 放置。
 
-### 232. RoosterPB — 第三推荐
+### 229. RoosterPB — 第三推荐
 
 - 频道：https://www.youtube.com/@RoosterYoutube｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：10.2K（核查 2026-11-24）｜类型：auto battler
@@ -3103,7 +3086,20 @@
 - 适配理由：1 万订阅，Mechabellum 赛事解说与教学（RSS 说明含 Mechabellum）
 - 局限：PvP 电竞向，与单机放置 RPG 受众差距较大；邮箱未公开
 
-### 233. Carbrickscity — 第三推荐
+### 230. Elaps — 第三推荐
+
+- 频道：https://www.youtube.com/@Elapsss｜YouTube｜法语｜地区 法国
+- 订阅/粉丝：9.67K（核查 2026-11-24）｜类型：idle/incremental
+- 最近更新：2026-11-22 [J’ai ramassé 1 MILLION de pièces pour ce 100%](https://www.youtube.com/watch?v=BgHqymVvCkU)
+- 样例：[J’ai ramassé 1 MILLION de pièces pour ce 100%](https://www.youtube.com/watch?v=BgHqymVvCkU)｜2026-11-22｜播放 16477｜待核（标题未写游戏名，捡 100 万金币）
+- 样例：[J'ai ramassé PLUS DE 500 000 FEUILLES pour ce PLATINE](https://www.youtube.com/watch?v=hqqR9AIgYzU)｜2026-11-12｜播放 55231｜待核（标题未写游戏名，扫落叶）
+- 样例：[J'ai PLATINE 3 Incrementaux en UNE SEULE vidéo](https://www.youtube.com/watch?v=fIzaM7B7gjI)｜2026-07-19｜播放 44287｜待核（三款增量合集）
+- 公开联系：待核
+- 适配理由：法语白金/百分百通关频道，常把 Incremental 打到全成就（“3 Incrementaux en une vidéo”、捡 100 万金币等），单条播放 1.6–9 万。
+- 联系方式说明：原记 elps.edit.pro@gmail.com：简介原文「Mail pro Montage」，只接剪辑工作，不能用于游戏邀请
+- 局限：简介邮箱标注为“Mail pro Montage”（剪辑合作），是否收游戏邀请待核；偏成就向；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
+
+### 231. Carbrickscity — 第三推荐
 
 - 频道：https://www.youtube.com/@carbrickscity｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：9.59K（核查 2026-11-24）｜类型：idle/incremental
@@ -3114,7 +3110,7 @@
 - 适配理由：简介写「Big numbers」，做 Idle Planet Miner 更新
 - 局限：题材杂、播放低
 
-### 234. 게임찍먹 전문 겜노인 — 第三推荐
+### 232. 게임찍먹 전문 겜노인 — 第三推荐
 
 - 频道：https://www.youtube.com/@gamnoin｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：9.52K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -3125,7 +3121,7 @@
 - 适配理由：9.5 千订阅，专做 Steam 新游“首玩”，含增量(인크리멘탈)游戏和放置型城市经营。
 - 局限：单条播放数百；无公开邮箱。
 
-### 235. BreagoKeK — 第三推荐
+### 233. BreagoKeK — 第三推荐
 
 - 频道：https://www.youtube.com/@BreagoKeK｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：9.52K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -3137,7 +3133,7 @@
 - 适配理由：「Показываю игру」系列试玩 Steam 独立新游，近期做了 Total Incremental Battle、Sticker Shop Cozy Idle，3 个月前的 Incremental Infinity、IGTAP 增量各 2 万播放。
 - 局限：无公开邮箱（Telegram/Discord）；题材混合，偏沙盒和 RPG；地区未写明。（hiddenBusinessEmailButton 为未登录检测，可能漏检隐藏的商务邮箱按钮）
 
-### 236. Cobrak Strategy — 第三推荐
+### 234. Cobrak Strategy — 第三推荐
 
 - 频道：https://www.youtube.com/@CobStrategy｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：9.35K（核查 2026-11-24）｜类型：auto battler
@@ -3149,7 +3145,7 @@
 - 适配理由：近 1 万订阅，日更 Mechabellum 自动战斗策略，也评测角斗士经营类新游
 - 局限：以 PvP 竞技自走棋为主，单机放置题材需对方有兴趣；邮箱未公开
 
-### 237. Exvarghra GameLog — 第三推荐
+### 235. Exvarghra GameLog — 第三推荐
 
 - 频道：https://www.youtube.com/@Exvarghra｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：9.05K（核查 2026-11-24）｜类型：混合
@@ -3160,7 +3156,7 @@
 - 适配理由：9 千订阅的 roguelike 榜单频道，10 月做过“2026 最佳新自走棋 Top15”，适合争取进合集
 - 局限：榜单类频道，可能只收录片段；邮箱未公开
 
-### 238. MinhArte — 第三推荐
+### 236. MinhArte — 第三推荐
 
 - 频道：https://www.youtube.com/@minharte｜YouTube｜葡萄牙语(巴西)｜地区 巴西
 - 订阅/粉丝：9.01K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -3172,7 +3168,7 @@
 - 适配理由：近一个月连续做挂机+交易类游戏：Grand Line Idleverse、Huntera（Tibia Idle）、「挂机游戏能赚外快吗」专题，受众就是「挂机刷装备卖钱」玩家。
 - 局限：另一半内容是 Web3/空投/AI 训练赚钱等，品牌调性偏「赚钱」；无 Steam 平台放置游戏样本；邮箱待核。；订阅数来源：socialcounts.org 接口 2026-11-24 读取
 
-### 239. Steam Money | Все о заработке в стим — 第三推荐
+### 237. Steam Money | Все о заработке в стим — 第三推荐
 
 - 频道：https://www.youtube.com/@steam_money｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：8.63K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -3184,7 +3180,7 @@
 - 适配理由：专讲 Steam 赚钱，做过挂机掉落游戏 Banana 的赚钱教程（8.9 万播放）和「Banana 是骗局吗」，正是 Steam 市场挂机搬砖受众。
 - 局限：更新稀疏（最近 2026-11-12，上一条 08-30）；无公开邮箱；近期偏 CS2。（hiddenBusinessEmailButton 为未登录检测，可能漏检隐藏的商务邮箱按钮）
 
-### 240. Gamer쿠그너즈 — 第三推荐
+### 238. Gamer쿠그너즈 — 第三推荐
 
 - 频道：https://www.youtube.com/@koognuj｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：8.54K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -3195,7 +3191,7 @@
 - 适配理由：专做 Steam Next Fest 新游 Demo 实机（如 GrimKeep、Attack of the Astrals），适合 Demo 曝光。
 - 局限：近期 Demo 多为肉鸽/策略，放置类不足；无公开邮箱。
 
-### 241. ああああ — 第三推荐
+### 239. ああああ — 第三推荐
 
 - 频道：https://www.youtube.com/@aaaamh｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：8.08K（核查 2026-11-24）｜类型：auto battler
@@ -3207,7 +3203,7 @@
 - 适配理由：Backpack Battles 公式大会亚军，日更 BpB，也做ブースターパックヒーロー。
 - 局限：无公开邮箱；以 BpB 竞技为主，放置挂机向较弱。
 
-### 242. GPH Streams — 第三推荐
+### 240. GPH Streams — 第三推荐
 
 - 频道：https://www.youtube.com/@gphstreams｜YouTube｜英语｜地区 菲律宾
 - 订阅/粉丝：7.96K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -3219,7 +3215,7 @@
 - 适配理由：持续做 Motto Immortal 梯队榜、F2P 资源指南和抽卡，曾做 Seven Knights Idle Adventure 梯队。
 - 局限：Motto Immortal 是否算放置 RPG 待核；无公开邮箱；播放数百至 1K。
 
-### 243. TwoBiers — 第三推荐
+### 241. TwoBiers — 第三推荐
 
 - 频道：https://www.youtube.com/@TwoBiers｜YouTube｜德语｜地区 德国
 - 订阅/粉丝：7.81K（核查 2026-11-24）｜类型：auto battler
@@ -3231,7 +3227,7 @@
 - 适配理由：德语自走棋主播（TFT 德国赛事选手），做 Backpack Battles 指南、Oaken Tower 等自走棋内容。
 - 局限：近 30 天无放置/自走棋新片（最近 11-04 为 Brotato）；无邮箱；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 244. 昭柴猫的猫老师 — 第三推荐
+### 242. 昭柴猫的猫老师 — 第三推荐
 
 - 频道：https://www.youtube.com/@FortunCatNya｜YouTube｜中文（简繁混用，待核）｜地区 待核
 - 订阅/粉丝：7.66K（核查 2026-11-24）｜类型：Steam 独立游戏分类推荐合集（桌面挂机 / 增量 / 自走棋 / 刷宝）
@@ -3243,7 +3239,7 @@
 - 适配理由：每周六更新「10款 steam 上好玩的…推荐」系列，做过桌面挂机放置、增量点击、钓鱼放置、自走棋、类暗黑刷宝专题，合集形式适合带新作曝光。
 - 局限：简介为简体中文，明写「不会以任何形式向开发者发行商索要KEY」；无公开联系方式；地区未知，可能不是台湾。
 
-### 245. Zenaton — 第三推荐
+### 243. Zenaton — 第三推荐
 
 - 频道：https://www.twitch.tv/zenaton｜Twitch｜英语｜地区 待核
 - 订阅/粉丝：7,430 followers（核查 2026-11-24）｜类型：auto battler
@@ -3255,7 +3251,7 @@
 - 适配理由：主播 The Bazaar（自走棋式背包对战），近三场直播约 14 小时都在 Bazaar，TwitchMetrics FAQ 写其常播 The Bazaar
 - 局限：Twitch 简介无明文邮箱（TwitchMetrics 付费可见）；以竞技型自走棋为主，纯挂机内容少
 
-### 246. 老頭Z | 遊戲實測站 — 第三推荐
+### 244. 老頭Z | 遊戲實測站 — 第三推荐
 
 - 频道：https://www.youtube.com/@LaotouZ_Gaming｜YouTube｜繁体中文(台湾)｜地区 台湾（待核）
 - 订阅/粉丝：7.35K（核查 2026-11-24）｜类型：新游评测 / 刷宝
@@ -3267,7 +3263,7 @@
 - 适配理由：新游评测台，近一个月做了《桌面破壞神》（百元桌面刷宝，近 3 万播放）和《Dungeonbound》（自动战斗刷宝）。
 - 局限：放置类仅 2 条，评测题材泛；简介无联系方式；地区未明写。
 
-### 247. Pantsuman — 第三推荐
+### 245. Pantsuman — 第三推荐
 
 - 频道：https://www.twitch.tv/pantsuman｜Twitch｜英语｜地区 待核
 - 订阅/粉丝：7,037 followers（核查 2026-11-24）｜类型：auto battler
@@ -3279,7 +3275,7 @@
 - 适配理由：近期直播全部是 Mechabellum（自动战斗策略），在该类目近 30 天平均观众第 3
 - 局限：简介说「Sometimes there is a stream. Most of the time there is not」，开播不规律；无公开邮箱
 
-### 248. Skirmish — 第三推荐
+### 246. Skirmish — 第三推荐
 
 - 频道：https://www.youtube.com/@IamSkirmish｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：6.86K（核查 2026-11-24）｜类型：idle/incremental
@@ -3291,7 +3287,7 @@
 - 适配理由：Cookie Clicker 研究向视频，爆款 51 万播放，受众是点击/放置玩家
 - 局限：只做 Cookie Clicker
 
-### 249. Bruel Games — 第三推荐
+### 247. Bruel Games — 第三推荐
 
 - 频道：https://www.youtube.com/@bruelgames｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：6.8K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -3303,7 +3299,7 @@
 - 适配理由：两个月前专门做了两款「带 Steam 交易市场的放置 RPG」（Lootborne、War of Genesis: Idle），与本作「放置 + 首发开 Steam 市场」卖点直接对口；简介写明接受游戏投稿。
 - 局限：近期以 MMO/手游为主（Soul Land、VAMPIR）；无公开邮箱（Telegram/Discord）。（hiddenBusinessEmailButton 为未登录检测，可能漏检隐藏的商务邮箱按钮）
 
-### 250. Rahresh — 第三推荐
+### 248. Rahresh — 第三推荐
 
 - 频道：https://www.twitch.tv/rahresh｜Twitch｜英语｜地区 罗马尼亚（简介自称 professional Romanian）
 - 订阅/粉丝：6,541 followers（核查 2026-11-24）｜类型：auto battler
@@ -3315,7 +3311,7 @@
 - 适配理由：简介写「turn based game enjoyer」「Current main stream game: The Bazaar」，近三场全部直播 The Bazaar，均观约 130–160
 - 局限：无公开邮箱；偏回合/策略玩家，纯放置内容未见
 
-### 251. Midway — 第三推荐
+### 249. Midway — 第三推荐
 
 - 频道：https://www.youtube.com/@MidwayPaladin｜YouTube｜英语｜地区 西班牙
 - 订阅/粉丝：6.28K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -3327,7 +3323,7 @@
 - 适配理由：做过 Legend of Mushroom 职业进阶、Duck Survival 礼包码等放置手游攻略。
 - 局限：近 30 天无放置类视频（最近 LoM 为 09-24）；更新放缓。
 
-### 252. Greeny — 第三推荐
+### 250. Greeny — 第三推荐
 
 - 频道：https://www.youtube.com/@GreenyTower｜YouTube｜英语｜地区 美国
 - 订阅/粉丝：6.26K（核查 2026-11-24）｜类型：idle/incremental
@@ -3339,7 +3335,7 @@
 - 适配理由：The Tower 模块解析与进度更新，播放 2–9K。
 - 局限：无公开邮箱；单一游戏。
 
-### 253. Grounded SAP — 第三推荐
+### 251. Grounded SAP — 第三推荐
 
 - 频道：https://www.youtube.com/@GroundedSAP｜YouTube｜英语｜地区 英国（据简介外链 groundedsap.co.uk，待核）
 - 订阅/粉丝：6.07K（核查 2026-11-24）｜类型：auto battler
@@ -3351,7 +3347,7 @@
 - 适配理由：6 千订阅的 Super Auto Pets 专精频道，稳定更新
 - 局限：只做 SAP；邮箱未公开（个人站未核）
 
-### 254. 숲속의늑대 — 第三推荐
+### 252. 숲속의늑대 — 第三推荐
 
 - 频道：https://www.youtube.com/@%EC%88%B2%EC%86%8D%EC%9D%98%EB%8A%91%EB%8C%80｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：5.97K（核查 2026-11-24）｜类型：auto battler
@@ -3362,7 +3358,7 @@
 - 适配理由：5.97 千订阅，直播/实况 Steam 自动战斗和塔防类。
 - 局限：放置类近期仅 2 条；无公开邮箱。
 
-### 255. TheGamesBrew（Roy Lovat） — 第三推荐
+### 253. TheGamesBrew（Roy Lovat） — 第三推荐
 
 - 频道：https://www.youtube.com/@TheGamesBrew｜YouTube｜其他：意大利语｜地区 意大利（about 页 Country: Italy）
 - 订阅/粉丝：5.92K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -3374,7 +3370,7 @@
 - 适配理由：意大利独立新游试玩频道，简介明说欢迎开发者联系；近期做过 Here Comes the Horde、Total Incremental Battle、Booster Pack Heroes、Outbreak Z（自动战斗 RPG）、Warpack。
 - 局限：放置类只是其中一部分；单条播放 1.5–3.5K；邮箱需登录或官网另核。
 
-### 256. knisce — 第三推荐
+### 254. knisce — 第三推荐
 
 - 频道：https://www.youtube.com/@knisce｜YouTube｜其他：土耳其语｜地区 土耳其（about 页 Country: Türkiye）
 - 订阅/粉丝：5.79K（核查 2026-11-24）｜类型：auto battler
@@ -3386,7 +3382,7 @@
 - 适配理由：土耳其 The Bazaar 专精主播（自动战斗构筑），兼做 Slay the Spire 2 与 Guildrun。
 - 局限：无公开邮箱；受众偏卡牌/构筑竞技，非放置；播放约 0.5–1K；Guildrun 品类未逐条核实。
 
-### 257. Force Indie — 第三推荐
+### 255. Force Indie — 第三推荐
 
 - 频道：https://www.youtube.com/@ForceIndie｜YouTube｜葡萄牙语(巴西)｜地区 待核
 - 订阅/粉丝：5.75K（核查 2026-11-24）｜类型：idle/incremental
@@ -3397,7 +3393,7 @@
 - 适配理由：独立游戏系列实况号，做过 The Gnorp Apologue 完整葡语系列和 Rusty's Retirement 放置游戏播放列表。
 - 局限：放置类视频是旧系列（日期待核），近 15 条为 Deadlock、Risk of Rain 2 等；最近更新 2026-11-02（22 天前），单条几百播放。；订阅数来源：socialcounts.org 接口 2026-11-24 读取
 
-### 258. Sir Drae — 第三推荐
+### 256. Sir Drae — 第三推荐
 
 - 频道：https://www.youtube.com/@SirDraee7｜YouTube｜西班牙语｜地区 西班牙
 - 订阅/粉丝：5.57K（核查 2026-11-24）｜类型：auto battler
@@ -3409,7 +3405,7 @@
 - 适配理由：西语策略/roguelike 频道，日更 Backpack Battles、Hearthstone 酒馆战棋等自走战斗，并做过挂机 RPG Desktop Heroes。
 - 局限：单条播放几十到几百；纯放置题材只核到 1 条（Desktop Heroes，日期待核），其余为自走棋类；未见公开邮箱。；订阅数来源：vidIQ 2026-11-23
 
-### 259. 미스터 M — 第三推荐
+### 257. 미스터 M — 第三推荐
 
 - 频道：https://www.youtube.com/@MisterdotM｜YouTube｜韩语｜地区 待核
 - 订阅/粉丝：5.53K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -3421,7 +3417,7 @@
 - 适配理由：高频测评新出的 키우기/放置防御手游并附礼包码。
 - 局限：近期单条播放仅个位到两百；无公开邮箱。
 
-### 260. Jugando Indies — 第三推荐
+### 258. Jugando Indies — 第三推荐
 
 - 频道：https://www.youtube.com/@JugandoIndies｜YouTube｜西班牙语｜地区 阿根廷
 - 订阅/粉丝：5.04K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -3433,7 +3429,7 @@
 - 适配理由：阿根廷独立游戏推荐频道，做过 2026 年度增量游戏合集和 Next Fest 增量游戏合集，日常日更 Steam 新独立游戏。
 - 局限：增量合集具体发布日期待核；RSS 视频说明无邮箱；单条约 1–3 千播放。；订阅数来源：vidIQ 2026-11-23
 
-### 261. Vladik Hex — 第三推荐
+### 259. Vladik Hex — 第三推荐
 
 - 频道：https://www.youtube.com/@VladikHex｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：4.79K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -3445,7 +3441,7 @@
 - 适配理由：持续做 Mobile Legends: Adventure（放置 RPG）阵容养成系列和 Sword x Staff 赛季刷装，受众是放置 RPG 玩家。
 - 局限：手游为主，没做过 Steam 放置；无公开邮箱；订阅 4.79K。（hiddenBusinessEmailButton 为未登录检测，可能漏检隐藏的商务邮箱按钮）
 
-### 262. Ken Cikas — 第三推荐
+### 260. Ken Cikas — 第三推荐
 
 - 频道：https://www.youtube.com/@Ken_Cikas｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：4.73K（核查 2026-11-24）｜类型：idle/incremental
@@ -3457,7 +3453,7 @@
 - 适配理由：Melvor Idle 2 连载，单条 0.3–1.1 万播放，受众为挂机 RPG 玩家
 - 局限：另一半内容是 Path of Exile
 
-### 263. ネストのゆっくりローグライク実況ch — 第三推荐
+### 261. ネストのゆっくりローグライク実況ch — 第三推荐
 
 - 频道：https://www.youtube.com/@ネストのゆっくりローグライク実況ch｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：4.67K（核查 2026-11-24）｜类型：auto battler
@@ -3469,7 +3465,7 @@
 - 适配理由：东北きりたん实况，持续更新 Backpack Battles（单条 1.5–2.4 万播放，高于订阅数）。
 - 局限：无联系方式；订阅不足 5K；只做 BpB。
 
-### 264. Haikrazon — 第三推荐
+### 262. Haikrazon — 第三推荐
 
 - 频道：https://www.youtube.com/@Haikrazon｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：4.54K（核查 2026-11-24）｜类型：idle/incremental
@@ -3481,7 +3477,7 @@
 - 适配理由：自称「你的副屏」，日更增量游戏，含 RPG 向增量
 - 局限：简介无公开邮箱，需另找联系方式
 
-### 265. JustPatrick-Idle — 第三推荐
+### 263. JustPatrick-Idle — 第三推荐
 
 - 频道：https://www.youtube.com/@JustPatrick-Idle｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：4.44K（核查 2026-11-24）｜类型：idle/incremental
@@ -3493,7 +3489,7 @@
 - 适配理由：简介写明做「怪异、解压、上瘾」的放置增量游戏，日更
 - 局限：简介无公开邮箱，需另找联系方式
 
-### 266. mikevalentine — 第三推荐
+### 264. mikevalentine — 第三推荐
 
 - 频道：https://www.twitch.tv/mikevalentine｜Twitch｜俄语｜地区 待核
 - 订阅/粉丝：4,383 followers（核查 2026-11-24）｜类型：auto battler
@@ -3505,7 +3501,7 @@
 - 适配理由：俄语主播，近三场全程直播 The Bazaar（每场 4–7 小时），简介写 Heroes of Might and Magic III，偏策略/自动战斗受众
 - 局限：无公开邮箱；俄语受众，需俄语沟通
 
-### 267. Free to Play Games — 第三推荐
+### 265. Free to Play Games — 第三推荐
 
 - 频道：https://www.youtube.com/@free2playgames｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：4.34K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -3517,7 +3513,7 @@
 - 适配理由：零氪玩放置手游：Idle Heroes 长期更新（节日活动、进度规划），也做 Mobile Legends: Adventure、Trials of Heroes 等 AFK 类。
 - 局限：以手游为主；无公开邮箱（Patreon/Telegram）；订阅 4.34K。（hiddenBusinessEmailButton 为未登录检测，可能漏检隐藏的商务邮箱按钮）
 
-### 268. Pulse, Super Idle — 第三推荐
+### 266. Pulse, Super Idle — 第三推荐
 
 - 频道：https://www.youtube.com/@PulseIdle｜YouTube｜英语｜地区 英国
 - 订阅/粉丝：4.34K（核查 2026-11-24）｜类型：idle/incremental
@@ -3529,7 +3525,7 @@
 - 适配理由：几乎日更 Legends of IdleOn 深度攻略（世界进度、机制解析、账号点评），观众是重度放置/挂机玩家。
 - 局限：订阅 4.33K 未到 5K；无公开邮箱。
 
-### 269. Chewieee — 第三推荐
+### 267. Chewieee — 第三推荐
 
 - 频道：https://www.youtube.com/@Chewie-｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：4.31K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -3541,7 +3537,7 @@
 - 适配理由：做 CookieRun: Crumble 梯队榜、配装和阵容解析。
 - 局限：CookieRun: Crumble 是否属放置 RPG 待核；无公开邮箱。
 
-### 270. CozyAriGames — 第三推荐
+### 268. CozyAriGames — 第三推荐
 
 - 频道：https://www.youtube.com/@CozyAriGames｜YouTube｜英语｜地区 加拿大
 - 订阅/粉丝：4.03K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -3553,7 +3549,7 @@
 - 适配理由：专做“屏幕底部/桌面挂机”类新游首测（Bottled by Bears、Tiny Monster Haven、Eggo），受众是 Bongo Cat 式桌面挂机玩家
 - 局限：治愈向，战斗 RPG 未必对口；订阅不足 5K；联系方式只在 linktr.ee，未核
 
-### 271. WhiteFalcon Plays — 第三推荐
+### 269. WhiteFalcon Plays — 第三推荐
 
 - 频道：https://www.youtube.com/@WhiteFalconPlays｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：3.98K（核查 2026-11-24）｜类型：auto battler
@@ -3565,7 +3561,7 @@
 - 适配理由：“Let’s Try”新游试玩，一周内做 Warpack、Dungeonbound、9 Kings 三款自动战斗游戏
 - 局限：单条播放数百；邮箱未公开
 
-### 272. かぐやそら — 第三推荐
+### 270. かぐやそら — 第三推荐
 
 - 频道：https://www.youtube.com/@KaguyaSora0625｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：3.96K（核查 2026-11-24）｜类型：idle/incremental
@@ -3577,7 +3573,7 @@
 - 适配理由：ゆっくり实况インクリ（超大発掘、Potato Please、フォーク増殖），单条 3–8 万播放远超订阅。
 - 局限：订阅不足 5K；无公开邮箱。
 
-### 273. Ikarus_ — 第三推荐
+### 271. Ikarus_ — 第三推荐
 
 - 频道：https://www.twitch.tv/ikarus_｜Twitch｜英语｜地区 德国（简介写 I am a German streamer）
 - 订阅/粉丝：3,949 followers（核查 2026-11-24）｜类型：auto battler
@@ -3589,7 +3585,7 @@
 - 适配理由：简介写「Currently my main game is The Bazaar」，过去常玩卡牌游戏，近三场全播 The Bazaar 天梯
 - 局限：无公开邮箱；竞技天梯向
 
-### 274. 胖叔打游戏 — 第三推荐
+### 272. 胖叔打游戏 — 第三推荐
 
 - 频道：https://www.youtube.com/@UncleFatGame｜YouTube｜中文（繁体为主，简繁混用，待核）｜地区 待核
 - 订阅/粉丝：3.92K（核查 2026-11-24）｜类型：Steam 新游评测 / 增量挂机 / 合集
@@ -3601,7 +3597,7 @@
 - 适配理由：专注 Steam，近一个月做了《日進斗金》增量挂机、《卡包英雄》、《桌面股神》、Steam 挂机放置游戏节合集，题材对口。
 - 局限：简介无联系方式；频道名用简体「游戏」、简介繁体「平臺」混用，地区待核；订阅不到 5K，播放数百。
 
-### 275. LuckOuts — 第三推荐
+### 273. LuckOuts — 第三推荐
 
 - 频道：https://www.youtube.com/@LuckOuts｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：3.9K（核查 2026-11-24）｜类型：auto battler
@@ -3613,7 +3609,7 @@
 - 适配理由：简介写明专做 roguelike/自走棋/构筑，长期更新 Backpack Battles 构筑
 - 局限：订阅 3.9K；邮箱未公开
 
-### 276. Lembyie (Лемби) — 第三推荐
+### 274. Lembyie (Лемби) — 第三推荐
 
 - 频道：https://www.youtube.com/@Lembyie｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：3.78K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -3625,7 +3621,7 @@
 - 适配理由：专讲 Steam 市场倒卖/投资和被动收入，受众是 Steam 市场交易玩家，可在本作开市场时做交易向介绍。
 - 局限：只做 CS2 皮肤，不碰独立游戏；最近上传 2026-09-11；订阅 3.78K；无公开邮箱。（hiddenBusinessEmailButton 为未登录检测，可能漏检隐藏的商务邮箱按钮）
 
-### 277. Apooche — 第三推荐
+### 275. Apooche — 第三推荐
 
 - 频道：https://www.twitch.tv/apooche｜Twitch｜英语｜地区 待核
 - 订阅/粉丝：3,587 followers（核查 2026-11-24）｜类型：auto battler
@@ -3637,7 +3633,7 @@
 - 适配理由：Mechabellum（自走棋式自动战斗策略）类目近 30 天 Twitch 平均观众第 1，简介「I play strategy games」
 - 局限：竞技向策略玩家、无公开邮箱，与单机放置的匹配度一般
 
-### 278. smojo. — 第三推荐
+### 276. smojo. — 第三推荐
 
 - 频道：https://www.youtube.com/@SmojoWasTaken｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：3.58K（核查 2026-11-24）｜类型：auto battler
@@ -3649,7 +3645,7 @@
 - 适配理由：几乎日更 Backpack Battles 构筑，自走背包战斗核心受众
 - 局限：单一游戏频道，订阅 3.6K；简介无联系方式
 
-### 279. 푸딩2 — 第三推荐
+### 277. 푸딩2 — 第三推荐
 
 - 频道：https://www.youtube.com/@%ED%91%B8%EB%94%A92｜YouTube｜韩语｜地区 待核
 - 订阅/粉丝：3.47K（核查 2026-11-24）｜类型：auto battler
@@ -3660,7 +3656,7 @@
 - 适配理由：The Bazaar（自走棋式卡牌）直播回放。
 - 局限：播放仅几十到一百多；只有直播回放；无公开邮箱。
 
-### 280. 717 clicks — 第三推荐
+### 278. 717 clicks — 第三推荐
 
 - 频道：https://www.youtube.com/@717clicks｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：3.39K（核查 2026-11-24）｜类型：idle/incremental
@@ -3672,7 +3668,7 @@
 - 适配理由：简介自称「主要挖掘增量和肉鸽游戏」，几乎日更 Steam 增量/放置新游（Marchling Idle、Incremental RTS、Total Incremental Battle），单条常过万播放，远超订阅数。
 - 局限：订阅仅 3.39K；无公开邮箱；本人也在做游戏（Arrownomics Demo）；地区未写明。（hiddenBusinessEmailButton 为未登录检测，可能漏检隐藏的商务邮箱按钮）
 
-### 281. afkwoot — 第三推荐
+### 279. afkwoot — 第三推荐
 
 - 频道：https://www.twitch.tv/afkwoot｜Twitch｜英语｜地区 待核
 - 订阅/粉丝：3,286 followers（核查 2026-11-24）｜类型：混合
@@ -3684,7 +3680,7 @@
 - 适配理由：主播 Mechabellum（自动战斗策略），并常在同场直播 Games + Demos 试玩新游，标题带 !sponsor 接受赞助
 - 局限：无公开邮箱；竞技向受众
 
-### 282. Tap B For Bacon — 第三推荐
+### 280. Tap B For Bacon — 第三推荐
 
 - 频道：https://www.youtube.com/@TapBForBaconn｜YouTube｜英语｜地区 美国
 - 订阅/粉丝：3.26K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -3696,7 +3692,7 @@
 - 适配理由：做 AFK Arena Companions 梯队榜和 Invokers: Titan Legacy 攻略，专注放置 RPG 阵容/梯队。
 - 局限：订阅 3.26K、单条播放多在 1–3K；无公开邮箱。
 
-### 283. Once94 — 第三推荐
+### 281. Once94 — 第三推荐
 
 - 频道：https://www.youtube.com/@once-94｜YouTube｜西班牙语｜地区 西班牙
 - 订阅/粉丝：3.25K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -3707,7 +3703,7 @@
 - 适配理由：做 Steam 市场挂机赚钱类内容（War of Genesis: Idle Loot、Idle Legions 卖物品）。
 - 局限：近期多为重复标题的直播切片和 Web3/NFT 赚钱游戏推广，单条播放约 0–300；两条市场挂机视频日期待核；未见公开邮箱。；订阅数来源：vidIQ 2026-11-22
 
-### 284. Zefa — 第三推荐
+### 282. Zefa — 第三推荐
 
 - 频道：https://www.youtube.com/@ZefaGames｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：3.22K（核查 2026-11-24）｜类型：auto battler
@@ -3719,7 +3715,7 @@
 - 适配理由：专做单机 TFT 式 roguelike Guildrun 的攻略，深度构筑向
 - 局限：只做 Guildrun，订阅 3.2K；邮箱未公开
 
-### 285. Sayori Idle — 第三推荐
+### 283. Sayori Idle — 第三推荐
 
 - 频道：https://www.youtube.com/@Sayoridle｜YouTube｜其他：土耳其语简介/英文标题（待核）｜地区 土耳其（简介推断，待核）
 - 订阅/粉丝：3.08K（核查 2026-11-24）｜类型：idle/incremental
@@ -3731,7 +3727,7 @@
 - 适配理由：简介写明专玩 idle/incremental，近期 Coal LLC、Here Comes the Horde
 - 局限：简介为土耳其语，视频标题英文，语言待核
 
-### 286. マイナーゲームナビ !「おすすめインディーゲーム紹介ch」 — 第三推荐
+### 284. マイナーゲームナビ !「おすすめインディーゲーム紹介ch」 — 第三推荐
 
 - 频道：https://www.youtube.com/@makoma7864｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：3.06K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -3743,7 +3739,7 @@
 - 适配理由：老玩家介绍冷门インディー，做过 Diablo 系 ARPG×放置オートバトラー、採掘インクリ、プログラムオートバトラー。
 - 局限：简介写接受介绍委托但只走 DM，无邮箱；播放数百。
 
-### 287. SuperSpruce — 第三推荐
+### 285. SuperSpruce — 第三推荐
 
 - 频道：https://www.youtube.com/@SuperSpruce｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：3.02K（核查 2026-11-24）｜类型：idle/incremental
@@ -3755,7 +3751,7 @@
 - 适配理由：长期连载 Antimatter Dimensions 等增量游戏系列，简介写明做 incremental 系列
 - 局限：播放量数百级
 
-### 288. ピカ様 — 第三推荐
+### 286. ピカ様 — 第三推荐
 
 - 频道：https://www.youtube.com/@ピカTube｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：2.96K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -3767,7 +3763,7 @@
 - 适配理由：几乎每周更新キノコ伝説 build/更新解析，单条 3–9 千播放。
 - 局限：订阅不足 5K，无联系方式；只做一款手游。
 
-### 289. Skuub — 第三推荐
+### 287. Skuub — 第三推荐
 
 - 频道：https://www.youtube.com/@SkuubTag｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：2.92K（核查 2026-11-24）｜类型：auto battler
@@ -3778,7 +3774,7 @@
 - 适配理由：慢节奏讲解型，近期密集更新 9 Kings 自动战斗攻略和入门指南
 - 局限：订阅 2.9K；邮箱未公开
 
-### 290. Chrisp44s — 第三推荐
+### 288. Chrisp44s — 第三推荐
 
 - 频道：https://www.youtube.com/@TheChrisp44s｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：2.85K（核查 2026-11-24）｜类型：idle/incremental
@@ -3789,7 +3785,7 @@
 - 适配理由：常做新增量/自走棋试玩：增量自走棋 COLONIALS、队伍放置 RPG Your Party Died Again
 - 局限：订阅 2.9K；邮箱未公开
 
-### 291. C4lmont — 第三推荐
+### 289. C4lmont — 第三推荐
 
 - 频道：https://www.youtube.com/@C4lmont｜YouTube｜葡萄牙语(巴西)｜地区 巴西
 - 订阅/粉丝：2.82K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -3801,7 +3797,7 @@
 - 适配理由：做 War of Genesis「上 Steam 市场卖装备」入门攻略，以及多款挂机/放置新游上手指南。
 - 局限：大部分是 Solana 等加密链游（USDT、代币），受众偏 Play-to-Earn；订阅约 2.8K；邮箱待核。；订阅数来源：socialcounts.org 接口 2026-11-24 读取
 
-### 292. MiniMatt — 第三推荐
+### 290. MiniMatt — 第三推荐
 
 - 频道：https://www.twitch.tv/minimatt｜Twitch｜英语｜地区 美国（简介写 Colorado based）
 - 订阅/粉丝：2,731 followers（核查 2026-11-24）｜类型：混合
@@ -3812,7 +3808,7 @@
 - 适配理由：近期多场直播 The Bazaar，自称「I stream a lot of variety these days」，愿意试新游
 - 局限：粉丝 2.7K、无公开邮箱；同类内容占比一般
 
-### 293. Santiago Play — 第三推荐
+### 291. Santiago Play — 第三推荐
 
 - 频道：https://www.youtube.com/@SantiagoPlay1｜YouTube｜俄语｜地区 待核
 - 订阅/粉丝：2.67K（核查 2026-11-24）｜类型：idle/incremental
@@ -3824,7 +3820,7 @@
 - 适配理由：几乎日更 Steam 增量/放置/点击新游：近两周有 Total Incremental Battle、Just Keep Mining!、No Asteroids，还做过 Idle RPG Evitania Online、Re:Blade，单条常有数千播放。
 - 局限：订阅仅 2.67K；无公开邮箱（VK/Rutube/Dzen）；地区未写明。（hiddenBusinessEmailButton 为未登录检测，可能漏检隐藏的商务邮箱按钮）
 
-### 294. whisperzz_live — 第三推荐
+### 292. whisperzz_live — 第三推荐
 
 - 频道：https://www.twitch.tv/whisperzz_live｜Twitch｜英语｜地区 待核
 - 订阅/粉丝：2,586 followers（核查 2026-11-24）｜类型：auto battler
@@ -3836,7 +3832,7 @@
 - 适配理由：简介写主要直播 The Bazaar 和 WoW，近三场每场都有 5–6 小时 Bazaar
 - 局限：粉丝仅 2.6K；简介说商务找 Discord、无邮箱；一半时间播 WoW
 
-### 295. will309productions — 第三推荐
+### 293. will309productions — 第三推荐
 
 - 频道：https://www.youtube.com/@will309productions｜YouTube｜英语｜地区 美国
 - 订阅/粉丝：2.57K（核查 2026-11-24）｜类型：idle/incremental
@@ -3848,7 +3844,7 @@
 - 适配理由：专做 IdleOn 观众账号点评，内容偏放置游戏优化/养成。
 - 局限：订阅 2.57K，单条播放数百；无公开邮箱。；订阅数终版重核未取得（页面读取失败），保留子对话实测值
 
-### 296. JAMMA GAMING — 第三推荐
+### 294. JAMMA GAMING — 第三推荐
 
 - 频道：https://www.youtube.com/@jamma-gaming｜YouTube｜法语｜地区 法国
 - 订阅/粉丝：2.56K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -3860,7 +3856,7 @@
 - 适配理由：法语策略/模拟新游测评频道，11 月连发 3 期 Incremental Traffic 和 We March as One。
 - 局限：订阅 2.56K；以策略战棋为主；无公开邮箱；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 297. Fuyn XP — 第三推荐
+### 295. Fuyn XP — 第三推荐
 
 - 频道：https://www.youtube.com/@FuynXP｜YouTube｜西班牙语｜地区 西班牙
 - 订阅/粉丝：2.53K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -3871,7 +3867,7 @@
 - 适配理由：西语小型 Steam 新游试玩频道，近期做了 CRACK、Moon Sweepers 等增量游戏。
 - 局限：单条播放仅十几到一百左右，还混有游戏新闻；未见公开邮箱。；订阅数来源：vidIQ 2026-11-22
 
-### 298. 孖寶遊戲頻道 — 第三推荐
+### 296. 孖寶遊戲頻道 — 第三推荐
 
 - 频道：https://www.youtube.com/@TwinsGaming96｜YouTube｜繁体中文（粤语用字，待核）｜地区 香港（待核）
 - 订阅/粉丝：2.5K（核查 2026-11-24）｜类型：手游试玩（含放置RPG）
@@ -3883,7 +3879,7 @@
 - 适配理由：持续上传「手遊試玩」，近期有放置騎士團、Idle Last Shelter、LostSoul 武俠放置RPG。
 - 局限：播放极低（个位到数百），手游为主；「孖」为粤语用字，可能是香港或东南亚华语创作者。
 
-### 299. Idle Farrell — 第三推荐
+### 297. Idle Farrell — 第三推荐
 
 - 频道：https://www.youtube.com/@idlefarrell｜YouTube｜西班牙语｜地区 哥斯达黎加
 - 订阅/粉丝：2.34K（核查 2026-11-24）｜类型：idle/incremental
@@ -3895,7 +3891,7 @@
 - 适配理由：几乎日更西语增量/放置游戏试玩（挖矿、开箱、军队成长、塔防类增量），题材最对口。
 - 局限：订阅仅约 2.3K；vidIQ 关于页与 RSS 均未见公开邮箱，联系方式待核。；订阅数来源：vidIQ 2026-11-22
 
-### 300. Slow Mo — 第三推荐
+### 298. Slow Mo — 第三推荐
 
 - 频道：https://www.youtube.com/@SlowMoInc｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：2.22K（核查 2026-11-24）｜类型：idle/incremental
@@ -3907,7 +3903,7 @@
 - 适配理由：简介写明专做 Incremental，近期多条增量 RPG/军团养成，最高 2.4 万播放
 - 局限：简介无公开邮箱，需另找联系方式
 
-### 301. veetoqc — 第三推荐
+### 299. veetoqc — 第三推荐
 
 - 频道：https://www.twitch.tv/veetoqc｜Twitch｜英语｜地区 加拿大（简介自称 French Canadian）
 - 订阅/粉丝：2,108 followers（核查 2026-11-24）｜类型：auto battler
@@ -3919,7 +3915,7 @@
 - 适配理由：简介写「Bazaar fanatic」、曾多次 The Bazaar 天梯第 1，近三场全播 Bazaar
 - 局限：粉丝 2.1K、无公开邮箱；本职教师，直播多在晚间
 
-### 302. Phima — 第三推荐
+### 300. Phima — 第三推荐
 
 - 频道：https://www.twitch.tv/phima｜Twitch｜俄语｜地区 待核
 - 订阅/粉丝：2,089 followers（核查 2026-11-24）｜类型：混合
@@ -3931,7 +3927,7 @@
 - 适配理由：俄语主播，前万智牌全国冠军，近期直播 The Bazaar 并试玩新自走棋 NebulArena，标题带 #keymailer，说明会接 Keymailer 发的新游 Key
 - 局限：简介「Сотрудничество」后有邮箱但在 TwitchMetrics 被遮挡，需人工在 twitch.tv/phima/about 查看；粉丝 2.1K
 
-### 303. Mast — 第三推荐
+### 301. Mast — 第三推荐
 
 - 频道：https://www.youtube.com/@Mastゆっくりsub｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：2.07K（核查 2026-11-24）｜类型：idle/incremental
@@ -3943,7 +3939,7 @@
 - 适配理由：2026-11-09 才开播的ゆっくり实况，3 条都是インクリ类（What the Buck?! 3 万播放、Dice Hoarder、Gildoria），涨粉快。
 - 局限：新频道仅 3 条视频；无联系方式。
 
-### 304. thecapnkBR — 第三推荐
+### 302. thecapnkBR — 第三推荐
 
 - 频道：https://www.youtube.com/@thecapnkBR｜YouTube｜葡萄牙语(巴西)｜地区 巴西
 - 订阅/粉丝：2.06K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -3955,7 +3951,7 @@
 - 适配理由：近期整频道都是 Steam 挂机刷宝新游（QuestAway、Deskrawl、Leveling Idle 2D）与「Steam 市场卖装备」主题，与本作首发开市场完全对口。
 - 局限：订阅约 2K，近 15 条中大量同标题直播回放；最近一条 2026-10-30（25 天前），邮箱待核。；订阅数来源：socialcounts.org 接口 2026-11-24 读取
 
-### 305. KelbyMG — 第三推荐
+### 303. KelbyMG — 第三推荐
 
 - 频道：https://www.twitch.tv/kelbymg｜Twitch｜英语｜地区 待核
 - 订阅/粉丝：1,856 followers（核查 2026-11-24）｜类型：auto battler
@@ -3967,7 +3963,7 @@
 - 适配理由：Super Auto Pets 专精主播，近 30 天是 SAP 类目 Twitch 平均观众第 1 名
 - 局限：粉丝 1.9K、无公开邮箱
 
-### 306. Squid RPG — 第三推荐
+### 304. Squid RPG — 第三推荐
 
 - 频道：https://www.youtube.com/@SquidRPG｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：1.79K（核查 2026-11-24）｜类型：刷宝/grind
@@ -3978,7 +3974,7 @@
 - 适配理由：火炬之光：无限刷图收益/零氪攻略，单条 1 万播放，受众是刷宝搬砖党
 - 局限：订阅 1.8K；仅做 ARPG；邮箱未公开
 
-### 307. GRINDING CURRENCY — 第三推荐
+### 305. GRINDING CURRENCY — 第三推荐
 
 - 频道：https://www.youtube.com/@grindingcurrency｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：1.76K（核查 2026-11-24）｜类型：刷宝/grind
@@ -3989,7 +3985,7 @@
 - 适配理由：频道主题就是“低投入刷通货”，做过一整串挂机 ARPG Deskrawl 刷宝视频，与本作挂机+市场搬砖卖点最贴
 - 局限：订阅 1.8K 小；邮箱未公开
 
-### 308. Moskotomo — 第三推荐
+### 306. Moskotomo — 第三推荐
 
 - 频道：https://www.youtube.com/@moskotomo｜YouTube｜葡萄牙语(巴西)｜地区 巴西
 - 订阅/粉丝：1.71K（核查 2026-11-24）｜类型：Steam市场挂机搬砖
@@ -4001,7 +3997,7 @@
 - 适配理由：专做 Steam 新 Idle 游戏首发试玩和挂机游戏直播：Windowed Realms、Desktop Pension Squad、Deskrawl、War of Genesis、Leveling Idle 2D、Grandline Idleverse 等，几乎每天更新。
 - 局限：订阅仅约 1.7K，单条播放多在几百；简介和公开邮箱未取到（待核）。；订阅数来源：socialcounts.org 接口 2026-11-24 读取
 
-### 309. LeoDriango — 第三推荐
+### 307. LeoDriango — 第三推荐
 
 - 频道：https://www.twitch.tv/leodriango｜Twitch｜英语｜地区 待核
 - 订阅/粉丝：1,607 followers（核查 2026-11-24）｜类型：auto battler
@@ -4013,7 +4009,7 @@
 - 适配理由：简介写「I play the bazaar now」，近三场都有 5–6 小时 The Bazaar
 - 局限：粉丝仅 1.6K、无公开邮箱
 
-### 310. 서토리의 게임카페! — 第三推荐
+### 308. 서토리의 게임카페! — 第三推荐
 
 - 频道：https://www.youtube.com/@seotorie_vtube｜YouTube｜韩语｜地区 待核
 - 订阅/粉丝：1.59K（核查 2026-11-24）｜类型：auto battler
@@ -4025,7 +4021,7 @@
 - 适配理由：长期做 Backpack Battles（背包自走棋）构筑视频，偶有千级以上播放。
 - 局限：订阅 1.59K；近 30 天只有 2 条，无公开邮箱。
 
-### 311. Idle Zeroes — 第三推荐
+### 309. Idle Zeroes — 第三推荐
 
 - 频道：https://www.youtube.com/@IdleZeroes｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：1.49K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -4037,7 +4033,7 @@
 - 适配理由：Idle Heroes 终局虚空战役梯队榜（9K+ 播放）等攻略。
 - 局限：近 30 天无更新（最近 09-27）；订阅 1.49K；无公开邮箱。
 
-### 312. AskaAndTheWolf — 第三推荐
+### 310. AskaAndTheWolf — 第三推荐
 
 - 频道：https://www.twitch.tv/askaandthewolf｜Twitch｜英语｜地区 待核
 - 订阅/粉丝：1,462 followers（核查 2026-11-24）｜类型：auto battler
@@ -4049,7 +4045,7 @@
 - 适配理由：近三场都是 The Bazaar 直播（锦标赛、天梯）
 - 局限：粉丝仅 1.5K；简介写有商务邮箱但被遮挡，需人工在 twitch.tv/askaandthewolf/about 查看
 
-### 313. DemonAce227 — 第三推荐
+### 311. DemonAce227 — 第三推荐
 
 - 频道：https://www.youtube.com/@DemonAce227｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：1.46K（核查 2026-11-24）｜类型：idle/incremental
@@ -4060,7 +4056,7 @@
 - 适配理由：Idle Planet Miner（含 Steam 版）攻略与赛事直播
 - 局限：单一游戏，近期以直播为主
 
-### 314. AxionEvolved — 第三推荐
+### 312. AxionEvolved — 第三推荐
 
 - 频道：https://www.youtube.com/@AxionEvolved｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：1.42K（核查 2026-11-24）｜类型：idle/incremental
@@ -4072,7 +4068,7 @@
 - 适配理由：简介首列 incremental，日更增量/塔防/肉鸽
 - 局限：订阅 1.42K，播放数百
 
-### 315. せかまつ【終末世界系ゲームch】 — 第三推荐
+### 313. せかまつ【終末世界系ゲームch】 — 第三推荐
 
 - 频道：https://www.youtube.com/@sekamatsugame｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：1.38K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -4084,7 +4080,7 @@
 - 适配理由：ずんだもん解说，专题介绍放置ゲー新作与更新（War of Genesis: Idle 1.3 万播放、タスクバーヒーロー、期待放置ゲーム5選）。
 - 局限：订阅约 1.4K；无公开邮箱。
 
-### 316. ZweiMarcFuffzig — 第三推荐
+### 314. ZweiMarcFuffzig — 第三推荐
 
 - 频道：https://www.youtube.com/@zweiMarcfuffzig｜YouTube｜德语｜地区 德国
 - 订阅/粉丝：1.37K（核查 2026-11-24）｜类型：idle/incremental
@@ -4096,7 +4092,7 @@
 - 适配理由：德语休闲 Let's Play，常做 Idle 系列首测（Rocky Idle、Incremental Traffic、Melvor Idle、IdleOn、Unnamed Space Idle）。
 - 局限：订阅 1.37K、播放很低；无邮箱；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 317. XP Kolik — 第三推荐
+### 315. XP Kolik — 第三推荐
 
 - 频道：https://www.youtube.com/@XpKolik｜YouTube｜其他：土耳其语｜地区 土耳其（about 页 Country: Türkiye）
 - 订阅/粉丝：1.31K（核查 2026-11-24）｜类型：Steam新游试玩
@@ -4108,7 +4104,7 @@
 - 适配理由：土耳其小型日更试玩频道，连做 Beellionaire Incremental、Can 'Em All 系列，此前 Moon Sweepers 做到第 9 集（vidIQ 列表）。
 - 局限：订阅仅 1.31K、单条播放几十到几百，影响力小；无公开联系方式。
 
-### 318. Steelsane — 第三推荐
+### 316. Steelsane — 第三推荐
 
 - 频道：https://www.twitch.tv/steelsane｜Twitch｜俄语｜地区 待核
 - 订阅/粉丝：1,263 followers（核查 2026-11-24）｜类型：auto battler
@@ -4120,7 +4116,7 @@
 - 适配理由：俄语主播，简介自称游戏设计师，近三场全部直播 Mechabellum（自动战斗策略）
 - 局限：粉丝仅 1.3K、无公开邮箱
 
-### 319. 霊夢のひまつぶし。 — 第三推荐
+### 317. 霊夢のひまつぶし。 — 第三推荐
 
 - 频道：https://www.youtube.com/@霊夢のひまつぶし｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：1.24K（核查 2026-11-24）｜类型：混合
@@ -4131,7 +4127,7 @@
 - 适配理由：ゆっくり实况，最近连做 Mycelarium（10 万播放）与全自动战斗的 Dungeonbound。
 - 局限：订阅约 1.2K、简介空白无联系方式；放置题材仅近两条。
 
-### 320. XCalibur — 第三推荐
+### 318. XCalibur — 第三推荐
 
 - 频道：https://www.youtube.com/@XCaliburGamingOfficial｜YouTube｜英语｜地区 美国
 - 订阅/粉丝：1.19K（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -4143,7 +4139,7 @@
 - 适配理由：多年 Idle Heroes 英雄培养/超越与虚空战役攻略。
 - 局限：订阅 1.19K，近期播放数百；无公开邮箱。
 
-### 321. 老獅 — 第三推荐
+### 319. 老獅 — 第三推荐
 
 - 频道：https://www.youtube.com/@老獅玩遊戲｜YouTube｜繁体中文(台湾)｜地区 台湾（待核）
 - 订阅/粉丝：1.13K（核查 2026-11-24）｜类型：TBH 攻略（阵容配装）
@@ -4155,7 +4151,7 @@
 - 适配理由：2026-06~07 连续多条 TBH 关卡阵容配装攻略（单条最高 2.6 万播放），受众是桌面放置刷宝玩家。
 - 局限：订阅 1.13K；最近一条视频 2026-09-19；简介无联系方式。
 
-### 322. Arteo Pixel — 第三推荐
+### 320. Arteo Pixel — 第三推荐
 
 - 频道：https://www.youtube.com/@ArteoPixel｜YouTube｜法语｜地区 待核
 - 订阅/粉丝：1.1K（核查 2026-11-24）｜类型：idle/incremental
@@ -4167,7 +4163,7 @@
 - 适配理由：法语创作者，近一周连发增量/放置实况（10 Million Pixels、IdleOn、One More Rock、Can 'Em All、Round and Round Inc.）。
 - 局限：订阅 1.1K；频道主内容是宝可梦像素画短片，放置视频播放仅几十到几百；无邮箱；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 323. /うい — 第三推荐
+### 321. /うい — 第三推荐
 
 - 频道：https://www.youtube.com/@ch-bg4xu｜YouTube｜日语｜地区 日本（待核）
 - 订阅/粉丝：1.09K（核查 2026-11-24）｜类型：idle/incremental
@@ -4179,7 +4175,7 @@
 - 适配理由：长期挂机记录型放置实况（Idle Slayer 573 天连载、Coin Bounce、スライム放置、にゃんこ銃士）。
 - 局限：订阅仅约 1K、播放很低；无联系方式。
 
-### 324. EthanDX — 第三推荐
+### 322. EthanDX — 第三推荐
 
 - 频道：https://www.youtube.com/@EthanDX｜YouTube｜英语｜地区 美国
 - 订阅/粉丝：1.03K（核查 2026-11-24）｜类型：idle/incremental
@@ -4191,7 +4187,7 @@
 - 适配理由：The Tower 进度系列已到第 100 集，持续直播放置塔防。
 - 局限：订阅 1.03K、播放数百；单一游戏。
 
-### 325. Normalhs — 第三推荐
+### 323. Normalhs — 第三推荐
 
 - 频道：https://www.youtube.com/@notmalhs｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：970（核查 2026-11-24）｜类型：idle/incremental
@@ -4203,7 +4199,7 @@
 - 适配理由：简介写明做 indie demo 与 incremental 游戏剪辑，Kick Rocks 16 万播放
 - 局限：订阅 970，不足 1K
 
-### 326. IdleAlex — 第三推荐
+### 324. IdleAlex — 第三推荐
 
 - 频道：https://www.youtube.com/@realIdleAlex｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：942（核查 2026-11-24）｜类型：idle/incremental
@@ -4215,7 +4211,7 @@
 - 适配理由：简介写明只做 incremental/idle/clicker，近期单条播放可达 1–1.8 万
 - 局限：订阅不足 1K（942），题材极对口
 
-### 327. Pooplove Plays — 第三推荐
+### 325. Pooplove Plays — 第三推荐
 
 - 频道：https://www.youtube.com/@PooplovePlays｜YouTube｜英语｜地区 美国
 - 订阅/粉丝：800（核查 2026-11-24）｜类型：idle/incremental
@@ -4227,7 +4223,7 @@
 - 适配理由：专做增量/整理小游戏“100% 通关”，Leaf It Alone 一条 7.8 万播放
 - 局限：订阅不足 1K、无邮箱
 
-### 328. DeeN — 第三推荐
+### 326. DeeN — 第三推荐
 
 - 频道：https://www.youtube.com/@DeeNorMani｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：693（核查 2026-11-24）｜类型：idle/incremental
@@ -4239,7 +4235,7 @@
 - 适配理由：Revolution Idle 攻略连载
 - 局限：订阅 693，不足 1K
 
-### 329. 먼로의 메이플키우기 — 第三推荐
+### 327. 먼로의 메이플키우기 — 第三推荐
 
 - 频道：https://www.youtube.com/@monroelee516｜YouTube｜韩语｜地区 待核
 - 订阅/粉丝：692（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -4251,7 +4247,7 @@
 - 适配理由：专门的 메이플 키우기 职业攻略频道，单条最高 1.5 万播放。
 - 局限：订阅仅 692，按题材极其对口例外收录；无公开邮箱。
 
-### 330. Batza — 第三推荐
+### 328. Batza — 第三推荐
 
 - 频道：https://www.youtube.com/@batza80｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：657（核查 2026-11-24）｜类型：idle/incremental
@@ -4263,7 +4259,7 @@
 - 适配理由：Revolution Idle 攻略系列，单条 2–4 千播放
 - 局限：订阅 657，不足 1K
 
-### 331. The Incremental Engineer — 第三推荐
+### 329. The Incremental Engineer — 第三推荐
 
 - 频道：https://www.youtube.com/@TheIncrementalEngineer｜YouTube｜德语｜地区 德国
 - 订阅/粉丝：622（核查 2026-11-24）｜类型：idle/incremental
@@ -4275,7 +4271,7 @@
 - 适配理由：专做 Incremental 的德语新频道，近两周连发 Ant Mill Inc、Pure Skill、Boss After Boss 等，题材极其对口。
 - 局限：订阅仅 622（低于 1K 门槛，因题材极对口收录）；无公开邮箱；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 332. The Roach Zone — 第三推荐
+### 330. The Roach Zone — 第三推荐
 
 - 频道：https://www.youtube.com/@TheRoachZone-gg｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：578（核查 2026-11-24）｜类型：idle/incremental
@@ -4287,7 +4283,7 @@
 - 适配理由：简介「Numbers climb. Sleep declines」，日更增量，做过 30 款增量游戏梯队排名
 - 局限：订阅 577，不足 1K
 
-### 333. Jürgens Pott — 第三推荐
+### 331. Jürgens Pott — 第三推荐
 
 - 频道：https://www.youtube.com/@jurgenspott｜YouTube｜德语｜地区 德国
 - 订阅/粉丝：347（核查 2026-11-24）｜类型：AFK RPG/手游放置
@@ -4299,7 +4295,7 @@
 - 适配理由：德语长期连载放置 RPG（Firestone Idle RPG 358 集、Legends of Idleon、Idle Fishing），题材与挂机 RPG 完全一致。
 - 局限：订阅仅 347、单条播放几十，影响力很小；无邮箱；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
-### 334. Meruwem — 第三推荐
+### 332. Meruwem — 第三推荐
 
 - 频道：https://www.youtube.com/@meruwem0｜YouTube｜英语｜地区 待核
 - 订阅/粉丝：295（核查 2026-11-24）｜类型：idle/incremental
@@ -4311,7 +4307,7 @@
 - 适配理由：「新手 vs 最复杂放置游戏」IdleOn 系列，单条最高 1.5 万播放
 - 局限：订阅不足 1K（295）
 
-### 335. 팰까 종합게임 — 第三推荐
+### 333. 팰까 종합게임 — 第三推荐
 
 - 频道：https://www.youtube.com/@PELKA_GAME｜YouTube｜韩语｜地区 韩国
 - 订阅/粉丝：105（核查 2026-11-24）｜类型：auto battler
