@@ -936,5 +936,13 @@
     "no_fully_qualified_finalist": true,
     "report": "/creators/steam-market-screening-20261110.html",
     "basis": "玩法适配优先；高播放、市场话题或旧爆款不单独构成入选依据。"
-  }
+  },
+  "overseas_batches": [
+    {
+      "date": "2026-11-24",
+      "title": "海外放置 / 搬砖创作者 335 位",
+      "url": "creators/overseas-idle-creators-20261124.html",
+      "note": "YouTube 316 位、Twitch 19 位，已对照旧调研和已联系名单去重；第一推荐 40 位，公开邮箱 111 位，台湾 13 位。全部为新增（未联系），计划 11 月 25 日 12:00 发邀请。"
+    }
+  ]
 }
