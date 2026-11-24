@@ -31,7 +31,7 @@
   "send_plan": "发信清单已备好，计划 2026-11-25 12:00 由 Codex 发邀请；本页收录时名单内均为新增（未联系）。",
   "source": {
     "data": "docs/research/data/2026-11-24-overseas-idle-creators-100.json",
-    "data_sha256": "5eb1146b6142f671d63ca85bc098270c03507a82a1f811bb62e3bdffd6b4a0d1",
+    "data_sha256": "3ff8846ff1dc457bfb380bffcc293e1aa3c29d57471a368db5c57b1679fb9768",
     "report": "docs/research/2026-11-24-overseas-idle-creators-100.md",
     "sendlist": "docs/outreach/2026-11-25-overseas-idle-sendlist.csv"
   },
@@ -1544,6 +1544,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "原文「유튜브 건의 👉 poongtube1125@sandbox.co.kr」，标的是建议邮箱（건의 메일），不是商务渠道",
+      "sendHold": "暂缓：无商务渠道（对话管理 11-24 定：건의 邮箱是收建议的，留到下一轮找到正经渠道再发）",
       "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
       "taiwan": false,
       "samples": [

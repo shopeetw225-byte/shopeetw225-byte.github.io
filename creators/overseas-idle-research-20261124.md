@@ -52,7 +52,7 @@
 |25|第一推荐|[Malterus Gaming](https://www.youtube.com/@Malterus_Gaming)|YouTube|德语/德国|5.85K|邮箱：malteruszockt@web.de|en||
 |26|第二推荐|[GrayStillPlays](https://www.youtube.com/@GrayStillPlays)|YouTube|英语/待核|8.63M|邮箱：graystillplays@gmail.com|en||
 |27|第二推荐|[Obsidian Time](https://www.youtube.com/@ObsidianTime)|YouTube|俄语/待核|1.5M|邮箱：obsidianconnection@gmail.com|en||
-|28|第二推荐|[풍월량](https://www.youtube.com/@hanryang1125)|YouTube|韩语/韩国|530K|邮箱：poongtube1125@sandbox.co.kr|ko|原文「유튜브 건의 👉 poongtube1125@sandbox.co.kr」，标的是建议邮箱（건의 메일），不是商务渠道|
+|28|第二推荐|[풍월량](https://www.youtube.com/@hanryang1125)|YouTube|韩语/韩国|530K|邮箱：poongtube1125@sandbox.co.kr|ko|暂缓：无商务渠道（对话管理 11-24 定：건의 邮箱是收建议的，留到下一轮找到正经渠道再发）；原文「유튜브 건의 👉 poongtube1125@sandbox.co.kr」，标的是建议邮箱（건의 메일），不是商务渠道|
 |29|第二推荐|[ニグチャンネル](https://www.youtube.com/@shiroinu1128)|YouTube|日语/日本（待核）|460K|邮箱：niguchannel@gmail.com|ja||
 |30|第二推荐|[InterndotGif](https://www.youtube.com/@InternDotGif)|YouTube|英语/待核|447K|邮箱：interndotgif@screenwavemedia.com|en||
 |31|第二推荐|[GameEdged](https://www.youtube.com/@gameedged)|YouTube|英语/待核|361K|邮箱：gameedged@gmail.com|en||
@@ -703,7 +703,7 @@
 - 样例：[나는 성장한다 [풍스데스크]](https://www.youtube.com/watch?v=6-SjwjUVq54)｜2026-11-03｜播放 132087｜Slot Bound / Glonk
 - 公开联系：poongtube1125@sandbox.co.kr（来源 https://www.youtube.com/@hanryang1125/about）
 - 适配理由：53 万订阅的韩国头部游戏主播，偶尔做 Steam 小型成长/防御游戏，单条 13–24 万播放。
-- 发信注意：原文「유튜브 건의 👉 poongtube1125@sandbox.co.kr」，标的是建议邮箱（건의 메일），不是商务渠道
+- 发信注意：暂缓：无商务渠道（对话管理 11-24 定：건의 邮箱是收建议的，留到下一轮找到正经渠道再发）；原文「유튜브 건의 👉 poongtube1125@sandbox.co.kr」，标的是建议邮箱（건의 메일），不是商务渠道
 - 局限：放置类只是偶发题材；邮箱为 MCN（sandbox）。
 
 ### 29. ニグチャンネル — 第二推荐
