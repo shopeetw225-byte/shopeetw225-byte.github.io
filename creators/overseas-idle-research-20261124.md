@@ -52,7 +52,7 @@
 |25|第一推荐|[Malterus Gaming](https://www.youtube.com/@Malterus_Gaming)|YouTube|德语/德国|5.85K|邮箱：malteruszockt@web.de|en||
 |26|第二推荐|[GrayStillPlays](https://www.youtube.com/@GrayStillPlays)|YouTube|英语/待核|8.63M|邮箱：graystillplays@gmail.com|en||
 |27|第二推荐|[Obsidian Time](https://www.youtube.com/@ObsidianTime)|YouTube|俄语/待核|1.5M|邮箱：obsidianconnection@gmail.com|en||
-|28|第二推荐|[풍월량](https://www.youtube.com/@hanryang1125)|YouTube|韩语/韩国|530K|邮箱：poongtube1125@sandbox.co.kr|ko|暂缓：无商务渠道（对话管理 11-24 定：건의 邮箱是收建议的，留到下一轮找到正经渠道再发）；原文「유튜브 건의 👉 poongtube1125@sandbox.co.kr」，标的是建议邮箱（건의 메일），不是商务渠道|
+|28|第二推荐|[풍월량](https://www.youtube.com/@hanryang1125)|YouTube|韩语/韩国|530K|暂缓（本轮不发）；邮箱：poongtube1125@sandbox.co.kr|ko|暂缓：无商务渠道（对话管理 11-24 定：건의 邮箱是收建议的，留到下一轮找到正经渠道再发）；原文「유튜브 건의 👉 poongtube1125@sandbox.co.kr」，标的是建议邮箱（건의 메일），不是商务渠道|
 |29|第二推荐|[ニグチャンネル](https://www.youtube.com/@shiroinu1128)|YouTube|日语/日本（待核）|460K|邮箱：niguchannel@gmail.com|ja||
 |30|第二推荐|[InterndotGif](https://www.youtube.com/@InternDotGif)|YouTube|英语/待核|447K|邮箱：interndotgif@screenwavemedia.com|en||
 |31|第二推荐|[GameEdged](https://www.youtube.com/@gameedged)|YouTube|英语/待核|361K|邮箱：gameedged@gmail.com|en||
@@ -98,7 +98,7 @@
 |71|第二推荐|[CheeseCakeCactus](https://www.youtube.com/@CheeseCakeCactus)|YouTube|英语/待核|6.55K|邮箱：cheesecakecactus123@gmail.com|en||
 |72|第二推荐|[겜플리](https://www.youtube.com/@%EA%B2%9C%ED%94%8C%EB%A6%AC)|YouTube|韩语/韩国|5.69K|邮箱：ad@lolq.co.kr|ko|只用「비지니스 문의 - ad@lolq.co.kr」；lbc8748@naver.com 原文标「개인문의」（私人），不用|
 |73|第二推荐|[IdleGamerYT](https://www.youtube.com/@idlegamerYT1)|YouTube|英语/巴西|5.62K|邮箱：IDLEGAMERYT@tutamail.com|en||
-|74|第二推荐|[咖啡樂's](https://www.youtube.com/@coffee0530)|YouTube|繁体中文(台湾)/台湾（台湾）|5.6K|邮箱：q23041940q@gmail.com|zh-TW|建议推迟到 12 月中旬；简介写明「Booked until mid-Dec / 目前行程至 12 月中旬」：建议 12 月中旬再发（已定稿的邀请稿含首发档期，不另改稿）|
+|74|第二推荐|[咖啡樂's](https://www.youtube.com/@coffee0530)|YouTube|繁体中文(台湾)/台湾（台湾）|5.6K|暂缓（本轮不发）；邮箱：q23041940q@gmail.com|zh-TW|建议推迟到 12 月中旬；简介写明「Booked until mid-Dec / 目前行程至 12 月中旬」：建议 12 月中旬再发（已定稿的邀请稿含首发档期，不另改稿）|
 |75|第二推荐|[是努努鴨](https://www.youtube.com/@是努努鴨)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|5.54K|邮箱：ian510823@gmail.com|zh-TW||
 |76|第二推荐|[A게임TV](https://www.youtube.com/@AGAMETVKOR)|YouTube|韩语/韩国|5.48K|邮箱：wjdgkfk@gmail.com|ko||
 |77|第二推荐|[Introvert Party](https://www.youtube.com/@martianpotplays)|YouTube|英语/加拿大（简介写 Canadian）|3.85K|邮箱：introvertpartymartian@gmail.com|en||

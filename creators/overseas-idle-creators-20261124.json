@@ -31,7 +31,7 @@
   "send_plan": "发信清单已备好，计划 2026-11-25 12:00 由 Codex 发邀请；本页收录时名单内均为新增（未联系）。",
   "source": {
     "data": "docs/research/data/2026-11-24-overseas-idle-creators-100.json",
-    "data_sha256": "3ff8846ff1dc457bfb380bffcc293e1aa3c29d57471a368db5c57b1679fb9768",
+    "data_sha256": "1d66d513efeca837a753c1ba60d35500cdb9d733cd780401dcd59ab8e095190a",
     "report": "docs/research/2026-11-24-overseas-idle-creators-100.md",
     "sendlist": "docs/outreach/2026-11-25-overseas-idle-sendlist.csv"
   },
@@ -65,7 +65,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -120,7 +120,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -176,7 +176,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "做过「合作诈骗」主题视频：邀请信不带附件、不用短链",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "samples": [
         {
           "game": "卡包英雄",
@@ -229,7 +229,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -281,7 +281,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -335,7 +335,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -390,7 +390,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "samples": [
         {
           "game": "仙境傳說倖存者",
@@ -443,7 +443,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -505,7 +505,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "与 Only Roguelikes 同一人同一邮箱：只发这一封，信里两个频道都提到",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -559,7 +559,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -614,7 +614,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -668,7 +668,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -722,7 +722,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -777,7 +777,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "简介原文写作 sosbrigade276☆gmail.com，发送时用 @",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -832,7 +832,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -887,7 +887,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -941,7 +941,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -995,7 +995,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -1049,7 +1049,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -1110,7 +1110,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -1164,7 +1164,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -1219,7 +1219,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -1273,7 +1273,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -1327,7 +1327,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -1381,7 +1381,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -1435,7 +1435,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -1489,7 +1489,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -1534,7 +1534,7 @@
       "contact": "poongtube1125@sandbox.co.kr",
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@hanryang1125/about",
-      "sendChannel": "邮箱：poongtube1125@sandbox.co.kr",
+      "sendChannel": "暂缓（本轮不发）；邮箱：poongtube1125@sandbox.co.kr",
       "outreachStatus": "新增（未联系）",
       "latestActivity": {
         "title": "GTA6 보험 사기 현장 직관",
@@ -1545,7 +1545,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "原文「유튜브 건의 👉 poongtube1125@sandbox.co.kr」，标的是建议邮箱（건의 메일），不是商务渠道",
       "sendHold": "暂缓：无商务渠道（对话管理 11-24 定：건의 邮箱是收建议的，留到下一轮找到正经渠道再发）",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -1592,7 +1592,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -1646,7 +1646,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -1700,7 +1700,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -1755,7 +1755,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -1802,7 +1802,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -1857,7 +1857,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -1911,7 +1911,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -1965,7 +1965,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -2020,7 +2020,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -2074,7 +2074,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -2121,7 +2121,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -2183,7 +2183,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "samples": [
         {
           "game": "薑餅人放置大戰爭",
@@ -2236,7 +2236,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -2292,7 +2292,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "与 게임달고나 同一经纪邮箱：只按 게임달고나 发一封",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "sendMergedWith": "게임달고나",
       "taiwan": false,
       "samples": [
@@ -2348,7 +2348,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "与 Only Incrementals 同一人同一邮箱：只发一封，信里两个频道都提到（按 Only Incrementals 发）",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "sendMergedWith": "Only Incrementals",
       "taiwan": false,
       "samples": [
@@ -2404,7 +2404,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -2459,7 +2459,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -2513,7 +2513,7 @@
         "source_note": "频道 RSS（feeds/videos.xml）最新一条 published"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -2567,7 +2567,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -2620,7 +2620,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -2672,7 +2672,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -2731,7 +2731,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -2778,7 +2778,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -2830,7 +2830,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -2891,7 +2891,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -2946,7 +2946,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -3000,7 +3000,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -3047,7 +3047,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -3094,7 +3094,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -3141,7 +3141,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -3195,7 +3195,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -3250,7 +3250,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "与 Ggyu tube 同一经纪邮箱 mkt@metaplug.co.kr：只发这一封",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -3305,7 +3305,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -3359,7 +3359,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -3406,7 +3406,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -3461,7 +3461,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：近期每条只有几十到几百播放",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -3516,7 +3516,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -3571,7 +3571,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -3626,7 +3626,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -3680,7 +3680,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -3734,7 +3734,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -3787,7 +3787,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -3842,7 +3842,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：近期每条只有几十到几百播放",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -3890,7 +3890,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "只用「비지니스 문의 - ad@lolq.co.kr」；lbc8748@naver.com 原文标「개인문의」（私人），不用",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -3946,7 +3946,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
       "nameNote": "原记作 IdleGamerBR；RSS 与 handle @idlegamerYT1 显示名为 IdleGamerYT",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "taiwan": false,
       "samples": [
         {
@@ -3992,7 +3992,7 @@
       "contact": "q23041940q@gmail.com",
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@coffee0530/about",
-      "sendChannel": "邮箱：q23041940q@gmail.com",
+      "sendChannel": "暂缓（本轮不发）；邮箱：q23041940q@gmail.com",
       "outreachStatus": "新增（未联系）",
       "latestActivity": {
         "title": "【伊莫 Aniimo】虹彩麗芙羊可以抓囉，這次會是什麼顏色🌈有時間軸！ #36",
@@ -4003,7 +4003,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "简介写明「Booked until mid-Dec / 目前行程至 12 月中旬」：建议 12 月中旬再发（已定稿的邀请稿含首发档期，不另改稿）",
       "sendHold": "建议推迟到 12 月中旬",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "samples": [
         {
           "game": "多款游戏合集",
@@ -4057,7 +4057,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "samples": [
         {
           "game": " Lootborne ",
@@ -4110,7 +4110,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -4164,7 +4164,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -4218,7 +4218,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -4272,7 +4272,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -4326,7 +4326,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -4380,7 +4380,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -4434,7 +4434,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -4488,7 +4488,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -4542,7 +4542,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -4597,7 +4597,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "samples": [
         {
           "game": "待核（标题未写游戏名）",
@@ -4650,7 +4650,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -4704,7 +4704,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -4758,7 +4758,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -4812,7 +4812,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -4866,7 +4866,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -4920,7 +4920,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -7368,7 +7368,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -7421,7 +7421,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "只用「お仕事のご連絡：nakaido@socialdiva.jp」；另一个是「中国お仕事」专用，不用",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -7468,7 +7468,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -7515,7 +7515,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -7560,7 +7560,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -7614,7 +7614,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -7659,7 +7659,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -7713,7 +7713,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -7758,7 +7758,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -7805,7 +7805,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -7859,7 +7859,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -7910,7 +7910,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -7964,7 +7964,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -8018,7 +8018,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -8071,7 +8071,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -8118,7 +8118,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -8172,7 +8172,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -8227,7 +8227,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "samples": [
         {
           "game": "TBH: 塔斯克巴・英雄",
@@ -8280,7 +8280,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
@@ -8331,7 +8331,7 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
-      "contactVerified": "Codex专用 11-24 复核通过（第一推荐 ba56978e；其余 c120680f）",
+      "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "taiwan": false,
       "samples": [
         {
