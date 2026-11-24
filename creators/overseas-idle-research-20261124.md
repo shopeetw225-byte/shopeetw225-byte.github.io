@@ -15,7 +15,7 @@
 
 **口径：** 订阅/粉丝数为 2026-11-24 公开页原文；样例为最近的放置/搬砖类视频；联系方式只收频道简介或视频说明里明文写出的商务邮箱/表单。YouTube 关于页「查看电子邮件地址」按钮需要登录和人机验证，没有点，这类写「待核」；「隐藏邮箱按钮」是未登录状态下的检测，全部为否不代表频道没有商务邮箱。拿不到的一律写「待核」，没有估算。调研中途本机被 YouTube 限流（429），后半段改用 RSS/oEmbed/WebSearch。
 
-**Codex专用 核实（11-24）：** 第一推荐 40 位及 Elaps 已逐个回公开页核过（记录 `docs/outreach/CC_海外名单20261125核实_1124.md`）：改了 5 处联系方式/来源/档期、剔除 2 位只接付费的（くろろじちゃんねる、しろこりGames）、Elaps 的剪辑专用邮箱不用、12 位按建议降级、5 位理由改字；第二、第三推荐的 71 个邮箱尚未逐个核。
+**Codex专用 核实（11-24）：** 第一推荐 40 位及 Elaps 已逐个回公开页核过（记录 `docs/outreach/CC_海外名单20261125核实_1124.md`）：改了 5 处联系方式/来源/档期、剔除 2 位只接付费的（くろろじちゃんねる、しろこりGames）、Elaps 的剪辑专用邮箱不用、12 位按建议降级、5 位理由改字；其余 73 个邮箱也已复核（记录 `docs/outreach/CC_海外邮箱73个复核_1124.md`）：全部在本人公开原文中、无「只接付费」类限制；同一人/同一经纪邮箱的 2 组只发一封，3 位改用原文标明的商务邮箱。第二、第三推荐的适配理由和订阅数未经 Codex 复核。
 
 **优先级：** 第一推荐 = 近 30 天有放置/搬砖类视频 + 有公开邮箱/表单 + 订阅 ≥5K + 题材高度对口；第二推荐 = 差一项；第三推荐 = 其余入选者。
 
@@ -33,7 +33,7 @@
 |6|第一推荐|[Kaiffu](https://www.youtube.com/@Kaiffu)|YouTube|英语/待核|196K|邮箱：Kaif@saltraiders.com|en||
 |7|第一推荐|[PFY玩給你看](https://www.youtube.com/@pfytw)|YouTube|繁体中文(台湾)/台湾（台湾）|151K|邮箱：playforyoutw@gmail.com|zh-TW||
 |8|第一推荐|[NQH](https://www.youtube.com/@NQH-X)|YouTube|其他语种/越南（about 页 Country: Vietnam）|82.3K|邮箱：nguyenquochuy1094@gmail.com|en||
-|9|第一推荐|[Only Incrementals](https://www.youtube.com/@OnlyIndies)|YouTube|西班牙语/西班牙|81K|邮箱：gerierwarwick@gmail.com|en||
+|9|第一推荐|[Only Incrementals](https://www.youtube.com/@OnlyIndies)|YouTube|西班牙语/西班牙|81K|邮箱：gerierwarwick@gmail.com|en|与 Only Roguelikes 同一人同一邮箱：只发这一封，信里两个频道都提到|
 |10|第一推荐|[MOREQUIS](https://www.youtube.com/@Morequis)|YouTube|英语/待核|67K|邮箱：collaborations@morequis.com|en||
 |11|第一推荐|[たまチャンネル](https://www.youtube.com/@たまチャンネル)|YouTube|日语/日本（待核）|58.4K|邮箱：tamachannel@youdaoads.com|ja|经纪方邮箱，可能回报价|
 |12|第一推荐|[kakakyjla](https://www.youtube.com/@kakakyjla)|YouTube|俄语/待核|53.4K|邮箱：kakakyjla@gmail.com|en||
@@ -52,13 +52,13 @@
 |25|第一推荐|[Malterus Gaming](https://www.youtube.com/@Malterus_Gaming)|YouTube|德语/德国|5.85K|邮箱：malteruszockt@web.de|en||
 |26|第二推荐|[GrayStillPlays](https://www.youtube.com/@GrayStillPlays)|YouTube|英语/待核|8.63M|邮箱：graystillplays@gmail.com|en||
 |27|第二推荐|[Obsidian Time](https://www.youtube.com/@ObsidianTime)|YouTube|俄语/待核|1.5M|邮箱：obsidianconnection@gmail.com|en||
-|28|第二推荐|[풍월량](https://www.youtube.com/@hanryang1125)|YouTube|韩语/韩国|530K|邮箱：poongtube1125@sandbox.co.kr, windmoon1125@naver.com|ko||
+|28|第二推荐|[풍월량](https://www.youtube.com/@hanryang1125)|YouTube|韩语/韩国|530K|邮箱：poongtube1125@sandbox.co.kr|ko|原文「유튜브 건의 👉 poongtube1125@sandbox.co.kr」，标的是建议邮箱（건의 메일），不是商务渠道|
 |29|第二推荐|[ニグチャンネル](https://www.youtube.com/@shiroinu1128)|YouTube|日语/日本（待核）|460K|邮箱：niguchannel@gmail.com|ja||
 |30|第二推荐|[InterndotGif](https://www.youtube.com/@InternDotGif)|YouTube|英语/待核|447K|邮箱：interndotgif@screenwavemedia.com|en||
 |31|第二推荐|[GameEdged](https://www.youtube.com/@gameedged)|YouTube|英语/待核|361K|邮箱：gameedged@gmail.com|en||
-|32|第二推荐|[ShadesOfNate](https://www.youtube.com/@ShadesOfNate)|YouTube|英语/待核|280K|邮箱：shadesofnate@thenode.gg|en||
+|32|第二推荐|[ShadesOfNate](https://www.youtube.com/@ShadesOfNate)|YouTube|英语/待核|280K|邮箱：shadesofnate@thenode.gg|en|经纪方邮箱，可能回报价|
 |33|第二推荐|[Рекви](https://www.youtube.com/@rekvizit8bit)|YouTube|俄语/待核|276K|邮箱：dedakimdak@gmail.com|en||
-|34|第二推荐|[Floydsonson](https://www.youtube.com/@Floydsonson)|YouTube|英语/待核|225K|邮箱：floydson@intheblackmedia.com|en||
+|34|第二推荐|[Floydsonson](https://www.youtube.com/@Floydsonson)|YouTube|英语/待核|225K|邮箱：floydson@intheblackmedia.com|en|经纪方邮箱，可能回报价|
 |35|第二推荐|[TrueDad](https://www.youtube.com/@TrueDad)|YouTube|俄语/待核|156K|邮箱：truedadinvestment@gmail.com|en||
 |36|第二推荐|[The SKY Alliance](https://www.youtube.com/@theskyalliance)|YouTube|英语/加拿大|134K|邮箱：partnerships@theskyalliance.com|en||
 |37|第二推荐|[MKxJUMP](https://www.youtube.com/@MKxJUMP)|YouTube|英语/英国|102K|邮箱：admin@mkxjump.com|en||
@@ -66,8 +66,8 @@
 |39|第二推荐|[Játszótér（MakaM）](https://www.youtube.com/@jatszoter)|YouTube|其他语种/匈牙利（about 页 Country: Hungary）|88.4K|邮箱：makamhun@gmail.com|en||
 |40|第二推荐|[PonPonLin蹦蹦林](https://www.youtube.com/@ponponlin)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|79.4K|邮箱：ponponlinlife@gmail.com|zh-TW||
 |41|第二推荐|[Scion Storm](https://www.youtube.com/@ScionStorm)|YouTube|英语/美国|59.8K|邮箱：silentstorminc@gmail.com|en||
-|42|第二推荐|[Ggyu tube](https://www.youtube.com/@Ggyutube)|YouTube|韩语/韩国|49.3K|邮箱：mkt@metaplug.co.kr|ko||
-|43|第二推荐|[Only Roguelikes](https://www.youtube.com/@OnlyRoguelikes)|YouTube|西班牙语/待核|42.7K|邮箱：gerierwarwick@gmail.com|en||
+|42|第二推荐|[Ggyu tube](https://www.youtube.com/@Ggyutube)|YouTube|韩语/韩国|49.3K|邮箱：mkt@metaplug.co.kr|ko|与 게임달고나 同一经纪邮箱：只按 게임달고나 发一封|
+|43|第二推荐|[Only Roguelikes](https://www.youtube.com/@OnlyRoguelikes)|YouTube|西班牙语/待核|42.7K|邮箱：gerierwarwick@gmail.com|en|与 Only Incrementals 同一人同一邮箱：只发一封，信里两个频道都提到（按 Only Incrementals 发）|
 |44|第二推荐|[Puzzle - AFK Journey!](https://www.youtube.com/@PuzzleAFKJ)|YouTube|英语/美国|38.8K|邮箱：shreddedpuzzle@gmail.com|en||
 |45|第二推荐|[껨디](https://www.youtube.com/@GGDsandevistan)|YouTube|韩语/韩国|32.6K|邮箱：ggemdi@daum.net|ko||
 |46|第二推荐|[ぎあ](https://www.youtube.com/@Rustgear2nd)|YouTube|日语/日本（待核）|29.4K|邮箱：geqrs3025@gmail.com|ja||
@@ -84,7 +84,7 @@
 |57|第二推荐|[Game Launch Central](https://www.youtube.com/@GameLaunchCentral)|YouTube|英语/待核|17.4K|邮箱：gamesaiolia@gmail.com|en||
 |58|第二推荐|[Тупой Горностай（同一主播另有 Шляпа Горностая）](https://www.youtube.com/@TupoyGornostay)|YouTube|俄语/待核|16.9K|邮箱：blindermine.ad@gmail.com|en||
 |59|第二推荐|[Grinnn](https://www.youtube.com/@Grinnn)|YouTube|英语/印度|15.5K|邮箱：Konsugg.business@gmail.com|en||
-|60|第二推荐|[게임달고나](https://www.youtube.com/@%EB%AA%A8%EB%B0%94%EC%9D%BC%EA%B2%8C%EC%9E%84)|YouTube|韩语/韩国|14.5K|邮箱：mkt@metaplug.co.kr|ko||
+|60|第二推荐|[게임달고나](https://www.youtube.com/@%EB%AA%A8%EB%B0%94%EC%9D%BC%EA%B2%8C%EC%9E%84)|YouTube|韩语/韩国|14.5K|邮箱：mkt@metaplug.co.kr|ko|与 Ggyu tube 同一经纪邮箱 mkt@metaplug.co.kr：只发这一封|
 |61|第二推荐|[훈TV](https://www.youtube.com/@%ED%9B%88TV%ED%9B%88)|YouTube|韩语/韩国|12.4K|邮箱：lmh4186@naver.com|ko||
 |62|第二推荐|[초록괴물](https://www.youtube.com/@%EC%B4%88%EB%A1%9D%EA%B4%B4%EB%AC%BC)|YouTube|韩语/韩国|12.1K|邮箱：itarcadegame@gmail.com|ko||
 |63|第二推荐|[ExGold](https://www.youtube.com/@ExGold)|YouTube|其他语种/意大利（about 页 Country: Italy）|11.9K|邮箱：exgold97@gmail.com|en||
@@ -96,7 +96,7 @@
 |69|第二推荐|[Trusty](https://www.youtube.com/@yartaholic)|YouTube|英语/待核|8.1K|邮箱：Trustysinq@gmail.com|en||
 |70|第二推荐|[SYROX GAMING](https://www.youtube.com/@SYROX_GAMING)|YouTube|俄语/待核|7.48K|邮箱：thesyrox.tv@gmail.com|en||
 |71|第二推荐|[CheeseCakeCactus](https://www.youtube.com/@CheeseCakeCactus)|YouTube|英语/待核|6.55K|邮箱：cheesecakecactus123@gmail.com|en||
-|72|第二推荐|[겜플리](https://www.youtube.com/@%EA%B2%9C%ED%94%8C%EB%A6%AC)|YouTube|韩语/韩国|5.69K|邮箱：ad@lolq.co.kr, lbc8748@naver.com|ko||
+|72|第二推荐|[겜플리](https://www.youtube.com/@%EA%B2%9C%ED%94%8C%EB%A6%AC)|YouTube|韩语/韩国|5.69K|邮箱：ad@lolq.co.kr|ko|只用「비지니스 문의 - ad@lolq.co.kr」；lbc8748@naver.com 原文标「개인문의」（私人），不用|
 |73|第二推荐|[IdleGamerYT](https://www.youtube.com/@idlegamerYT1)|YouTube|英语/巴西|5.62K|邮箱：IDLEGAMERYT@tutamail.com|en||
 |74|第二推荐|[咖啡樂's](https://www.youtube.com/@coffee0530)|YouTube|繁体中文(台湾)/台湾（台湾）|5.6K|邮箱：q23041940q@gmail.com|zh-TW|建议推迟到 12 月中旬；简介写明「Booked until mid-Dec / 目前行程至 12 月中旬」：建议 12 月中旬再发（已定稿的邀请稿含首发档期，不另改稿）|
 |75|第二推荐|[是努努鴨](https://www.youtube.com/@是努努鴨)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|5.54K|邮箱：ian510823@gmail.com|zh-TW||
@@ -162,7 +162,7 @@
 |135|第二推荐|[Tyredack](https://www.youtube.com/@tyredack)|YouTube|英语/待核|5.29K|暂无公开渠道（YouTube 关于页邮箱按钮需登录+人机验证，不代点）|en||
 |136|第二推荐|[Skagokalipsis](https://www.youtube.com/@Skagokalipsis)|YouTube|俄语/待核|5.13K|无公开邮箱；备选简介外链：https://www.twitch.tv/skagokalipsis（私信需按当次授权）|en||
 |137|第三推荐|[Fiouze](https://www.youtube.com/@FuzePlays)|YouTube|法语/法国|797K|邮箱：fiouze@blockmedia.fr|en||
-|138|第三推荐|[ナカイドのゲーム情報チャンネル](https://www.youtube.com/@nakaido)|YouTube|日语/日本（待核）|411K|邮箱：nakaido@socialdiva.jp；中国合作 nakaido_youdao@163.com|ja||
+|138|第三推荐|[ナカイドのゲーム情報チャンネル](https://www.youtube.com/@nakaido)|YouTube|日语/日本（待核）|411K|邮箱：nakaido@socialdiva.jp|ja|只用「お仕事のご連絡：nakaido@socialdiva.jp」；另一个是「中国お仕事」专用，不用|
 |139|第三推荐|[ふつうのくま](https://www.youtube.com/@metokuma314)|YouTube|日语/日本（待核）|121K|邮箱：meto.work631214@gmail.com|ja||
 |140|第三推荐|[JGigs](https://www.youtube.com/@JGigs)|YouTube|英语/美国|88.1K|邮箱：jh@jonathanhagewood.com|en||
 |141|第三推荐|[Murtork](https://www.youtube.com/@Murtork)|YouTube|俄语/俄罗斯（简介称已列入俄罗斯 Roskomnadzor 个人页面名录）|46.6K|邮箱：murtorkcom@gmail.com|en||
@@ -175,7 +175,7 @@
 |148|第三推荐|[BonzosTower](https://www.youtube.com/@BonzosTower)|YouTube|英语/美国|2.66K|邮箱：bonzostower@gmail.com|en||
 |149|第三推荐|[Taggz](https://www.youtube.com/@taggzJGU)|YouTube|英语/美国|2.39K|邮箱：tacoking1588@gmail.com|en||
 |150|第三推荐|[Shokow](https://www.youtube.com/@shokow2306)|YouTube|法语/法国|2.34K|邮箱：shokow.contact@gmail.com|en||
-|151|第三推荐|[GobGG - VOD Multigaming](https://www.youtube.com/@GoBreplay)|YouTube|法语/法国|2.14K|邮箱：gobgg@thenode.gg|en||
+|151|第三推荐|[GobGG - VOD Multigaming](https://www.youtube.com/@GoBreplay)|YouTube|法语/法国|2.14K|邮箱：gobgg@thenode.gg|en|经纪方邮箱，可能回报价|
 |152|第三推荐|[Dreamer](https://www.youtube.com/@DreamerAFKJ)|YouTube|英语/待核|2.11K|邮箱：dreamertube101@gmail.com|en||
 |153|第三推荐|[Во что поиграть?](https://www.youtube.com/@vochtopoigratG)|YouTube|俄语/待核|1.93K|邮箱：aawork33@gmail.com|en||
 |154|第三推荐|[Yaoye夭夜](https://www.youtube.com/@OODrYaoye)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|1.71K|邮箱：st9750317@gmail.com|zh-TW||
@@ -470,6 +470,7 @@
 - 样例：[He llegado a la OLEADA 300 en Orc Incremental](https://www.youtube.com/watch?v=jhV9C_svzi8)｜2026-10-07｜播放 16785｜Orc Incremental
 - 公开联系：gerierwarwick@gmail.com（来源 https://www.youtube.com/@OnlyIndies/about）
 - 适配理由：西语增量游戏专门频道，每 3 天一条 Steam 增量新作（Potato Please、Orc Incremental等），单条 1–2.4 万播放，有公开邮箱。
+- 发信注意：与 Only Roguelikes 同一人同一邮箱：只发这一封，信里两个频道都提到
 - 局限：作者 Gerier 的另一频道 Only Roguelikes 已被 out/en_autobattler_grind.json 收录（同一邮箱），联系时按同一人去重；不在三份去重名单内。；订阅数来源：vidIQ 2026-11-23
 
 ### 10. MOREQUIS — 第一推荐
@@ -700,8 +701,9 @@
 - 最近更新：2026-11-24 [GTA6 보험 사기 현장 직관](https://www.youtube.com/watch?v=6EKBZHpyFO8)
 - 样例：[운빨로만 클리어 할 수 있는 디펜스 게임 [슬롯 바운드/Slot Bound]](https://www.youtube.com/watch?v=6Tj9EQBMKk8)｜2026-11-22｜播放 237797｜Slot Bound / Glonk
 - 样例：[나는 성장한다 [풍스데스크]](https://www.youtube.com/watch?v=6-SjwjUVq54)｜2026-11-03｜播放 132087｜Slot Bound / Glonk
-- 公开联系：poongtube1125@sandbox.co.kr, windmoon1125@naver.com（来源 https://www.youtube.com/@hanryang1125/about）
+- 公开联系：poongtube1125@sandbox.co.kr（来源 https://www.youtube.com/@hanryang1125/about）
 - 适配理由：53 万订阅的韩国头部游戏主播，偶尔做 Steam 小型成长/防御游戏，单条 13–24 万播放。
+- 发信注意：原文「유튜브 건의 👉 poongtube1125@sandbox.co.kr」，标的是建议邮箱（건의 메일），不是商务渠道
 - 局限：放置类只是偶发题材；邮箱为 MCN（sandbox）。
 
 ### 29. ニグチャンネル — 第二推荐
@@ -749,6 +751,7 @@
 - 样例：[I Shredded 1 BILLION DOLLARS By Hand... (Shred A Billion)](https://www.youtube.com/watch?v=JixNMCV5FkI)｜2026-11-08｜播放 23837｜Shred A Billion
 - 公开联系：shadesofnate@thenode.gg（来源 https://www.youtube.com/@ShadesOfNate/about）
 - 适配理由：搞笑向，近期两条增量游戏
+- 发信注意：经纪方邮箱，可能回报价
 - 局限：放置非主线
 
 ### 33. Рекви — 第二推荐
@@ -773,6 +776,7 @@
 - 样例：[I Played 100% of Fishing Inc](https://www.youtube.com/watch?v=Qs5mKi29K30)｜2026-11-14｜播放 634508｜Fishing Inc
 - 公开联系：floydson@intheblackmedia.com（来源 https://www.youtube.com/@Floydsonson/about）
 - 适配理由：22.5 万订阅「I Played 100%」系列，近期多条增量游戏（Moon Sweepers、CRACK）百万级播放
+- 发信注意：经纪方邮箱，可能回报价
 - 局限：频道偏综艺向模拟/增量，并非纯放置 RPG
 
 ### 35. TrueDad — 第二推荐
@@ -869,6 +873,7 @@
 - 样例：[【메이플 키우기】 오랜만의 복귀, '캡틴'으로 새 출발합니다! [캡틴 육성기 1편]](https://www.youtube.com/watch?v=rZ192G5TUeo)｜2026-11-22｜播放 14103｜메이플 키우기 / 소드 x 스태프
 - 公开联系：mkt@metaplug.co.kr（来源 https://www.youtube.com/@Ggyutube/about）
 - 适配理由：4.93 万订阅，做“메이플 키우기”“소드 x 스태프”等放置 RPG 育成系列，单条约 1 万播放。
+- 发信注意：与 게임달고나 同一经纪邮箱：只按 게임달고나 发一封
 - 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
 - 局限：邮箱为 MCN（metaplug）营销邮箱。
 
@@ -882,6 +887,7 @@
 - 样例：[Ya ha salido SLOTBOUND y es mi GOTY](https://www.youtube.com/watch?v=aongTvkJgrA)｜2026-11-13｜播放 53138｜Slotbound
 - 公开联系：gerierwarwick@gmail.com（来源 https://www.youtube.com/watch?v=mhWbnb1E1WE）
 - 适配理由：4.3 万订阅，专做 roguelike，近期多条自走棋（Devolver 新作、Slotbound 5.3 万播放）
+- 发信注意：与 Only Incrementals 同一人同一邮箱：只发一封，信里两个频道都提到（按 Only Incrementals 发）
 - 局限：实为西班牙语频道（RSS 原标题为西语，英文为自动翻译），建议交西语组；邮箱出自视频说明
 
 ### 44. Puzzle - AFK Journey! — 第二推荐
@@ -1085,6 +1091,7 @@
 - 样例：[[11월 신작 모바일게임] 국산 모바일 RPG '카에시: 시즈카 키우기 소녀 검객 방치 RPG' (KAESHI: Sword Maiden Idle RPG) 플레이. 세로 게임 추천?](https://www.youtube.com/watch?v=HG6hntp4kgg)｜2026-11-23｜播放 856｜新作手游（多款 키우기/放置）
 - 公开联系：mkt@metaplug.co.kr（来源 https://www.youtube.com/@%EB%AA%A8%EB%B0%94%EC%9D%BC%EA%B2%8C%EC%9E%84/about）
 - 适配理由：几乎日更新作手游实机，近期多款国产放置型 키우기 RPG、放置大亨首发试玩。
+- 发信注意：与 Ggyu tube 同一经纪邮箱 mkt@metaplug.co.kr：只发这一封
 - 局限：单条播放多为数百至 1K；邮箱为 MCN（metaplug）营销邮箱。
 
 ### 61. 훈TV — 第二推荐
@@ -1231,8 +1238,9 @@
 - 样例：[[세계수의 노래] 퇴근길 하기 좋은 개꿀 방치형 RPG 모바일게임](https://www.youtube.com/watch?v=RtvuFi0jQMY)｜2026-11-18｜播放 467｜세계수의 노래 等放置 RPG
 - 样例：[[세계수의 노래] 바쁜 사람도 부담 없이 즐기는 방치형 RPG 모바일게임](https://www.youtube.com/watch?v=0WFT4g7XdCs)｜2026-11-18｜播放 1726｜세계수의 노래 等放置 RPG
 - 样例：[좀비 슈팅부터 방치형 RPG까지! 모바일게임 추천 10가지](https://www.youtube.com/watch?v=Pd3k-3mFQsg)｜2026-11-08｜播放 9157｜세계수의 노래 等放置 RPG
-- 公开联系：ad@lolq.co.kr, lbc8748@naver.com（来源 https://www.youtube.com/@%EA%B2%9C%ED%94%8C%EB%A6%AC/about）
+- 公开联系：ad@lolq.co.kr（来源 https://www.youtube.com/@%EA%B2%9C%ED%94%8C%EB%A6%AC/about）
 - 适配理由：做“下班路上适合玩的放置 RPG 手游”和手游推荐合集，近期多条放置 RPG 实机。
+- 发信注意：只用「비지니스 문의 - ad@lolq.co.kr」；lbc8748@naver.com 原文标「개인문의」（私人），不用
 - 局限：邮箱之一为 MCN 广告邮箱 ad@lolq.co.kr；部分视频疑为商单。
 
 ### 73. IdleGamerYT — 第二推荐
@@ -2023,8 +2031,9 @@
 - 最近更新：2026-11-24 [GTA6が1日でアベンジャーズをこえた！？評判はどうなの？…AIだけでゲーム作って売上2億！？【今週のゲームニュース】](https://www.youtube.com/watch?v=A8Z5OLttlxs)
 - 样例：[放置ゲーってなんで売れてるのかさっぱりわからん…その裏側を解説します【杖と剣の伝説】](https://www.youtube.com/watch?v=ETtAsljm5uA)｜2026-07-25｜播放 134827｜杖と剣の伝説
 - 样例：[【50時間プレイレビュー】開発4人スタートのインディ放置ゲームを徹底分析【月ウサギのそだてかた】](https://www.youtube.com/watch?v=TWLhTpieWfU)｜2023-06-16｜播放 124012｜50時間プレイレビュー
-- 公开联系：nakaido@socialdiva.jp；中国合作 nakaido_youdao@163.com（来源 https://www.youtube.com/@nakaido/about）
+- 公开联系：nakaido@socialdiva.jp（来源 https://www.youtube.com/@nakaido/about）
 - 适配理由：游戏业界评论大号，做过放置ゲー专题分析（杖と剣の伝説 13 万、月ウサギのそだてかた 50 小时评测）。
+- 发信注意：只用「お仕事のご連絡：nakaido@socialdiva.jp」；另一个是「中国お仕事」专用，不用
 - 局限：以业界新闻评论为主，放置题材只是偶尔；近 30 天无放置视频。
 
 ### 139. ふつうのくま — 第三推荐
@@ -2175,6 +2184,7 @@
 - 样例：[ON CONTINUE L'AVENTURE SUR NORTHGARD BATTLEGROUNDS ! ／ Gameplay FR](https://www.youtube.com/watch?v=eTvjEjFgaEI)｜2026-11-13｜播放 960｜Northgard Battlegrounds
 - 公开联系：gobgg@thenode.gg（来源 https://www.youtube.com/watch?v=2FVa4Fdl-PE）
 - 适配理由：法语主播 GobGG 的录播副频道，近一月做自走棋 Dungeonbound、Northgard Battlegrounds 首测。
+- 发信注意：经纪方邮箱，可能回报价
 - 局限：主做英雄联盟；订阅 2.14K；邮箱为经纪 thenode.gg，取自视频说明；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
 ### 152. Dreamer — 第三推荐
