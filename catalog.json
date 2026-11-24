@@ -19214,14 +19214,14 @@
     },
     {
       "id": "steam-store-gif-updates-20261124-r90",
-      "title": "Steam 详情页动图 · 修订90",
+      "title": "Steam 详情页动图 · 修订90–91",
       "category": "封面与视觉",
       "group": "详情页图片",
       "date": "2026-11-24",
-      "dateBasis": "Steam修订90发布回执（11-24 10:41）及11-24匿名十语商店页引用核对",
+      "dateBasis": "Steam修订90（11-24 10:41）、修订91（11-24 11:15）发布回执及11-24匿名十语商店页引用核对",
       "status": "已发布 · 十语",
-      "summary": "更新十语详情页共14处动图引用、7张新素材：开箱、阵容搭配和试炼之塔，均为c86开发版实机录制。",
-      "body": "商店修订90把简中、繁中的03开箱、06阵容搭配、09试炼之塔三节换成本语新动图；其他八种语言的06阵容搭配换成新的英文动图，03、09两节这次没有新英文版，保持原来的英文图。共14处引用、7张新素材，详情页文字未改，旧素材未删。11-24匿名读取十语商店页：简中新图在第3、6、9张，繁中在第2、5、8张，其他八语的阵容图在第5张；逐张抽帧看过，界面语言正确。动图以Steam公开地址引用，网页不另存副本。03、09两节的英文新版另行更新。",
+      "summary": "更新十语详情页共30处动图引用、9张新素材：开箱、阵容搭配和试炼之塔，均为c86开发版实机录制；简繁用本语图，其他八语用英文图。",
+      "body": "商店修订90把简中、繁中的03开箱、06阵容搭配、09试炼之塔三节换成本语新动图；其他八种语言的06阵容搭配换成新的英文动图，03、09两节这次没有新英文版，保持原来的英文图。共14处引用、7张新素材，详情页文字未改，旧素材未删。11-24匿名读取十语商店页：简中新图在第3、6、9张，繁中在第2、5、8张，其他八语的阵容图在第5张；逐张抽帧看过，界面语言正确。动图以Steam公开地址引用，网页不另存副本。商店修订91（11-24 11:15）再把其他八种语言的03开箱、09试炼之塔换成新的c86英文动图，每语2处、共16处，文字未改，简中、繁中未动。11-24匿名重读十语商店页：八语的开箱在第2张、试炼在第8张，阵容仍在第5张；简繁位置不变；新图抽帧为英文界面。至此三节全部上线：简中、繁中用本语图，其他八语用英文图。",
       "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/1aa6a93a8faa38bdc9402c16cf55709a.poster.avif?t=1795488158",
       "files": [
         {
@@ -19272,6 +19272,20 @@
           "type": "video",
           "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/3ce8488650b18efd6d916c8b8f65a696.poster.avif?t=1795488158",
           "sourceGifSha256": "4c01ba4a95bd41bcaa54e7a9410e8757afea3c7906ca7cc05c1aee9092259fda"
+        },
+        {
+          "name": "英文 · 开箱（03节，其他七语共用）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/fc59bcac6f70fe3822b1fc8fda8abda2.mp4?t=1795490159",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/fc59bcac6f70fe3822b1fc8fda8abda2.poster.avif?t=1795490159",
+          "sourceGifSha256": "606cd169488964010a3fc83c4dc1e1101846c9d0cac21e303d77867e93235f75"
+        },
+        {
+          "name": "英文 · 试炼之塔（09节，其他七语共用）",
+          "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/5be6d471cf715349e7b86a9d9c49b7f8.mp4?t=1795490159",
+          "type": "video",
+          "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/5be6d471cf715349e7b86a9d9c49b7f8.poster.avif?t=1795490159",
+          "sourceGifSha256": "085e8c715e80e2f5e0bd90b96c887b724023618673d97896b898e10e0e03ff9c"
         }
       ],
       "links": [
