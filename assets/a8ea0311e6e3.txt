@@ -1,0 +1,43 @@
+Contenido del juego completo: tras la etapa 800, épocas, Difícil y Pesadilla
+发布日期：2026-11-25 12:00（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981267859?l=spanish
+
+[b]Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo![/b]
+
+¡Hola a todos! Soy Juanmao.
+
+¡El juego completo sale el 3 de diciembre! ¡Quedan 8 días! Con el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes alguna idea sobre el Mercado, déjala en los comentarios.
+
+Hoy toca contenido del juego completo, que no está en la demo. Muchos me han preguntado qué hay después de la etapa 800 de la demo, así que hoy hablamos de eso.
+
+[h2]Una época cada 200 etapas, 10 en total[/h2]
+En el juego completo, la línea principal se divide en épocas de 200 etapas: 10 épocas y 2000 etapas en total. Cuando vences al jefe de la última etapa de una época, pasas a la siguiente: enemigos más duros, pero también más ingresos.
+La etapa 800 a la que llegas en la demo es justo el final de la 4.ª época. El juego completo empieza otra vez desde la etapa 1, y después todavía quedan 6 épocas.
+
+[h2]Vence al jefe de la época y abre el Grado Difícil y el Grado Pesadilla[/h2]
+Además del Grado Normal, cada época tiene Grado Difícil y Grado Pesadilla:
+[list]
+[*]Grado Difícil: se abre al vencer el Desafío de jefe de esa época;
+[*]Grado Pesadilla: luego ve a la pestaña «Épocas» de la Academia, pulsa «Iniciar prueba» y vence la prueba de época. El jefe es el mismo, pero pelea con más mañas, y al pasar el ratón por el botón ves la Fuerza recomendada.
+[/list]
+Cuando ganas, la pantalla de resultados muestra «Grado Difícil abierto» o «Grado Pesadilla abierto». Un grado abierto ya no se vuelve a cerrar, y tampoco te borra el progreso que ya tenías.
+[img]{STEAM_CLAN_IMAGE}/46216320/fe578e7fda04354bf75c78c0e9632f9fa4b05eaf.png[/img]
+[img]{STEAM_CLAN_IMAGE}/46216320/e508fb811ddc4736db3a4d22d1ec2e9674f055f0.png[/img]
+
+[h2]Ya abiertos: otra forma de jugar, otra vuelta[/h2]
+El Grado Difícil y el Grado Pesadilla tienen cada uno su propia línea de etapas, y se cambian en la esquina inferior derecha del mapa del capítulo, en Campaña. Al cambiar, esa época se vuelve a empezar desde su primera etapa.
+Los enemigos son los mismos, pero más fuertes, y el combate empieza con una regla extra. Pasa el ratón por los botones de grado de abajo a la derecha para verla. Por ejemplo, en la 1.ª época el Grado Difícil tiene «Los enemigos concentran el fuego en una columna: separa a tu equipo». El Grado Pesadilla añade una condición más, y además el jefe levanta un muro de escudos en primera fila al empezar. Así que no basta con subir la Fuerza: toca cambiar la formación y la forma de pensar.
+En las etapas que ya superaste, si las farmeas en automático, el botín se calcula según ese grado, mejor que en el Grado Normal; y cada etapa también da recompensa la primera vez que la superas.
+[img]{STEAM_CLAN_IMAGE}/46216320/f4f4d87d193fff303da0dacd24d233f498c98aa9.png[/img]
+
+[h2]El Archivo de época en la Academia[/h2]
+En la pestaña «Épocas» de la Academia, cada época tiene su propio archivo, válido solo en las etapas de esa época. El archivo tiene tres líneas: Recoger, Botín e Inactivo. Eliges una como Foco; el Foco lo puedes cambiar cuando quieras, y solo el Foco llega al máximo. Si quieres subir mucho el archivo, primero tienes que abrir el Grado Difícil y el Grado Pesadilla de esa época.
+[img]{STEAM_CLAN_IMAGE}/46216320/679418d770e775d106d57d3e6dde8ed08a88d6df.png[/img]
+
+En resumen: el juego completo tiene 10 épocas, y las 800 etapas de la demo son solo las cuatro primeras. Cada época que terminas te abre además el Grado Difícil y el Grado Pesadilla, para volver a jugarla de otra manera. Los números concretos todavía se están ajustando antes del lanzamiento, así que por ahora no los pongo aquí.
+
+Si hay algo más que quieras que te explique o algo que no se entienda, pregúntame en los comentarios. También puedes unirte a nuestro [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Si te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+[url=https://store.steampowered.com/app/5257220/]Juega la demo gratis[/url] | [url=https://store.steampowered.com/app/4855890/]Añade el juego completo a tu lista de deseados[/url]

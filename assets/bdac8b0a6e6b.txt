@@ -1,0 +1,43 @@
+Inhalt der Vollversion: nach Etappe 800 – Epochen, Schwer- und Albtraum-Grad
+发布日期：2026-11-25 12:00（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981267859?l=german
+
+[b]So wichtig, dass ich es dreimal sage: Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen![/b]
+
+Hallo zusammen, hier ist Juanmao.
+
+Die Vollversion erscheint am 3. Dezember! Noch 8 Tage! Mit der Vollversion öffnet der Steam-Community-Markt~ Wenn ihr Gedanken zum Markt habt, schreibt sie gern in die Kommentare.
+
+Hier geht's um Inhalte der Vollversion, in der Demo gibt's das nicht. Viele haben gefragt, was nach Etappe 800 in der Demo noch kommt – darum geht's heute.
+
+[h2]Alle 200 Etappen eine Epoche, insgesamt 10[/h2]
+In der Vollversion bilden je 200 Etappen der Hauptkampagne eine Epoche – insgesamt 10 Epochen und 2000 Etappen. Besiegt ihr den Boss in der letzten Etappe einer Epoche, geht's in die nächste: stärkere Gegner, aber auch mehr Einkommen.
+Etappe 800, bis zu der die Demo reicht, ist genau die letzte Etappe der 4. Epoche. Die Vollversion startet wieder bei Etappe 1, und dahinter warten noch 6 weitere Epochen.
+
+[h2]Epochenboss besiegen, Schwer-Grad und Albtraum-Grad freischalten[/h2]
+Jede Epoche hat neben dem Normal-Grad auch einen Schwer-Grad und einen Albtraum-Grad:
+[list]
+[*]Schwer-Grad: wird frei, sobald ihr die Bossherausforderung dieser Epoche gewinnt;
+[*]Albtraum-Grad: Danach geht ihr in der Akademie auf den Tab „Epochen“, drückt den Button „Prüfung starten“ und müsst die Epochenprüfung gewinnen. Der Boss ist derselbe, aber der Kampf ist fieser, und fahrt ihr mit der Maus über den Button, seht ihr die Kampfkraft-Empfehlung.
+[/list]
+Nach dem Sieg steht auf dem Ergebnisbildschirm „Schwer-Grad entsperrt“ oder „Albtraum-Grad entsperrt“. Ein freigeschalteter Grad wird nie wieder gesperrt und löscht auch euren bisherigen Fortschritt nicht.
+[img]{STEAM_CLAN_IMAGE}/46216320/bdb271a942938035ef8995504851c81dbeb795ff.png[/img]
+[img]{STEAM_CLAN_IMAGE}/46216320/7ecccc8d5a72e7b237cb5afeb8b2b63a2b0f431e.png[/img]
+
+[h2]Danach: neue Taktik, alles nochmal schaffen[/h2]
+Schwer-Grad und Albtraum-Grad haben jeweils eine eigene Etappenlinie, umschalten könnt ihr unten rechts auf der Kapitelkarte. Nach dem Umschalten geht's in dieser Epoche wieder ab ihrer ersten Etappe los.
+Die Gegner sind dieselben, aber stärker, und zum Start gilt eine Regel mehr. Fahrt ihr unten rechts mit der Maus über die Umschalt-Buttons, seht ihr sie. Im Schwer-Grad der 1. Epoche lautet sie zum Beispiel: „Feinde konzentrieren Fokusfeuer auf eine Spalte – verteile dein Team.“ Im Albtraum-Grad kommt noch eine Aufgabe dazu, und der Boss errichtet zu Beginn außerdem einen Schildwall in der vorderen Reihe. Nur Kampfkraft stapeln reicht also nicht – ihr müsst Aufstellung und Plan ändern.
+Wenn ihr geschaffte Etappen im Leerlauf spielt, richtet sich die Beute nach diesem Grad und ist besser als im Normal-Grad. Außerdem gibt's für jede Etappe beim ersten Abschluss eine Erstabschluss-Belohnung.
+[img]{STEAM_CLAN_IMAGE}/46216320/b4b474f8df351294b6b359125f93b94668f8a259.png[/img]
+
+[h2]Das Epochenarchiv in der Akademie[/h2]
+Auf dem Tab „Epochen“ in der Akademie hat jede Epoche ein eigenes Epochenarchiv, das nur für die Etappen dieser Epoche gilt. Ein Archiv hat drei Linien: „Sammeln“, „Beute“ und „Leerlauf“. Eine davon wählt ihr als Fokus. Den Fokus könnt ihr jederzeit wechseln, aber nur der Fokus erreicht die Höchststufe. Wer das Archiv weiter hochstufen will, muss zuerst Schwer-Grad und Albtraum-Grad dieser Epoche freischalten.
+[img]{STEAM_CLAN_IMAGE}/46216320/b12beb52ad8ea05d8d26af885859aa287d08a649.png[/img]
+
+Kurz zusammengefasst: Die Vollversion hat 10 Epochen, die 800 Etappen der Demo sind nur die ersten vier. Nach jeder Epoche könnt ihr noch Schwer-Grad und Albtraum-Grad freischalten und mit neuer Taktik nochmal durchspielen. Die genauen Werte werden bis zum Release noch angepasst, deshalb lasse ich sie hier erstmal weg.
+
+Worüber soll ich noch schreiben, und was ist euch unklar? Fragt mich gern in den Kommentaren. Kommt auch gern auf unseren [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+[url=https://store.steampowered.com/app/5257220/]Kostenlose Demo spielen[/url] | [url=https://store.steampowered.com/app/4855890/]Vollversion auf die Wunschliste setzen[/url]

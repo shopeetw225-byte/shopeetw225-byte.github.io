@@ -1,0 +1,43 @@
+Full game content: past stage 800 – epochs, Hard tier and Nightmare tier
+发布日期：2026-11-25 12:00（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981267859?l=english
+
+[b]Important enough to say three times: Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game![/b]
+
+Hi everyone, Juanmao here.
+
+The full game launches on December 3! Just 8 days to go! The Steam Community Market will open with the full game~ If you have any thoughts about the Market, feel free to leave them in the comments.
+
+This one is about full game content, so none of it is in the Demo. A lot of you asked what comes after stage 800 in the Demo, so let's talk about that today.
+
+[h2]One epoch every 200 stages, 10 in all[/h2]
+In the full game, every 200 stages of the main campaign make one epoch: 10 epochs, 2000 stages in total. Beat the boss on the last stage of an epoch and you move into the next one, with tougher enemies and more income.
+Stage 800, where the Demo ends, is exactly the last stage of the 4th epoch. The full game starts over from stage 1, and there are 6 more epochs beyond that.
+
+[h2]Beat the epoch boss, unlock the Hard tier and Nightmare tier[/h2]
+Besides the Normal tier, every epoch also has a Hard tier and a Nightmare tier:
+[list]
+[*]Hard tier: unlocks once you beat this epoch's Boss Challenge;
+[*]Nightmare tier: then go to the "Epochs" tab in the Academy, hit "Start Trial" and beat the epoch trial to unlock it. Same boss, but a nastier fight, and hovering over the button shows the recommended power.
+[/list]
+Once you win, the results screen says "Hard tier unlocked" or "Nightmare tier unlocked". An unlocked tier never locks again, and it won't wipe your existing progress either.
+[img]{STEAM_CLAN_IMAGE}/46216320/a51a937c0cb4ebcff0d353730301297b92ce1824.png[/img]
+[img]{STEAM_CLAN_IMAGE}/46216320/1037d68a95734b179674027be1bf17d5a00f1679.png[/img]
+
+[h2]Once unlocked: new tactics, push it all again[/h2]
+The Hard tier and Nightmare tier each have their own stage line, and you switch at the bottom right of the chapter map. Once you switch, you push that epoch again from its first stage.
+Same enemies, but stronger, and every fight starts with one extra rule. Hover over the tier buttons at the bottom right to see it. For example, in epoch 1 the Hard tier rule is "Enemies focus fire on one column — spread your team out." The Nightmare tier adds one more twist, and the boss also puts up a front-row shield wall at the start. So just stacking power won't cut it. You'll need a new formation and a new plan.
+When you idle on stages you've pushed through, drops follow that tier, and they're better than on the Normal tier. Every stage also gives a first-clear reward the first time you beat it.
+[img]{STEAM_CLAN_IMAGE}/46216320/28ad72a772ffa729300cfaf47d96a86d7da72548.png[/img]
+
+[h2]The Epoch Archive in the Academy[/h2]
+On the Academy's "Epochs" tab, each epoch has its own Epoch Archive, which only works on that epoch's stages. An archive has three lines: Collect, Loot and Idle. Pick one as your Major. You can switch your Major anytime, but only the Major can max out. To level an archive higher, you first need to unlock that epoch's Hard tier and Nightmare tier.
+[img]{STEAM_CLAN_IMAGE}/46216320/e79811823e72cbb0623724d7efcee03ba3f4447d.png[/img]
+
+To sum up: the full game has 10 epochs, and the Demo's 800 stages are just the first four. Once you finish an epoch, you can still unlock its Hard tier and Nightmare tier and push through again with new tactics. The exact numbers are still being tuned before launch, so I'll leave them out for now.
+
+If there's anything else you'd like me to cover, or anything that isn't clear, feel free to ask me in the comments. You're also welcome to join us on [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url] | [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]

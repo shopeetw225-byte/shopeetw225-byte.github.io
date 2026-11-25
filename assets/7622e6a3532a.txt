@@ -1,0 +1,85 @@
+Point dev : notes d'étape, nouveau tutoriel, la Forge et plus encore
+发布日期：2026-11-18 16:14（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981266515?l=french
+
+[b]C'est important, alors je le dis trois fois : la progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ![/b]
+
+Bonjour à tous, ici Juanmao.
+
+Le jeu complet sort le 3 décembre ! Le Marché de la communauté Steam ouvrira avec le jeu complet~ Si vous avez des idées sur le Marché, laissez-les en commentaire.
+
+Cette semaine, la version de développement a encore pas mal bougé ; je vous présente ce que vous remarquerez le plus. Une précision d'abord : tout ce qui suit se trouve dans la version de développement, et les images sont toutes tirées de la version de développement. La démo téléchargeable en ce moment ne contient encore rien de tout ça. Les chiffres sont aussi encore en cours d'ajustement : c'est le jeu complet qui fera foi.
+
+[h2]Notes d'étape : chaque étape a sa note[/h2]
+Chaque fois que vous gagnez une étape de la campagne principale, vous recevez une note de C à SSS selon la propreté de votre victoire. Gagner dès le tour 1, c'est SSS ; le nombre de tours et le fait que quelqu'un tombe ou non décident des paliers SS, S, A et des autres.
+L'écran de résultats indique clairement ce qui manque pour le palier suivant, par exemple gagner en 1 tour pour obtenir SSS, et si vous battez votre ancienne note, « Record battu » s'allume.
+Sur la carte, chaque étape affiche sa lettre, et le panneau du chapitre montre combien d'étapes vous avez dans chaque palier ; avec les 10 étapes d'une zone en SSS, le drapeau de la zone devient doré. Un chapitre entièrement noté A ou plus, et entièrement noté S ou plus, donne chaque fois une récompense unique.
+Pour remonter d'anciennes étapes, il y a « Améliorer » : en partant de l'étape la moins bien notée, un combat par étape, jusqu'à atteindre le S, le SS ou le SSS que vous avez choisi.
+[img]{STEAM_CLAN_IMAGE}/46216320/e1e6dfb2c2f422f9d1c39a1063873cc07958e864.png[/img]
+
+[h2]Tutoriel : on vous explique au fur et à mesure[/h2]
+Le tutoriel a été entièrement réécrit : dès qu'une fonction s'ouvre, un personnage vient l'expliquer en une courte leçon, puis vous la fait essayer une fois. La plupart du temps, c'est le Lancier vétéran qui s'en charge.
+Toutes les leçons et fiches d'explication déjà vues sont rangées dans le « Carnet de Lancier vétéran ». Un bouton Carnet se trouve en haut à droite de la Forteresse : si vous oubliez quelque chose, feuilletez-le quand vous voulez. Les fonctions pas encore ouvertes y ont déjà leur page, qui indique après quelle étape et qui viendra les expliquer.
+Le premier combat explique aussi davantage : la première fois qu'une Spécialité se déclenche, le jeu fait une pause pour vous montrer où accélérer, où consulter le Journal et dans quel coffre arrive votre butin.
+Si vous ne voulez pas du tutoriel, vous pouvez le passer au début, et les « Conseils de guidage » s'activent ou se désactivent à tout moment dans les Paramètres.
+[img]{STEAM_CLAN_IMAGE}/46216320/6c70f721bb8de0cf6531098b95308ffc7c411d85.png[/img]
+
+[h2]Forge : tout l'équipement au même endroit[/h2]
+[list]
+[*]La Forge a maintenant une rangée d'onglets à gauche : « Équip. », « Matériaux », « Façonner », « Coffres », « Recyclage », « Garantie ». L'ancien Arsenal indépendant y a aussi été intégré.
+[*]L'ouverture des coffres a une nouvelle animation : le loquet saute, le couvercle se soulève et une colonne de lumière jaillit ; un clic suffit pour passer en avance rapide. Quand il y a beaucoup de butin, la liste défile dans le panneau sans cacher le bouton « Récupérer ».
+[*]« Façonner » s'ouvre sur un aperçu des ensembles, réparti en trois onglets : Ensembles généraux, Ensembles de classe et Pièces légendaires. Vous pouvez filtrer ce qui convient au premier héros de votre équipe engagée, ou afficher « Mes ensembles ».
+[*]Dans l'entrepôt, l'équipement porté reçoit un petit tampon avec le nom de son porteur. Quand l'argent manque, le bouton devient gris et indique directement s'il vous manque de l'or ou du Minerai de cristal, et combien.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/cf3d2ce241ff520a02001c71bd3f3a165fb523b8.png[/img]
+
+[h2]Équipement légendaire et Maîtrise d'ensemble[/h2]
+[list]
+[*]L'équipement légendaire peut désormais tomber en double et, quelle que soit sa provenance, il commence à la gamme 1. Une Pièce légendaire d'ensemble se nourrit, dans « Élever » à la Forge, de doublons du même ensemble et du même emplacement, jusqu'à la gamme 6 ; les Légendaires isolés en double sont fusionnés automatiquement.
+[*]Les Légendaires isolés peuvent maintenant aussi passer au Polissage et être remodelés.
+[*]Maîtrise d'ensemble : démontez des pièces d'ensemble ordinaires ou des Pièces légendaires d'ensemble pour accumuler la maîtrise de cet ensemble, jusqu'au niveau 10. Chaque niveau renforce encore de 1 % les effets 2 et 4 pièces de l'ensemble.
+[*]S'il vous manque juste un peu pour monter, vous pouvez aussi dépenser des Matériaux de démontage pour « Infuser » de la maîtrise dans un ensemble. L'infusion ne fait toutefois que compléter un peu : le démontage reste la voie principale. La maîtrise se consulte sur la page du héros, dans « Ensembles et stats ».
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/b39dea418963c66c81ec2eccff243996d62cc34c.png[/img]
+
+[h2]Recherche et bâtiments : moins de surveillance[/h2]
+[list]
+[*]Un seul emplacement peut maintenant enchaîner jusqu'à 10 niveaux d'une même voie de recherche : plus besoin de revenir cliquer niveau par niveau.
+[*]Après l'étape 400, vous pouvez apprendre « Recherche Auto » : dès que la file est vide, elle y place automatiquement le prochain niveau le moins cher parmi les voies de recherche que vous pouvez payer. Si vous n'en voulez pas, désactivez-la sur la page « Voies de recherche ».
+[*]La barre de progression de la recherche est cliquable : chaque clic retire un peu de temps de recherche, maintenez pour cliquer en continu, et c'est gratuit.
+[*]À partir du niveau 50, les bâtiments peuvent passer au Raffinage, 10 paliers en tout, avec de l'or et du Minerai de cristal : la Mine d'or, le Terrain d'entraînement et les autres rapportent plus, et l'Académie réduit le temps de recherche. Les niveaux 45 à 50 coûtent aussi un peu moins cher.
+[*]Tous les 5 niveaux, un bâtiment donne un petit bonus : par exemple, au niveau 35, la Mine d'or et le Terrain d'entraînement offrent un Poste gratuit de plus.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/9c3186e3d6edd69978e814e53c5b401a0439d678.png[/img]
+
+[h2]Fin de partie : Esprits gardiens jusqu'au grade 8, Mégastructures à l'étape 1200[/h2]
+Le grade max des Esprits gardiens passe de 5 à 8 : le grade 6 ajoute une case de glyphe, le grade 7 renforce l'aura, le grade 8 augmente le bonus de parenté. Si l'aura de votre équipe engagée est déjà au plafond, le jeu vous prévient à l'avance que le bonus d'aura du grade 7 ne servira pas, pour que vous ne montiez pas pour rien.
+Après l'étape 1200, l'Académie permet de construire des « Mégastructures » : la Grande Bourse, l'Office d'entraînement, le Bureau des trésors et le Grand Dépôt. Elles augmentent respectivement le quota horaire de vente d'or, les revenus de Perspicacité et de Pierres de rang, le butin d'équipement au repos et la capacité des bâtiments. Chaque niveau donne +5 %, et vous pouvez déjà les découvrir dès l'étape 1000.
+[img]{STEAM_CLAN_IMAGE}/46216320/16ce29204c125594ff50f3bac5b670e5de60f92e.png[/img]
+
+[h2]Autres changements[/h2]
+[list]
+[*]La page « Compét. » des héros affiche maintenant une liste à gauche et les détails à droite, avec la variation des valeurs après amélioration indiquée directement. La page « Équip. » devient un cercle de six cases, avec « Tout retirer » et un accès direct à la Forge.
+[*]Dans « Équipe », placer un héros en cliquant ou en le faisant glisser suit désormais les mêmes règles ; si vous passez de l'équipe à la page d'un héros puis revenez, vous restez sur le héros que vous regardiez ; les touches numériques changent de page sur tous les écrans.
+[*]Dans le « Rapport » d'un combat, cliquez sur la rangée de portraits en haut pour changer de héros. L'Effectif est désormais trié par défaut par étoiles, puis par niveau.
+[*]Une fois éveillée, la Reine de la cour des os inflige des dégâts sur la durée dont chaque tic fait plus mal que le précédent, et les relancer ne les remet pas à zéro.
+[*]Aux étapes 1600, 1800 et 2000 et aux épreuves d'ère correspondantes, les PV et l'attaque des ennemis ont un peu baissé : ces murs devraient être un peu plus faciles à passer.
+[*]À partir de l'étape 801, le butin et la fabrication d'équipement ordinaire montent au maximum à la gamme 5 ; la gamme 6 est réservée à l'équipement légendaire.
+[*]Le jeu fait maintenant des sauvegardes auto échelonnées (une de 5 minutes, une de 30 minutes, une de 3 heures). Quitter un combat libère les ressources des gros plans d'ultime, et la mini-fenêtre de combat ne fait plus de rendu une fois réduite : l'idle consomme moins de ressources.
+[/list]
+
+[h2]Encore en chantier[/h2]
+Ce qui suit est encore en cours de développement, et même la version de développement n'en a pas encore de version entièrement jouable ; voici donc juste la direction :
+[list]
+[*]Refonte de la Tour des épreuves : progression chapitre par chapitre, sans sommet final.
+[*]L'Arène.
+[*]Des lignes d'étapes et des notes séparées pour les difficultés Difficile et Cauchemar.
+[*]Les Ensembles Steam, les héros exclusifs Steam et le fait d'apporter dans le jeu des objets de votre inventaire Steam sont encore en test interne. Leur date d'ouverture sera annoncée séparément.
+[/list]
+Le jeu complet prévoit d'inclure la Tour des épreuves et l'Arène. Je vous en reparlerai quand ça aura avancé.
+
+Parmi ces changements, lequel avez-vous le plus envie d'essayer en premier, et qu'est-ce qui vous semble bizarre ? Dites-le-moi en commentaire. Vous pouvez aussi nous rejoindre sur [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+[url=https://store.steampowered.com/app/5257220/]Jouer à la démo gratuite[/url] | [url=https://store.steampowered.com/app/4855890/]Ajouter le jeu complet à votre liste de souhaits[/url]

@@ -1,0 +1,47 @@
+Leitfaden für Aktionäre: Agentur führen – Akademie zuerst, Eilauftrag nutzen
+发布日期：2026-11-24 10:09（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=german
+
+[b]So wichtig, dass ich es dreimal sage: Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen![/b]
+
+Hallo zusammen, hier ist Juanmao.
+
+Die Vollversion erscheint am 3. Dezember! Noch 9 Tage! Mit der Vollversion öffnet der Steam-Community-Markt~ Wenn ihr Gedanken zum Markt habt, schreibt sie gern in die Kommentare.
+
+Neben dem Vorrücken lohnt sich auch ein kurzer Blick in Festung und Akademie. Hier ein paar Dinge, die nur Sekunden kosten und euch Arbeit sparen. Vorweg drei Namen, die man leicht verwechselt: „Aufträge“ sind die Jobs in der Taverne, auf die ihr Helden schickt, um Legenden-Rekrutierungsgutscheine zu sammeln (darum ging es vor ein paar Tagen); die Auto-Entsendung bringt den Ertrag, der im Feldzug beim Farmen die ganze Zeit läuft (nicht die Forschung „Auto-Entsendung“, die Tavernenhelden neu losschickt); und der „Eilauftrag“ ist ein Knopf auf der Feldzug-Seite, der euch auf einen Schlag einen Teil vom Ertrag der Auto-Entsendung gibt.
+
+[h2]Kosten reichen nicht? Agenturhalle ausbauen[/h2]
+Die Kosten der Helden im Einsatz dürfen zusammen das Kostenlimit nicht überschreiten, und das Kostenlimit steigt vor allem, wenn ihr die Agenturhalle ausbaut. Fahrt in der oberen Leiste der Festung mit der Maus über „Kosten“, dann steht da, ab welcher Hallenstufe das Kostenlimit steigt und von wie viel auf wie viel.
+Andere Gebäude dürfen auch nicht höher als die Halle sein. Geht es nicht weiter, steht da „Erfordert Agenturhallenstufe N“. Für die Halle selbst müsst ihr in den Etappen vorankommen.
+[img]{STEAM_CLAN_IMAGE}/46216320/37bba3207ddb7c80be6745a4ab0045e1ca651ee9.png[/img]
+
+[h2]Akademie ab Etappe 18: zuerst „Herold“[/h2]
+Die Akademie öffnet ab Etappe 18. Für alle Forschungen im Zweig „Automatik“ braucht ihr zuerst den „Herold“. Er selbst lässt vorab einen roten Punkt aufleuchten, wenn das Lager eines Gebäudes fast voll ist.
+Ab Akademiestufe 3 gibt es „Einreihen“:
+[list]
+[*]Läuft eine Forschung noch, könnt ihr die nächste schon einreihen. Bezahlt wird beim Einreihen, mit „Reihe abbrechen“ bekommt ihr es zurück.
+[*]Ist die vorige fertig, startet die eingereihte sofort. Auch offline, und zwar ab dem Moment, in dem die vorige fertig wurde.
+[*]Je höher die Akademiestufe, desto länger die Reihe. Ab Stufe 5 könnt ihr sogar zwei gleichzeitig lernen.
+[/list]
+Füllt also vor dem Ausloggen die Reihe, dann sind beim Zurückkommen gleich mehrere fertig.
+[img]{STEAM_CLAN_IMAGE}/46216320/e79230bd54a71f0f8f33619feff5aab418b0255d.gif[/img]
+
+[h2]Eilauftrag: einmal pro Stunde drücken[/h2]
+Auf der Feldzug-Seite gibt es den Knopf „Eilauftrag“. Ein Klick, und ihr bekommt sofort einen Teil vom Ertrag der Auto-Entsendung. Er lädt 1 Ladung pro Stunde auf und speichert höchstens 1 – ist er voll, kommt nichts mehr dazu. Am meisten holt ihr raus, wenn ihr einmal pro Stunde vorbeischaut und drückt. Auf dem Knopf steht „Bereit 1/1“ oder wie lange es noch dauert.
+[img]{STEAM_CLAN_IMAGE}/46216320/802c3c10f21c212c209cf227aa31e1a0b895cd4e.png[/img]
+
+[h2]Keine Lust zu klicken? „Auto-Eile“ lernen[/h2]
+In der Automatik der Akademie folgt auf „Herold“ zuerst „Verbesserter Durchlauf“ und danach „Auto-Eile“, die ihr ab Etappe 60 lernen könnt. Habt ihr sie, wird ein voller Eilauftrag, der beim Farmen oder offline einfach liegen bleibt, nach einer Weile automatisch für euch abgeholt.
+[list]
+[*]Automatisch abgeholt gibt es etwas weniger. Drückt ihr kurz nach dem Volllaufen selbst, bekommt ihr weiterhin den vollen Betrag.
+[*]Danach kommen noch „Auto-Eile II“ und „Auto-Eile III“, jede Stufe holt automatisch mehr ab. Mit III ist es genauso viel wie per Hand.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/e99a77c3feec24f3488700eb40cb193214e297b2.png[/img]
+
+Kurz zusammengefasst: Kosten reichen nicht – Halle ausbauen; in der Akademie zuerst Herold; vor dem Ausloggen die Forschungsreihe füllen; den Eilauftrag einmal pro Stunde drücken; und wer keine Lust hat, lernt Auto-Eile.
+
+Worüber soll ich noch schreiben, und was ist euch unklar? Fragt mich gern in den Kommentaren. Kommt auch gern auf unseren [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+[url=https://store.steampowered.com/app/5257220/]Kostenlose Demo spielen[/url] | [url=https://store.steampowered.com/app/4855890/]Vollversion auf die Wunschliste setzen[/url]

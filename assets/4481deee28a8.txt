@@ -1,0 +1,58 @@
+Shareholder onboarding: stuck on a stage? Read the exam, then bring the key
+发布日期：2026-11-20 10:05（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981266810?l=english
+
+[b]Important enough to say three times: Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game![/b]
+
+Hi everyone, Juanmao here.
+
+The full game launches on December 3! Just 13 days to go! The Steam Community Market will open with the full game~ If you have any thoughts about the Market, feel free to leave them in the comments.
+
+Still not an update this time. Let's talk about what to do when you're stuck in the Demo. A lot of the stages you can't beat aren't about low power: you just haven't solved that stage's “exam”.
+
+[h2]Before the fight, check Pre-Battle Recon[/h2]
+On the Formation screen, click the round portrait badge in the enemy column and “Pre-Battle Recon” pops up. It also pops up on its own before main-story battles; if you've already seen the same enemy lineup in the same chapter it won't pop up again, but after a loss it always shows when you retry.
+It lists this stage's exams, for example “Thorns”: enemies reflect part of your basic-attack damage back at you. Once the fight starts you can't see it anymore, so take a look before you go in.
+Once you've cleared stage 28, each exam also says which “key” you should bring; after stage 33, it marks whether your squad has it too: a green check means you've got an answer, a red circle means not yet. If your whole squad can't answer a single exam, the power line turns red and reads “This squad has no answer to this exam”.
+[img]{STEAM_CLAN_IMAGE}/46216320/4e195977bfe82d316362be909179bcc7fcbdfb04.png[/img]
+
+[h2]Which key answers which exam[/h2]
+[list]
+[*]Execute → Execute Ward
+[*]Thorns → Thorn Ward
+[*]Healing → Wounding Hits
+[*]Silence → Silence Ward
+[*]Morale Drain → Hit Morale or Starting morale
+[*]Shields → Penetration
+[/list]
+Execute Ward, Thorn Ward, Wounding Hits and Silence Ward: one person on the team carrying it is enough to cut 60% for the whole team. Penetration and morale only count for the hero carrying them.
+Some classes and heroes come with an answer built in. The “Who counters” button on the Recon panel shows who on your bench fits.
+
+[h2]In the Demo, get your keys custom-made at the Blacksmith[/h2]
+Execute Ward, Thorn Ward, Wounding Hits, Silence Ward and Penetration: these five never roll randomly and never drop. The only way to get them is a custom order at the Blacksmith.
+The Blacksmith opens at stage 15, and custom orders have no other requirement: on the “Forge” tab, pick a blueprint, click “Custom affix” and lock one affix; the rest roll randomly as usual. A custom order costs 5 times a normal forge, and key affixes also take Chapter Materials, more the further the chapter.
+If you lose to the same stage's exam twice and can already forge the key, a guide card walks you to the Blacksmith to forge it, then equip it.
+In the full game, gear gets a full overhaul and the way you get keys will change with it. When the time comes, just follow the hints in the game.
+[img]{STEAM_CLAN_IMAGE}/46216320/c166dfbb133375cf79c1c48a681a76f197af4e7c.png[/img]
+
+[h2]Lost? Read that one line on the result card first[/h2]
+After a main-story loss, the result card sums up in one line where you mainly lost: someone got dropped by a single hit early on, your back line got wiped in one move, your skills got cut off by silence or morale drain, or you got worn down in the decisive phase. If the stage's exam beat you, it says so outright and tells you what to bring next time.
+The game also runs a trial to see whether “just one change” would win: moving one hero, swapping two, or fielding someone from the bench in place of another. If the trial wins, the title changes to “One change away”, with an “Apply” button next to it. Click it and the change is made, but you still start the fight yourself.
+[img]{STEAM_CLAN_IMAGE}/46216320/c87da88f7f65c14491a3ccbb98a8cf117817828e.png[/img]
+
+[h2]Battle Log: who did how much[/h2]
+Open the Battle Log during a fight to see the Damage, Healing, Taken, Shield, Morale and Control rankings, and the fight keeps going while you look. Hover over a row to see who that hero mostly hit, how much extra their buffs added, and who most of it came from.
+Click in for the full report: you can see the trend, drag to select rounds, and flip through each hero one by one. After a loss, “View Stats” on the result card opens it too.
+[img]{STEAM_CLAN_IMAGE}/46216320/a0e51ece83cd1b6a8b5d7c587b0beed82ae5ddcf.png[/img]
+
+[h2]Losing costs you nothing[/h2]
+[list]
+[*]There's no stamina and a loss costs no resources, so tweak your formation and go again right away.
+[*]If Auto-advance can't beat a stage, it drops back to the previous one and keeps farming instead of idling. Once you're stronger, remember to come back and challenge the stage you were stuck on manually.
+[/list]
+
+If there's anything else you'd like me to cover, or anything that isn't clear, feel free to ask me in the comments. You're also welcome to join us on [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url] | [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]

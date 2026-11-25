@@ -1,0 +1,52 @@
+Shareholder onboarding: how to train heroes, where to spend Insight and stones
+发布日期：2026-11-19 12:33（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981266799?l=english
+
+[b]Important enough to say three times: Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game![/b]
+
+Hi everyone, Juanmao here.
+
+The full game launches on December 3! Just 14 days to go! The Steam Community Market will open with the full game~ If you have any thoughts about the Market, feel free to leave them in the comments.
+
+Still not an update this time. Following up on last time's heroes and lineups, let's talk about how to train your heroes once you've recruited them. People often ask: Insight, Rank Stones, Essence, it all piles up, so what should I spend first? Let's go through it one by one.
+
+[h2]First things first: there's no star-up[/h2]
+A hero's stars are their rarity. However many stars they come with, that's what they keep. You also only ever get one of each hero, never duplicates, so there's no need to hoard dupes to feed them. Heroes get stronger along three lines: level, rank, and skill mastery.
+
+[h2]Levels: max them out in one click[/h2]
+Leveling up only costs Insight, no gold. You get Insight from clearing stages and from idling, and the Training Ground, unlocked at stage 5, keeps producing it too.
+On the hero page, click “Level Up ×N” and the hero jumps straight to the level cap of their current rank; if you're short on Insight, they level up as far as it goes. The level cap follows rank: 10 at rank 0, plus 10 more for each rank after that. Once they're capped, the button changes to “Rank Up” and the hint line reads “Level maxed · Rank up to raise cap”.
+[img]{STEAM_CLAN_IMAGE}/46216320/d1da05696105d19fce5cb56c69a228cd18df9208.png[/img]
+
+[h2]Rank up: once the level is maxed[/h2]
+Ranking up costs Rank Stones, and the hero has to be at the max level for their current rank. Click “Rank Up” and a preview card pops up first, showing how much power you gain, what the level cap and skill mastery cap go up to, and how many stones it costs. On the card you can just “Rank Up Once”, or go straight for “Up to Rank N”: it goes as far as your resources allow, and any levels missing along the way get filled in with Insight automatically.
+From rank 10 on, every rank-up fills the level straight to the new cap, no Insight needed.
+[img]{STEAM_CLAN_IMAGE}/46216320/274c91da919a95d767e3324ffa2fe620dcb5a38a.png[/img]
+
+[h2]Ranks 5, 10, 15 and 20 need Breakthrough Stones[/h2]
+To reach these ranks you need Breakthrough Stones on top of Rank Stones: 4, 12, 24 and 40 respectively. Not enough of them, and the hero stays stuck at the gate. The image above is exactly that, rank 4 to rank 5: Rank Stones plus 4 Breakthrough Stones.
+In the Demo, Breakthrough Stones come from first clears of stage 5 and of bosses, idle drops, and salvaging gear. So at the gates, give them to your main heroes first; the bench can wait.
+
+[h2]Rank up everyone at once[/h2]
+On the “Roster” page there's a “Rank Up N” button, where N is how many heroes can rank up right now. Open it to get the “Rank Up All” list: each row shows who goes from which rank to which and how much power they gain, and at the bottom you see the total Rank Stones, Breakthrough Stones and Insight it'll cost. Fielded heroes go first, then by power from high to low, and it stops when resources run out. Untick anyone you don't want to rank up, and check it over before you confirm.
+[img]{STEAM_CLAN_IMAGE}/46216320/ae21f930842a0c06633c0906116e6acc64851af9.png[/img]
+
+[h2]Skill mastery: Signature ability only[/h2]
+Unlocks once you clear stage 20. In the “Skills” tab on the hero page, you can level up mastery on the Signature ability's row. Mastery only boosts the Signature ability itself and doesn't add power, so don't assume it was wasted just because the power number didn't move.
+Mastery costs Essence: the first 3 levels take Blue Essence, levels 4 to 7 take Purple Essence, and level 8 onward takes Gold Essence; five-star heroes need double. Extra Insight can also be refined into Essence. The mastery cap is tied to rank: 1 level above the current rank, up to level 20.
+A five-star (Legendary) hero awakens at rank 9 with mastery level 4: their Signature ability switches to its awakened version, and the line on the Skills tab marked “Unlocks on awakening” opens up too.
+[img]{STEAM_CLAN_IMAGE}/46216320/aff48f0550bbb6dbc67b8ef5ad88b4ac3cb703c4.png[/img]
+
+[h2]Where to spend Insight and stones[/h2]
+[list]
+[*]Insight first goes into maxing the levels of your fielded heroes, so their rank-ups don't get stuck.
+[*]For Rank Stones, just follow “Rank Up All”. It already ranks up fielded heroes first.
+[*]Save Breakthrough Stones to get your main heroes through the gates.
+[*]Put Essence into the Signature ability of the main hero you use most. Mastery doesn't add power, but the damage is very real.
+[/list]
+
+If there's anything else you'd like me to cover, or anything that isn't clear, feel free to ask me in the comments. You're also welcome to join us on [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url] | [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]

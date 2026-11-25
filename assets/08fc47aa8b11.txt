@@ -1,0 +1,56 @@
+Guide de l'actionnaire : farmer en travaillant, combat dans un coin du bureau
+发布日期：2026-11-21 12:00（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981267134?l=french
+
+[b]C'est important, alors je le dis trois fois : la progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ![/b]
+
+Bonjour à tous, ici Juanmao.
+
+Le jeu complet sort le 3 décembre ! Plus que 12 jours ! Le Marché de la communauté Steam ouvrira avec le jeu complet~ Si vous avez des idées sur le Marché, laissez-les en commentaire.
+
+Toujours pas de mise à jour cette fois : je vais plutôt vous montrer comment laisser tourner la démo pendant que vous faites autre chose. C'est un jeu idle, après tout : pas question de rester en plein écran à le fixer toute la journée.
+
+[h2]En auto, le combat peut se réduire en mini-fenêtre[/h2]
+Quand « Avancée auto » ou « Farm auto » est activé, il y a un bouton « Réduire en mini-fenêtre dans le coin » en haut à droite de la page de combat. Un clic, et le combat se range dans un coin de l'écran principal et continue. Si vous passez directement à la Forteresse, aux Héros ou à une autre page, il s'y réduit aussi tout seul.
+Cliquez sur la mini-fenêtre pour revenir à l'écran de combat ; le ■ dessus arrête le combat auto.
+[img]{STEAM_CLAN_IMAGE}/46216320/bcd75e1e6d73a15e33811ae67c96f3a1f117a23b.png[/img]
+
+[h2]Sortir le combat de la fenêtre principale[/h2]
+Vous voulez le mettre sur un deuxième écran ou dans un coin du bureau ? Transformez-le en fenêtre à part. Trois façons, au choix :
+[list]
+[*]cliquez sur « Ouvrir dans sa propre fenêtre » en haut à droite de la page de combat ;
+[*]cliquez sur le même bouton en haut à gauche de la mini-fenêtre ;
+[*]ou maintenez le clic sur l'écran de combat et faites-le glisser hors de la fenêtre principale.
+[/list]
+Sur Windows, quand la souris passe sur la fenêtre de combat, elle affiche le nom de l'étape et « Environ X or par heure » ; double-cliquez pour revenir à l'écran principal.
+Deux précisions d'abord :
+[list]
+[*]Si les « Conseils de guidage » sont activés, ces boutons pour détacher le combat n'apparaissent qu'une fois l'étape 15 terminée (pareil pour celui des pages de gestion dont je parle plus bas) ; avant ça, il n'y a que la mini-fenêtre. Désactivez les « Conseils de guidage » dans les Paramètres et vous les aurez tous dès le début.
+[*]Les fenêtres à part sont prévues pour les versions de bureau Windows et macOS. Sur Steam Deck, utilisez simplement la mini-fenêtre.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/9888c8e39a6d75a2f70a3f38266820dff67728f4.png[/img]
+
+[h2]Au premier plan et transparent : par-dessus vos autres fenêtres, sans gêner[/h2]
+Dans Paramètres → « Affichage », activez « Fenêtre de combat toujours au premier plan » et la fenêtre de combat restera toujours au-dessus. Le bouton en forme de flèche vers le haut sur la fenêtre de combat fait la même chose.
+À droite de la fenêtre de combat, il y a une barre d'opacité : faites-la glisser vers le haut ou le bas, elle descend jusqu'à 0 %. Pas de panique si la fenêtre devient trop transparente : survolez-la et elle redevient nette un moment. Et si vous ne la retrouvez vraiment plus, cliquez sur le bouton rond dans le coin de l'écran principal pour la faire revenir ; l'opacité repasse aussi à 100 %.
+Sur Mac, cliquez d'abord une fois sur la fenêtre de combat pour faire apparaître les boutons et une image nette. Sur quelques PC Windows, le bureau ne transparaît pas : en baissant l'opacité, la fenêtre prend juste une couleur de papier.
+[img]{STEAM_CLAN_IMAGE}/46216320/ddb26b37ffc60c579da860388c1f341b8df8c1b6.png[/img]
+
+[h2]Les boutons de la fenêtre de combat[/h2]
+Cliquez sur « ⋯ » pour les afficher. Dans l'ordre : premier plan (flèche vers le haut), haut-parleur (coupe le son de tout le jeu), rattacher (flèche courbe : retour dans la fenêtre principale, le combat continue). Cliquez ensuite sur « Plus de boutons », la double flèche tout à droite, et vous aurez en plus : changer de format (16:9 ou carré), les boutons de page Forteresse, Campagne, Héros et Arsenal, et « Quitter le jeu ». Une fois ce niveau ouvert, vous pouvez aussi redimensionner la fenêtre en tirant ses quatre coins.
+Si vous ne voulez pas entendre le jeu, il y a aussi « Muet en arrière-plan » dans Paramètres → « Son ».
+
+[h2]Les pages de gestion aussi peuvent avoir leur propre fenêtre[/h2]
+En haut à droite de l'écran principal, sous les drapeaux de navigation, il y a un petit bouton « Ouvrir cette page dans sa propre fenêtre ». Héros, Équipe, Taverne, Académie, Codex : toutes ces pages peuvent s'ouvrir à part. Par exemple, mettez la page Équipe sur un deuxième écran et ajustez votre composition tout en regardant le combat.
+Les fenêtres ouvertes et leur position sont mémorisées : au prochain lancement, elles seront au même endroit. Le Marché n'est pas ouvert dans la démo, donc cette page n'y est pas.
+[img]{STEAM_CLAN_IMAGE}/46216320/9add8935b66df105cfdf33500e37418d9ec477bf.png[/img]
+
+[h2]Fermer la fenêtre principale ne quitte pas le jeu par erreur[/h2]
+Quand la fenêtre de combat est sortie, cliquer sur le × de la fenêtre principale (sur Mac, le point rouge ou Cmd+Q) ne fait que la réduire, avec une sauvegarde au passage. Le combat continue.
+Pour vraiment quitter, utilisez « Sauver et quitter » dans les Paramètres, ou « Quitter le jeu » dans « Plus de boutons » sur la fenêtre de combat (celui-là, il faut cliquer deux fois de suite).
+
+Qu'aimeriez-vous que je vous présente d'autre, et qu'est-ce qui n'est pas clair ? Posez-moi vos questions en commentaire. Vous pouvez aussi nous rejoindre sur [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+[url=https://store.steampowered.com/app/5257220/]Jouer à la démo gratuite[/url] | [url=https://store.steampowered.com/app/4855890/]Ajouter le jeu complet à votre liste de souhaits[/url]

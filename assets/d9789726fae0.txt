@@ -1,0 +1,60 @@
+Guía del accionista: consigue a tus héroes con encargos, listas y jefes
+发布日期：2026-11-22 12:00（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=spanish
+
+[b]Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo![/b]
+
+¡Hola a todos! Soy Juanmao.
+
+¡El juego completo sale el 3 de diciembre! ¡Quedan 11 días! Con el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes alguna idea sobre el Mercado, déjala en los comentarios.
+
+En la guía de héroes de hace unos días vimos cómo entrenar a los héroes una vez reclutados; hoy toca ver de dónde salen. Antes que nada: este juego no tiene gacha, y cómo conseguir a cada héroe está escrito a la vista.
+
+[h2]¿Quieres a alguien? Mira primero el Códice[/h2]
+Abre a un héroe en el Códice y verás de dónde sale: si se une al ganar cierta etapa, si se recluta en la Taberna o si hay que ganarle un desafío de jefe. Los héroes que aún no tienes salen como una silueta, pero su origen aparece igual. El Códice de la demo solo muestra los héroes que se pueden conseguir en la demo, así que todo lo que ves se puede conseguir.
+[img]{STEAM_CLAN_IMAGE}/46216320/24ca8625fd7e8c725e5bd54c9afaf1094e75f733.png[/img]
+
+[h2]Manda héroes de encargo y junta cupones de reclutamiento legendario[/h2]
+En la página «Encargos» de la Taberna puedes mandar héroes a hacer misiones. Al terminar el plazo se liquidan solas y los cupones de reclutamiento legendario te llegan directamente, sin tener que ir a recogerlos.
+[list]
+[*]También puedes mandar a los de tu Escuadra: aunque estén de encargo, siguen luchando y farmeando como siempre, así que no frenan tu avance;
+[*]Cada tarjeta de misión indica «Cupones est.: +N», así que elige las que den más; algunas piden cierta fuerza o una clase concreta, y eso también viene en la tarjeta;
+[*]Si te da pereza elegir, pulsa «Despacho rápido»: primero escoge a los que tengan la clase adecuada y luego va de mayor a menor fuerza. Cuando esté listo, pulsa «Confirmar»;
+[*]Si pulsas «Cancelar» a medias, los héroes vuelven al instante, pero ese encargo no da cupones.
+[/list]
+Al principio tendrás pocos héroes y los encargos aún no estarán disponibles; la pantalla te dirá cuántos te faltan. Recluta a unos cuantos más y se abren.
+[img]{STEAM_CLAN_IMAGE}/46216320/81a67ab89d3476b6cf3c01fc093be6d5023bf9a6.png[/img]
+
+[h2]Desde la etapa 101: listas de pocas estrellas que cambian cada hora[/h2]
+A partir de la etapa 101, en la Taberna aparece una lista de héroes de pocas estrellas que cambia cada hora en punto; se reclutan con boletos de reclutamiento de era. Esos boletos caen al ganar combates y mientras farmeas.
+[list]
+[*]La lista va por turnos: en cada ronda aparecen todos. En el panel de garantías de la lista, una línea indica cuántos quedan en esta ronda y que, a más tardar, aparecerán «en N h»;
+[*]Refrescar a mano solo pasa a la siguiente página y no altera el orden de rotación; la primera vez de cada hora es gratis;
+[*]Las listas que pasen mientras estás desconectado no se recuperan: al volver verás la página de la hora actual.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/7a266ff8c3617a08a8ba5eb147e8a31e6ec54bf4.png[/img]
+
+[h2]Puedes elegir a qué héroe legendario va la garantía[/h2]
+Para reclutar a un héroe legendario primero necesitas su ficha de reclutamiento exclusiva y después cupones de reclutamiento legendario, en la Taberna. Las fichas caen al ganar combates y mientras farmeas, y varios legendarios comparten una misma garantía.
+Ve a la página «Reclutar» de la Taberna, abre al que quieras y pulsa «Fijar objetivo de garantía»: cuando se cumpla la garantía, la ficha será para él. Eso sí, solo se pueden fijar héroes legendarios de tu era actual, y la ficha solo será para él si ya llegaste a su etapa de origen y estás jugando una etapa de esa misma era; si no fijas objetivo, la ficha sale al azar entre los candidatos. El progreso de la garantía se ve en el panel de garantías de la Taberna.
+(Cómo conseguir a la Diva triunfal, al Rey lobo de la llanura helada y compañía ya lo conté en el post del 15 de noviembre, así que no lo repito aquí.)
+[img]{STEAM_CLAN_IMAGE}/46216320/cd4aa9d1bddf1067692d1e78d1a459889af4b90c.png[/img]
+
+[h2]Desafío de jefe: perder no cuesta nada, reintenta al momento[/h2]
+Al superar la etapa 12 se abren las «Tierras de pruebas» en la Fortaleza, y dentro está la sección «Desafío de jefe». Cada vez que derrotas al jefe de un capítulo de la historia principal, aquí se abre un desafío; la primera vez que lo ganas, ese héroe se une directamente, sin fichas ni cupones.
+[list]
+[*]La dificultad es fija y no sube con tu fuerza; si no puedes, ve a entrenar y vuelve cuando seas más fuerte;
+[*]Perder no tiene ningún coste ni tiempo de espera: puedes reintentarlo al momento;
+[*]Ganar solo da el héroe, no recursos;
+[*]Los desafíos de jefe no entran en el Autoavance: tienes que entrar y lanzarlos tú;
+[*]Además de los jefes de capítulo, la demo tiene algunos jefes intermedios; supera la etapa correspondiente y podrás desafiarlos.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/3c51d2526bcbb82b5d48690935f1dbe4a0fc88ca.png[/img]
+
+Así que los héroes salen por estos caminos: lo que cae en combate, los cupones de los encargos de la Taberna, las listas de cada hora y los desafíos de jefe. Si quieres a alguien, mira primero su origen en el Códice y sabrás por dónde ir.
+
+Si hay algo más que quieras que te explique o algo que no se entienda, pregúntame en los comentarios. También puedes unirte a nuestro [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Si te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+[url=https://store.steampowered.com/app/5257220/]Juega la demo gratis[/url] | [url=https://store.steampowered.com/app/4855890/]Añade el juego completo a tu lista de deseados[/url]

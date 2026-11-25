@@ -1,0 +1,43 @@
+Conteúdo do jogo completo: depois da fase 800, eras, Grau Difícil e Pesadelo
+发布日期：2026-11-25 12:00（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981267859?l=brazilian
+
+[b]É importante, então vou falar três vezes: o progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo![/b]
+
+Olá, pessoal! Aqui é o Juanmao.
+
+O jogo completo chega em 3 de dezembro! Faltam 8 dias! Com o jogo completo, o Mercado da Comunidade Steam vai abrir~ Se tiver alguma ideia sobre o Mercado, deixa nos comentários.
+
+Hoje é conteúdo do jogo completo, que não tem na demo. Muita gente pergunta o que vem depois da fase 800 da demo, então hoje vamos falar disso.
+
+[h2]Uma era a cada 200 fases, 10 no total[/h2]
+No jogo completo, a linha principal tem uma era a cada 200 fases: são 10 eras e 2000 fases. Venceu o chefe da última fase de uma era, você entra na próxima, com inimigos mais fortes e mais renda.
+A fase 800 que dá para alcançar na demo é justamente o fim da 4ª era. O jogo completo começa de novo da fase 1, e depois disso ainda tem mais 6 eras.
+
+[h2]Vença o chefe da era e libere o Grau Difícil e o Grau Pesadelo[/h2]
+Além do Grau Normal, cada era tem Grau Difícil e Grau Pesadelo:
+[list]
+[*]Grau Difícil: libera quando você vence o Combate de chefe daquela era;
+[*]Grau Pesadelo: depois, vá na aba “Eras” da Academia, aperte “Iniciar Desafio” e vença o Desafio da era. O chefe é o mesmo, mas luta de um jeito mais traiçoeiro, e passando o mouse no botão você vê a Força recomendada.
+[/list]
+Quando você vence, a tela de resultado mostra “Grau Difícil liberado” ou “Grau Pesadelo liberado”. Grau liberado não fecha de novo e também não apaga o progresso que você já tinha.
+[img]{STEAM_CLAN_IMAGE}/46216320/3d2398c3212131010b7ad03057044b13ab7f0c7d.png[/img]
+[img]{STEAM_CLAN_IMAGE}/46216320/64f7dff3d4f32db5e50b39ebd1a8519478ddf8ae.png[/img]
+
+[h2]Depois de liberar: outro jeito de jogar, mais uma rodada[/h2]
+O Grau Difícil e o Grau Pesadelo têm cada um sua própria linha de fases, e você troca no canto inferior direito do mapa do capítulo, na Campanha. Trocou, essa era recomeça da primeira fase dela.
+Os inimigos são os mesmos, mas mais fortes, e a luta começa com uma regra a mais. Passe o mouse nos botões de grau no canto inferior direito para vê-la. Por exemplo, na 1ª era o Grau Difícil tem “Os inimigos concentram fogo em uma coluna — espalhe sua equipe”. O Grau Pesadelo soma mais uma condição, e o chefe ainda ergue uma muralha de escudos na linha de frente no início. Então só subir a Força não basta: tem que mudar a formação e o jeito de pensar.
+Nas fases que você já passou, farmando no automático, os drops seguem aquele grau, melhores que no Grau Normal; e cada fase também dá recompensa na primeira vez que você passa.
+[img]{STEAM_CLAN_IMAGE}/46216320/94fda79782342ff763265005a100ea9817662672.png[/img]
+
+[h2]O Arquivo de eras na Academia[/h2]
+Na aba “Eras” da Academia, cada era tem seu próprio arquivo, válido só nas fases dela. O arquivo tem três linhas: Coletar, Saque e Ocioso. Você escolhe uma como Foco; dá para trocar o Foco quando quiser, e só o Foco chega ao máximo. Para subir o arquivo lá para cima, primeiro precisa liberar o Grau Difícil e o Grau Pesadelo daquela era.
+[img]{STEAM_CLAN_IMAGE}/46216320/832457dac2f89a88b9f7c4cd5e5349b323a9c9b9.png[/img]
+
+Resumindo: o jogo completo tem 10 eras, e as 800 fases da demo são só as quatro primeiras. Terminou uma era, ainda dá para liberar o Grau Difícil e o Grau Pesadelo e jogar de novo de outro jeito. Os números exatos ainda estão sendo ajustados antes do lançamento, então por enquanto não vou colocar aqui.
+
+Se tem mais alguma coisa que você quer que eu explique ou algo que não ficou claro, pode perguntar nos comentários. Também dá para entrar no nosso [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+[url=https://store.steampowered.com/app/5257220/]Jogue a demo gratuita[/url] | [url=https://store.steampowered.com/app/4855890/]Adicione o jogo completo à sua lista de desejos[/url]

@@ -1,0 +1,56 @@
+Shareholder onboarding: idle while you work, battle parked in a desktop corner
+发布日期：2026-11-21 12:00（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981267134?l=english
+
+[b]Important enough to say three times: Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game![/b]
+
+Hi everyone, Juanmao here.
+
+The full game launches on December 3! Just 12 days to go! The Steam Community Market will open with the full game~ If you have any thoughts about the Market, feel free to leave them in the comments.
+
+Still not an update this time. Instead, let's talk about how to keep the Demo idling while you get other stuff done. It's an idle game, after all. You can't just sit there staring at it full screen all day.
+
+[h2]Turn on auto, and the battle can shrink into a mini window[/h2]
+When "Auto-advance" or "Auto-farm" is on, there's a "Shrink to a corner mini window" button at the top right of the battle page. Click it and the battle shrinks into a corner of the main screen and keeps fighting. Switch straight to Fortress, Heroes or any other page, and it shrinks down there on its own too.
+Click the mini window to enlarge it back to the battle screen. The ■ on it stops auto-battling.
+[img]{STEAM_CLAN_IMAGE}/46216320/c9cf7221aa41bbcc91a3785d3d58bde42ffe9281.png[/img]
+
+[h2]Drag the battle out of the main window[/h2]
+Want it on a second screen or in a corner of your desktop? Turn it into its own window. Any of these three works:
+[list]
+[*]Click "Pop out into its own window" at the top right of the battle page;
+[*]Click the same button at the top left of the corner mini window;
+[*]Or just click and hold the battle screen and drag it out of the main window.
+[/list]
+On Windows, hover over the battle window and it shows the stage name and "About X gold per hour". Double-click to go back to the main screen.
+Two things to know first:
+[list]
+[*]If "Guidance Tips" is on, these pop-out buttons only show up after you clear Stage 15 (same goes for the management-page one I'll get to below). Before that, you only get the corner mini window. Turn off "Guidance Tips" in Settings and you'll have them all from the start.
+[*]The separate windows are for the Windows and macOS desktop versions. On Steam Deck, just use the corner mini window.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/4bd3774e61fdf8deb13669e477516e58d489abf2.png[/img]
+
+[h2]On top and see-through, sitting over other windows without getting in the way[/h2]
+Turn on "Keep battle window on top" under Settings → "Display", and the battle window will always float on top. The up-arrow button on the battle window is the same switch.
+On the right side of the battle window there's an opacity slider. Just drag it up or down. It goes all the way down to 0%. Don't worry if the window gets too see-through: hover over it and it shows clearly for a moment. If you really can't find it, click the round button in the corner of the main screen to bring it back, and the opacity goes back to 100% too.
+On a Mac, click the battle window once first to bring up the buttons and the clear view. On a few Windows PCs the desktop won't show through, so turning it down just makes it fade to a paper color.
+[img]{STEAM_CLAN_IMAGE}/46216320/eabf129682e5c0a3ad35ce1e585ab96d2bafcad1.png[/img]
+
+[h2]Buttons on the battle window[/h2]
+Click "⋯" to open them up. In order: on top (up arrow), speaker (mutes the whole game), merge (curved arrow, back into the main window, the battle keeps going). Then click "More buttons", the double arrow on the far right, and you also get: switch shape (16:9 or square), page buttons for Fortress, Campaign, Heroes and Armory, and "Quit game". With that row open, you can also drag any of the window's four corners to resize it.
+If you'd rather not hear the game, there's also "Mute when unfocused" under Settings → "Audio".
+
+[h2]Management pages can get their own window too[/h2]
+At the top right of the main screen, just below the navigation flags, there's a small button called "Open this page in its own window". Heroes, Formation, Tavern, Academy, Codex: all of these pages can be opened on their own. For example, put the Formation page on a second screen and tweak your lineup while you watch the battle.
+Open windows and their positions are remembered, so next time you start the game they'll be right where you left them. The Market isn't open in the Demo, so there's no page for it.
+[img]{STEAM_CLAN_IMAGE}/46216320/c25431dfeaaf356af202f96dfc32549cb00f66ac.png[/img]
+
+[h2]Closing the main window won't quit the game by accident[/h2]
+While the battle window is out, clicking × on the main window (on a Mac, clicking the red dot or pressing Cmd+Q) only minimizes the main window and saves once along the way. The battle keeps going.
+When you really want to quit, use "Save & Quit" in Settings, or "Quit game" under "More buttons" on the battle window (you have to click that one twice).
+
+If there's anything else you'd like me to cover, or anything that isn't clear, feel free to ask me in the comments. You're also welcome to join us on [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url] | [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]

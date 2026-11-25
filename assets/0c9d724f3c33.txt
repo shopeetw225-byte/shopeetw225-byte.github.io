@@ -1,0 +1,52 @@
+Guía del accionista: cómo entrenar héroes y en qué gastar Perspicacia y piedras
+发布日期：2026-11-19 12:33（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981266799?l=spanish
+
+[b]Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo![/b]
+
+¡Hola a todos! Soy Juanmao.
+
+¡El juego completo sale el 3 de diciembre! ¡Quedan 14 días! Con el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes alguna idea sobre el Mercado, déjala en los comentarios.
+
+Esto tampoco es una actualización: siguiendo con los héroes y las formaciones de la última vez, hoy toca hablar de cómo entrenar a los héroes una vez reclutados. Mucha gente me pregunta: tengo Perspicacia, Piedras de rango y esencias a montones… ¿en qué gasto primero? Vamos punto por punto.
+
+[h2]Lo primero: aquí no se suben estrellas[/h2]
+Las estrellas de un héroe son su rareza: sale con las que sale y no cambian. Además, cada héroe existe una sola vez y nunca te tocará repetido, así que no hace falta guardar copias para alimentarlo. Un héroe se hace más fuerte por tres vías: nivel, rango y maestría de habilidad.
+
+[h2]Nivel: Perspicacia y al máximo de un toque[/h2]
+Subir de nivel solo cuesta Perspicacia, nada de oro. La Perspicacia se consigue superando etapas y mientras el juego avanza solo, y el Campo de entrenamiento, que se desbloquea en la etapa 5, la produce sin parar.
+En la página del héroe, pulsa «Subir Nv. ×N» y llegará de golpe al nivel máximo de su rango actual; si no te alcanza la Perspicacia, sube hasta que se acabe. El tope de nivel va ligado al rango: en el rango 0 es el nivel 10, y cada rango más suma 10 niveles. Cuando llegues al tope, el botón pasa a ser «Ascender» y la línea de aviso muestra «Nivel máx. · asciende para subir el tope».
+[img]{STEAM_CLAN_IMAGE}/46216320/4cc83123ac5d756226c042f5965eac0d39f6df35.png[/img]
+
+[h2]Rango: primero el nivel al máximo, luego asciendes[/h2]
+Ascender cuesta Piedras de rango, y solo se puede con el nivel del rango actual al máximo. Al pulsar «Ascender» sale primero una tarjeta de vista previa: cuánta fuerza ganas, hasta dónde suben el tope de nivel y el tope de maestría, y cuántas piedras cuesta. En la tarjeta puedes «Ascender 1 vez» o ir directo a «Hasta rango N»: sube hasta donde den tus recursos, y los niveles que falten por el camino se rellenan antes con Perspicacia de forma automática.
+A partir del rango 10, cada ascenso llena el nivel directamente hasta el nuevo tope, sin gastar más Perspicacia.
+[img]{STEAM_CLAN_IMAGE}/46216320/5ba49fc8ba6d392e38550d54b5002b3cab08e42a.png[/img]
+
+[h2]Los rangos 5, 10, 15 y 20 piden Piedras de avance[/h2]
+Para llegar a estos rangos, además de Piedras de rango hay que entregar Piedras de avance: 4, 12, 24 y 40 respectivamente. Si no tienes suficientes, el héroe se queda parado en ese umbral. La imagen de arriba es justo el paso del rango 4 al 5: además de Piedras de rango, hacen falta 4 Piedras de avance.
+En la demo, las Piedras de avance salen de: la primera vez que superas la etapa 5 y a los jefes, lo que cae mientras el juego avanza solo y reciclar el equipo que consigues. Así que, en los umbrales, primero tus titulares; los suplentes pueden pasarlos más tarde.
+
+[h2]Ascender a todos de una vez[/h2]
+En la página «Plantel» hay un botón «Ascender N», donde N es cuántos héroes pueden ascender ahora mismo. Al abrirlo aparece la lista «Ascender todos»: cada fila dice quién pasa de qué rango a cuál y cuánta fuerza gana, y abajo está el total de Piedras de rango, Piedras de avance y Perspicacia que vas a gastar. El orden: primero los héroes en combate, luego por fuerza de mayor a menor, y se detiene al agotar los recursos. Si no quieres ascender a alguno, quítale la marca; revísalo bien y confirma.
+[img]{STEAM_CLAN_IMAGE}/46216320/abcd2655332b46badb19073e6b787f9c7e1d53d2.png[/img]
+
+[h2]Maestría de habilidad: solo para la Habilidad distintiva[/h2]
+Se abre al superar la etapa 20. En la pestaña «Habilidades» de la página del héroe, en la fila de la Habilidad distintiva puedes subir la maestría. La maestría solo potencia la propia Habilidad distintiva y no sube la fuerza, así que no pienses que has entrenado en balde porque el número de fuerza no se mueva.
+La maestría se paga con esencias: los 3 primeros niveles con Esencia azul, del 4 al 7 con Esencia morada y del 8 en adelante con Esencia dorada; los héroes de cinco estrellas gastan el doble. Si te sobra Perspicacia, también puedes convertirla en esencia. El tope de maestría va ligado al rango: 1 nivel más que el rango actual, hasta un máximo de 20.
+Cuando un héroe de cinco estrellas (legendario) llega al rango 9 con la maestría a nivel 4, despierta: su Habilidad distintiva pasa a la versión despertada, y en la pestaña de habilidades se abre también la línea marcada con «Se desbloquea al despertar».
+[img]{STEAM_CLAN_IMAGE}/46216320/5f9511029560e0fe74e301fe16ea0c6171c7db83.png[/img]
+
+[h2]En qué gastar la Perspicacia y las piedras[/h2]
+[list]
+[*]Perspicacia: primero para subir al máximo el nivel de los que están en combate; así el ascenso no se atasca.
+[*]Piedras de rango: deja que las reparta «Ascender todos», que ya asciende primero a los que están en combate.
+[*]Piedras de avance: guárdalas para que tus titulares pasen los umbrales.
+[*]Esencias: para la Habilidad distintiva del titular que más uses; la maestría no suma fuerza, pero el daño que aporta es muy real.
+[/list]
+
+Si hay algo más que quieras que te explique o algo que no se entienda, pregúntame en los comentarios. También puedes unirte a nuestro [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Si te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+[url=https://store.steampowered.com/app/5257220/]Juega la demo gratis[/url] | [url=https://store.steampowered.com/app/4855890/]Añade el juego completo a tu lista de deseados[/url]

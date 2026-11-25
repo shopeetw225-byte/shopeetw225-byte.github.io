@@ -1,0 +1,60 @@
+Shareholder onboarding: get the heroes you want – commissions, lists, bosses
+发布日期：2026-11-22 12:00（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=english
+
+[b]Important enough to say three times: Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game![/b]
+
+Hi everyone, Juanmao here.
+
+The full game launches on December 3! Just 11 days to go! The Steam Community Market will open with the full game~ If you have any thoughts about the Market, feel free to leave them in the comments.
+
+A few days ago I covered how to train heroes once you've recruited them. This one is about where they come from. First off: there's no gacha in this game, and how to get every hero is all written down.
+
+[h2]Want someone? Check the Codex first[/h2]
+Open a hero in the Codex and you'll see where they come from: joining after you win a certain stage, recruiting at the Tavern, or beating a Boss Challenge. Heroes you don't have yet show up as silhouettes, but their source is still listed. The Demo's Codex only lists heroes you can get in the Demo, so everyone you see there is obtainable.
+[img]{STEAM_CLAN_IMAGE}/46216320/810389cf8ee4c1e54de3e1dde72c8542e6518bdf.png[/img]
+
+[h2]Send heroes on commissions, earn Legend Recruit Coupons[/h2]
+On the Tavern's "Commissions" tab, you can send heroes out on jobs. They settle automatically when time's up, and the Legend Recruit Coupons go straight to you. No need to come back and claim them.
+[list]
+[*]Heroes in your Formation can go too. They keep fighting and idling while they're out, so your stage progress isn't held up.
+[*]Every job card shows "Est. +N coupons", so pick the ones that pay more. Some jobs require a certain power or class, and that's on the card too.
+[*]Don't feel like picking? Hit "Auto dispatch". It picks heroes with a matching class first, then fills in by power from high to low. Once it's done, press "Confirm".
+[*]Hit "Cancel" partway and the heroes come back right away, but that job pays no coupons.
+[/list]
+Early on your roster is too small, so dispatching isn't open yet. The screen tells you how many more heroes you need. Recruit a few more and it opens up.
+[img]{STEAM_CLAN_IMAGE}/46216320/ee245bd388ce5405bb40a190f019463a8c09499d.png[/img]
+
+[h2]From Stage 101, the low-star list changes every hour[/h2]
+Once you reach Stage 101, the Tavern gets an extra low-star list. A new batch of heroes shows up on the hour, and you recruit them with Era Recruit Tickets. Era Recruit Tickets drop from battle wins and while idling.
+[list]
+[*]The list rotates, and everyone comes up once per round. The low-star guarantee board has a line showing how many are left this round and that they'll show up "Within Nh" at the latest.
+[*]A manual refresh just flips to the next page. It doesn't shuffle the rotation, and the first one each hour is free.
+[*]Lists you miss while offline don't come back. When you return, you see the page for the current hour.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/36bd831504d748a3979a62c5dbc1ee2d71405df8.png[/img]
+
+[h2]Pick a guarantee target for Legend heroes[/h2]
+A Legend hero first needs their own Recruit Token, then you recruit them at the Tavern with Legend Recruit Coupons. Recruit Tokens drop from battle wins and while idling, and several Legend heroes share one guarantee.
+Go to the Tavern's "Recruit" tab, open the hero you want, and press "Set as Guarantee Target". When the guarantee kicks in, the token goes to them. Only legendary heroes from your current era can be set, and the token only goes to them once you've reached their source stage and are playing a stage in that same era. With no target set, it's random among the candidates. You can track guarantee progress on the Tavern's guarantee board.
+(How to get Triumph Diva, Frost-Plain Wolf King and a few others was covered in the Nov 15 post, so I won't repeat it here.)
+[img]{STEAM_CLAN_IMAGE}/46216320/e5a9dcf24318870daf43570200e6c341bc0797ac.png[/img]
+
+[h2]Boss Challenges: losing costs nothing, retry right away[/h2]
+After you clear Stage 12, the "Trial Grounds" in the Fortress opens up, with "Boss Challenge" inside. Each chapter boss you beat in the main story opens a new fight here. Win it the first time and that hero joins you directly, no token or coupons needed.
+[list]
+[*]The difficulty is fixed and doesn't scale with your power. If you can't win yet, go train and come back stronger.
+[*]Losing has no cost and no cooldown, so you can retry right away.
+[*]A win only gives you the hero, not resources.
+[*]Boss Challenges aren't part of Auto-advance. You have to go in and start them yourself.
+[*]Besides chapter bosses, the Demo also has a few mid-chapter bosses. Clear the matching stage and you can challenge them.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/049ba29481953155a8703c53946f36ed385a78e9.png[/img]
+
+So that's where heroes come from: battle drops, Tavern commissions for coupons, the hourly list, and Boss Challenges. Want someone? Check their source in the Codex first, and you'll know where to go.
+
+If there's anything else you'd like me to cover, or anything that isn't clear, feel free to ask me in the comments. You're also welcome to join us on [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url] | [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]

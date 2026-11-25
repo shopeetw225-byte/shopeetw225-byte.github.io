@@ -1,0 +1,58 @@
+Guia do acionista: travou numa fase? Primeiro veja o exame, depois leve a chave
+发布日期：2026-11-20 10:05（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981266810?l=brazilian
+
+[b]É importante, então vou falar três vezes: o progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo![/b]
+
+Olá, pessoal! Aqui é o Juanmao.
+
+O jogo completo chega em 3 de dezembro! Faltam 13 dias! Com o jogo completo, o Mercado da Comunidade Steam vai abrir~ Se tiver alguma ideia sobre o Mercado, deixa nos comentários.
+
+Isto também não é uma atualização: vamos falar do que fazer quando você trava numa fase da demo. Muita fase não passa não é por falta de Força, e sim porque você ainda não resolveu o "exame" dela.
+
+[h2]Antes de lutar, veja o Reconhecimento[/h2]
+Na página "Equipe", clique no brasão redondo com o retrato na coluna inimiga e o "Reconhecimento" abre. Antes das batalhas da campanha ele também aparece sozinho; se no mesmo capítulo você já viu uma formação inimiga igual, ele não aparece de novo, mas, se perder e tentar de novo, ele sempre aparece.
+Ali está o exame da fase, por exemplo "Espinhos": o inimigo devolve parte do dano dos seus ataques básicos. Depois que a luta começa não dá mais para ver, então dá uma olhada antes.
+Depois da fase 28, cada exame mostra qual "chave" você deve levar; depois da fase 33, também marca se a sua equipe já tem: o check verde é que tem resposta, o círculo vermelho é que ainda não. Se a equipe inteira não resolve nenhum exame, a linha de Força fica vermelha com o aviso "Esta equipe não tem resposta para este exame".
+[img]{STEAM_CLAN_IMAGE}/46216320/3aa0ad88823f11f98b4ee4014bb7828023e03290.png[/img]
+
+[h2]Qual chave resolve cada exame[/h2]
+[list]
+[*]Execução → Antiexecução
+[*]Espinhos → Antiespinhos
+[*]Cura → Golpes lacerantes
+[*]Silêncio → Anti-Silêncio
+[*]Dreno de Moral → Moral de impacto ou Moral inicial
+[*]Escudos → Penetração
+[/list]
+Antiexecução, Antiespinhos, Golpes lacerantes e Anti-Silêncio: basta uma pessoa da equipe levar para neutralizar 60% para o time todo; Penetração e as de moral só valem para quem carrega.
+Algumas classes e heróis já vêm com a resposta. No painel de reconhecimento, o "Quem resolve" mostra quem no banco serve.
+
+[h2]Na demo, as chaves são feitas sob medida na Ferraria[/h2]
+Antiexecução, Antiespinhos, Golpes lacerantes, Anti-Silêncio e Penetração não saem aleatórios nem caem como drop: só dá para fazer sob medida na Ferraria.
+A Ferraria abre na fase 15, e o sob medida não tem outro requisito: na página "Forjar", escolha um projeto, clique em "Afixo sob medida" e fixe um afixo; os outros continuam aleatórios como sempre. Fazer sob medida custa 5 vezes uma forja normal, e os afixos de chave ainda pedem materiais de capítulo, mais quanto mais avançado o capítulo.
+Se você perder duas vezes para o exame da mesma fase e já conseguir forjar a chave, aparece um card de guia que leva você até a Ferraria para forjar a chave e depois equipar.
+No jogo completo, os equipamentos vão ser todos renovados e o jeito de conseguir as chaves também muda; quando chegar a hora, é só seguir as dicas do jogo.
+[img]{STEAM_CLAN_IMAGE}/46216320/5dd26f5584c799c10bd2bcae4a1c08d362c3fd11.png[/img]
+
+[h2]Perdeu? Leia primeiro a frase do card de resultado[/h2]
+Ao perder na campanha, o card de resultado diz numa frase onde você mais perdeu: alguém caiu com um golpe só logo no começo, a retaguarda foi varrida num golpe, suas habilidades exclusivas foram cortadas por Silêncio ou dreno de moral, ou você se desgastou na fase decisiva. Se perdeu para o exame da fase, ele aponta isso direto e diz o que levar na próxima tentativa.
+O jogo também simula para você se daria para vencer mudando uma coisa só: mover uma pessoa, trocar duas de posição ou colocar alguém do banco no lugar de outro. Se a simulação vencer, o título vira "Falta só uma troca" e aparece o botão "Aplicar" ao lado: clicou, já aplica; quem começa a luta continua sendo você.
+[img]{STEAM_CLAN_IMAGE}/46216320/7a750855d6886979a2db5c64414fb2e07c4a27ee.png[/img]
+
+[h2]Registro: quem fez quanto[/h2]
+Abra o Registro durante a batalha para ver os rankings de Dano, Cura, Recebido, Escudo, Moral e Controle; a batalha não para enquanto você olha. Passe o mouse numa linha e aparece em quem ele mais bateu, quanto dano a mais os bônus deram e de quem veio a maior parte.
+Clicando, você entra no relatório completo: dá para ver a evolução, arrastar para selecionar rodadas e ir passando de pessoa em pessoa para ver cada uma. Depois de perder, o "Ver dados" no card de resultado também abre o relatório.
+[img]{STEAM_CLAN_IMAGE}/46216320/9ffb5135b7e05f5c216b0dc5c8eca743a31cba25.png[/img]
+
+[h2]Perder não custa nada[/h2]
+[list]
+[*]Não tem energia: perder não gasta recursos, e assim que ajustar a equipe já dá para lutar de novo.
+[*]Se o avanço automático não passar de uma fase, ele volta para a anterior e continua farmando, sem ficar rodando à toa; quando ficar mais forte, lembre de voltar e desafiar manualmente a fase em que travou.
+[/list]
+
+Se tem mais alguma coisa que você quer que eu explique ou algo que não ficou claro, pode perguntar nos comentários. Também dá para entrar no nosso [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+[url=https://store.steampowered.com/app/5257220/]Jogue a demo gratuita[/url] | [url=https://store.steampowered.com/app/4855890/]Adicione o jogo completo à sua lista de desejos[/url]

@@ -1,0 +1,47 @@
+Guia do acionista: a Agência, a Academia e a Missão Urgente
+发布日期：2026-11-24 10:09（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981267542?l=brazilian
+
+[b]É importante, então vou falar três vezes: o progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo![/b]
+
+Olá, pessoal! Aqui é o Juanmao.
+
+O jogo completo chega em 3 de dezembro! Faltam 9 dias! Com o jogo completo, o Mercado da Comunidade Steam vai abrir~ Se tiver alguma ideia sobre o Mercado, deixa nos comentários.
+
+Além de avançar fases, vale dar uma olhada na Fortaleza e na Academia de vez em quando. Hoje são umas coisinhas que levam poucos segundos e poupam trabalho. Antes, três nomes para não confundir: os "Contratos" são as missões da Taverna que rendem Cupons de Recrutamento Lendário (falei deles no post de uns dias atrás); o despacho automático é a renda que a Campanha vai gerando enquanto você farma (não a pesquisa "Despacho Automático", que reenvia heróis da Taverna); e a "Missão Urgente" é um botão na página da Campanha que entrega de uma vez uma parte da renda do despacho automático.
+
+[h2]Custo não dá? Suba o Salão da Agência[/h2]
+O Custo somado dos heróis em campo não pode passar do teto de custo, e o teto de custo sobe principalmente evoluindo o Salão da Agência. Pare o mouse em "Custo" na barra superior da Fortaleza e aparece até que nível o Salão vai e de quanto para quanto muda o teto de custo.
+Os outros edifícios também não podem passar do nível do Salão; quando não der para evoluir, aparece o aviso "Requer Salão da Agência nível N". E o próprio Salão sobe avançando fases.
+[img]{STEAM_CLAN_IMAGE}/46216320/185a05c04619b810b28f644c04b8c14ead53f008.png[/img]
+
+[h2]A Academia abre na fase 18: comece pelo "Arauto"[/h2]
+A Academia abre na fase 18. Todas as pesquisas do ramo de Automação pedem o "Arauto" antes; sozinho, ele acende um pontinho vermelho de aviso quando o armazém de um edifício estiver quase cheio.
+Com a Academia no nível 3, libera o "Pôr na fila":
+[list]
+[*]Se a pesquisa atual ainda não terminou, dá para colocar a próxima na fila; o pagamento sai na hora de pôr na fila, e se apertar "Cancelar fila" o valor volta;
+[*]Assim que a anterior termina, a da fila começa na hora, até offline: a contagem parte do exato momento em que a anterior terminou;
+[*]Quanto maior o nível da Academia, maior a fila, e a partir do nível 5 dá para estudar duas ao mesmo tempo.
+[/list]
+Então encha a fila antes de sair do jogo e, na volta, você já terá aprendido várias.
+[img]{STEAM_CLAN_IMAGE}/46216320/737f71d4e38930bc6cdf670711275e140172e99d.gif[/img]
+
+[h2]Missão Urgente: aperte uma vez a cada hora[/h2]
+Na página da Campanha tem um botão "Missão Urgente": aperte e receba na hora uma parte da renda do despacho automático. Ele recupera 1 carga por hora e guarda no máximo 1; com a carga cheia, não acumula mais, então o que mais rende é voltar a cada hora e apertar. O botão mostra "Prontas 1/1" ou quanto falta para recarregar.
+[img]{STEAM_CLAN_IMAGE}/46216320/8dfeadd902df11cb4b73fc38878c907902426c59.png[/img]
+
+[h2]Preguiça de apertar? Aprenda a "Pressa Automática"[/h2]
+Na Automação da Academia, depois do "Arauto" vem a "Varredura Aprimorada" e, em seguida, a "Pressa Automática", que dá para aprender na fase 60. Depois de aprender, quando você estiver farmando ou offline e a Missão Urgente ficar cheia parada, pouco depois ela é coletada sozinha.
+[list]
+[*]O que é coletado sozinho rende um pouco menos; se você mesmo apertar durante um tempinho depois que encher, ainda leva o valor cheio;
+[*]Depois vêm a "Pressa Automática II" e a "Pressa Automática III": cada nível coleta mais no automático, e na III já fica igual a apertar na mão.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/c4b76738d5f08f962b8d5543b1ca2fac481349d4.png[/img]
+
+Resumindo: Custo não dá, olhe o Salão; na Academia, comece pelo Arauto; encha a fila de pesquisa antes de sair; aperte a Missão Urgente a cada hora; e, se der preguiça, aprenda a Pressa Automática.
+
+Se tem mais alguma coisa que você quer que eu explique ou algo que não ficou claro, pode perguntar nos comentários. Também dá para entrar no nosso [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+[url=https://store.steampowered.com/app/5257220/]Jogue a demo gratuita[/url] | [url=https://store.steampowered.com/app/4855890/]Adicione o jogo completo à sua lista de desejos[/url]

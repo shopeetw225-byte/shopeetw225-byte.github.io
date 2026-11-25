@@ -1,0 +1,60 @@
+Guide de l'actionnaire : obtenir vos héros – envois, listes et défis de boss
+发布日期：2026-11-22 12:00（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981267139?l=french
+
+[b]C'est important, alors je le dis trois fois : la progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ![/b]
+
+Bonjour à tous, ici Juanmao.
+
+Le jeu complet sort le 3 décembre ! Plus que 11 jours ! Le Marché de la communauté Steam ouvrira avec le jeu complet~ Si vous avez des idées sur le Marché, laissez-les en commentaire.
+
+Il y a quelques jours, j'ai expliqué comment entraîner vos héros une fois recrutés. Cette fois, voyons d'où ils viennent. D'abord : pas de gacha dans ce jeu, la façon d'obtenir chaque héros est écrite noir sur blanc.
+
+[h2]Vous voulez un héros ? Ouvrez d'abord le Codex[/h2]
+Dans le Codex, cliquez sur un héros pour voir d'où il vient : il rejoint après une victoire à une certaine étape, se recrute à la Taverne, ou s'obtient via un Défi de boss. Les héros que vous n'avez pas encore apparaissent en silhouette, mais leur origine est quand même indiquée. Le Codex de la démo ne liste que les héros disponibles dans la démo : tous ceux que vous y voyez peuvent s'obtenir.
+[img]{STEAM_CLAN_IMAGE}/46216320/e4b8daa0635fb66e52aec1cc9f94c4a1537bc69f.png[/img]
+
+[h2]Envoyez vos héros en mission, gagnez des Bons de recrutement légendaire[/h2]
+Dans l'onglet « Envois » de la Taverne, vous pouvez envoyer des héros en mission. À la fin, tout se règle automatiquement et les Bons de recrutement légendaire arrivent directement chez vous, rien à récupérer.
+[list]
+[*]Les héros de votre Équipe peuvent partir aussi. Ils continuent de combattre et de farmer, donc votre progression n'est pas ralentie.
+[*]Chaque carte de mission affiche « Prév. +N bons » : prenez celles qui rapportent le plus. Certaines missions demandent une force ou une classe précise, c'est aussi indiqué sur la carte.
+[*]La flemme de choisir ? Appuyez sur « Envoi auto ». Il prend d'abord les classes qui correspondent, puis complète par force, de la plus haute à la plus basse. Ensuite, appuyez sur « Confirmer ».
+[*]Avec « Annuler » en cours de route, les héros reviennent tout de suite, mais cette mission ne rapporte aucun bon.
+[/list]
+Au tout début, votre effectif est trop petit et les envois ne sont pas encore ouverts. L'écran indique combien de héros il vous manque : recrutez-en quelques-uns de plus et ce sera débloqué.
+[img]{STEAM_CLAN_IMAGE}/46216320/24eb992fc0da476d001b6c58145537f93d610ee4.png[/img]
+
+[h2]Dès l'étape 101, la liste de faible rang change toutes les heures[/h2]
+Une fois l'étape 101 atteinte, la Taverne propose une liste supplémentaire de héros de faible rang. Un nouveau groupe arrive à chaque heure pile, à recruter avec des tickets de recrutement d'ère. Ces tickets tombent lors des victoires et pendant le farm.
+[list]
+[*]La liste tourne, et chacun passe une fois par tour. Sur le tableau de garantie de la liste, une ligne indique combien il en reste ce tour-ci et qu'ils arrivent au plus tard « sous N h ».
+[*]Rafraîchir à la main ne fait que passer à la page suivante, sans mélanger la rotation. Le premier rafraîchissement de chaque heure est gratuit.
+[*]Les listes manquées hors ligne ne sont pas rattrapées : à votre retour, vous voyez la page de l'heure en cours.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/cd2c7f511db0315f20e9d30acad206a29ad8bea7.png[/img]
+
+[h2]Les héros légendaires ont une cible de garantie au choix[/h2]
+Pour un héros légendaire, il faut d'abord son propre Jeton de recrue, puis le recruter à la Taverne avec des Bons de recrutement légendaire. Les Jetons de recrue tombent lors des victoires et pendant le farm, et plusieurs légendaires partagent la même garantie.
+Dans l'onglet « Recruter » de la Taverne, ouvrez le héros voulu et appuyez sur « En faire la cible de garantie ». Quand la garantie tombe, le jeton est pour lui. Seuls les héros légendaires de votre ère actuelle peuvent être choisis, et le jeton ne lui revient que si vous avez déjà atteint son étape d'origine et jouez une étape de la même ère. Sans cible, c'est au hasard parmi les candidats. La progression de la garantie s'affiche sur le tableau de garantie de la Taverne.
+(Comment obtenir la Diva triomphale, le Roi-loup de la plaine gelée et quelques autres, je l'ai expliqué dans l'article du 15 novembre, je ne le répète pas ici.)
+[img]{STEAM_CLAN_IMAGE}/46216320/892943bdb03e7f86f0bb1483bdfdfe0d8bcc3f18.png[/img]
+
+[h2]Défi de boss : perdre ne coûte rien, rejouez tout de suite[/h2]
+Après l'étape 12, les « Terres des épreuves » s'ouvrent dans la Forteresse, avec le « Défi de boss » à l'intérieur. Chaque boss de chapitre vaincu dans l'histoire principale y ouvre un combat. À la première victoire, ce héros vous rejoint directement, sans jeton ni bons.
+[list]
+[*]La difficulté est fixe et ne suit pas votre force. Si ça ne passe pas encore, entraînez-vous et revenez plus fort.
+[*]Perdre ne coûte rien et il n'y a pas de temps de recharge : vous pouvez réessayer tout de suite.
+[*]Une victoire ne donne que le héros, pas de ressources.
+[*]Les Défis de boss ne font pas partie de l'Avancée auto : il faut y aller et les lancer vous-même.
+[*]En plus des boss de chapitre, la démo a quelques boss de mi-parcours. Terminez l'étape correspondante pour pouvoir les défier.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/c5962bf5d17fa9bd4c107284f283e845f3aafd12.png[/img]
+
+Voilà d'où viennent les héros : butin de combat, bons via les envois de la Taverne, la liste horaire et les Défis de boss. Vous voulez quelqu'un ? Regardez d'abord son origine dans le Codex, et vous saurez où aller.
+
+Qu'aimeriez-vous que je vous présente d'autre, et qu'est-ce qui n'est pas clair ? Posez-moi vos questions en commentaire. Vous pouvez aussi nous rejoindre sur [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+[url=https://store.steampowered.com/app/5257220/]Jouer à la démo gratuite[/url] | [url=https://store.steampowered.com/app/4855890/]Ajouter le jeu complet à votre liste de souhaits[/url]

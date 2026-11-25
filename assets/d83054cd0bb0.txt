@@ -1,0 +1,52 @@
+Guide de l'actionnaire : quand partent les ultimes, comment placer vos héros
+发布日期：2026-11-17 15:21（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=french
+
+[b]C'est important, alors je le dis trois fois : la progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ![/b]
+
+Bonjour à tous, ici Juanmao.
+
+Le jeu complet sort le 3 décembre ! Plus que 16 jours avant de pouvoir y jouer !! Rien que de penser que le jeu va bientôt vous rencontrer, c'est trop excitant ! (Attention : la progression de la démo ne sera pas reprise dans le jeu complet !!!)
+
+Le Marché de la communauté Steam ouvrira avec le jeu complet~ Si vous avez de bonnes idées sur le Marché, laissez-les en commentaire. Si le jeu vous tente, ajoutez-le à votre liste de souhaits : vous serez prévenus dès sa sortie.
+
+Ceci n'est pas non plus une mise à jour : après les gains hors ligne de la dernière fois, je voudrais parler des héros et des compositions qui existent déjà dans la démo. On me demande souvent quand les ultimes se déclenchent vraiment, et comment placer ses héros une fois qu'on les a. Voici quelques points.
+
+[h2]Pas besoin d'appuyer : l'ultime part dès qu'il est chargé[/h2]
+Chaque héros possède une Spécialité, ce que tout le monde appelle son ultime. À la fin de chaque tour, tout le monde accumule du Moral ; une fois qu'il y en a assez, l'ultime se déclenche automatiquement quand vient le tour du héros. Pas besoin de cliquer.
+Les héros cinq étoiles ont en plus un gros plan dédié quand ils lancent leur ultime. C'est en vitesse x1 qu'on le voit en entier : tout le terrain se fige un instant, le gros plan ouvre les yeux, le nom de la technique s'affiche, puis l'attaque part. En vitesse x2, c'est la version rapide : pas de gros plan, la technique part directement.
+[img]{STEAM_CLAN_IMAGE}/46216320/dd1026a88919764c4da3309a0b7ddcbe84a8e866.jpg[/img]
+
+[h2]Deux héros cinq étoiles à obtenir tôt[/h2]
+[list]
+[*]Diva triomphale : la première fois que vous passez l'étape 22, son Jeton est garanti ; recrutez-la ensuite à la Taverne avec des Bons de recrutement légendaire. Son ultime augmente les dégâts de la prochaine Spécialité de l'allié ayant la plus haute Intelligence sur sa ligne, puis frappe toute une ligne ennemie.
+[*]Roi-loup de la plaine gelée : une fois l'étape 30 de la Campagne passée, le Défi de boss des Terres des épreuves s'ouvre. Battez-le une première fois et il vous rejoint directement, sans Jeton ni Bons. Il commence le combat avec du Moral, et son ultime donne une grosse dose de Moral à l'allié ayant la plus haute Puissance sur sa ligne.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/46216320/d268f6d7708df421375551883c6ae8d4d49dec38.jpg[/img]
+
+[h2]Pour les auras, regardez d'abord les cases couvertes[/h2]
+Sur la page Équipe, cliquez sur un héros : les cases couvertes par son aura s'allument sur le plateau. Dans l'onglet « Aura » des détails de compétence, la zone est aussi dessinée. Quelques exemples courants :
+[list]
+[*]Sage du cercle de pierre : les alliés de la même rangée infligent plus de dégâts physiques. « La même rangée », c'est la bande verticale sur le plateau : placez donc vos attaquants physiques dans la même bande qu'elle.
+[*]Prêtre du phare : couvre sa propre case et les alliés adjacents en haut, en bas, à gauche et à droite, et augmente les soins qu'ils reçoivent.
+[/list]
+Par ailleurs, grâce à son Trait de classe, le Paladin (la classe par défaut du protagoniste) encaisse une partie des dégâts des alliés situés en haut, en bas, à gauche et à droite : vos attaquants fragiles peuvent se coller à lui.
+[img]{STEAM_CLAN_IMAGE}/46216320/ca540c2a8d9dbcc267006d6dd21445935e1596f5.jpg[/img]
+
+[h2]Déplacez un peu votre placement de départ[/h2]
+Sur la page Équipe, la bande verticale tout à droite est la rangée 1, face aux ennemis. Les attaques de base visent d'abord l'ennemi le plus en avant sur la même ligne ; si cette ligne est vide, elles visent la ligne la plus proche ; si quelqu'un a Provocation sur le terrain, il est frappé en premier.
+Sur une nouvelle sauvegarde, le Lancier vétéran et le Pisteur des sentiers sont placés par défaut en rangée 3. Vous pouvez avancer le Lancier tout devant, placer le Commandant à côté de lui et cacher le Pisteur derrière le Lancier.
+[img]{STEAM_CLAN_IMAGE}/46216320/1b9c8b675a6ad7c4f1879fb464071d4246c83ad5.jpg[/img]
+
+[h2]Quand vous avez plus de héros[/h2]
+[list]
+[*]Jusqu'à 10 héros peuvent être déployés, protagoniste compris. Le plafond de coût augmente avec les améliorations du Grand hall de l'agence, et le protagoniste ne coûte rien.
+[*]Les héros deux et trois étoiles s'achètent directement à la Taverne avec des Bons de recrutement légendaire : prix affichés, pas de tirage.
+[*]Si vous perdez, regardez d'abord qui tombe en premier : si vos héros à l'avant tombent d'un coup, renforcez d'abord la résistance ; s'ils tiennent mais que les ennemis ne meurent pas, c'est que vous manquez de dégâts.
+[/list]
+
+Quels autres héros aimeriez-vous que je vous présente, et qu'est-ce qui n'est pas clair ? Posez-moi vos questions en commentaire. Vous pouvez aussi nous rejoindre sur [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+[url=https://store.steampowered.com/app/5257220/]Jouer à la démo gratuite[/url] | [url=https://store.steampowered.com/app/4855890/]Ajouter le jeu complet à votre liste de souhaits[/url]

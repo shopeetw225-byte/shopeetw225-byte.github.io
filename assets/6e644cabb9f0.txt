@@ -1,0 +1,43 @@
+Contenu du jeu complet : après l'étape 800, ères, paliers difficile et Cauchemar
+发布日期：2026-11-25 12:00（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704411368981267859?l=french
+
+[b]C'est important, alors je le dis trois fois : la progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ![/b]
+
+Bonjour à tous, ici Juanmao.
+
+Le jeu complet sort le 3 décembre ! Plus que 8 jours ! Le Marché de la communauté Steam ouvrira avec le jeu complet~ Si vous avez des idées sur le Marché, laissez-les en commentaire.
+
+Cet article parle du contenu du jeu complet, rien de tout ça n'est dans la démo. Beaucoup m'ont demandé ce qu'il y a après l'étape 800 de la démo, alors on en parle aujourd'hui.
+
+[h2]Une ère toutes les 200 étapes, 10 au total[/h2]
+Dans le jeu complet, la campagne principale est découpée en ères de 200 étapes : 10 ères, 2000 étapes au total. Battez le boss de la dernière étape d'une ère et vous passez à la suivante, avec des ennemis plus coriaces et plus de revenus.
+L'étape 800, là où s'arrête la démo, c'est pile la dernière étape de la 4e ère. Le jeu complet repart de l'étape 1, et derrière, il reste encore 6 ères.
+
+[h2]Battez le boss de l'ère, débloquez le Palier difficile et le Palier Cauchemar[/h2]
+En plus du Palier normal, chaque ère a un Palier difficile et un Palier Cauchemar :
+[list]
+[*]Palier difficile : il se débloque quand vous gagnez le Défi de boss de cette ère ;
+[*]Palier Cauchemar : ensuite, allez dans l'onglet « Ères » de l'Académie, appuyez sur « Commencer » et gagnez l'épreuve d'ère pour le débloquer. C'est le même boss, mais le combat est plus vicieux, et en survolant le bouton, vous voyez la force conseillée.
+[/list]
+Une fois la victoire obtenue, l'écran de résultats affiche « Palier difficile débloqué » ou « Palier Cauchemar débloqué ». Un palier débloqué ne se reverrouille jamais, et il n'efface pas non plus votre progression.
+[img]{STEAM_CLAN_IMAGE}/46216320/be44815473a565dc9e3994c44d1fe9b6671e1293.png[/img]
+[img]{STEAM_CLAN_IMAGE}/46216320/ba1b9d6aadbe6fb28f6e2cb9632fe8c3d7e53b44.png[/img]
+
+[h2]Ensuite : nouvelle tactique, on repousse tout[/h2]
+Le Palier difficile et le Palier Cauchemar ont chacun leur propre ligne d'étapes, à changer en bas à droite de la carte du chapitre. Une fois basculé, vous reprenez cette ère depuis sa première étape.
+Les ennemis sont les mêmes, mais plus forts, et une règle de plus s'applique dès le début. Survolez les boutons de palier en bas à droite pour la voir. Par exemple, dans le Palier difficile de l'ère 1 : « Les ennemis concentrent leur tir sur une colonne — dispersez votre équipe. » Le Palier Cauchemar ajoute encore une contrainte, et le boss dresse en plus un mur de boucliers en première ligne dès le début. Empiler de la force ne suffit donc pas : il faut changer de placement et de façon de jouer.
+Quand vous jouez en auto sur les étapes franchies, le butin suit ce palier, et il est meilleur qu'en Palier normal. Chaque étape donne aussi une récompense de premier passage la première fois que vous la terminez.
+[img]{STEAM_CLAN_IMAGE}/46216320/bf371c7fe4fa2b6b5f32e54a4409bef587812bb5.png[/img]
+
+[h2]Les Archives d'ère à l'Académie[/h2]
+Dans l'onglet « Ères » de l'Académie, chaque ère a ses propres Archives d'ère, valables seulement sur les étapes de cette ère. Elles ont trois lignes : Collecte, Butin et Auto. Choisissez-en une comme Majeure. Vous pouvez changer de Majeure à tout moment, mais seule la Majeure atteint le max. Pour monter les archives plus haut, il faut d'abord débloquer le Palier difficile et le Palier Cauchemar de cette ère.
+[img]{STEAM_CLAN_IMAGE}/46216320/186e65e98d50b7f11f4465f6e24bfd6215234262.png[/img]
+
+Pour résumer : le jeu complet compte 10 ères, et les 800 étapes de la démo n'en couvrent que les quatre premières. Après chaque ère, vous pouvez encore débloquer le Palier difficile et le Palier Cauchemar, et tout refaire avec une autre tactique. Les valeurs exactes sont encore en réglage d'ici la sortie, donc je ne les mets pas ici pour l'instant.
+
+Qu'aimeriez-vous que je vous présente d'autre, et qu'est-ce qui n'est pas clair ? Posez-moi vos questions en commentaire. Vous pouvez aussi nous rejoindre sur [url=https://discord.gg/uEwdWz2h62]Discord[/url].
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+[url=https://store.steampowered.com/app/5257220/]Jouer à la démo gratuite[/url] | [url=https://store.steampowered.com/app/4855890/]Ajouter le jeu complet à votre liste de souhaits[/url]
