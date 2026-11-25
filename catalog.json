@@ -17584,7 +17584,7 @@
       "dateBasis": "Steam修订90（11-24 10:41）、91（11:15）、92（14:10）发布回执及11-24匿名十语商店页引用核对",
       "status": "已发布 · 十语",
       "summary": "三次发布共更新十语详情页38处动图引用：开箱、阵容搭配、试炼之塔换c86实机新图，繁中大招换d2f新图，七语桌面多窗改用英文d2f版。",
-      "body": "商店修订90把简中、繁中的03开箱、06阵容搭配、09试炼之塔三节换成本语新动图；其他八种语言的06阵容搭配换成新的英文动图，03、09两节这次没有新英文版，保持原来的英文图。共14处引用、7张新素材，详情页文字未改，旧素材未删。11-24匿名读取十语商店页：简中新图在第3、6、9张，繁中在第2、5、8张，其他八语的阵容图在第5张；逐张抽帧看过，界面语言正确。动图以Steam公开地址引用，网页不另存副本。商店修订91（11-24 11:15）再把其他八种语言的03开箱、09试炼之塔换成新的c86英文动图，每语2处、共16处，文字未改，简中、繁中未动。11-24匿名重读十语商店页：八语的开箱在第2张、试炼在第8张，阵容仍在第5张；简繁位置不变；新图抽帧为英文界面。至此三节全部上线：简中、繁中用本语图，其他八语用英文图。商店修订92（11-24 14:10）：繁中第01节战斗大招换成d2f新图；日、韩、德、法、西、巴葡、俄的第02节桌面多窗由各自旧版改用英文d2f版（英文页早已在用，未重新上传）；共8处引用，文字未改，旧素材未删。11-24匿名重读十语商店页：繁中第1张为新大招图，原开箱、阵容、试炼顺延到第3、6、9张；七语第1张为英文桌面图；简中、英文未变。新繁中大图抽帧为繁体界面。目前第01节只有简中、繁中是d2f大招图，其他八语仍是旧图。",
+      "body": "商店修订90把简中、繁中的03开箱、06阵容搭配、09试炼之塔三节换成本语新动图；其他八种语言的06阵容搭配换成新的英文动图，03、09两节这次没有新英文版，保持原来的英文图。共14处引用、7张新素材，详情页文字未改，旧素材未删。11-24匿名读取十语商店页：简中新图在第3、6、9张，繁中在第2、5、8张，其他八语的阵容图在第5张；逐张抽帧看过，界面语言正确。动图以Steam公开地址引用，网页不另存副本。商店修订91（11-24 11:15）再把其他八种语言的03开箱、09试炼之塔换成新的c86英文动图，每语2处、共16处，文字未改，简中、繁中未动。11-24匿名重读十语商店页：八语的开箱在第2张、试炼在第8张，阵容仍在第5张；简繁位置不变；新图抽帧为英文界面。至此三节全部上线：简中、繁中用本语图，其他八语用英文图。商店修订92（11-24 14:10）：繁中第01节战斗大招换成d2f新图；日、韩、德、法、西、巴葡、俄的第02节桌面多窗由各自旧版改用英文d2f版（英文页早已在用，未重新上传）；共8处引用，文字未改，旧素材未删。11-24匿名重读十语商店页：繁中第1张为新大招图，原开箱、阵容、试炼顺延到第3、6、9张；七语第1张为英文桌面图；简中、英文未变。新繁中大图抽帧为繁体界面。目前第01节只有简中、繁中是d2f大招图，其他八语仍是旧图。11-25 修订98 已把第01节换成三语新版，见「Steam 详情页动图 · 修订98（第01节三语）」。",
       "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855890/extras/1aa6a93a8faa38bdc9402c16cf55709a.poster.avif?t=1795488158",
       "files": [
         {
@@ -19950,6 +19950,104 @@
           "status": "已发布"
         }
       ]
+    },
+    {
+      "id": "steam-store-gif-updates-20261125-r98",
+      "title": "Steam 详情页动图 · 修订98（第01节三语）",
+      "category": "封面与视觉",
+      "group": "详情页图片",
+      "date": "2026-11-25",
+      "dateBasis": "Steamworks 修订98 发布（pubresult=success）、Codex专用 十语公开页核对（11-25 17:12）及 11-25 匿名十语商店接口核对",
+      "status": "已发布 · 十语",
+      "summary": "详情页第01节战斗大招动图换成简中、繁中、英文三语新版，其他七语共用英文版。",
+      "body": "商店修订98（11-25）把详情页第01节的战斗大招动图换成新录的三语版本：简中、繁中各用本语界面，英文版供英、日、韩、德、法、西、巴葡、俄八语共用；名牌都是本语言，6 秒、60 帧。旧的第01节动图（f47d6fb6 及繁中 d2f 版 9d78a7ca）已从十语页面撤下。11-25 匿名读取十语商店接口：简中引用 b74a6ad1、繁中 02306e92、其余八语 8a88be22，旧图都不在了；Codex专用 核对过十语都排在第二个媒体位，三支公开文件与发布前核过的逐个相同；对话管理在浏览器里看过简繁英三语都在播放。动图以 Steam 公开地址引用，网页不另存副本。",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/b74a6ad151762fee9c4cd3bef943206d.poster.avif?t=1795597681",
+      "files": [
+        {
+          "name": "简体中文 · 战斗大招（01节）",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/b74a6ad151762fee9c4cd3bef943206d.mp4?t=1795597681",
+          "type": "video",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/b74a6ad151762fee9c4cd3bef943206d.poster.avif?t=1795597681",
+          "sourceGifSha256": "171a5607df57cb899700e0c4cc2e407967e6a4f1de59dc73995b2a495c76e46e"
+        },
+        {
+          "name": "繁体中文 · 战斗大招（01节，v2）",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/02306e922844f9614c877c9c716e98e0.mp4?t=1795597681",
+          "type": "video",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/02306e922844f9614c877c9c716e98e0.poster.avif?t=1795597681",
+          "sourceGifSha256": "f0ce8bfe13f0a919c107d321ec3af1f799f7d5eebe9911dc8f5e25be07ecf4cd"
+        },
+        {
+          "name": "英文 · 战斗大招（01节，其他七语共用）",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/8a88be220972c7a184b3b7c03df89c75.mp4?t=1795597681",
+          "type": "video",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/8a88be220972c7a184b3b7c03df89c75.poster.avif?t=1795597681",
+          "sourceGifSha256": "a229899c630b93398fe9acd1544c74d19167eb475e5e15b36de057bcf4b382b6"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-25",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261125/CC_第01节三语发布后十语公开页核对_1125.md"
     }
   ]
 }
