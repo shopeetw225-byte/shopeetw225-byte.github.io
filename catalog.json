@@ -19551,6 +19551,405 @@
           }
         ]
       }
+    },
+    {
+      "id": "steam-main-trailer",
+      "title": "Steam 主预告片 · v30",
+      "category": "宣传视频",
+      "date": "2026-11-11",
+      "dateBasis": "Steam 修订69主片 / 修订70精简片公开核对",
+      "summary": "63.37秒三语实机视频，补入装备开箱、揭晓和结果画面。",
+      "files": [
+        {
+          "name": "放置事务所_Steam主预告片_v30.mp4",
+          "url": "assets/v30-main-schinese-18969db3dc65.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v30.mp4",
+          "sha256": "4266aaec0ef9cf31ec6416d1f32197d8bca9812f2faf90c17416d65f88d6d569",
+          "previewSha256": "18969db3dc6587994642133626bc0ee50444d9f8fb16b4eec874a74c8b5ee26a",
+          "updated": "2026-11-11"
+        },
+        {
+          "name": "英文版v30.mp4",
+          "url": "assets/v30-main-english-7a77a6b4a6fa.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/英文版v30.mp4",
+          "sha256": "0b1d5f98f60c5d7d37ffd8bd2926c3653c6662b92755be804f376b61313acfd5",
+          "previewSha256": "7a77a6b4a6fa50aab9ba93a865b3c1156f071a44fe38874dba4db64c188fe795",
+          "updated": "2026-11-11"
+        },
+        {
+          "name": "繁中版v30.mp4",
+          "url": "assets/v30-main-tchinese-35309cf7ad01.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/繁中版v30.mp4",
+          "sha256": "629d831ac9b3e8c8f63fc3f6760f87cab50cc5cfe1fa75407ed5cab8dc54c84b",
+          "previewSha256": "35309cf7ad012b428046d50a3a84fca6edb48e994f280d173f0664826b954f63",
+          "updated": "2026-11-11"
+        }
+      ],
+      "status": "已发布 · 十语实际公开页核对通过",
+      "body": "主预告片补入装备开箱的完整关键镜头。沿用已验收的年轻英雄选角与风暴血君雷电大招。简中、繁中各用对应成片，其他八种语言使用英文版。",
+      "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v30.mp4",
+      "cover": "assets/v30-main-schinese-b63270ae2a5b.jpg",
+      "detailNote": "网页提供三语压缩预览；原始1080p60母片已验收。十语核对视频播放、截图及详情页动效。",
+      "duration": 63.373833,
+      "links": [
+        {
+          "platform": "Steam · schinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · tchinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · english",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · japanese",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · koreana",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · german",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · french",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · spanish",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · brazilian",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · russian",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        }
+      ],
+      "group": "Steam 视频",
+      "sourceCommit": "5f8f701a5c9fa78262b32f2e10316be2e5b6a27f"
+    },
+    {
+      "id": "work-9",
+      "title": "19 秒 · 上架 Steam",
+      "category": "宣传视频",
+      "date": "2026-10-01",
+      "dateBasis": "制作记录",
+      "summary": "19 秒开场片头，实机快切与 Steam 商店展示。",
+      "files": [
+        {
+          "name": "简中横屏版_开场片头_上架Steam.mp4",
+          "url": "assets/268c0d96a409.mp4",
+          "type": "video",
+          "source": "视频制作/19秒小视频/成片/简中横屏版_开场片头_上架Steam.mp4",
+          "updated": "2026-10-01"
+        },
+        {
+          "name": "简中竖屏版_开场片头_上架Steam.mp4",
+          "url": "assets/47e3b70d60d5.mp4",
+          "type": "video",
+          "source": "视频制作/19秒小视频/成片/简中竖屏版_开场片头_上架Steam.mp4",
+          "updated": "2026-10-01"
+        },
+        {
+          "name": "英文横屏版_开场片头_上架Steam.mp4",
+          "url": "assets/6d62a3a6b00b.mp4",
+          "type": "video",
+          "source": "视频制作/19秒小视频/成片/英文横屏版_开场片头_上架Steam.mp4",
+          "updated": "2026-10-01"
+        }
+      ],
+      "status": "成片已归档",
+      "body": "",
+      "source": "视频制作/19秒小视频/成片/简中横屏版_开场片头_上架Steam.mp4",
+      "cover": "assets/e5c98050ec5f.jpg",
+      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
+      "duration": 18.627125,
+      "links": [],
+      "group": "平台视频"
+    },
+    {
+      "id": "work-10",
+      "title": "转场 01 · 英雄图鉴滑屏",
+      "category": "宣传视频",
+      "date": "2026-10-01",
+      "dateBasis": "制作记录",
+      "summary": "英雄图鉴滑屏与音乐卡点的短视频试剪。",
+      "files": [
+        {
+          "name": "简中横屏版_英雄图鉴滑屏_试剪.mp4",
+          "url": "assets/96b4f94529e9.mp4",
+          "type": "video",
+          "source": "视频制作/转场1/成片/简中横屏版_英雄图鉴滑屏_试剪.mp4",
+          "updated": "2026-10-06"
+        },
+        {
+          "name": "简中竖屏版_英雄图鉴滑屏_试剪.mp4",
+          "url": "assets/1eb337f5b2e2.mp4",
+          "type": "video",
+          "source": "视频制作/转场1/成片/简中竖屏版_英雄图鉴滑屏_试剪.mp4",
+          "updated": "2026-10-06"
+        }
+      ],
+      "status": "已公开 · B站 / 抖音 / 小红书",
+      "body": "",
+      "source": "视频制作/转场1/成片/简中横屏版_英雄图鉴滑屏_试剪.mp4",
+      "cover": "assets/7c04f57d5bde-poster.jpg",
+      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
+      "duration": 34.033333,
+      "links": [
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1njaB6ZEax",
+          "date": "2026-10-01",
+          "status": "已公开",
+          "source": "2026-10-13 账号作品列表现场核对"
+        },
+        {
+          "platform": "抖音",
+          "url": "https://www.douyin.com/video/7691645419733929242",
+          "date": "2026-10-01",
+          "status": "已公开",
+          "source": "2026-10-13 账号作品列表现场核对"
+        },
+        {
+          "platform": "小红书",
+          "url": "https://www.xiaohongshu.com/explore/6abe36c1000000001a02b970?xsec_token=ABM3TAFkWFy8roBbDLlAsrsqF9U-p24YSzHEiiDJss4NU=&xsec_source=pc_user",
+          "date": "2026-10-01",
+          "status": "已公开",
+          "source": "2026-10-13 账号公开作品页及创作中心核对"
+        }
+      ],
+      "group": "转场视频"
+    },
+    {
+      "id": "work-11",
+      "title": "转场 02 · 英雄名牌卡点",
+      "category": "宣传视频",
+      "date": "2026-10-02",
+      "dateBasis": "制作记录",
+      "summary": "英雄名牌、红黑字卡与重拍切换的短视频试剪。",
+      "files": [
+        {
+          "name": "简中横屏版_英雄名牌卡点_试剪.mp4",
+          "url": "assets/3a168b16af74.mp4",
+          "type": "video",
+          "source": "视频制作/转场2/成片/简中横屏版_英雄名牌卡点_试剪.mp4",
+          "updated": "2026-10-02"
+        },
+        {
+          "name": "简中竖屏版_英雄名牌卡点_试剪.mp4",
+          "url": "assets/219878183d0a.mp4",
+          "type": "video",
+          "source": "视频制作/转场2/成片/简中竖屏版_英雄名牌卡点_试剪.mp4",
+          "updated": "2026-10-02"
+        },
+        {
+          "name": "英文横屏版_英雄名牌卡点_试剪.mp4",
+          "url": "assets/fdce24f07c8e.mp4",
+          "type": "video",
+          "source": "视频制作/转场2/成片/英文横屏版_英雄名牌卡点_试剪.mp4",
+          "updated": "2026-10-02"
+        }
+      ],
+      "status": "已公开 · B站 / 抖音 / 小红书",
+      "body": "",
+      "source": "视频制作/转场2/成片/简中横屏版_英雄名牌卡点_试剪.mp4",
+      "cover": "assets/ebccc4ff633c-poster.jpg",
+      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
+      "duration": 22.4,
+      "links": [
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1w4HW6bEWq",
+          "date": "2026-10-05",
+          "status": "已公开",
+          "source": "2026-10-13 账号作品列表现场核对"
+        },
+        {
+          "platform": "抖音",
+          "url": "https://www.douyin.com/video/7693122508135992611",
+          "date": "2026-10-05",
+          "status": "已公开",
+          "source": "2026-10-13 账号作品列表现场核对"
+        },
+        {
+          "platform": "小红书",
+          "url": "https://www.xiaohongshu.com/user/profile/69b258e9000000003402db68/6ac375e5000000001500ad21?xsec_token=ABNDQ2AJ5shfL9omCQs-5pQMNom2CvSStOB5YI8MwMzs4=&xsec_source=pc_user",
+          "date": "2026-10-05",
+          "status": "已公开",
+          "source": "2026-10-13 账号公开作品页及创作中心核对"
+        }
+      ],
+      "group": "转场视频"
+    },
+    {
+      "id": "steam-704410099752371038-covers",
+      "title": "Demo v5 更新公告 · 听劝更新封面",
+      "category": "封面与视觉",
+      "group": "封面",
+      "date": "2026-11-05",
+      "dateBasis": "发布日期",
+      "summary": "新 Q 版英雄插画 · 简中、英文两版；中文两语用简中封面，其他八语用英文封面。",
+      "status": "已发布 · 十语",
+      "files": [
+        {
+          "name": "简体中文 / 繁體中文 · 听劝更新封面",
+          "url": "assets/steam-704410099752371038-cover-schinese.png",
+          "type": "image",
+          "source": "output/steam-demo-v5-announcement-20261105/封面/12_读玩家来信_schinese.png"
+        },
+        {
+          "name": "English / 其他七语 · 听劝更新封面",
+          "url": "assets/steam-704410099752371038-cover-english.png",
+          "type": "image",
+          "source": "output/steam-demo-v5-announcement-20261105/封面/12_读玩家来信_english.png"
+        }
+      ],
+      "cover": "assets/steam-704410099752371038-cover-schinese.png",
+      "source": "output/steam-demo-v5-announcement-20261105/封面",
+      "links": [
+        {
+          "platform": "Steam 公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=schinese",
+          "date": "2026-11-05",
+          "status": "已发布"
+        }
+      ]
+    },
+    {
+      "id": "steam-704410368784466107-covers",
+      "title": "Demo v8 更新公告 · 12月3日正式版上线封面",
+      "category": "封面与视觉",
+      "group": "公告封面",
+      "date": "2026-11-09",
+      "dateBasis": "发布日期",
+      "summary": "第15张Q版英雄插画「打雪仗」；上线日期直接写在放大的木牌上。中文两语用简中图，其他八语用英文图。",
+      "status": "已发布 · 十语",
+      "files": [
+        {
+          "name": "简体中文 / 繁體中文 · 12月3日正式版上线封面",
+          "url": "assets/steam-704410368784466107-cover-schinese.png",
+          "type": "image",
+          "source": "output/steam-demo-v8-announcement-20261108/release-date-revision/wood-sign/15_打雪仗_schinese.png"
+        },
+        {
+          "name": "English / 其他七语 · 12月3日正式版上线封面",
+          "url": "assets/steam-704410368784466107-cover-english.png",
+          "type": "image",
+          "source": "output/steam-demo-v8-announcement-20261108/release-date-revision/wood-sign/15_打雪仗_english.png"
+        }
+      ],
+      "cover": "assets/steam-704410368784466107-cover-schinese.png",
+      "source": "output/steam-demo-v8-announcement-20261108/release-date-revision/wood-sign",
+      "links": [
+        {
+          "platform": "Steam 公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410368784466107?l=schinese",
+          "date": "2026-11-09",
+          "status": "已发布"
+        }
+      ]
+    },
+    {
+      "id": "steam-696529526775087164-covers",
+      "title": "离线收益新闻 · 12月3日正式版上线封面",
+      "category": "封面与视觉",
+      "group": "公告封面",
+      "date": "2026-11-12",
+      "dateBasis": "发布日期",
+      "summary": "第16张Q版英雄插画「摘苹果」；左下两行大字标注上线日期。中文两语用简中图，其他八语用英文图。",
+      "status": "已发布 · 十语",
+      "files": [
+        {
+          "name": "简体中文 / 繁體中文 · 12月3日正式版上线封面",
+          "url": "assets/steam-696529526775087164-cover-schinese.png",
+          "type": "image",
+          "source": "output/steam-news-20261112/cover-date-revision-v5/16_摘苹果_两行v5_schinese.png"
+        },
+        {
+          "name": "English / 其他七语 · 12月3日正式版上线封面",
+          "url": "assets/steam-696529526775087164-cover-english.png",
+          "type": "image",
+          "source": "output/steam-news-20261112/cover-date-revision-v5/16_摘苹果_两行v5_english.png"
+        }
+      ],
+      "cover": "assets/steam-696529526775087164-cover-schinese.png",
+      "source": "output/steam-news-20261112/cover-date-revision-v5",
+      "links": [
+        {
+          "platform": "Steam 新闻原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=schinese",
+          "date": "2026-11-12",
+          "status": "已发布"
+        }
+      ]
+    },
+    {
+      "id": "steam-696529526775088431-covers",
+      "title": "英雄与阵容新闻 · 两版公告封面",
+      "category": "封面与视觉",
+      "group": "公告封面",
+      "date": "2026-11-17",
+      "dateBasis": "发布日期",
+      "summary": "Q版英雄装饰圣诞树；简中、繁中用中文封面，其他八语用英文封面。",
+      "status": "已发布 · 十语",
+      "files": [
+        {
+          "name": "简中／繁中 · 公告封面",
+          "url": "assets/steam-696529526775088431-cover-schinese.png",
+          "type": "image",
+          "source": "output/steam-news-20261115/v8/publication/artwork/header_schinese.png",
+          "sha256": "4537f5f8c1c7901958411a7fdad6ae6f28e3269afdc9a13452bc3267b42c0dc1"
+        },
+        {
+          "name": "其他八语 · 公告封面",
+          "url": "assets/steam-696529526775088431-cover-english.png",
+          "type": "image",
+          "source": "output/steam-news-20261115/v8/publication/artwork/header_english.png",
+          "sha256": "b6b15a7d1c3b47fcf57fd052054a66c34f2bbb0ea4c8c31e6ded8a12add06ec5"
+        }
+      ],
+      "cover": "assets/steam-696529526775088431-cover-schinese.png",
+      "source": "output/steam-news-20261115/封面",
+      "links": [
+        {
+          "platform": "Steam 公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=schinese",
+          "date": "2026-11-17",
+          "status": "已发布"
+        }
+      ]
     }
   ]
 }
