@@ -14581,7 +14581,7 @@
       "dateBasis": "Steam修订84公开截图顺序、来源与实际画面核对",
       "status": "已发布 · 简中三张",
       "summary": "同步简中商店前3张截图：战斗大招、事务所经营和阵容搭配。",
-      "body": "本次仅更新简中第01、02、03张公开截图。其余77项已验收截图仍待更新，不计为已公开；其他语言与历史截图保留。 11-23 修订86已公开十语全部90张新截图，见「Steam 商店截图 · 十语九张（修订86）」。",
+      "body": "本次仅更新简中第01、02、03张公开截图。其余77项已验收截图仍待更新，不计为已公开；其他语言与历史截图保留。 11-23 修订86已公开十语全部90张新截图，见「Steam 商店截图 · 十语九张（修订86）」。（修订101已把简繁英韩德法西葡俄九语第3张编队布阵换成新版，见 steam-store-screenshots-20261125-r101。）",
       "cover": "assets/r84-schinese-shot-01-69602691b4f9.jpg",
       "files": [
         {
@@ -16147,7 +16147,7 @@
       "dateBasis": "Steam修订86发布回执（11-23 17:31）及11-23晚匿名十语公开接口截图顺序核对",
       "status": "已发布 · 十语90张",
       "summary": "十种语言各9张本语实机截图同时上线：战斗大招、事务所经营、阵容搭配、英雄技能、守护灵、战报、派遣宝箱、首领挑战和试炼之塔。",
-      "body": "商店修订86发布十语第04张新截图（凯歌天后技能页），并一起公开11-20已保存的其余80张本语截图绑定；此前公开页只有简中01–03为新图。11-23晚匿名读取十语商店接口，每种语言9张、顺序一致，截图标识与上传清单逐一对上；十语九宫格逐张看过，界面语言均与所在语言页一致。网页为1600宽压缩预览，原图见对应Steam商店页。11-20简中01–03条目保留作历史记录。11-24修订93已把十语第9张换成新版试炼之塔，见「Steam 商店截图 · 十语第九张试炼之塔（修订93）」。11-24修订96又换了简繁第3、4、5、8张和英德韩俄第4张，见「Steam 商店截图 · 第一批12张（修订96）」。11-25 修订97、99 又换了第1、2、3、4、6、7张的部分语言，见「第4批34张（修订97）」「技能页与战报19张（修订99）」。",
+      "body": "商店修订86发布十语第04张新截图（凯歌天后技能页），并一起公开11-20已保存的其余80张本语截图绑定；此前公开页只有简中01–03为新图。11-23晚匿名读取十语商店接口，每种语言9张、顺序一致，截图标识与上传清单逐一对上；十语九宫格逐张看过，界面语言均与所在语言页一致。网页为1600宽压缩预览，原图见对应Steam商店页。11-20简中01–03条目保留作历史记录。11-24修订93已把十语第9张换成新版试炼之塔，见「Steam 商店截图 · 十语第九张试炼之塔（修订93）」。11-24修订96又换了简繁第3、4、5、8张和英德韩俄第4张，见「Steam 商店截图 · 第一批12张（修订96）」。11-25 修订97、99 又换了第1、2、3、4、6、7张的部分语言，见「第4批34张（修订97）」「技能页与战报19张（修订99）」。（修订101已把简繁英韩德法西葡俄九语第3张编队布阵换成新版，见 steam-store-screenshots-20261125-r101。）",
       "cover": "assets/r86-schinese-shot-01-1f6fb537ec09.jpg",
       "files": [
         {
@@ -18074,7 +18074,7 @@
       "dateBasis": "Steam修订96发布回执（11-24 约17:41）及11-24匿名十语商店接口截图顺序核对",
       "status": "已发布 · 12张",
       "summary": "商店修订96换了第一批12张本语截图：简繁第3张布阵、第4张英雄技能、第5张守护灵、第8张首领挑战，英德韩俄第4张英雄技能。",
-      "body": "商店修订96（11-24 约17:41）换了第一批12张商店截图，均为本语实机界面，1920×1080：简中、繁中的第3张布阵、第4张英雄技能（凯歌天后技能页）、第5张守护灵（晨曦不死鸟升级页）、第8张首领挑战（迅星刃姬，首领战力288K）；英文、德文、韩文、俄文的第4张英雄技能。日文、法文、西班牙文、巴西葡萄牙文的第4张新版文字溢出，会切掉手续费那一行，所以这四语继续用原来的第4张。11-24匿名读取十语商店接口：每种语言仍是9张，上述12个位置是新图，其余78张与修订93后一致；12张逐张看过，界面语言与所在语言页一致。网页为1600宽压缩预览，原图见对应Steam商店页。11-25 修订99 已把十语第4张换成004999b4新版，见「技能页与战报19张（修订99）」。",
+      "body": "商店修订96（11-24 约17:41）换了第一批12张商店截图，均为本语实机界面，1920×1080：简中、繁中的第3张布阵、第4张英雄技能（凯歌天后技能页）、第5张守护灵（晨曦不死鸟升级页）、第8张首领挑战（迅星刃姬，首领战力288K）；英文、德文、韩文、俄文的第4张英雄技能。日文、法文、西班牙文、巴西葡萄牙文的第4张新版文字溢出，会切掉手续费那一行，所以这四语继续用原来的第4张。11-24匿名读取十语商店接口：每种语言仍是9张，上述12个位置是新图，其余78张与修订93后一致；12张逐张看过，界面语言与所在语言页一致。网页为1600宽压缩预览，原图见对应Steam商店页。11-25 修订99 已把十语第4张换成004999b4新版，见「技能页与战报19张（修订99）」。（修订101已把简繁英韩德法西葡俄九语第3张编队布阵换成新版，见 steam-store-screenshots-20261125-r101。）",
       "cover": "assets/r96-schinese-shot-03-5bf7f3106ca7.jpg",
       "files": [
         {
@@ -20058,7 +20058,7 @@
       "dateBasis": "Steam修订97发布（11-25，第4批）、steam 十语公开页独立复核（6205475c）及11-25匿名十语商店接口核对",
       "status": "已发布 · 34张",
       "summary": "商店修订97换了第4批34张本语截图：十语第1张战斗大招、第7张开宝箱，七语第2张要塞、七语第3张编队布阵。",
-      "body": "商店修订97（11-25）换了第4批34张商店截图，均为本语实机界面，1920×1080：十种语言的第1张（战斗大招）和第7张（开宝箱）；简中、繁中、英、德、法、西、巴葡的第2张（要塞）；英、韩、德、法、西、巴葡、俄的第3张（编队布阵）。日文、韩文、俄文的第2张和日文的第3张保留原图。steam 独立复核十语公开页：34格新图与本地待传文件逐张比PSNR 40.2–46.9 dB，没有放错语言。11-25匿名读取十语商店接口，34张都在对应位置；34张逐张看过，界面语言与所在语言页一致。本条在修订99同步时补录。网页为1600宽压缩预览，原图见对应Steam商店页。",
+      "body": "商店修订97（11-25）换了第4批34张商店截图，均为本语实机界面，1920×1080：十种语言的第1张（战斗大招）和第7张（开宝箱）；简中、繁中、英、德、法、西、巴葡的第2张（要塞）；英、韩、德、法、西、巴葡、俄的第3张（编队布阵）。日文、韩文、俄文的第2张和日文的第3张保留原图。steam 独立复核十语公开页：34格新图与本地待传文件逐张比PSNR 40.2–46.9 dB，没有放错语言。11-25匿名读取十语商店接口，34张都在对应位置；34张逐张看过，界面语言与所在语言页一致。本条在修订99同步时补录。网页为1600宽压缩预览，原图见对应Steam商店页。（修订101已把简繁英韩德法西葡俄九语第3张编队布阵换成新版，见 steam-store-screenshots-20261125-r101。）",
       "cover": "assets/r97-schinese-shot-01-dff8afbe35e1.jpg",
       "files": [
         {
@@ -20680,6 +20680,165 @@
         }
       ],
       "source": "output/steam-store-auto-sync/daily-20261125/Codex_商店截图0406发布记录_1125.md",
+      "detailNote": "网页为压缩预览，完整截图见对应Steam商店页。"
+    },
+    {
+      "id": "steam-store-screenshots-20261125-r101",
+      "title": "Steam 商店截图 · 编队布阵9张（修订101）",
+      "category": "封面与视觉",
+      "group": "宣传图",
+      "date": "2026-11-25",
+      "dateBasis": "Steamworks修订101发布（pubresult=success，发布前差异只有9处替换）及11-25匿名十语商店接口核对",
+      "status": "已发布 · 9张 · 十语公开页复核待补",
+      "summary": "商店修订101按开发版main 18ed6eee新录：简繁英韩德法西葡俄九语第3张编队布阵，日文第3张不变。",
+      "body": "商店修订101（11-25 22时许）换了9张商店截图：简中、繁中、英、韩、德、法、西、巴葡、俄九种语言的第3张编队布阵，按开发版main 18ed6eee新录；日文第3张保持原图未动。11-25匿名读取十语商店接口：9张新图都在第3位，其余81张与修订99后一致（日文第3张仍为0d17b733）；9张逐张看过，界面语言与所在语言页一致。Codex专用、steam的十语公开页独立复核尚待补记。网页为1600宽压缩预览，原图见对应Steam商店页。",
+      "cover": "assets/r101-schinese-shot-03-51c42f3a5e10.jpg",
+      "files": [
+        {
+          "name": "简体中文 · 截图03 · 编队布阵",
+          "url": "assets/r101-schinese-shot-03-51c42f3a5e10.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/14d058778cc21cbca1a080259d0404332db53f93/ss_14d058778cc21cbca1a080259d0404332db53f93.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "14d058778cc21cbca1a080259d0404332db53f93",
+          "sha256": "51c42f3a5e10020191c7ea8c11cc2363a9643d0eceb15019418ba2603dc716b9",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "繁体中文 · 截图03 · 编队布阵",
+          "url": "assets/r101-tchinese-shot-03-2b1e57268f1b.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/80515c6e6d7ae20b9947ee6a0aa8e47eeb62ec2c/ss_80515c6e6d7ae20b9947ee6a0aa8e47eeb62ec2c.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "80515c6e6d7ae20b9947ee6a0aa8e47eeb62ec2c",
+          "sha256": "2b1e57268f1b6e1552c9f57b4a9048762db5483e7e0160a3191b2eb4239f7250",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "英文 · 截图03 · 编队布阵",
+          "url": "assets/r101-english-shot-03-e16b1eeed9ad.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4d313d7f39be838e2f0fb92fe959c24a371a93b9/ss_4d313d7f39be838e2f0fb92fe959c24a371a93b9.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "4d313d7f39be838e2f0fb92fe959c24a371a93b9",
+          "sha256": "e16b1eeed9ad2cb3984eb8c5a7f1213eda5e062143223ac8a25f88ff419b1e9c",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "韩文 · 截图03 · 编队布阵",
+          "url": "assets/r101-koreana-shot-03-5488c0f3a16b.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/fc5df5f30f80b1e30d8c4fd9bb337bac11fe3f0e/ss_fc5df5f30f80b1e30d8c4fd9bb337bac11fe3f0e.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "fc5df5f30f80b1e30d8c4fd9bb337bac11fe3f0e",
+          "sha256": "5488c0f3a16b7148173ef6fe68add75de367e26ee1aa12b51d78694a20fc7073",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "德文 · 截图03 · 编队布阵",
+          "url": "assets/r101-german-shot-03-3d717ac9c8cc.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/8c8dbb890014d11a391eff41fc22812ff4a224bc/ss_8c8dbb890014d11a391eff41fc22812ff4a224bc.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "8c8dbb890014d11a391eff41fc22812ff4a224bc",
+          "sha256": "3d717ac9c8cc4b5afbdb53a21f58a3b9980baaac352b9282fe54674a2ef9f088",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "法文 · 截图03 · 编队布阵",
+          "url": "assets/r101-french-shot-03-5025fbd85880.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9df9b85b7b6eb021b04abdeb89b66f54d7e30952/ss_9df9b85b7b6eb021b04abdeb89b66f54d7e30952.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "9df9b85b7b6eb021b04abdeb89b66f54d7e30952",
+          "sha256": "5025fbd85880bc5c7619e1a97d70b782b710707e9adf2c0170820e03d0047975",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "西班牙文 · 截图03 · 编队布阵",
+          "url": "assets/r101-spanish-shot-03-df155c9ac820.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/2c08d242adcc16ce1c7b42a6d4a56a68751f545f/ss_2c08d242adcc16ce1c7b42a6d4a56a68751f545f.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "2c08d242adcc16ce1c7b42a6d4a56a68751f545f",
+          "sha256": "df155c9ac82001ecbf02b8794a9a09f9fc8ea32b4e8a9e3aa3568a60b061f1eb",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图03 · 编队布阵",
+          "url": "assets/r101-brazilian-shot-03-ffcb09c94a24.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9f135570d1bda9d2a56969233efef651978b274e/ss_9f135570d1bda9d2a56969233efef651978b274e.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "9f135570d1bda9d2a56969233efef651978b274e",
+          "sha256": "ffcb09c94a24a45994c7b54e1d2a6b7ea2b64df98fa139e5b880dd66a18d1860",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "俄文 · 截图03 · 编队布阵",
+          "url": "assets/r101-russian-shot-03-d2a557a80ef7.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/362e83ef55218e6c623eeba11e84fdaeadd2c904/ss_362e83ef55218e6c623eeba11e84fdaeadd2c904.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "362e83ef55218e6c623eeba11e84fdaeadd2c904",
+          "sha256": "d2a557a80ef7ccccb2e2cc4232fe7d7b8882a99cbaf774a33f1314b477481d2d",
+          "updated": "2026-11-25"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-25",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261125/Codex_商店截图03九语发布记录_1125.md",
       "detailNote": "网页为压缩预览，完整截图见对应Steam商店页。"
     }
   ]
