@@ -4,6 +4,7 @@
 
 ## 结论
 
+- **2026-11-25 已发邀请 107 封**（v3 邀请稿，倦猫 11-25 12:3x 批准；对话管理用 Gmail 16:08–16:33 发出），退信 1 封（MKxJUMP，550 地址不存在）；暂缓未发：풍월량、咖啡樂's。逐封记录 `output/overseas-idle-creators-20261124/发信_1125/发信记录_对话管理.csv`（044c770f）。
 - 去重后新增 **333 位**（目标保底 100）。公开邮箱 **111** 位、公开表单 **0** 位。
 - 各语言（归类）：英语 145（邮箱 41）、日语 32（邮箱 9）、俄语 31（邮箱 13）、韩语 25（邮箱 15）、其他语种 20（邮箱 7）、法语 18（邮箱 9）、葡萄牙语(巴西) 16（邮箱 2）、西班牙语 15（邮箱 4）、德语 14（邮箱 4）、繁体中文(台湾) 13（邮箱 7）、华语(港澳及其他) 4（邮箱 0）
 - 语言原始标注：英语 145、日语 32、俄语 31、韩语 25、法语 18、葡萄牙语(巴西) 16、西班牙语 15、德语 14、繁体中文(台湾) 13、其他：土耳其语 6、其他：意大利语 6、其他：波兰语 2、其他：匈牙利语 2、其他：印尼语 2、其他：越南语 1、繁体中文(香港) 1、中文（简繁混用，待核） 1、中文（繁体为主，简繁混用，待核） 1、其他：土耳其语简介/英文标题（待核） 1、繁体中文（粤语用字，待核） 1
@@ -61,7 +62,7 @@
 |34|第二推荐|[Floydsonson](https://www.youtube.com/@Floydsonson)|YouTube|英语/待核|225K|邮箱：floydson@intheblackmedia.com|en|经纪方邮箱，可能回报价|
 |35|第二推荐|[TrueDad](https://www.youtube.com/@TrueDad)|YouTube|俄语/待核|156K|邮箱：truedadinvestment@gmail.com|en||
 |36|第二推荐|[The SKY Alliance](https://www.youtube.com/@theskyalliance)|YouTube|英语/加拿大|134K|邮箱：partnerships@theskyalliance.com|en||
-|37|第二推荐|[MKxJUMP](https://www.youtube.com/@MKxJUMP)|YouTube|英语/英国|102K|邮箱：admin@mkxjump.com|en||
+|37|第二推荐|[MKxJUMP](https://www.youtube.com/@MKxJUMP)|YouTube|英语/英国|102K|邮箱：admin@mkxjump.com|en|11-25 退信：550 地址不存在，需另找联系方式|
 |38|第二推荐|[Ryfek](https://www.youtube.com/@Ryfek)|YouTube|其他语种/波兰（about 页 Country: Poland）|101K|邮箱：kontaktryfek@gmail.com|en||
 |39|第二推荐|[Játszótér（MakaM）](https://www.youtube.com/@jatszoter)|YouTube|其他语种/匈牙利（about 页 Country: Hungary）|88.4K|邮箱：makamhun@gmail.com|en||
 |40|第二推荐|[PonPonLin蹦蹦林](https://www.youtube.com/@ponponlin)|YouTube|繁体中文(台湾)/台湾（待核）（台湾）|79.4K|邮箱：ponponlinlife@gmail.com|zh-TW||
@@ -370,6 +371,7 @@
 - 样例：[I Played 100% of Potatoes Please](https://www.youtube.com/watch?v=bu_8ZpFAG4I)｜2026-11-14｜播放 322021｜Potato Please
 - 样例：[I murdered cute animals to 100% Can Em All](https://www.youtube.com/watch?v=o-YD6HBnIgE)｜2026-11-10｜播放 347435｜Can 'Em All
 - 公开联系：waligug@intheblackmedia.com（来源 https://www.youtube.com/@Waligug/about（简介「Business Inquiries」；gmail 标注为 personal contact，不用））
+- 联系状态：已发邀请（2026-11-25 16:08）
 - 适配理由：大体量「100% 通关」频道，近两周连做 Shake It Co、Potato Please、Can 'Em All 等增量/放置游戏
 - 发信注意：经纪方邮箱，可能回报价
 - 局限：以轻量增量小游戏为主，RPG 向较少
@@ -383,6 +385,7 @@
 - 样例：[Leaf it Alone 100%](https://www.youtube.com/watch?v=pJVyMcur3Lo)｜2026-11-18｜播放 223051｜Leaf it Alone
 - 样例：[Moon Sweepers 100%](https://www.youtube.com/watch?v=ld6JW-Zb7Fo)｜2026-11-16｜播放 243740｜Moon Sweepers
 - 公开联系：skoottie@clovertalent.gg（来源 https://www.youtube.com/@Skoottie/about）
+- 联系状态：已发邀请（2026-11-25 16:09）
 - 适配理由：专做增量游戏 100% 通关，近期 Booster Pack Heroes、Leaf it Alone、Moon Sweepers 播放都在 7 万以上
 - 发信注意：经纪方邮箱，可能回报价
 - 局限：无明显局限
@@ -396,6 +399,7 @@
 - 样例：[《TBH 塔斯克巴英雄》我居然在放置遊戲課金？三天內擠爆伺服器，Steam 免費掛機超熱款](https://www.youtube.com/watch?v=wEer8GANki0)｜2026-06-01｜播放 91173｜TBH 塔斯克巴英雄
 - 样例：[《德拉嘉傳說-放置地牢》兩百有找，上班就是想開點甚麼東西來掛著](https://www.youtube.com/watch?v=MzZEFUDeQYU)｜2025-11-07｜播放 42708｜德拉嘉傳說-放置地牢
 - 公开联系：lice.moo@hotmail.com（来源 https://www.youtube.com/@LiceMoo/about）
+- 联系状态：已发邀请（2026-11-25 16:10）
 - 适配理由：34 万订阅大号，做过 TBH（9.1 万播放，提到 Steam 免费挂机）、德拉嘉傳說-放置地牢、卡包英雄（昨天发，3.9 万播放），简介明写接商案合作，另有 Twitch 实况。
 - 发信注意：做过「合作诈骗」主题视频：邀请信不带附件、不用短链
 - 局限：以综合游戏评论为主，放置并非主线；地区未明写。
@@ -409,6 +413,7 @@
 - 样例：[DURCHGEQUÄLT: Idle Games ／ Loop Miner & My Fire Is Bigger Than Yours](https://www.youtube.com/watch?v=Y5V0_OQSrIg)｜待核｜播放 None｜Loop Miner / My Fire Is Bigger Than Yours
 - 样例：[Autobattler mit Village Building?! Northgard Battlegrounds ／ Ersteindruck](https://www.youtube.com/watch?v=7v8uROlzlfA)｜待核｜播放 None｜Northgard Battlegrounds
 - 公开联系：maxim@instinct3.de（来源 https://www.youtube.com/@maximszweitkanal/about）
+- 联系状态：已发邀请（2026-11-25 16:10）
 - 适配理由：德国大主播 Maxim 的第二频道（27 万订阅），常做 Idle 合集、Incremental 首测和自走棋（Backpack Battles、The Bazaar、Northgard Battlegrounds）。
 - 局限：题材混杂（GTA 6 等大作直播占比高）；邮箱属经纪公司 INSTINCT3；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
@@ -421,6 +426,7 @@
 - 样例：[I gave a thousand Chickens SUBMACHINE GUNS in this Army Building Roguelite!](https://www.youtube.com/watch?v=utphiY5xqxk)｜2026-11-17｜播放 95070｜（Army Building Roguelite，标题未写游戏名）
 - 样例：[EVERYTHING is YOUR ENEMY in this Insane Gladiator Roguelite! - Dominus Gladiatus](https://www.youtube.com/watch?v=FpFrv94pqiM)｜2026-11-05｜播放 434606｜Dominus Gladiatus
 - 公开联系：gohjoebusiness@gmail.com（来源 https://www.youtube.com/@Gohjoe/about）
+- 联系状态：已发邀请（2026-11-25 16:11）
 - 适配理由：20 万订阅，几乎日更“组军团/角斗士”类 roguelite，Dominus Gladiatus 单条 43 万播放
 - 局限：以动作/幸存者类 roguelite 为主，纯自动战斗占比不高；体量大，回复率可能低
 
@@ -433,6 +439,7 @@
 - 样例：[I Played Incremental Demos To Find A Hidden Gem Among Them](https://www.youtube.com/watch?v=Y_vHJBkqCqY)｜2026-11-18｜播放 47670｜5 款增量合集
 - 样例：[Can This Incremental Crack Us Up ／ Cracked](https://www.youtube.com/watch?v=mMpNMzfXZkE)｜2026-11-17｜播放 54848｜Cracked
 - 公开联系：Kaif@saltraiders.com（来源 https://www.youtube.com/@Kaiffu/about）
+- 联系状态：已发邀请（2026-11-25 16:11）
 - 适配理由：Kaif 的副频道，最近 15 条里有 4 条增量游戏，还做过「5 款增量找宝藏」合集，适合推新增量作
 - 局限：主频道 Kaif 与副频道共用联络邮箱；副频道 19.6 万订阅
 
@@ -445,6 +452,7 @@
 - 样例：[打保齡球直到1000萬億分！｜增量保齡球｜Bowl Big ｜Demo｜Steam｜# 902｜PFY玩給你看](https://www.youtube.com/watch?v=hiB0AB0q5mM)｜2026-11-16｜播放 38098｜Bowl Big
 - 样例：[我100%通關了這款增量守城！直接被硬控３小時！｜死靈防線｜Legion Breaker｜Steam｜PFY玩給你看](https://www.youtube.com/watch?v=J-_OKB2W484)｜2026-11-01｜播放 48436｜死靈防線
 - 公开联系：playforyoutw@gmail.com（来源 https://www.youtube.com/@pfytw/about）
+- 联系状态：已发邀请（2026-11-25 16:12）
 - 适配理由：长期做增量/放置系列（TBH 上架卖钱、財富磨坊、增量補師、Bowl Big、死靈防線、仙境傳說倖存者掛機），单条 1–5 万播放，简介自称「非常容易被遊戲廣告置入」。
 - 局限：最近 RSS 15 条中放置题材标题不多，样本部分来自搜索结果。
 
@@ -457,6 +465,7 @@
 - 样例：[100 Ngày Gọt 60.000 Củ Khoai Tây Trong Potato Please - NQH](https://www.youtube.com/watch?v=UL5xe5QYfNI)｜2026-11-14｜播放 233379｜Potato Please
 - 样例：[100 Ngày Tìm Kim Trong 100 Triệu Cọng Rơm - Find The Needle](https://www.youtube.com/watch?v=QNX2eJ20NVI)｜2026-10-18｜播放 319260｜Find The Needle（incremental）
 - 公开联系：nguyenquochuy1094@gmail.com（来源 https://www.youtube.com/@NQH-X/about（频道简介明文，商务联系；视频说明亦有））
+- 联系状态：已发邀请（2026-11-25 16:12）
 - 适配理由：越南“100 天挑战”格式频道，专挑 Steam 爆款增量/模拟小品：Booster Pack Heroes、Potato Please（23 万播放）、Find The Needle（32 万）、Chop Chop INC，单条常见 5–30 万播放。
 - 局限：内容为“100 天”剪辑格式，需游戏能撑起长周期成长；部分视频说明带 XMOD 修改器推广，合作前留意。
 
@@ -469,6 +478,7 @@
 - 样例：[He PELADO 60.000 PATATAS para la GLORIOSA NACIÓN SOVIÉTICA](https://www.youtube.com/watch?v=2zkolDUpKM4)｜2026-11-14｜播放 9408｜Potato Please
 - 样例：[He llegado a la OLEADA 300 en Orc Incremental](https://www.youtube.com/watch?v=jhV9C_svzi8)｜2026-10-07｜播放 16785｜Orc Incremental
 - 公开联系：gerierwarwick@gmail.com（来源 https://www.youtube.com/@OnlyIndies/about）
+- 联系状态：已发邀请（2026-11-25 16:13）
 - 适配理由：西语增量游戏专门频道，每 3 天一条 Steam 增量新作（Potato Please、Orc Incremental等），单条 1–2.4 万播放，有公开邮箱。
 - 发信注意：与 Only Roguelikes 同一人同一邮箱：只发这一封，信里两个频道都提到
 - 局限：作者 Gerier 的另一频道 Only Roguelikes 已被 out/en_autobattler_grind.json 收录（同一邮箱），联系时按同一人去重；不在三份去重名单内。；订阅数来源：vidIQ 2026-11-23
@@ -482,6 +492,7 @@
 - 样例：[I forced 8.3 BILLION people to go through this door](https://www.youtube.com/watch?v=Oy2aJvNButE)｜2026-11-21｜播放 83209｜Round and Round Inc
 - 样例：[I Played 100% of Can Em All, by killing the cutest creatures ever...](https://www.youtube.com/watch?v=fIUJXKhKnGs)｜2026-11-04｜播放 100920｜Can 'Em All
 - 公开联系：collaborations@morequis.com（来源 https://www.youtube.com/@Morequis/about）
+- 联系状态：已发邀请（2026-11-25 16:13）
 - 适配理由：口号「We make numbers go up」，近期连做 Coal LLC、Can 'Em All 等增量游戏
 - 局限：无明显局限
 
@@ -494,6 +505,7 @@
 - 样例：[【Lootun】敵と戦うより戦利品と戦うハクスラ：荷物パンパンに対処するべく全体の流れを設計する、Diablo系からアクション面を抜き取った、休む隙無し自動化放置RPG](https://www.youtube.com/watch?v=SXtt6Y67LCc)｜2026-04-24｜播放 6791｜Lootun
 - 样例：[【ハクスラ】放置系Diablo：デスクトップの片隅で遊べ、D2のチャームやルーンワードまでもある自動型RPG：その魅力を徹底解説！【Legacy of Baal】](https://www.youtube.com/watch?v=4zsL5HREQCY)｜2025-02-12｜播放 9027｜ハクスラ
 - 公开联系：tamachannel@youdaoads.com（来源 https://www.youtube.com/@たまチャンネル/about）
+- 联系状态：已发邀请（2026-11-25 16:15）
 - 适配理由：游戏开发者出身，日更ハクスラ/放置系 Diablo-like 解析（近期如 Dragon's Tear），擅长讲装备与自动化设计。
 - 发信注意：经纪方邮箱，可能回报价
 - 局限：公开邮箱写明是「中国のお仕事のご相談」专用（youdao 代理），日本本地合作走向待核。
@@ -507,6 +519,7 @@
 - 样例：[Кликер-Хоррор, Невозможно Оторваться ／ SORE CRATEBREAKER](https://www.youtube.com/watch?v=2ib_MBWzCAI)｜2026-11-22｜播放 1740｜SORE CRATEBREAKER
 - 样例：[ЭТА ИГРА ЗАСАСЫВАЕТ! Karma Keepers — ЛУЧШАЯ IDLE Инкрименталка в Которую я Играл! #1](https://www.youtube.com/watch?v=NAWu7f_NRy0)｜待核｜播放 7547｜Karma Keepers
 - 公开联系：kakakyjla@gmail.com（来源 https://www.youtube.com/@kakakyjla/about）
+- 联系状态：已发邀请（2026-11-25 16:15）
 - 适配理由：53.4K 订阅，日更 Steam 独立肉鸽/塔防/自动战斗新游，近期做了 Booster Pack Heroes（自走棋增量）、点击类 SORE CRATEBREAKER，曾称 Karma Keepers 是「玩过最好的 IDLE 增量」。
 - 局限：主线是肉鸽和幸存者类，放置只是其一；地区未写明。
 
@@ -519,6 +532,7 @@
 - 样例：[오염된 호수를 깨끗하게 정화하는 신작 딸깍 게임 (My Dirty Little Lake)](https://www.youtube.com/watch?v=GKCFpoY5LCE)｜2026-11-21｜播放 64092｜Here Comes the HORDE / Booster Pack Heroes 等
 - 样例：[물을 막는 타워 디펜스 마지막 맵까지 깨기 (Water TD)](https://www.youtube.com/watch?v=YzGzJteElfg)｜2026-11-19｜播放 34220｜Here Comes the HORDE / Booster Pack Heroes 等
 - 公开联系：omen6101@gmail.com（来源 https://www.youtube.com/watch?v=OPCSfXuLhFo）
+- 联系状态：已发邀请（2026-11-25 16:17）
 - 适配理由：5 万订阅的 Steam 新游实况，专挑“딸깍”（点一下就自动打）的塔防/自动战斗新作，单条 3–10 万播放，和本作挂机自动战斗气质一致。
 - 局限：题材偏塔防；邮箱写在视频说明而非关于页。
 
@@ -531,6 +545,7 @@
 - 样例：[【Bowl Big】投げる度にめちゃくちゃ強くなるインフレボウリングでスコア300京点を取るインクリメンタルゲー【VOICEROID実況】](https://www.youtube.com/watch?v=rDlVnEDyMj8)｜2026-10-26｜播放 58423｜Bowl Big
 - 样例：[【Garbage Growth】うんちや赤ちゃんを拾ってリサイクルすれば無限に儲かる倫理観0のインクリメンタルゴミ拾い【VOICEROID実況】](https://www.youtube.com/watch?v=BfnvyDj8Xvs)｜2026-10-09｜播放 22414｜Garbage Growth
 - 公开联系：sosbrigade276@gmail.com（来源 https://www.youtube.com/@tama1370/about）
+- 联系状态：已发邀请（2026-11-25 16:17）
 - 适配理由：ボイロ实况连续做インクリメンタル与放置ハクスラ（Dungeonbound 10 万播放、Bowl Big、Legends of Dragaea），简介写明个人接案。
 - 发信注意：简介原文写作 sosbrigade276☆gmail.com，发送时用 @
 - 局限：简介说明个人处理委托、不保证全部回复。
@@ -544,6 +559,7 @@
 - 样例：[DPS IDLE 2 ist eine BODENLOSE FRECHEIT!](https://www.youtube.com/watch?v=3lht-RrMe9o)｜2026-11-13｜播放 19164｜DPS IDLE 2
 - 样例：[CLICKEN bis meine Finger brennen!](https://www.youtube.com/watch?v=WBxZqnRu-u8)｜2026-11-02｜播放 26510｜待核（点击游戏，标题未写游戏名）
 - 公开联系：phunkroyal@1up.management（来源 https://www.youtube.com/watch?v=KnYjjoWtP98）
+- 联系状态：已发邀请（2026-11-25 16:17）
 - 适配理由：德语 Let's Play 主播，11 月连做 Idle 题材（“MEHR IDLE Games”、DPS IDLE 2、点击游戏），也做过 Idle Slayer、Ballionaire。
 - 发信注意：经纪方邮箱，可能回报价
 - 局限：邮箱为经纪公司 1up.management，取自视频说明；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
@@ -557,6 +573,7 @@
 - 样例：[I Played 100% of Leaf It Alone 2.0](https://www.youtube.com/watch?v=ZIMA0VTD_M0)｜2026-11-11｜播放 111643｜Leaf It Alone 2.0
 - 样例：[I Played 100% of a Game About Smashing Pinatas](https://www.youtube.com/watch?v=yGN_qsiWDHk)｜2026-11-17｜播放 36282｜Pinata Smash
 - 公开联系：fonfon@intheblackmedia.com（来源 https://www.youtube.com/@FonFonIdle/about）
+- 联系状态：已发邀请（2026-11-25 16:17）
 - 适配理由：定位「副屏挂着看」的增量游戏 100% 通关频道，Potato Please 30 万播放，契合本作挂机属性
 - 发信注意：经纪方邮箱，可能回报价
 - 局限：单条播放常达 5–30 万
@@ -570,6 +587,7 @@
 - 样例：[좀비를 피해 지하로 내려왔습니다! 주민들과 쉘터를 키우는 생존 디펜스 ／ No Rest Below](https://www.youtube.com/watch?v=1Ix6zKagId0)｜2026-11-22｜播放 38745｜No Rest Below / Traveloot 等 Steam 成长类
 - 样例：[헬기와 폭격기까지 총동원! 도시를 뒤덮은 좀비를 막아내는 디펜스 게임 ／ Zombies Aren't Real](https://www.youtube.com/watch?v=Ib42Ixs1sTE)｜2026-11-21｜播放 25480｜No Rest Below / Traveloot 等 Steam 成长类
 - 公开联系：shakerratto9@naver.com（来源 https://www.youtube.com/@shakerratto/about）
+- 联系状态：已发邀请（2026-11-25 16:17）
 - 适配理由：2.49 万订阅，持续试玩 Steam 新出的“养成/키우기+防御”类独立游戏，单条 1.6–3.9 万播放，简介有邮箱。
 - 局限：偏生存塔防，纯 RPG 放置不多。
 
@@ -582,6 +600,7 @@
 - 样例：[I Found the LEGENDARY Duelist and Built an ENTIRE Duelist Army ／ Slotbound](https://www.youtube.com/watch?v=uI6U04vWZr0)｜2026-11-21｜播放 51292｜Slotbound
 - 样例：[The BLOOD GAMES Were a Complete Disaster ／ Dominus Gladiatus](https://www.youtube.com/watch?v=ueADZfTFgrc)｜2026-11-20｜播放 22708｜Dominus Gladiatus
 - 公开联系：dabblegamingyt@gmail.com（来源 https://www.youtube.com/@DabbleYT/about）
+- 联系状态：已发邀请（2026-11-25 16:18）
 - 适配理由：近一周连更 Slotbound 自走军团和 Dominus Gladiatus 角斗士经营，播放 2–6 万，题材与 4×4 站位自动战斗高度贴合
 - 局限：频道以 Steam 新游试玩为主，题材轮换快
 
@@ -594,6 +613,7 @@
 - 样例：[Savaş Sırasında Patates Soyuyorum ／ Potato Please](https://www.youtube.com/watch?v=mZQComwDfgs)｜2026-11-04｜播放 65689｜Potato Please
 - 样例：[Patates Soyma Vardiyası Devam Ediyor ／ Potato Please](https://www.youtube.com/watch?v=YQGAG92QGWY)｜2026-11-14｜播放 9486｜Potato Please
 - 公开联系：gamecapsule@hotmail.com（来源 https://bibio.com.tr/gamecapsule 及 https://gamecapsuletv.com/ 页脚（原记录的 Google 表单是观众推荐游戏用，不是联络渠道））
+- 联系状态：已发邀请（2026-11-25 16:18）
 - 适配理由：土耳其“挂着当背景”的 cozy 长视频频道，定位与挂机游戏高度契合；近一个月做 Find The Needle、Potato Please（单集 6.5 万）、Moon Sweepers 等增量小品。
 - 局限：频道 2025-11 才建；无明文邮箱，只有推荐游戏表单；风格偏治愈慢节奏，战斗 RPG 是否接需问。
 
@@ -606,6 +626,7 @@
 - 样例：[Troquei o TBH por esse novo JOGO IDLE insano! Confira o Leveling Idle - Task Bar Hero / Dicas / Guia](https://www.youtube.com/watch?v=Tm6B1gAzu-M)｜2026-10-26｜播放 2010｜Leveling Idle / Task Bar Hero
 - 样例：[BUILD COMPLETA para PLAGUELANDS TBH: Task Bar Hero - Dicas / Tutorial / Guia](https://www.youtube.com/watch?v=7C3BJQGFbXc)｜2026-09-14｜播放 24769｜TBH: Task Bar Hero
 - 公开联系：starkerlendario1@gmail.com（来源 https://playboard.co/en/channel/UCVqdB64l4NuxdUqRCRFctJQ（转录自 YouTube 频道简介「Contato, parcerias e afins」））
+- 联系状态：已发邀请（2026-11-25 16:18）
 - 适配理由：几乎全频道都是挂机 MMO：Task Bar Hero 构筑攻略、Leveling Idle、各类带 RMT/Steam 市场的 Idle 新游首发，题材与本作（挂机＋Steam 市场）高度对口。
 - 局限：偏重带 RMT（现实货币交易）的挂机 MMO/私服类；有一条标题写「Fiz MEU jogo IDLE de Solo Leveling」，可能与 Leveling Idle 有合作或自研关系，待核；近 10 天无新片。；订阅数来源：Playboard 2026-11-24
 
@@ -618,6 +639,7 @@
 - 样例：[De los MEJORES INCREMENTALES del AÑO ／ Booster Pack Heroes](https://www.youtube.com/watch?v=tzqbafP29bA)｜2026-11-12｜播放 7298｜Booster Pack Heroes
 - 样例：[INCREMENTAL de COLONIA HORMIGAS para DEVORAR TODO ／ Ant Mill Inc](https://www.youtube.com/watch?v=bpR0HPnJBVU)｜2026-11-04｜播放 8970｜Ant Mill Inc
 - 公开联系：ukernangaming@gmail.com（来源 https://www.youtube.com/feeds/videos.xml?channel_id=UCQbSFLGqLDDg5w21Bpx1RyQ（近期视频说明 media:description））
+- 联系状态：已发邀请（2026-11-25 16:18）
 - 适配理由：几乎日更 Steam 独立新游，近月同时做增量（Booster Pack Heroes、Ant Mill Inc、Resettle）和自走棋/roguelike autobattler（9 Kings、Slotbound、All Army Attack），还有 Steam 鉴赏家页，与本作高度对口。
 - 局限：订阅 1.1 万、单条 2–9 千播放，体量中等；副频道 Ukernan Plus 已停更。；订阅数来源：vidIQ 2026-11-23
 
@@ -630,6 +652,7 @@
 - 样例：[I Played 100% of Punch The Walls](https://www.youtube.com/watch?v=cfDeKdd7rGQ)｜2026-11-18｜播放 351752｜Punch The Walls
 - 样例：[I Played 100% of Potato Please](https://www.youtube.com/watch?v=owuvMO59G-A)｜2026-11-04｜播放 23531｜Potato Please
 - 公开联系：soulfox@noetictalentagency.com（来源 https://www.youtube.com/@FoxClicksAgain/about）
+- 联系状态：已发邀请（2026-11-25 16:18）
 - 适配理由：「I Played 100%」增量游戏系列，近期 Shred A Billion、Punch The Walls、Potato Please
 - 发信注意：经纪方邮箱，可能回报价
 - 局限：无明显局限
@@ -643,6 +666,7 @@
 - 样例：[【Nullnest】本日発売！タワーディフェンス×インクリメンタルがヤバい...！？ビルド構築で効率爆上げするローグライト。ドパれるクリッカー×デッキビルダー攻略面白いw10%セール【steam】](https://www.youtube.com/watch?v=kgpe5hlXU-g)｜2026-11-16｜播放 1981｜Nullnest
 - 样例：[【ブースターパックヒーロー】新キャラ「イリュージョニスト」がチート級...！？ドパれるパック×タワーディフェンス×インクリメンタル=神ゲー攻略が面白いw今だけ30%セール【steam,android】](https://www.youtube.com/watch?v=gvPJjpMZq3A)｜2026-11-11｜播放 2832｜ブースターパックヒーロー
 - 公开联系：nagiseina12345@gmail.com（来源 https://www.youtube.com/@nagi_517/about）
+- 联系状态：已发邀请（2026-11-25 16:19）
 - 适配理由：专做「本日発売」新作首发实况，含インクリメンタル（Clicky Islands、Nullnest）和放置×ハクスラ×パーティ（卓上冒険物語），可配合 12-03 首发。
 - 局限：单条播放多在 1–5 千。
 
@@ -655,6 +679,7 @@
 - 样例：[Absolute Golf Course Chaos! Incremental Upgrades](https://www.youtube.com/watch?v=2pvOKWkGPJ8)｜2026-11-20｜播放 9027｜标题未写明游戏名（增量类）
 - 样例：[I Upgrade My Plane Incremental](https://www.youtube.com/watch?v=zN7kROa4lrM)｜2026-11-19｜播放 9956｜标题未写明游戏名（增量类）
 - 公开联系：idlegamerhq@gmail.com（来源 https://www.youtube.com/@IdleClicker/about）
+- 联系状态：已发邀请（2026-11-25 16:19）
 - 适配理由：频道简介写明专做 Idle/Incremental/Clicker，几乎每天更新增量新游，和本作挂机放置定位直接对口
 - 局限：无明显局限
 
@@ -667,6 +692,7 @@
 - 样例：[ERSTEINDRUCK: Incremental Rohstoff Manager mit Basebuilding // Resettle](https://www.youtube.com/watch?v=EOjE15j9Hug)｜2026-11-16｜播放 1525｜Resettle
 - 样例：[28 TAGE ÜBERLEBEN! Dieser Autobattler verbindet Deckbuilding & Basebuilding // Apawcalypse: Gang War](https://www.youtube.com/watch?v=va1Wl-eQFRQ)｜2026-11-11｜播放 814｜Apawca
 - 公开联系：malteruszockt@web.de（来源 https://www.youtube.com/@Malterus_Gaming/about）
+- 联系状态：已发邀请（2026-11-25 16:19）
 - 适配理由：简介写明主做 Roguelike、自走棋和策略独立游戏，近一月有自走棋 Of Dice and Minions、Apawca 和增量 Resettle 首测。
 - 局限：订阅 5.85K 刚过门槛；常与 Salzwerker 联动；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
@@ -679,6 +705,7 @@
 - 样例：[i shredded a billion dollars](https://www.youtube.com/watch?v=7zkLyTCLZ8o)｜2026-11-22｜播放 250180｜Shred A Billion
 - 样例：[i drained the last drop of water](https://www.youtube.com/watch?v=SYVjkpB7WA8)｜2026-11-20｜播放 262559｜标题未写明游戏名（增量类）
 - 公开联系：graystillplays@gmail.com（来源 https://www.youtube.com/@GrayStillPlays/about）
+- 联系状态：已发邀请（2026-11-25 16:19）
 - 适配理由：863 万订阅的整活向频道，近一周连做旋转门、碎钞等增量游戏，曝光量大
 - 局限：体量极大、合作门槛高；以搞笑整活为主，非纯放置向
 
@@ -691,6 +718,7 @@
 - 样例：[Поиграл в КУКИ КЛИКЕР чтобы вам НЕ ПРИШЛОСЬ - Моя Боль](https://www.youtube.com/watch?v=E_6vwtKcjd0)｜待核｜播放 1009969｜Cookie Clicker
 - 样例：[Самый необычный ЗАВОД - ShapeZ](https://www.youtube.com/watch?v=R5t3w5-KXIg)｜待核｜播放 592801｜shapez
 - 公开联系：obsidianconnection@gmail.com（来源 https://www.youtube.com/watch?v=fmFsHse5NiU）
+- 联系状态：已发邀请（2026-11-25 16:19）
 - 适配理由：150 万订阅的俄语独立游戏头部频道，做过 Cookie Clicker（百万播放）和 shapez 系列自动化，近期仍持续做 Steam 独立新游。
 - 局限：近 30 天无放置题材；体量大、合作门槛高；放置相关仅零星几期。
 
@@ -715,6 +743,7 @@
 - 样例：[16時間かけて数字を"無限"まで集めた【Revolution Idle】【ゆっくり実況】](https://www.youtube.com/watch?v=Bfk9z8xYMz8)｜2025-05-22｜播放 313131｜Revolution Idle
 - 样例：[自分でゲーム作ったので実況してみた【ゆっくり実況】【ダイヤモンドクリッカー】](https://www.youtube.com/watch?v=wAaUEMGT1tI)｜2023-08-24｜播放 230651｜ゆっくり実況
 - 公开联系：niguchannel@gmail.com（来源 https://www.youtube.com/@shiroinu1128/about）
+- 联系状态：已发邀请（2026-11-25 16:20）
 - 适配理由：长期做クリッカー/数字集め类ゆっくり实况（Revolution Idle、Cookie Clicker、自制クリッカー），单条常有 20–30 万播放。
 - 局限：放置题材更新偏慢（另有会员限定 Revolution Idle 视频），近期以マイクラ为主。
 
@@ -727,6 +756,7 @@
 - 样例：[This Giant Drill Does not Stop](https://www.youtube.com/watch?v=KGWK2IUKwuc)｜2026-11-14｜播放 25695｜标题未写明游戏名（增量类）
 - 样例：[Shoving Thousands of Boxes into a Hole](https://www.youtube.com/watch?v=Rc4E0O8UBdQ)｜2026-11-15｜播放 44916｜标题未写明游戏名（增量类）
 - 公开联系：interndotgif@screenwavemedia.com（来源 https://www.youtube.com/@InternDotGif/about）
+- 联系状态：已发邀请（2026-11-25 16:20）
 - 适配理由：44.7 万订阅，近期大量升级/增量向新游（敲蛋、钻机、推箱）
 - 局限：综合模拟频道，不只做放置
 
@@ -739,6 +769,7 @@
 - 样例：[This NEW Upgrade Was Worth It! As I Cut The Mansions Grass...](https://www.youtube.com/watch?v=4Lax5RvT98Y)｜2026-11-22｜播放 15774｜割草增量
 - 样例：[Day 1 Mining an Abandoned Mine...](https://www.youtube.com/watch?v=Agq3izwoDnY)｜2026-11-23｜播放 38918｜标题未写明游戏名（增量类）
 - 公开联系：gameedged@gmail.com（来源 https://www.youtube.com/@gameedged/about）
+- 联系状态：已发邀请（2026-11-25 16:20）
 - 适配理由：近期密集做清理/割草/挖矿类增量模拟，单条 1–4 万播放
 - 局限：偏清理模拟向，RPG 少
 
@@ -750,6 +781,7 @@
 - 样例：[Literally Drinking THE WHOLE Ocean... (Drink The Ocean)](https://www.youtube.com/watch?v=DEWY--OEubg)｜2026-11-22｜播放 6740｜Drink the Ocean
 - 样例：[I Shredded 1 BILLION DOLLARS By Hand... (Shred A Billion)](https://www.youtube.com/watch?v=JixNMCV5FkI)｜2026-11-08｜播放 23837｜Shred A Billion
 - 公开联系：shadesofnate@thenode.gg（来源 https://www.youtube.com/@ShadesOfNate/about）
+- 联系状态：已发邀请（2026-11-25 16:20）
 - 适配理由：搞笑向，近期两条增量游戏
 - 发信注意：经纪方邮箱，可能回报价
 - 局限：放置非主线
@@ -763,6 +795,7 @@
 - 样例：[Собрал свой отряд гладиаторов из чата! // Dominus Gladiatus](https://www.youtube.com/watch?v=Uiz4qt67B9s)｜2026-11-11｜播放 21944｜Dominus Gladiatus
 - 样例：[Автобаттлер с менеджментом инвентаря // Backpack Battles](https://www.youtube.com/watch?v=sjlB6qbWmGU)｜待核｜播放 18899｜Backpack Battles
 - 公开联系：dedakimdak@gmail.com（来源 https://www.youtube.com/@rekvizit8bit/about）
+- 联系状态：已发邀请（2026-11-25 16:20）
 - 适配理由：276K 订阅的俄语主播，常试 Steam 独立自走棋：近期 Slotbound（自走棋肉鸽，2 万播放）、观众组队的角斗士经营 Dominus Gladiatus，也做过 Backpack Battles、Epic Auto Towers；简介写明商务邮箱。
 - 局限：题材很杂（恐怖、生存居多），自走棋只占少数。
 
@@ -775,6 +808,7 @@
 - 样例：[I Tried to 100% CRACK But I Wasn't CRACKED Enough](https://www.youtube.com/watch?v=nzhVENBXyVI)｜2026-10-27｜播放 1443520｜CRACK
 - 样例：[I Played 100% of Fishing Inc](https://www.youtube.com/watch?v=Qs5mKi29K30)｜2026-11-14｜播放 634508｜Fishing Inc
 - 公开联系：floydson@intheblackmedia.com（来源 https://www.youtube.com/@Floydsonson/about）
+- 联系状态：已发邀请（2026-11-25 16:21）
 - 适配理由：22.5 万订阅「I Played 100%」系列，近期多条增量游戏（Moon Sweepers、CRACK）百万级播放
 - 发信注意：经纪方邮箱，可能回报价
 - 局限：频道偏综艺向模拟/增量，并非纯放置 RPG
@@ -788,6 +822,7 @@
 - 样例：[ВЛОЖИЛ 100 000 ₽ В CS2, ПОКА РЫНОК ПАДАЛ. ЧТО ВЫШЛО ЗА МЕСЯЦ?](https://www.youtube.com/watch?v=R_ACjzK4x1E)｜2026-10-24｜播放 11120｜CS2 投资
 - 样例：[Сколько Можно Зарабатывать на Трейде в Steam в 2026?](https://www.youtube.com/watch?v=j8LTDmNCsRY)｜待核｜播放 29101｜Steam 交易收入
 - 公开联系：truedadinvestment@gmail.com（来源 https://www.youtube.com/@TrueDad/about）
+- 联系状态：已发邀请（2026-11-25 16:21）
 - 适配理由：156K 订阅的 Steam 交易/投资频道（办有 Steam 交易学校），近期持续更新市场分析，适合在本作首发开放社区市场时介绍交易玩法。
 - 局限：内容集中在 CS2 皮肤投资，不做独立游戏评测，需要定制角度。
 
@@ -800,6 +835,7 @@
 - 样例：[Legend of Elements — Don't Spend Your Weapons Codex Tokens Yet](https://www.youtube.com/watch?v=IwtY9qqE_4M)｜2026-11-24｜播放 19｜Legend of Mushroom / Legend of Elements / Duck Survival
 - 样例：[Duck Survival — Save Time by Skipping Stages With Overwhelm](https://www.youtube.com/watch?v=JZPxb8cSQdk)｜2026-11-24｜播放 20｜Legend of Mushroom / Legend of Elements / Duck Survival
 - 公开联系：partnerships@theskyalliance.com（来源 https://www.youtube.com/@theskyalliance/about）
+- 联系状态：已发邀请（2026-11-25 16:21）
 - 适配理由：134K 的攻略社区频道，覆盖 Legend of Mushroom、Legend of Elements、Duck Survival 等放置手游。
 - 局限：偏团队/联盟运营号，部分新视频播放很低；主力题材还有 The Ants 等 SLG。
 
@@ -812,7 +848,9 @@
 - 样例：[Let's clear Chapter 8 of Void Campaign! - Episode 99 - The IDLE HEROES CSG Series](https://www.youtube.com/watch?v=CQuKmIyaTms)｜2026-11-19｜播放 7524｜Idle Heroes
 - 样例：[Incredible Free-to-Player IDLE HEROES account reaches NIRVANA in less than a year](https://www.youtube.com/watch?v=Sraf6QiDXew)｜2026-11-16｜播放 19717｜Idle Heroes
 - 公开联系：admin@mkxjump.com（来源 https://www.youtube.com/@MKxJUMP/about）
+- 联系状态：已发邀请（退信 550 地址不存在）（2026-11-25 16:21）
 - 适配理由：英语圈头部 Idle Heroes 创作者（102K），每周活动评测+F2P 账号系列，粉丝就是放置卡牌 RPG 老玩家。
+- 发信注意：11-25 退信：550 地址不存在，需另找联系方式
 - 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
 - 局限：频道长期只做 Idle Heroes，需看是否接受新游合作。
 
@@ -824,6 +862,7 @@
 - 样例：[Tower Defence z Otwieraniem Paczek - Booster Pack Heroes - Losowe Wtorki z Ryfkiem #165](https://www.youtube.com/watch?v=SEaego7eMn8)｜2026-11-17｜播放 15781｜Booster Pack Heroes（incremental tower defense）
 - 样例：[DOUBLE KATANA - Backpack Battles: Pełen Plecak #02](https://www.youtube.com/watch?v=9PY4mQ61aXE)｜待核｜播放 待核｜Backpack Battles（auto battler）
 - 公开联系：kontaktryfek@gmail.com（来源 https://www.youtube.com/@Ryfek/about（频道简介明文））
+- 联系状态：已发邀请（2026-11-25 16:21）
 - 适配理由：波兰老牌 roguelike 系列主播，做过 Backpack Battles 系列《Pełen Plecak》，近期“随机周二”栏目试玩 Booster Pack Heroes 增量塔防，长期做 Brotato。
 - 局限：放置/自走棋只是穿插；Backpack Battles 系列日期未核到；主线是 Isaac、Rimworld、Brotato。
 
@@ -836,6 +875,7 @@
 - 样例：[FOGKEFÉVEL TAKARÍTJUK A HOLDAT?! ／ Moon Sweepers LIVE #1](https://www.youtube.com/watch?v=RpOhl67Cf80)｜2026-11-14｜播放 12629｜Moon Sweepers
 - 样例：[TŰT KERESÜNK A SZÉNAKAZALBAN! ／ Find The Needle LIVE #1](https://www.youtube.com/watch?v=rYiCemfyp6Q)｜2026-11-08｜播放 16712｜Find The Needle
 - 公开联系：makamhun@gmail.com（来源 https://www.youtube.com/@jatszoter/about（频道简介明文商务邮箱））
+- 联系状态：已发邀请（2026-11-25 16:22）
 - 适配理由：匈牙利模拟/新游直播频道，每周固定新游测评，近一个月做了 Pinata Smash: Incremental Circus、Moon Sweepers、Find The Needle、Potato Please 等增量爆款。
 - 局限：主线是 Farming Simulator、BeamNG 等模拟；视频多为直播回放；放置 RPG 是否契合需看其新游测评栏目。；订阅数终版重核未取得（页面读取失败），保留子对话实测值
 
@@ -848,6 +888,7 @@
 - 样例：[🍪薑餅人放置大戰爭｜月光魔法師&海妖精餅乾版本🌙每日副本配置更新來啦✨(經驗值🧙‍♂️錢幣💰麵團🍞研究石💎符文結晶💠) ／ CookieRun: Crumble Daily Dungeons](https://www.youtube.com/watch?v=xa8sAXr-c-c)｜2026-11-20｜播放 7590｜薑餅人放置大戰爭
 - 样例：[🍪薑餅人放置大戰爭｜全新「碎屑爭奪戰」玩法初步介紹💼顧辦公室、充電還要打工!? 作業多到一點都不放置🤬 ／ #CookieRunCrumble](https://www.youtube.com/watch?v=EdiYA6j0gbs)｜2026-11-19｜播放 7065｜薑餅人放置大戰爭
 - 公开联系：ponponlinlife@gmail.com（来源 https://www.youtube.com/@ponponlin/about）
+- 联系状态：已发邀请（2026-11-25 16:22）
 - 适配理由：近期密集更新《薑餅人放置大戰爭》改版/配置攻略（每条 5–8 千播放），也做过 AFK Journey，放置手游受众稳定。
 - 局限：以单一 IP 手游攻略为主，Steam PC 放置是否接需确认。
 
@@ -860,6 +901,7 @@
 - 样例：[Invokers: Titan Legacy - Road Map Updated/Massive Content Incoming](https://www.youtube.com/watch?v=zlO51rV1HA0)｜2026-11-23｜播放 1946｜Soul Legion: Idle RPG / Invokers: Titan Legacy
 - 样例：[Soul Legion: Idle RPG - Hype Impressions/Global Launch](https://www.youtube.com/watch?v=r8klSQKyQk8)｜2026-11-23｜播放 1401｜Soul Legion: Idle RPG / Invokers: Titan Legacy
 - 公开联系：silentstorminc@gmail.com（来源 https://www.youtube.com/@ScionStorm/about）
+- 联系状态：已发邀请（2026-11-25 16:22）
 - 适配理由：59.8K，专做新游“Hype Impressions”首发试玩，近期覆盖 Soul Legion: Idle RPG、Invokers: Titan Legacy 等放置 RPG，适合首发试玩。
 - 局限：题材很杂（MMO/动作/SLG 都有），放置只是其中一部分。；订阅数终版重核未取得（页面读取失败），保留子对话实测值
 
@@ -872,6 +914,7 @@
 - 样例：[【메이플 키우기】 본격 현질 시작! 패키지+스타포스로 투력 3000만 돌파 [캡틴 육성기 2편]](https://www.youtube.com/watch?v=XCQdF9Q-Fe8)｜2026-11-23｜播放 10177｜메이플 키우기 / 소드 x 스태프
 - 样例：[【메이플 키우기】 오랜만의 복귀, '캡틴'으로 새 출발합니다! [캡틴 육성기 1편]](https://www.youtube.com/watch?v=rZ192G5TUeo)｜2026-11-22｜播放 14103｜메이플 키우기 / 소드 x 스태프
 - 公开联系：mkt@metaplug.co.kr（来源 https://www.youtube.com/@Ggyutube/about）
+- 联系状态：已发邀请（并在 게임달고나 那封里）（2026-11-25 16:24）
 - 适配理由：4.93 万订阅，做“메이플 키우기”“소드 x 스태프”等放置 RPG 育成系列，单条约 1 万播放。
 - 发信注意：与 게임달고나 同一经纪邮箱：只按 게임달고나 发一封
 - 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
@@ -886,6 +929,7 @@
 - 样例：[Ya ha salido este Roguelike Auto Battler NÓRDICO](https://www.youtube.com/watch?v=QjxNUkO4Cdw)｜2026-11-08｜播放 19450｜（北欧题材 Roguelike Auto Battler）
 - 样例：[Ya ha salido SLOTBOUND y es mi GOTY](https://www.youtube.com/watch?v=aongTvkJgrA)｜2026-11-13｜播放 53138｜Slotbound
 - 公开联系：gerierwarwick@gmail.com（来源 https://www.youtube.com/watch?v=mhWbnb1E1WE）
+- 联系状态：已发邀请（并在 Only Incrementals 那封里）（2026-11-25 16:13）
 - 适配理由：4.3 万订阅，专做 roguelike，近期多条自走棋（Devolver 新作、Slotbound 5.3 万播放）
 - 发信注意：与 Only Incrementals 同一人同一邮箱：只发一封，信里两个频道都提到（按 Only Incrementals 发）
 - 局限：实为西班牙语频道（RSS 原标题为西语，英文为自动翻译），建议交西语组；邮箱出自视频说明
@@ -899,6 +943,7 @@
 - 样例：[The BEST Heroic Gauntlet Teams! ✅ CLEAR All 3 Stages! AFK Journey](https://www.youtube.com/watch?v=KaNu7X6YjlY)｜2026-11-23｜播放 4403｜AFK Journey
 - 样例：[BADEN is TRAMPLING Talking Root! 💀 ／ AFK Journey](https://www.youtube.com/watch?v=IqSGuGFN4FY)｜2026-11-23｜播放 4829｜AFK Journey
 - 公开联系：shreddedpuzzle@gmail.com（来源 https://www.youtube.com/@PuzzleAFKJ/about）
+- 联系状态：已发邀请（2026-11-25 16:22）
 - 适配理由：几乎每天更新 AFK Journey 阵容/梦境/公会战配队视频，观众正是看“自动战斗+站位配队”的放置 RPG 玩家，与本作 4×4 站位自动战斗高度对口。
 - 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
 - 局限：频道只做 AFK Journey 单一游戏，接 PC 单机新作需看对方意愿。
@@ -912,6 +957,7 @@
 - 样例：[[AFK 새로운여정] 꿈의세계 변형된예티✔️없어? 손해 좀 보자](https://www.youtube.com/watch?v=W8oAsXIzUwE)｜2026-11-24｜播放 634｜AFK Journey（AFK 새로운여정）
 - 样例：[[AFK 새로운여정] ( 11 . 23 - 11 . 29 ) 꿈의추격 ⚔️ 기본조합과 대체 캐릭터](https://www.youtube.com/watch?v=c7OsWKgjZt4)｜2026-11-23｜播放 1403｜AFK Journey（AFK 새로운여정）
 - 公开联系：ggemdi@daum.net（来源 https://www.youtube.com/@GGDsandevistan/about）
+- 联系状态：已发邀请（2026-11-25 16:22）
 - 适配理由：韩语 AFK Journey 专门频道（3.26 万），日更梦境/配队/新英雄测评，懂阵容站位。
 - 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
 - 局限：近期单条播放数百至 1.7K。
@@ -925,6 +971,7 @@
 - 样例：[バックルームで272000個のボールを片付けるホラーインクリメンタルゲーム【Playrooms】【ゆっくり実況】](https://www.youtube.com/watch?v=-EF2Ej0ZuYs)｜2026-11-17｜播放 3534｜Playrooms
 - 样例：[【Find The Needle Demo】1360万本の藁の中から針を探すのゲームを最後までやった結果…【ゆっくり実況】](https://www.youtube.com/watch?v=kqj7IejIkqo)｜2026-10-18｜播放 8622｜Find The Needle Demo
 - 公开联系：geqrs3025@gmail.com（来源 https://www.youtube.com/@Rustgear2nd/about）
+- 联系状态：已发邀请（2026-11-25 16:22）
 - 适配理由：ゆっくり实况インクリメンタル（Escape the Walls、Playrooms、Find The Needle），简介写明联系邮箱。
 - 局限：偏「清扫/数大数字」类インクリ，放置 RPG 不多；超不定期投稿。
 
@@ -937,6 +984,7 @@
 - 样例：[JOGO ONE PIECE PARA PC E CELULAR COM RMT DENTRO DO JOGO, PAGA NO PIX!](https://www.youtube.com/watch?v=xYF5tyV7ZaA)｜2026-11-09｜播放 1756｜One Piece 题材 RMT 挂机
 - 样例：[JOGO IDLE PARA VOCÊ FAZER DINHEIRO NO MERCADO DA STEAM](待核)｜待核｜播放 None｜待核（任务线索，未取到视频 ID）
 - 公开联系：contato.torugo@gmail.com（来源 待核出处（任务线索及英语组记录写有此邮箱；本次未能打开频道简介原文复核））
+- 联系状态：已发邀请（2026-11-25 16:22）
 - 适配理由：做过「靠 Steam 市场赚钱的挂机游戏」专题，也常推 RMT/挂机赚钱类游戏。
 - 局限：主线是加密货币 Play-to-Earn（Solana 链游），近 15 条无 Steam 放置游戏；受众偏「赚钱」，品牌风险需评估；未命中去重名单，但英语组 out/en_steam_market_newgames.json 已把他列入 rejected 并转交葡语组。；订阅数来源：socialcounts.org 接口 2026-11-24 读取
 
@@ -949,6 +997,7 @@
 - 样例：[Ce JEU IDLE COZY est ULTRA SATISFAISANT ! (Slice To Meet You)](https://www.youtube.com/watch?v=ED8uS5V_jYM)｜待核｜播放 None｜Slice To Meet You
 - 样例：[BALLIONAIRE - DÉSOLÉ MAIS CE JEU VA VOUS RENDRE ADDICT !](https://www.youtube.com/watch?v=O9hqu56Sh8g)｜待核｜播放 None｜Ballionaire
 - 公开联系：syzix14@gmail.com（来源 https://www.youtube.com/watch?v=o6xieBaeDNA）
+- 联系状态：已发邀请（2026-11-25 16:22）
 - 适配理由：法语独立游戏试玩频道（2.7 万），做过 Incremental CAN EM ALL、Idle 游戏 Slice To Meet You、Ballionaire。
 - 局限：邮箱取自视频说明、未标注用途；题材以策略/模拟为主；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
@@ -961,6 +1010,7 @@
 - 样例：[SSS-Tier Evolutions DESTROYS Map Boss!! Warhammer Survivors!](https://www.youtube.com/watch?v=bEGpn2C7AoU)｜2026-11-21｜播放 21812｜Warhammer Survivors
 - 样例：[Create Your Own ARMY In This Army Building Autobattler! ／ Bannerlings!](https://www.youtube.com/watch?v=2KXs2izqFdk)｜待核｜播放 None｜Bannerlings
 - 公开联系：OHRyePlays@gmail.com（来源 https://www.youtube.com/@OHRyePlays/about）
+- 联系状态：已发邀请（2026-11-25 16:22）
 - 适配理由：2.6 万订阅，有公开邮箱，日更自动攻击类幸存者游戏，也做 Bannerlings 军团自走棋和 How Many Dudes
 - 局限：主力是幸存者类，自走棋两条样本日期待核
 
@@ -972,6 +1022,7 @@
 - 样例：[따뜻한 신작 슈비팡: 퍼즐배틀 포함 이벤트&할인중인 모바일게임 추천 20가지 !! [RPG/로그라이크/턴제/액션/방치형]](https://www.youtube.com/watch?v=X7oQhzsQEYQ)｜2026-11-23｜播放 1343｜多款手游（含방치형合集）
 - 样例：[요즘 뜨거운 갓겜들 !! 모바일게임 추천 20가지 !! [RPG/로그라이크/턴제/액션/방치형]](https://www.youtube.com/watch?v=2nWC13e_F38)｜2026-11-21｜播放 17356｜多款手游（含방치형合集）
 - 公开联系：grownbb@naver.com（来源 https://www.youtube.com/@grownbb/about）
+- 联系状态：已发邀请（2026-11-25 16:22）
 - 适配理由：手游推荐合集频道（2.35万订阅），近期“热门手游 20 选”里专门有放置型(방치형)分类，单条播放 1.7 万。
 - 局限：推荐合集里放置只是分类之一，不是专门放置频道。
 
@@ -984,6 +1035,7 @@
 - 样例：[One Million Coins : 1 000 000 de pièces à récolter ! EP1](https://www.youtube.com/watch?v=Czv6FQArUQc)｜待核｜播放 None｜One Million Coins
 - 样例：[One Million Coins : 1 000 000 de pièces à récolter en moins d'une heure ! EP2](https://www.youtube.com/watch?v=_PnU9XEl-qk)｜待核｜播放 None｜One Million Coins
 - 公开联系：macictv.1@gmail.com（来源 https://www.youtube.com/@MacicTV/about）
+- 联系状态：已发邀请（2026-11-25 16:23）
 - 适配理由：法语模拟/经营新游试玩频道（2.3 万），做过增量 One Million Coins、Leaf Blower Co.，简介有明文邮箱。
 - 局限：近期主做 Rob Run 系列；One Million Coins 样本不在 RSS，日期待核；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
@@ -996,6 +1048,7 @@
 - 样例：[HO COMPLETATO AL 100% BOOSTER PACK HEROES](https://www.youtube.com/watch?v=rAReUXHVpz0)｜2026-11-16｜播放 17｜Booster Pack Heroes
 - 样例：[HO COMPLETATO AL 100% PUNCH THE WALL](https://www.youtube.com/watch?v=FrsegFXB144)｜2026-11-17｜播放 51｜Punch The Wall
 - 公开联系：royaloytbusiness@gmail.com（来源 频道视频说明（RSS 视频描述中出现）；about 页邮箱需登录可见）
+- 联系状态：已发邀请（2026-11-25 16:23）
 - 适配理由：意大利综艺频道，近两周大量做增量小品的“100% 通关/助眠”长视频：Can 'Em All、Find The Needle、Dice Hoarder、Shred a Billion、Punch The Wall、Booster Pack Heroes，此前还做过 Potato Please 100%。
 - 局限：订阅 21.8K 但近期增量长视频播放仅个位到几十，短视频才上千，实际触达存疑；邮箱出自视频说明。
 
@@ -1008,6 +1061,7 @@
 - 样例：[🔥 Я ДОКОПАЛСЯ ДО ЯДРА АСТЕРОИДА! ／ No Asteroids #2](https://www.youtube.com/watch?v=CFC5dJQFzu4)｜2026-11-18｜播放 7147｜No Asteroids
 - 样例：[🔥 ЕЩЕ ОДНА ЗАЛИПАТЕЛЬНАЯ IDLE - ИГРА! ／ Mining Wizards](https://www.youtube.com/watch?v=TtDcrsRGG_k)｜待核｜播放 6711｜Mining Wizards
 - 公开联系：satanclausplay@mail.ru（来源 https://www.youtube.com/@satanclausplay/about）
+- 联系状态：已发邀请（2026-11-25 16:23）
 - 适配理由：20K 订阅、日更 Steam 独立肉鸽与增量：近期做了增量挖矿 No Asteroids 系列，年初做过 idle 游戏 Mining Wizards、塔防增量 Outhold，单条常有 5 千到 2 万播放。
 - 局限：主线是动作肉鸽（Deep Rock Galactic: Survivor 等），放置只占一部分；邮箱写在关于页外链区。
 
@@ -1020,6 +1074,7 @@
 - 样例：[[메이플 키우기] 🍄375일차 메린이! 도도...너무 강하다..... 벽느낌 ㅋㅋㅋㅋㅋ](https://www.youtube.com/watch?v=oyel-wn_R1E)｜2026-11-17｜播放 16714｜메이플 키우기 / 세븐나이츠 리버스
 - 样例：[[세븐나이츠 리버스] 내가... 이브가 될게 (🔥쿠폰 이벤트)](https://www.youtube.com/watch?v=n3J5dE6a-To)｜2026-11-15｜播放 17257｜메이플 키우기 / 세븐나이츠 리버스
 - 公开联系：wicd123@naver.com（来源 https://www.youtube.com/watch?v=9cENciMLT1I）
+- 联系状态：已发邀请（2026-11-25 16:23）
 - 适配理由：1.94 万订阅，“메이플 키우기 N 天新手日记”长期连载，单条 1–2 万播放。
 - 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
 - 局限：邮箱写在视频说明而非关于页。
@@ -1032,6 +1087,7 @@
 - 样例：[The Best Auto Battler Games on Steam Right Now (20 Games On Sale)](https://www.youtube.com/watch?v=yFENPg5c-Q0)｜2026-11-22｜播放 1493｜Auto Battler 合集
 - 样例：[One Soldier vs 13.85 Million Power ／ Total Incremental Battle](https://www.youtube.com/watch?v=DfZL7_SssGQ)｜2026-11-17｜播放 577｜Total Incremental Battle
 - 公开联系：info@jtmplays.com（来源 https://www.youtube.com/@JTMPLays/about）
+- 联系状态：已发邀请（2026-11-25 16:23）
 - 适配理由：1.9 万订阅，做过“Steam 当前最佳自走棋 20 款”合集和增量战斗游戏，有公开商务邮箱
 - 局限：主业是工厂/城市建造，放置题材只是偶尔
 
@@ -1043,6 +1099,7 @@
 - 样例：[This Loot Heavy AutoBattler has INCREDIBLE Co-op! ／ Gear Up Einstein!](https://www.youtube.com/watch?v=5czFjCLMHro)｜2026-11-22｜播放 2041｜Gear Up Einstein!
 - 样例：[A Surprisingly Great New PvE Roguelike Autobattler! ／ Gear Up Einstein](https://www.youtube.com/watch?v=NpZyrN9JV58)｜2026-11-13｜播放 9241｜Gear Up Einstein!
 - 公开联系：gamingwithjeff4business@gmail.com（来源 https://www.youtube.com/@gamingwithjeff/about）
+- 联系状态：已发邀请（2026-11-25 16:24）
 - 适配理由：1.8 万订阅，日更，近期做“重刷宝自走棋” Gear Up Einstein!，也长期做 Death Must Die 刷宝
 - 局限：以幸存者类为主，自动战斗只是一部分
 
@@ -1054,6 +1111,7 @@
 - 样例：[Melvor Idle 2 – TOP 10 SKILLS You Should LEVEL FIRST!](https://www.youtube.com/watch?v=8zvmQw50FJg)｜2026-11-23｜播放 1474｜Melvor Idle 2
 - 样例：[Melvor Idle 2 – HOW TO MAKE MONEY MUCH FASTER! 10 Tips to FARM GP](https://www.youtube.com/watch?v=incZ9x2Qj7E)｜2026-11-21｜播放 6860｜Melvor Idle 2
 - 公开联系：gamesaiolia@gmail.com（来源 https://www.youtube.com/@GameLaunchCentral/about）
+- 联系状态：已发邀请（2026-11-25 16:24）
 - 适配理由：做 Steam 新游攻略/评测，近期多条 Melvor Idle 2 攻略
 - 局限：非纯放置频道，播放量一般
 
@@ -1066,6 +1124,7 @@
 - 样例：[СОБРАЛ ИДЕАЛЬНЫЙ БИЛД ЗА 5 ДНЕЙ?! - Karnok, Health build ／ The Bazaar](https://www.youtube.com/watch?v=x916GQGXAkQ)｜2026-11-16｜播放 4982｜The Bazaar
 - 样例：[ВЗЯЛ НА РАБОТУ ДВУХ ОХРАННИКОВ! - Vanessa, burn build ／ The Bazaar](https://www.youtube.com/watch?v=87nqVQBQztc)｜2026-09-20｜播放 7996｜The Bazaar
 - 公开联系：blindermine.ad@gmail.com（来源 https://www.youtube.com/watch?v=87nqVQBQztc）
+- 联系状态：已发邀请（2026-11-25 16:24）
 - 适配理由：Twitch 主播 blindermine（Слепой Горностай）的两个切片频道：16.9K 的 Тупой Горностай 与 2.15K 的 Шляпа Горностая，长期做自走棋 The Bazaar（11 月仍在更新构筑视频），同时是刷宝类 Path of Exile 玩家，受众接受自动战斗和刷装备。
 - 局限：放置相关只有 The Bazaar；主频道最近上传在 2026-09-29，近期更新在副频道 Шляпа Горностая（latestActivity 取副频道）；两频道同属一人，只记一次。
 
@@ -1078,6 +1137,7 @@
 - 样例：[Archero 2: Gem Treasure Rush Quick Guide (Save Your Gems!)](https://www.youtube.com/watch?v=RtJidy7ZKOI)｜2026-11-21｜播放 5168｜Summoner's Greed / Archero 2
 - 样例：[UNLIMITED DAMAGE?! The Most Broken Umbral Tempest Plant Build in Archero 2](https://www.youtube.com/watch?v=SsNu4T9QLEU)｜2026-11-20｜播放 5254｜Summoner's Greed / Archero 2
 - 公开联系：Konsugg.business@gmail.com（来源 https://www.youtube.com/@Grinnn/about）
+- 联系状态：已发邀请（2026-11-25 16:24）
 - 适配理由：高频更新 Summoner's Greed（放置塔防）和 Archero 2 攻略，擅长手游养成/刷取类内容。
 - 局限：Archero 2 偏动作肉鸽，严格意义的放置 RPG 只有 Summoner's Greed；大量 shorts 播放偏低。
 
@@ -1090,6 +1150,7 @@
 - 样例：[[신작 게임] 기지 방어 메카닉 SRPG 게임 '스틸 코어' (STEEL CORE) 플레이. 출시예정 3D 턴제 전략 스팀 PC 싱글플레이어 타워 디펜스 게임 기대작 추천?](https://www.youtube.com/watch?v=tvzz7gOqFmk)｜2026-11-23｜播放 938｜新作手游（多款 키우기/放置）
 - 样例：[[11월 신작 모바일게임] 국산 모바일 RPG '카에시: 시즈카 키우기 소녀 검객 방치 RPG' (KAESHI: Sword Maiden Idle RPG) 플레이. 세로 게임 추천?](https://www.youtube.com/watch?v=HG6hntp4kgg)｜2026-11-23｜播放 856｜新作手游（多款 키우기/放置）
 - 公开联系：mkt@metaplug.co.kr（来源 https://www.youtube.com/@%EB%AA%A8%EB%B0%94%EC%9D%BC%EA%B2%8C%EC%9E%84/about）
+- 联系状态：已发邀请（2026-11-25 16:24）
 - 适配理由：几乎日更新作手游实机，近期多款国产放置型 키우기 RPG、放置大亨首发试玩。
 - 发信注意：与 Ggyu tube 同一经纪邮箱 mkt@metaplug.co.kr：只发这一封
 - 局限：单条播放多为数百至 1K；邮箱为 MCN（metaplug）营销邮箱。
@@ -1103,6 +1164,7 @@
 - 样例：[메이플 키우기 - 보스 레이드 버닝 이벤트 예고! 업데이트 전 입장권 써도 될까?](https://www.youtube.com/watch?v=udCKNBeynAg)｜2026-11-22｜播放 12282｜메이플 키우기 (MapleStory Idle RPG)
 - 样例：[메이플 키우기 - 업데이트 전 하면 안 되는 행동 3가지!](https://www.youtube.com/watch?v=SJp256Goi1k)｜2026-11-20｜播放 34645｜메이플 키우기 (MapleStory Idle RPG)
 - 公开联系：lmh4186@naver.com（来源 https://www.youtube.com/watch?v=9IZjkyyxhSM）
+- 联系状态：已发邀请（2026-11-25 16:25）
 - 适配理由：日更“메이플 키우기”攻略（离线收益、更新预告、Boss 活动），单条 1–3 万播放，观众是韩服放置 RPG 核心玩家。
 - 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
 - 局限：单一游戏频道；邮箱写在视频说明而非关于页。
@@ -1115,6 +1177,7 @@
 - 样例：[시간순삭! 타워디펜스 게임 추천 TOP 7](https://www.youtube.com/watch?v=clgBxNUfQz4)｜2026-10-26｜播放 7880｜放置型/塔防合集
 - 样例：[도파민 터지는 방치형 게임 추천 순위 TOP 7](https://www.youtube.com/watch?v=JuVFSR_lLQE)｜2026-09-29｜播放 32695｜放置型/塔防合集
 - 公开联系：itarcadegame@gmail.com（来源 https://www.youtube.com/@%EC%B4%88%EB%A1%9D%EA%B4%B4%EB%AC%BC/about）
+- 联系状态：已发邀请（2026-11-25 16:25）
 - 适配理由：做“多巴胺爆棚的放置型游戏推荐 TOP7”（3.2 万播放）和塔防推荐榜。
 - 局限：最近一条放置类为 10-26 的塔防榜；更新约每周 1 条。
 
@@ -1127,6 +1190,7 @@
 - 样例：[Devo Pulire Tutta la LUNA… Con Uno SPAZZOLINO?! ／ Moon Sweepers](https://www.youtube.com/watch?v=_OlG_e4-UOs)｜2026-11-06｜播放 1962｜Moon Sweepers
 - 样例：[La Città Cresce? Il TRAFFICO PURE! ／ Incremental Traffic](https://www.youtube.com/watch?v=6K-R_wGFmkA)｜2026-11-03｜播放 4861｜Incremental Traffic
 - 公开联系：exgold97@gmail.com（来源 频道视频说明（RSS 视频描述中出现；about 页抓取所见视频《The FIRST Day at ECHO CREEK!》说明亦列此邮箱）；about 页本身邮箱需登录）
+- 联系状态：已发邀请（2026-11-25 16:25）
 - 适配理由：主做 Project Zomboid 等生存游戏，近一个月穿插 KESSLER: Orbital Incremental、Moon Sweepers、Incremental Traffic、Chop Chains 等增量新游试玩。
 - 局限：放置类不是主线，放置视频播放 2K–5K 偏低；邮箱出自视频说明而非频道简介。
 
@@ -1139,6 +1203,7 @@
 - 样例：[ИНКРЕМЕНТАЛЬНЫЕ ВЁДРА - One Million Gallons [Обзор / Первый взгляд]](https://www.youtube.com/watch?v=qOMtqHMLowM)｜2026-11-23｜播放 64｜One Million Gallons
 - 样例：[ИНКРЕМЕНТАЛЬНАЯ ДЕРЕВНЯ - The Endless Harvest [Обзор / Первый взгляд]](https://www.youtube.com/watch?v=kbKrUAYd88w)｜2026-11-22｜播放 205｜The Endless Harvest
 - 公开联系：playwithzodi@gmail.com（来源 https://www.youtube.com/@Zodi/about）
+- 联系状态：已发邀请（2026-11-25 16:25）
 - 适配理由：日更 Steam 新游「首看/评测」，近一个月连续做了十多款增量/放置和自走棋（Paydirt、One Million Gallons、The Endless Harvest等），还有 Steam 鉴赏家页，对口本作 Demo/正式版首看。
 - 优先级说明：Codex专用 核实建议降级：近期每条只有几十到几百播放；公开联系有；订阅≥5K；适配高；近30天放置类样例有
 - 局限：单条播放偏低（多为几十到几百）；地区未写明。
@@ -1152,6 +1217,7 @@
 - 样例：[모바일게임 추천 무협 방치형RPG, 퇴근하고 10분이면 끝](https://www.youtube.com/watch?v=EE2Ta1Z2swY)｜2026-11-06｜播放 3374｜放置型手游合集
 - 样例：[모바일게임 추천 무협 방치형RPG 무제, 직장인이 무과금으로 해도 될까?](https://www.youtube.com/watch?v=y1QqDn0H0vU)｜2026-11-06｜播放 1818｜放置型手游合集
 - 公开联系：gamepickbiz@gmail.com（来源 https://www.youtube.com/@%EA%B2%8C%EC%9E%84%ED%94%BD-GAMEPICK/about）
+- 联系状态：已发邀请（2026-11-25 16:26）
 - 适配理由：频道持续做“放置型游戏推荐”“下班后 10 分钟的放置 RPG”，目标观众就是挂机放置玩家，简介有商务邮箱。
 - 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
 - 局限：以手游为主，PC Steam 作品需对方意愿。
@@ -1165,6 +1231,7 @@
 - 样例：[MY SECRET WEAPON TO FARM HORDE INVASIONS](https://www.youtube.com/watch?v=U5v4lrMlLW8)｜2026-11-22｜播放 9327｜Clash of Critters / Lumi Master
 - 样例：[DON'T MAKE WISHBOXES YOUR BIGGEST REGRET!!](https://www.youtube.com/watch?v=MMpBTumjZg8)｜2026-11-21｜播放 19250｜Clash of Critters / Lumi Master
 - 公开联系：cvmg107@gmail.com（来源 https://www.youtube.com/@CVMG/about）
+- 联系状态：已发邀请（2026-11-25 16:26）
 - 适配理由：频道自述“专玩 idle RPG 和 gacha、测构筑找最强队伍”，Clash of Critters 攻略单条播放 1–3 万。
 - 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
 - 局限：以手游为主，PC 单机作品需对方意愿。
@@ -1178,6 +1245,7 @@
 - 样例：[【キノコ伝説】ガチャ養分勢のマジックシアタービルド紹介！](https://www.youtube.com/watch?v=cdZG9Eokq1E)｜2026-11-04｜播放 6879｜キノコ伝説
 - 样例：[【キノコ伝説】心域漂流記！激渋ガチャ動画！](https://www.youtube.com/watch?v=YWlv9c_ndP8)｜2026-10-19｜播放 5408｜キノコ伝説
 - 公开联系：suketto20200404@gmail.com（来源 https://www.youtube.com/@Games-wn6xx/about）
+- 联系状态：已发邀请（2026-11-25 16:26）
 - 适配理由：双人对谈式专做キノコ伝説（放置 RPG），讲 build 与抽卡，与本作英雄搭配/装备玩法高度相近。
 - 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
 - 局限：目前只做キノコ伝説一款手游，Steam 作品未见。
@@ -1191,6 +1259,7 @@
 - 样例：[The Old Multi-Ball ／ Tap Titans 2](https://www.youtube.com/watch?v=DojFEjo1zcQ)｜2026-11-01｜播放 137｜Tap Titans 2
 - 样例：[10-Year Anniversary ／ Tap Titans 2](https://www.youtube.com/watch?v=KdRLFxvGevs)｜2026-10-31｜播放 114｜Tap Titans 2
 - 公开联系：soulrise919@yahoo.com（来源 https://www.youtube.com/watch?v=YyTLTkwD81U）
+- 联系状态：已发邀请（2026-11-25 16:26）
 - 适配理由：2018 年起做 Tap Titans 2 攻略与版本解析，点击放置老牌受众。
 - 局限：近期视频播放仅约 100–500；邮箱写在视频说明而非关于页。
 
@@ -1203,6 +1272,7 @@
 - 样例：[The NEW Onyx Pumpkin launcher is insane](https://www.youtube.com/watch?v=fqw9b_zLSxk)｜待核｜播放 None｜Coal LLC
 - 样例：[A New Satisfying Mining game](https://www.youtube.com/watch?v=eLPaXDTmq0A)｜2026-11-17｜播放 13302｜标题未写明游戏名（增量类）
 - 公开联系：Trustysinq@gmail.com（来源 https://www.youtube.com/@yartaholic/about）
+- 联系状态：已发邀请（2026-11-25 16:27）
 - 适配理由：以 Coal LLC 世界纪录/攻略著称，近期仍有挖矿增量新游，偏硬核刷数值玩家
 - 局限：题材集中在 Coal LLC，泛用性一般
 
@@ -1215,6 +1285,7 @@
 - 样例：[🎮 VOID HUNTERS: ПЕРВЫЙ ЗАПУСК БЕТЫ. СТОИТ ЛИ ИГРАТЬ? ПЕРВЫЙ ГЕЙМПЛЕЙ](https://www.youtube.com/watch?v=Hlz1mnuSH10)｜2026-11-23｜播放 2877｜Void Hunters
 - 样例：[🎮 Новая Idle RPG! CASTILE – Это первая AAA Idle RPG. Стоит Ли Играть? 🔥](https://www.youtube.com/watch?v=4XO6UQlQdiU)｜待核｜播放 5311｜CASTILE（Idle RPG）
 - 公开联系：thesyrox.tv@gmail.com（来源 https://www.youtube.com/@SYROX_GAMING/about）
+- 联系状态：已发邀请（2026-11-25 16:27）
 - 适配理由：专做英雄收集 RPG（Godforge、Void Hunters、Dragonheir），做过 Idle RPG CASTILE、Eternal Evolution 首看，受众关心英雄阵容搭配。
 - 局限：近期是英雄收集类而非放置；放置 RPG 视频在一年以前；简介外链指向 godforge.gg，可能与该游戏有合作。
 
@@ -1226,6 +1297,7 @@
 - 样例：[A Roguelite Auto Battler Where Your Dice Rolls Build Your Army?! ／ Of Dice and Minions](https://www.youtube.com/watch?v=MS-kLG7a2tM)｜2026-11-23｜播放 8｜Of Dice and Minions
 - 样例：[A PvP Auto Battler Where You Build Your Own Castle?! ／ Gridlords](https://www.youtube.com/watch?v=DiRs5l95Dy8)｜2026-11-13｜播放 139｜Gridlords
 - 公开联系：cheesecakecactus123@gmail.com（来源 https://www.youtube.com/@CheeseCakeCactus/about）
+- 联系状态：已发邀请（2026-11-25 16:27）
 - 适配理由：日更独立新游初体验，近两周连做 Of Dice and Minions、Gridlords 两款自走棋，对小体量独立游戏友好
 - 优先级说明：Codex专用 核实建议降级：近期每条只有几十到几百播放；公开联系有；订阅≥5K；适配高；近30天放置类样例有
 - 局限：单条播放很低（百级），曝光有限
@@ -1239,6 +1311,7 @@
 - 样例：[[세계수의 노래] 바쁜 사람도 부담 없이 즐기는 방치형 RPG 모바일게임](https://www.youtube.com/watch?v=0WFT4g7XdCs)｜2026-11-18｜播放 1726｜세계수의 노래 等放置 RPG
 - 样例：[좀비 슈팅부터 방치형 RPG까지! 모바일게임 추천 10가지](https://www.youtube.com/watch?v=Pd3k-3mFQsg)｜2026-11-08｜播放 9157｜세계수의 노래 等放置 RPG
 - 公开联系：ad@lolq.co.kr（来源 https://www.youtube.com/@%EA%B2%9C%ED%94%8C%EB%A6%AC/about）
+- 联系状态：已发邀请（2026-11-25 16:27）
 - 适配理由：做“下班路上适合玩的放置 RPG 手游”和手游推荐合集，近期多条放置 RPG 实机。
 - 发信注意：只用「비지니스 문의 - ad@lolq.co.kr」；lbc8748@naver.com 原文标「개인문의」（私人），不用
 - 局限：邮箱之一为 MCN 广告邮箱 ad@lolq.co.kr；部分视频疑为商单。
@@ -1252,6 +1325,7 @@
 - 样例：[Eternal Pantheon: Myth Fantasy - Tier List & Gameplay (all codes)](https://www.youtube.com/watch?v=hwZTn0EWBEc)｜2026-11-20｜播放 219｜多款新放置 RPG 手游（Shovel Squad、OMG Goddess: Idle Legends 等）
 - 样例：[OMG Goddess: Idle Legends - Updated Tier List (NEW GODDESS)](https://www.youtube.com/watch?v=2v9vKI0dl9E)｜2026-11-17｜播放 448｜多款新放置 RPG 手游（Shovel Squad、OMG Goddess: Idle Legends 等）
 - 公开联系：IDLEGAMERYT@tutamail.com（来源 https://www.youtube.com/@idlegamerYT1/about）
+- 联系状态：已发邀请（2026-11-25 16:27）
 - 适配理由：频道定位“The House of Idle RPG Games”，持续为各种新放置 RPG 做梯队榜+实机，最贴合“新放置 RPG 测评”。
 - 优先级说明：Codex专用 核实建议降级：手游或单一游戏频道；公开联系有；订阅≥5K；适配高；近30天放置类样例有
 - 局限：频道名 IdleGamerBR、地区巴西，标题英文但口播语言待核；单条播放多在数百。
@@ -1278,6 +1352,7 @@
 - 样例：[下一款TBH？《War of Genesis: Idle Loot》打寶上Steam市集自由交易? 這次不要再錯過了!](https://www.youtube.com/watch?v=8-RFuE1jA_Y)｜2026-09-04｜播放 34091｜War of Genesis: Idle Loot
 - 样例：[【My Party Is Grinding】市場開放了! 有甚麼購賣必要嗎? ／ 類Tbh新作｜免費桌面放置RPG #12](https://www.youtube.com/watch?v=c7LKMngmOQ8)｜2026-09-03｜播放 5316｜My Party Is Grinding
 - 公开联系：ian510823@gmail.com（来源 https://www.youtube.com/@是努努鴨/about）
+- 联系状态：已发邀请（2026-11-25 16:28）
 - 适配理由：专做 TBH 与类TBH 桌面放置RPG（My Party Is Grinding、War of Genesis: Idle Loot、Lootborne），多次分析「市場開放」「上 Steam 市集自由交易」，正好对上社区市场卖点。
 - 局限：放置样本集中在 2026-09（近 30 天放置样本未见）；地区未明写。
 
@@ -1290,6 +1365,7 @@
 - 样例：[[공략정보] 영주님은죽지않는다. 랭킹13등! 국산 액션 RPG 플레이. 영지 건설 2D 애니메이션 자동 전투 판타지 출시 #영주님은 #영주님은죽지않는다](https://www.youtube.com/watch?v=dRl_IBqYoeQ)｜2026-11-24｜播放 89｜무림소녀 키우기 / 화신키우기 等国产放置 RPG
 - 样例：[[영주님은 죽지 않는다]  A게임TV 라이브 방송. 국산 액션 RPG 플레이. 영지 건설 2D 애니메이션 자동 전투 판타지 출시 #영주님은 #영주님은죽지않는다](https://www.youtube.com/watch?v=G-1keQanM_0)｜2026-11-23｜播放 183｜무림소녀 키우기 / 화신키우기 等国产放置 RPG
 - 公开联系：wjdgkfk@gmail.com（来源 https://www.youtube.com/@AGAMETVKOR/about）
+- 联系状态：已发邀请（2026-11-25 16:28）
 - 适配理由：5.48 千订阅，持续直播/实况国产放置 RPG（무림소녀 키우기、화신키우기：방치형 성장 RPG）。
 - 局限：单条播放约 100–300。
 
@@ -1302,6 +1378,7 @@
 - 样例：[I FINALLY PULLED PRISM UNIT During My Wildest Rollercoaster Run Yet ／ Slotbound](https://www.youtube.com/watch?v=NjFPsm2k1i4)｜2026-11-12｜播放 45236｜Slotbound
 - 样例：[My UMDEFEATED Gladiator Team Beat the Emperor’s Finest in the Final Battle ／ Dominus Gladiatus](https://www.youtube.com/watch?v=Y7GXeLzz-rI)｜2026-11-07｜播放 13423｜Dominus Gladiatus
 - 公开联系：introvertpartymartian@gmail.com（来源 https://www.youtube.com/@martianpotplays/about）
+- 联系状态：已发邀请（2026-11-25 16:28）
 - 适配理由：近期主做 Slotbound 自走军团与 Dominus Gladiatus 角斗士队伍，Slotbound 单条 4.5 万播放
 - 局限：订阅 3.9K 偏小
 
@@ -1314,6 +1391,7 @@
 - 样例：[This is an Incremental Dungeon Crawler Where You ARE the Swarm! ／ I am Plague](https://www.youtube.com/watch?v=YVjs5_xu3Ys)｜2026-11-18｜播放 5914｜I am Plague
 - 样例：[This is an Addictive Zombie Horde Defense Incremental! ／ Horde Below](https://www.youtube.com/watch?v=1jYaNUevPDA)｜2026-11-20｜播放 11204｜Horde Below
 - 公开联系：AshSwoonYT@gmail.com（来源 https://www.youtube.com/@ashswoon/about）
+- 联系状态：已发邀请（2026-11-25 16:28）
 - 适配理由：频道口号“通关增量游戏”，日更多条，含队伍放置 RPG（Your Party Died Again）和自动战斗增量
 - 局限：订阅 3.7K 偏小
 
@@ -1326,6 +1404,7 @@
 - 样例：[они добавили ГРАДОСТРОЙ в КЛИКЕР (это гениально)](https://www.youtube.com/watch?v=hL3HYbrDux0)｜2026-11-15｜播放 9976｜点击+城建增量游戏
 - 样例：[я понял почему в эту инкременталку хочется играть еще и еще](https://www.youtube.com/watch?v=w8wAaTGoL_U)｜2026-09-04｜播放 22229｜增量游戏
 - 公开联系：kaf.channel.work@gmail.com（来源 https://www.youtube.com/@gamedesigneyes/about）
+- 联系状态：已发邀请（2026-11-25 16:28）
 - 适配理由：「替你玩独立 Demo」频道，常做增量/点击类：11-09「开英雄卡包的顶级增量（强烈推荐）」4 万播放、11-15「点击器里加了城建」，与本作招募英雄+放置成长契合。
 - 局限：订阅 3.66K；部分标题不写游戏名需点开确认；地区未写明。
 
@@ -1338,6 +1417,7 @@
 - 样例：[Atteindre 2,3 milliards dans ce jeu incrémental est TROP satisfaisant !](https://www.youtube.com/watch?v=h2FphZYaW6I)｜2026-11-18｜播放 7197｜待核（标题未写游戏名）
 - 样例：[Ce jeu mélange casse-briques et incrémental ! (Uncover Space)](https://www.youtube.com/watch?v=NVzkjycg2Nc)｜2026-11-14｜播放 9052｜Uncover Space
 - 公开联系：ruddaii.contactpro@gmail.com（来源 https://www.youtube.com/@Ruddaii/about）
+- 联系状态：已发邀请（2026-11-25 16:29）
 - 适配理由：法语独立游戏频道，几乎每天发 Incremental（PAYDIRT、Hammer These Nails、Uncover Space 等），有明文商务邮箱。
 - 局限：订阅 3.65K，未达 5K；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
@@ -1350,6 +1430,7 @@
 - 样例：[Our 1st LEGENDARY pull!!](https://www.youtube.com/watch?v=We-XqnTbF0A)｜2026-11-23｜播放 1066｜Idle Heroes
 - 样例：[Doing the event LIVE!](https://www.youtube.com/watch?v=GPmEATtZvlo)｜2026-11-20｜播放 1360｜Idle Heroes
 - 公开联系：vhgaming2025@gmail.com（来源 https://www.youtube.com/@VhGamingIH/about）
+- 联系状态：已发邀请（2026-11-25 16:29）
 - 适配理由：新晋 Idle Heroes 创作者，几乎日更，也做“比 Idle Heroes 更好？”类新游对比，接新放置游戏意愿较强。
 - 局限：订阅 3.33K 未到 5K。
 
@@ -1362,6 +1443,7 @@
 - 样例：[Wir müssen Logistik in diesem Incremental durchoptimieren!](https://www.youtube.com/watch?v=pdqP4QFrQhs)｜2026-11-13｜播放 3473｜待核（物流增量，标题未写游戏名）
 - 样例：[Eine Slot-Machine bestimmt unser Team in diesem Auto-Battler!](https://www.youtube.com/watch?v=X6hJalwhB1E)｜2026-11-17｜播放 4698｜待核（老虎机自走棋，标题未写游戏名）
 - 公开联系：Ranger@2ndwave.rocks（来源 https://www.youtube.com/@IndieRadarRanger/about）
+- 联系状态：已发邀请（2026-11-25 16:29）
 - 适配理由：RangerArea 的独立游戏发现频道，日更 Incremental/自走棋百分百通关，近一月有 Punch These Walls、物流增量、老虎机自走棋。
 - 局限：订阅 3.13K，未达 5K；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
@@ -1374,6 +1456,7 @@
 - 样例：[Снёс всех врагов огромной армией в Marchling Idle](https://www.youtube.com/watch?v=_QqXsijjrRM)｜2026-11-13｜播放 408｜Marchling Idle
 - 样例：[Открываем паки с героями и ловим Имбу  в инкрементальной игре  ／ Booster Pack Heroes](https://www.youtube.com/watch?v=uSkgiKAMfjQ)｜2026-11-09｜播放 3517｜英雄卡包增量游戏
 - 公开联系：pozilaaanakonda@gmail.com（来源 https://www.youtube.com/@izvinis777/about）
+- 联系状态：已发邀请（2026-11-25 16:29）
 - 适配理由：几乎每天发 Steam 增量/放置 Demo 与新游：Incremental RTS 全流程、Marchling Idle、开英雄卡包的增量、组队打兽人的 idle 游戏，题材与本作高度一致。
 - 局限：订阅 2.85K，多数视频播放只有一两百；邮箱写在关于页外链区。
 
@@ -1386,6 +1469,7 @@
 - 样例：[Karma PvP First Impression - Best Tank In Game? [AFK Journey]](https://www.youtube.com/watch?v=fE2gFHSRaSI)｜2026-09-27｜播放 3856｜AFK Journey
 - 样例：[Aster PvP First Impression - Broken Damage Dealer? [AFK Journey]](https://www.youtube.com/watch?v=Ox91vhHan8s)｜2026-09-22｜播放 5353｜AFK Journey
 - 公开联系：elfeytb@gmail.com（来源 https://www.youtube.com/@ElfeYT/about）
+- 联系状态：已发邀请（2026-11-25 16:29）
 - 适配理由：专做 AFK Journey PvP 英雄首测与配队，懂阵容/站位克制。
 - 局限：约每月 1–2 条；订阅 2.68K。
 
@@ -1398,6 +1482,7 @@
 - 样例：[【卡包英雄】開卡包超爽~一直開卡包一直爽~~ ／ Booster Pack Heroes #遊戲介紹 #steam  #免費試玩](https://www.youtube.com/watch?v=tmpTEEyAiwY)｜2026-11-11｜播放 269｜卡包英雄
 - 样例：[一台拉霸機決定生死！老虎機自走棋塔防｜Slotbound 轉運軍團](https://www.youtube.com/watch?v=QwOZ_KOXpiE)｜2026-11-10｜播放 2543｜待核（标题未写游戏名）
 - 公开联系：teltelsasasa@gmail.com（来源 https://www.youtube.com/@telephone_sa/about）
+- 联系状态：已发邀请（2026-11-25 16:29）
 - 适配理由：Vtuber，固定周一周四介绍非3A小游戏，做过 TBH Steam 市集、类TBH 交易市集、卡包英雄、增量游戏专题，会专门讨论「能否在 Steam 市集赚零用钱」。
 - 局限：订阅 2.34K，体量小；地区未明写（链接带 zhtw）。
 
@@ -1410,6 +1495,7 @@
 - 样例：[MapleStory Idle Class Tier List - 4th Job - (November 2026)](https://www.youtube.com/watch?v=j-Z4Ssm5ew0)｜2026-11-14｜播放 10271｜MapleStory Idle RPG
 - 样例：[Who Is The WORST Mage In MapleStory Idle? (Ft.RefriedBeans)](https://www.youtube.com/watch?v=b1aleCtwtck)｜2026-11-12｜播放 5686｜MapleStory Idle RPG
 - 公开联系：PumpkinIdle@yahoo.com（来源 https://www.youtube.com/@PumpkinIdle/about）
+- 联系状态：已发邀请（2026-11-25 16:29）
 - 适配理由：主做 MapleStory Idle RPG 职业梯队、氪金/账号展示，频道名就带 Idle，观众是放置 RPG 核心玩家。
 - 局限：订阅 2.24K 未到 5K；目前集中于单一游戏。
 
@@ -1422,6 +1508,7 @@
 - 样例：[Je RECRUTE des aventuriers pour traquer le NÉCROMANCIEN ! (Traveloot)](https://www.youtube.com/watch?v=sOhiwrKQEqE)｜2026-11-19｜播放 5842｜Traveloot
 - 样例：[Une PAILLE pour boire TOUT L'OCÉAN ! (Drink The Ocean)](https://www.youtube.com/watch?v=hnPkjIgrpPI)｜2026-11-15｜播放 4501｜Drink The Ocean
 - 公开联系：contact.justeunerun@gmail.com（来源 https://www.youtube.com/@Justeunerun/about）
+- 联系状态：已发邀请（2026-11-25 16:29）
 - 适配理由：法语日更频道，简介写明主做 Incremental 独立游戏，近两周有 Counter Targets Clicker、Traveloot、InCowMental 等。
 - 局限：订阅 1.65K，未达 5K；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
@@ -1434,6 +1521,7 @@
 - 样例：[스팀신작 바탕화면 방치형 게임들 동시에 해보기 닭둘기치킨 냥냥타워 등 Desktop Idle Game](https://www.youtube.com/watch?v=jaojanZx6c4)｜2026-11-21｜播放 98｜Legend of Defenders / Desktop Idle Games / BUBBA CHOP GROVE
 - 样例：[수성 영웅전 첫플레이 200 웨이브까지 방치형 인크리멘탈 Legend of Defenders 스팀](https://www.youtube.com/watch?v=ijW4odRVghk)｜2026-11-17｜播放 126｜Legend of Defenders / Desktop Idle Games / BUBBA CHOP GROVE
 - 公开联系：dexlove@naver.com（来源 https://www.youtube.com/@%EB%AD%90%EB%9D%BC%EA%B3%A0%EC%9A%94/about）
+- 联系状态：已发邀请（2026-11-25 16:29）
 - 适配理由：专做 Steam 新放置/增量/桌面挂机游戏首玩，题材与本作高度一致，简介有邮箱。
 - 局限：订阅 1.56K，播放数十到数百。
 
@@ -1446,6 +1534,7 @@
 - 样例：[Через эту дверь прошло ВСЕ ЧЕЛОВЕЧЕСТВО, буквально ／ Round and round inc. на 100%](https://www.youtube.com/watch?v=4dzZeHXKcjU)｜2026-11-14｜播放 21387｜Round and Round Inc.
 - 样例：[Я превратил ВИЛКУ в АРМИЮ ради ДЖЕМА ／ Stick a Fork на 100%](https://www.youtube.com/watch?v=eH5NCp8V2Vo)｜2026-11-08｜播放 17257｜Stick a Fork
 - 公开联系：konturoffstream@gmail.com（来源 https://www.youtube.com/@konturofchill/about）
+- 联系状态：已发邀请（2026-11-25 16:29）
 - 适配理由：新频道（仅 11 条），全是增量/放置游戏 100% 通关长视频（Booster Pack Heroes、Round and Round Inc.、Stick a Fork、Babel Legacy），每条 1 到 6 万播放，远超订阅。
 - 局限：订阅仅 1.39K、频道很新；邮箱写在关于页外链区。
 
@@ -1458,6 +1547,7 @@
 - 样例：[Je transforme ces adorables créatures en conserves 🥫 ／ Can ’Em All – Découverte FR](https://www.youtube.com/watch?v=dYWu5Te3vLg)｜2026-11-14｜播放 2041｜Can 'Em All
 - 样例：[Je m’évade de prison à coups de poing ! 👊 ／ Punch The Walls FR — FINAL](https://www.youtube.com/watch?v=RAV9mgugNBY)｜2026-11-11｜播放 3048｜Punch The Walls
 - 公开联系：kayork.gaming@gmail.com（来源 https://www.youtube.com/@KayorkGaming/about）
+- 联系状态：已发邀请（2026-11-25 16:30）
 - 适配理由：法语独立游戏试玩频道，近两周连做增量 Mine It All!、Can 'Em All、Punch The Walls、Graveyard Orbit，常与 Ruddaii、Juste une run 联动。
 - 局限：订阅 1.22K，未达 5K；部分视频另有英文版标题；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
@@ -1470,6 +1560,7 @@
 - 样例：[블록 행성 파괴하는 인크리멘탈 게임 'DeCube'](https://www.youtube.com/watch?v=5zDpdL3WLHM)｜2026-11-22｜播放 119｜PAYDIRT / DeCube 等增量游戏
 - 样例：[물고기 잡는 낚시 인크리멘탈 게임｜리바이어던을 낚아 올려라](https://www.youtube.com/watch?v=rf-xLwikiUA)｜2026-11-21｜播放 404｜PAYDIRT / DeCube 等增量游戏
 - 公开联系：ehssid1990@naver.com（来源 https://www.youtube.com/@%EB%B0%95%EB%8F%88%EB%83%A5/about）
+- 联系状态：已发邀请（2026-11-25 16:30）
 - 适配理由：几乎日更 Steam 增量(인크리멘탈)/放置小游戏实况，题材最对口。
 - 局限：订阅 1.09K，播放多在数百。
 
@@ -2021,6 +2112,7 @@
 - 样例：[Est-ce que je Peux Finir Cookie Clicker sans Cliquer ?](https://www.youtube.com/watch?v=1zVlVWLSc2Y)｜待核｜播放 None｜Cookie Clicker
 - 样例：[J'ai triché pour finir ce jeu où tu cliques sur un cookie](https://www.youtube.com/watch?v=8pGyUW_UTJ0)｜待核｜播放 None｜Cookie Clicker
 - 公开联系：fiouze@blockmedia.fr（来源 https://www.youtube.com/@FuzePlays/about）
+- 联系状态：已发邀请（2026-11-25 16:30）
 - 适配理由：法语大频道（79.7 万），Cookie Clicker 挑战与捡金币类增量视频播放百万级。
 - 局限：主做 Minecraft；最近放置类 10-19，超过 30 天；邮箱属 Blockmedia 经纪；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
@@ -2032,6 +2124,7 @@
 - 样例：[放置ゲーってなんで売れてるのかさっぱりわからん…その裏側を解説します【杖と剣の伝説】](https://www.youtube.com/watch?v=ETtAsljm5uA)｜2026-07-25｜播放 134827｜杖と剣の伝説
 - 样例：[【50時間プレイレビュー】開発4人スタートのインディ放置ゲームを徹底分析【月ウサギのそだてかた】](https://www.youtube.com/watch?v=TWLhTpieWfU)｜2023-06-16｜播放 124012｜50時間プレイレビュー
 - 公开联系：nakaido@socialdiva.jp（来源 https://www.youtube.com/@nakaido/about）
+- 联系状态：已发邀请（2026-11-25 16:30）
 - 适配理由：游戏业界评论大号，做过放置ゲー专题分析（杖と剣の伝説 13 万、月ウサギのそだてかた 50 小时评测）。
 - 发信注意：只用「お仕事のご連絡：nakaido@socialdiva.jp」；另一个是「中国お仕事」专用，不用
 - 局限：以业界新闻评论为主，放置题材只是偶尔；近 30 天无放置视频。
@@ -2044,6 +2137,7 @@
 - 样例：[17時間岩に激突して、カケラを1億個集めてみた。【ゆっくり実況/(the) Gnorp Apologue】](https://www.youtube.com/watch?v=_0CMvfiFXvs)｜2025-07-11｜播放 221839｜ゆっくり実況/(the) Gnorp Apologue
 - 样例：[700時間かけてクッキーを集めてみた。【ゆっくり実況/Cookie Clicker】](https://www.youtube.com/watch?v=pl3WVN1PBWs)｜2025-06-06｜播放 865047｜ゆっくり実況/Cookie Clicker
 - 公开联系：meto.work631214@gmail.com（来源 https://www.youtube.com/@metokuma314/about）
+- 联系状态：已发邀请（2026-11-25 16:30）
 - 适配理由：做过高播放长时间放置实况（Cookie Clicker 700 小时 86 万、Gnorp Apologue 22 万），有明文商务邮箱。
 - 局限：近 90 天无放置题材，近期以マイクラ/ホラー为主。
 
@@ -2055,6 +2149,7 @@
 - 样例：[I Played 20 Idle Games For 2 Hours Each To Find The Most Addictive One](https://www.youtube.com/watch?v=GEWR9FMu8to)｜待核｜播放 None｜20 款放置合集
 - 样例：[I Played 20 Idle Games For 2 Hours Each To Find The Most Addictive One](https://www.youtube.com/watch?v=fMwghhd5LcY)｜待核｜播放 None｜20 款放置合集（第二期）
 - 公开联系：jh@jonathanhagewood.com（来源 https://www.youtube.com/@JGigs/about）
+- 联系状态：已发邀请（2026-11-25 16:31）
 - 适配理由：“20 款××各玩 2 小时排名”系列，两期放置游戏分别 82 万、32 万播放，很可能再做放置篇
 - 局限：近 90 天无放置题材；邮箱写在关于页链接区
 
@@ -2067,6 +2162,7 @@
 - 样例：[Я ПРОШЕЛ 10 коротких idle/инкрементальных игр](https://www.youtube.com/watch?v=UTA_73sxKl0)｜待核｜播放 11992｜10 款短篇放置/增量合集
 - 样例：[Я прошел ЕЩЁ 5 КОРОТКИХ idle/инкрементальных игр // Astro Prospector, Keep on Mining, Nebulock и др.](https://www.youtube.com/watch?v=QLQr_pZYP0o)｜待核｜播放 13307｜5 款短篇放置/增量合集
 - 公开联系：murtorkcom@gmail.com（来源 https://www.youtube.com/@Murtork/about）
+- 联系状态：已发邀请（2026-11-25 16:31）
 - 适配理由：46.6K 订阅，做过「我通关了 10 款短篇 idle/增量游戏」系列和 Cookie Clicker 全程，9 月做了 Swords and Souls 精神续作 100% 通关，简介写明合作邮箱。
 - 局限：近 30 天无放置题材（近期是 Stardew、Graveyard Keeper）；放置合集多在半年到一年前。
 
@@ -2078,6 +2174,7 @@
 - 样例：[10 Best Idler Game 2026](https://www.youtube.com/watch?v=ChpNzHlEIvc)｜待核｜播放 None｜多款放置合集
 - 样例：[10 Best Idle Games on Nintendo Switch 2023](https://www.youtube.com/watch?v=QLQo_Rjw0ug)｜待核｜播放 None｜多款放置合集
 - 公开联系：gamespuffyt@gmail.com（来源 https://www.youtube.com/@GamesPuff/about）
+- 联系状态：已发邀请（2026-11-25 16:31）
 - 适配理由：日更“十大××游戏”榜单，做过“2026 十大放置游戏”，可争取进放置/新游榜单
 - 局限：榜单号、单条播放仅数百；近 90 天无放置题材
 
@@ -2090,6 +2187,7 @@
 - 样例：[ÖZLEYENLERİ GÖRELİM !!!  ／ #backpackbattles](https://www.youtube.com/watch?v=QYzqDyKn28A)｜2026-11-20｜播放 1913｜Backpack Battles
 - 样例：[TEK ATAN CENGİZHAN YAPTIK !!! #GearUpEinstein!](https://www.youtube.com/watch?v=BS3Lb81kJjc)｜2026-11-18｜播放 2110｜Gear Up Einstein!
 - 公开联系：mtsoyunkanali@gmail.com（来源 https://www.youtube.com/@MTS_OK/about（频道简介明文））
+- 联系状态：已发邀请（2026-11-25 16:31）
 - 适配理由：土耳其背包自走棋专精频道，持续更新 Backpack Battles、Oaken Tower、Gear Up Einstein!、Slots & Skulls 等自动战斗/构筑类。
 - 局限：订阅 4.81K 略低于 5K；偏 PvP 背包构筑，非纯放置受众；单条播放约 1–2K。
 
@@ -2101,6 +2199,7 @@
 - 样例：[Los juegos IDLE más INCREÍBLES de STEAM ✨ ／ Juegos de INACTIVIDAD EN STEAM PT.2  #steam  #juegosidle](https://www.youtube.com/watch?v=AIcSqo-YtmU)｜待核｜播放 None｜Steam 放置游戏合集
 - 样例：[JUEGOS IDLES QUE SÍ DEBES JUGAR ✨ ／ Juegos de INACTIVIDAD EN STEAM  #steam #videojuegos #juegosidle](https://www.youtube.com/watch?v=z-dd-876zPE)｜待核｜播放 None｜Steam 放置游戏合集
 - 公开联系：imchoi.contact@gmail.com（来源 https://www.youtube.com/feeds/videos.xml?channel_id=UCDMgJO1tUKGBsimCoPp_hlQ（近期视频说明 media:description））
+- 联系状态：已发邀请（2026-11-25 16:31）
 - 适配理由：做过两期 Steam 放置/挂机游戏推荐合集，平时做 cozy 独立新游短评，有公开商务邮箱。
 - 局限：近期以 Heartopia 等 cozy 游戏为主，两条放置合集日期待核；订阅约 4.5K。；订阅数来源：vidIQ 2026-11-22
 
@@ -2112,6 +2211,7 @@
 - 样例：[I Played 100% of Can 'Em All](https://www.youtube.com/watch?v=fcF1GYqHeQ8)｜2026-11-21｜播放 3911｜Can 'Em All
 - 样例：[I Drank 100% of the Ocean](https://www.youtube.com/watch?v=B1QHSbouBm4)｜2026-11-16｜播放 151744｜Drink the Ocean
 - 公开联系：Jyku.Business@gmail.com（来源 https://www.youtube.com/@JykuPlays/about）
+- 联系状态：已发邀请（2026-11-25 16:32）
 - 适配理由：4.31K 订阅，近两周转做增量 100%（Drink the Ocean 15 万播放）
 - 局限：此前长期停更/做 Fortnite
 
@@ -2124,6 +2224,7 @@
 - 样例：[63,306個のジャガイモの山をひたすら皮むきして処理するゲーム『Potato Please』【ゆっくり実況】](https://www.youtube.com/watch?v=qSedt3RXyx8)｜2026-11-05｜播放 208822｜ゆっくり実況
 - 样例：[17,489本のニンジンをひたすら収穫するだけのゲーム『Quadrillion Carrots-体験版-』【ゆっくり実況】](https://www.youtube.com/watch?v=L2HOgNv93ZQ)｜2026-10-31｜播放 50694｜ゆっくり実況
 - 公开联系：kani3921@gmail.com（来源 https://www.youtube.com/@mayomayobird3/about）
+- 联系状态：已发邀请（2026-11-25 16:32）
 - 适配理由：ぜつまよちきん的副频道，专做大数量インクリ（Potato Please 20 万播放、Quadrillion Carrots）。
 - 局限：频道 /videos 只有 3 条，属副频道；题材偏清扫类。
 
@@ -2136,6 +2237,7 @@
 - 样例：[Idle Games you NEED to play!](https://www.youtube.com/watch?v=mIMiNZ3hfLc)｜待核｜播放 None｜多款放置合集
 - 样例：[Farming While Working? Rusty's Retirement Full Review](https://www.youtube.com/watch?v=DfH1QW7Pgh0)｜待核｜播放 None｜Rusty's Retirement
 - 公开联系：hello@theindiebrew.com.au（来源 https://www.youtube.com/@theindiebrew/about）
+- 联系状态：已发邀请（2026-11-25 16:32）
 - 适配理由：独立游戏媒体，简介写明“想要报道请发邮件”，做过“上班挂机游戏推荐”和 Rusty's Retirement 评测
 - 局限：近期视频播放仅约 100、最近一条 10-28；放置类视频较旧
 
@@ -2148,6 +2250,7 @@
 - 样例：[How to Spend Black Friday Stones](https://www.youtube.com/watch?v=AA1WDbjiwNA)｜2026-11-23｜播放 1618｜The Tower – Idle Tower Defense
 - 样例：[Best ILM Range? (non tourney test)](https://www.youtube.com/watch?v=JAo06p3DJEk)｜2026-11-22｜播放 1066｜The Tower – Idle Tower Defense
 - 公开联系：bonzostower@gmail.com（来源 https://www.youtube.com/watch?v=mmDQkkDlxp4）
+- 联系状态：已发邀请（2026-11-25 16:32）
 - 适配理由：几乎日更 The Tower 实验室/农场构筑攻略。
 - 局限：订阅 2.66K；邮箱写在视频说明。
 
@@ -2160,6 +2263,7 @@
 - 样例：[The FedEx Build: Living Off Package Health](https://www.youtube.com/watch?v=EoeYDwy76f4)｜2026-11-23｜播放 1155｜The Tower – Idle Tower Defense
 - 样例：[Why Farm with Attack Dissonance as Hybrid?](https://www.youtube.com/watch?v=LjMJEPDGEjc)｜2026-11-23｜播放 1030｜The Tower – Idle Tower Defense
 - 公开联系：tacoking1588@gmail.com（来源 https://www.youtube.com/@taggzJGU/about）
+- 联系状态：已发邀请（2026-11-25 16:32）
 - 适配理由：日更 The Tower（放置塔防）构筑与农场分析，观众是放置数值养成玩家。
 - 局限：订阅 2.39K；只做单一塔防放置游戏，与 RPG 阵容玩法有差距。
 
@@ -2172,6 +2276,7 @@
 - 样例：[L'incrémental où tu utilises la pyramide de pongzi ! ／ Démo Pongzi Scheme](https://www.youtube.com/watch?v=FZJQEFXuQoM)｜待核｜播放 None｜Pongzi Scheme
 - 样例：[Un RPG idle plutôt cool ! ／ Découverte de The Ash Remembers](https://www.youtube.com/watch?v=I32xSDB8VaI)｜待核｜播放 None｜The Ash Remembers
 - 公开联系：shokow.contact@gmail.com（来源 https://www.youtube.com/@shokow2306/about）
+- 联系状态：已发邀请（2026-11-25 16:33）
 - 适配理由：法语卡牌构筑/Roguelike 频道，做过自走棋 Of Dice and Minions、增量 Pongzi Scheme、Idle RPG The Ash Remembers。
 - 局限：订阅 2.34K；近期以 Slay the Spire 2 为主；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 
@@ -2183,6 +2288,7 @@
 - 样例：[PEUT-ÊTRE UNE NOUVELLE ADDICTION AUTOBATTLER BACKPACK ! ／ Dungeonbound Partie 1](https://www.youtube.com/watch?v=7NpZqR-Vw9M)｜2026-11-20｜播放 3773｜Dungeonbound
 - 样例：[ON CONTINUE L'AVENTURE SUR NORTHGARD BATTLEGROUNDS ! ／ Gameplay FR](https://www.youtube.com/watch?v=eTvjEjFgaEI)｜2026-11-13｜播放 960｜Northgard Battlegrounds
 - 公开联系：gobgg@thenode.gg（来源 https://www.youtube.com/watch?v=2FVa4Fdl-PE）
+- 联系状态：已发邀请（2026-11-25 16:33）
 - 适配理由：法语主播 GobGG 的录播副频道，近一月做自走棋 Dungeonbound、Northgard Battlegrounds 首测。
 - 发信注意：经纪方邮箱，可能回报价
 - 局限：主做英雄联盟；订阅 2.14K；邮箱为经纪 thenode.gg，取自视频说明；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
@@ -2196,6 +2302,7 @@
 - 样例：[Is it a Bird, is it a Plane, no it's... - AFK Journey - Season 8](https://www.youtube.com/watch?v=XIZcfP2PVpo)｜2026-09-27｜播放 3246｜AFK Journey
 - 样例：[AFK Stage Tips 1.8.1: Equipment Lists, Day 1 Teams, Phantimals & Optimisations - AFK Journey](https://www.youtube.com/watch?v=voaUTwzI2as)｜2026-09-20｜播放 8484｜AFK Journey
 - 公开联系：dreamertube101@gmail.com（来源 https://www.youtube.com/@DreamerAFKJ/about）
+- 联系状态：已发邀请（2026-11-25 16:33）
 - 适配理由：AFK Journey 关卡/AFK Stage 深度攻略与英雄评测，播放 1.5–8.5K。
 - 局限：最近一条为 10-24，更新不规律；订阅 2.11K。
 
@@ -2208,6 +2315,7 @@
 - 样例：[IDLE (инкременталка) Во что поиграть? #idle  #игрыкоторыетыпропустил #games #игры #вочтопоиграть](https://www.youtube.com/watch?v=B29MfxSYBIw)｜2026-11-06｜播放 2691｜IDLE 增量游戏推荐（短视频）
 - 样例：[Во что поиграть? ► Idle (Инкременталки) ► ч.5](https://www.youtube.com/watch?v=eZ8HYHm6P7M)｜待核｜播放 1734｜Idle 增量推荐 第 5 集
 - 公开联系：aawork33@gmail.com（来源 https://www.youtube.com/@vochtopoigratG/about）
+- 联系状态：已发邀请（2026-11-25 16:33）
 - 适配理由：「玩什么？」推荐频道，有固定的「IDLE（增量）」分类栏目，每周轮换推荐增量/自动化/塔防新游，另有网站 vochtopoigrat.ru。
 - 局限：订阅仅 1.93K，以短视频合集为主，单款曝光时长短。
 
@@ -2220,6 +2328,7 @@
 - 样例：[【TBH: 塔斯克巴・英雄】黑畫面恢復透明快速解決方法!｜Task Bar Hero Rang｜【夭夜】](https://www.youtube.com/watch?v=F76DVI3sYpc)｜2026-06-05｜播放 278｜TBH: 塔斯克巴・英雄
 - 样例：[【TBH: 塔斯克巴・英雄】這免費遊戲掉寶竟然能換錢？  🤑｜steam 市場交易教學！｜Task Bar Hero Rang｜【夭夜】](https://www.youtube.com/watch?v=wdokyz_zoec)｜2026-06-05｜播放 8111｜TBH: 塔斯克巴・英雄
 - 公开联系：st9750317@gmail.com（来源 https://www.youtube.com/@OODrYaoye/about）
+- 联系状态：已发邀请（2026-11-25 16:33）
 - 适配理由：做过 TBH 新手懒人包、Steam 市场交易教学（8 千播放）、黑画面修复等多条 TBH 内容，并长期直播挂 TBH。
 - 局限：订阅 1.71K；最近一条视频 2026-09-03，放置内容停在约 5 个月前。
 
@@ -2232,6 +2341,7 @@
 - 样例：[NEW Taskbar Games for the Bottom of your Screen](https://www.youtube.com/watch?v=SfJnw0r0VQs)｜待核｜播放 None｜任务栏挂机合集
 - 样例：[Steam Next Fest October 2026 Tiny Game List](https://www.youtube.com/watch?v=JAIXUIEM57A)｜待核｜播放 None｜Steam Next Fest 合集
 - 公开联系：contact@maybesarisa.com（来源 https://www.youtube.com/@MaybeSarisa/about）
+- 联系状态：已发邀请（2026-11-25 16:33）
 - 适配理由：多次做“任务栏/屏幕底部挂机游戏”合集和 Next Fest 小游戏清单，正好覆盖本作小窗挂机卖点
 - 局限：近 30 天在做 Moomin 攻略、无放置题材；订阅 1.6K
 
@@ -2244,6 +2354,7 @@
 - 样例：[Little Incrementisle : UN PETIT JEU INCRÉMENTAL GRATUIT](https://www.youtube.com/watch?v=7LN9R2-M8ZA)｜待核｜播放 None｜Little Incrementisle
 - 样例：[Bannerlings : Fusionner ses unités pour créer l'armée parfaite](https://www.youtube.com/watch?v=tSqfX0UYNk0)｜2026-11-10｜播放 1218｜Bannerlings
 - 公开联系：bonnetlesskraupro@gmail.com（来源 https://www.youtube.com/watch?v=zCnaZyt5MAA）
+- 联系状态：已发邀请（2026-11-25 16:33）
 - 适配理由：法语 Twitch 主播的录播频道，近一月做增量自走背包 Dungeonbound、Little Incrementisle、合成军团 Bannerlings 等。
 - 局限：订阅 1.21K、单条播放数百；邮箱取自视频说明；未登录抓取，关于页“查看电子邮件地址”按钮检测不到，可能存在
 

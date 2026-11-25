@@ -28,12 +28,22 @@
   "already_known_count": 58,
   "already_contacted_count": 28,
   "rejected_count": 389,
-  "send_plan": "发信清单已备好，计划 2026-11-25 12:00 由 Codex 发邀请；本页收录时名单内均为新增（未联系）。",
+  "outreach_2026_11_25": {
+    "sent": 107,
+    "bounced": 1,
+    "held": [
+      "풍월량",
+      "咖啡樂's"
+    ],
+    "invited_creators": 109
+  },
+  "send_plan": "11 月 25 日已用 Gmail 发出 107 封邀请（v3 稿，倦猫批准），覆盖 109 位（2 位与同一人合并发信）；1 封退信；2 位暂缓未发。已发送只表示邮件送出，不代表对方已读或接受合作。",
   "source": {
     "data": "docs/research/data/2026-11-24-overseas-idle-creators-100.json",
-    "data_sha256": "1d66d513efeca837a753c1ba60d35500cdb9d733cd780401dcd59ab8e095190a",
+    "data_sha256": "255dffe597b69bf8ad79db497838527240fbf4bdda1cc19e994983e7cf65f8ae",
     "report": "docs/research/2026-11-24-overseas-idle-creators-100.md",
-    "sendlist": "docs/outreach/2026-11-25-overseas-idle-sendlist.csv"
+    "sendlist": "docs/outreach/2026-11-25-overseas-idle-sendlist.csv",
+    "send_record": "output/overseas-idle-creators-20261124/发信_1125/发信记录_对话管理.csv"
   },
   "creators": [
     {
@@ -56,7 +66,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Waligug/about（简介「Business Inquiries」；gmail 标注为 personal contact，不用）",
       "sendChannel": "邮箱：waligug@intheblackmedia.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "I Played 100% of Shake It Co!",
         "url": "https://www.youtube.com/watch?v=jO0qo4-ui5k",
@@ -66,6 +76,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:08",
       "taiwan": false,
       "samples": [
         {
@@ -111,7 +122,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Skoottie/about",
       "sendChannel": "邮箱：skoottie@clovertalent.gg",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "I Played 100% of Booster Pack Heroes",
         "url": "https://www.youtube.com/watch?v=jbjgwEVD5YQ",
@@ -121,6 +132,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:09",
       "taiwan": false,
       "samples": [
         {
@@ -167,7 +179,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@LiceMoo/about",
       "sendChannel": "邮箱：lice.moo@hotmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "《卡包英雄》還是得有些核心玩法才好玩，近 3,000 篇 93% 極度好評的增量型塔防",
         "url": "https://www.youtube.com/watch?v=CwzfJuSPmgc",
@@ -177,6 +189,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "做过「合作诈骗」主题视频：邀请信不带附件、不用短链",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:10",
       "samples": [
         {
           "game": "卡包英雄",
@@ -221,7 +234,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@maximszweitkanal/about",
       "sendChannel": "邮箱：maxim@instinct3.de",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Nur 1 Level, dann etwas Neues! | !pmm !razer !snocks !koro !holzkern #Werbung",
         "url": "https://www.youtube.com/watch?v=0lAhrwKEBSQ",
@@ -230,6 +243,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:10",
       "taiwan": false,
       "samples": [
         {
@@ -273,7 +287,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Gohjoe/about",
       "sendChannel": "邮箱：gohjoebusiness@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "I defeated GODS as a bouncing MEATBALL in this Action Roguelike! - Goobies 2",
         "url": "https://www.youtube.com/watch?v=EbHY6T1bznw",
@@ -282,6 +296,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:11",
       "taiwan": false,
       "samples": [
         {
@@ -327,7 +342,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Kaiffu/about",
       "sendChannel": "邮箱：Kaif@saltraiders.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "This Incremental Was... Weird | I'm a Wizard But I Dig",
         "url": "https://www.youtube.com/watch?v=32QzUEhn4dE",
@@ -336,6 +351,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:11",
       "taiwan": false,
       "samples": [
         {
@@ -382,7 +398,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@pfytw/about",
       "sendChannel": "邮箱：playforyoutw@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "《GTA6》火車撞到人會倒退？！｜俠盜獵車手VI｜Grand Theft Auto VI｜PFY玩給你看",
         "url": "https://www.youtube.com/watch?v=DrarCWX_6YU",
@@ -391,6 +407,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:12",
       "samples": [
         {
           "game": "仙境傳說倖存者",
@@ -435,7 +452,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@NQH-X/about（频道简介明文，商务联系；视频说明亦有）",
       "sendChannel": "邮箱：nguyenquochuy1094@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "100 Ngày Thủ Thành Bằng Túi Mù Trong Booster Pack Heroes",
         "url": "https://www.youtube.com/watch?v=nlWnLhsPdfs",
@@ -444,6 +461,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:12",
       "taiwan": false,
       "samples": [
         {
@@ -496,7 +514,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@OnlyIndies/about",
       "sendChannel": "邮箱：gerierwarwick@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Recluté 10.000 SOLDADOS para derrotar al EJÉRCITO de los MUERTOS",
         "url": "https://www.youtube.com/watch?v=I8FfjqgPmxc",
@@ -506,6 +524,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "与 Only Roguelikes 同一人同一邮箱：只发这一封，信里两个频道都提到",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:13",
       "taiwan": false,
       "samples": [
         {
@@ -551,7 +570,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Morequis/about",
       "sendChannel": "邮箱：collaborations@morequis.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Flip this bottle 1,000,000 times to 100%...",
         "url": "https://www.youtube.com/watch?v=qZ74XIzIwrY",
@@ -560,6 +579,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:13",
       "taiwan": false,
       "samples": [
         {
@@ -605,7 +625,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@たまチャンネル/about",
       "sendChannel": "邮箱：tamachannel@youdaoads.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "【World of Warships】協力型PvE要素拡充化：膨大すぎる船集めだけでも長年遊べる、10年以上運営なのに人口は常に1万人超のやりこみ要素山盛り海上戦艦シューティング",
         "url": "https://www.youtube.com/watch?v=uxOqpF5i8tw",
@@ -615,6 +635,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:15",
       "taiwan": false,
       "samples": [
         {
@@ -660,7 +681,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@kakakyjla/about",
       "sendChannel": "邮箱：kakakyjla@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Lucky Tower Ultimate 2026 | Самый Ржачный Рогалик про Башню! #7",
         "url": "https://www.youtube.com/watch?v=sqLCwks7t6c",
@@ -669,6 +690,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:15",
       "taiwan": false,
       "samples": [
         {
@@ -714,7 +736,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/watch?v=OPCSfXuLhFo",
       "sendChannel": "邮箱：omen6101@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "광고에서 나온 방식으로 만든 재밌는 신작 로그라이크 게임 (Korridor)",
         "url": "https://www.youtube.com/watch?v=OPCSfXuLhFo",
@@ -723,6 +745,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:17",
       "taiwan": false,
       "samples": [
         {
@@ -768,7 +791,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@tama1370/about",
       "sendChannel": "邮箱：sosbrigade276@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "【Dungeonbound】装備を集めて強化しまくるダンジョン探索！インクリメンタル要素付きダンジョンクロウルなローグライク【VOICEROID実況】",
         "url": "https://www.youtube.com/watch?v=J-l1D98rGL4",
@@ -778,6 +801,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "简介原文写作 sosbrigade276☆gmail.com，发送时用 @",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:17",
       "taiwan": false,
       "samples": [
         {
@@ -823,7 +847,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/watch?v=KnYjjoWtP98",
       "sendChannel": "邮箱：phunkroyal@1up.management",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Seife macht flutsch!",
         "url": "https://www.youtube.com/watch?v=KnYjjoWtP98",
@@ -833,6 +857,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:17",
       "taiwan": false,
       "samples": [
         {
@@ -878,7 +903,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@FonFonIdle/about",
       "sendChannel": "邮箱：fonfon@intheblackmedia.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "I Played 100% of A Game About Cutting A Bamboo Forrest",
         "url": "https://www.youtube.com/watch?v=kamg51EGW4k",
@@ -888,6 +913,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:17",
       "taiwan": false,
       "samples": [
         {
@@ -933,7 +959,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@shakerratto/about",
       "sendChannel": "邮箱：shakerratto9@naver.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "좀보이드에 스토커 섞인 느낌의 오픈월드 좀비 생존 게임 (ZED ZONE)",
         "url": "https://www.youtube.com/watch?v=17rPIzg0Vg0",
@@ -942,6 +968,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:17",
       "taiwan": false,
       "samples": [
         {
@@ -987,7 +1014,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@DabbleYT/about",
       "sendChannel": "邮箱：dabblegamingyt@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "I Created a LEVEL 300+ PRISMATIC MONSTER | Slotbound",
         "url": "https://www.youtube.com/watch?v=YrpULYXm3A4",
@@ -996,6 +1023,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:18",
       "taiwan": false,
       "samples": [
         {
@@ -1041,7 +1069,7 @@
       "contactType": "邮箱",
       "contactSource": "https://bibio.com.tr/gamecapsule 及 https://gamecapsuletv.com/ 页脚（原记录的 Google 表单是观众推荐游戏用，不是联络渠道）",
       "sendChannel": "邮箱：gamecapsule@hotmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Samanlıkta İğne Arıyorum | Find The Needle",
         "url": "https://www.youtube.com/watch?v=vCdk2LEAKQo",
@@ -1050,6 +1078,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:18",
       "taiwan": false,
       "samples": [
         {
@@ -1102,7 +1131,7 @@
       "contactType": "邮箱",
       "contactSource": "https://playboard.co/en/channel/UCVqdB64l4NuxdUqRCRFctJQ（转录自 YouTube 频道简介「Contato, parcerias e afins」）",
       "sendChannel": "邮箱：starkerlendario1@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Leveling Idle - NOVO GUIA COMPLETO para iniciantes começarem bem! Dicas / Tutorial - NOVO JOGO IDLE",
         "url": "https://www.youtube.com/watch?v=bjSjkKWMbiM",
@@ -1111,6 +1140,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:18",
       "taiwan": false,
       "samples": [
         {
@@ -1156,7 +1186,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQbSFLGqLDDg5w21Bpx1RyQ（近期视频说明 media:description）",
       "sendChannel": "邮箱：ukernangaming@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "UNDERKEEP CAPTURA PERFECTAMENTE la ESENCIA de RPG VIEJA ESCUELA | Underkeep",
         "url": "https://www.youtube.com/watch?v=AeYaT-4IvXU",
@@ -1165,6 +1195,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:18",
       "taiwan": false,
       "samples": [
         {
@@ -1210,7 +1241,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@FoxClicksAgain/about",
       "sendChannel": "邮箱：soulfox@noetictalentagency.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "I Played 100% of Shred A Billion",
         "url": "https://www.youtube.com/watch?v=WzG8IXmKFfo",
@@ -1220,6 +1251,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:18",
       "taiwan": false,
       "samples": [
         {
@@ -1265,7 +1297,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@nagi_517/about",
       "sendChannel": "邮箱：nagiseina12345@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "【STEEL VANGUARD】本日発売！ロボット×ローグライト×シューティングが最高...！？衝撃の792円新作デッキビルダー攻略面白いw最大20%セール【switch2,switch,steam】",
         "url": "https://www.youtube.com/watch?v=MC9c1w2aAQk",
@@ -1274,6 +1306,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:19",
       "taiwan": false,
       "samples": [
         {
@@ -1319,7 +1352,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@IdleClicker/about",
       "sendChannel": "邮箱：idlegamerhq@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Thousands of Clankers Swarm My Campsite Ending Is Crazy! Incremental",
         "url": "https://www.youtube.com/watch?v=tEhlS6Nq49s",
@@ -1328,6 +1361,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:19",
       "taiwan": false,
       "samples": [
         {
@@ -1373,7 +1407,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Malterus_Gaming/about",
       "sendChannel": "邮箱：malteruszockt@web.de",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "LIVE - Zombies Aren't Real - Booster Pack Heroes",
         "url": "https://www.youtube.com/watch?v=Aa8gCTPEFEg",
@@ -1382,6 +1416,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:19",
       "taiwan": false,
       "samples": [
         {
@@ -1427,7 +1462,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@GrayStillPlays/about",
       "sendChannel": "邮箱：graystillplays@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "i literally shoved the entire population through a revolving door",
         "url": "https://www.youtube.com/watch?v=VVkv5wmtj1o",
@@ -1436,6 +1471,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:19",
       "taiwan": false,
       "samples": [
         {
@@ -1481,7 +1517,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/watch?v=fmFsHse5NiU",
       "sendChannel": "邮箱：obsidianconnection@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "ГРИБНОЙ РОГАЛИК - Shroom and Gloom",
         "url": "https://www.youtube.com/watch?v=fmFsHse5NiU",
@@ -1490,6 +1526,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:19",
       "taiwan": false,
       "samples": [
         {
@@ -1584,7 +1621,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@shiroinu1128/about",
       "sendChannel": "邮箱：niguchannel@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "1300万本の藁の山から手作業で針を探すゲーム【Find the Needle】",
         "url": "https://www.youtube.com/watch?v=iRoO6IIRmzg",
@@ -1593,6 +1630,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:20",
       "taiwan": false,
       "samples": [
         {
@@ -1638,7 +1676,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@InternDotGif/about",
       "sendChannel": "邮箱：interndotgif@screenwavemedia.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "I Abducted Everyone to Make them Gamble",
         "url": "https://www.youtube.com/watch?v=guXhvEhJqH4",
@@ -1647,6 +1685,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:20",
       "taiwan": false,
       "samples": [
         {
@@ -1692,7 +1731,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@gameedged/about",
       "sendChannel": "邮箱：gameedged@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Car is Built! While I Clean Up This HUGE Mess...",
         "url": "https://www.youtube.com/watch?v=0UF4BH_Bgkw",
@@ -1701,6 +1740,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:20",
       "taiwan": false,
       "samples": [
         {
@@ -1746,7 +1786,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@ShadesOfNate/about",
       "sendChannel": "邮箱：shadesofnate@thenode.gg",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "GTA Has The PERFECT Timing",
         "url": "https://www.youtube.com/watch?v=ubyBNDMVRvY",
@@ -1756,6 +1796,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:20",
       "taiwan": false,
       "samples": [
         {
@@ -1794,7 +1835,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@rekvizit8bit/about",
       "sendChannel": "邮箱：dedakimdak@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Финальный бой и концовки // Tenebris Somnia #6",
         "url": "https://www.youtube.com/watch?v=RfbJZVgnIgk",
@@ -1803,6 +1844,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:20",
       "taiwan": false,
       "samples": [
         {
@@ -1848,7 +1890,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Floydsonson/about",
       "sendChannel": "邮箱：floydson@intheblackmedia.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "I Built 100% of A Pyramid",
         "url": "https://www.youtube.com/watch?v=_IeH21HMqcY",
@@ -1858,6 +1900,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:21",
       "taiwan": false,
       "samples": [
         {
@@ -1903,7 +1946,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@TrueDad/about",
       "sendChannel": "邮箱：truedadinvestment@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Cobblestone вернулся в CS2! Новые Наклейки Сингапур 2026 и Правила Покупки - Зимнее Обновление",
         "url": "https://www.youtube.com/watch?v=LiziBSXrNV0",
@@ -1912,6 +1955,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:21",
       "taiwan": false,
       "samples": [
         {
@@ -1957,7 +2001,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@theskyalliance/about",
       "sendChannel": "邮箱：partnerships@theskyalliance.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Legend of Elements — Haven't Played in a While? The Comeback Event Pays You",
         "url": "https://www.youtube.com/watch?v=Q6gyoInIwRg",
@@ -1966,6 +2010,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:21",
       "taiwan": false,
       "samples": [
         {
@@ -2011,7 +2056,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@MKxJUMP/about",
       "sendChannel": "邮箱：admin@mkxjump.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请（退信 550 地址不存在）",
       "latestActivity": {
         "title": "Thanksgiving 2026 gives AMAZING FREE REWARDS this week in IDLE HEROES",
         "url": "https://www.youtube.com/watch?v=uQ1gaRZ6I2k",
@@ -2019,8 +2064,10 @@
         "source_note": "2026-11-24 频道 RSS 第一条（最新上传）"
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
+      "sendNote": "11-25 退信：550 地址不存在，需另找联系方式",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:21",
       "taiwan": false,
       "samples": [
         {
@@ -2066,7 +2113,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Ryfek/about（频道简介明文）",
       "sendChannel": "邮箱：kontaktryfek@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "KAMUI MORDO STREAM",
         "url": "https://www.youtube.com/watch?v=qgRrb99VoRE",
@@ -2075,6 +2122,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:21",
       "taiwan": false,
       "samples": [
         {
@@ -2113,7 +2161,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@jatszoter/about（频道简介明文商务邮箱）",
       "sendChannel": "邮箱：makamhun@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "ÉLETMENTŐNEK ÁLLOK! | Lifeguard Simulator LIVE #1",
         "url": "https://www.youtube.com/watch?v=SzmQMb0GjC4",
@@ -2122,6 +2170,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:22",
       "taiwan": false,
       "samples": [
         {
@@ -2175,7 +2224,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@ponponlin/about",
       "sendChannel": "邮箱：ponponlinlife@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "🍪薑餅人王國｜冥界試煉季9😈通關至第10關配置✨傳奇配料塔✨穩定獲取!!🎁 | Cookie Run: Kingdom Trials of the Nether Realm Season 9",
         "url": "https://www.youtube.com/watch?v=ouCt-jS0ga0",
@@ -2184,6 +2233,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:22",
       "samples": [
         {
           "game": "薑餅人放置大戰爭",
@@ -2228,7 +2278,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@ScionStorm/about",
       "sendChannel": "邮箱：silentstorminc@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Dragon Traveler - Hopping Back In/Collab Prep/Tons Of New Stuff",
         "url": "https://www.youtube.com/watch?v=us2ad5-MhfY",
@@ -2237,6 +2287,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:22",
       "taiwan": false,
       "samples": [
         {
@@ -2282,7 +2333,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Ggyutube/about",
       "sendChannel": "邮箱：mkt@metaplug.co.kr",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请（并在 게임달고나 那封里）",
       "latestActivity": {
         "title": "【소드 x 스태프】 재료비경 터트리고 900K 돌파! 추가 존버 필요할까? (+수욜 신규 이벤트) [현자 육성기#9]",
         "url": "https://www.youtube.com/watch?v=w25lolHHn1A",
@@ -2294,6 +2345,7 @@
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
       "sendMergedWith": "게임달고나",
+      "invitedAt": "2026-11-25 16:24",
       "taiwan": false,
       "samples": [
         {
@@ -2339,7 +2391,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/watch?v=mhWbnb1E1WE",
       "sendChannel": "邮箱：gerierwarwick@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请（并在 Only Incrementals 那封里）",
       "latestActivity": {
         "title": "Un Tower Defense con Multitud de EVOLUCIONES DE TORRES",
         "url": "https://www.youtube.com/watch?v=mhWbnb1E1WE",
@@ -2350,6 +2402,7 @@
       "sendNote": "与 Only Incrementals 同一人同一邮箱：只发一封，信里两个频道都提到（按 Only Incrementals 发）",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
       "sendMergedWith": "Only Incrementals",
+      "invitedAt": "2026-11-25 16:13",
       "taiwan": false,
       "samples": [
         {
@@ -2395,7 +2448,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@PuzzleAFKJ/about",
       "sendChannel": "邮箱：shreddedpuzzle@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "My BEST Supreme League Teams! 👑 | AFK Journey",
         "url": "https://www.youtube.com/watch?v=YPRUbx1CU8Y",
@@ -2405,6 +2458,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:22",
       "taiwan": false,
       "samples": [
         {
@@ -2450,7 +2504,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@GGDsandevistan/about",
       "sendChannel": "邮箱：ggemdi@daum.net",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "[AFK 새로운여정] 신규 반신악마『 아 네 바 』사용 후기 🏹",
         "url": "https://www.youtube.com/watch?v=ux9Bgx8hB0U",
@@ -2460,6 +2514,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:22",
       "taiwan": false,
       "samples": [
         {
@@ -2505,7 +2560,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Rustgear2nd/about",
       "sendChannel": "邮箱：geqrs3025@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "壁を拳で壊して脱出するインクリメンタルゲーム【Escape the Walls】【ゆっくり実況】",
         "url": "https://www.youtube.com/watch?v=w3Pzavdfa7c",
@@ -2514,6 +2569,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:22",
       "taiwan": false,
       "samples": [
         {
@@ -2559,7 +2615,7 @@
       "contactType": "邮箱",
       "contactSource": "待核出处（任务线索及英语组记录写有此邮箱；本次未能打开频道简介原文复核）",
       "sendChannel": "邮箱：contato.torugo@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "NOVO JOGO PLAY TO EARN FORA DO RADAR! GANHE TOKEN COBRANDO ALUGUEL DAS CASAS!",
         "url": "https://www.youtube.com/watch?v=x6dvJ4X1mzc",
@@ -2568,6 +2624,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:22",
       "taiwan": false,
       "samples": [
         {
@@ -2612,7 +2669,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/watch?v=o6xieBaeDNA",
       "sendChannel": "邮箱：syzix14@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Cash is King EP2 - Le début de la fortune à Miami Beach !",
         "url": "https://www.youtube.com/watch?v=o6xieBaeDNA",
@@ -2621,6 +2678,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:22",
       "taiwan": false,
       "samples": [
         {
@@ -2664,7 +2722,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@OHRyePlays/about",
       "sendChannel": "邮箱：OHRyePlays@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "2 Characters 2 INSANE Evolutions!! Warhammer Survivors!",
         "url": "https://www.youtube.com/watch?v=xtEftWLK93A",
@@ -2673,6 +2731,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:22",
       "taiwan": false,
       "samples": [
         {
@@ -2723,7 +2782,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@grownbb/about",
       "sendChannel": "邮箱：grownbb@naver.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "10,11월 출시된 갓겜들 많습니다 !! 신작 스팀 게임 추천 30가지 !! [ Steam 스팀 게임 추천/RPG/오픈월드/로그라이크 ]",
         "url": "https://www.youtube.com/watch?v=uIyScz-kBGo",
@@ -2732,6 +2791,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:22",
       "taiwan": false,
       "samples": [
         {
@@ -2770,7 +2830,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@MacicTV/about",
       "sendChannel": "邮箱：macictv.1@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Les paramètres à connaître sur Rob Run ! #robrun #freegames #indiegames #gaming #macictv",
         "url": "https://www.youtube.com/watch?v=BiMHccgYRIQ",
@@ -2779,6 +2839,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:23",
       "taiwan": false,
       "samples": [
         {
@@ -2822,7 +2883,7 @@
       "contactType": "邮箱",
       "contactSource": "频道视频说明（RSS 视频描述中出现）；about 页邮箱需登录可见",
       "sendChannel": "邮箱：royaloytbusiness@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Rilassati mentre vendo l'azienda e picchio pokemon - Can Em All EP6",
         "url": "https://www.youtube.com/watch?v=0kXURGK8JMc",
@@ -2831,6 +2892,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:23",
       "taiwan": false,
       "samples": [
         {
@@ -2883,7 +2945,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@satanclausplay/about",
       "sendChannel": "邮箱：satanclausplay@mail.ru",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "🔥 НОВАЯ ГЕРОИНЯ С ЯДОВИТЫМИ БОМБАМИ! | Dreadmiles",
         "url": "https://www.youtube.com/watch?v=_DTrqizxvx8",
@@ -2892,6 +2954,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:23",
       "taiwan": false,
       "samples": [
         {
@@ -2937,7 +3000,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/watch?v=9cENciMLT1I",
       "sendChannel": "邮箱：wicd123@naver.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "[세븐나이츠 리버스] 🔥[12편]신규 계정 45일차! 결투장덱 완성....(feat.AI고올)",
         "url": "https://www.youtube.com/watch?v=9cENciMLT1I",
@@ -2947,6 +3010,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:23",
       "taiwan": false,
       "samples": [
         {
@@ -2992,7 +3056,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@JTMPLays/about",
       "sendChannel": "邮箱：info@jtmplays.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Island Sort - Pirates Trashed the Market, Now You Sort It",
         "url": "https://www.youtube.com/watch?v=AMv-U87jd0g",
@@ -3001,6 +3065,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:23",
       "taiwan": false,
       "samples": [
         {
@@ -3039,7 +3104,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@gamingwithjeff/about",
       "sendChannel": "邮箱：gamingwithjeff4business@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Saving the World with the Power of Christmas! | Gear Up Einstein! Co-op",
         "url": "https://www.youtube.com/watch?v=XbAfpjmMI3o",
@@ -3048,6 +3113,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:24",
       "taiwan": false,
       "samples": [
         {
@@ -3086,7 +3152,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@GameLaunchCentral/about",
       "sendChannel": "邮箱：gamesaiolia@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "DO NOT BUY Reshine Before Watching This Video!",
         "url": "https://www.youtube.com/watch?v=MovhvbXq8D0",
@@ -3095,6 +3161,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:24",
       "taiwan": false,
       "samples": [
         {
@@ -3133,7 +3200,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/watch?v=87nqVQBQztc",
       "sendChannel": "邮箱：blindermine.ad@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "ТАК ВОТ КТО КОМАНДУЕТ КЛИ***ОМ!!",
         "url": "https://www.youtube.com/watch?v=pFSKTyI_odU",
@@ -3142,6 +3209,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:24",
       "taiwan": false,
       "samples": [
         {
@@ -3187,7 +3255,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Grinnn/about",
       "sendChannel": "邮箱：Konsugg.business@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Summoner's Greed Legendary Lore | Fluffvolt #shorts #grinnn #summonersgreed",
         "url": "https://www.youtube.com/watch?v=rHPulFv0KY4",
@@ -3196,6 +3264,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:24",
       "taiwan": false,
       "samples": [
         {
@@ -3241,7 +3310,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@%EB%AA%A8%EB%B0%94%EC%9D%BC%EA%B2%8C%EC%9E%84/about",
       "sendChannel": "邮箱：mkt@metaplug.co.kr",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "[11월 신작 모바일게임] 국산 방치형 게임 '엠버드타임: 귀여운 방치형 타이쿤' 플레이. 세로화면 2D 애니메이션 캐주얼 경영 시뮬레이션 게임 기대작 추천? (11월 7일 출시)",
         "url": "https://www.youtube.com/watch?v=Af4MqzMYG0E",
@@ -3251,6 +3320,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "与 Ggyu tube 同一经纪邮箱 mkt@metaplug.co.kr：只发这一封",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:24",
       "taiwan": false,
       "samples": [
         {
@@ -3296,7 +3366,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/watch?v=9IZjkyyxhSM",
       "sendChannel": "邮箱：lmh4186@naver.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "메이플 키우기 - 방치 재화 온라인은 확률! 오프라인은 고정?",
         "url": "https://www.youtube.com/watch?v=9IZjkyyxhSM",
@@ -3306,6 +3376,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:25",
       "taiwan": false,
       "samples": [
         {
@@ -3351,7 +3422,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@%EC%B4%88%EB%A1%9D%EA%B4%B4%EB%AC%BC/about",
       "sendChannel": "邮箱：itarcadegame@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "지스타 2026 방문하고 왔습니다!",
         "url": "https://www.youtube.com/watch?v=T_Ga89MaefM",
@@ -3360,6 +3431,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:25",
       "taiwan": false,
       "samples": [
         {
@@ -3398,7 +3470,7 @@
       "contactType": "邮箱",
       "contactSource": "频道视频说明（RSS 视频描述中出现；about 页抓取所见视频《The FIRST Day at ECHO CREEK!》说明亦列此邮箱）；about 页本身邮箱需登录",
       "sendChannel": "邮箱：exgold97@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Non Siamo SOLI… Qualcuno Vive nel Bosco?! | Project Zomboid: Rinascita #7",
         "url": "https://www.youtube.com/watch?v=eOF0JNIRAwY",
@@ -3407,6 +3479,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:25",
       "taiwan": false,
       "samples": [
         {
@@ -3452,7 +3525,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Zodi/about",
       "sendChannel": "邮箱：playwithzodi@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "💥 STEAM КЛЮЧ ВНУТРИ! 🔑 Survivor Rat vs Zombies (Ключ 4) 🔑 БЕСПЛАТНО ДАРЮ КЛЮЧ К ИГРЕ ;) #giveaway",
         "url": "https://www.youtube.com/watch?v=cjOb_gQZrhk",
@@ -3462,6 +3535,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：近期每条只有几十到几百播放",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:25",
       "taiwan": false,
       "samples": [
         {
@@ -3507,7 +3581,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@%EA%B2%8C%EC%9E%84%ED%94%BD-GAMEPICK/about",
       "sendChannel": "邮箱：gamepickbiz@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "모바일 파밍RPG 추천 TOP5, 퀘스트 없이 바로 닥사하는 게임이라고?",
         "url": "https://www.youtube.com/watch?v=c_8QPnfvcrA",
@@ -3517,6 +3591,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:26",
       "taiwan": false,
       "samples": [
         {
@@ -3562,7 +3637,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@CVMG/about",
       "sendChannel": "邮箱：cvmg107@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "YOURE LOSING 1,000's OF PINBALLS Because of this!!",
         "url": "https://www.youtube.com/watch?v=WS3Ptdm9yLU",
@@ -3572,6 +3647,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:26",
       "taiwan": false,
       "samples": [
         {
@@ -3617,7 +3693,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Games-wn6xx/about",
       "sendChannel": "邮箱：suketto20200404@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "【キノコ伝説】怒りの39,800円課金！これぞ極限バトロア？！",
         "url": "https://www.youtube.com/watch?v=vNg_sYJ1_hM",
@@ -3627,6 +3703,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:26",
       "taiwan": false,
       "samples": [
         {
@@ -3672,7 +3749,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/watch?v=YyTLTkwD81U",
       "sendChannel": "邮箱：soulrise919@yahoo.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Quest Changes | Tap Titans 2",
         "url": "https://www.youtube.com/watch?v=gRxVEnLOFW8",
@@ -3681,6 +3758,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:26",
       "taiwan": false,
       "samples": [
         {
@@ -3726,7 +3804,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@yartaholic/about",
       "sendChannel": "邮箱：Trustysinq@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "I 100% Completed What the Buck",
         "url": "https://www.youtube.com/watch?v=Qe2DQZVpBYc",
@@ -3735,6 +3813,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:27",
       "taiwan": false,
       "samples": [
         {
@@ -3779,7 +3858,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@SYROX_GAMING/about",
       "sendChannel": "邮箱：thesyrox.tv@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "🐍 АШЕЙ: КОРОЛЕВА ЯДА. ПЛЮСЫ, МИНУСЫ И ГДЕ ОНА СИЛЬНА | VOID HUNTERS",
         "url": "https://www.youtube.com/watch?v=vV55qrr5Nwg",
@@ -3788,6 +3867,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:27",
       "taiwan": false,
       "samples": [
         {
@@ -3833,7 +3913,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@CheeseCakeCactus/about",
       "sendChannel": "邮箱：cheesecakecactus123@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "A Roguelite Auto Battler Where Your Dice Rolls Build Your Army?! | Of Dice and Minions",
         "url": "https://www.youtube.com/watch?v=MS-kLG7a2tM",
@@ -3843,6 +3923,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "manualTierNote": "Codex专用 核实建议降级：近期每条只有几十到几百播放",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:27",
       "taiwan": false,
       "samples": [
         {
@@ -3881,7 +3962,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@%EA%B2%9C%ED%94%8C%EB%A6%AC/about",
       "sendChannel": "邮箱：ad@lolq.co.kr",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "맨날 하던 게임 말고! 색다른 모바일게임 추천 20가지",
         "url": "https://www.youtube.com/watch?v=UeHZLrxTOoI",
@@ -3891,6 +3972,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "只用「비지니스 문의 - ad@lolq.co.kr」；lbc8748@naver.com 原文标「개인문의」（私人），不用",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:27",
       "taiwan": false,
       "samples": [
         {
@@ -3936,7 +4018,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@idlegamerYT1/about",
       "sendChannel": "邮箱：IDLEGAMERYT@tutamail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Culling Game: Sendai Colony - UPDATED TIER LIST",
         "url": "https://www.youtube.com/watch?v=n27PuxEvjAw",
@@ -3947,6 +4029,7 @@
       "manualTierNote": "Codex专用 核实建议降级：手游或单一游戏频道",
       "nameNote": "原记作 IdleGamerBR；RSS 与 handle @idlegamerYT1 显示名为 IdleGamerYT",
       "contactVerified": "Codex专用 11-24 复核通过（ba56978e，前 40 名那批）",
+      "invitedAt": "2026-11-25 16:27",
       "taiwan": false,
       "samples": [
         {
@@ -4049,7 +4132,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@是努努鴨/about",
       "sendChannel": "邮箱：ian510823@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "《Midgard Survivors》更好玩的 RO 倖存者!? 假日放空刷一會 ｜是努努鴨 ｜",
         "url": "https://www.youtube.com/watch?v=FOuAds_-UZQ",
@@ -4058,6 +4141,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:28",
       "samples": [
         {
           "game": " Lootborne ",
@@ -4102,7 +4186,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@AGAMETVKOR/about",
       "sendChannel": "邮箱：wjdgkfk@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "[영주님은 죽지 않는다]  A게임TV 라이브 방송. 국산 액션 RPG 플레이. 영지 건설 2D 애니메이션 자동 전투 판타지 출시 #영주님은 #영주님은죽지않는다",
         "url": "https://www.youtube.com/watch?v=j7GCdd2KnQU",
@@ -4111,6 +4195,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:28",
       "taiwan": false,
       "samples": [
         {
@@ -4156,7 +4241,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@martianpotplays/about",
       "sendChannel": "邮箱：introvertpartymartian@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Is This the Strongest Prism I've Pulled Yet? | Slotbound",
         "url": "https://www.youtube.com/watch?v=xvMKj06S-Qc",
@@ -4165,6 +4250,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:28",
       "taiwan": false,
       "samples": [
         {
@@ -4210,7 +4296,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@ashswoon/about",
       "sendChannel": "邮箱：AshSwoonYT@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "This is an Incremental Game About Swarming as the Zombie Horde! | We Are The Horde",
         "url": "https://www.youtube.com/watch?v=Kb8CzjmZ8nQ",
@@ -4219,6 +4305,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:28",
       "taiwan": false,
       "samples": [
         {
@@ -4264,7 +4351,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@gamedesigneyes/about",
       "sendChannel": "邮箱：kaf.channel.work@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "я СПАС жителей Африки ОТ ВОДЫ на 100%",
         "url": "https://www.youtube.com/watch?v=APEscWbUZ7s",
@@ -4273,6 +4360,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:28",
       "taiwan": false,
       "samples": [
         {
@@ -4318,7 +4406,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Ruddaii/about",
       "sendChannel": "邮箱：ruddaii.contactpro@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Objectif : Vider cette plage remplie de déchets ! (Son of Beach)",
         "url": "https://www.youtube.com/watch?v=valtdyG7ARY",
@@ -4327,6 +4415,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:29",
       "taiwan": false,
       "samples": [
         {
@@ -4372,7 +4461,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@VhGamingIH/about",
       "sendChannel": "邮箱：vhgaming2025@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Tower update! DON'T CLAIM THE REWARDS YET!! Idle Heroes 2026",
         "url": "https://www.youtube.com/watch?v=GY9pSFHKwys",
@@ -4381,6 +4470,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:29",
       "taiwan": false,
       "samples": [
         {
@@ -4426,7 +4516,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@IndieRadarRanger/about",
       "sendChannel": "邮箱：Ranger@2ndwave.rocks",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Ich habe 100% in Punch These Walls gespielt und eine riesige Mine gebaut!",
         "url": "https://www.youtube.com/watch?v=4QmX1SZX0V4",
@@ -4435,6 +4525,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:29",
       "taiwan": false,
       "samples": [
         {
@@ -4480,7 +4571,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@izvinis777/about",
       "sendChannel": "邮箱：pozilaaanakonda@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Выжить с одним автоматом против миллиона зомби  Moonlight Castle: Easy Idle Defense",
         "url": "https://www.youtube.com/watch?v=QNRIw7q250o",
@@ -4489,6 +4580,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:29",
       "taiwan": false,
       "samples": [
         {
@@ -4534,7 +4626,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@ElfeYT/about",
       "sendChannel": "邮箱：elfeytb@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Marene PvP First Impression - New Top Mage? [AFK Journey]",
         "url": "https://www.youtube.com/watch?v=Xm-Rhwiyifg",
@@ -4543,6 +4635,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:29",
       "taiwan": false,
       "samples": [
         {
@@ -4589,7 +4682,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@telephone_sa/about",
       "sendChannel": "邮箱：teltelsasasa@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "【直播精華】阿嬤~~你不要再亂吃藥了!!! 就算我是資管系的也知道不行 | Poliklinika: 家醫科醫師模擬器 Demo #steam #直播精華 #shorts",
         "url": "https://www.youtube.com/watch?v=OvMQ3ne66Ww",
@@ -4598,6 +4691,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:29",
       "samples": [
         {
           "game": "待核（标题未写游戏名）",
@@ -4642,7 +4736,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@PumpkinIdle/about",
       "sendChannel": "邮箱：PumpkinIdle@yahoo.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "5th ARTIFACT SLOT Patch Preview & Which Artifact Should You Pick? - MapleStory Idle RPG",
         "url": "https://www.youtube.com/watch?v=HmNNp93dRAE",
@@ -4651,6 +4745,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:29",
       "taiwan": false,
       "samples": [
         {
@@ -4696,7 +4791,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Justeunerun/about",
       "sendChannel": "邮箱：contact.justeunerun@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Il faut créer la plus grosse ruche d'abeilles possible ! #incremental #game",
         "url": "https://www.youtube.com/watch?v=GZlfAUyYebw",
@@ -4705,6 +4800,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:29",
       "taiwan": false,
       "samples": [
         {
@@ -4750,7 +4846,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@%EB%AD%90%EB%9D%BC%EA%B3%A0%EC%9A%94/about",
       "sendChannel": "邮箱：dexlove@naver.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "[ETS2] 유로 트럭x 버스 시뮬레이터2 1번째, 이아시▶후네도아라▶베오그라드▶노비사드 Euro Truck Simulator 2 - Coaches bus",
         "url": "https://www.youtube.com/watch?v=wKhzdSvRfU8",
@@ -4759,6 +4855,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:29",
       "taiwan": false,
       "samples": [
         {
@@ -4804,7 +4901,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@konturofchill/about",
       "sendChannel": "邮箱：konturoffstream@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Я превратил ОДНОГО КРЕСТЬЯНИНА в ОГРОМНУЮ АРМИЮ | Here Comes the Horde на 100%",
         "url": "https://www.youtube.com/watch?v=6qu08DhZGCY",
@@ -4813,6 +4910,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:29",
       "taiwan": false,
       "samples": [
         {
@@ -4858,7 +4956,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@KayorkGaming/about",
       "sendChannel": "邮箱：kayork.gaming@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Combien de blocs peut-on casser d’un seul coup ? ⛏️ | Mine It All! FR",
         "url": "https://www.youtube.com/watch?v=-hwNsuCxlC4",
@@ -4867,6 +4965,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:30",
       "taiwan": false,
       "samples": [
         {
@@ -4912,7 +5011,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@%EB%B0%95%EB%8F%88%EB%83%A5/about",
       "sendChannel": "邮箱：ehssid1990@naver.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "광석 캐서 회사 빚 갚는 노동 인크리멘탈 게임｜PAYDIRT",
         "url": "https://www.youtube.com/watch?v=w8EhqTVAAnY",
@@ -4921,6 +5020,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:30",
       "taiwan": false,
       "samples": [
         {
@@ -7360,7 +7460,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@FuzePlays/about",
       "sendChannel": "邮箱：fiouze@blockmedia.fr",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "J'ai risqué le Bannissement pour détruire leur Drapeau... - Episode 4 | EarthNG S4",
         "url": "https://www.youtube.com/watch?v=4dJkZp7J0Ko",
@@ -7369,6 +7469,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:30",
       "taiwan": false,
       "samples": [
         {
@@ -7412,7 +7513,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@nakaido/about",
       "sendChannel": "邮箱：nakaido@socialdiva.jp",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "GTA6が1日でアベンジャーズをこえた！？評判はどうなの？…AIだけでゲーム作って売上2億！？【今週のゲームニュース】",
         "url": "https://www.youtube.com/watch?v=A8Z5OLttlxs",
@@ -7422,6 +7523,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "只用「お仕事のご連絡：nakaido@socialdiva.jp」；另一个是「中国お仕事」专用，不用",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:30",
       "taiwan": false,
       "samples": [
         {
@@ -7460,7 +7562,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@metokuma314/about",
       "sendChannel": "邮箱：meto.work631214@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "青鬼はなぜ生まれたのか、驚愕のホラーゲーム。【ゆっくり実況/青鬼2-臨海学校編-/全エンド回収】",
         "url": "https://www.youtube.com/watch?v=oK9G6Pte2tg",
@@ -7469,6 +7571,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:30",
       "taiwan": false,
       "samples": [
         {
@@ -7507,7 +7610,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@JGigs/about",
       "sendChannel": "邮箱：jh@jonathanhagewood.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "I Played 20 Souls-likes For 2 Hours Each & Ranked Them",
         "url": "https://www.youtube.com/watch?v=VtYNJf7HlfY",
@@ -7516,6 +7619,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:31",
       "taiwan": false,
       "samples": [
         {
@@ -7552,7 +7656,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@Murtork/about",
       "sendChannel": "邮箱：murtorkcom@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Стардью лайк с видом сбоку // Doloc Town #1",
         "url": "https://www.youtube.com/watch?v=GKsND4kyjYc",
@@ -7561,6 +7665,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:31",
       "taiwan": false,
       "samples": [
         {
@@ -7606,7 +7711,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@GamesPuff/about",
       "sendChannel": "邮箱：gamespuffyt@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "15 New Relaxing Games 2026",
         "url": "https://www.youtube.com/watch?v=PcpWzw84xlU",
@@ -7615,6 +7720,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:31",
       "taiwan": false,
       "samples": [
         {
@@ -7651,7 +7757,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@MTS_OK/about（频道简介明文）",
       "sendChannel": "邮箱：mtsoyunkanali@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "DEBUFF HALA İŞ YAPIYOR MU? #oakentower",
         "url": "https://www.youtube.com/watch?v=UEGh6_SsYB4",
@@ -7660,6 +7766,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:31",
       "taiwan": false,
       "samples": [
         {
@@ -7705,7 +7812,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDMgJO1tUKGBsimCoPp_hlQ（近期视频说明 media:description）",
       "sendChannel": "邮箱：imchoi.contact@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "ASÍ FUNCIONA el ÁRBOL de MY LITTLE PONY en HEARTOPIA 🦄💖#heartopia #heartopiacreatorteam",
         "url": "https://www.youtube.com/watch?v=5N6TWGJcfKA",
@@ -7714,6 +7821,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:31",
       "taiwan": false,
       "samples": [
         {
@@ -7750,7 +7858,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@JykuPlays/about",
       "sendChannel": "邮箱：Jyku.Business@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "I Played 100% of Can 'Em All",
         "url": "https://www.youtube.com/watch?v=fcF1GYqHeQ8",
@@ -7759,6 +7867,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:32",
       "taiwan": false,
       "samples": [
         {
@@ -7797,7 +7906,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@mayomayobird3/about",
       "sendChannel": "邮箱：kani3921@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "30,000点以上の商品とゴミを片づけてショッピングモールを綺麗に戻すゲーム『Black Friday Janitor』【ゆっくり実況】",
         "url": "https://www.youtube.com/watch?v=DhSrS3aYNEQ",
@@ -7806,6 +7915,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:32",
       "taiwan": false,
       "samples": [
         {
@@ -7851,7 +7961,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@theindiebrew/about",
       "sendChannel": "邮箱：hello@theindiebrew.com.au",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Probably Stolen First Look!",
         "url": "https://www.youtube.com/watch?v=2sOQXTuSHrs",
@@ -7860,6 +7970,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:32",
       "taiwan": false,
       "samples": [
         {
@@ -7902,7 +8013,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/watch?v=mmDQkkDlxp4",
       "sendChannel": "邮箱：bonzostower@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "The Best Hybrid Labs - The Tower Idle Defense",
         "url": "https://www.youtube.com/watch?v=mmDQkkDlxp4",
@@ -7911,6 +8022,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:32",
       "taiwan": false,
       "samples": [
         {
@@ -7956,7 +8068,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@taggzJGU/about",
       "sendChannel": "邮箱：tacoking1588@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Is The New Event Good?? The Super Bowl (of packs) is Coming!!!! (The Tower)",
         "url": "https://www.youtube.com/watch?v=1qx4jSEN2pg",
@@ -7965,6 +8077,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:32",
       "taiwan": false,
       "samples": [
         {
@@ -8010,7 +8123,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@shokow2306/about",
       "sendChannel": "邮箱：shokow.contact@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Même avec les runes, c'est dur ! | Slay the Spire 2",
         "url": "https://www.youtube.com/watch?v=pqehZVdvyeU",
@@ -8019,6 +8132,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:33",
       "taiwan": false,
       "samples": [
         {
@@ -8062,7 +8176,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/watch?v=2FVa4Fdl-PE",
       "sendChannel": "邮箱：gobgg@thenode.gg",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "ON ESSAIE LE KENNEN GAMING EN MODE SPLINTER ! | Kennen vs Gnar",
         "url": "https://www.youtube.com/watch?v=2FVa4Fdl-PE",
@@ -8072,6 +8186,7 @@
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "sendNote": "经纪方邮箱，可能回报价",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:33",
       "taiwan": false,
       "samples": [
         {
@@ -8110,7 +8225,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@DreamerAFKJ/about",
       "sendChannel": "邮箱：dreamertube101@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Marene AFK Stage Deep Dive - Finishing on a Thunderous Note | AFK Journey",
         "url": "https://www.youtube.com/watch?v=7PhXkJNy9aE",
@@ -8119,6 +8234,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:33",
       "taiwan": false,
       "samples": [
         {
@@ -8164,7 +8280,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@vochtopoigratG/about",
       "sendChannel": "邮箱：aawork33@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Напряги мозги #вочтопоиграть #квест #головоломка  #игрыкоторыетыпропустил #games #игры #детектив",
         "url": "https://www.youtube.com/watch?v=oNnKOxKulVs",
@@ -8173,6 +8289,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:33",
       "taiwan": false,
       "samples": [
         {
@@ -8219,7 +8336,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@OODrYaoye/about",
       "sendChannel": "邮箱：st9750317@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "賺麻了!龍洞初體驗一趟就45m+| 5v5龍洞 3v3龍洞!!🔥🔥|【Albion online】 ⚔️ 【夭夜】 | 奶媽視角 |feat. 老牛 木瓜 | 實況打架搞耍日常#30",
         "url": "https://www.youtube.com/watch?v=TOcW4tNsxj0",
@@ -8228,6 +8345,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:33",
       "samples": [
         {
           "game": "TBH: 塔斯克巴・英雄",
@@ -8272,7 +8390,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/@MaybeSarisa/about",
       "sendChannel": "邮箱：contact@maybesarisa.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Chapter 2 Moomin Midsummer Madness Puzzle Guide",
         "url": "https://www.youtube.com/watch?v=f6MiW5QKpLg",
@@ -8281,6 +8399,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:33",
       "taiwan": false,
       "samples": [
         {
@@ -8323,7 +8442,7 @@
       "contactType": "邮箱",
       "contactSource": "https://www.youtube.com/watch?v=zCnaZyt5MAA",
       "sendChannel": "邮箱：bonnetlesskraupro@gmail.com",
-      "outreachStatus": "新增（未联系）",
+      "outreachStatus": "已发邀请",
       "latestActivity": {
         "title": "Here Comes the Horde - DES MILLIERS de soldats contre les morts-vivants",
         "url": "https://www.youtube.com/watch?v=zCnaZyt5MAA",
@@ -8332,6 +8451,7 @@
       },
       "verification": "2026-11-24 通过 YouTube 公开页面（频道 /about、/videos、watch 页 publishDate/viewCount）或平台公开页核对；未登录、未联系。",
       "contactVerified": "Codex专用 11-24 复核通过（c120680f，其余 73 个邮箱）",
+      "invitedAt": "2026-11-25 16:33",
       "taiwan": false,
       "samples": [
         {
