@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-26",
+  "bilibili_sent": 7,
+  "bilibili_failed": 0,
+  "youtube_email_sent": 0,
+  "email_failed": 0,
+  "pending": 0,
+  "bilibili": [
+    {
+      "uid": "1362697416",
+      "name": "砖业搬主任",
+      "profile_url": "https://space.bilibili.com/1362697416",
+      "status": "sent",
+      "sent_at": "2026-11-26T10:11:55.055000+08:00"
+    },
+    {
+      "uid": "3747564182571919",
+      "name": "搬砖战神方源",
+      "profile_url": "https://space.bilibili.com/3747564182571919",
+      "status": "sent",
+      "sent_at": "2026-11-26T10:58:24.612000+08:00"
+    },
+    {
+      "uid": "286569889",
+      "name": "黑色的Snow",
+      "profile_url": "https://space.bilibili.com/286569889",
+      "status": "sent",
+      "sent_at": "2026-11-26T11:03:19.416000+08:00"
+    },
+    {
+      "uid": "105272597",
+      "name": "清晰流派",
+      "profile_url": "https://space.bilibili.com/105272597",
+      "status": "sent",
+      "sent_at": "2026-11-26T11:06:16.832000+08:00"
+    },
+    {
+      "uid": "3494362969279070",
+      "name": "星辰矿工",
+      "profile_url": "https://space.bilibili.com/3494362969279070",
+      "status": "sent",
+      "sent_at": "2026-11-26T11:09:49.836000+08:00"
+    },
+    {
+      "uid": "3537122812233881",
+      "name": "粉红猛熊",
+      "profile_url": "https://space.bilibili.com/3537122812233881",
+      "status": "sent",
+      "sent_at": "2026-11-26T11:14:54.207000+08:00"
+    },
+    {
+      "uid": "630962",
+      "name": "ksc小波",
+      "profile_url": "https://space.bilibili.com/630962",
+      "status": "sent",
+      "sent_at": "2026-11-26T11:23:42.919000+08:00"
+    }
+  ],
+  "youtube": [],
+  "time_note": "北京时间；时间取实际发送调用证据。送达不表示已读或同意试玩。"
+}

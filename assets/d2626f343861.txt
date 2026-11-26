@@ -1,0 +1,37 @@
+Juego completo: distintiva sin oscurecer, botín al vuelo y datos al tocar el PV
+发布日期：2026-11-26 17:19（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=spanish
+
+[b]Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo![/b]
+
+¡Hola a todos! Soy Juanmao.
+
+¡El juego completo sale el 3 de diciembre! ¡Quedan 7 días! Con el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes alguna idea sobre el Mercado, déjala en los comentarios.
+
+[h2][color=yellow]Qué cambió en el combate y el modo automático[/color][/h2]
+
+Al usar la Habilidad distintiva, la pantalla se oscurecía y salía una franja con el nombre de la habilidad - [color=lightgreen]La pantalla ya no se oscurece; se extiende un círculo de tinta bajo los pies y suben puntos de luz[/color]
+El primer plano de la Ulti de los legendarios de cinco estrellas se mantiene.
+[img]{STEAM_CLAN_IMAGE}/46216320/af7e04da8662e8357855475d66058539c1a3b961.png[/img]
+
+Las animaciones de Ulti a menudo se saltaban - [color=lightgreen]En cada combate, la primera Ulti de cada uno de tus héroes siempre se reproduce[/color]
+En «Ajustes», la página «Jugabilidad» ahora tiene «Animaciones de habilidad»: «Activadas», «Una vez por batalla» o «Desactivadas».
+[img]{STEAM_CLAN_IMAGE}/46216320/ba398888f9da20418b90a8402e862943effce06c.png[/img]
+
+El botín tenía que caer todo al suelo para recogerse de una vez - [color=lightgreen]Se recoge mientras peleas: se detiene un momento al caer y vuela pieza a pieza al cofre[/color]
+Si cae un legendario, hay brillo dorado, pilar de luz y su nombre.
+[img]{STEAM_CLAN_IMAGE}/46216320/3a750413510381059248152de2fe61e19186b513.gif[/img]
+
+Al dejar el ratón encima solo se veían las mejoras, los perjuicios y los estados - [color=lightgreen]Haz clic en la barra de vida y se fija una tarjeta: PV, Escudo, Moral y cuánto falta para la Habilidad distintiva[/color]
+[img]{STEAM_CLAN_IMAGE}/46216320/c623bee8629c586717eb34667c432390000f2bab.png[/img]
+
+Por poco tiempo que estuvieras fuera, había que ver el informe entero - [color=lightgreen]Si estuviste fuera menos de media hora y solo conseguiste recursos, solo baja una notita; si estuviste fuera más tiempo, al acabar la animación pasa directamente al informe[/color]
+En el informe, las cifras grandes se abrevian (mil, M), a partir de un día se cuenta en días (d) y también se indica lo que pasó del tope.
+[img]{STEAM_CLAN_IMAGE}/46216320/355626824bf4c5d9194c64d23b716c4ebc5388ad.gif[/img]
+
+El juego todavía tiene bastantes cosas que no están del todo bien, y lo sé. Si algo se siente raro o no se entiende, critícame y exígeme en los comentarios sin cortarte; lo leo todo.
+[color=lightblue]También puedes unirte a nuestro [url=https://discord.gg/uEwdWz2h62]Discord[/url].[/color]
+
+Si te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.
+
+[url=https://store.steampowered.com/app/5257220/]Juega la demo gratis[/url] | [url=https://store.steampowered.com/app/4855890/]Añade el juego completo a tu lista de deseados[/url]

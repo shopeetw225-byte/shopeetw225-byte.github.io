@@ -1,0 +1,37 @@
+Vollversion-Kampfupdate: Signatur ohne Abdunkeln, Beute sofort, Werte per Klick
+发布日期：2026-11-26 17:19（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=german
+
+[b]So wichtig, dass ich es dreimal sage: Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen![/b]
+
+Hallo zusammen, hier ist Juanmao.
+
+Die Vollversion erscheint am 3. Dezember! Noch 7 Tage! Mit der Vollversion öffnet der Steam-Community-Markt~ Wenn ihr Gedanken zum Markt habt, schreibt sie gern in die Kommentare.
+
+[h2][color=yellow]Was sich bei Kampf und Idle geändert hat[/color][/h2]
+
+Signaturfähigkeiten dunkelten das Bild ab, dazu kam ein Balken mit dem Fähigkeitsnamen - [color=lightgreen]Das Bild bleibt hell, unter den Füßen breitet sich Tinte aus und Lichtpunkte steigen auf[/color]
+Die Nahaufnahme beim Ulti legendärer Fünf-Sterne-Helden bleibt.
+[img]{STEAM_CLAN_IMAGE}/46216320/2a6764f16ebda24ab68db06a6d6f5d71b605e806.png[/img]
+
+Ulti-Animationen wurden oft übersprungen - [color=lightgreen]Bei jedem eurer Helden wird das erste Ulti pro Kampf garantiert gezeigt[/color]
+In den Optionen gibt es auf der Seite „Gameplay“ jetzt „Fähigkeitsanimationen“: „An“, „Einmal pro Kampf“ oder „Aus“.
+[img]{STEAM_CLAN_IMAGE}/46216320/d7a79f7f596e1da48ed6668cdc382b6ab5094546.png[/img]
+
+Beute wurde erst eingesammelt, wenn alles gelandet war - [color=lightgreen]Beute wird schon im Kampf eingesammelt: Sie bleibt kurz liegen und fliegt dann Stück für Stück in die Truhe[/color]
+Bei legendärer Beute gibt es goldenes Licht, eine Lichtsäule und ein Namensschild.
+[img]{STEAM_CLAN_IMAGE}/46216320/3374f897029b58c3b3e88f0fc49db9ec57097012.gif[/img]
+
+Mit der Maus über einer Figur sah man nur Stärkungen, Schwächungen und Zustände - [color=lightgreen]Ein Klick auf die Lebensleiste heftet eine Karte an: LP, Schild, Moral und wie viel noch bis zur Signaturfähigkeit fehlt[/color]
+[img]{STEAM_CLAN_IMAGE}/46216320/1b14b7e86e5de1408528e3a7dce2cbfc49527160.png[/img]
+
+Auch nach kurzer Abwesenheit musstet ihr den ganzen Bericht ansehen - [color=lightgreen]Unter einer halben Stunde weg und nur Ressourcen bekommen? Dann gleitet nur ein Zettel herunter. Wart ihr länger weg, wird die Eröffnungsszene direkt zum Bericht[/color]
+Im Bericht werden große Zahlen abgekürzt, ab einem Tag wird in Tagen gezählt, und was über dem Limit liegt, steht ebenfalls drin.
+[img]{STEAM_CLAN_IMAGE}/46216320/9b1005263b515388dc31590074e5a759563fa418.gif[/img]
+
+Das Spiel hat noch einige Schwachstellen, das weiß ich selbst. Wenn sich beim Spielen etwas komisch anfühlt oder ihr etwas nicht versteht, meckert ruhig in den Kommentaren und tretet mir in den Hintern. Ich lese alles.
+[color=lightblue]Kommt auch gern auf unseren [url=https://discord.gg/uEwdWz2h62]Discord[/url].[/color]
+
+Wenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.
+
+[url=https://store.steampowered.com/app/5257220/]Kostenlose Demo spielen[/url] | [url=https://store.steampowered.com/app/4855890/]Vollversion auf die Wunschliste setzen[/url]

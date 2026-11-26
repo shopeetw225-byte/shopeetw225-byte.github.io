@@ -1,0 +1,37 @@
+Full game combat update: no dim on Signatures, loot mid-fight, click health bars
+发布日期：2026-11-26 17:19（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=english
+
+[b]Important enough to say three times: Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game![/b]
+
+Hi everyone, Juanmao here.
+
+The full game launches on December 3! Just 7 days to go! The Steam Community Market will open with the full game~ If you have any thoughts about the Market, feel free to leave them in the comments.
+
+[h2][color=yellow]What changed in combat and idling[/color][/h2]
+
+Signature abilities darkened the screen and popped up a skill-name banner - [color=lightgreen]The screen stays bright; instead, ink spreads under the hero's feet and specks of light float up[/color]
+The close-up for Legendary 5-star ults is still there.
+[img]{STEAM_CLAN_IMAGE}/46216320/341b3fe4ee142ca8406149b74b849fef1d4410b7.png[/img]
+
+Ult animations often got skipped - [color=lightgreen]Each of your heroes' first ult in every battle always plays[/color]
+The “Gameplay” tab in Settings now has “Skill animations”: pick “On”, “Once per battle” or “Off”.
+[img]{STEAM_CLAN_IMAGE}/46216320/4242e4cf98cb1b6f0c3364683f891d9c3b546b01.png[/img]
+
+Loot was only collected after every drop had landed - [color=lightgreen]Loot is collected mid-fight: each piece pauses after landing, then flies into the chest one by one[/color]
+Legendary drops get a golden glow, a pillar of light and a nameplate.
+[img]{STEAM_CLAN_IMAGE}/46216320/2690fb0aa97325cb1e0ad24a56fd1470978dc677.gif[/img]
+
+Hovering only showed buffs, debuffs and statuses - [color=lightgreen]Click a health bar to pin a card: HP, Shield, Morale, and how much more until their Signature ability[/color]
+[img]{STEAM_CLAN_IMAGE}/46216320/52899f6255d1889f3c7dffad20e29f52bcd93f19.png[/img]
+
+Even a short time offline meant going through the whole debrief - [color=lightgreen]Away under half an hour with only resources? Just a slip of paper slides out. Away longer, the opening scene goes straight into the debrief[/color]
+In the debrief, big numbers are shortened (K, M, B), a full day or more is shown in days, and anything over the cap is spelled out too.
+[img]{STEAM_CLAN_IMAGE}/46216320/f09d96b0b2d998b5c4b054aff67fb29a36c5008f.gif[/img]
+
+There's still plenty in the game that isn't good enough yet, and I know it. If anything feels awkward or confusing while you play, go ahead and roast me in the comments and keep me on my toes. I read them all.
+[color=lightblue]You're also welcome to join us on [url=https://discord.gg/uEwdWz2h62]Discord[/url].[/color]
+
+If you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.
+
+[url=https://store.steampowered.com/app/5257220/]Play the free Demo[/url] | [url=https://store.steampowered.com/app/4855890/]Wishlist the full game[/url]

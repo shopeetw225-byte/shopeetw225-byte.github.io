@@ -1,0 +1,37 @@
+Combat du jeu complet : Spécialité sans écran sombre, butin direct, PV au clic
+发布日期：2026-11-26 17:19（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=french
+
+[b]C'est important, alors je le dis trois fois : la progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ![/b]
+
+Bonjour à tous, ici Juanmao.
+
+Le jeu complet sort le 3 décembre ! Plus que 7 jours ! Le Marché de la communauté Steam ouvrira avec le jeu complet~ Si vous avez des idées sur le Marché, laissez-les en commentaire.
+
+[h2][color=yellow]Ce qui change en combat et en idle[/color][/h2]
+
+Une Spécialité assombrissait l'écran et affichait un bandeau avec le nom de la compétence - [color=lightgreen]L'écran ne s'assombrit plus : de l'encre se répand sous les pieds et des points de lumière s'élèvent[/color]
+Le gros plan sur l'ultime des légendaires cinq étoiles est toujours là.
+[img]{STEAM_CLAN_IMAGE}/46216320/51aa0ad1f7271bef131e46584600ed522491d641.png[/img]
+
+Les animations d'ultime sautaient souvent - [color=lightgreen]Pour chacun de vos héros, le premier ultime de chaque combat est toujours montré[/color]
+L'onglet « Jeu » des Paramètres gagne « Animations de compétence » : « Activées », « Une fois par combat » ou « Désactivées ».
+[img]{STEAM_CLAN_IMAGE}/46216320/2c7ac7a0085460ae3b6b12424cce7a16856219f9.png[/img]
+
+Il fallait que tout le butin soit tombé pour le ramasser - [color=lightgreen]Le butin se ramasse pendant le combat : il reste un instant au sol, puis s'envole objet par objet dans le coffre[/color]
+Un légendaire a droit à une lueur dorée, une colonne de lumière et une plaque avec son nom.
+[img]{STEAM_CLAN_IMAGE}/46216320/f2422e3bfe1e0f6c3e1c8fe9dbf1621cdf5f6658.gif[/img]
+
+En survolant un personnage, on ne voyait que ses bonus, malus et états - [color=lightgreen]Un clic sur la barre de vie épingle une carte : PV, Bouclier, Moral et ce qu'il reste avant la Spécialité[/color]
+[img]{STEAM_CLAN_IMAGE}/46216320/dc05d21e202e61e5b43691b9805348d608a7eeeb.png[/img]
+
+Même après une courte absence, il fallait lire tout le bilan - [color=lightgreen]Absent moins d'une demi-heure, avec seulement des ressources ? Juste une petite note qui glisse. Après une longue absence, l'animation d'ouverture enchaîne directement sur le bilan[/color]
+Dans le bilan, les grands nombres sont abrégés, au-delà d'une journée la durée s'affiche en jours, et ce qui dépasse le plafond est aussi indiqué.
+[img]{STEAM_CLAN_IMAGE}/46216320/641a13f90479b9aed7781cb2b78459a9fb227ef8.gif[/img]
+
+Le jeu a encore pas mal de points faibles, j'en suis conscient. Si quelque chose vous gêne ou vous échappe en jouant, n'hésitez pas à râler et à me secouer en commentaire : je lis tout.
+[color=lightblue]Vous pouvez aussi nous rejoindre sur [url=https://discord.gg/uEwdWz2h62]Discord[/url].[/color]
+
+Si le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.
+
+[url=https://store.steampowered.com/app/5257220/]Jouer à la démo gratuite[/url] | [url=https://store.steampowered.com/app/4855890/]Ajouter le jeu complet à votre liste de souhaits[/url]

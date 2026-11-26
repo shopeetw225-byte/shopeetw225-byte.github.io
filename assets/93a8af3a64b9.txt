@@ -1,0 +1,37 @@
+正式版战斗更新：开招牌技不黑屏，掉落边打边收，点血条看数值
+发布日期：2026-11-26 17:19（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=schinese
+
+[b]重要的事情说三遍：Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！[/b]
+
+各位股东大人，我是倦猫。
+
+游戏正式版将在 12 月 3 日上线，还有 7 天！正式版会开启 Steam 社区市场～对市场有什么想法，欢迎在评论区留言。
+
+[h2][color=yellow]战斗和挂机改了哪些[/color][/h2]
+
+放招牌技画面变暗，还弹技能名横条 - [color=lightgreen]画面不暗了，改成脚下晕开墨色、光点往上升[/color]
+传说五星的开大特写照旧。
+[img]{STEAM_CLAN_IMAGE}/46216320/75c8a7d35841be60cca2af207e06b54f9b61049f.png[/img]
+
+大招动画常被跳过 - [color=lightgreen]我方每人每场第一次开大必播[/color]
+设置「游戏」页多了「技能动画」，可选开启、每场只播第一次或关闭。
+[img]{STEAM_CLAN_IMAGE}/46216320/f4b38c38f2a9feb49ed96a8d2f1bbe5eadc9332f.png[/img]
+
+掉落要等全部落地才一起收 - [color=lightgreen]边打边收，落地停一下就一件件飞进宝箱[/color]
+掉到传说有金光、光柱和名牌。
+[img]{STEAM_CLAN_IMAGE}/46216320/ad28bee15814046dbf85c4a683cfc37d831bd492.gif[/img]
+
+鼠标停上去只看得到增减益和状态 - [color=lightgreen]点血条钉出一张卡：生命、护盾、士气，还差多少放招牌技[/color]
+[img]{STEAM_CLAN_IMAGE}/46216320/fe03741d6efd6248dee2d867889157eeaa135d24.png[/img]
+
+离线再短也要看完整张简报 - [color=lightgreen]离开不到半小时、只拿到资源时只滑出一张纸条，离开久了演完直接变简报[/color]
+简报里大数字会缩写（K、M、B），满一天写「天」，超出上限的部分也会写明。
+[img]{STEAM_CLAN_IMAGE}/46216320/b55f9f33452c15f73f0e5c219f3ac1fc9b1dc581.gif[/img]
+
+游戏还有不少做得不够好的地方，这个我心里有数。玩着哪里别扭、哪里看不懂，尽管在评论区吐槽、鞭策我，我都会看。
+[color=lightblue]欢迎加入游戏交流群：1079312948。[/color]
+
+如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。
+
+[url=https://store.steampowered.com/app/5257220/]免费试玩 Demo[/url]｜[url=https://store.steampowered.com/app/4855890/]给正式版加愿望单[/url]

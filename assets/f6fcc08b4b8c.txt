@@ -1,0 +1,37 @@
+Batalha no jogo completo: exclusiva sem escurecer, saque na hora, números no PV
+发布日期：2026-11-26 17:19（北京时间）
+原文：https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=brazilian
+
+[b]É importante, então vou falar três vezes: o progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo![/b]
+
+Olá, pessoal! Aqui é o Juanmao.
+
+O jogo completo chega em 3 de dezembro! Faltam 7 dias! Com o jogo completo, o Mercado da Comunidade Steam vai abrir~ Se tiver alguma ideia sobre o Mercado, deixa nos comentários.
+
+[h2][color=yellow]O que mudou na batalha e no modo automático[/color][/h2]
+
+Ao usar a Habilidade exclusiva, a tela escurecia e aparecia uma faixa com o nome da habilidade - [color=lightgreen]A tela não escurece mais; um círculo de tinta se espalha sob os pés e pontinhos de luz sobem[/color]
+O close da Suprema dos lendários de cinco estrelas continua.
+[img]{STEAM_CLAN_IMAGE}/46216320/b1191e46b17d132042c230935f44610822c8670f.png[/img]
+
+As animações de Suprema muitas vezes eram puladas - [color=lightgreen]Em cada batalha, a primeira Suprema de cada herói seu sempre é exibida[/color]
+Em “Opções”, a página “Jogo” agora tem “Animações de habilidade”: “Ativadas”, “Uma vez por batalha” ou “Desativadas”.
+[img]{STEAM_CLAN_IMAGE}/46216320/26c1d4e501d23712bd02795006e3326435dfd459.png[/img]
+
+O saque tinha que cair todo no chão para ser coletado de uma vez - [color=lightgreen]Coleta durante a luta: o saque para um instante ao cair e voa peça por peça para o baú[/color]
+Se cair um lendário, tem brilho dourado, pilar de luz e o nome.
+[img]{STEAM_CLAN_IMAGE}/46216320/6d66db0cffe5b2dd22be486ee83b268d1863e7c0.gif[/img]
+
+Deixando o mouse em cima, só dava para ver os bônus, as penalidades e os estados - [color=lightgreen]Clique na barra de vida e um cartão fica fixado: PV, Escudo, Moral e quanto falta para a Habilidade exclusiva[/color]
+[img]{STEAM_CLAN_IMAGE}/46216320/50d21fcd4c2ea3a096b86cc2d056581c06e1f76f.png[/img]
+
+Por mais curto que fosse o tempo offline, tinha que ver o relatório inteiro - [color=lightgreen]Se você ficou fora menos de meia hora e só ganhou recursos, só desce um bilhetinho; se ficou fora por mais tempo, quando a animação termina já vira o relatório[/color]
+No relatório, números grandes são abreviados (mil, mi, bi), a partir de um dia o tempo é contado em dias (d) e o que passou do teto também aparece.
+[img]{STEAM_CLAN_IMAGE}/46216320/9e27d920091a189832b674e350bb94d0975a3176.gif[/img]
+
+O jogo ainda tem bastante coisa que não está boa o suficiente, e eu sei disso. Se algo estiver esquisito ou difícil de entender, pode reclamar e me cobrar nos comentários sem dó; eu leio tudo.
+[color=lightblue]Também dá para entrar no nosso [url=https://discord.gg/uEwdWz2h62]Discord[/url].[/color]
+
+Se você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.
+
+[url=https://store.steampowered.com/app/5257220/]Jogue a demo gratuita[/url] | [url=https://store.steampowered.com/app/4855890/]Adicione o jogo completo à sua lista de desejos[/url]

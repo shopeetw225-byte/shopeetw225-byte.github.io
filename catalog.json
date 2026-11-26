@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-27",
   "hero": "assets/07851087f62e.jpg",
   "items": [
     {
@@ -5942,14 +5942,146 @@
       "cover": "assets/744ec0e0a45a.jpg"
     },
     {
+      "id": "steam-704412002724872883",
+      "title": "正式版战斗更新：开招牌技不黑屏，掉落边打边收，点血条看数值",
+      "category": "Steam 公告",
+      "group": "已发布公告",
+      "date": "2026-11-26",
+      "dateBasis": "发布日期",
+      "publishedAt": "2026-11-26 17:19",
+      "summary": "Demo 的进度不会继承到正式版！正式版 12 月 3 日上线，会开启 Steam 社区市场。这篇说正式版在战斗和挂机上更新了什么：开招牌技不黑屏、每人第一次开大必有动画、掉落边打边收、点血条看数值、离线回来少点几下。",
+      "highlights": [
+        "正式版战斗与挂机改动：开招牌技不再黑屏、大招每人每场首次必播并可在设置里调、掉落边打边收、点血条钉出数值卡、短离线只弹纸条。",
+        "正式版12月3日上线，Demo进度不继承；十语各配五张本语实机图（Demo与正式版对比）。"
+      ],
+      "announcementNumber": 25,
+      "status": "已发布 · 十语",
+      "body": "重要的事情说三遍：Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！\n\n各位股东大人，我是倦猫。\n\n游戏正式版将在 12 月 3 日上线，还有 7 天！正式版会开启 Steam 社区市场～对市场有什么想法，欢迎在评论区留言。\n\n战斗和挂机改了哪些\n\n放招牌技画面变暗，还弹技能名横条 - 画面不暗了，改成脚下晕开墨色、光点往上升\n传说五星的开大特写照旧。\n〔配图请见 Steam 原文〕\n\n大招动画常被跳过 - 我方每人每场第一次开大必播\n设置「游戏」页多了「技能动画」，可选开启、每场只播第一次或关闭。\n〔配图请见 Steam 原文〕\n\n掉落要等全部落地才一起收 - 边打边收，落地停一下就一件件飞进宝箱\n掉到传说有金光、光柱和名牌。\n〔配图请见 Steam 原文〕\n\n鼠标停上去只看得到增减益和状态 - 点血条钉出一张卡：生命、护盾、士气，还差多少放招牌技\n〔配图请见 Steam 原文〕\n\n离线再短也要看完整张简报 - 离开不到半小时、只拿到资源时只滑出一张纸条，离开久了演完直接变简报\n简报里大数字会缩写（K、M、B），满一天写「天」，超出上限的部分也会写明。\n〔配图请见 Steam 原文〕\n\n游戏还有不少做得不够好的地方，这个我心里有数。玩着哪里别扭、哪里看不懂，尽管在评论区吐槽、鞭策我，我都会看。\n欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+      "translations": {
+        "schinese": {
+          "title": "正式版战斗更新：开招牌技不黑屏，掉落边打边收，点血条看数值",
+          "body": "重要的事情说三遍：Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！Demo 的进度不会继承到正式版！\n\n各位股东大人，我是倦猫。\n\n游戏正式版将在 12 月 3 日上线，还有 7 天！正式版会开启 Steam 社区市场～对市场有什么想法，欢迎在评论区留言。\n\n战斗和挂机改了哪些\n\n放招牌技画面变暗，还弹技能名横条 - 画面不暗了，改成脚下晕开墨色、光点往上升\n传说五星的开大特写照旧。\n〔配图请见 Steam 原文〕\n\n大招动画常被跳过 - 我方每人每场第一次开大必播\n设置「游戏」页多了「技能动画」，可选开启、每场只播第一次或关闭。\n〔配图请见 Steam 原文〕\n\n掉落要等全部落地才一起收 - 边打边收，落地停一下就一件件飞进宝箱\n掉到传说有金光、光柱和名牌。\n〔配图请见 Steam 原文〕\n\n鼠标停上去只看得到增减益和状态 - 点血条钉出一张卡：生命、护盾、士气，还差多少放招牌技\n〔配图请见 Steam 原文〕\n\n离线再短也要看完整张简报 - 离开不到半小时、只拿到资源时只滑出一张纸条，离开久了演完直接变简报\n简报里大数字会缩写（K、M、B），满一天写「天」，超出上限的部分也会写明。\n〔配图请见 Steam 原文〕\n\n游戏还有不少做得不够好的地方，这个我心里有数。玩着哪里别扭、哪里看不懂，尽管在评论区吐槽、鞭策我，我都会看。\n欢迎加入游戏交流群：1079312948。\n\n如果觉得还不错，也拜托帮忙加个愿望单。谢谢大家，这对一个游戏真的很重要。\n\n免费试玩 Demo（https://store.steampowered.com/app/5257220/）｜给正式版加愿望单（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=schinese"
+        },
+        "tchinese": {
+          "title": "正式版戰鬥更新：開招牌技不黑屏，掉落邊打邊收，點血條看數值",
+          "body": "重要的事情說三遍：Demo 的進度不會繼承到正式版！Demo 的進度不會繼承到正式版！Demo 的進度不會繼承到正式版！\n\n各位股東大人，我是倦貓。\n\n遊戲正式版將在 12 月 3 日上線，還有 7 天！正式版會開啟 Steam 社群市場～對市場有什麼想法，歡迎在留言區留言。\n\n戰鬥和掛機改了哪些\n\n放招牌技畫面變暗，還彈技能名橫條 - 畫面不暗了，改成腳下暈開墨色、光點往上升\n傳說五星的開大特寫照舊。\n〔配图请见 Steam 原文〕\n\n大招動畫常被跳過 - 我方每人每場第一次開大必播\n設定「遊戲」頁多了「技能動畫」，可選開啟、每場只播第一次或關閉。\n〔配图请见 Steam 原文〕\n\n掉落要等全部落地才一起收 - 邊打邊收，落地停一下就一件件飛進寶箱\n掉到傳說有金光、光柱和名牌。\n〔配图请见 Steam 原文〕\n\n滑鼠停上去只看得到增減益和狀態 - 點血條釘出一張卡：生命、護盾、士氣，還差多少放招牌技\n〔配图请见 Steam 原文〕\n\n離線再短也要看完整張簡報 - 離開不到半小時、只拿到資源時只滑出一張紙條，離開久了演完直接變簡報\n簡報裡大數字會縮寫（K、M、B），滿一天寫「天」，超出上限的部分也會寫明。\n〔配图请见 Steam 原文〕\n\n遊戲還有不少做得不夠好的地方，這個我心裡有數。玩著哪裡彆扭、哪裡看不懂，儘管在留言區吐槽、鞭策我，我都會看。\n歡迎加入遊戲交流群：1079312948。\n\n如果覺得還不錯，也拜託幫忙加個願望清單。謝謝大家，這對一個遊戲真的很重要。\n\n免費試玩 Demo（https://store.steampowered.com/app/5257220/）｜將正式版加入願望清單（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=tchinese"
+        },
+        "english": {
+          "title": "Full game combat update: no dim on Signatures, loot mid-fight, click health bars",
+          "body": "Important enough to say three times: Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game! Demo progress will NOT carry over to the full game!\n\nHi everyone, Juanmao here.\n\nThe full game launches on December 3! Just 7 days to go! The Steam Community Market will open with the full game~ If you have any thoughts about the Market, feel free to leave them in the comments.\n\nWhat changed in combat and idling\n\nSignature abilities darkened the screen and popped up a skill-name banner - The screen stays bright; instead, ink spreads under the hero's feet and specks of light float up\nThe close-up for Legendary 5-star ults is still there.\n〔配图请见 Steam 原文〕\n\nUlt animations often got skipped - Each of your heroes' first ult in every battle always plays\nThe “Gameplay” tab in Settings now has “Skill animations”: pick “On”, “Once per battle” or “Off”.\n〔配图请见 Steam 原文〕\n\nLoot was only collected after every drop had landed - Loot is collected mid-fight: each piece pauses after landing, then flies into the chest one by one\nLegendary drops get a golden glow, a pillar of light and a nameplate.\n〔配图请见 Steam 原文〕\n\nHovering only showed buffs, debuffs and statuses - Click a health bar to pin a card: HP, Shield, Morale, and how much more until their Signature ability\n〔配图请见 Steam 原文〕\n\nEven a short time offline meant going through the whole debrief - Away under half an hour with only resources? Just a slip of paper slides out. Away longer, the opening scene goes straight into the debrief\nIn the debrief, big numbers are shortened (K, M, B), a full day or more is shown in days, and anything over the cap is spelled out too.\n〔配图请见 Steam 原文〕\n\nThere's still plenty in the game that isn't good enough yet, and I know it. If anything feels awkward or confusing while you play, go ahead and roast me in the comments and keep me on my toes. I read them all.\nYou're also welcome to join us on Discord（https://discord.gg/uEwdWz2h62）.\n\nIf you think it's not bad, I'd really appreciate it if you added the game to your wishlist. Thank you all. It genuinely matters for a game.\n\nPlay the free Demo（https://store.steampowered.com/app/5257220/） | Wishlist the full game（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=english"
+        },
+        "german": {
+          "title": "Vollversion-Kampfupdate: Signatur ohne Abdunkeln, Beute sofort, Werte per Klick",
+          "body": "So wichtig, dass ich es dreimal sage: Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen! Der Demo-Fortschritt wird nicht in die Vollversion übernommen!\n\nHallo zusammen, hier ist Juanmao.\n\nDie Vollversion erscheint am 3. Dezember! Noch 7 Tage! Mit der Vollversion öffnet der Steam-Community-Markt~ Wenn ihr Gedanken zum Markt habt, schreibt sie gern in die Kommentare.\n\nWas sich bei Kampf und Idle geändert hat\n\nSignaturfähigkeiten dunkelten das Bild ab, dazu kam ein Balken mit dem Fähigkeitsnamen - Das Bild bleibt hell, unter den Füßen breitet sich Tinte aus und Lichtpunkte steigen auf\nDie Nahaufnahme beim Ulti legendärer Fünf-Sterne-Helden bleibt.\n〔配图请见 Steam 原文〕\n\nUlti-Animationen wurden oft übersprungen - Bei jedem eurer Helden wird das erste Ulti pro Kampf garantiert gezeigt\nIn den Optionen gibt es auf der Seite „Gameplay“ jetzt „Fähigkeitsanimationen“: „An“, „Einmal pro Kampf“ oder „Aus“.\n〔配图请见 Steam 原文〕\n\nBeute wurde erst eingesammelt, wenn alles gelandet war - Beute wird schon im Kampf eingesammelt: Sie bleibt kurz liegen und fliegt dann Stück für Stück in die Truhe\nBei legendärer Beute gibt es goldenes Licht, eine Lichtsäule und ein Namensschild.\n〔配图请见 Steam 原文〕\n\nMit der Maus über einer Figur sah man nur Stärkungen, Schwächungen und Zustände - Ein Klick auf die Lebensleiste heftet eine Karte an: LP, Schild, Moral und wie viel noch bis zur Signaturfähigkeit fehlt\n〔配图请见 Steam 原文〕\n\nAuch nach kurzer Abwesenheit musstet ihr den ganzen Bericht ansehen - Unter einer halben Stunde weg und nur Ressourcen bekommen? Dann gleitet nur ein Zettel herunter. Wart ihr länger weg, wird die Eröffnungsszene direkt zum Bericht\nIm Bericht werden große Zahlen abgekürzt, ab einem Tag wird in Tagen gezählt, und was über dem Limit liegt, steht ebenfalls drin.\n〔配图请见 Steam 原文〕\n\nDas Spiel hat noch einige Schwachstellen, das weiß ich selbst. Wenn sich beim Spielen etwas komisch anfühlt oder ihr etwas nicht versteht, meckert ruhig in den Kommentaren und tretet mir in den Hintern. Ich lese alles.\nKommt auch gern auf unseren Discord（https://discord.gg/uEwdWz2h62）.\n\nWenn euch das Spiel gefällt, setzt es doch bitte auch auf eure Wunschliste. Danke euch allen – für ein Spiel ist das wirklich wichtig.\n\nKostenlose Demo spielen（https://store.steampowered.com/app/5257220/） | Vollversion auf die Wunschliste setzen（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=german"
+        },
+        "french": {
+          "title": "Combat du jeu complet : Spécialité sans écran sombre, butin direct, PV au clic",
+          "body": "C'est important, alors je le dis trois fois : la progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet ! La progression de la démo ne sera pas reprise dans le jeu complet !\n\nBonjour à tous, ici Juanmao.\n\nLe jeu complet sort le 3 décembre ! Plus que 7 jours ! Le Marché de la communauté Steam ouvrira avec le jeu complet~ Si vous avez des idées sur le Marché, laissez-les en commentaire.\n\nCe qui change en combat et en idle\n\nUne Spécialité assombrissait l'écran et affichait un bandeau avec le nom de la compétence - L'écran ne s'assombrit plus : de l'encre se répand sous les pieds et des points de lumière s'élèvent\nLe gros plan sur l'ultime des légendaires cinq étoiles est toujours là.\n〔配图请见 Steam 原文〕\n\nLes animations d'ultime sautaient souvent - Pour chacun de vos héros, le premier ultime de chaque combat est toujours montré\nL'onglet « Jeu » des Paramètres gagne « Animations de compétence » : « Activées », « Une fois par combat » ou « Désactivées ».\n〔配图请见 Steam 原文〕\n\nIl fallait que tout le butin soit tombé pour le ramasser - Le butin se ramasse pendant le combat : il reste un instant au sol, puis s'envole objet par objet dans le coffre\nUn légendaire a droit à une lueur dorée, une colonne de lumière et une plaque avec son nom.\n〔配图请见 Steam 原文〕\n\nEn survolant un personnage, on ne voyait que ses bonus, malus et états - Un clic sur la barre de vie épingle une carte : PV, Bouclier, Moral et ce qu'il reste avant la Spécialité\n〔配图请见 Steam 原文〕\n\nMême après une courte absence, il fallait lire tout le bilan - Absent moins d'une demi-heure, avec seulement des ressources ? Juste une petite note qui glisse. Après une longue absence, l'animation d'ouverture enchaîne directement sur le bilan\nDans le bilan, les grands nombres sont abrégés, au-delà d'une journée la durée s'affiche en jours, et ce qui dépasse le plafond est aussi indiqué.\n〔配图请见 Steam 原文〕\n\nLe jeu a encore pas mal de points faibles, j'en suis conscient. Si quelque chose vous gêne ou vous échappe en jouant, n'hésitez pas à râler et à me secouer en commentaire : je lis tout.\nVous pouvez aussi nous rejoindre sur Discord（https://discord.gg/uEwdWz2h62）.\n\nSi le jeu vous plaît, n'hésitez pas à l'ajouter à votre liste de souhaits. Merci à tous : pour un jeu, c'est vraiment important.\n\nJouer à la démo gratuite（https://store.steampowered.com/app/5257220/） | Ajouter le jeu complet à votre liste de souhaits（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=french"
+        },
+        "japanese": {
+          "title": "製品版の戦闘アップデート：看板技で暗転なし、ドロップは戦いながら回収、HPバーで数値確認",
+          "body": "大事なことなので3回言います：Demoの進行状況は製品版に引き継がれません！Demoの進行状況は製品版に引き継がれません！Demoの進行状況は製品版に引き継がれません！\n\nみなさん、こんにちは。倦猫（Juanmao）です。\n\n製品版は12月3日にリリース。あと7日です！製品版では Steam コミュニティマーケットが開放されます～マーケットについて思うことがあれば、ぜひコメントで教えてください。\n\n戦闘と放置で変わったところ\n\n看板技で画面が暗くなり、スキル名の帯も出ていた - 画面は暗くならず、足元に墨色がにじみ、光の粒が立ちのぼる演出に\nレジェンド星5の大技クローズアップはそのままです。\n〔配图请见 Steam 原文〕\n\n大技演出がよく飛ばされていた - 味方は全員、各戦闘で初めての大技は必ず演出あり\n「設定」の「ゲーム」タブに「スキル演出」が加わり、「オン」「初回のみ」「オフ」から選べます。\n〔配图请见 Steam 原文〕\n\nドロップは全部着地してからまとめて回収 - 戦いながら回収、着地して少し止まると1つずつ宝箱へ\nレジェンドが出ると金色の光、光の柱、ネームプレートが出ます。\n〔配图请见 Steam 原文〕\n\nマウスを乗せてもバフ・デバフと状態しか見られなかった - HPバーをクリックでカードを固定表示：HP、シールド、士気、看板技まであとどれくらいか\n〔配图请见 Steam 原文〕\n\nどんなに短いオフラインでもレポートを最後まで見る必要があった - 30分未満で資源だけならメモが出るだけ、長く離れていたら演出のあとそのままレポートに\nレポートでは大きな数字は万・億で表示され、1日以上は「日」で表示、上限を超えた分も明記されます。\n〔配图请见 Steam 原文〕\n\nまだまだ行き届いていないところが多いのは、自分でも分かっています。遊んでいて引っかかるところや分かりにくいところがあれば、遠慮なくコメントでツッコんで、尻を叩いてください。全部読みます。\nDiscord（https://discord.gg/uEwdWz2h62）にもぜひ遊びに来てください。\n\nもし悪くないなと思ってもらえたら、ウィッシュリストに追加していただけるとうれしいです。みなさん、ありがとうございます。ゲームにとって、本当に大事なことなんです。\n\n無料体験版をプレイ（https://store.steampowered.com/app/5257220/） | 製品版をウィッシュリストに追加（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=japanese"
+        },
+        "korean": {
+          "title": "정식판 전투 업데이트: 대표 스킬 때 암전 없음, 드롭 바로 수집, HP바로 수치 확인",
+          "body": "중요해서 세 번 말할게요: 데모 진행 상황은 정식판으로 이어지지 않아요! 데모 진행 상황은 정식판으로 이어지지 않아요! 데모 진행 상황은 정식판으로 이어지지 않아요!\n\n안녕하세요, Juanmao입니다.\n\n정식판이 12월 3일에 출시돼요. 7일 남았어요! 정식판에서는 Steam 커뮤니티 장터가 열려요~ 장터에 대해 하고 싶은 말이 있으면 댓글로 남겨 주세요.\n\n전투와 방치, 이렇게 바뀌었어요\n\n대표 스킬을 쓰면 화면이 어두워지고 스킬 이름 띠가 떴어요 - 화면이 어두워지지 않고, 발밑에 먹빛이 번지면서 빛 알갱이가 위로 떠올라요\n전설 5성의 필살기 클로즈업은 그대로예요.\n〔配图请见 Steam 原文〕\n\n필살기 연출을 자주 건너뛰었어요 - 아군은 한 명 한 명 전투마다 첫 필살기 연출이 꼭 나와요\n'설정'의 '게임플레이' 탭에 '스킬 연출'이 생겨서 '켜기', '첫 회만', '끄기' 중에서 고를 수 있어요.\n〔配图请见 Steam 原文〕\n\n떨어진 아이템이 전부 땅에 닿아야 한꺼번에 수집됐어요 - 싸우면서 바로 수집돼요. 땅에 떨어져 잠깐 멈췄다가 하나씩 보물상자로 날아가요\n전설이 나오면 금빛, 빛기둥, 이름표가 떠요.\n〔配图请见 Steam 原文〕\n\n마우스를 올려도 버프·디버프와 상태만 보였어요 - HP바를 클릭하면 카드가 고정돼서 떠요. HP, 보호막, 사기, 대표 스킬까지 얼마나 남았는지 나와요\n〔配图请见 Steam 原文〕\n\n아무리 잠깐 비워도 보고서를 끝까지 봐야 했어요 - 30분이 안 되게 비웠고 자원만 얻었다면 쪽지 한 장만 내려오고, 오래 비웠다면 시작 연출이 끝나고 바로 보고서로 바뀌어요\n보고서의 큰 숫자는 만·억 단위로 쓰고, 하루가 넘으면 '일'로 표시해요. 상한을 넘은 부분도 따로 적어 줘요.\n〔配图请见 Steam 原文〕\n\n게임에 아직 부족한 부분이 많다는 건 저도 잘 알고 있어요. 하다가 불편하거나 이해가 안 되는 곳이 있으면 댓글로 마음껏 지적하고 채찍질해 주세요. 전부 읽을게요.\nDiscord（https://discord.gg/uEwdWz2h62）에도 놀러 오세요.\n\n괜찮다고 느끼셨다면 찜 목록에도 추가해 주세요. 모두 감사합니다. 게임 하나에는 정말 중요한 일이에요.\n\n무료 데모 플레이（https://store.steampowered.com/app/5257220/） | 정식판 찜 목록에 추가（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=korean"
+        },
+        "spanish": {
+          "title": "Juego completo: distintiva sin oscurecer, botín al vuelo y datos al tocar el PV",
+          "body": "Es importante, así que lo digo tres veces: ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo! ¡El progreso de la demo no pasará al juego completo!\n\n¡Hola a todos! Soy Juanmao.\n\n¡El juego completo sale el 3 de diciembre! ¡Quedan 7 días! Con el juego completo se abrirá el Mercado de la Comunidad de Steam~ Si tienes alguna idea sobre el Mercado, déjala en los comentarios.\n\nQué cambió en el combate y el modo automático\n\nAl usar la Habilidad distintiva, la pantalla se oscurecía y salía una franja con el nombre de la habilidad - La pantalla ya no se oscurece; se extiende un círculo de tinta bajo los pies y suben puntos de luz\nEl primer plano de la Ulti de los legendarios de cinco estrellas se mantiene.\n〔配图请见 Steam 原文〕\n\nLas animaciones de Ulti a menudo se saltaban - En cada combate, la primera Ulti de cada uno de tus héroes siempre se reproduce\nEn «Ajustes», la página «Jugabilidad» ahora tiene «Animaciones de habilidad»: «Activadas», «Una vez por batalla» o «Desactivadas».\n〔配图请见 Steam 原文〕\n\nEl botín tenía que caer todo al suelo para recogerse de una vez - Se recoge mientras peleas: se detiene un momento al caer y vuela pieza a pieza al cofre\nSi cae un legendario, hay brillo dorado, pilar de luz y su nombre.\n〔配图请见 Steam 原文〕\n\nAl dejar el ratón encima solo se veían las mejoras, los perjuicios y los estados - Haz clic en la barra de vida y se fija una tarjeta: PV, Escudo, Moral y cuánto falta para la Habilidad distintiva\n〔配图请见 Steam 原文〕\n\nPor poco tiempo que estuvieras fuera, había que ver el informe entero - Si estuviste fuera menos de media hora y solo conseguiste recursos, solo baja una notita; si estuviste fuera más tiempo, al acabar la animación pasa directamente al informe\nEn el informe, las cifras grandes se abrevian (mil, M), a partir de un día se cuenta en días (d) y también se indica lo que pasó del tope.\n〔配图请见 Steam 原文〕\n\nEl juego todavía tiene bastantes cosas que no están del todo bien, y lo sé. Si algo se siente raro o no se entiende, critícame y exígeme en los comentarios sin cortarte; lo leo todo.\nTambién puedes unirte a nuestro Discord（https://discord.gg/uEwdWz2h62）.\n\nSi te parece que vale la pena, también te pido que lo añadas a tu lista de deseados. Gracias a todos: para un juego, esto de verdad es muy importante.\n\nJuega la demo gratis（https://store.steampowered.com/app/5257220/） | Añade el juego completo a tu lista de deseados（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=spanish"
+        },
+        "brazilian": {
+          "title": "Batalha no jogo completo: exclusiva sem escurecer, saque na hora, números no PV",
+          "body": "É importante, então vou falar três vezes: o progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo! O progresso da demo não vai passar para o jogo completo!\n\nOlá, pessoal! Aqui é o Juanmao.\n\nO jogo completo chega em 3 de dezembro! Faltam 7 dias! Com o jogo completo, o Mercado da Comunidade Steam vai abrir~ Se tiver alguma ideia sobre o Mercado, deixa nos comentários.\n\nO que mudou na batalha e no modo automático\n\nAo usar a Habilidade exclusiva, a tela escurecia e aparecia uma faixa com o nome da habilidade - A tela não escurece mais; um círculo de tinta se espalha sob os pés e pontinhos de luz sobem\nO close da Suprema dos lendários de cinco estrelas continua.\n〔配图请见 Steam 原文〕\n\nAs animações de Suprema muitas vezes eram puladas - Em cada batalha, a primeira Suprema de cada herói seu sempre é exibida\nEm “Opções”, a página “Jogo” agora tem “Animações de habilidade”: “Ativadas”, “Uma vez por batalha” ou “Desativadas”.\n〔配图请见 Steam 原文〕\n\nO saque tinha que cair todo no chão para ser coletado de uma vez - Coleta durante a luta: o saque para um instante ao cair e voa peça por peça para o baú\nSe cair um lendário, tem brilho dourado, pilar de luz e o nome.\n〔配图请见 Steam 原文〕\n\nDeixando o mouse em cima, só dava para ver os bônus, as penalidades e os estados - Clique na barra de vida e um cartão fica fixado: PV, Escudo, Moral e quanto falta para a Habilidade exclusiva\n〔配图请见 Steam 原文〕\n\nPor mais curto que fosse o tempo offline, tinha que ver o relatório inteiro - Se você ficou fora menos de meia hora e só ganhou recursos, só desce um bilhetinho; se ficou fora por mais tempo, quando a animação termina já vira o relatório\nNo relatório, números grandes são abreviados (mil, mi, bi), a partir de um dia o tempo é contado em dias (d) e o que passou do teto também aparece.\n〔配图请见 Steam 原文〕\n\nO jogo ainda tem bastante coisa que não está boa o suficiente, e eu sei disso. Se algo estiver esquisito ou difícil de entender, pode reclamar e me cobrar nos comentários sem dó; eu leio tudo.\nTambém dá para entrar no nosso Discord（https://discord.gg/uEwdWz2h62）.\n\nSe você curtiu, também peço uma força: adicione o jogo à sua lista de desejos. Valeu, pessoal, isso faz muita diferença para um jogo.\n\nJogue a demo gratuita（https://store.steampowered.com/app/5257220/） | Adicione o jogo completo à sua lista de desejos（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=brazilian"
+        },
+        "russian": {
+          "title": "Бои в полной версии: навык без затемнения, добыча на лету, цифры по клику на ОЗ",
+          "body": "Это важно, поэтому повторю трижды: прогресс из демо не перенесётся в полную версию! Прогресс из демо не перенесётся в полную версию! Прогресс из демо не перенесётся в полную версию!\n\nВсем привет, это Juanmao.\n\nПолная версия выходит 3 декабря! Осталось 7 дней! В полной версии откроется Торговая площадка Steam~ Если есть мысли насчёт рынка — пишите в комментариях.\n\nЧто изменилось в боях и автоигре\n\nПри Фирменном навыке экран затемнялся и выезжала полоса с названием навыка - Экран больше не темнеет: под ногами расходится чернильный круг и вверх поднимаются искры света\nКрупный план ульты у легендарных пятизвёздочных героев остался.\n〔配图请见 Steam 原文〕\n\nАнимации ульт часто пропускались - В каждом бою первая ульта каждого вашего героя обязательно проигрывается\nВ «Настройках» на вкладке «Игра» появилась «Анимация навыков»: «Вкл», «Раз за бой» или «Выкл».\n〔配图请见 Steam 原文〕\n\nДобыча должна была вся упасть на землю, чтобы собраться разом - Собирается прямо в бою: на секунду замирает на земле и по одной улетает в сундук\nЕсли выпадает легендарка — золотое сияние, световой столб и табличка с названием.\n〔配图请见 Steam 原文〕\n\nПри наведении мыши были видны только усиления, ослабления и состояния - Нажмите на полоску здоровья — закрепится карточка: ОЗ, Щит, Дух и сколько осталось до Фирменного навыка\n〔配图请见 Steam 原文〕\n\nДаже после короткого офлайна нужно было смотреть всю сводку - Если вас не было меньше получаса и вы получили только ресурсы, выезжает только записка; если дольше — после анимации сразу открывается сводка\nВ сводке большие числа сокращаются (тыс., млн), от суток время пишется в днях («д»), а то, что вышло за предел, тоже указано.\n〔配图请见 Steam 原文〕\n\nВ игре ещё много того, что сделано недостаточно хорошо, и я это понимаю. Если где-то неудобно или непонятно — смело ругайте и подгоняйте меня в комментариях, я всё читаю.\nЗаходите и в наш Discord（https://discord.gg/uEwdWz2h62）.\n\nЕсли игра вам понравилась, пожалуйста, добавьте её в список желаемого. Спасибо всем — для игры это правда очень важно.\n\nИграть в бесплатную демоверсию（https://store.steampowered.com/app/5257220/） | Добавить полную версию в список желаемого（https://store.steampowered.com/app/4855890/）",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=russian"
+        }
+      },
+      "files": [
+        {
+          "name": "简体中文公告原文.txt",
+          "url": "assets/93a8af3a64b9.txt",
+          "type": "text"
+        },
+        {
+          "name": "繁體中文公告原文.txt",
+          "url": "assets/bf62726aaa96.txt",
+          "type": "text"
+        },
+        {
+          "name": "English公告原文.txt",
+          "url": "assets/78ced32ccdbd.txt",
+          "type": "text"
+        },
+        {
+          "name": "Deutsch公告原文.txt",
+          "url": "assets/e5bb8a3486c7.txt",
+          "type": "text"
+        },
+        {
+          "name": "Français公告原文.txt",
+          "url": "assets/8d02a1a32872.txt",
+          "type": "text"
+        },
+        {
+          "name": "日本語公告原文.txt",
+          "url": "assets/03b4e7810c9d.txt",
+          "type": "text"
+        },
+        {
+          "name": "한국어公告原文.txt",
+          "url": "assets/3498a87f97af.txt",
+          "type": "text"
+        },
+        {
+          "name": "Español公告原文.txt",
+          "url": "assets/d2626f343861.txt",
+          "type": "text"
+        },
+        {
+          "name": "Português (Brasil)公告原文.txt",
+          "url": "assets/f6fcc08b4b8c.txt",
+          "type": "text"
+        },
+        {
+          "name": "Русский公告原文.txt",
+          "url": "assets/6bfcf77a534b.txt",
+          "type": "text"
+        }
+      ],
+      "source": "https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=schinese",
+      "links": [
+        {
+          "platform": "Steam 公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=schinese",
+          "date": "2026-11-26",
+          "status": "已发布"
+        }
+      ],
+      "detailNote": "按 Steam 当前公开版本归档；日期采用北京时间。上方内容要点为归档摘要。",
+      "cover": "assets/62bffecd49c7.jpg"
+    },
+    {
       "id": "steam-announcement-covers-20261026",
       "title": "Steam 公告封面 · 每条一张插画",
       "category": "封面与视觉",
       "group": "封面",
       "date": "2026-10-26",
       "dateBasis": "首批定稿日期",
-      "summary": "24 条已发布公告的 48 张封面：简中、繁中用中文图，其他语言用英文图。",
-      "status": "已发布 · 24 条公告",
+      "summary": "25 条已发布公告的 50 张封面：简中、繁中用中文图，其他语言用英文图。",
+      "status": "已发布 · 25 条公告",
       "files": [
         {
           "name": "01 · 中文（简中／繁中） · 1_一起喝茶_schinese.png",
@@ -6286,6 +6418,20 @@
           "type": "image",
           "source": "视频制作/封面/公告的/成品/24_敲钟跨年_english.png",
           "announcementUrl": "https://store.steampowered.com/news/app/4855890/view/704411368981267859?l=english"
+        },
+        {
+          "name": "25 · 中文（简中／繁中） · 25_南瓜灯_schinese.png",
+          "url": "assets/62bffecd49c7.jpg",
+          "type": "image",
+          "source": "视频制作/封面/公告的/成品/25_南瓜灯_schinese.png",
+          "announcementUrl": "https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=schinese"
+        },
+        {
+          "name": "25 · 英文（其他八语） · 25_南瓜灯_english.png",
+          "url": "assets/75bdd4332490.jpg",
+          "type": "image",
+          "source": "视频制作/封面/公告的/成品/25_南瓜灯_english.png",
+          "announcementUrl": "https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=english"
         }
       ],
       "cover": "assets/b64b521d4ef4.jpg",
@@ -6433,6 +6579,12 @@
           "platform": "公告 24 · Steam 原文",
           "url": "https://store.steampowered.com/news/app/4855890/view/704411368981267859?l=schinese",
           "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "公告 25 · Steam 原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704412002724872883?l=schinese",
+          "date": "2026-11-26",
           "status": "已发布"
         }
       ],
@@ -18252,6 +18404,1295 @@
       "detailNote": "网页为压缩预览，完整截图见对应Steam商店页。"
     },
     {
+      "id": "steam-main-trailer",
+      "title": "Steam 主预告片 · v30",
+      "category": "宣传视频",
+      "date": "2026-11-11",
+      "dateBasis": "Steam 修订69主片 / 修订70精简片公开核对",
+      "summary": "63.37秒三语实机视频，补入装备开箱、揭晓和结果画面。",
+      "files": [
+        {
+          "name": "放置事务所_Steam主预告片_v30.mp4",
+          "url": "assets/v30-main-schinese-18969db3dc65.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v30.mp4",
+          "sha256": "4266aaec0ef9cf31ec6416d1f32197d8bca9812f2faf90c17416d65f88d6d569",
+          "previewSha256": "18969db3dc6587994642133626bc0ee50444d9f8fb16b4eec874a74c8b5ee26a",
+          "updated": "2026-11-11"
+        },
+        {
+          "name": "英文版v30.mp4",
+          "url": "assets/v30-main-english-7a77a6b4a6fa.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/英文版v30.mp4",
+          "sha256": "0b1d5f98f60c5d7d37ffd8bd2926c3653c6662b92755be804f376b61313acfd5",
+          "previewSha256": "7a77a6b4a6fa50aab9ba93a865b3c1156f071a44fe38874dba4db64c188fe795",
+          "updated": "2026-11-11"
+        },
+        {
+          "name": "繁中版v30.mp4",
+          "url": "assets/v30-main-tchinese-35309cf7ad01.mp4",
+          "type": "video",
+          "source": "视频制作/steam/Steam主预告片/成片/繁中版v30.mp4",
+          "sha256": "629d831ac9b3e8c8f63fc3f6760f87cab50cc5cfe1fa75407ed5cab8dc54c84b",
+          "previewSha256": "35309cf7ad012b428046d50a3a84fca6edb48e994f280d173f0664826b954f63",
+          "updated": "2026-11-11"
+        }
+      ],
+      "status": "已发布 · 十语实际公开页核对通过",
+      "body": "主预告片补入装备开箱的完整关键镜头。沿用已验收的年轻英雄选角与风暴血君雷电大招。简中、繁中各用对应成片，其他八种语言使用英文版。",
+      "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v30.mp4",
+      "cover": "assets/v30-main-schinese-b63270ae2a5b.jpg",
+      "detailNote": "网页提供三语压缩预览；原始1080p60母片已验收。十语核对视频播放、截图及详情页动效。",
+      "duration": 63.373833,
+      "links": [
+        {
+          "platform": "Steam · schinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · tchinese",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · english",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · japanese",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · koreana",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · german",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · french",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · spanish",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · brazilian",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · russian",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-11",
+          "status": "已发布"
+        }
+      ],
+      "group": "Steam 视频",
+      "sourceCommit": "5f8f701a5c9fa78262b32f2e10316be2e5b6a27f"
+    },
+    {
+      "id": "work-9",
+      "title": "19 秒 · 上架 Steam",
+      "category": "宣传视频",
+      "date": "2026-10-01",
+      "dateBasis": "制作记录",
+      "summary": "19 秒开场片头，实机快切与 Steam 商店展示。",
+      "files": [
+        {
+          "name": "简中横屏版_开场片头_上架Steam.mp4",
+          "url": "assets/268c0d96a409.mp4",
+          "type": "video",
+          "source": "视频制作/19秒小视频/成片/简中横屏版_开场片头_上架Steam.mp4",
+          "updated": "2026-10-01"
+        },
+        {
+          "name": "简中竖屏版_开场片头_上架Steam.mp4",
+          "url": "assets/47e3b70d60d5.mp4",
+          "type": "video",
+          "source": "视频制作/19秒小视频/成片/简中竖屏版_开场片头_上架Steam.mp4",
+          "updated": "2026-10-01"
+        },
+        {
+          "name": "英文横屏版_开场片头_上架Steam.mp4",
+          "url": "assets/6d62a3a6b00b.mp4",
+          "type": "video",
+          "source": "视频制作/19秒小视频/成片/英文横屏版_开场片头_上架Steam.mp4",
+          "updated": "2026-10-01"
+        }
+      ],
+      "status": "成片已归档",
+      "body": "",
+      "source": "视频制作/19秒小视频/成片/简中横屏版_开场片头_上架Steam.mp4",
+      "cover": "assets/e5c98050ec5f.jpg",
+      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
+      "duration": 18.627125,
+      "links": [],
+      "group": "平台视频"
+    },
+    {
+      "id": "work-10",
+      "title": "转场 01 · 英雄图鉴滑屏",
+      "category": "宣传视频",
+      "date": "2026-10-01",
+      "dateBasis": "制作记录",
+      "summary": "英雄图鉴滑屏与音乐卡点的短视频试剪。",
+      "files": [
+        {
+          "name": "简中横屏版_英雄图鉴滑屏_试剪.mp4",
+          "url": "assets/96b4f94529e9.mp4",
+          "type": "video",
+          "source": "视频制作/转场1/成片/简中横屏版_英雄图鉴滑屏_试剪.mp4",
+          "updated": "2026-10-06"
+        },
+        {
+          "name": "简中竖屏版_英雄图鉴滑屏_试剪.mp4",
+          "url": "assets/1eb337f5b2e2.mp4",
+          "type": "video",
+          "source": "视频制作/转场1/成片/简中竖屏版_英雄图鉴滑屏_试剪.mp4",
+          "updated": "2026-10-06"
+        }
+      ],
+      "status": "已公开 · B站 / 抖音 / 小红书",
+      "body": "",
+      "source": "视频制作/转场1/成片/简中横屏版_英雄图鉴滑屏_试剪.mp4",
+      "cover": "assets/7c04f57d5bde-poster.jpg",
+      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
+      "duration": 34.033333,
+      "links": [
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1njaB6ZEax",
+          "date": "2026-10-01",
+          "status": "已公开",
+          "source": "2026-10-13 账号作品列表现场核对"
+        },
+        {
+          "platform": "抖音",
+          "url": "https://www.douyin.com/video/7691645419733929242",
+          "date": "2026-10-01",
+          "status": "已公开",
+          "source": "2026-10-13 账号作品列表现场核对"
+        },
+        {
+          "platform": "小红书",
+          "url": "https://www.xiaohongshu.com/explore/6abe36c1000000001a02b970?xsec_token=ABM3TAFkWFy8roBbDLlAsrsqF9U-p24YSzHEiiDJss4NU=&xsec_source=pc_user",
+          "date": "2026-10-01",
+          "status": "已公开",
+          "source": "2026-10-13 账号公开作品页及创作中心核对"
+        }
+      ],
+      "group": "转场视频"
+    },
+    {
+      "id": "work-11",
+      "title": "转场 02 · 英雄名牌卡点",
+      "category": "宣传视频",
+      "date": "2026-10-02",
+      "dateBasis": "制作记录",
+      "summary": "英雄名牌、红黑字卡与重拍切换的短视频试剪。",
+      "files": [
+        {
+          "name": "简中横屏版_英雄名牌卡点_试剪.mp4",
+          "url": "assets/3a168b16af74.mp4",
+          "type": "video",
+          "source": "视频制作/转场2/成片/简中横屏版_英雄名牌卡点_试剪.mp4",
+          "updated": "2026-10-02"
+        },
+        {
+          "name": "简中竖屏版_英雄名牌卡点_试剪.mp4",
+          "url": "assets/219878183d0a.mp4",
+          "type": "video",
+          "source": "视频制作/转场2/成片/简中竖屏版_英雄名牌卡点_试剪.mp4",
+          "updated": "2026-10-02"
+        },
+        {
+          "name": "英文横屏版_英雄名牌卡点_试剪.mp4",
+          "url": "assets/fdce24f07c8e.mp4",
+          "type": "video",
+          "source": "视频制作/转场2/成片/英文横屏版_英雄名牌卡点_试剪.mp4",
+          "updated": "2026-10-02"
+        }
+      ],
+      "status": "已公开 · B站 / 抖音 / 小红书",
+      "body": "",
+      "source": "视频制作/转场2/成片/简中横屏版_英雄名牌卡点_试剪.mp4",
+      "cover": "assets/ebccc4ff633c-poster.jpg",
+      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
+      "duration": 22.4,
+      "links": [
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1w4HW6bEWq",
+          "date": "2026-10-05",
+          "status": "已公开",
+          "source": "2026-10-13 账号作品列表现场核对"
+        },
+        {
+          "platform": "抖音",
+          "url": "https://www.douyin.com/video/7693122508135992611",
+          "date": "2026-10-05",
+          "status": "已公开",
+          "source": "2026-10-13 账号作品列表现场核对"
+        },
+        {
+          "platform": "小红书",
+          "url": "https://www.xiaohongshu.com/user/profile/69b258e9000000003402db68/6ac375e5000000001500ad21?xsec_token=ABNDQ2AJ5shfL9omCQs-5pQMNom2CvSStOB5YI8MwMzs4=&xsec_source=pc_user",
+          "date": "2026-10-05",
+          "status": "已公开",
+          "source": "2026-10-13 账号公开作品页及创作中心核对"
+        }
+      ],
+      "group": "转场视频"
+    },
+    {
+      "id": "steam-704410099752371038-covers",
+      "title": "Demo v5 更新公告 · 听劝更新封面",
+      "category": "封面与视觉",
+      "group": "封面",
+      "date": "2026-11-05",
+      "dateBasis": "发布日期",
+      "summary": "新 Q 版英雄插画 · 简中、英文两版；中文两语用简中封面，其他八语用英文封面。",
+      "status": "已发布 · 十语",
+      "files": [
+        {
+          "name": "简体中文 / 繁體中文 · 听劝更新封面",
+          "url": "assets/steam-704410099752371038-cover-schinese.png",
+          "type": "image",
+          "source": "output/steam-demo-v5-announcement-20261105/封面/12_读玩家来信_schinese.png"
+        },
+        {
+          "name": "English / 其他七语 · 听劝更新封面",
+          "url": "assets/steam-704410099752371038-cover-english.png",
+          "type": "image",
+          "source": "output/steam-demo-v5-announcement-20261105/封面/12_读玩家来信_english.png"
+        }
+      ],
+      "cover": "assets/steam-704410099752371038-cover-schinese.png",
+      "source": "output/steam-demo-v5-announcement-20261105/封面",
+      "links": [
+        {
+          "platform": "Steam 公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=schinese",
+          "date": "2026-11-05",
+          "status": "已发布"
+        }
+      ]
+    },
+    {
+      "id": "steam-704410368784466107-covers",
+      "title": "Demo v8 更新公告 · 12月3日正式版上线封面",
+      "category": "封面与视觉",
+      "group": "公告封面",
+      "date": "2026-11-09",
+      "dateBasis": "发布日期",
+      "summary": "第15张Q版英雄插画「打雪仗」；上线日期直接写在放大的木牌上。中文两语用简中图，其他八语用英文图。",
+      "status": "已发布 · 十语",
+      "files": [
+        {
+          "name": "简体中文 / 繁體中文 · 12月3日正式版上线封面",
+          "url": "assets/steam-704410368784466107-cover-schinese.png",
+          "type": "image",
+          "source": "output/steam-demo-v8-announcement-20261108/release-date-revision/wood-sign/15_打雪仗_schinese.png"
+        },
+        {
+          "name": "English / 其他七语 · 12月3日正式版上线封面",
+          "url": "assets/steam-704410368784466107-cover-english.png",
+          "type": "image",
+          "source": "output/steam-demo-v8-announcement-20261108/release-date-revision/wood-sign/15_打雪仗_english.png"
+        }
+      ],
+      "cover": "assets/steam-704410368784466107-cover-schinese.png",
+      "source": "output/steam-demo-v8-announcement-20261108/release-date-revision/wood-sign",
+      "links": [
+        {
+          "platform": "Steam 公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/704410368784466107?l=schinese",
+          "date": "2026-11-09",
+          "status": "已发布"
+        }
+      ]
+    },
+    {
+      "id": "steam-696529526775087164-covers",
+      "title": "离线收益新闻 · 12月3日正式版上线封面",
+      "category": "封面与视觉",
+      "group": "公告封面",
+      "date": "2026-11-12",
+      "dateBasis": "发布日期",
+      "summary": "第16张Q版英雄插画「摘苹果」；左下两行大字标注上线日期。中文两语用简中图，其他八语用英文图。",
+      "status": "已发布 · 十语",
+      "files": [
+        {
+          "name": "简体中文 / 繁體中文 · 12月3日正式版上线封面",
+          "url": "assets/steam-696529526775087164-cover-schinese.png",
+          "type": "image",
+          "source": "output/steam-news-20261112/cover-date-revision-v5/16_摘苹果_两行v5_schinese.png"
+        },
+        {
+          "name": "English / 其他七语 · 12月3日正式版上线封面",
+          "url": "assets/steam-696529526775087164-cover-english.png",
+          "type": "image",
+          "source": "output/steam-news-20261112/cover-date-revision-v5/16_摘苹果_两行v5_english.png"
+        }
+      ],
+      "cover": "assets/steam-696529526775087164-cover-schinese.png",
+      "source": "output/steam-news-20261112/cover-date-revision-v5",
+      "links": [
+        {
+          "platform": "Steam 新闻原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=schinese",
+          "date": "2026-11-12",
+          "status": "已发布"
+        }
+      ]
+    },
+    {
+      "id": "steam-696529526775088431-covers",
+      "title": "英雄与阵容新闻 · 两版公告封面",
+      "category": "封面与视觉",
+      "group": "公告封面",
+      "date": "2026-11-17",
+      "dateBasis": "发布日期",
+      "summary": "Q版英雄装饰圣诞树；简中、繁中用中文封面，其他八语用英文封面。",
+      "status": "已发布 · 十语",
+      "files": [
+        {
+          "name": "简中／繁中 · 公告封面",
+          "url": "assets/steam-696529526775088431-cover-schinese.png",
+          "type": "image",
+          "source": "output/steam-news-20261115/v8/publication/artwork/header_schinese.png",
+          "sha256": "4537f5f8c1c7901958411a7fdad6ae6f28e3269afdc9a13452bc3267b42c0dc1"
+        },
+        {
+          "name": "其他八语 · 公告封面",
+          "url": "assets/steam-696529526775088431-cover-english.png",
+          "type": "image",
+          "source": "output/steam-news-20261115/v8/publication/artwork/header_english.png",
+          "sha256": "b6b15a7d1c3b47fcf57fd052054a66c34f2bbb0ea4c8c31e6ded8a12add06ec5"
+        }
+      ],
+      "cover": "assets/steam-696529526775088431-cover-schinese.png",
+      "source": "output/steam-news-20261115/封面",
+      "links": [
+        {
+          "platform": "Steam 公告原文",
+          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=schinese",
+          "date": "2026-11-17",
+          "status": "已发布"
+        }
+      ]
+    },
+    {
+      "id": "steam-store-gif-updates-20261125-r98",
+      "title": "Steam 详情页动图 · 修订98（第01节三语）",
+      "category": "封面与视觉",
+      "group": "详情页图片",
+      "date": "2026-11-25",
+      "dateBasis": "Steamworks 修订98 发布（pubresult=success）、Codex专用 十语公开页核对（11-25 17:12）及 11-25 匿名十语商店接口核对",
+      "status": "已发布 · 十语",
+      "summary": "详情页第01节战斗大招动图换成简中、繁中、英文三语新版，其他七语共用英文版。",
+      "body": "商店修订98（11-25）把详情页第01节的战斗大招动图换成新录的三语版本：简中、繁中各用本语界面，英文版供英、日、韩、德、法、西、巴葡、俄八语共用；名牌都是本语言，6 秒、60 帧。旧的第01节动图（f47d6fb6 及繁中 d2f 版 9d78a7ca）已从十语页面撤下。11-25 匿名读取十语商店接口：简中引用 b74a6ad1、繁中 02306e92、其余八语 8a88be22，旧图都不在了；Codex专用 核对过十语都排在第二个媒体位，三支公开文件与发布前核过的逐个相同；对话管理在浏览器里看过简繁英三语都在播放。动图以 Steam 公开地址引用，网页不另存副本。",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/b74a6ad151762fee9c4cd3bef943206d.poster.avif?t=1795597681",
+      "files": [
+        {
+          "name": "简体中文 · 战斗大招（01节）",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/b74a6ad151762fee9c4cd3bef943206d.mp4?t=1795597681",
+          "type": "video",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/b74a6ad151762fee9c4cd3bef943206d.poster.avif?t=1795597681",
+          "sourceGifSha256": "171a5607df57cb899700e0c4cc2e407967e6a4f1de59dc73995b2a495c76e46e"
+        },
+        {
+          "name": "繁体中文 · 战斗大招（01节，v2）",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/02306e922844f9614c877c9c716e98e0.mp4?t=1795597681",
+          "type": "video",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/02306e922844f9614c877c9c716e98e0.poster.avif?t=1795597681",
+          "sourceGifSha256": "f0ce8bfe13f0a919c107d321ec3af1f799f7d5eebe9911dc8f5e25be07ecf4cd"
+        },
+        {
+          "name": "英文 · 战斗大招（01节，其他七语共用）",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/8a88be220972c7a184b3b7c03df89c75.mp4?t=1795597681",
+          "type": "video",
+          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/8a88be220972c7a184b3b7c03df89c75.poster.avif?t=1795597681",
+          "sourceGifSha256": "a229899c630b93398fe9acd1544c74d19167eb475e5e15b36de057bcf4b382b6"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-25",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261125/CC_第01节三语发布后十语公开页核对_1125.md"
+    },
+    {
+      "id": "steam-store-screenshots-20261125-r101",
+      "title": "Steam 商店截图 · 编队布阵9张（修订101）",
+      "category": "封面与视觉",
+      "group": "宣传图",
+      "date": "2026-11-25",
+      "dateBasis": "Steamworks修订101发布（pubresult=success，发布前差异只有9处替换）、Codex专用与steam十语公开页核对（1cc96ecd、3243a557）及11-25匿名十语商店接口核对",
+      "status": "已发布 · 9张 · 已核",
+      "summary": "商店修订101按开发版main 18ed6eee新录：简繁英韩德法西葡俄九语第3张编队布阵，日文第3张不变。",
+      "body": "商店修订101（11-25 22时许）换了9张商店截图：简中、繁中、英、韩、德、法、西、巴葡、俄九种语言的第3张编队布阵，按开发版main 18ed6eee新录；日文第3张保持原图未动。11-25匿名读取十语商店接口：9张新图都在第3位，其余81张与修订99后一致（日文第3张仍为0d17b733）；9张逐张看过，界面语言与所在语言页一致。Codex专用（1cc96ecd）和 steam（3243a557）各自独立核对十语公开页，都通过：九语第3张都是本语新图，日文没动，十语都是9张、顺序不变。网页为1600宽压缩预览，原图见对应Steam商店页。",
+      "cover": "assets/r101-schinese-shot-03-51c42f3a5e10.jpg",
+      "files": [
+        {
+          "name": "简体中文 · 截图03 · 编队布阵",
+          "url": "assets/r101-schinese-shot-03-51c42f3a5e10.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/14d058778cc21cbca1a080259d0404332db53f93/ss_14d058778cc21cbca1a080259d0404332db53f93.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "14d058778cc21cbca1a080259d0404332db53f93",
+          "sha256": "51c42f3a5e10020191c7ea8c11cc2363a9643d0eceb15019418ba2603dc716b9",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "繁体中文 · 截图03 · 编队布阵",
+          "url": "assets/r101-tchinese-shot-03-2b1e57268f1b.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/80515c6e6d7ae20b9947ee6a0aa8e47eeb62ec2c/ss_80515c6e6d7ae20b9947ee6a0aa8e47eeb62ec2c.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "80515c6e6d7ae20b9947ee6a0aa8e47eeb62ec2c",
+          "sha256": "2b1e57268f1b6e1552c9f57b4a9048762db5483e7e0160a3191b2eb4239f7250",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "英文 · 截图03 · 编队布阵",
+          "url": "assets/r101-english-shot-03-e16b1eeed9ad.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4d313d7f39be838e2f0fb92fe959c24a371a93b9/ss_4d313d7f39be838e2f0fb92fe959c24a371a93b9.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "4d313d7f39be838e2f0fb92fe959c24a371a93b9",
+          "sha256": "e16b1eeed9ad2cb3984eb8c5a7f1213eda5e062143223ac8a25f88ff419b1e9c",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "韩文 · 截图03 · 编队布阵",
+          "url": "assets/r101-koreana-shot-03-5488c0f3a16b.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/fc5df5f30f80b1e30d8c4fd9bb337bac11fe3f0e/ss_fc5df5f30f80b1e30d8c4fd9bb337bac11fe3f0e.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "fc5df5f30f80b1e30d8c4fd9bb337bac11fe3f0e",
+          "sha256": "5488c0f3a16b7148173ef6fe68add75de367e26ee1aa12b51d78694a20fc7073",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "德文 · 截图03 · 编队布阵",
+          "url": "assets/r101-german-shot-03-3d717ac9c8cc.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/8c8dbb890014d11a391eff41fc22812ff4a224bc/ss_8c8dbb890014d11a391eff41fc22812ff4a224bc.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "8c8dbb890014d11a391eff41fc22812ff4a224bc",
+          "sha256": "3d717ac9c8cc4b5afbdb53a21f58a3b9980baaac352b9282fe54674a2ef9f088",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "法文 · 截图03 · 编队布阵",
+          "url": "assets/r101-french-shot-03-5025fbd85880.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9df9b85b7b6eb021b04abdeb89b66f54d7e30952/ss_9df9b85b7b6eb021b04abdeb89b66f54d7e30952.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "9df9b85b7b6eb021b04abdeb89b66f54d7e30952",
+          "sha256": "5025fbd85880bc5c7619e1a97d70b782b710707e9adf2c0170820e03d0047975",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "西班牙文 · 截图03 · 编队布阵",
+          "url": "assets/r101-spanish-shot-03-df155c9ac820.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/2c08d242adcc16ce1c7b42a6d4a56a68751f545f/ss_2c08d242adcc16ce1c7b42a6d4a56a68751f545f.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "2c08d242adcc16ce1c7b42a6d4a56a68751f545f",
+          "sha256": "df155c9ac82001ecbf02b8794a9a09f9fc8ea32b4e8a9e3aa3568a60b061f1eb",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图03 · 编队布阵",
+          "url": "assets/r101-brazilian-shot-03-ffcb09c94a24.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9f135570d1bda9d2a56969233efef651978b274e/ss_9f135570d1bda9d2a56969233efef651978b274e.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "9f135570d1bda9d2a56969233efef651978b274e",
+          "sha256": "ffcb09c94a24a45994c7b54e1d2a6b7ea2b64df98fa139e5b880dd66a18d1860",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "俄文 · 截图03 · 编队布阵",
+          "url": "assets/r101-russian-shot-03-d2a557a80ef7.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/362e83ef55218e6c623eeba11e84fdaeadd2c904/ss_362e83ef55218e6c623eeba11e84fdaeadd2c904.1920x1080.jpg?t=1795616060",
+          "steamScreenshotSha1": "362e83ef55218e6c623eeba11e84fdaeadd2c904",
+          "sha256": "d2a557a80ef7ccccb2e2cc4232fe7d7b8882a99cbaf774a33f1314b477481d2d",
+          "updated": "2026-11-25"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-25",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261125/Codex_商店截图03九语发布记录_1125.md",
+      "detailNote": "网页为压缩预览，完整截图见对应Steam商店页。"
+    },
+    {
+      "id": "steam-store-screenshots-20261125-r97",
+      "title": "Steam 商店截图 · 第4批34张（修订97）",
+      "category": "封面与视觉",
+      "group": "宣传图",
+      "date": "2026-11-25",
+      "dateBasis": "Steam修订97发布（11-25，第4批）、steam 十语公开页独立复核（6205475c）及11-25匿名十语商店接口核对",
+      "status": "已发布 · 34张",
+      "summary": "商店修订97换了第4批34张本语截图：十语第1张战斗大招、第7张开宝箱，七语第2张要塞、七语第3张编队布阵。",
+      "body": "商店修订97（11-25）换了第4批34张商店截图，均为本语实机界面，1920×1080：十种语言的第1张（战斗大招）和第7张（开宝箱）；简中、繁中、英、德、法、西、巴葡的第2张（要塞）；英、韩、德、法、西、巴葡、俄的第3张（编队布阵）。日文、韩文、俄文的第2张和日文的第3张保留原图。steam 独立复核十语公开页：34格新图与本地待传文件逐张比PSNR 40.2–46.9 dB，没有放错语言。11-25匿名读取十语商店接口，34张都在对应位置；34张逐张看过，界面语言与所在语言页一致。本条在修订99同步时补录。网页为1600宽压缩预览，原图见对应Steam商店页。（修订101已把简繁英韩德法西葡俄九语第3张编队布阵换成新版，见 steam-store-screenshots-20261125-r101。）",
+      "cover": "assets/r97-schinese-shot-01-dff8afbe35e1.jpg",
+      "files": [
+        {
+          "name": "简体中文 · 截图01 · 战斗大招",
+          "url": "assets/r97-schinese-shot-01-dff8afbe35e1.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/7430df52001787a30ec1a80f0f5bc0371a25ee3f/ss_7430df52001787a30ec1a80f0f5bc0371a25ee3f.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "7430df52001787a30ec1a80f0f5bc0371a25ee3f",
+          "sha256": "dff8afbe35e1756b9fc691f9f8ca0293bd4a38cf303505a968c434a1c6a165d8",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "繁体中文 · 截图01 · 战斗大招",
+          "url": "assets/r97-tchinese-shot-01-9127e331e1cd.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/6e90f8a0fa63a0382a3751c396bca5498c427ecb/ss_6e90f8a0fa63a0382a3751c396bca5498c427ecb.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "6e90f8a0fa63a0382a3751c396bca5498c427ecb",
+          "sha256": "9127e331e1cd6c7e849c5800139c92ea7017e027e5a9e6886ed4b2e35d12bbab",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "英文 · 截图01 · 战斗大招",
+          "url": "assets/r97-english-shot-01-af28c4908dee.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f3493fb979557510f5c92d290d063cce57c7c3e6/ss_f3493fb979557510f5c92d290d063cce57c7c3e6.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "f3493fb979557510f5c92d290d063cce57c7c3e6",
+          "sha256": "af28c4908deebb13881b4f4f531647c85db9804e78c563169e29a3d9d3116ada",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "日文 · 截图01 · 战斗大招",
+          "url": "assets/r97-japanese-shot-01-85fb0623ceed.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/e37638a2c0d42e218f6561ad7a9b2a0f576ab1c2/ss_e37638a2c0d42e218f6561ad7a9b2a0f576ab1c2.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "e37638a2c0d42e218f6561ad7a9b2a0f576ab1c2",
+          "sha256": "85fb0623ceed01d102a2b20e889690b372849dc0857280c72171cf922c2728cc",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "韩文 · 截图01 · 战斗大招",
+          "url": "assets/r97-koreana-shot-01-3998c74d6908.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/aec6b54116101e307918c6faaf52b882d66b9d55/ss_aec6b54116101e307918c6faaf52b882d66b9d55.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "aec6b54116101e307918c6faaf52b882d66b9d55",
+          "sha256": "3998c74d690817867a6f2e8a3a32c9d0cde6612d76ef1793890ab067979630dc",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "德文 · 截图01 · 战斗大招",
+          "url": "assets/r97-german-shot-01-c7c7d3fe0ea5.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4c3b16eadcbcd78d2825c9157b3505495cba8a30/ss_4c3b16eadcbcd78d2825c9157b3505495cba8a30.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "4c3b16eadcbcd78d2825c9157b3505495cba8a30",
+          "sha256": "c7c7d3fe0ea50e9e1828ecfd9b9f68cedc969e60f3eab245de8211b02f0bff43",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "法文 · 截图01 · 战斗大招",
+          "url": "assets/r97-french-shot-01-6664128ac845.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/8f302621485ec03fba70347d5f9fcb7c867c5be8/ss_8f302621485ec03fba70347d5f9fcb7c867c5be8.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "8f302621485ec03fba70347d5f9fcb7c867c5be8",
+          "sha256": "6664128ac845b2672b04adf96cdb942512254b6ca7a7a9c7bf891a948a57f928",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "西班牙文 · 截图01 · 战斗大招",
+          "url": "assets/r97-spanish-shot-01-6a8357345180.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/8423d0d4b580747588234283b8636477a3a6b44b/ss_8423d0d4b580747588234283b8636477a3a6b44b.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "8423d0d4b580747588234283b8636477a3a6b44b",
+          "sha256": "6a83573451802cbcee1f8f4a326c01da0550e8d2210d4aa007f30d1bc7a2dcc4",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图01 · 战斗大招",
+          "url": "assets/r97-brazilian-shot-01-a6f34ec40a58.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/b22c2ae6fb64b2b6691371ce833dda1916a1931c/ss_b22c2ae6fb64b2b6691371ce833dda1916a1931c.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "b22c2ae6fb64b2b6691371ce833dda1916a1931c",
+          "sha256": "a6f34ec40a5893ed2112221ef8d8a6dd2b69e3c61ea9250691e06c781a9ed96d",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "俄文 · 截图01 · 战斗大招",
+          "url": "assets/r97-russian-shot-01-a2f84a7c932a.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/8f2ee3b05591e1ff57ce5f166438e7da3e1e56d0/ss_8f2ee3b05591e1ff57ce5f166438e7da3e1e56d0.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "8f2ee3b05591e1ff57ce5f166438e7da3e1e56d0",
+          "sha256": "a2f84a7c932a3db92cf9be896da9005e3e32161f38b713d62ad793e87fb3bb08",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "简体中文 · 截图02 · 要塞",
+          "url": "assets/r97-schinese-shot-02-4500421bd9e9.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4e7d8a56bd61c68fb47aea9063d5aa18f9851455/ss_4e7d8a56bd61c68fb47aea9063d5aa18f9851455.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "4e7d8a56bd61c68fb47aea9063d5aa18f9851455",
+          "sha256": "4500421bd9e946c4d7a3f74aeed65a6d8a0cd1cb4b6e62f1a94f868ace3ef60f",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "繁体中文 · 截图02 · 要塞",
+          "url": "assets/r97-tchinese-shot-02-9acbc4a260c4.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9f4b637a4f3a8ff14a19da97450daa342a1ce8fe/ss_9f4b637a4f3a8ff14a19da97450daa342a1ce8fe.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "9f4b637a4f3a8ff14a19da97450daa342a1ce8fe",
+          "sha256": "9acbc4a260c4b65faf0a123009e887b6d7686a0e5efcb90daa69c6025424758d",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "英文 · 截图02 · 要塞",
+          "url": "assets/r97-english-shot-02-fcedf14ea759.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/054d55e0507e1a76c5ab8079eaf6c8472a813773/ss_054d55e0507e1a76c5ab8079eaf6c8472a813773.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "054d55e0507e1a76c5ab8079eaf6c8472a813773",
+          "sha256": "fcedf14ea759c2067f048aa9c9e99f41d905e23b2ba6dd4f8c3baffe6d3da481",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "德文 · 截图02 · 要塞",
+          "url": "assets/r97-german-shot-02-01381d4f35df.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/e35eaf84e152a906a053e693f7c3b9e6889579a1/ss_e35eaf84e152a906a053e693f7c3b9e6889579a1.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "e35eaf84e152a906a053e693f7c3b9e6889579a1",
+          "sha256": "01381d4f35df9dc9c617bbdbd97a571ba28f2f98700c23d604ab7d8a5078befe",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "法文 · 截图02 · 要塞",
+          "url": "assets/r97-french-shot-02-718ba1b05c50.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/c767a76316dcf40bcdc88cd8beff09bd158e147f/ss_c767a76316dcf40bcdc88cd8beff09bd158e147f.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "c767a76316dcf40bcdc88cd8beff09bd158e147f",
+          "sha256": "718ba1b05c50d936358b16a287de559d71bdd6dbc15c33cbf803035c9cfb09f5",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "西班牙文 · 截图02 · 要塞",
+          "url": "assets/r97-spanish-shot-02-28b24abda316.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/339f7d883bc8a43d1e2b31f9822688600bd73aeb/ss_339f7d883bc8a43d1e2b31f9822688600bd73aeb.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "339f7d883bc8a43d1e2b31f9822688600bd73aeb",
+          "sha256": "28b24abda31665a04416c9d84bebf1c0d68f317040ef09ad701ad81b6fbe72d8",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图02 · 要塞",
+          "url": "assets/r97-brazilian-shot-02-da0dbda8f1c1.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/527f8adea5dbd938f4251733989386075c8abfe2/ss_527f8adea5dbd938f4251733989386075c8abfe2.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "527f8adea5dbd938f4251733989386075c8abfe2",
+          "sha256": "da0dbda8f1c1e49c9c97fc2ef000dfcd1d99dd81da38040d70352db840efa824",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "英文 · 截图03 · 编队布阵",
+          "url": "assets/r97-english-shot-03-d1eea2316dc9.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/68d0f94f9b74e3ed7996294766bf5b27cb258dc4/ss_68d0f94f9b74e3ed7996294766bf5b27cb258dc4.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "68d0f94f9b74e3ed7996294766bf5b27cb258dc4",
+          "sha256": "d1eea2316dc9d17c1b17a734bfa76a025583c86b691258ff3697b8a1fa93ff82",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "韩文 · 截图03 · 编队布阵",
+          "url": "assets/r97-koreana-shot-03-568461ede3c5.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4e62ebaa71044c979b8d98d1f69bf8d16d4d5e78/ss_4e62ebaa71044c979b8d98d1f69bf8d16d4d5e78.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "4e62ebaa71044c979b8d98d1f69bf8d16d4d5e78",
+          "sha256": "568461ede3c586ec34e9de08b6b9c0cbf2bbadd76e63e865707beb2939125b0d",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "德文 · 截图03 · 编队布阵",
+          "url": "assets/r97-german-shot-03-6f815817fe6b.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/e314ab3c093ea6d7eb6ff7653f480d70c0978987/ss_e314ab3c093ea6d7eb6ff7653f480d70c0978987.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "e314ab3c093ea6d7eb6ff7653f480d70c0978987",
+          "sha256": "6f815817fe6bed00f1aad2b86654e68b9f34a4b0452dc472d9b3fad311c4a434",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "法文 · 截图03 · 编队布阵",
+          "url": "assets/r97-french-shot-03-baedc3e7061f.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/1252153d6767abf00c0b3023f421c1152948c9aa/ss_1252153d6767abf00c0b3023f421c1152948c9aa.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "1252153d6767abf00c0b3023f421c1152948c9aa",
+          "sha256": "baedc3e7061f3c3fce90a378612aa283970d55eeed0d5dee920c279ed57a1aab",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "西班牙文 · 截图03 · 编队布阵",
+          "url": "assets/r97-spanish-shot-03-eb7412cc7106.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/64119c16c3ed4ea6799b7eda5b7dbaa14439158f/ss_64119c16c3ed4ea6799b7eda5b7dbaa14439158f.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "64119c16c3ed4ea6799b7eda5b7dbaa14439158f",
+          "sha256": "eb7412cc7106fdb01818a851c21ca247c1ce2209043be3ec32de158de8639352",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图03 · 编队布阵",
+          "url": "assets/r97-brazilian-shot-03-516e46fb587f.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/2d67741d9e44fd50f0e46ad91c342f6d22a874f9/ss_2d67741d9e44fd50f0e46ad91c342f6d22a874f9.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "2d67741d9e44fd50f0e46ad91c342f6d22a874f9",
+          "sha256": "516e46fb587fd96862e1e9d7d6ab5fdd79db4107aa441e82a8679b8487a8deb3",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "俄文 · 截图03 · 编队布阵",
+          "url": "assets/r97-russian-shot-03-89fd0339eba6.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/ffe25912490c322a3924a9a88f88d961e8023da7/ss_ffe25912490c322a3924a9a88f88d961e8023da7.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "ffe25912490c322a3924a9a88f88d961e8023da7",
+          "sha256": "89fd0339eba6fce3b08223c8cf4057b8483b7321071680ae7ab48896d588a2ee",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "简体中文 · 截图07 · 开宝箱",
+          "url": "assets/r97-schinese-shot-07-b28d3d5f7dfe.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/caf6c3f26f1df06735ed5f5cff96ca4f7d27e9bc/ss_caf6c3f26f1df06735ed5f5cff96ca4f7d27e9bc.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "caf6c3f26f1df06735ed5f5cff96ca4f7d27e9bc",
+          "sha256": "b28d3d5f7dfe1c3a021ade65698e96e3af68f52cf805e78fc052ec8faece41db",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "繁体中文 · 截图07 · 开宝箱",
+          "url": "assets/r97-tchinese-shot-07-920092ebd34c.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/2c9b258ac2dbab50f424bc32dd615dbf1bbe6725/ss_2c9b258ac2dbab50f424bc32dd615dbf1bbe6725.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "2c9b258ac2dbab50f424bc32dd615dbf1bbe6725",
+          "sha256": "920092ebd34c38f09914224c4063de7e017a638faac20e6df0ca0b88920f47af",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "英文 · 截图07 · 开宝箱",
+          "url": "assets/r97-english-shot-07-416d56cf41b2.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/db26425d8bff651cff752e2caa7cd1cda714063f/ss_db26425d8bff651cff752e2caa7cd1cda714063f.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "db26425d8bff651cff752e2caa7cd1cda714063f",
+          "sha256": "416d56cf41b2d64030c5611992393436c5472625a695e01779d8109b25c02985",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "日文 · 截图07 · 开宝箱",
+          "url": "assets/r97-japanese-shot-07-eb4a62c6e99d.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/cc3a5f9aa9e15eeb21957a18f02b8ab0774b623f/ss_cc3a5f9aa9e15eeb21957a18f02b8ab0774b623f.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "cc3a5f9aa9e15eeb21957a18f02b8ab0774b623f",
+          "sha256": "eb4a62c6e99db6fca8a4c6c2f7a7b3711e9ae7d2323c0f2974c86badda1a8511",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "韩文 · 截图07 · 开宝箱",
+          "url": "assets/r97-koreana-shot-07-140cade17c53.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/29f7b4250c894cba7e803bb86d6ab6e90145474c/ss_29f7b4250c894cba7e803bb86d6ab6e90145474c.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "29f7b4250c894cba7e803bb86d6ab6e90145474c",
+          "sha256": "140cade17c531f59eda43fb0f497e1bfa58c2072367e33747df8d96b2fbed4ef",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "德文 · 截图07 · 开宝箱",
+          "url": "assets/r97-german-shot-07-36069e8aaa81.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/e0cf54b3868a7b0b672a842112b1b10143081ad3/ss_e0cf54b3868a7b0b672a842112b1b10143081ad3.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "e0cf54b3868a7b0b672a842112b1b10143081ad3",
+          "sha256": "36069e8aaa81f48aa736b9b3e696bb38b3299b1a3cc5db9ba74b49b0ebd8a094",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "法文 · 截图07 · 开宝箱",
+          "url": "assets/r97-french-shot-07-6c8172095a44.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/3957a45f4fadee92102a0dbca7bfcb00340f6414/ss_3957a45f4fadee92102a0dbca7bfcb00340f6414.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "3957a45f4fadee92102a0dbca7bfcb00340f6414",
+          "sha256": "6c8172095a44a688eb8c1341c8b2d91bbeedd2305f9bc75066378fa82833ba31",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "西班牙文 · 截图07 · 开宝箱",
+          "url": "assets/r97-spanish-shot-07-05cc3fbd27bd.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f4ee038970f847a7544f93f30173eb8d3a55756c/ss_f4ee038970f847a7544f93f30173eb8d3a55756c.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "f4ee038970f847a7544f93f30173eb8d3a55756c",
+          "sha256": "05cc3fbd27bdf380e436953ee47de7310d1a849f60d9b365e8b5baf9691885ac",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图07 · 开宝箱",
+          "url": "assets/r97-brazilian-shot-07-f60805e5b723.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f645a17201095c89c405d821df7660887a5c54d0/ss_f645a17201095c89c405d821df7660887a5c54d0.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "f645a17201095c89c405d821df7660887a5c54d0",
+          "sha256": "f60805e5b723dd50312e940a6a8e246500c435fef974f928d81bd54f4dce7344",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "俄文 · 截图07 · 开宝箱",
+          "url": "assets/r97-russian-shot-07-4c5be117b61b.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f0aeb3c5bfd80381c1b7c37a63e5e11b8f196b4b/ss_f0aeb3c5bfd80381c1b7c37a63e5e11b8f196b4b.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "f0aeb3c5bfd80381c1b7c37a63e5e11b8f196b4b",
+          "sha256": "4c5be117b61b40e8574c78e8a65d7f81ea90c20222091c215e9b1539a46dd974",
+          "updated": "2026-11-25"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-25",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261125/steam_r97与Demo_r26公开页独立复核/steam_r97与Demo_r26公开页独立复核_1125.md",
+      "detailNote": "网页为压缩预览，完整截图见对应Steam商店页。"
+    },
+    {
+      "id": "steam-store-screenshots-20261125-r99",
+      "title": "Steam 商店截图 · 技能页与战报19张（修订99）",
+      "category": "封面与视觉",
+      "group": "宣传图",
+      "date": "2026-11-25",
+      "dateBasis": "Steamworks修订99发布（pubresult=success）、Codex专用与steam十语公开页核对（c437b448、469dbf42）及11-25匿名十语商店接口核对",
+      "status": "已发布 · 19张 · 已核",
+      "summary": "商店修订99按开发版004999b4新录：十语第4张英雄技能页，简繁日韩德法西葡俄第6张战报，共19张。",
+      "body": "商店修订99（11-25）换了19张商店截图：十种语言的第4张英雄技能页（凯歌天后，按开发版main 004999b4新录），包括之前因文字溢出保留旧图的日、法、西、巴葡；简中、繁中、日、韩的第6张战报为004999b4新录，德、法、西、巴葡、俄的第6张战报用已验收的9a8版；英文第6张未动。11-25匿名读取十语商店接口：19张都在对应位置，其余71张与修订97后一致；19张逐张看过，界面语言与所在语言页一致。Codex专用（c437b448）和 steam（469dbf42）各自独立核对十语公开页，都通过：19张新图都上了、语言都对，英文第6张和其他位置没动。网页为1600宽压缩预览，原图见对应Steam商店页。",
+      "cover": "assets/r99-schinese-shot-04-c649f316d6e0.jpg",
+      "files": [
+        {
+          "name": "简体中文 · 截图04 · 英雄技能",
+          "url": "assets/r99-schinese-shot-04-c649f316d6e0.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/804550c26c35da0f3944b2787460ad59ba3f40ab/ss_804550c26c35da0f3944b2787460ad59ba3f40ab.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "804550c26c35da0f3944b2787460ad59ba3f40ab",
+          "sha256": "c649f316d6e0f96be9d30aace32d06b8ca2229726aa5453196d3b2f6e210a94b",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "繁体中文 · 截图04 · 英雄技能",
+          "url": "assets/r99-tchinese-shot-04-f98e69b95322.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/acab6de9d12c37c55b5460a288079d8295712919/ss_acab6de9d12c37c55b5460a288079d8295712919.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "acab6de9d12c37c55b5460a288079d8295712919",
+          "sha256": "f98e69b95322af7a804d95873fadc09855648c819d805899b2f0b632b08b379b",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "英文 · 截图04 · 英雄技能",
+          "url": "assets/r99-english-shot-04-1a665a4779dc.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9e2f3ba44dfbfd3d1e52c2d60d848479d2a9ecaf/ss_9e2f3ba44dfbfd3d1e52c2d60d848479d2a9ecaf.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "9e2f3ba44dfbfd3d1e52c2d60d848479d2a9ecaf",
+          "sha256": "1a665a4779dc48b60465a3ce68f3c7f4bc960f4c247186485a2bd9206bba98b7",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "日文 · 截图04 · 英雄技能",
+          "url": "assets/r99-japanese-shot-04-d44a2eb7692f.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/b954a6a79d9ea3b7232654be305079268e5f6669/ss_b954a6a79d9ea3b7232654be305079268e5f6669.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "b954a6a79d9ea3b7232654be305079268e5f6669",
+          "sha256": "d44a2eb7692f55642f77149040aba6febab9a7194902eaf8d91d799660ded0f2",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "韩文 · 截图04 · 英雄技能",
+          "url": "assets/r99-koreana-shot-04-f3a5092e976e.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/ac124a111e1e5044dd94e0d5c7004782eb3b2cb4/ss_ac124a111e1e5044dd94e0d5c7004782eb3b2cb4.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "ac124a111e1e5044dd94e0d5c7004782eb3b2cb4",
+          "sha256": "f3a5092e976e47ce6cdbc5c2cd084da5cb179abe4c9c16d647ae9609b655838a",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "德文 · 截图04 · 英雄技能",
+          "url": "assets/r99-german-shot-04-aa23f3aaa61d.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9ebd297d7371cf54762b7b4cde04b15109177a2e/ss_9ebd297d7371cf54762b7b4cde04b15109177a2e.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "9ebd297d7371cf54762b7b4cde04b15109177a2e",
+          "sha256": "aa23f3aaa61d9977c49d7fb1d5252459bdcf18bdd73b0af96d7f416f907c9436",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "法文 · 截图04 · 英雄技能",
+          "url": "assets/r99-french-shot-04-60f070064471.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/399fb66dd9219034c3299143c762cc5a062bd1d1/ss_399fb66dd9219034c3299143c762cc5a062bd1d1.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "399fb66dd9219034c3299143c762cc5a062bd1d1",
+          "sha256": "60f070064471034a9bd652bbbde49824fed6a8b4f37959d60e94c3b61e41c118",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "西班牙文 · 截图04 · 英雄技能",
+          "url": "assets/r99-spanish-shot-04-0e10aed23b1d.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f1e95c09f371c8c529b835a055a1f9c5a49f86e4/ss_f1e95c09f371c8c529b835a055a1f9c5a49f86e4.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "f1e95c09f371c8c529b835a055a1f9c5a49f86e4",
+          "sha256": "0e10aed23b1dd5120ed91e87c1d1541b80d4e21a6a12a1b6b53880a18c056fc5",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图04 · 英雄技能",
+          "url": "assets/r99-brazilian-shot-04-ca9a06d73b29.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/d354412a442f92f0667dd962c45ede4a4b38a635/ss_d354412a442f92f0667dd962c45ede4a4b38a635.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "d354412a442f92f0667dd962c45ede4a4b38a635",
+          "sha256": "ca9a06d73b292c3250579ee54ee4529c633116a8abdf7baac218253e52a65e79",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "俄文 · 截图04 · 英雄技能",
+          "url": "assets/r99-russian-shot-04-8921c1b1577f.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/a58ef3242f8df920f30526f89c7584b890ff8d2f/ss_a58ef3242f8df920f30526f89c7584b890ff8d2f.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "a58ef3242f8df920f30526f89c7584b890ff8d2f",
+          "sha256": "8921c1b1577f82f251605db91697fa73a8bb3e513f11bd7a7e6f0a19cd21aa2a",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "简体中文 · 截图06 · 战报",
+          "url": "assets/r99-schinese-shot-06-613d7a8ec850.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/5238cd1616e00fd79edcaae9183f903e0abdd621/ss_5238cd1616e00fd79edcaae9183f903e0abdd621.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "5238cd1616e00fd79edcaae9183f903e0abdd621",
+          "sha256": "613d7a8ec8508046cbbcf955b644b1fbcad65a99cd4cf72d3e759f24613b7c6f",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "繁体中文 · 截图06 · 战报",
+          "url": "assets/r99-tchinese-shot-06-9b7ee4bad9d3.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f8ce987e05a67180d4532dc7f7dbc2d6729b6d74/ss_f8ce987e05a67180d4532dc7f7dbc2d6729b6d74.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "f8ce987e05a67180d4532dc7f7dbc2d6729b6d74",
+          "sha256": "9b7ee4bad9d30faee5cfd720d30ef18fbc0afceb209f238bb35729490d39010d",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "日文 · 截图06 · 战报",
+          "url": "assets/r99-japanese-shot-06-0c54ce4b9cbe.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/7815537b2cadb03516952e23716e67544e44795e/ss_7815537b2cadb03516952e23716e67544e44795e.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "7815537b2cadb03516952e23716e67544e44795e",
+          "sha256": "0c54ce4b9cbe1f35f3797595ecf64c36402562df462d87f9226eaeb679ee3d6f",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "韩文 · 截图06 · 战报",
+          "url": "assets/r99-koreana-shot-06-9960958cf646.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/1359ec8976bd382a983b236bfc36a7312d372fd5/ss_1359ec8976bd382a983b236bfc36a7312d372fd5.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "1359ec8976bd382a983b236bfc36a7312d372fd5",
+          "sha256": "9960958cf646d5dc6605b5f6ae0e50ae790163bd3c14768320e5f6eb82cf3de0",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "德文 · 截图06 · 战报",
+          "url": "assets/r99-german-shot-06-08e4b5ffb524.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/629f1fcc2a5105287ed69e45e4fa618c05932aa5/ss_629f1fcc2a5105287ed69e45e4fa618c05932aa5.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "629f1fcc2a5105287ed69e45e4fa618c05932aa5",
+          "sha256": "08e4b5ffb5240880e39c9167d12972dc8bf60af46b26dbee408b6f8e26660aa1",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "法文 · 截图06 · 战报",
+          "url": "assets/r99-french-shot-06-8a54513f76be.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/8164a6d13df481a0cb3662c9f290d027aea70225/ss_8164a6d13df481a0cb3662c9f290d027aea70225.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "8164a6d13df481a0cb3662c9f290d027aea70225",
+          "sha256": "8a54513f76be3e645d0a572ce829937df17c1ce32937fa018da8a2b58092fbb1",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "西班牙文 · 截图06 · 战报",
+          "url": "assets/r99-spanish-shot-06-9814f30edd28.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/ce18e13701b6b54a898b613fc0072bfb229e5b26/ss_ce18e13701b6b54a898b613fc0072bfb229e5b26.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "ce18e13701b6b54a898b613fc0072bfb229e5b26",
+          "sha256": "9814f30edd28fbfced2d7290ddb2048e4e559b5b68249890d37ab7ed0b97b878",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "巴西葡萄牙文 · 截图06 · 战报",
+          "url": "assets/r99-brazilian-shot-06-ff90b0221576.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/e186aca78b0d9133f0f47b5f6c3406e7c525d140/ss_e186aca78b0d9133f0f47b5f6c3406e7c525d140.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "e186aca78b0d9133f0f47b5f6c3406e7c525d140",
+          "sha256": "ff90b0221576faa5426d9be8b25b6b7bdf031eb7340c479b4f81657b586c4671",
+          "updated": "2026-11-25"
+        },
+        {
+          "name": "俄文 · 截图06 · 战报",
+          "url": "assets/r99-russian-shot-06-5db7dc1b15ae.jpg",
+          "type": "image",
+          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/cf689fb1e16d7ee1a6e64d18b5730e881683a10a/ss_cf689fb1e16d7ee1a6e64d18b5730e881683a10a.1920x1080.jpg?t=1795608424",
+          "steamScreenshotSha1": "cf689fb1e16d7ee1a6e64d18b5730e881683a10a",
+          "sha256": "5db7dc1b15ae602fb200cd3256371c1919c6cdba7d99ace749dae6430bf66f2f",
+          "updated": "2026-11-25"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 简体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 繁体中文",
+          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 英文",
+          "url": "https://store.steampowered.com/app/4855890/?l=english",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 日文",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 韩文",
+          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 德文",
+          "url": "https://store.steampowered.com/app/4855890/?l=german",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 法文",
+          "url": "https://store.steampowered.com/app/4855890/?l=french",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 西班牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 巴西葡萄牙文",
+          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
+          "date": "2026-11-25",
+          "status": "已发布"
+        },
+        {
+          "platform": "Steam · 俄文",
+          "url": "https://store.steampowered.com/app/4855890/?l=russian",
+          "date": "2026-11-25",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261125/Codex_商店截图0406发布记录_1125.md",
+      "detailNote": "网页为压缩预览，完整截图见对应Steam商店页。"
+    },
+    {
       "id": "work-124",
       "title": "第十五期 · 开发版新改 · 六平台文案",
       "category": "文案",
@@ -19551,1295 +20992,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "steam-main-trailer",
-      "title": "Steam 主预告片 · v30",
-      "category": "宣传视频",
-      "date": "2026-11-11",
-      "dateBasis": "Steam 修订69主片 / 修订70精简片公开核对",
-      "summary": "63.37秒三语实机视频，补入装备开箱、揭晓和结果画面。",
-      "files": [
-        {
-          "name": "放置事务所_Steam主预告片_v30.mp4",
-          "url": "assets/v30-main-schinese-18969db3dc65.mp4",
-          "type": "video",
-          "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v30.mp4",
-          "sha256": "4266aaec0ef9cf31ec6416d1f32197d8bca9812f2faf90c17416d65f88d6d569",
-          "previewSha256": "18969db3dc6587994642133626bc0ee50444d9f8fb16b4eec874a74c8b5ee26a",
-          "updated": "2026-11-11"
-        },
-        {
-          "name": "英文版v30.mp4",
-          "url": "assets/v30-main-english-7a77a6b4a6fa.mp4",
-          "type": "video",
-          "source": "视频制作/steam/Steam主预告片/成片/英文版v30.mp4",
-          "sha256": "0b1d5f98f60c5d7d37ffd8bd2926c3653c6662b92755be804f376b61313acfd5",
-          "previewSha256": "7a77a6b4a6fa50aab9ba93a865b3c1156f071a44fe38874dba4db64c188fe795",
-          "updated": "2026-11-11"
-        },
-        {
-          "name": "繁中版v30.mp4",
-          "url": "assets/v30-main-tchinese-35309cf7ad01.mp4",
-          "type": "video",
-          "source": "视频制作/steam/Steam主预告片/成片/繁中版v30.mp4",
-          "sha256": "629d831ac9b3e8c8f63fc3f6760f87cab50cc5cfe1fa75407ed5cab8dc54c84b",
-          "previewSha256": "35309cf7ad012b428046d50a3a84fca6edb48e994f280d173f0664826b954f63",
-          "updated": "2026-11-11"
-        }
-      ],
-      "status": "已发布 · 十语实际公开页核对通过",
-      "body": "主预告片补入装备开箱的完整关键镜头。沿用已验收的年轻英雄选角与风暴血君雷电大招。简中、繁中各用对应成片，其他八种语言使用英文版。",
-      "source": "视频制作/steam/Steam主预告片/成片/放置事务所_Steam主预告片_v30.mp4",
-      "cover": "assets/v30-main-schinese-b63270ae2a5b.jpg",
-      "detailNote": "网页提供三语压缩预览；原始1080p60母片已验收。十语核对视频播放、截图及详情页动效。",
-      "duration": 63.373833,
-      "links": [
-        {
-          "platform": "Steam · schinese",
-          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
-          "date": "2026-11-11",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · tchinese",
-          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
-          "date": "2026-11-11",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · english",
-          "url": "https://store.steampowered.com/app/4855890/?l=english",
-          "date": "2026-11-11",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · japanese",
-          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
-          "date": "2026-11-11",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · koreana",
-          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
-          "date": "2026-11-11",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · german",
-          "url": "https://store.steampowered.com/app/4855890/?l=german",
-          "date": "2026-11-11",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · french",
-          "url": "https://store.steampowered.com/app/4855890/?l=french",
-          "date": "2026-11-11",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · spanish",
-          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
-          "date": "2026-11-11",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · brazilian",
-          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
-          "date": "2026-11-11",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · russian",
-          "url": "https://store.steampowered.com/app/4855890/?l=russian",
-          "date": "2026-11-11",
-          "status": "已发布"
-        }
-      ],
-      "group": "Steam 视频",
-      "sourceCommit": "5f8f701a5c9fa78262b32f2e10316be2e5b6a27f"
-    },
-    {
-      "id": "work-9",
-      "title": "19 秒 · 上架 Steam",
-      "category": "宣传视频",
-      "date": "2026-10-01",
-      "dateBasis": "制作记录",
-      "summary": "19 秒开场片头，实机快切与 Steam 商店展示。",
-      "files": [
-        {
-          "name": "简中横屏版_开场片头_上架Steam.mp4",
-          "url": "assets/268c0d96a409.mp4",
-          "type": "video",
-          "source": "视频制作/19秒小视频/成片/简中横屏版_开场片头_上架Steam.mp4",
-          "updated": "2026-10-01"
-        },
-        {
-          "name": "简中竖屏版_开场片头_上架Steam.mp4",
-          "url": "assets/47e3b70d60d5.mp4",
-          "type": "video",
-          "source": "视频制作/19秒小视频/成片/简中竖屏版_开场片头_上架Steam.mp4",
-          "updated": "2026-10-01"
-        },
-        {
-          "name": "英文横屏版_开场片头_上架Steam.mp4",
-          "url": "assets/6d62a3a6b00b.mp4",
-          "type": "video",
-          "source": "视频制作/19秒小视频/成片/英文横屏版_开场片头_上架Steam.mp4",
-          "updated": "2026-10-01"
-        }
-      ],
-      "status": "成片已归档",
-      "body": "",
-      "source": "视频制作/19秒小视频/成片/简中横屏版_开场片头_上架Steam.mp4",
-      "cover": "assets/e5c98050ec5f.jpg",
-      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
-      "duration": 18.627125,
-      "links": [],
-      "group": "平台视频"
-    },
-    {
-      "id": "work-10",
-      "title": "转场 01 · 英雄图鉴滑屏",
-      "category": "宣传视频",
-      "date": "2026-10-01",
-      "dateBasis": "制作记录",
-      "summary": "英雄图鉴滑屏与音乐卡点的短视频试剪。",
-      "files": [
-        {
-          "name": "简中横屏版_英雄图鉴滑屏_试剪.mp4",
-          "url": "assets/96b4f94529e9.mp4",
-          "type": "video",
-          "source": "视频制作/转场1/成片/简中横屏版_英雄图鉴滑屏_试剪.mp4",
-          "updated": "2026-10-06"
-        },
-        {
-          "name": "简中竖屏版_英雄图鉴滑屏_试剪.mp4",
-          "url": "assets/1eb337f5b2e2.mp4",
-          "type": "video",
-          "source": "视频制作/转场1/成片/简中竖屏版_英雄图鉴滑屏_试剪.mp4",
-          "updated": "2026-10-06"
-        }
-      ],
-      "status": "已公开 · B站 / 抖音 / 小红书",
-      "body": "",
-      "source": "视频制作/转场1/成片/简中横屏版_英雄图鉴滑屏_试剪.mp4",
-      "cover": "assets/7c04f57d5bde-poster.jpg",
-      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
-      "duration": 34.033333,
-      "links": [
-        {
-          "platform": "B站",
-          "url": "https://www.bilibili.com/video/BV1njaB6ZEax",
-          "date": "2026-10-01",
-          "status": "已公开",
-          "source": "2026-10-13 账号作品列表现场核对"
-        },
-        {
-          "platform": "抖音",
-          "url": "https://www.douyin.com/video/7691645419733929242",
-          "date": "2026-10-01",
-          "status": "已公开",
-          "source": "2026-10-13 账号作品列表现场核对"
-        },
-        {
-          "platform": "小红书",
-          "url": "https://www.xiaohongshu.com/explore/6abe36c1000000001a02b970?xsec_token=ABM3TAFkWFy8roBbDLlAsrsqF9U-p24YSzHEiiDJss4NU=&xsec_source=pc_user",
-          "date": "2026-10-01",
-          "status": "已公开",
-          "source": "2026-10-13 账号公开作品页及创作中心核对"
-        }
-      ],
-      "group": "转场视频"
-    },
-    {
-      "id": "work-11",
-      "title": "转场 02 · 英雄名牌卡点",
-      "category": "宣传视频",
-      "date": "2026-10-02",
-      "dateBasis": "制作记录",
-      "summary": "英雄名牌、红黑字卡与重拍切换的短视频试剪。",
-      "files": [
-        {
-          "name": "简中横屏版_英雄名牌卡点_试剪.mp4",
-          "url": "assets/3a168b16af74.mp4",
-          "type": "video",
-          "source": "视频制作/转场2/成片/简中横屏版_英雄名牌卡点_试剪.mp4",
-          "updated": "2026-10-02"
-        },
-        {
-          "name": "简中竖屏版_英雄名牌卡点_试剪.mp4",
-          "url": "assets/219878183d0a.mp4",
-          "type": "video",
-          "source": "视频制作/转场2/成片/简中竖屏版_英雄名牌卡点_试剪.mp4",
-          "updated": "2026-10-02"
-        },
-        {
-          "name": "英文横屏版_英雄名牌卡点_试剪.mp4",
-          "url": "assets/fdce24f07c8e.mp4",
-          "type": "video",
-          "source": "视频制作/转场2/成片/英文横屏版_英雄名牌卡点_试剪.mp4",
-          "updated": "2026-10-02"
-        }
-      ],
-      "status": "已公开 · B站 / 抖音 / 小红书",
-      "body": "",
-      "source": "视频制作/转场2/成片/简中横屏版_英雄名牌卡点_试剪.mp4",
-      "cover": "assets/ebccc4ff633c-poster.jpg",
-      "detailNote": "网页提供压缩预览版；原始高码率成片保留在项目目录。归档状态不代表平台发布状态。",
-      "duration": 22.4,
-      "links": [
-        {
-          "platform": "B站",
-          "url": "https://www.bilibili.com/video/BV1w4HW6bEWq",
-          "date": "2026-10-05",
-          "status": "已公开",
-          "source": "2026-10-13 账号作品列表现场核对"
-        },
-        {
-          "platform": "抖音",
-          "url": "https://www.douyin.com/video/7693122508135992611",
-          "date": "2026-10-05",
-          "status": "已公开",
-          "source": "2026-10-13 账号作品列表现场核对"
-        },
-        {
-          "platform": "小红书",
-          "url": "https://www.xiaohongshu.com/user/profile/69b258e9000000003402db68/6ac375e5000000001500ad21?xsec_token=ABNDQ2AJ5shfL9omCQs-5pQMNom2CvSStOB5YI8MwMzs4=&xsec_source=pc_user",
-          "date": "2026-10-05",
-          "status": "已公开",
-          "source": "2026-10-13 账号公开作品页及创作中心核对"
-        }
-      ],
-      "group": "转场视频"
-    },
-    {
-      "id": "steam-704410099752371038-covers",
-      "title": "Demo v5 更新公告 · 听劝更新封面",
-      "category": "封面与视觉",
-      "group": "封面",
-      "date": "2026-11-05",
-      "dateBasis": "发布日期",
-      "summary": "新 Q 版英雄插画 · 简中、英文两版；中文两语用简中封面，其他八语用英文封面。",
-      "status": "已发布 · 十语",
-      "files": [
-        {
-          "name": "简体中文 / 繁體中文 · 听劝更新封面",
-          "url": "assets/steam-704410099752371038-cover-schinese.png",
-          "type": "image",
-          "source": "output/steam-demo-v5-announcement-20261105/封面/12_读玩家来信_schinese.png"
-        },
-        {
-          "name": "English / 其他七语 · 听劝更新封面",
-          "url": "assets/steam-704410099752371038-cover-english.png",
-          "type": "image",
-          "source": "output/steam-demo-v5-announcement-20261105/封面/12_读玩家来信_english.png"
-        }
-      ],
-      "cover": "assets/steam-704410099752371038-cover-schinese.png",
-      "source": "output/steam-demo-v5-announcement-20261105/封面",
-      "links": [
-        {
-          "platform": "Steam 公告原文",
-          "url": "https://store.steampowered.com/news/app/4855890/view/704410099752371038?l=schinese",
-          "date": "2026-11-05",
-          "status": "已发布"
-        }
-      ]
-    },
-    {
-      "id": "steam-704410368784466107-covers",
-      "title": "Demo v8 更新公告 · 12月3日正式版上线封面",
-      "category": "封面与视觉",
-      "group": "公告封面",
-      "date": "2026-11-09",
-      "dateBasis": "发布日期",
-      "summary": "第15张Q版英雄插画「打雪仗」；上线日期直接写在放大的木牌上。中文两语用简中图，其他八语用英文图。",
-      "status": "已发布 · 十语",
-      "files": [
-        {
-          "name": "简体中文 / 繁體中文 · 12月3日正式版上线封面",
-          "url": "assets/steam-704410368784466107-cover-schinese.png",
-          "type": "image",
-          "source": "output/steam-demo-v8-announcement-20261108/release-date-revision/wood-sign/15_打雪仗_schinese.png"
-        },
-        {
-          "name": "English / 其他七语 · 12月3日正式版上线封面",
-          "url": "assets/steam-704410368784466107-cover-english.png",
-          "type": "image",
-          "source": "output/steam-demo-v8-announcement-20261108/release-date-revision/wood-sign/15_打雪仗_english.png"
-        }
-      ],
-      "cover": "assets/steam-704410368784466107-cover-schinese.png",
-      "source": "output/steam-demo-v8-announcement-20261108/release-date-revision/wood-sign",
-      "links": [
-        {
-          "platform": "Steam 公告原文",
-          "url": "https://store.steampowered.com/news/app/4855890/view/704410368784466107?l=schinese",
-          "date": "2026-11-09",
-          "status": "已发布"
-        }
-      ]
-    },
-    {
-      "id": "steam-696529526775087164-covers",
-      "title": "离线收益新闻 · 12月3日正式版上线封面",
-      "category": "封面与视觉",
-      "group": "公告封面",
-      "date": "2026-11-12",
-      "dateBasis": "发布日期",
-      "summary": "第16张Q版英雄插画「摘苹果」；左下两行大字标注上线日期。中文两语用简中图，其他八语用英文图。",
-      "status": "已发布 · 十语",
-      "files": [
-        {
-          "name": "简体中文 / 繁體中文 · 12月3日正式版上线封面",
-          "url": "assets/steam-696529526775087164-cover-schinese.png",
-          "type": "image",
-          "source": "output/steam-news-20261112/cover-date-revision-v5/16_摘苹果_两行v5_schinese.png"
-        },
-        {
-          "name": "English / 其他七语 · 12月3日正式版上线封面",
-          "url": "assets/steam-696529526775087164-cover-english.png",
-          "type": "image",
-          "source": "output/steam-news-20261112/cover-date-revision-v5/16_摘苹果_两行v5_english.png"
-        }
-      ],
-      "cover": "assets/steam-696529526775087164-cover-schinese.png",
-      "source": "output/steam-news-20261112/cover-date-revision-v5",
-      "links": [
-        {
-          "platform": "Steam 新闻原文",
-          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775087164?l=schinese",
-          "date": "2026-11-12",
-          "status": "已发布"
-        }
-      ]
-    },
-    {
-      "id": "steam-696529526775088431-covers",
-      "title": "英雄与阵容新闻 · 两版公告封面",
-      "category": "封面与视觉",
-      "group": "公告封面",
-      "date": "2026-11-17",
-      "dateBasis": "发布日期",
-      "summary": "Q版英雄装饰圣诞树；简中、繁中用中文封面，其他八语用英文封面。",
-      "status": "已发布 · 十语",
-      "files": [
-        {
-          "name": "简中／繁中 · 公告封面",
-          "url": "assets/steam-696529526775088431-cover-schinese.png",
-          "type": "image",
-          "source": "output/steam-news-20261115/v8/publication/artwork/header_schinese.png",
-          "sha256": "4537f5f8c1c7901958411a7fdad6ae6f28e3269afdc9a13452bc3267b42c0dc1"
-        },
-        {
-          "name": "其他八语 · 公告封面",
-          "url": "assets/steam-696529526775088431-cover-english.png",
-          "type": "image",
-          "source": "output/steam-news-20261115/v8/publication/artwork/header_english.png",
-          "sha256": "b6b15a7d1c3b47fcf57fd052054a66c34f2bbb0ea4c8c31e6ded8a12add06ec5"
-        }
-      ],
-      "cover": "assets/steam-696529526775088431-cover-schinese.png",
-      "source": "output/steam-news-20261115/封面",
-      "links": [
-        {
-          "platform": "Steam 公告原文",
-          "url": "https://store.steampowered.com/news/app/4855890/view/696529526775088431?l=schinese",
-          "date": "2026-11-17",
-          "status": "已发布"
-        }
-      ]
-    },
-    {
-      "id": "steam-store-gif-updates-20261125-r98",
-      "title": "Steam 详情页动图 · 修订98（第01节三语）",
-      "category": "封面与视觉",
-      "group": "详情页图片",
-      "date": "2026-11-25",
-      "dateBasis": "Steamworks 修订98 发布（pubresult=success）、Codex专用 十语公开页核对（11-25 17:12）及 11-25 匿名十语商店接口核对",
-      "status": "已发布 · 十语",
-      "summary": "详情页第01节战斗大招动图换成简中、繁中、英文三语新版，其他七语共用英文版。",
-      "body": "商店修订98（11-25）把详情页第01节的战斗大招动图换成新录的三语版本：简中、繁中各用本语界面，英文版供英、日、韩、德、法、西、巴葡、俄八语共用；名牌都是本语言，6 秒、60 帧。旧的第01节动图（f47d6fb6 及繁中 d2f 版 9d78a7ca）已从十语页面撤下。11-25 匿名读取十语商店接口：简中引用 b74a6ad1、繁中 02306e92、其余八语 8a88be22，旧图都不在了；Codex专用 核对过十语都排在第二个媒体位，三支公开文件与发布前核过的逐个相同；对话管理在浏览器里看过简繁英三语都在播放。动图以 Steam 公开地址引用，网页不另存副本。",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/b74a6ad151762fee9c4cd3bef943206d.poster.avif?t=1795597681",
-      "files": [
-        {
-          "name": "简体中文 · 战斗大招（01节）",
-          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/b74a6ad151762fee9c4cd3bef943206d.mp4?t=1795597681",
-          "type": "video",
-          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/b74a6ad151762fee9c4cd3bef943206d.poster.avif?t=1795597681",
-          "sourceGifSha256": "171a5607df57cb899700e0c4cc2e407967e6a4f1de59dc73995b2a495c76e46e"
-        },
-        {
-          "name": "繁体中文 · 战斗大招（01节，v2）",
-          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/02306e922844f9614c877c9c716e98e0.mp4?t=1795597681",
-          "type": "video",
-          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/02306e922844f9614c877c9c716e98e0.poster.avif?t=1795597681",
-          "sourceGifSha256": "f0ce8bfe13f0a919c107d321ec3af1f799f7d5eebe9911dc8f5e25be07ecf4cd"
-        },
-        {
-          "name": "英文 · 战斗大招（01节，其他七语共用）",
-          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/8a88be220972c7a184b3b7c03df89c75.mp4?t=1795597681",
-          "type": "video",
-          "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/8a88be220972c7a184b3b7c03df89c75.poster.avif?t=1795597681",
-          "sourceGifSha256": "a229899c630b93398fe9acd1544c74d19167eb475e5e15b36de057bcf4b382b6"
-        }
-      ],
-      "links": [
-        {
-          "platform": "Steam · 简体中文",
-          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 繁体中文",
-          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 英文",
-          "url": "https://store.steampowered.com/app/4855890/?l=english",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 日文",
-          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 韩文",
-          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 德文",
-          "url": "https://store.steampowered.com/app/4855890/?l=german",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 法文",
-          "url": "https://store.steampowered.com/app/4855890/?l=french",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 西班牙文",
-          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 巴西葡萄牙文",
-          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 俄文",
-          "url": "https://store.steampowered.com/app/4855890/?l=russian",
-          "date": "2026-11-25",
-          "status": "已发布"
-        }
-      ],
-      "source": "output/steam-store-auto-sync/daily-20261125/CC_第01节三语发布后十语公开页核对_1125.md"
-    },
-    {
-      "id": "steam-store-screenshots-20261125-r97",
-      "title": "Steam 商店截图 · 第4批34张（修订97）",
-      "category": "封面与视觉",
-      "group": "宣传图",
-      "date": "2026-11-25",
-      "dateBasis": "Steam修订97发布（11-25，第4批）、steam 十语公开页独立复核（6205475c）及11-25匿名十语商店接口核对",
-      "status": "已发布 · 34张",
-      "summary": "商店修订97换了第4批34张本语截图：十语第1张战斗大招、第7张开宝箱，七语第2张要塞、七语第3张编队布阵。",
-      "body": "商店修订97（11-25）换了第4批34张商店截图，均为本语实机界面，1920×1080：十种语言的第1张（战斗大招）和第7张（开宝箱）；简中、繁中、英、德、法、西、巴葡的第2张（要塞）；英、韩、德、法、西、巴葡、俄的第3张（编队布阵）。日文、韩文、俄文的第2张和日文的第3张保留原图。steam 独立复核十语公开页：34格新图与本地待传文件逐张比PSNR 40.2–46.9 dB，没有放错语言。11-25匿名读取十语商店接口，34张都在对应位置；34张逐张看过，界面语言与所在语言页一致。本条在修订99同步时补录。网页为1600宽压缩预览，原图见对应Steam商店页。（修订101已把简繁英韩德法西葡俄九语第3张编队布阵换成新版，见 steam-store-screenshots-20261125-r101。）",
-      "cover": "assets/r97-schinese-shot-01-dff8afbe35e1.jpg",
-      "files": [
-        {
-          "name": "简体中文 · 截图01 · 战斗大招",
-          "url": "assets/r97-schinese-shot-01-dff8afbe35e1.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/7430df52001787a30ec1a80f0f5bc0371a25ee3f/ss_7430df52001787a30ec1a80f0f5bc0371a25ee3f.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "7430df52001787a30ec1a80f0f5bc0371a25ee3f",
-          "sha256": "dff8afbe35e1756b9fc691f9f8ca0293bd4a38cf303505a968c434a1c6a165d8",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "繁体中文 · 截图01 · 战斗大招",
-          "url": "assets/r97-tchinese-shot-01-9127e331e1cd.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/6e90f8a0fa63a0382a3751c396bca5498c427ecb/ss_6e90f8a0fa63a0382a3751c396bca5498c427ecb.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "6e90f8a0fa63a0382a3751c396bca5498c427ecb",
-          "sha256": "9127e331e1cd6c7e849c5800139c92ea7017e027e5a9e6886ed4b2e35d12bbab",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "英文 · 截图01 · 战斗大招",
-          "url": "assets/r97-english-shot-01-af28c4908dee.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f3493fb979557510f5c92d290d063cce57c7c3e6/ss_f3493fb979557510f5c92d290d063cce57c7c3e6.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "f3493fb979557510f5c92d290d063cce57c7c3e6",
-          "sha256": "af28c4908deebb13881b4f4f531647c85db9804e78c563169e29a3d9d3116ada",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "日文 · 截图01 · 战斗大招",
-          "url": "assets/r97-japanese-shot-01-85fb0623ceed.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/e37638a2c0d42e218f6561ad7a9b2a0f576ab1c2/ss_e37638a2c0d42e218f6561ad7a9b2a0f576ab1c2.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "e37638a2c0d42e218f6561ad7a9b2a0f576ab1c2",
-          "sha256": "85fb0623ceed01d102a2b20e889690b372849dc0857280c72171cf922c2728cc",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "韩文 · 截图01 · 战斗大招",
-          "url": "assets/r97-koreana-shot-01-3998c74d6908.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/aec6b54116101e307918c6faaf52b882d66b9d55/ss_aec6b54116101e307918c6faaf52b882d66b9d55.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "aec6b54116101e307918c6faaf52b882d66b9d55",
-          "sha256": "3998c74d690817867a6f2e8a3a32c9d0cde6612d76ef1793890ab067979630dc",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "德文 · 截图01 · 战斗大招",
-          "url": "assets/r97-german-shot-01-c7c7d3fe0ea5.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4c3b16eadcbcd78d2825c9157b3505495cba8a30/ss_4c3b16eadcbcd78d2825c9157b3505495cba8a30.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "4c3b16eadcbcd78d2825c9157b3505495cba8a30",
-          "sha256": "c7c7d3fe0ea50e9e1828ecfd9b9f68cedc969e60f3eab245de8211b02f0bff43",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "法文 · 截图01 · 战斗大招",
-          "url": "assets/r97-french-shot-01-6664128ac845.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/8f302621485ec03fba70347d5f9fcb7c867c5be8/ss_8f302621485ec03fba70347d5f9fcb7c867c5be8.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "8f302621485ec03fba70347d5f9fcb7c867c5be8",
-          "sha256": "6664128ac845b2672b04adf96cdb942512254b6ca7a7a9c7bf891a948a57f928",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "西班牙文 · 截图01 · 战斗大招",
-          "url": "assets/r97-spanish-shot-01-6a8357345180.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/8423d0d4b580747588234283b8636477a3a6b44b/ss_8423d0d4b580747588234283b8636477a3a6b44b.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "8423d0d4b580747588234283b8636477a3a6b44b",
-          "sha256": "6a83573451802cbcee1f8f4a326c01da0550e8d2210d4aa007f30d1bc7a2dcc4",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "巴西葡萄牙文 · 截图01 · 战斗大招",
-          "url": "assets/r97-brazilian-shot-01-a6f34ec40a58.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/b22c2ae6fb64b2b6691371ce833dda1916a1931c/ss_b22c2ae6fb64b2b6691371ce833dda1916a1931c.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "b22c2ae6fb64b2b6691371ce833dda1916a1931c",
-          "sha256": "a6f34ec40a5893ed2112221ef8d8a6dd2b69e3c61ea9250691e06c781a9ed96d",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "俄文 · 截图01 · 战斗大招",
-          "url": "assets/r97-russian-shot-01-a2f84a7c932a.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/8f2ee3b05591e1ff57ce5f166438e7da3e1e56d0/ss_8f2ee3b05591e1ff57ce5f166438e7da3e1e56d0.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "8f2ee3b05591e1ff57ce5f166438e7da3e1e56d0",
-          "sha256": "a2f84a7c932a3db92cf9be896da9005e3e32161f38b713d62ad793e87fb3bb08",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "简体中文 · 截图02 · 要塞",
-          "url": "assets/r97-schinese-shot-02-4500421bd9e9.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4e7d8a56bd61c68fb47aea9063d5aa18f9851455/ss_4e7d8a56bd61c68fb47aea9063d5aa18f9851455.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "4e7d8a56bd61c68fb47aea9063d5aa18f9851455",
-          "sha256": "4500421bd9e946c4d7a3f74aeed65a6d8a0cd1cb4b6e62f1a94f868ace3ef60f",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "繁体中文 · 截图02 · 要塞",
-          "url": "assets/r97-tchinese-shot-02-9acbc4a260c4.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9f4b637a4f3a8ff14a19da97450daa342a1ce8fe/ss_9f4b637a4f3a8ff14a19da97450daa342a1ce8fe.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "9f4b637a4f3a8ff14a19da97450daa342a1ce8fe",
-          "sha256": "9acbc4a260c4b65faf0a123009e887b6d7686a0e5efcb90daa69c6025424758d",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "英文 · 截图02 · 要塞",
-          "url": "assets/r97-english-shot-02-fcedf14ea759.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/054d55e0507e1a76c5ab8079eaf6c8472a813773/ss_054d55e0507e1a76c5ab8079eaf6c8472a813773.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "054d55e0507e1a76c5ab8079eaf6c8472a813773",
-          "sha256": "fcedf14ea759c2067f048aa9c9e99f41d905e23b2ba6dd4f8c3baffe6d3da481",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "德文 · 截图02 · 要塞",
-          "url": "assets/r97-german-shot-02-01381d4f35df.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/e35eaf84e152a906a053e693f7c3b9e6889579a1/ss_e35eaf84e152a906a053e693f7c3b9e6889579a1.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "e35eaf84e152a906a053e693f7c3b9e6889579a1",
-          "sha256": "01381d4f35df9dc9c617bbdbd97a571ba28f2f98700c23d604ab7d8a5078befe",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "法文 · 截图02 · 要塞",
-          "url": "assets/r97-french-shot-02-718ba1b05c50.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/c767a76316dcf40bcdc88cd8beff09bd158e147f/ss_c767a76316dcf40bcdc88cd8beff09bd158e147f.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "c767a76316dcf40bcdc88cd8beff09bd158e147f",
-          "sha256": "718ba1b05c50d936358b16a287de559d71bdd6dbc15c33cbf803035c9cfb09f5",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "西班牙文 · 截图02 · 要塞",
-          "url": "assets/r97-spanish-shot-02-28b24abda316.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/339f7d883bc8a43d1e2b31f9822688600bd73aeb/ss_339f7d883bc8a43d1e2b31f9822688600bd73aeb.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "339f7d883bc8a43d1e2b31f9822688600bd73aeb",
-          "sha256": "28b24abda31665a04416c9d84bebf1c0d68f317040ef09ad701ad81b6fbe72d8",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "巴西葡萄牙文 · 截图02 · 要塞",
-          "url": "assets/r97-brazilian-shot-02-da0dbda8f1c1.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/527f8adea5dbd938f4251733989386075c8abfe2/ss_527f8adea5dbd938f4251733989386075c8abfe2.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "527f8adea5dbd938f4251733989386075c8abfe2",
-          "sha256": "da0dbda8f1c1e49c9c97fc2ef000dfcd1d99dd81da38040d70352db840efa824",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "英文 · 截图03 · 编队布阵",
-          "url": "assets/r97-english-shot-03-d1eea2316dc9.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/68d0f94f9b74e3ed7996294766bf5b27cb258dc4/ss_68d0f94f9b74e3ed7996294766bf5b27cb258dc4.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "68d0f94f9b74e3ed7996294766bf5b27cb258dc4",
-          "sha256": "d1eea2316dc9d17c1b17a734bfa76a025583c86b691258ff3697b8a1fa93ff82",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "韩文 · 截图03 · 编队布阵",
-          "url": "assets/r97-koreana-shot-03-568461ede3c5.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4e62ebaa71044c979b8d98d1f69bf8d16d4d5e78/ss_4e62ebaa71044c979b8d98d1f69bf8d16d4d5e78.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "4e62ebaa71044c979b8d98d1f69bf8d16d4d5e78",
-          "sha256": "568461ede3c586ec34e9de08b6b9c0cbf2bbadd76e63e865707beb2939125b0d",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "德文 · 截图03 · 编队布阵",
-          "url": "assets/r97-german-shot-03-6f815817fe6b.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/e314ab3c093ea6d7eb6ff7653f480d70c0978987/ss_e314ab3c093ea6d7eb6ff7653f480d70c0978987.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "e314ab3c093ea6d7eb6ff7653f480d70c0978987",
-          "sha256": "6f815817fe6bed00f1aad2b86654e68b9f34a4b0452dc472d9b3fad311c4a434",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "法文 · 截图03 · 编队布阵",
-          "url": "assets/r97-french-shot-03-baedc3e7061f.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/1252153d6767abf00c0b3023f421c1152948c9aa/ss_1252153d6767abf00c0b3023f421c1152948c9aa.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "1252153d6767abf00c0b3023f421c1152948c9aa",
-          "sha256": "baedc3e7061f3c3fce90a378612aa283970d55eeed0d5dee920c279ed57a1aab",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "西班牙文 · 截图03 · 编队布阵",
-          "url": "assets/r97-spanish-shot-03-eb7412cc7106.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/64119c16c3ed4ea6799b7eda5b7dbaa14439158f/ss_64119c16c3ed4ea6799b7eda5b7dbaa14439158f.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "64119c16c3ed4ea6799b7eda5b7dbaa14439158f",
-          "sha256": "eb7412cc7106fdb01818a851c21ca247c1ce2209043be3ec32de158de8639352",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "巴西葡萄牙文 · 截图03 · 编队布阵",
-          "url": "assets/r97-brazilian-shot-03-516e46fb587f.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/2d67741d9e44fd50f0e46ad91c342f6d22a874f9/ss_2d67741d9e44fd50f0e46ad91c342f6d22a874f9.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "2d67741d9e44fd50f0e46ad91c342f6d22a874f9",
-          "sha256": "516e46fb587fd96862e1e9d7d6ab5fdd79db4107aa441e82a8679b8487a8deb3",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "俄文 · 截图03 · 编队布阵",
-          "url": "assets/r97-russian-shot-03-89fd0339eba6.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/ffe25912490c322a3924a9a88f88d961e8023da7/ss_ffe25912490c322a3924a9a88f88d961e8023da7.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "ffe25912490c322a3924a9a88f88d961e8023da7",
-          "sha256": "89fd0339eba6fce3b08223c8cf4057b8483b7321071680ae7ab48896d588a2ee",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "简体中文 · 截图07 · 开宝箱",
-          "url": "assets/r97-schinese-shot-07-b28d3d5f7dfe.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/caf6c3f26f1df06735ed5f5cff96ca4f7d27e9bc/ss_caf6c3f26f1df06735ed5f5cff96ca4f7d27e9bc.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "caf6c3f26f1df06735ed5f5cff96ca4f7d27e9bc",
-          "sha256": "b28d3d5f7dfe1c3a021ade65698e96e3af68f52cf805e78fc052ec8faece41db",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "繁体中文 · 截图07 · 开宝箱",
-          "url": "assets/r97-tchinese-shot-07-920092ebd34c.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/2c9b258ac2dbab50f424bc32dd615dbf1bbe6725/ss_2c9b258ac2dbab50f424bc32dd615dbf1bbe6725.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "2c9b258ac2dbab50f424bc32dd615dbf1bbe6725",
-          "sha256": "920092ebd34c38f09914224c4063de7e017a638faac20e6df0ca0b88920f47af",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "英文 · 截图07 · 开宝箱",
-          "url": "assets/r97-english-shot-07-416d56cf41b2.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/db26425d8bff651cff752e2caa7cd1cda714063f/ss_db26425d8bff651cff752e2caa7cd1cda714063f.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "db26425d8bff651cff752e2caa7cd1cda714063f",
-          "sha256": "416d56cf41b2d64030c5611992393436c5472625a695e01779d8109b25c02985",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "日文 · 截图07 · 开宝箱",
-          "url": "assets/r97-japanese-shot-07-eb4a62c6e99d.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/cc3a5f9aa9e15eeb21957a18f02b8ab0774b623f/ss_cc3a5f9aa9e15eeb21957a18f02b8ab0774b623f.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "cc3a5f9aa9e15eeb21957a18f02b8ab0774b623f",
-          "sha256": "eb4a62c6e99db6fca8a4c6c2f7a7b3711e9ae7d2323c0f2974c86badda1a8511",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "韩文 · 截图07 · 开宝箱",
-          "url": "assets/r97-koreana-shot-07-140cade17c53.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/29f7b4250c894cba7e803bb86d6ab6e90145474c/ss_29f7b4250c894cba7e803bb86d6ab6e90145474c.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "29f7b4250c894cba7e803bb86d6ab6e90145474c",
-          "sha256": "140cade17c531f59eda43fb0f497e1bfa58c2072367e33747df8d96b2fbed4ef",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "德文 · 截图07 · 开宝箱",
-          "url": "assets/r97-german-shot-07-36069e8aaa81.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/e0cf54b3868a7b0b672a842112b1b10143081ad3/ss_e0cf54b3868a7b0b672a842112b1b10143081ad3.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "e0cf54b3868a7b0b672a842112b1b10143081ad3",
-          "sha256": "36069e8aaa81f48aa736b9b3e696bb38b3299b1a3cc5db9ba74b49b0ebd8a094",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "法文 · 截图07 · 开宝箱",
-          "url": "assets/r97-french-shot-07-6c8172095a44.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/3957a45f4fadee92102a0dbca7bfcb00340f6414/ss_3957a45f4fadee92102a0dbca7bfcb00340f6414.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "3957a45f4fadee92102a0dbca7bfcb00340f6414",
-          "sha256": "6c8172095a44a688eb8c1341c8b2d91bbeedd2305f9bc75066378fa82833ba31",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "西班牙文 · 截图07 · 开宝箱",
-          "url": "assets/r97-spanish-shot-07-05cc3fbd27bd.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f4ee038970f847a7544f93f30173eb8d3a55756c/ss_f4ee038970f847a7544f93f30173eb8d3a55756c.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "f4ee038970f847a7544f93f30173eb8d3a55756c",
-          "sha256": "05cc3fbd27bdf380e436953ee47de7310d1a849f60d9b365e8b5baf9691885ac",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "巴西葡萄牙文 · 截图07 · 开宝箱",
-          "url": "assets/r97-brazilian-shot-07-f60805e5b723.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f645a17201095c89c405d821df7660887a5c54d0/ss_f645a17201095c89c405d821df7660887a5c54d0.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "f645a17201095c89c405d821df7660887a5c54d0",
-          "sha256": "f60805e5b723dd50312e940a6a8e246500c435fef974f928d81bd54f4dce7344",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "俄文 · 截图07 · 开宝箱",
-          "url": "assets/r97-russian-shot-07-4c5be117b61b.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f0aeb3c5bfd80381c1b7c37a63e5e11b8f196b4b/ss_f0aeb3c5bfd80381c1b7c37a63e5e11b8f196b4b.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "f0aeb3c5bfd80381c1b7c37a63e5e11b8f196b4b",
-          "sha256": "4c5be117b61b40e8574c78e8a65d7f81ea90c20222091c215e9b1539a46dd974",
-          "updated": "2026-11-25"
-        }
-      ],
-      "links": [
-        {
-          "platform": "Steam · 简体中文",
-          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 繁体中文",
-          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 英文",
-          "url": "https://store.steampowered.com/app/4855890/?l=english",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 日文",
-          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 韩文",
-          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 德文",
-          "url": "https://store.steampowered.com/app/4855890/?l=german",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 法文",
-          "url": "https://store.steampowered.com/app/4855890/?l=french",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 西班牙文",
-          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 巴西葡萄牙文",
-          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 俄文",
-          "url": "https://store.steampowered.com/app/4855890/?l=russian",
-          "date": "2026-11-25",
-          "status": "已发布"
-        }
-      ],
-      "source": "output/steam-store-auto-sync/daily-20261125/steam_r97与Demo_r26公开页独立复核/steam_r97与Demo_r26公开页独立复核_1125.md",
-      "detailNote": "网页为压缩预览，完整截图见对应Steam商店页。"
-    },
-    {
-      "id": "steam-store-screenshots-20261125-r99",
-      "title": "Steam 商店截图 · 技能页与战报19张（修订99）",
-      "category": "封面与视觉",
-      "group": "宣传图",
-      "date": "2026-11-25",
-      "dateBasis": "Steamworks修订99发布（pubresult=success）、Codex专用与steam十语公开页核对（c437b448、469dbf42）及11-25匿名十语商店接口核对",
-      "status": "已发布 · 19张 · 已核",
-      "summary": "商店修订99按开发版004999b4新录：十语第4张英雄技能页，简繁日韩德法西葡俄第6张战报，共19张。",
-      "body": "商店修订99（11-25）换了19张商店截图：十种语言的第4张英雄技能页（凯歌天后，按开发版main 004999b4新录），包括之前因文字溢出保留旧图的日、法、西、巴葡；简中、繁中、日、韩的第6张战报为004999b4新录，德、法、西、巴葡、俄的第6张战报用已验收的9a8版；英文第6张未动。11-25匿名读取十语商店接口：19张都在对应位置，其余71张与修订97后一致；19张逐张看过，界面语言与所在语言页一致。Codex专用（c437b448）和 steam（469dbf42）各自独立核对十语公开页，都通过：19张新图都上了、语言都对，英文第6张和其他位置没动。网页为1600宽压缩预览，原图见对应Steam商店页。",
-      "cover": "assets/r99-schinese-shot-04-c649f316d6e0.jpg",
-      "files": [
-        {
-          "name": "简体中文 · 截图04 · 英雄技能",
-          "url": "assets/r99-schinese-shot-04-c649f316d6e0.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/804550c26c35da0f3944b2787460ad59ba3f40ab/ss_804550c26c35da0f3944b2787460ad59ba3f40ab.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "804550c26c35da0f3944b2787460ad59ba3f40ab",
-          "sha256": "c649f316d6e0f96be9d30aace32d06b8ca2229726aa5453196d3b2f6e210a94b",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "繁体中文 · 截图04 · 英雄技能",
-          "url": "assets/r99-tchinese-shot-04-f98e69b95322.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/acab6de9d12c37c55b5460a288079d8295712919/ss_acab6de9d12c37c55b5460a288079d8295712919.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "acab6de9d12c37c55b5460a288079d8295712919",
-          "sha256": "f98e69b95322af7a804d95873fadc09855648c819d805899b2f0b632b08b379b",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "英文 · 截图04 · 英雄技能",
-          "url": "assets/r99-english-shot-04-1a665a4779dc.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9e2f3ba44dfbfd3d1e52c2d60d848479d2a9ecaf/ss_9e2f3ba44dfbfd3d1e52c2d60d848479d2a9ecaf.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "9e2f3ba44dfbfd3d1e52c2d60d848479d2a9ecaf",
-          "sha256": "1a665a4779dc48b60465a3ce68f3c7f4bc960f4c247186485a2bd9206bba98b7",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "日文 · 截图04 · 英雄技能",
-          "url": "assets/r99-japanese-shot-04-d44a2eb7692f.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/b954a6a79d9ea3b7232654be305079268e5f6669/ss_b954a6a79d9ea3b7232654be305079268e5f6669.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "b954a6a79d9ea3b7232654be305079268e5f6669",
-          "sha256": "d44a2eb7692f55642f77149040aba6febab9a7194902eaf8d91d799660ded0f2",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "韩文 · 截图04 · 英雄技能",
-          "url": "assets/r99-koreana-shot-04-f3a5092e976e.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/ac124a111e1e5044dd94e0d5c7004782eb3b2cb4/ss_ac124a111e1e5044dd94e0d5c7004782eb3b2cb4.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "ac124a111e1e5044dd94e0d5c7004782eb3b2cb4",
-          "sha256": "f3a5092e976e47ce6cdbc5c2cd084da5cb179abe4c9c16d647ae9609b655838a",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "德文 · 截图04 · 英雄技能",
-          "url": "assets/r99-german-shot-04-aa23f3aaa61d.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9ebd297d7371cf54762b7b4cde04b15109177a2e/ss_9ebd297d7371cf54762b7b4cde04b15109177a2e.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "9ebd297d7371cf54762b7b4cde04b15109177a2e",
-          "sha256": "aa23f3aaa61d9977c49d7fb1d5252459bdcf18bdd73b0af96d7f416f907c9436",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "法文 · 截图04 · 英雄技能",
-          "url": "assets/r99-french-shot-04-60f070064471.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/399fb66dd9219034c3299143c762cc5a062bd1d1/ss_399fb66dd9219034c3299143c762cc5a062bd1d1.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "399fb66dd9219034c3299143c762cc5a062bd1d1",
-          "sha256": "60f070064471034a9bd652bbbde49824fed6a8b4f37959d60e94c3b61e41c118",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "西班牙文 · 截图04 · 英雄技能",
-          "url": "assets/r99-spanish-shot-04-0e10aed23b1d.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f1e95c09f371c8c529b835a055a1f9c5a49f86e4/ss_f1e95c09f371c8c529b835a055a1f9c5a49f86e4.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "f1e95c09f371c8c529b835a055a1f9c5a49f86e4",
-          "sha256": "0e10aed23b1dd5120ed91e87c1d1541b80d4e21a6a12a1b6b53880a18c056fc5",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "巴西葡萄牙文 · 截图04 · 英雄技能",
-          "url": "assets/r99-brazilian-shot-04-ca9a06d73b29.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/d354412a442f92f0667dd962c45ede4a4b38a635/ss_d354412a442f92f0667dd962c45ede4a4b38a635.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "d354412a442f92f0667dd962c45ede4a4b38a635",
-          "sha256": "ca9a06d73b292c3250579ee54ee4529c633116a8abdf7baac218253e52a65e79",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "俄文 · 截图04 · 英雄技能",
-          "url": "assets/r99-russian-shot-04-8921c1b1577f.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/a58ef3242f8df920f30526f89c7584b890ff8d2f/ss_a58ef3242f8df920f30526f89c7584b890ff8d2f.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "a58ef3242f8df920f30526f89c7584b890ff8d2f",
-          "sha256": "8921c1b1577f82f251605db91697fa73a8bb3e513f11bd7a7e6f0a19cd21aa2a",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "简体中文 · 截图06 · 战报",
-          "url": "assets/r99-schinese-shot-06-613d7a8ec850.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/5238cd1616e00fd79edcaae9183f903e0abdd621/ss_5238cd1616e00fd79edcaae9183f903e0abdd621.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "5238cd1616e00fd79edcaae9183f903e0abdd621",
-          "sha256": "613d7a8ec8508046cbbcf955b644b1fbcad65a99cd4cf72d3e759f24613b7c6f",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "繁体中文 · 截图06 · 战报",
-          "url": "assets/r99-tchinese-shot-06-9b7ee4bad9d3.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/f8ce987e05a67180d4532dc7f7dbc2d6729b6d74/ss_f8ce987e05a67180d4532dc7f7dbc2d6729b6d74.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "f8ce987e05a67180d4532dc7f7dbc2d6729b6d74",
-          "sha256": "9b7ee4bad9d30faee5cfd720d30ef18fbc0afceb209f238bb35729490d39010d",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "日文 · 截图06 · 战报",
-          "url": "assets/r99-japanese-shot-06-0c54ce4b9cbe.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/7815537b2cadb03516952e23716e67544e44795e/ss_7815537b2cadb03516952e23716e67544e44795e.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "7815537b2cadb03516952e23716e67544e44795e",
-          "sha256": "0c54ce4b9cbe1f35f3797595ecf64c36402562df462d87f9226eaeb679ee3d6f",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "韩文 · 截图06 · 战报",
-          "url": "assets/r99-koreana-shot-06-9960958cf646.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/1359ec8976bd382a983b236bfc36a7312d372fd5/ss_1359ec8976bd382a983b236bfc36a7312d372fd5.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "1359ec8976bd382a983b236bfc36a7312d372fd5",
-          "sha256": "9960958cf646d5dc6605b5f6ae0e50ae790163bd3c14768320e5f6eb82cf3de0",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "德文 · 截图06 · 战报",
-          "url": "assets/r99-german-shot-06-08e4b5ffb524.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/629f1fcc2a5105287ed69e45e4fa618c05932aa5/ss_629f1fcc2a5105287ed69e45e4fa618c05932aa5.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "629f1fcc2a5105287ed69e45e4fa618c05932aa5",
-          "sha256": "08e4b5ffb5240880e39c9167d12972dc8bf60af46b26dbee408b6f8e26660aa1",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "法文 · 截图06 · 战报",
-          "url": "assets/r99-french-shot-06-8a54513f76be.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/8164a6d13df481a0cb3662c9f290d027aea70225/ss_8164a6d13df481a0cb3662c9f290d027aea70225.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "8164a6d13df481a0cb3662c9f290d027aea70225",
-          "sha256": "8a54513f76be3e645d0a572ce829937df17c1ce32937fa018da8a2b58092fbb1",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "西班牙文 · 截图06 · 战报",
-          "url": "assets/r99-spanish-shot-06-9814f30edd28.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/ce18e13701b6b54a898b613fc0072bfb229e5b26/ss_ce18e13701b6b54a898b613fc0072bfb229e5b26.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "ce18e13701b6b54a898b613fc0072bfb229e5b26",
-          "sha256": "9814f30edd28fbfced2d7290ddb2048e4e559b5b68249890d37ab7ed0b97b878",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "巴西葡萄牙文 · 截图06 · 战报",
-          "url": "assets/r99-brazilian-shot-06-ff90b0221576.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/e186aca78b0d9133f0f47b5f6c3406e7c525d140/ss_e186aca78b0d9133f0f47b5f6c3406e7c525d140.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "e186aca78b0d9133f0f47b5f6c3406e7c525d140",
-          "sha256": "ff90b0221576faa5426d9be8b25b6b7bdf031eb7340c479b4f81657b586c4671",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "俄文 · 截图06 · 战报",
-          "url": "assets/r99-russian-shot-06-5db7dc1b15ae.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/cf689fb1e16d7ee1a6e64d18b5730e881683a10a/ss_cf689fb1e16d7ee1a6e64d18b5730e881683a10a.1920x1080.jpg?t=1795608424",
-          "steamScreenshotSha1": "cf689fb1e16d7ee1a6e64d18b5730e881683a10a",
-          "sha256": "5db7dc1b15ae602fb200cd3256371c1919c6cdba7d99ace749dae6430bf66f2f",
-          "updated": "2026-11-25"
-        }
-      ],
-      "links": [
-        {
-          "platform": "Steam · 简体中文",
-          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 繁体中文",
-          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 英文",
-          "url": "https://store.steampowered.com/app/4855890/?l=english",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 日文",
-          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 韩文",
-          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 德文",
-          "url": "https://store.steampowered.com/app/4855890/?l=german",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 法文",
-          "url": "https://store.steampowered.com/app/4855890/?l=french",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 西班牙文",
-          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 巴西葡萄牙文",
-          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 俄文",
-          "url": "https://store.steampowered.com/app/4855890/?l=russian",
-          "date": "2026-11-25",
-          "status": "已发布"
-        }
-      ],
-      "source": "output/steam-store-auto-sync/daily-20261125/Codex_商店截图0406发布记录_1125.md",
-      "detailNote": "网页为压缩预览，完整截图见对应Steam商店页。"
-    },
-    {
-      "id": "steam-store-screenshots-20261125-r101",
-      "title": "Steam 商店截图 · 编队布阵9张（修订101）",
-      "category": "封面与视觉",
-      "group": "宣传图",
-      "date": "2026-11-25",
-      "dateBasis": "Steamworks修订101发布（pubresult=success，发布前差异只有9处替换）、Codex专用与steam十语公开页核对（1cc96ecd、3243a557）及11-25匿名十语商店接口核对",
-      "status": "已发布 · 9张 · 已核",
-      "summary": "商店修订101按开发版main 18ed6eee新录：简繁英韩德法西葡俄九语第3张编队布阵，日文第3张不变。",
-      "body": "商店修订101（11-25 22时许）换了9张商店截图：简中、繁中、英、韩、德、法、西、巴葡、俄九种语言的第3张编队布阵，按开发版main 18ed6eee新录；日文第3张保持原图未动。11-25匿名读取十语商店接口：9张新图都在第3位，其余81张与修订99后一致（日文第3张仍为0d17b733）；9张逐张看过，界面语言与所在语言页一致。Codex专用（1cc96ecd）和 steam（3243a557）各自独立核对十语公开页，都通过：九语第3张都是本语新图，日文没动，十语都是9张、顺序不变。网页为1600宽压缩预览，原图见对应Steam商店页。",
-      "cover": "assets/r101-schinese-shot-03-51c42f3a5e10.jpg",
-      "files": [
-        {
-          "name": "简体中文 · 截图03 · 编队布阵",
-          "url": "assets/r101-schinese-shot-03-51c42f3a5e10.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/14d058778cc21cbca1a080259d0404332db53f93/ss_14d058778cc21cbca1a080259d0404332db53f93.1920x1080.jpg?t=1795616060",
-          "steamScreenshotSha1": "14d058778cc21cbca1a080259d0404332db53f93",
-          "sha256": "51c42f3a5e10020191c7ea8c11cc2363a9643d0eceb15019418ba2603dc716b9",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "繁体中文 · 截图03 · 编队布阵",
-          "url": "assets/r101-tchinese-shot-03-2b1e57268f1b.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/80515c6e6d7ae20b9947ee6a0aa8e47eeb62ec2c/ss_80515c6e6d7ae20b9947ee6a0aa8e47eeb62ec2c.1920x1080.jpg?t=1795616060",
-          "steamScreenshotSha1": "80515c6e6d7ae20b9947ee6a0aa8e47eeb62ec2c",
-          "sha256": "2b1e57268f1b6e1552c9f57b4a9048762db5483e7e0160a3191b2eb4239f7250",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "英文 · 截图03 · 编队布阵",
-          "url": "assets/r101-english-shot-03-e16b1eeed9ad.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/4d313d7f39be838e2f0fb92fe959c24a371a93b9/ss_4d313d7f39be838e2f0fb92fe959c24a371a93b9.1920x1080.jpg?t=1795616060",
-          "steamScreenshotSha1": "4d313d7f39be838e2f0fb92fe959c24a371a93b9",
-          "sha256": "e16b1eeed9ad2cb3984eb8c5a7f1213eda5e062143223ac8a25f88ff419b1e9c",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "韩文 · 截图03 · 编队布阵",
-          "url": "assets/r101-koreana-shot-03-5488c0f3a16b.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/fc5df5f30f80b1e30d8c4fd9bb337bac11fe3f0e/ss_fc5df5f30f80b1e30d8c4fd9bb337bac11fe3f0e.1920x1080.jpg?t=1795616060",
-          "steamScreenshotSha1": "fc5df5f30f80b1e30d8c4fd9bb337bac11fe3f0e",
-          "sha256": "5488c0f3a16b7148173ef6fe68add75de367e26ee1aa12b51d78694a20fc7073",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "德文 · 截图03 · 编队布阵",
-          "url": "assets/r101-german-shot-03-3d717ac9c8cc.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/8c8dbb890014d11a391eff41fc22812ff4a224bc/ss_8c8dbb890014d11a391eff41fc22812ff4a224bc.1920x1080.jpg?t=1795616060",
-          "steamScreenshotSha1": "8c8dbb890014d11a391eff41fc22812ff4a224bc",
-          "sha256": "3d717ac9c8cc4b5afbdb53a21f58a3b9980baaac352b9282fe54674a2ef9f088",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "法文 · 截图03 · 编队布阵",
-          "url": "assets/r101-french-shot-03-5025fbd85880.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9df9b85b7b6eb021b04abdeb89b66f54d7e30952/ss_9df9b85b7b6eb021b04abdeb89b66f54d7e30952.1920x1080.jpg?t=1795616060",
-          "steamScreenshotSha1": "9df9b85b7b6eb021b04abdeb89b66f54d7e30952",
-          "sha256": "5025fbd85880bc5c7619e1a97d70b782b710707e9adf2c0170820e03d0047975",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "西班牙文 · 截图03 · 编队布阵",
-          "url": "assets/r101-spanish-shot-03-df155c9ac820.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/2c08d242adcc16ce1c7b42a6d4a56a68751f545f/ss_2c08d242adcc16ce1c7b42a6d4a56a68751f545f.1920x1080.jpg?t=1795616060",
-          "steamScreenshotSha1": "2c08d242adcc16ce1c7b42a6d4a56a68751f545f",
-          "sha256": "df155c9ac82001ecbf02b8794a9a09f9fc8ea32b4e8a9e3aa3568a60b061f1eb",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "巴西葡萄牙文 · 截图03 · 编队布阵",
-          "url": "assets/r101-brazilian-shot-03-ffcb09c94a24.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/9f135570d1bda9d2a56969233efef651978b274e/ss_9f135570d1bda9d2a56969233efef651978b274e.1920x1080.jpg?t=1795616060",
-          "steamScreenshotSha1": "9f135570d1bda9d2a56969233efef651978b274e",
-          "sha256": "ffcb09c94a24a45994c7b54e1d2a6b7ea2b64df98fa139e5b880dd66a18d1860",
-          "updated": "2026-11-25"
-        },
-        {
-          "name": "俄文 · 截图03 · 编队布阵",
-          "url": "assets/r101-russian-shot-03-d2a557a80ef7.jpg",
-          "type": "image",
-          "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/362e83ef55218e6c623eeba11e84fdaeadd2c904/ss_362e83ef55218e6c623eeba11e84fdaeadd2c904.1920x1080.jpg?t=1795616060",
-          "steamScreenshotSha1": "362e83ef55218e6c623eeba11e84fdaeadd2c904",
-          "sha256": "d2a557a80ef7ccccb2e2cc4232fe7d7b8882a99cbaf774a33f1314b477481d2d",
-          "updated": "2026-11-25"
-        }
-      ],
-      "links": [
-        {
-          "platform": "Steam · 简体中文",
-          "url": "https://store.steampowered.com/app/4855890/?l=schinese",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 繁体中文",
-          "url": "https://store.steampowered.com/app/4855890/?l=tchinese",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 英文",
-          "url": "https://store.steampowered.com/app/4855890/?l=english",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 日文",
-          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 韩文",
-          "url": "https://store.steampowered.com/app/4855890/?l=koreana",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 德文",
-          "url": "https://store.steampowered.com/app/4855890/?l=german",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 法文",
-          "url": "https://store.steampowered.com/app/4855890/?l=french",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 西班牙文",
-          "url": "https://store.steampowered.com/app/4855890/?l=spanish",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 巴西葡萄牙文",
-          "url": "https://store.steampowered.com/app/4855890/?l=brazilian",
-          "date": "2026-11-25",
-          "status": "已发布"
-        },
-        {
-          "platform": "Steam · 俄文",
-          "url": "https://store.steampowered.com/app/4855890/?l=russian",
-          "date": "2026-11-25",
-          "status": "已发布"
-        }
-      ],
-      "source": "output/steam-store-auto-sync/daily-20261125/Codex_商店截图03九语发布记录_1125.md",
-      "detailNote": "网页为压缩预览，完整截图见对应Steam商店页。"
     }
   ]
 }
