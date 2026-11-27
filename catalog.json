@@ -15682,10 +15682,9 @@
         {
           "platform": "Threads",
           "url": "https://www.threads.com/@wtty2252026/post/Df6xGm9jvO3",
-          "date": null,
+          "date": "2026-11-20",
           "status": "已公开",
-          "language": "繁中竖屏",
-          "dateNote": "发布日期待核"
+          "language": "繁中竖屏"
         }
       ],
       "source": "output/video-platform-sync/20261121/episode17-public-link-increment.json",
