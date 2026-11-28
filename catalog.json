@@ -20991,6 +20991,79 @@
           }
         ]
       }
+    },
+    {
+      "id": "steam-store-japanese-gif-20261128-r103",
+      "title": "Steam 详情页动图 · 日语十节（修订103）",
+      "category": "封面与视觉",
+      "group": "详情页图片",
+      "date": "2026-11-28",
+      "dateBasis": "Steam 修订103发布回执及公开接口核对",
+      "status": "已发布 · 日语",
+      "summary": "正式版商店日语详情页十节动图改用日语实机界面。",
+      "body": "修订103发布十节日语实机动图，公开接口顺序与视频编码信息已核对；本次没有浏览器播放验收。另发布最低及推荐配置中独立 DirectX 要求项和英文法律说明的移除；最低显卡说明仍提及 DirectX 12。",
+      "files": [
+        {
+          "name": "日语 · 第01节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/c36471ab1f267e38155804086b69d864.webm"
+        },
+        {
+          "name": "日语 · 第02节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/513190f60e2c48ed8c26bdb73e36b5c2.webm"
+        },
+        {
+          "name": "日语 · 第03节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/6a529e7b7edd7e15ef505ea46ec219b0.webm"
+        },
+        {
+          "name": "日语 · 第04节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/75425c4bcefd73e9b56c63aed2b7af2b.webm"
+        },
+        {
+          "name": "日语 · 第05节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/0ec0da83da325c3e87dab70b4d6ab5e0.webm"
+        },
+        {
+          "name": "日语 · 第06节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/f5fc006e484c1fddd16eb369415a60b8.webm"
+        },
+        {
+          "name": "日语 · 第07节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/9b1ef5778657371c064fa70be08c75fe.webm"
+        },
+        {
+          "name": "日语 · 第08节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/e1919431a923c987f8b0714a8ce022c0.webm"
+        },
+        {
+          "name": "日语 · 第09节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/de1192d3565f164047bc4fe9b9896556.webm"
+        },
+        {
+          "name": "日语 · 第10节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/31ecc44e81cae09b9add2efd97cc0a6e.webm"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 日本語",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-28",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261128/japanese-user-package/published-result.json",
+      "detailNote": "以公开素材地址归档；浏览器动效验收待核。"
     }
   ]
 }
