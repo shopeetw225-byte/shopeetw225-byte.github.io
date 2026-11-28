@@ -20994,15 +20994,77 @@
     },
     {
       "id": "steam-store-japanese-gif-20261128-r103",
-      "title": "Steam 详情页动图 · 日语十节（修订103）",
+      "title": "Steam 详情页动图 · 日语十节（修订103–104）",
       "category": "封面与视觉",
       "group": "详情页图片",
       "date": "2026-11-28",
       "dateBasis": "Steam 修订103发布回执及公开接口核对",
       "status": "已发布 · 日语",
-      "summary": "正式版商店日语详情页十节动图改用日语实机界面。",
-      "body": "修订103发布十节日语实机动图，公开接口顺序与视频编码信息已核对；本次没有浏览器播放验收。另发布最低及推荐配置中独立 DirectX 要求项和英文法律说明的移除；最低显卡说明仍提及 DirectX 12。",
+      "summary": "日语十节动图已发布，六节修正版用于改善颜色。",
+      "body": "修订103发布十节日语实机动图，公开接口顺序与视频编码信息已核对；本次没有浏览器播放验收。另发布最低及推荐配置中独立 DirectX 要求项和英文法律说明的移除；最低显卡说明仍提及 DirectX 12。 修订104以原始素材替换六节以修正色彩损失，公开接口十节地址及顺序已核对；浏览器播放验收待核。",
       "files": [
+        {
+          "name": "日语 · 第01节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/afc3afb485d1a66bf73198ad8c95e9bc.webm"
+        },
+        {
+          "name": "日语 · 第02节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/df12461ec0062e81f5055d63b495a94f.webm"
+        },
+        {
+          "name": "日语 · 第03节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/25db406bb4c7a7da43cc95561fc5d46f.webm"
+        },
+        {
+          "name": "日语 · 第04节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/6933beffbf0f8310ebb0f3996ef01801.webm"
+        },
+        {
+          "name": "日语 · 第05节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/0ec0da83da325c3e87dab70b4d6ab5e0.webm"
+        },
+        {
+          "name": "日语 · 第06节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/f5fc006e484c1fddd16eb369415a60b8.webm"
+        },
+        {
+          "name": "日语 · 第07节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/2492aa57655298e16086c7507e0c387f.webm"
+        },
+        {
+          "name": "日语 · 第08节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/d3e5cf401d790fc973a7a7b295369d6d.webm"
+        },
+        {
+          "name": "日语 · 第09节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/de1192d3565f164047bc4fe9b9896556.webm"
+        },
+        {
+          "name": "日语 · 第10节",
+          "type": "video",
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/31ecc44e81cae09b9add2efd97cc0a6e.webm"
+        }
+      ],
+      "links": [
+        {
+          "platform": "Steam · 日本語",
+          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
+          "date": "2026-11-28",
+          "status": "已发布"
+        }
+      ],
+      "source": "output/steam-store-auto-sync/daily-20261128/japanese-user-package/published-result.json",
+      "detailNote": "以公开素材地址归档；浏览器动效验收待核。",
+      "previousRevision103Files": [
         {
           "name": "日语 · 第01节",
           "type": "video",
@@ -21054,16 +21116,7 @@
           "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855890/extras/31ecc44e81cae09b9add2efd97cc0a6e.webm"
         }
       ],
-      "links": [
-        {
-          "platform": "Steam · 日本語",
-          "url": "https://store.steampowered.com/app/4855890/?l=japanese",
-          "date": "2026-11-28",
-          "status": "已发布"
-        }
-      ],
-      "source": "output/steam-store-auto-sync/daily-20261128/japanese-user-package/published-result.json",
-      "detailNote": "以公开素材地址归档；浏览器动效验收待核。"
+      "sourceRevision104": "output/steam-store-auto-sync/daily-20261128/japanese-user-package/recolor-published.json"
     }
   ]
 }
